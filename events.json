@@ -39,7 +39,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -81,7 +82,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -123,7 +125,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -164,7 +167,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -206,7 +210,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -248,7 +253,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -289,7 +295,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -357,7 +364,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -398,7 +406,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -440,7 +449,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -482,7 +492,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -524,7 +535,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -566,7 +578,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "coords": [
@@ -608,7 +621,8 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   },
   {
     "id": "inde-train-hydrogene",
@@ -650,6 +664,7 @@
         },
         "active": true
       }
-    ]
+    ],
+    "week": "2026-W29"
   }
 ]

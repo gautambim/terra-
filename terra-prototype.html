@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>TERRA — Jumeau numérique de la Terre</title>
+<link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.css" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #05070d;
+    --panel: rgba(12,16,26,0.72);
+    --panel-border: rgba(255,255,255,0.08);
+    --text-hi: #eef1f6;
+    --text-lo: #93a0b4;
+    --gold: #e8b94e;
+    --teal: #4fd1c5;
+    --grey: #6b7280;
+    --accent-line: #1b3a4b;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;height:100%;background:var(--bg);overflow:hidden;
+    font-family:'Inter',sans-serif;color:var(--text-hi);}
+  #map{position:absolute;inset:0;}
+
+  #vignette{position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(ellipse at center, rgba(0,0,0,0) 55%, rgba(0,0,0,0.55) 100%);
+    z-index:2;}
+
+  /* draggable floating windows */
+  .drag-handle{cursor:grab;display:flex;align-items:center;justify-content:center;
+    color:var(--text-lo);font-size:11px;letter-spacing:3px;user-select:none;padding:2px 0 6px;
+    touch-action:none;}
+  .drag-handle:active{cursor:grabbing;}
+  .draggable.dragging{opacity:0.85;}
+
+  .panel-drag-handle{cursor:grab;color:var(--text-lo);font-size:14px;padding:4px 8px;
+    user-select:none;touch-action:none;}
+  .panel-drag-handle:active{cursor:grabbing;}
+  .panel-top-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px;}
+
+  .panel.floating-mode{
+    top:80px;left:calc(100vw - 410px);right:auto;bottom:auto;
+    height:auto;max-height:78vh;border-radius:14px;
+    box-shadow:0 24px 70px rgba(0,0,0,0.55);transform:none;
+    transition:opacity 0.3s ease;opacity:0;pointer-events:none;}
+  .panel.floating-mode.open{opacity:1;pointer-events:auto;}
+
+  .fullscreen-btn.reset-layout-btn{font-size:13px;}
+
+  .week-picker{position:absolute;top:100px;right:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:10px;padding:10px;min-width:170px;}
+  .week-picker select{width:100%;background:none;border:none;color:var(--text-hi);
+    font-family:'JetBrains Mono',monospace;font-size:12px;padding:4px;cursor:pointer;}
+  .week-picker .wp-title{font-family:'Space Grotesk',sans-serif;font-size:10.5px;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--text-lo);margin-bottom:8px;}
+
+  .edge-tab{position:fixed;z-index:6;width:30px;height:44px;display:none;align-items:center;
+    justify-content:center;background:var(--panel);border:1px solid var(--panel-border);
+    color:var(--text-lo);cursor:pointer;backdrop-filter:blur(14px);font-size:13px;
+    transition:color 0.15s;}
+  .edge-tab:hover{color:var(--text-hi);}
+  .edge-tab.edge-left{left:0;border-radius:0 8px 8px 0;border-left:none;}
+  .edge-tab.edge-right{right:0;border-radius:8px 0 0 8px;border-right:none;}
+
+  .filters{position:absolute;top:100px;left:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:10px;padding:10px;display:flex;flex-direction:column;gap:2px;}
+  .filters .filter-btn{display:flex;align-items:center;gap:9px;background:none;border:none;
+    color:var(--text-lo);font-family:'Inter',sans-serif;font-size:12.5px;text-align:left;
+    padding:8px 10px;border-radius:7px;cursor:pointer;transition:background 0.15s, color 0.15s;}
+  .filters .filter-btn:hover{background:rgba(255,255,255,0.05);color:var(--text-hi);}
+  .filters .filter-btn.active{background:rgba(255,255,255,0.09);color:var(--text-hi);}
+  .filters .filter-btn .sw{width:18px;font-size:13px;text-align:center;flex-shrink:0;}
+
+  .beam{position:absolute;pointer-events:none;z-index:4;}
+  .beam .line{position:absolute;bottom:0;left:50%;width:2px;height:0;
+    background:linear-gradient(to top, currentColor, rgba(255,255,255,0));
+    transform:translateX(-50%);transition:height 0.9s cubic-bezier(0.22,1,0.36,1);
+    box-shadow:0 0 8px currentColor;}
+  .beam.show .line{height:130px;}
+  .beam .symbol{position:absolute;bottom:130px;left:50%;transform:translate(-50%,0) scale(0.4);
+    width:52px;height:52px;border-radius:50%;background:rgba(10,14,22,0.85);
+    border:1.5px solid currentColor;display:flex;align-items:center;justify-content:center;
+    font-size:26px;line-height:1;opacity:0;transition:opacity 0.4s ease 0.5s, transform 0.4s ease 0.5s;
+    box-shadow:0 0 16px currentColor;animation:symbolFloat 2.4s ease-in-out infinite;
+    pointer-events:auto;cursor:pointer;}
+  .beam.show .symbol{opacity:1;transform:translate(-50%,0) scale(1);}
+  @keyframes symbolFloat{
+    0%,100%{margin-top:0;}
+    50%{margin-top:-6px;}
+  }
+
+  .brand{position:absolute;top:24px;left:28px;z-index:5;display:flex;align-items:baseline;gap:10px;}
+  .brand .mark{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:20px;letter-spacing:0.14em;}
+  .brand .sub{font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:0.08em;color:var(--text-lo);
+    border-left:1px solid var(--panel-border);padding-left:10px;}
+
+  .legend{position:absolute;bottom:24px;left:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:10px;padding:12px 16px;font-size:12px;color:var(--text-lo);}
+  .legend .row{display:flex;align-items:center;gap:8px;margin:5px 0;}
+  .legend .dot{width:7px;height:7px;border-radius:50%;flex-shrink:0;}
+  .legend .title{font-family:'Space Grotesk',sans-serif;font-size:11px;letter-spacing:0.1em;
+    color:var(--text-hi);text-transform:uppercase;margin-bottom:8px;}
+
+  .zone-badge{position:absolute;top:24px;right:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:999px;padding:8px 16px;font-family:'JetBrains Mono',monospace;font-size:11px;
+    color:var(--text-lo);display:flex;align-items:center;gap:8px;}
+  .zone-badge .pulse{width:6px;height:6px;border-radius:50%;background:var(--gold);
+    box-shadow:0 0 0 0 rgba(232,185,78,0.6);animation:badgepulse 2s infinite;}
+  @keyframes badgepulse{
+    0%{box-shadow:0 0 0 0 rgba(232,185,78,0.5);}
+    70%{box-shadow:0 0 0 8px rgba(232,185,78,0);}
+    100%{box-shadow:0 0 0 0 rgba(232,185,78,0);}
+  }
+
+  .lang-switch{position:absolute;top:70px;right:28px;z-index:5;display:flex;gap:6px;}
+  .lang-btn{background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    color:var(--text-lo);font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.05em;
+    padding:6px 12px;border-radius:999px;cursor:pointer;transition:color 0.15s, background 0.15s;}
+  .lang-btn:hover{color:var(--text-hi);}
+  .lang-btn.active{color:var(--text-hi);background:rgba(255,255,255,0.12);}
+
+  .panel{position:absolute;top:0;right:0;height:100%;width:380px;max-width:88vw;
+    background:var(--panel);border-left:1px solid var(--panel-border);backdrop-filter:blur(20px);
+    z-index:10;transform:translateX(100%);transition:transform 0.45s cubic-bezier(0.22,1,0.36,1);
+    display:flex;flex-direction:column;padding:28px 26px;overflow-y:auto;touch-action:pan-y;}
+  .panel.open{transform:translateX(0);}
+  .panel.dragging{transition:none;}
+  .panel-close{background:none;border:1px solid var(--panel-border);color:var(--text-lo);
+    width:30px;height:30px;border-radius:50%;cursor:pointer;font-size:14px;line-height:1;flex-shrink:0;}
+  .panel-close:hover{color:var(--text-hi);border-color:var(--text-lo);}
+
+  .status-badge{display:inline-flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;
+    font-size:10.5px;letter-spacing:0.08em;text-transform:uppercase;padding:5px 10px;border-radius:999px;
+    border:1px solid currentColor;margin-bottom:16px;width:fit-content;}
+  .status-badge .dot{width:7px;height:7px;border-radius:50%;background:currentColor;}
+  .status-badge.severe{border-color:#ef4444;}
+
+  .panel h2{font-family:'Space Grotesk',sans-serif;font-size:22px;line-height:1.25;margin:0 0 6px;}
+  .panel .place{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-lo);margin-bottom:18px;}
+  .panel .summary{font-size:14px;line-height:1.6;color:#c7cede;margin-bottom:22px;}
+
+  .timeline{border-left:1px solid var(--panel-border);padding-left:16px;display:flex;flex-direction:column;gap:16px;}
+  .timeline .step{position:relative;}
+  .timeline .step::before{content:'';position:absolute;left:-20.5px;top:3px;width:7px;height:7px;
+    border-radius:50%;background:var(--text-lo);}
+  .timeline .step.active::before{background:var(--gold);box-shadow:0 0 6px var(--gold);}
+  .timeline .step .t{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text-lo);margin-bottom:2px;}
+  .timeline .step .d{font-size:13px;color:var(--text-hi);line-height:1.5;}
+
+  .panel-footer{margin-top:24px;padding-top:16px;border-top:1px solid var(--panel-border);
+    font-size:11px;color:var(--text-lo);line-height:1.6;}
+
+  .related{margin-top:20px;padding-top:16px;border-top:1px solid var(--panel-border);}
+  .related .related-title{font-family:'Space Grotesk',sans-serif;font-size:11px;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--text-lo);margin-bottom:10px;}
+  .related-link{display:block;width:100%;text-align:left;background:rgba(255,255,255,0.04);
+    border:1px solid var(--panel-border);color:var(--text-hi);font-family:'Inter',sans-serif;
+    font-size:13px;padding:10px 12px;border-radius:8px;cursor:pointer;margin-bottom:6px;
+    transition:background 0.15s;}
+  .related-link:hover{background:rgba(255,255,255,0.09);}
+
+  .fullscreen-btn{position:absolute;bottom:74px;right:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:999px;width:40px;height:40px;display:flex;align-items:center;justify-content:center;
+    color:var(--text-lo);cursor:pointer;font-size:15px;transition:color 0.15s;}
+  .fullscreen-btn:hover{color:var(--text-hi);}
+  .beam-toggle-btn.off{color:var(--text-lo);opacity:0.5;}
+
+  .hint{position:absolute;bottom:24px;right:28px;z-index:5;
+    font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-lo);
+    background:var(--panel);border:1px solid var(--panel-border);border-radius:8px;padding:8px 14px;
+    backdrop-filter:blur(14px);}
+</style>
+</head>
+<body>
+
+<div id="map"></div>
+<div id="vignette"></div>
+
+<div class="brand">
+  <div class="mark">TERRA</div>
+  <div class="sub" id="brandSub"></div>
+</div>
+
+<div class="zone-badge draggable" id="zoneBadgeBox"><span class="drag-handle" data-drag-for="zoneBadgeBox">⠿</span><span class="pulse"></span> <span id="zoneBadgeText"></span></div>
+
+<div class="lang-switch draggable" id="langSwitch"><span class="drag-handle" data-drag-for="langSwitch">⠿</span></div>
+
+<div class="week-picker draggable" id="weekPickerBox">
+  <span class="drag-handle" data-drag-for="weekPickerBox">⠿</span>
+  <div class="wp-title" id="weekPickerTitle"></div>
+  <select id="weekSelect"></select>
+</div>
+
+<div class="filters draggable" id="filters"><span class="drag-handle" data-drag-for="filters">⠿</span></div>
+
+<div class="legend draggable" id="legendBox">
+  <span class="drag-handle" data-drag-for="legendBox">⠿</span>
+  <div class="title" id="legendTitle"></div>
+  <div class="row"><span class="dot" style="background:#f2f4f8;border:1px solid #444"></span><span id="legBrut"></span></div>
+  <div class="row"><span class="dot" style="background:var(--teal)"></span><span id="legRecoup"></span></div>
+  <div class="row"><span class="dot" style="background:#3ecf6e"></span><span id="legConfirme"></span></div>
+  <div class="row"><span class="dot" style="background:#2b2f38;border:1px solid #555"></span><span id="legDementi"></span></div>
+  <div class="row" style="margin-top:8px;padding-top:8px;border-top:1px solid var(--panel-border)">
+    <span class="dot" style="background:none;border:1.5px solid #ef4444"></span><span id="legSevere"></span></div>
+</div>
+
+<div class="hint" id="hintText"></div>
+
+<button class="fullscreen-btn reset-layout-btn" id="resetLayoutBtn" style="bottom:218px;">⌂</button>
+
+<button class="fullscreen-btn beam-toggle-btn" id="beamToggleBtn" style="bottom:122px;">✦</button>
+
+<button class="fullscreen-btn" id="resetViewBtn" style="bottom:170px;">⟲</button>
+
+<button class="fullscreen-btn" id="fullscreenBtn">⛶</button>
+
+<div class="panel" id="panel">
+  <div class="panel-top-row">
+    <span class="panel-drag-handle" id="panelDragHandle">⠿</span>
+    <button class="panel-close" id="panelClose">✕</button>
+  </div>
+  <div id="panelBody"></div>
+</div>
+
+<div id="beams"></div>
+
+<script>
+/* =====================================================================
+   TERRA — plan du fichier
+   1. Carte Mapbox (init, brume, rotation automatique)
+   2. I18N — textes d'interface en fr / en / es
+   3. Catégories (icônes, couleurs) et statuts (couleurs)
+   4. EVENTS — les actualités. C'est LA SEULE section à modifier
+      pour ajouter/retirer une actu (voir le modèle juste avant le tableau).
+      Tout le reste (points sur le globe, rayons, filtres, panneau,
+      traductions) se construit automatiquement à partir de ce tableau.
+   5. Panneau de détail (openPanel) + rendu de l'interface (renderUI)
+   6. Sélecteur de langue + filtres de catégorie (construits dynamiquement)
+   7. Initialisation de la carte : source de données, couches, rayons,
+      interactions (clic, survol, occultation par le globe)
+   ===================================================================== */
+
+mapboxgl.accessToken = 'pk.eyJ1IjoiZ2F1dGhpZXIyMTUiLCJhIjoiY21yb2QwaXFvM2JudjJ6cGRhZ255eTRmcSJ9.YQT7L62AeQAyNpVhYcIgVA';
+
+const map = new mapboxgl.Map({
+  container: 'map',
+  style: 'mapbox://styles/mapbox/satellite-v9',
+  projection: 'globe',
+  zoom: 1.5,
+  center: [10, 15],
+  pitch: 0,
+  attributionControl: false
+});
+
+map.on('style.load', () => {
+  map.setFog({
+    'range': [0.5, 10],
+    'color': '#0a1420',
+    'high-color': '#0d2b45',
+    'space-color': '#05070d',
+    'star-intensity': 0.35
+  });
+});
+
+let userInteracted = false;
+function spin(){
+  if(!userInteracted){
+    const c = map.getCenter();
+    c.lng -= 0.05;
+    map.setCenter(c);
+  }
+  requestAnimationFrame(spin);
+}
+['mousedown','touchstart','wheel'].forEach(evt=>{
+  map.getCanvas().addEventListener(evt, () => { userInteracted = true; });
+});
+
+// ---- 2. I18N — textes d'interface ----
+const I18N = {
+  fr: {
+    subtitle: 'JUMEAU NUMÉRIQUE · PROTOTYPE V0',
+    zoneBadge: 'COUVERTURE : CARAÏBES, EUROPE, ASIE, AFRIQUE, AMÉRIQUES, OCÉANIE (PARTIELLE)',
+    legendTitle: 'Niveau de vérification',
+    hint: 'Fais glisser pour tourner le globe · clique un point',
+    fullscreenTitle: 'Plein écran',
+    resetTitle: 'Recentrer le globe',
+    resetLayoutTitle: 'Réinitialiser la disposition des fenêtres',
+    weekPickerTitle: 'Semaine affichée',
+    thisWeek: 'Cette semaine',
+    beamToggleTitle: 'Afficher / masquer les rayons lumineux',
+    sourcePrefix: 'Source :',
+    relatedTitle: 'Actus liées',
+    sourceDisclaimer: 'Ce résumé reformule uniquement les faits rapportés par cette source ; aucune information n\'est ajoutée. Vérifie toujours auprès de la source d\'origine avant de considérer l\'information comme définitive.',
+    grave: 'Grave',
+    categories: { tous:'Tout', securite:'Sécurité & faits graves', justice:'Justice', economie:'Économie', environnement:'Environnement', sport:'Sport & culture' },
+    status: { brut:'Vient de tomber', recoupement:'En recoupement', confirme:'Confirmée', dementi:'Démentie / infox avérée' },
+    severeLegend: 'Événement grave'
+  },
+  en: {
+    subtitle: 'DIGITAL TWIN · PROTOTYPE V0',
+    zoneBadge: 'COVERAGE: CARIBBEAN, EUROPE, ASIA, AFRICA, THE AMERICAS, OCEANIA (PARTIAL)',
+    legendTitle: 'Verification level',
+    hint: 'Drag to rotate the globe · click a point',
+    fullscreenTitle: 'Fullscreen',
+    resetTitle: 'Recenter the globe',
+    resetLayoutTitle: 'Reset window layout',
+    weekPickerTitle: 'Week shown',
+    thisWeek: 'This week',
+    beamToggleTitle: 'Show / hide light beams',
+    sourcePrefix: 'Source:',
+    relatedTitle: 'Related events',
+    sourceDisclaimer: 'This summary only rephrases the facts reported by this source; no information has been added. Always check the original source before treating this information as final.',
+    grave: 'Serious',
+    categories: { tous:'All', securite:'Security & serious events', justice:'Justice', economie:'Economy', environnement:'Environment', sport:'Sports & culture' },
+    status: { brut:'Just in', recoupement:'Being cross-checked', confirme:'Confirmed', dementi:'Debunked / false info' },
+    severeLegend: 'Serious event'
+  },
+  es: {
+    subtitle: 'GEMELO DIGITAL · PROTOTIPO V0',
+    zoneBadge: 'COBERTURA: CARIBE, EUROPA, ASIA, ÁFRICA, AMÉRICAS, OCEANÍA (PARCIAL)',
+    legendTitle: 'Nivel de verificación',
+    hint: 'Arrastra para girar el globo · haz clic en un punto',
+    fullscreenTitle: 'Pantalla completa',
+    resetTitle: 'Recentrar el globo',
+    resetLayoutTitle: 'Restablecer la disposición de las ventanas',
+    weekPickerTitle: 'Semana mostrada',
+    thisWeek: 'Esta semana',
+    beamToggleTitle: 'Mostrar / ocultar los rayos de luz',
+    sourcePrefix: 'Fuente:',
+    relatedTitle: 'Eventos relacionados',
+    sourceDisclaimer: 'Este resumen solo reformula los hechos reportados por esta fuente; no se ha añadido ninguna información. Verifica siempre con la fuente original antes de considerar esta información como definitiva.',
+    grave: 'Grave',
+    categories: { tous:'Todo', securite:'Seguridad y hechos graves', justice:'Justicia', economie:'Economía', environnement:'Medio ambiente', sport:'Deporte y cultura' },
+    status: { brut:'Recién llegado', recoupement:'En verificación cruzada', confirme:'Confirmado', dementi:'Desmentido / bulo' },
+    severeLegend: 'Evento grave'
+  }
+};
+let currentLang = 'fr';
+
+// ---- 3. Catégories & statuts ----
+const CATEGORIES_ORDER = ['tous','securite','justice','economie','environnement','sport'];
+const CATEGORY_ICON = {
+  securite: '⚠', justice: '⚖', economie: '€', environnement: '🌱', sport: '🚴', tous: '◎'
+};
+const CATEGORY_COLOR = {
+  securite: '#f59e0b', justice: '#a78bfa', economie: '#34d399', environnement: '#4ade80', sport: '#38bdf8'
+};
+let activeCategory = 'tous';
+let beamsEnabled = true;
+let activeWeek = null;
+
+const STATUS_COLOR = {
+  brut: '#f2f4f8', recoupement: '#4fd1c5', confirme: '#3ecf6e', dementi: '#2b2f38'
+};
+
+// ---- 4. EVENTS ----
+/* -----------------------------------------------------------------------
+   EVENTS — les actus vivent maintenant dans le fichier events.json (à côté
+   de ce fichier HTML), plus dans ce fichier. Pour ajouter/modifier une
+   actu à la main : ouvrir events.json et suivre ce modèle exact pour
+   chaque entrée :
+
+   {
+     "id": "identifiant-court-unique",
+     "coords": [longitude, latitude],
+     "status": "brut" | "recoupement" | "confirme" | "dementi",
+     "severe": true | false,
+     "category": "securite" | "justice" | "economie" | "environnement" | "sport",
+     "icon": "🔥",
+     "source": "Nom du média",
+     "related": ["autre-id-1"],
+     "place":   { "fr":"…", "en":"…", "es":"…" },
+     "title":   { "fr":"…", "en":"…", "es":"…" },
+     "summary": { "fr":"…", "en":"…", "es":"…" },
+     "timeline": [
+       { "t": { "fr":"JJ/MM/AAAA", "en":"JJ/MM/AAAA", "es":"JJ/MM/AAAA" },
+         "d": { "fr":"…", "en":"…", "es":"…" },
+         "active": true }
+     ]
+   }
+
+   C'est ce fichier events.json que la routine automatisée met à jour.
+   Rien d'autre à toucher dans ce fichier HTML : le point sur le globe,
+   son rayon lumineux, sa présence dans les filtres et le contenu du
+   panneau se génèrent tous automatiquement à partir de events.json.
+----------------------------------------------------------------------- */
+let events = [];
+
+async function loadEvents(){
+  const res = await fetch('events.json');
+  events = await res.json();
+}
+
+let currentOpenEvent = null;
+
+const panel = document.getElementById('panel');
+const panelBody = document.getElementById('panelBody');
+const beamsContainer = document.getElementById('beams');
+
+document.getElementById('panelClose').addEventListener('click', () => {
+  panel.classList.remove('open');
+  currentOpenEvent = null;
+});
+
+document.getElementById('beamToggleBtn').addEventListener('click', (e) => {
+  beamsEnabled = !beamsEnabled;
+  e.currentTarget.classList.toggle('off', !beamsEnabled);
+});
+
+document.getElementById('resetViewBtn').addEventListener('click', () => {
+  userInteracted = true;
+  panel.classList.remove('open');
+  currentOpenEvent = null;
+  map.flyTo({ center: [10, 15], zoom: 1.5, pitch: 0, bearing: 0, duration: 1500 });
+});
+
+document.getElementById('fullscreenBtn').addEventListener('click', () => {
+  if (!document.fullscreenElement) {
+    document.documentElement.requestFullscreen().catch(() => {});
+  } else {
+    document.exitFullscreen();
+  }
+});
+
+// ---- 5. Panneau de détail + rendu de l'interface ----
+function openPanel(evt){
+  currentOpenEvent = evt;
+  const t = I18N[currentLang];
+  const color = STATUS_COLOR[evt.status];
+  const relatedEvents = (evt.related || []).map(id => events.find(e => e.id === id)).filter(Boolean);
+  panelBody.innerHTML = `
+    <div class="status-badge${evt.severe ? ' severe' : ''}" style="color:${color}"><span class="dot"></span>${t.status[evt.status]}${evt.severe ? ' · <span style="color:#ef4444">' + t.grave + '</span>' : ''}</div>
+    <h2>${evt.title[currentLang]}</h2>
+    <div class="place">${evt.place[currentLang].toUpperCase()}</div>
+    <div class="summary">${evt.summary[currentLang]}</div>
+    <div class="timeline">
+      ${evt.timeline.map(step => `
+        <div class="step ${step.active ? 'active' : ''}">
+          <div class="t">${step.t[currentLang]}</div>
+          <div class="d">${step.d[currentLang]}</div>
+        </div>`).join('')}
+    </div>
+    <div class="panel-footer">${t.sourcePrefix} ${evt.source}. ${t.sourceDisclaimer}</div>
+    ${relatedEvents.length ? `
+    <div class="related">
+      <div class="related-title">${t.relatedTitle}</div>
+      ${relatedEvents.map(r => `<button class="related-link" data-related-id="${r.id}">${r.title[currentLang]}</button>`).join('')}
+    </div>` : ''}
+  `;
+  panel.classList.add('open');
+  panelBody.querySelectorAll('.related-link').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const target = events.find(e => e.id === btn.dataset.relatedId);
+      if (target) openPanel(target);
+    });
+  });
+  map.flyTo({ center: evt.coords, zoom: 9, pitch: 0, duration: 1800 });
+}
+
+function renderUI(){
+  const t = I18N[currentLang];
+  document.getElementById('brandSub').textContent = t.subtitle;
+  document.getElementById('zoneBadgeText').textContent = t.zoneBadge;
+  document.getElementById('legendTitle').textContent = t.legendTitle;
+  document.getElementById('legBrut').textContent = t.status.brut;
+  document.getElementById('legRecoup').textContent = t.status.recoupement;
+  document.getElementById('legConfirme').textContent = t.status.confirme;
+  document.getElementById('legDementi').textContent = t.status.dementi;
+  document.getElementById('legSevere').textContent = t.severeLegend;
+  document.getElementById('hintText').textContent = t.hint;
+  document.getElementById('fullscreenBtn').title = t.fullscreenTitle;
+  document.getElementById('resetViewBtn').title = t.resetTitle;
+  document.getElementById('resetLayoutBtn').title = t.resetLayoutTitle;
+  document.getElementById('weekPickerTitle').textContent = t.weekPickerTitle;
+  document.getElementById('beamToggleBtn').title = t.beamToggleTitle;
+
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.querySelector('.label').textContent = t.categories[btn.dataset.cat];
+  });
+
+  if (panel.classList.contains('open') && currentOpenEvent) {
+    openPanel(currentOpenEvent);
+  }
+}
+
+function setLanguage(lang){
+  currentLang = lang;
+  document.querySelectorAll('.lang-btn').forEach(b => b.classList.toggle('active', b.dataset.lang === lang));
+  renderUI();
+}
+
+// ---- 6. Sélecteur de langue + filtres de catégorie ----
+const langSwitchEl = document.getElementById('langSwitch');
+[['fr','FR'],['en','EN'],['es','ES']].forEach(([code,label]) => {
+  const b = document.createElement('button');
+  b.className = 'lang-btn' + (code === currentLang ? ' active' : '');
+  b.dataset.lang = code;
+  b.textContent = label;
+  b.addEventListener('click', () => setLanguage(code));
+  langSwitchEl.appendChild(b);
+});
+
+const filtersEl = document.getElementById('filters');
+CATEGORIES_ORDER.forEach(catId => {
+  const btn = document.createElement('button');
+  btn.className = 'filter-btn' + (catId === activeCategory ? ' active' : '');
+  btn.dataset.cat = catId;
+  btn.innerHTML = `<span class="sw" style="color:${CATEGORY_COLOR[catId] || 'inherit'}">${CATEGORY_ICON[catId]}</span><span class="label"></span>`;
+  btn.addEventListener('click', () => applyCategoryFilter(catId));
+  filtersEl.appendChild(btn);
+});
+
+const FILTERABLE_LAYERS = ['evt-hitzone', 'evt-halo', 'evt-core'];
+
+function applyCategoryFilter(catId){
+  activeCategory = catId;
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.cat === catId);
+  });
+
+  if (!map.getLayer('evt-core')) return;
+  const catFilter = catId === 'tous' ? null : ['==', ['get', 'category'], catId];
+  FILTERABLE_LAYERS.forEach(id => map.setFilter(id, catFilter));
+
+  const severeBase = ['==', ['get', 'severe'], 1];
+  map.setFilter('evt-severe', catFilter ? ['all', severeBase, catFilter] : severeBase);
+}
+
+renderUI();
+
+// ---------------------------------------------------------------------------
+// Fenêtres déplaçables — l'utilisateur peut glisser filtres, légende, badge
+// de zone, langues et le panneau de détail où il veut. Position mémorisée.
+// ---------------------------------------------------------------------------
+const LAYOUT_KEYS = [];
+const draggableRegistry = [];
+
+function makeDraggable(el, handle, storageKey, tabIcon){
+  LAYOUT_KEYS.push(storageKey, storageKey + ':collapsed');
+
+  const tab = document.createElement('button');
+  tab.className = 'edge-tab';
+  tab.textContent = tabIcon || '⠿';
+  document.body.appendChild(tab);
+  draggableRegistry.push({ el, tab, storageKey });
+
+  function collapseTo(edge, posY){
+    el.style.display = 'none';
+    tab.style.display = 'flex';
+    tab.classList.toggle('edge-left', edge === 'left');
+    tab.classList.toggle('edge-right', edge === 'right');
+    tab.style.top = Math.max(8, Math.min(window.innerHeight - 52, posY)) + 'px';
+    localStorage.setItem(storageKey + ':collapsed', JSON.stringify({ edge, posY }));
+  }
+  function expand(atTop){
+    el.style.display = '';
+    tab.style.display = 'none';
+    const edge = tab.classList.contains('edge-left') ? 'left' : 'right';
+    const rect = el.getBoundingClientRect();
+    el.style.top = Math.max(8, Math.min(window.innerHeight - rect.height - 8, atTop)) + 'px';
+    el.style.left = edge === 'left' ? '20px' : (window.innerWidth - rect.width - 20) + 'px';
+    el.style.right = 'auto'; el.style.bottom = 'auto';
+    localStorage.removeItem(storageKey + ':collapsed');
+    localStorage.setItem(storageKey, JSON.stringify({ left: parseFloat(el.style.left), top: parseFloat(el.style.top) }));
+  }
+  tab.addEventListener('click', () => expand(parseFloat(tab.style.top)));
+
+  try {
+    const collapsed = JSON.parse(localStorage.getItem(storageKey + ':collapsed') || 'null');
+    if (collapsed) {
+      collapseTo(collapsed.edge, collapsed.posY);
+    } else {
+      const saved = JSON.parse(localStorage.getItem(storageKey) || 'null');
+      if (saved) {
+        el.style.left = saved.left + 'px';
+        el.style.top = saved.top + 'px';
+        el.style.right = 'auto';
+        el.style.bottom = 'auto';
+      }
+    }
+  } catch(e){}
+
+  let dragging = false, startX, startY, origLeft, origTop;
+
+  handle.addEventListener('pointerdown', (e) => {
+    dragging = true;
+    handle.setPointerCapture(e.pointerId);
+    const rect = el.getBoundingClientRect();
+    origLeft = rect.left; origTop = rect.top;
+    startX = e.clientX; startY = e.clientY;
+    el.style.left = origLeft + 'px';
+    el.style.top = origTop + 'px';
+    el.style.right = 'auto';
+    el.style.bottom = 'auto';
+    el.classList.add('dragging');
+    e.preventDefault();
+  });
+  handle.addEventListener('pointermove', (e) => {
+    if (!dragging) return;
+    const newLeft = origLeft + (e.clientX - startX);
+    const newTop = Math.max(4, Math.min(window.innerHeight - el.offsetHeight - 4, origTop + (e.clientY - startY)));
+    el.style.left = newLeft + 'px';
+    el.style.top = newTop + 'px';
+  });
+  function endDrag(e){
+    if (!dragging) return;
+    dragging = false;
+    el.classList.remove('dragging');
+    const rect = el.getBoundingClientRect();
+    const offLeft = -rect.left;
+    const offRight = rect.right - window.innerWidth;
+    if (offLeft > rect.width * 0.55) {
+      collapseTo('left', rect.top);
+    } else if (offRight > rect.width * 0.55) {
+      collapseTo('right', rect.top);
+    } else {
+      localStorage.setItem(storageKey, JSON.stringify({ left: parseFloat(el.style.left), top: parseFloat(el.style.top) }));
+    }
+  }
+  handle.addEventListener('pointerup', endDrag);
+  handle.addEventListener('pointercancel', endDrag);
+}
+
+makeDraggable(document.getElementById('filters'), document.querySelector('#filters .drag-handle'), 'layout:filters', '☰');
+makeDraggable(document.getElementById('legendBox'), document.querySelector('#legendBox .drag-handle'), 'layout:legend', '●');
+makeDraggable(document.getElementById('zoneBadgeBox'), document.querySelector('#zoneBadgeBox .drag-handle'), 'layout:zoneBadge', '◍');
+makeDraggable(document.getElementById('langSwitch'), document.querySelector('#langSwitch .drag-handle'), 'layout:langSwitch', 'A');
+makeDraggable(document.getElementById('weekPickerBox'), document.querySelector('#weekPickerBox .drag-handle'), 'layout:weekPicker', '◷');
+
+// panel : glisser repositionne (mode flottant) ; glisser loin vers la droite ferme
+(function setupPanelDrag(){
+  const panelEl = document.getElementById('panel');
+  const handle = document.getElementById('panelDragHandle');
+  let dragging = false, startX, startY, origLeft, origTop;
+
+  try {
+    const saved = JSON.parse(localStorage.getItem('layout:panel') || 'null');
+    if (saved) {
+      panelEl.classList.add('floating-mode');
+      panelEl.style.left = saved.left + 'px';
+      panelEl.style.top = saved.top + 'px';
+    }
+  } catch(e){}
+
+  handle.addEventListener('pointerdown', (e) => {
+    dragging = true;
+    handle.setPointerCapture(e.pointerId);
+    if (!panelEl.classList.contains('floating-mode')) {
+      const rect = panelEl.getBoundingClientRect();
+      panelEl.classList.add('floating-mode');
+      panelEl.style.left = rect.left + 'px';
+      panelEl.style.top = rect.top + 'px';
+    }
+    const rect = panelEl.getBoundingClientRect();
+    origLeft = rect.left; origTop = rect.top;
+    startX = e.clientX; startY = e.clientY;
+    e.preventDefault();
+  });
+  handle.addEventListener('pointermove', (e) => {
+    if (!dragging) return;
+    const dx = e.clientX - startX;
+    let newLeft = origLeft + dx;
+    let newTop = origTop + (e.clientY - startY);
+    newLeft = Math.max(4, Math.min(window.innerWidth - panelEl.offsetWidth - 4, newLeft));
+    newTop = Math.max(4, Math.min(window.innerHeight - panelEl.offsetHeight - 4, newTop));
+    panelEl.style.left = newLeft + 'px';
+    panelEl.style.top = newTop + 'px';
+  });
+  function endDrag(e){
+    if (!dragging) return;
+    dragging = false;
+    const dx = e.clientX - startX;
+    if (dx > 160) {
+      panel.classList.remove('open');
+      currentOpenEvent = null;
+    } else {
+      localStorage.setItem('layout:panel', JSON.stringify({ left: parseFloat(panelEl.style.left), top: parseFloat(panelEl.style.top) }));
+    }
+  }
+  handle.addEventListener('pointerup', endDrag);
+  handle.addEventListener('pointercancel', endDrag);
+  LAYOUT_KEYS.push('layout:panel');
+})();
+
+document.getElementById('resetLayoutBtn').addEventListener('click', () => {
+  LAYOUT_KEYS.forEach(k => localStorage.removeItem(k));
+  draggableRegistry.forEach(({ el, tab }) => {
+    el.style.display = '';
+    el.style.left = ''; el.style.top = ''; el.style.right = ''; el.style.bottom = '';
+    tab.style.display = 'none';
+  });
+  const panelEl = document.getElementById('panel');
+  panelEl.classList.remove('floating-mode');
+  panelEl.style.left = ''; panelEl.style.top = '';
+});
+
+// ---- 7. Initialisation de la carte : source, couches, rayons, interactions ----
+map.on('load', async () => {
+  await loadEvents();
+
+  let beamEls = [];
+
+  function getVisibleEvents(){
+    return events.filter(e => e.week === activeWeek);
+  }
+
+  function buildGeojson(){
+    return {
+      type: 'FeatureCollection',
+      features: getVisibleEvents().map(evt => ({
+        type: 'Feature',
+        geometry: { type: 'Point', coordinates: evt.coords },
+        properties: {
+          id: evt.id,
+          color: STATUS_COLOR[evt.status],
+          severe: evt.severe ? 1 : 0,
+          category: evt.category
+        }
+      }))
+    };
+  }
+
+  function rebuildBeams(){
+    beamsContainer.innerHTML = '';
+    beamEls = getVisibleEvents().map(evt => {
+      const el = document.createElement('div');
+      el.className = 'beam';
+      el.style.color = STATUS_COLOR[evt.status];
+      el.innerHTML = `<div class="line"></div><div class="symbol" style="color:${CATEGORY_COLOR[evt.category] || '#e5e7eb'}">${evt.icon || CATEGORY_ICON[evt.category] || '●'}</div>`;
+      el.querySelector('.symbol').addEventListener('click', () => openPanel(evt));
+      beamsContainer.appendChild(el);
+      requestAnimationFrame(() => requestAnimationFrame(() => el.classList.add('show')));
+      return el;
+    });
+  }
+
+  function refreshWeekData(){
+    map.getSource('events').setData(buildGeojson());
+    rebuildBeams();
+  }
+
+  function populateWeekPicker(){
+    const weeks = [...new Set(events.map(e => e.week))].filter(Boolean).sort().reverse();
+    activeWeek = weeks[0] || null;
+    const sel = document.getElementById('weekSelect');
+    sel.innerHTML = '';
+    weeks.forEach((w, i) => {
+      const opt = document.createElement('option');
+      opt.value = w;
+      opt.textContent = i === 0 ? (I18N[currentLang].thisWeek + ' — ' + w) : w;
+      sel.appendChild(opt);
+    });
+    if (activeWeek) sel.value = activeWeek;
+    sel.addEventListener('change', () => {
+      activeWeek = sel.value;
+      refreshWeekData();
+      applyCategoryFilter(activeCategory);
+    });
+  }
+  populateWeekPicker();
+
+  map.addSource('events', { type: 'geojson', data: buildGeojson() });
+
+  map.addLayer({
+    id: 'evt-hitzone', type: 'circle', source: 'events',
+    paint: { 'circle-radius': 18, 'circle-color': '#000000', 'circle-opacity': 0 }
+  });
+
+  map.addLayer({
+    id: 'evt-severe', type: 'circle', source: 'events',
+    filter: ['==', ['get', 'severe'], 1],
+    paint: {
+      'circle-radius': 13, 'circle-color': 'transparent',
+      'circle-stroke-color': '#ef4444', 'circle-stroke-width': 1.5, 'circle-stroke-opacity': 0.85
+    }
+  });
+
+  map.addLayer({
+    id: 'evt-halo', type: 'circle', source: 'events',
+    paint: { 'circle-radius': 9, 'circle-color': ['get', 'color'], 'circle-opacity': 0.25, 'circle-blur': 1 }
+  });
+
+  map.addLayer({
+    id: 'evt-core', type: 'circle', source: 'events',
+    paint: {
+      'circle-radius': 4.5, 'circle-color': ['get', 'color'],
+      'circle-stroke-color': 'rgba(0,0,0,0.35)', 'circle-stroke-width': 1
+    }
+  });
+
+  applyCategoryFilter(activeCategory);
+  rebuildBeams();
+
+  function isOnFarSide(lng, lat){
+    const c = map.getCenter();
+    const toRad = d => d * Math.PI / 180;
+    const lat1 = toRad(c.lat), lon1 = toRad(c.lng);
+    const lat2 = toRad(lat), lon2 = toRad(lng);
+    const angularDist = Math.acos(
+      Math.max(-1, Math.min(1,
+        Math.sin(lat1) * Math.sin(lat2) + Math.cos(lat1) * Math.cos(lat2) * Math.cos(lon2 - lon1)
+      ))
+    );
+    return angularDist > Math.PI / 2 - 0.05;
+  }
+
+  function positionAllBeams(){
+    getVisibleEvents().forEach((evt, i) => {
+      if (!beamEls[i]) return;
+      const catOk = activeCategory === 'tous' || evt.category === activeCategory;
+      const behindGlobe = isOnFarSide(evt.coords[0], evt.coords[1]);
+      if (!catOk || !beamsEnabled || behindGlobe) {
+        beamEls[i].style.display = 'none';
+        return;
+      }
+      const p = map.project(evt.coords);
+      beamEls[i].style.left = p.x + 'px';
+      beamEls[i].style.top = p.y + 'px';
+      beamEls[i].style.display = '';
+    });
+  }
+  map.on('render', positionAllBeams);
+
+  map.on('mouseenter', 'evt-hitzone', () => { map.getCanvas().style.cursor = 'pointer'; });
+  map.on('mouseleave', 'evt-hitzone', () => { map.getCanvas().style.cursor = ''; });
+  map.on('click', 'evt-hitzone', (e) => {
+    const id = e.features[0].properties.id;
+    const target = events.find(ev => ev.id === id);
+    if (target) openPanel(target);
+  });
+
+  spin();
+});
+</script>
+
+</body>
+</html>
