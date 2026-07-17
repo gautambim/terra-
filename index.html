@@ -50,6 +50,14 @@
 
   .fullscreen-btn.reset-layout-btn{font-size:13px;}
 
+  .week-picker{position:absolute;top:100px;right:28px;z-index:5;
+    background:var(--panel);border:1px solid var(--panel-border);backdrop-filter:blur(14px);
+    border-radius:10px;padding:10px;min-width:170px;}
+  .week-picker select{width:100%;background:none;border:none;color:var(--text-hi);
+    font-family:'JetBrains Mono',monospace;font-size:12px;padding:4px;cursor:pointer;}
+  .week-picker .wp-title{font-family:'Space Grotesk',sans-serif;font-size:10.5px;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--text-lo);margin-bottom:8px;}
+
   .edge-tab{position:fixed;z-index:6;width:30px;height:44px;display:none;align-items:center;
     justify-content:center;background:var(--panel);border:1px solid var(--panel-border);
     color:var(--text-lo);cursor:pointer;backdrop-filter:blur(14px);font-size:13px;
@@ -185,6 +193,12 @@
 
 <div class="lang-switch draggable" id="langSwitch"><span class="drag-handle" data-drag-for="langSwitch">⠿</span></div>
 
+<div class="week-picker draggable" id="weekPickerBox">
+  <span class="drag-handle" data-drag-for="weekPickerBox">⠿</span>
+  <div class="wp-title" id="weekPickerTitle"></div>
+  <select id="weekSelect"></select>
+</div>
+
 <div class="filters draggable" id="filters"><span class="drag-handle" data-drag-for="filters">⠿</span></div>
 
 <div class="legend draggable" id="legendBox">
@@ -279,6 +293,8 @@ const I18N = {
     fullscreenTitle: 'Plein écran',
     resetTitle: 'Recentrer le globe',
     resetLayoutTitle: 'Réinitialiser la disposition des fenêtres',
+    weekPickerTitle: 'Semaine affichée',
+    thisWeek: 'Cette semaine',
     beamToggleTitle: 'Afficher / masquer les rayons lumineux',
     sourcePrefix: 'Source :',
     relatedTitle: 'Actus liées',
@@ -296,6 +312,8 @@ const I18N = {
     fullscreenTitle: 'Fullscreen',
     resetTitle: 'Recenter the globe',
     resetLayoutTitle: 'Reset window layout',
+    weekPickerTitle: 'Week shown',
+    thisWeek: 'This week',
     beamToggleTitle: 'Show / hide light beams',
     sourcePrefix: 'Source:',
     relatedTitle: 'Related events',
@@ -313,6 +331,8 @@ const I18N = {
     fullscreenTitle: 'Pantalla completa',
     resetTitle: 'Recentrar el globo',
     resetLayoutTitle: 'Restablecer la disposición de las ventanas',
+    weekPickerTitle: 'Semana mostrada',
+    thisWeek: 'Esta semana',
     beamToggleTitle: 'Mostrar / ocultar los rayos de luz',
     sourcePrefix: 'Fuente:',
     relatedTitle: 'Eventos relacionados',
@@ -335,6 +355,7 @@ const CATEGORY_COLOR = {
 };
 let activeCategory = 'tous';
 let beamsEnabled = true;
+let activeWeek = null;
 
 const STATUS_COLOR = {
   brut: '#f2f4f8', recoupement: '#4fd1c5', confirme: '#3ecf6e', dementi: '#2b2f38'
@@ -458,6 +479,7 @@ function renderUI(){
   document.getElementById('fullscreenBtn').title = t.fullscreenTitle;
   document.getElementById('resetViewBtn').title = t.resetTitle;
   document.getElementById('resetLayoutBtn').title = t.resetLayoutTitle;
+  document.getElementById('weekPickerTitle').textContent = t.weekPickerTitle;
   document.getElementById('beamToggleBtn').title = t.beamToggleTitle;
 
   document.querySelectorAll('.filter-btn').forEach(btn => {
@@ -611,6 +633,7 @@ makeDraggable(document.getElementById('filters'), document.querySelector('#filte
 makeDraggable(document.getElementById('legendBox'), document.querySelector('#legendBox .drag-handle'), 'layout:legend', '●');
 makeDraggable(document.getElementById('zoneBadgeBox'), document.querySelector('#zoneBadgeBox .drag-handle'), 'layout:zoneBadge', '◍');
 makeDraggable(document.getElementById('langSwitch'), document.querySelector('#langSwitch .drag-handle'), 'layout:langSwitch', 'A');
+makeDraggable(document.getElementById('weekPickerBox'), document.querySelector('#weekPickerBox .drag-handle'), 'layout:weekPicker', '◷');
 
 // panel : glisser repositionne (mode flottant) ; glisser loin vers la droite ferme
 (function setupPanelDrag(){
@@ -683,21 +706,68 @@ document.getElementById('resetLayoutBtn').addEventListener('click', () => {
 map.on('load', async () => {
   await loadEvents();
 
-  const geojson = {
-    type: 'FeatureCollection',
-    features: events.map((evt, idx) => ({
-      type: 'Feature',
-      geometry: { type: 'Point', coordinates: evt.coords },
-      properties: {
-        idx,
-        color: STATUS_COLOR[evt.status],
-        severe: evt.severe ? 1 : 0,
-        category: evt.category
-      }
-    }))
-  };
+  let beamEls = [];
 
-  map.addSource('events', { type: 'geojson', data: geojson });
+  function getVisibleEvents(){
+    return events.filter(e => e.week === activeWeek);
+  }
+
+  function buildGeojson(){
+    return {
+      type: 'FeatureCollection',
+      features: getVisibleEvents().map(evt => ({
+        type: 'Feature',
+        geometry: { type: 'Point', coordinates: evt.coords },
+        properties: {
+          id: evt.id,
+          color: STATUS_COLOR[evt.status],
+          severe: evt.severe ? 1 : 0,
+          category: evt.category
+        }
+      }))
+    };
+  }
+
+  function rebuildBeams(){
+    beamsContainer.innerHTML = '';
+    beamEls = getVisibleEvents().map(evt => {
+      const el = document.createElement('div');
+      el.className = 'beam';
+      el.style.color = STATUS_COLOR[evt.status];
+      el.innerHTML = `<div class="line"></div><div class="symbol" style="color:${CATEGORY_COLOR[evt.category] || '#e5e7eb'}">${evt.icon || CATEGORY_ICON[evt.category] || '●'}</div>`;
+      el.querySelector('.symbol').addEventListener('click', () => openPanel(evt));
+      beamsContainer.appendChild(el);
+      requestAnimationFrame(() => requestAnimationFrame(() => el.classList.add('show')));
+      return el;
+    });
+  }
+
+  function refreshWeekData(){
+    map.getSource('events').setData(buildGeojson());
+    rebuildBeams();
+  }
+
+  function populateWeekPicker(){
+    const weeks = [...new Set(events.map(e => e.week))].filter(Boolean).sort().reverse();
+    activeWeek = weeks[0] || null;
+    const sel = document.getElementById('weekSelect');
+    sel.innerHTML = '';
+    weeks.forEach((w, i) => {
+      const opt = document.createElement('option');
+      opt.value = w;
+      opt.textContent = i === 0 ? (I18N[currentLang].thisWeek + ' — ' + w) : w;
+      sel.appendChild(opt);
+    });
+    if (activeWeek) sel.value = activeWeek;
+    sel.addEventListener('change', () => {
+      activeWeek = sel.value;
+      refreshWeekData();
+      applyCategoryFilter(activeCategory);
+    });
+  }
+  populateWeekPicker();
+
+  map.addSource('events', { type: 'geojson', data: buildGeojson() });
 
   map.addLayer({
     id: 'evt-hitzone', type: 'circle', source: 'events',
@@ -727,17 +797,7 @@ map.on('load', async () => {
   });
 
   applyCategoryFilter(activeCategory);
-
-  const beamEls = events.map(evt => {
-    const el = document.createElement('div');
-    el.className = 'beam';
-    el.style.color = STATUS_COLOR[evt.status];
-    el.innerHTML = `<div class="line"></div><div class="symbol" style="color:${CATEGORY_COLOR[evt.category] || '#e5e7eb'}">${evt.icon || CATEGORY_ICON[evt.category] || '●'}</div>`;
-    el.querySelector('.symbol').addEventListener('click', () => openPanel(evt));
-    beamsContainer.appendChild(el);
-    requestAnimationFrame(() => requestAnimationFrame(() => el.classList.add('show')));
-    return el;
-  });
+  rebuildBeams();
 
   function isOnFarSide(lng, lat){
     const c = map.getCenter();
@@ -753,7 +813,8 @@ map.on('load', async () => {
   }
 
   function positionAllBeams(){
-    events.forEach((evt, i) => {
+    getVisibleEvents().forEach((evt, i) => {
+      if (!beamEls[i]) return;
       const catOk = activeCategory === 'tous' || evt.category === activeCategory;
       const behindGlobe = isOnFarSide(evt.coords[0], evt.coords[1]);
       if (!catOk || !beamsEnabled || behindGlobe) {
@@ -771,8 +832,9 @@ map.on('load', async () => {
   map.on('mouseenter', 'evt-hitzone', () => { map.getCanvas().style.cursor = 'pointer'; });
   map.on('mouseleave', 'evt-hitzone', () => { map.getCanvas().style.cursor = ''; });
   map.on('click', 'evt-hitzone', (e) => {
-    const idx = e.features[0].properties.idx;
-    openPanel(events[idx]);
+    const id = e.features[0].properties.id;
+    const target = events.find(ev => ev.id === id);
+    if (target) openPanel(target);
   });
 
   spin();
