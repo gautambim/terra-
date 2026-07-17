@@ -666,5 +666,150 @@
       }
     ],
     "week": "2026-W29"
+  },
+  {
+    "id": "iran-conflit-reprise",
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "La Presse / franceinfo / Radio-Canada",
+    "week": "2026-W29",
+    "place": {
+      "fr": "Téhéran, Iran",
+      "en": "Tehran, Iran",
+      "es": "Teherán, Irán"
+    },
+    "title": {
+      "fr": "Le conflit entre les États-Unis, Israël et l'Iran reprend après le cessez-le-feu d'avril",
+      "en": "Conflict between the United States, Israel and Iran resumes after the April ceasefire",
+      "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
+    },
+    "summary": {
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/04/2026",
+          "en": "04/08/2026",
+          "es": "08/04/2026"
+        },
+        "d": {
+          "fr": "Un cessez-le-feu intermittent entre en vigueur, selon La Presse.",
+          "en": "An intermittent ceasefire takes effect, according to La Presse.",
+          "es": "Entra en vigor un alto el fuego intermitente, según La Presse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/07/2026",
+          "en": "07/07/2026",
+          "es": "07/07/2026"
+        },
+        "d": {
+          "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
+          "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
+          "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ouganda-bus-scolaire",
+    "coords": [
+      34.4547,
+      1.4022
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "20 minutes / La Libre / AP",
+    "week": "2026-W29",
+    "place": {
+      "fr": "District de Kapchorwa, est de l'Ouganda",
+      "en": "Kapchorwa District, eastern Uganda",
+      "es": "Distrito de Kapchorwa, este de Uganda"
+    },
+    "title": {
+      "fr": "Un accident de bus scolaire fait au moins 21 morts en Ouganda",
+      "en": "A school bus crash kills at least 21 people in Uganda",
+      "es": "Un accidente de autobús escolar deja al menos 21 muertos en Uganda"
+    },
+    "summary": {
+      "fr": "Un bus scolaire de l'école primaire King David de Ndejje est sorti de route jeudi soir dans le district de Kapchorwa, dans l'est de l'Ouganda, selon la police citée par 20 minutes, La Libre et l'AP. Le bilan s'élève à au moins 21 morts, dont 20 écoliers et un adulte ; plusieurs autres personnes ont été blessées. Selon la police, le chauffeur aurait perdu le contrôle du véhicule, qui a heurté un rocher avant de se retourner. Le bus revenait d'une excursion aux chutes de Sipi.",
+      "en": "A school bus from King David Primary School in Ndejje veered off the road on Thursday evening in Kapchorwa District, eastern Uganda, according to police cited by 20 minutes, La Libre and AP. The toll stands at at least 21 dead, including 20 schoolchildren and one adult; several other people were injured. Police said the driver apparently lost control of the vehicle, which hit a rock before overturning. The bus was returning from an excursion to Sipi Falls.",
+      "es": "Un autobús escolar de la escuela primaria King David de Ndejje se salió de la carretera el jueves por la noche en el distrito de Kapchorwa, este de Uganda, según la policía citada por 20 minutes, La Libre y AP. El balance es de al menos 21 muertos, entre ellos 20 escolares y un adulto; varias otras personas resultaron heridas. Según la policía, el conductor perdió el control del vehículo, que golpeó una roca antes de volcar. El autobús regresaba de una excursión a las cataratas de Sipi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "La police ougandaise annonce un bilan d'au moins 21 morts.",
+          "en": "Ugandan police announce a toll of at least 21 dead.",
+          "es": "La policía ugandesa anuncia un balance de al menos 21 muertos."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mondial2026-bresil-norvege",
+    "coords": [
+      -74.0742,
+      40.8135
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FIFA",
+    "week": "2026-W29",
+    "place": {
+      "fr": "Stade de New York/New Jersey, États-Unis",
+      "en": "New York/New Jersey Stadium, United States",
+      "es": "Estadio de Nueva York/Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "Coupe du monde 2026 : le Brésil affronte la Norvège en huitièmes de finale",
+      "en": "2026 World Cup: Brazil faces Norway in the round of 16",
+      "es": "Mundial 2026: Brasil se enfrenta a Noruega en octavos de final"
+    },
+    "summary": {
+      "fr": "Le Brésil affronte la Norvège ce vendredi 17 juillet au stade de New York/New Jersey, dans le cadre des huitièmes de finale de la Coupe du monde de la FIFA 2026, organisée aux États-Unis, au Mexique et au Canada, selon les données officielles de la FIFA.",
+      "en": "Brazil faces Norway this Friday, July 17 at the New York/New Jersey Stadium, as part of the round of 16 of the 2026 FIFA World Cup, hosted in the United States, Mexico and Canada, according to official FIFA data.",
+      "es": "Brasil se enfrenta a Noruega este viernes 17 de julio en el estadio de Nueva York/Nueva Jersey, en los octavos de final de la Copa Mundial de la FIFA 2026, organizada en Estados Unidos, México y Canadá, según datos oficiales de la FIFA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
+          "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
+          "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": []
   }
 ]
