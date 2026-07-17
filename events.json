@@ -666,5 +666,259 @@
       }
     ],
     "week": "2026-W29"
+  },
+  {
+    "coords": [
+      -61.0742,
+      14.6042
+    ],
+    "id": "martinique-spip-machette",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "France-Guyane / UFAP-UNSa Justice",
+    "place": {
+      "fr": "Fort-de-France, Martinique (locaux du SPIP)",
+      "en": "Fort-de-France, Martinique (probation office premises)",
+      "es": "Fort-de-France, Martinica (locales del SPIP)"
+    },
+    "title": {
+      "fr": "Un homme armé d'une machette agresse des agents du SPIP à Fort-de-France",
+      "en": "Man armed with a machete attacks probation staff in Fort-de-France",
+      "es": "Un hombre armado con un machete agrede a agentes del SPIP en Fort-de-France"
+    },
+    "summary": {
+      "fr": "Le mercredi 15 juillet, un homme suivi par la justice s'est présenté armé d'une machette au Service pénitentiaire d'insertion et de probation (SPIP) de Fort-de-France et a tenté de forcer l'accès à la zone administrative. Le personnel s'est barricadé ; aucun agent n'a été blessé physiquement, mais le syndicat UFAP-UNSa Justice évoque une tentative d'assassinat et un fort traumatisme psychologique chez les agents, et réclame des poursuites et un renforcement de la sécurité du site.",
+      "en": "On Wednesday, July 15, a man under judicial supervision arrived armed with a machete at the Fort-de-France probation office (SPIP) and tried to force his way into the administrative area. Staff barricaded themselves in; no one was physically injured, but the UFAP-UNSa Justice union describes it as an attempted assassination and reports significant psychological trauma among staff, and is calling for prosecution and improved site security.",
+      "es": "El miércoles 15 de julio, un hombre bajo seguimiento judicial se presentó armado con un machete en el Servicio Penitenciario de Inserción y Libertad Vigilada (SPIP) de Fort-de-France e intentó forzar el acceso a la zona administrativa. El personal se atrincheró; nadie resultó físicamente herido, pero el sindicato UFAP-UNSa Justice habla de un intento de asesinato y de un fuerte trauma psicológico entre los agentes, y reclama acciones judiciales y un refuerzo de la seguridad del lugar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026, vers 15h40",
+          "en": "07/15/2026, around 3:40 PM",
+          "es": "15/07/2026, hacia las 15:40"
+        },
+        "d": {
+          "fr": "Un homme se présente au SPIP de Fort-de-France armé d'une machette et tente de forcer l'entrée de la zone administrative ; le personnel se barricade.",
+          "en": "A man arrives at the Fort-de-France probation office armed with a machete and tries to force entry into the administrative area; staff barricade themselves in.",
+          "es": "Un hombre se presenta en el SPIP de Fort-de-France armado con un machete e intenta forzar la entrada a la zona administrativa; el personal se atrinchera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "07/16/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Le syndicat UFAP-UNSa Justice dénonce une tentative d'assassinat et exige des sanctions ainsi qu'un renforcement de la sécurité du SPIP.",
+          "en": "The UFAP-UNSa Justice union denounces an attempted assassination and demands sanctions along with improved security at the probation office.",
+          "es": "El sindicato UFAP-UNSa Justice denuncia un intento de asesinato y exige sanciones, además de un refuerzo de la seguridad del SPIP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29"
+  },
+  {
+    "coords": [
+      34.45,
+      1.4
+    ],
+    "id": "ouganda-kapchorwa-bus",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "The Observer (Ouganda) / Uganda Police",
+    "place": {
+      "fr": "Chekwatit, sous-comté de Kawowo, district de Kapchorwa, Ouganda (coordonnées approximatives, village non répertorié précisément)",
+      "en": "Chekwatit, Kawowo sub-county, Kapchorwa District, Uganda (approximate coordinates, village not precisely mapped)",
+      "es": "Chekwatit, subcondado de Kawowo, distrito de Kapchorwa, Uganda (coordenadas aproximadas, aldea no cartografiada con precisión)"
+    },
+    "title": {
+      "fr": "Un car scolaire se renverse en Ouganda : une vingtaine d'élèves tués",
+      "en": "School bus overturns in Uganda, around twenty pupils killed",
+      "es": "Un autobús escolar vuelca en Uganda: una veintena de alumnos muertos"
+    },
+    "summary": {
+      "fr": "Le jeudi 16 juillet vers 20h, un bus de l'école King David Junior School (Kampala) qui ramenait des élèves d'une excursion aux chutes de Sipi a quitté la route et s'est renversé sur la colline de Chekwatit, un tronçon réputé dangereux entre Kapchorwa et Mbale. La police évoque une possible défaillance mécanique ayant précédé la perte de contrôle. Le bilan communiqué par les autorités et repris par plusieurs médias fait état d'environ 20 à 21 morts, dont la fondatrice de l'école, et une soixantaine de blessés ; certains titres avancent un bilan encore plus élevé, non confirmé de façon uniforme. Le gouvernement ougandais a suspendu les sorties scolaires dans la foulée.",
+      "en": "On Thursday, July 16 around 8 PM, a bus belonging to King David Junior School (Kampala) that was bringing pupils back from a trip to Sipi Falls left the road and overturned on Chekwatit Hill, a stretch known to be dangerous between Kapchorwa and Mbale. Police say a mechanical fault may have preceded the loss of control. The toll given by authorities and reported by several outlets is around 20-21 dead, including the school's founder, and about sixty injured; some outlets cite a higher, not uniformly confirmed toll. Uganda's government suspended school trips in the aftermath.",
+      "es": "El jueves 16 de julio, hacia las 20:00, un autobús de la escuela King David Junior School (Kampala) que traía de vuelta a alumnos de una excursión a las cataratas de Sipi salió de la carretera y volcó en la colina de Chekwatit, un tramo considerado peligroso entre Kapchorwa y Mbale. La policía apunta a una posible falla mecánica antes de la pérdida de control. El balance comunicado por las autoridades y recogido por varios medios habla de unos 20-21 muertos, entre ellos la fundadora de la escuela, y una sesentena de heridos; algunos medios citan un balance más alto, no confirmado de manera uniforme. El gobierno ugandés suspendió las salidas escolares tras el accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026, vers 20h00",
+          "en": "07/16/2026, around 8:00 PM",
+          "es": "16/07/2026, hacia las 20:00"
+        },
+        "d": {
+          "fr": "Le bus scolaire quitte la route et se renverse sur la colline de Chekwatit après une possible avarie mécanique.",
+          "en": "The school bus leaves the road and overturns on Chekwatit Hill after a possible mechanical fault.",
+          "es": "El autobús escolar sale de la carretera y vuelca en la colina de Chekwatit tras una posible avería mecánica."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "07/17/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement ougandais suspend toutes les sorties scolaires ; le bilan communiqué s'établit autour de 20-21 morts et une soixantaine de blessés.",
+          "en": "The Ugandan government suspends all school trips; the reported toll stands at around 20-21 dead and about sixty injured.",
+          "es": "El gobierno ugandés suspende todas las salidas escolares; el balance comunicado se sitúa en torno a 20-21 muertos y una sesentena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29"
+  },
+  {
+    "coords": [
+      94.7326,
+      16.7791
+    ],
+    "id": "birmanie-naufrage-rohingyas",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚓",
+    "source": "ONU (agences de l'ONU) / Al Jazeera / UN News",
+    "place": {
+      "fr": "Au large de la côte d'Ayeyarwady, Birmanie (Myanmar) — position exacte des naufrages non précisée, un des deux bateaux ayant appareillé de l'État Rakhine",
+      "en": "Off the Ayeyarwady coast, Myanmar (Burma) — exact wreck locations not specified, one of the two boats having departed from Rakhine State",
+      "es": "Frente a la costa de Ayeyarwady, Birmania (Myanmar) — ubicación exacta de los naufragios no precisada, uno de los dos barcos había zarpado del estado de Rakhine"
+    },
+    "title": {
+      "fr": "Plus de 500 personnes craintes mortes après le naufrage de deux bateaux de réfugiés rohingyas",
+      "en": "More than 500 feared dead after two boats carrying Rohingya refugees capsize",
+      "es": "Se teme la muerte de más de 500 personas tras el naufragio de dos barcos de refugiados rohinyás"
+    },
+    "summary": {
+      "fr": "Selon une alerte conjointe d'agences de l'ONU relayée le 16 juillet, plus de 500 personnes sont à craindre mortes après le naufrage de deux embarcations parties fin juin de l'État Rakhine, transportant majoritairement des Rohingyas. Un bateau, avec environ 250 personnes à bord, aurait perdu tout contact peu après son départ ; un second, avec environ 280 personnes, se serait abîmé au large de la côte d'Ayeyarwady le 8 juillet. Les bilans restent non confirmés officiellement à ce stade et proviennent principalement de l'ONU, largement reprise par la presse internationale ; l'ONU souligne que les bateaux avaient pris la mer hors de la saison de navigation habituelle, dans des conditions rendues plus dangereuses par de fortes pluies et des inondations récentes dans la région.",
+      "en": "According to a joint alert from UN agencies relayed on July 16, more than 500 people are feared dead after two boats that left Rakhine State in late June, carrying mostly Rohingya passengers, sank. One boat, with around 250 people aboard, reportedly lost contact shortly after departure; a second, with about 280 people, is believed to have gone down off the Ayeyarwady coast on July 8. The toll remains officially unconfirmed at this stage and stems mainly from the UN, widely picked up by international media; the UN notes the boats set sail outside the usual sailing season, in conditions made more dangerous by recent heavy rain and flooding in the region.",
+      "es": "Según una alerta conjunta de agencias de la ONU difundida el 16 de julio, se teme que más de 500 personas hayan muerto tras el naufragio de dos embarcaciones que zarparon a finales de junio del estado de Rakhine, transportando mayoritariamente a rohinyás. Un barco, con unas 250 personas a bordo, habría perdido todo contacto poco después de zarpar; un segundo, con unas 280 personas, se habría hundido frente a la costa de Ayeyarwady el 8 de julio. El balance sigue sin confirmación oficial en esta etapa y proviene principalmente de la ONU, ampliamente recogido por la prensa internacional; la ONU señala que los barcos zarparon fuera de la temporada habitual de navegación, en condiciones agravadas por las fuertes lluvias e inundaciones recientes en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/07/2026",
+          "en": "07/08/2026",
+          "es": "08/07/2026"
+        },
+        "d": {
+          "fr": "Un second bateau transportant environ 280 personnes sombrerait au large de la côte d'Ayeyarwady, selon l'ONU.",
+          "en": "A second boat carrying around 280 people reportedly sinks off the Ayeyarwady coast, according to the UN.",
+          "es": "Un segundo barco con unas 280 personas a bordo se habría hundido frente a la costa de Ayeyarwady, según la ONU."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "07/16/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Des agences de l'ONU alertent publiquement sur un bilan redouté de plus de 500 morts pour les deux naufrages.",
+          "en": "UN agencies publicly warn of a feared death toll of more than 500 across the two shipwrecks.",
+          "es": "Agencias de la ONU alertan públicamente de un balance temido de más de 500 muertos en los dos naufragios."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29"
+  },
+  {
+    "coords": [
+      126.9784,
+      37.5558
+    ],
+    "id": "coree-banque-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Banque de Corée (Bank of Korea)",
+    "place": {
+      "fr": "Séoul, Corée du Sud (siège de la Banque de Corée)",
+      "en": "Seoul, South Korea (Bank of Korea headquarters)",
+      "es": "Seúl, Corea del Sur (sede del Banco de Corea)"
+    },
+    "title": {
+      "fr": "La Banque de Corée relève son taux directeur pour la première fois depuis janvier 2023",
+      "en": "Bank of Korea hikes its policy rate for the first time since January 2023",
+      "es": "El Banco de Corea sube su tipo de referencia por primera vez desde enero de 2023"
+    },
+    "summary": {
+      "fr": "Le jeudi 16 juillet, la Banque de Corée a relevé son taux directeur de 25 points de base, le portant à 2,75 %, une première hausse depuis janvier 2023. La décision intervient alors que l'inflation sud-coréenne a atteint 3,2 % en juin, son niveau le plus élevé depuis 2023, selon la banque centrale.",
+      "en": "On Thursday, July 16, the Bank of Korea raised its policy rate by 25 basis points to 2.75%, its first hike since January 2023. The decision comes as South Korean inflation reached 3.2% in June, its highest level since 2023, according to the central bank.",
+      "es": "El jueves 16 de julio, el Banco de Corea subió su tipo de referencia en 25 puntos básicos, hasta el 2,75 %, la primera subida desde enero de 2023. La decisión llega cuando la inflación surcoreana alcanzó el 3,2 % en junio, su nivel más alto desde 2023, según el banco central."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "07/16/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "La Banque de Corée annonce une hausse de 25 points de base de son taux directeur, à 2,75 %.",
+          "en": "The Bank of Korea announces a 25 basis point hike to its policy rate, to 2.75%.",
+          "es": "El Banco de Corea anuncia una subida de 25 puntos básicos de su tipo de referencia, hasta el 2,75 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29"
+  },
+  {
+    "coords": [
+      6.8631,
+      47.6386
+    ],
+    "id": "tourdefrance-etape13-belfort",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Tour de France / Cyclingnews",
+    "place": {
+      "fr": "Belfort, France (arrivée de l'étape 13 du Tour de France)",
+      "en": "Belfort, France (finish of Tour de France stage 13)",
+      "es": "Belfort, Francia (llegada de la etapa 13 del Tour de Francia)"
+    },
+    "title": {
+      "fr": "Le Suisse Mauro Schmid remporte l'étape 13 du Tour de France à Belfort",
+      "en": "Switzerland's Mauro Schmid wins Tour de France stage 13 in Belfort",
+      "es": "El suizo Mauro Schmid gana la etapa 13 del Tour de Francia en Belfort"
+    },
+    "summary": {
+      "fr": "Le vendredi 17 juillet, le coureur suisse Mauro Schmid s'est imposé au sprint d'une échappée à deux face au Colombien Harold Tejada à l'arrivée de la 13e étape du Tour de France, jugée à Belfort. Tadej Pogačar a conservé le maillot jaune de leader du classement général.",
+      "en": "On Friday, July 17, Swiss rider Mauro Schmid won a two-man breakaway sprint against Colombia's Harold Tejada at the finish of Tour de France stage 13 in Belfort. Tadej Pogačar retained the yellow jersey as overall leader.",
+      "es": "El viernes 17 de julio, el ciclista suizo Mauro Schmid se impuso en el esprint de una escapada de dos ante el colombiano Harold Tejada en la meta de la 13.ª etapa del Tour de Francia, en Belfort. Tadej Pogačar conservó el maillot amarillo de líder de la clasificación general."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "07/17/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Mauro Schmid gagne l'étape 13 à Belfort au sprint devant Harold Tejada ; Tadej Pogačar reste en tête du classement général.",
+          "en": "Mauro Schmid wins stage 13 in Belfort in a sprint ahead of Harold Tejada; Tadej Pogačar remains the overall leader.",
+          "es": "Mauro Schmid gana la etapa 13 en Belfort al esprint por delante de Harold Tejada; Tadej Pogačar sigue liderando la general."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29"
   }
 ]
