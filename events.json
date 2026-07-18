@@ -212,6 +212,19 @@
           "en": "Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.",
           "es": "Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une nouvelle frappe russe, la deuxième en trois jours sur Odessa, tue au moins deux personnes et blesse plusieurs autres avec des missiles et des drones ; 11 immeubles résidentiels sont endommagés.",
+          "en": "A new Russian strike — the second deadly one on Odesa in three days — kills at least two people and wounds several others with missiles and drones; 11 residential buildings are damaged.",
+          "es": "Un nuevo ataque ruso —el segundo mortal sobre Odesa en tres días— mata al menos a dos personas y hiere a varias más con misiles y drones; 11 edificios residenciales resultan dañados."
+        },
         "active": true
       }
     ],
@@ -734,6 +747,19 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Pour une septième nuit consécutive, les États-Unis frappent des infrastructures iraniennes ; en retour, des missiles iraniens visent la base d'Al Udeid au Qatar (interceptés, quatre blessés par des débris) et provoquent un incendie dans une centrale électrique et de dessalement au Koweït.",
+          "en": "For a seventh consecutive night, the United States strikes Iranian infrastructure; in response, Iranian missiles target the Al Udeid base in Qatar (intercepted, four wounded by debris) and cause a fire at a power and desalination plant in Kuwait.",
+          "es": "Por séptima noche consecutiva, Estados Unidos ataca infraestructuras iraníes; en respuesta, misiles iraníes apuntan a la base de Al Udeid en Catar (interceptados, cuatro heridos por metralla) y provocan un incendio en una planta eléctrica y desalinizadora en Kuwait."
+        },
         "active": true
       }
     ],
@@ -828,6 +854,1022 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-murshidabad-train",
+    "coords": [
+      88.2482,
+      24.1004
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚆",
+    "source": "News9live / ANI News / Pragativadi",
+    "place": {
+      "fr": "Berhampore (Murshidabad), Bengale-Occidental, Inde",
+      "en": "Berhampore (Murshidabad district), West Bengal, India",
+      "es": "Berhampore (distrito de Murshidabad), Bengala Occidental, India"
+    },
+    "title": {
+      "fr": "Un train percute un véhicule scolaire à un passage à niveau, trois morts",
+      "en": "Train hits school van at level crossing, killing three",
+      "es": "Un tren atropella una furgoneta escolar en un paso a nivel y deja tres muertos"
+    },
+    "summary": {
+      "fr": "Le 17 juillet, un train de voyageurs a percuté un véhicule transportant des élèves au passage à niveau de Karnasuvarna, près de Berhampore, dans le district de Murshidabad. Trois personnes, dont deux enfants, sont mortes et plusieurs autres ont été blessées et hospitalisées. Des témoins évoquent une barrière mal refermée, une explication non confirmée à ce stade par l'enquête ferroviaire.",
+      "en": "On July 17, a passenger train struck a vehicle carrying schoolchildren at the Karnasuvarna level crossing near Berhampore, in Murshidabad district. Three people, including two children, died and several others were injured and hospitalized. Witnesses suggest the crossing gate had not been properly closed, an explanation not yet confirmed by the railway investigation.",
+      "es": "El 17 de julio, un tren de pasajeros chocó contra un vehículo que transportaba escolares en el paso a nivel de Karnasuvarna, cerca de Berhampore, en el distrito de Murshidabad. Tres personas, entre ellas dos niños, murieron y varias más resultaron heridas y hospitalizadas. Algunos testigos apuntan a una barrera mal cerrada, explicación aún no confirmada por la investigación ferroviaria."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Un train percute un véhicule scolaire au passage à niveau de Karnasuvarna, près de Berhampore ; trois morts, plusieurs blessés hospitalisés.",
+          "en": "A train hits a school vehicle at the Karnasuvarna level crossing near Berhampore; three dead, several injured hospitalized.",
+          "es": "Un tren atropella un vehículo escolar en el paso a nivel de Karnasuvarna, cerca de Berhampore; tres muertos, varios heridos hospitalizados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "pakistan-attaques-kp",
+    "coords": [
+      70.6068,
+      32.988
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Associated Press / ISPR",
+    "place": {
+      "fr": "Bannu et district d'Upper Dir, Khyber Pakhtunkhwa, Pakistan",
+      "en": "Bannu and Upper Dir district, Khyber Pakhtunkhwa, Pakistan",
+      "es": "Bannu y distrito de Upper Dir, Jyber Pastunjuá, Pakistán"
+    },
+    "title": {
+      "fr": "Doubles attaques de militants dans le Khyber Pakhtunkhwa, l'armée annonce des frappes en représailles",
+      "en": "Twin militant attacks in Khyber Pakhtunkhwa, army announces retaliatory strikes",
+      "es": "Doble ataque de militantes en Jyber Pastunjuá, el ejército anuncia represalias"
+    },
+    "summary": {
+      "fr": "Le 15 juillet, des militants ont attaqué un convoi de sécurité dans le district d'Upper Dir, tuant trois policiers et en blessant quinze, avant qu'un kamikaze ne lance un véhicule piégé contre un poste de police à Bannu, blessant au moins cinq agents supplémentaires. Aucun groupe n'a revendiqué les attaques, mais les soupçons se portent sur les talibans pakistanais (TTP). L'armée pakistanaise affirme avoir ensuite tué 24 militants lors d'opérations dans la région.",
+      "en": "On July 15, militants attacked a security convoy in Upper Dir district, killing three police officers and wounding fifteen, before a suicide bomber rammed an explosives-laden vehicle into a police station in Bannu, wounding at least five more officers. No group claimed the attacks, though suspicion fell on the Pakistani Taliban (TTP). Pakistan's military says it subsequently killed 24 militants in follow-up operations in the area.",
+      "es": "El 15 de julio, militantes atacaron un convoy de seguridad en el distrito de Upper Dir, matando a tres policías y dejando quince heridos, antes de que un suicida estrellara un vehículo cargado de explosivos contra una comisaría en Bannu, hiriendo al menos a otros cinco agentes. Ningún grupo reivindicó los ataques, aunque las sospechas recaen sobre los talibanes paquistaníes (TTP). El ejército paquistaní afirma haber matado después a 24 militantes en operaciones en la zona."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15-17/07/2026",
+          "en": "15-17/07/2026",
+          "es": "15-17/07/2026"
+        },
+        "d": {
+          "fr": "Attaques jumelles à Upper Dir et Bannu ; l'armée pakistanaise annonce avoir tué 24 militants lors d'opérations de représailles.",
+          "en": "Twin attacks in Upper Dir and Bannu; Pakistan's military says it killed 24 militants in retaliatory operations.",
+          "es": "Doble ataque en Upper Dir y Bannu; el ejército paquistaní afirma haber matado a 24 militantes en operaciones de represalia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "bangladesh-inondations-bilan",
+    "coords": [
+      92.0058,
+      21.4272
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Ministère bangladais de la Gestion des catastrophes / The Business Standard / Dhaka Tribune",
+    "place": {
+      "fr": "Cox's Bazar et six autres districts, Bangladesh",
+      "en": "Cox's Bazar and six other districts, Bangladesh",
+      "es": "Cox's Bazar y otros seis distritos, Banglades"
+    },
+    "title": {
+      "fr": "Le bilan des inondations et glissements de terrain dans le sud-est du Bangladesh atteint 57 morts",
+      "en": "Death toll from flooding and landslides in southeastern Bangladesh rises to 57",
+      "es": "El balance de las inundaciones y deslizamientos en el sureste de Banglades sube a 57 muertos"
+    },
+    "summary": {
+      "fr": "Le ministère bangladais de la Gestion des catastrophes a annoncé le 15 juillet que le bilan des pluies de mousson et des glissements de terrain touchant sept districts du sud-est du pays — dont Cox's Bazar, Chittagong et Bandarban — était passé à 57 morts, parmi lesquels des réfugiés rohingyas. Plus d'un million de personnes seraient affectées et plus de 4 000 déplacées dans des abris.",
+      "en": "Bangladesh's Ministry of Disaster Management and Relief announced on July 15 that the toll from monsoon rains and landslides affecting seven districts in the country's southeast — including Cox's Bazar, Chittagong and Bandarban — had risen to 57 dead, among them Rohingya refugees. More than a million people are reported affected and over 4,000 displaced into shelters.",
+      "es": "El Ministerio de Gestión de Desastres de Banglades anunció el 15 de julio que el balance de las lluvias monzónicas y los deslizamientos que afectan a siete distritos del sureste del país —entre ellos Cox's Bazar, Chittagong y Bandarban— había subido a 57 muertos, entre ellos refugiados rohinyás. Más de un millón de personas estarían afectadas y más de 4.000 desplazadas en refugios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "Le ministère de la Gestion des catastrophes annonce un bilan de 57 morts pour les inondations et glissements de terrain touchant sept districts.",
+          "en": "The Ministry of Disaster Management announces a toll of 57 dead from flooding and landslides affecting seven districts.",
+          "es": "El Ministerio de Gestión de Desastres anuncia un balance de 57 muertos por las inundaciones y deslizamientos que afectan a siete distritos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 3
+  },
+  {
+    "id": "gaza-nuseirat-frappe-funerailles",
+    "coords": [
+      34.3924,
+      31.4571
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Camp de réfugiés de Nuseirat, centre de la bande de Gaza",
+      "en": "Nuseirat refugee camp, central Gaza Strip",
+      "es": "Campamento de refugiados de Nuseirat, centro de la Franja de Gaza"
+    },
+    "title": {
+      "fr": "Une frappe israélienne sur un cortège funéraire à Nuseirat fait plusieurs morts",
+      "en": "Israeli strike on a funeral procession in Nuseirat kills several",
+      "es": "Un ataque israelí contra un cortejo fúnebre en Nuseirat deja varios muertos"
+    },
+    "summary": {
+      "fr": "Le 17 juillet, une frappe de drone a visé un cortège funéraire dans le camp de réfugiés de Nuseirat, faisant, selon un hôpital local, huit morts et vingt blessés ; à l'échelle de Gaza, les frappes du jour auraient fait 14 morts au total. L'armée israélienne indique avoir visé une cellule armée liée au Djihad islamique palestinien et dit avoir conscience que des civils ont pu être touchés. Ce bilan, fourni par un hôpital local, n'a pas été vérifié de façon indépendante.",
+      "en": "On July 17, a drone strike hit a funeral procession in the Nuseirat refugee camp, killing eight and wounding twenty according to a local hospital; across Gaza that day, strikes reportedly killed 14 people in total. The Israeli military said it had targeted an armed cell linked to Palestinian Islamic Jihad and said it was aware civilians may have been harmed. This toll, provided by a local hospital, has not been independently verified.",
+      "es": "El 17 de julio, un ataque con drones alcanzó un cortejo fúnebre en el campamento de refugiados de Nuseirat, matando a ocho personas y dejando veinte heridas, según un hospital local; en toda Gaza, los ataques de ese día habrían causado 14 muertos en total. El ejército israelí afirmó haber apuntado a una célula armada vinculada a la Yihad Islámica Palestina y dijo ser consciente de que civiles pudieron resultar afectados. Este balance, proporcionado por un hospital local, no ha sido verificado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drone touche un cortège funéraire à Nuseirat ; un hôpital local rapporte huit morts et vingt blessés.",
+          "en": "A drone strike hits a funeral procession in Nuseirat; a local hospital reports eight dead and twenty wounded.",
+          "es": "Un ataque con drones alcanza un cortejo fúnebre en Nuseirat; un hospital local informa de ocho muertos y veinte heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "turquie-incendies-ete",
+    "coords": [
+      34.6333,
+      36.8
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Bianet",
+    "place": {
+      "fr": "Provinces de Mersin, Hatay et Çanakkale, Turquie",
+      "en": "Mersin, Hatay and Çanakkale provinces, Turkey",
+      "es": "Provincias de Mersin, Hatay y Çanakkale, Turquía"
+    },
+    "title": {
+      "fr": "Des vagues d'incendies de forêt frappent le sud et l'ouest de la Turquie",
+      "en": "Waves of wildfires hit southern and western Turkey",
+      "es": "Oleadas de incendios forestales golpean el sur y el oeste de Turquía"
+    },
+    "summary": {
+      "fr": "Depuis le 16 juillet, dix-neuf feux de forêt distincts se sont déclarés en une seule journée dans les provinces de Mersin, Hatay et Çanakkale, favorisés par une chaleur extrême et des vents forts. À Mersin, une vingtaine de maisons ont été évacuées près des flammes et au moins cinq ont été détruites. Aucun bilan officiel des autorités turques de gestion des catastrophes (AFAD) n'était disponible au moment de la rédaction.",
+      "en": "Since July 16, nineteen separate wildfires broke out in a single day across the provinces of Mersin, Hatay and Çanakkale, fueled by extreme heat and strong winds. In Mersin, around twenty-five homes near the flames were evacuated and at least five were destroyed. No official toll from Turkey's disaster management authority (AFAD) was available at the time of writing.",
+      "es": "Desde el 16 de julio, diecinueve incendios forestales distintos se declararon en un solo día en las provincias de Mersin, Hatay y Çanakkale, favorecidos por un calor extremo y vientos fuertes. En Mersin, una veintena de viviendas cercanas a las llamas fueron evacuadas y al menos cinco quedaron destruidas. No se disponía de un balance oficial de la autoridad turca de gestión de desastres (AFAD) al momento de redactar esta nota."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Dix-neuf feux de forêt se déclarent en une journée dans les provinces de Mersin, Hatay et Çanakkale ; des habitations sont évacuées et détruites à Mersin.",
+          "en": "Nineteen wildfires break out in a single day across Mersin, Hatay and Çanakkale provinces; homes are evacuated and destroyed in Mersin.",
+          "es": "Diecinueve incendios forestales se declaran en un día en las provincias de Mersin, Hatay y Çanakkale; viviendas son evacuadas y destruidas en Mersin."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "russie-yaroslavl-raffinerie",
+    "coords": [
+      39.8845,
+      57.6261
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Bloomberg / État-major ukrainien",
+    "place": {
+      "fr": "Iaroslavl, Russie",
+      "en": "Yaroslavl, Russia",
+      "es": "Yaroslavl, Rusia"
+    },
+    "title": {
+      "fr": "L'Ukraine annonce avoir frappé une raffinerie de pétrole près de Moscou",
+      "en": "Ukraine says it struck an oil refinery near Moscow",
+      "es": "Ucrania afirma haber atacado una refinería de petróleo cerca de Moscú"
+    },
+    "summary": {
+      "fr": "L'état-major ukrainien a annoncé le 17 juillet avoir frappé la raffinerie Yanos, à Iaroslavl, à environ 250 km au nord-est de Moscou, provoquant un incendie. Cette frappe s'inscrit dans la campagne ukrainienne visant les infrastructures énergétiques russes, en miroir des frappes russes sur les villes ukrainiennes. Aucun bilan humain n'a été communiqué et l'ampleur des dégâts n'est pas confirmée de façon indépendante.",
+      "en": "Ukraine's General Staff announced on July 17 that it had struck the Yanos refinery in Yaroslavl, about 250 km northeast of Moscow, causing a fire. The strike is part of Ukraine's campaign against Russian energy infrastructure, mirroring Russian strikes on Ukrainian cities. No casualty figures were given and the extent of damage has not been independently confirmed.",
+      "es": "El Estado Mayor ucraniano anunció el 17 de julio haber atacado la refinería Yanos, en Yaroslavl, a unos 250 km al noreste de Moscú, provocando un incendio. El ataque forma parte de la campaña ucraniana contra la infraestructura energética rusa, en paralelo a los ataques rusos contra ciudades ucranianas. No se comunicaron víctimas y el alcance de los daños no ha sido confirmado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "L'état-major ukrainien annonce avoir frappé la raffinerie Yanos à Iaroslavl, provoquant un incendie.",
+          "en": "Ukraine's General Staff announces it struck the Yanos refinery in Yaroslavl, causing a fire.",
+          "es": "El Estado Mayor ucraniano anuncia haber atacado la refinería Yanos en Yaroslavl, provocando un incendio."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-finsterwalde-incendie-jugendamt",
+    "coords": [
+      13.7,
+      51.6333
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Tagesspiegel / Rhein-Zeitung",
+    "place": {
+      "fr": "Finsterwalde, Brandebourg, Allemagne",
+      "en": "Finsterwalde, Brandenburg, Germany",
+      "es": "Finsterwalde, Brandeburgo, Alemania"
+    },
+    "title": {
+      "fr": "Un homme menace une employée puis incendie un bureau de l'aide à la jeunesse",
+      "en": "Man threatens employee then sets fire to a youth welfare office",
+      "es": "Un hombre amenaza a una empleada y luego incendia una oficina de asistencia juvenil"
+    },
+    "summary": {
+      "fr": "Le 16 juillet, un homme de 35 ans est entré dans le bureau de l'aide à la jeunesse (Jugendamt) de Finsterwalde, a menacé et insulté une employée, puis a mis le feu au bâtiment à l'aide d'un liquide inflammable avant d'être interpellé à l'extérieur. Quatre personnes ont été hospitalisées, probablement pour inhalation de fumée. Le parquet enquête pour tentative d'homicide ; le mobile n'est pas encore établi.",
+      "en": "On July 16, a 35-year-old man entered the youth welfare office (Jugendamt) in Finsterwalde, threatened and insulted an employee, then set the building on fire using a flammable liquid before being arrested outside. Four people were hospitalized, likely for smoke inhalation. Prosecutors are investigating on suspicion of attempted manslaughter; the motive has not yet been established.",
+      "es": "El 16 de julio, un hombre de 35 años entró en la oficina de asistencia juvenil (Jugendamt) de Finsterwalde, amenazó e insultó a una empleada, y luego prendió fuego al edificio con un líquido inflamable antes de ser detenido en el exterior. Cuatro personas fueron hospitalizadas, probablemente por inhalación de humo. La fiscalía investiga por tentativa de homicidio; el móvil aún no se ha establecido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Un homme incendie le bureau de l'aide à la jeunesse de Finsterwalde après avoir menacé une employée ; quatre personnes hospitalisées.",
+          "en": "A man sets fire to the Finsterwalde youth welfare office after threatening an employee; four people hospitalized.",
+          "es": "Un hombre incendia la oficina de asistencia juvenil de Finsterwalde tras amenazar a una empleada; cuatro personas hospitalizadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "russie-nadezhdin-condamnation",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Associated Press / The Moscow Times",
+    "place": {
+      "fr": "Région de Moscou, Russie",
+      "en": "Moscow region, Russia",
+      "es": "Región de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "L'opposant Boris Nadejdine condamné, écarté des élections législatives",
+      "en": "Opposition figure Boris Nadezhdin convicted, barred from parliamentary election",
+      "es": "El opositor Borís Nadezhdin, condenado, queda excluido de las elecciones legislativas"
+    },
+    "summary": {
+      "fr": "Un tribunal de la région de Moscou a condamné le 17 juillet l'homme politique anti-guerre Boris Nadejdine, qui avait tenté de se présenter contre Vladimir Poutine en 2024, pour avoir montré des « symboles extrémistes » dans une vidéo de 2023 où apparaissait brièvement une photo d'Alexeï Navalny. Il a été condamné à une amende symbolique d'environ 1 000 roubles, mais cette condamnation lui interdit de se présenter aux prochaines élections législatives russes.",
+      "en": "A court in the Moscow region convicted anti-war politician Boris Nadezhdin on July 17 — who had tried to run against Vladimir Putin in 2024 — of displaying 'extremist symbols' in a 2023 video that briefly showed a photo of Alexei Navalny. He was fined a symbolic sum of around 1,000 rubles, but the conviction bars him from running in Russia's upcoming parliamentary election.",
+      "es": "Un tribunal de la región de Moscú condenó el 17 de julio al político antibélico Borís Nadezhdin —quien había intentado presentarse contra Vladímir Putin en 2024— por mostrar 'símbolos extremistas' en un vídeo de 2023 en el que aparecía brevemente una foto de Alexéi Navalni. Fue multado con una suma simbólica de unos 1.000 rublos, pero la condena le impide presentarse a las próximas elecciones legislativas rusas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Boris Nadejdine est condamné pour affichage de « symboles extrémistes », ce qui lui interdit de se présenter aux législatives.",
+          "en": "Boris Nadezhdin is convicted of displaying 'extremist symbols', barring him from running in the parliamentary election.",
+          "es": "Borís Nadezhdin es condenado por exhibir 'símbolos extremistas', lo que le impide presentarse a las legislativas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-peak-district-incendie",
+    "coords": [
+      -1.81,
+      53.47
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Derbyshire Times / Yahoo News UK",
+    "place": {
+      "fr": "Col de Woodhead, Peak District, Angleterre",
+      "en": "Woodhead Pass, Peak District, England",
+      "es": "Woodhead Pass, Peak District, Inglaterra"
+    },
+    "title": {
+      "fr": "Un accident de voiture déclenche un incendie de lande dans le Peak District",
+      "en": "Car crash sparks moorland wildfire in the Peak District",
+      "es": "Un accidente de coche provoca un incendio de páramo en el Peak District"
+    },
+    "summary": {
+      "fr": "Le 16 juillet, une voiture a quitté la route et s'est écrasée sur la lande près du col de Woodhead, dans le Peak District, déclenchant un incendie qui s'est propagé dans un contexte de vague de chaleur et de sécheresse. Plusieurs services d'incendie sont intervenus, y compris par hélicoptère, et la route A628 a été fermée, une fermeture qui devait se prolonger plusieurs jours. Aucun blessé n'a été signalé.",
+      "en": "On July 16, a car left the road and crashed onto moorland near Woodhead Pass in the Peak District, sparking a wildfire that spread amid an ongoing heatwave and dry conditions. Multiple fire services responded, including by helicopter, and the A628 road was closed, with the closure expected to last several days. No injuries were reported.",
+      "es": "El 16 de julio, un coche se salió de la carretera y se estrelló en el páramo cerca de Woodhead Pass, en el Peak District, provocando un incendio que se propagó en medio de una ola de calor y sequía. Varios servicios de bomberos intervinieron, incluso con helicóptero, y la carretera A628 fue cerrada, cierre que se prolongaría varios días. No se informó de heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Une voiture s'écrase sur la lande près du col de Woodhead et déclenche un incendie ; la route A628 est fermée.",
+          "en": "A car crashes onto moorland near Woodhead Pass and sparks a wildfire; the A628 road is closed.",
+          "es": "Un coche se estrella en el páramo cerca de Woodhead Pass y provoca un incendio; la carretera A628 es cerrada."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "usa-maine-ice-fusillade",
+    "coords": [
+      -70.4534,
+      43.4926
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / Portland Press Herald",
+    "place": {
+      "fr": "Biddeford, Maine, États-Unis",
+      "en": "Biddeford, Maine, United States",
+      "es": "Biddeford, Maine, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un agent de l'ICE tue un homme lors d'un contrôle routier, une enquête ouverte",
+      "en": "ICE officer kills man during traffic stop, investigation opened",
+      "es": "Un agente de ICE mata a un hombre durante un control de tráfico, se abre una investigación"
+    },
+    "summary": {
+      "fr": "Le 13 juillet, l'agent de l'immigration (ICE) David Brouillette, ancien policier local, a tué par balle Joan Sebastián Durán Guerrero, un Colombien de 26 ans, après que celui-ci a percuté le véhicule des agents lors d'un contrôle routier à Biddeford. M. Durán Guerrero n'était pas la cible de l'opération et disposait d'une autorisation de travail. Les agents ne portaient pas de caméra-piéton ; le procureur général du Maine et le FBI ont ouvert une enquête, et l'ICE a suspendu la plupart de ses contrôles routiers en attendant un déploiement élargi de caméras.",
+      "en": "On July 13, ICE officer David Brouillette, a former local police officer, fatally shot Joan Sebastián Durán Guerrero, a 26-year-old Colombian national, after Durán Guerrero rammed the agents' vehicle during a traffic stop in Biddeford. Durán Guerrero was not the target of the operation and was authorized to work in the US. The officers were not wearing body cameras; Maine's Attorney General and the FBI have opened an investigation, and ICE has paused most traffic stops pending wider use of body cameras.",
+      "es": "El 13 de julio, el agente de inmigración (ICE) David Brouillette, expolicía local, disparó y mató a Joan Sebastián Durán Guerrero, un colombiano de 26 años, después de que este chocara contra el vehículo de los agentes durante un control de tráfico en Biddeford. Durán Guerrero no era el objetivo de la operación y contaba con autorización para trabajar en EE. UU. Los agentes no llevaban cámara corporal; la Fiscalía General de Maine y el FBI abrieron una investigación, y ICE suspendió la mayoría de sus controles de tráfico a la espera de un mayor uso de cámaras."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "13/07/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "L'agent ICE David Brouillette tue par balle Joan Sebastián Durán Guerrero lors d'un contrôle routier à Biddeford.",
+          "en": "ICE officer David Brouillette fatally shoots Joan Sebastián Durán Guerrero during a traffic stop in Biddeford.",
+          "es": "El agente de ICE David Brouillette dispara y mata a Joan Sebastián Durán Guerrero durante un control de tráfico en Biddeford."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "L'identité de l'agent est rendue publique ; le procureur général du Maine et le FBI ouvrent une enquête, l'ICE suspend la plupart de ses contrôles routiers.",
+          "en": "The officer's identity is made public; Maine's Attorney General and the FBI open an investigation, ICE pauses most traffic stops.",
+          "es": "Se hace pública la identidad del agente; la Fiscalía de Maine y el FBI abren una investigación, ICE suspende la mayoría de sus controles de tráfico."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "usa-texas-inondations-nouvelles",
+    "coords": [
+      -99.1403,
+      30.0474
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CNN / Washington Post",
+    "place": {
+      "fr": "Comté de Kerr (Texas Hill Country), Texas, États-Unis",
+      "en": "Kerr County (Texas Hill Country), Texas, United States",
+      "es": "Condado de Kerr (Texas Hill Country), Texas, Estados Unidos"
+    },
+    "title": {
+      "fr": "De nouvelles inondations éclair frappent le Texas Hill Country, un an après les crues meurtrières",
+      "en": "New flash floods hit the Texas Hill Country, a year after deadly 2025 floods",
+      "es": "Nuevas inundaciones repentinas golpean el Texas Hill Country, un año después de las crecidas mortales"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles, atteignant localement plus de 60 cm, ont provoqué des inondations éclair les 16 et 17 juillet dans le Texas Hill Country, la même région dévastée par les crues meurtrières de juillet 2025 qui avaient fait plus de 130 morts. Au moins deux personnes sont mortes et plus de 230 ont été secourues par bateau, hélicoptère et véhicule tout-terrain. Les autorités locales attribuent le nombre de victimes limité à l'amélioration des systèmes d'alerte.",
+      "en": "Torrential rain, locally exceeding 60 cm, triggered flash floods on July 16 and 17 in the Texas Hill Country, the same region devastated by deadly floods in July 2025 that killed more than 130 people. At least two people died and more than 230 were rescued by boat, helicopter and high-clearance vehicle. Local officials credit improved warning systems for the limited death toll.",
+      "es": "Lluvias torrenciales, localmente superiores a 60 cm, provocaron inundaciones repentinas el 16 y 17 de julio en el Texas Hill Country, la misma región devastada por las crecidas mortales de julio de 2025 que dejaron más de 130 muertos. Al menos dos personas murieron y más de 230 fueron rescatadas en bote, helicóptero y vehículos de gran altura. Las autoridades locales atribuyen el reducido número de víctimas a la mejora de los sistemas de alerta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Des pluies torrentielles provoquent des inondations éclair dans le Texas Hill Country ; au moins deux morts et plus de 230 personnes secourues.",
+          "en": "Torrential rain triggers flash floods in the Texas Hill Country; at least two dead and more than 230 people rescued.",
+          "es": "Lluvias torrenciales provocan inundaciones repentinas en el Texas Hill Country; al menos dos muertos y más de 230 personas rescatadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "canada-stronach-nullite-proces",
+    "coords": [
+      -79.3832,
+      43.6532
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CBC News / Bloomberg",
+    "place": {
+      "fr": "Toronto, Ontario, Canada",
+      "en": "Toronto, Ontario, Canada",
+      "es": "Toronto, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Nullité partielle du procès de Frank Stronach, fondateur de Magna International",
+      "en": "Partial mistrial declared in Frank Stronach case, Magna International founder",
+      "es": "Nulidad parcial del juicio contra Frank Stronach, fundador de Magna International"
+    },
+    "summary": {
+      "fr": "Un juge a déclaré le 17 juillet la nullité de l'une des condamnations pour agression sexuelle prononcées en juin contre Frank Stronach, 93 ans, fondateur du groupe automobile Magna International, après que des courriels d'une avocate impliquée dans une procédure civile ont contredit le témoignage de la plaignante lors du procès pénal. Il lui reste une condamnation pour agression indécente historique ; sa peine doit être fixée en septembre.",
+      "en": "A judge declared a mistrial on July 17 for one of the sexual assault convictions handed down in June against Frank Stronach, 93, founder of automotive group Magna International, after emails from a lawyer involved in a related civil suit contradicted the accuser's criminal-trial testimony. He still faces one conviction for historical indecent assault; sentencing is set for September.",
+      "es": "Un juez declaró el 17 de julio la nulidad de una de las condenas por agresión sexual dictadas en junio contra Frank Stronach, de 93 años, fundador del grupo automotriz Magna International, después de que unos correos de una abogada implicada en una demanda civil contradijeran el testimonio de la denunciante en el juicio penal. Aún enfrenta una condena por agresión indecente histórica; la sentencia se fijará en septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Un juge déclare la nullité de l'une des condamnations de Frank Stronach après des courriels contredisant le témoignage de la plaignante.",
+          "en": "A judge declares a mistrial on one of Frank Stronach's convictions after emails contradicting the accuser's testimony.",
+          "es": "Un juez declara la nulidad de una de las condenas de Frank Stronach tras correos que contradicen el testimonio de la denunciante."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "mondial2026-argentine-angleterre",
+    "coords": [
+      -84.4009,
+      33.755
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FIFA / NPR",
+    "place": {
+      "fr": "Atlanta, Géorgie, États-Unis",
+      "en": "Atlanta, Georgia, United States",
+      "es": "Atlanta, Georgia, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'Argentine bat l'Angleterre et se qualifie pour la finale de la Coupe du monde 2026",
+      "en": "Argentina beats England to reach the 2026 World Cup final",
+      "es": "Argentina vence a Inglaterra y se clasifica para la final del Mundial 2026"
+    },
+    "summary": {
+      "fr": "L'Argentine a battu l'Angleterre 2-1 en demi-finale de la Coupe du monde à Atlanta le 15 juillet. Après l'ouverture du score anglaise par Anthony Gordon, Enzo Fernández a égalisé (85e) avant que Lautaro Martínez ne marque le but de la victoire dans les arrêts de jeu. L'Argentine affrontera l'Espagne, tombeuse de la France en demi-finale, dimanche 19 juillet en finale.",
+      "en": "Argentina beat England 2-1 in the World Cup semifinal in Atlanta on July 15. After England's Anthony Gordon opened the scoring, Enzo Fernández equalized in the 85th minute before Lautaro Martínez scored the winner in stoppage time. Argentina will face Spain, who beat France in the other semifinal, in Sunday's July 19 final.",
+      "es": "Argentina venció 2-1 a Inglaterra en la semifinal del Mundial en Atlanta el 15 de julio. Tras el gol inicial del inglés Anthony Gordon, Enzo Fernández empató en el minuto 85 antes de que Lautaro Martínez marcara el gol de la victoria en el tiempo añadido. Argentina se enfrentará a España, que eliminó a Francia en la otra semifinal, en la final del domingo 19 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "L'Argentine bat l'Angleterre 2-1 en demi-finale et se qualifie pour la finale du 19 juillet contre l'Espagne.",
+          "en": "Argentina beats England 2-1 in the semifinal and qualifies for the July 19 final against Spain.",
+          "es": "Argentina vence 2-1 a Inglaterra en la semifinal y se clasifica para la final del 19 de julio contra España."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "argentine-bus-pont-carmen-de-areco",
+    "coords": [
+      -59.8333,
+      -34.3667
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "Infobae / La Nación",
+    "place": {
+      "fr": "Carmen de Areco, province de Buenos Aires, Argentine",
+      "en": "Carmen de Areco, Buenos Aires Province, Argentina",
+      "es": "Carmen de Areco, provincia de Buenos Aires, Argentina"
+    },
+    "title": {
+      "fr": "Un autocar tombe d'un pont pendant une tempête de vent, une vingtaine de blessés",
+      "en": "Bus falls off bridge during windstorm, around twenty injured",
+      "es": "Un micro cae de un puente durante una tormenta de viento, una veintena de heridos"
+    },
+    "summary": {
+      "fr": "Le 17 juillet, un autocar de la compagnie Vía TAC transportant une vingtaine de passagers en provenance de Laboulaye à destination de Buenos Aires est tombé d'environ six mètres depuis un pont enjambant le ruisseau La Guardia, sur la route 7 près de Carmen de Areco, en pleine tempête de vent. La protection civile locale a fait état de 19 à 20 blessés, dont un bébé, mais aucun mort. Des passagers évoquent une rafale de vent ayant fait perdre le contrôle du véhicule au chauffeur, une explication non encore confirmée officiellement.",
+      "en": "On July 17, a Vía TAC intercity bus carrying around twenty passengers from Laboulaye to Buenos Aires fell about six meters off a bridge over the Arroyo La Guardia, on Route 7 near Carmen de Areco, during a windstorm. Local civil defense reported 19 to 20 injured, including a baby, but no deaths. Passengers said a strong gust of wind caused the driver to lose control, an explanation not yet officially confirmed.",
+      "es": "El 17 de julio, un micro de la empresa Vía TAC que transportaba a una veintena de pasajeros desde Laboulaye hacia Buenos Aires cayó unos seis metros desde un puente sobre el arroyo La Guardia, en la ruta 7 cerca de Carmen de Areco, en medio de una tormenta de viento. La Defensa Civil local informó de entre 19 y 20 heridos, entre ellos un bebé, pero ningún muerto. Algunos pasajeros mencionaron una fuerte ráfaga de viento que habría hecho perder el control al conductor, explicación aún no confirmada oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Un autocar tombe d'un pont près de Carmen de Areco pendant une tempête de vent ; 19 à 20 blessés, aucun mort.",
+          "en": "A bus falls off a bridge near Carmen de Areco during a windstorm; 19 to 20 injured, no deaths.",
+          "es": "Un micro cae de un puente cerca de Carmen de Areco durante una tormenta de viento; entre 19 y 20 heridos, ningún muerto."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "bresil-mato-grosso-collision-br174",
+    "coords": [
+      -59.6,
+      -14.53
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "Só Notícias / Gazeta Digital",
+    "place": {
+      "fr": "Nova Lacerda, Mato Grosso, Brésil",
+      "en": "Nova Lacerda, Mato Grosso, Brazil",
+      "es": "Nova Lacerda, Mato Grosso, Brasil"
+    },
+    "title": {
+      "fr": "Une collision impliquant des camions et un véhicule de police fait deux morts sur la BR-174",
+      "en": "Collision involving trucks and a police vehicle kills two on the BR-174",
+      "es": "Una colisión entre camiones y un vehículo policial deja dos muertos en la BR-174"
+    },
+    "summary": {
+      "fr": "Le 17 juillet, une collision impliquant deux camions, un pick-up Ford F-1000 et un véhicule de la police militaire a fait deux morts et deux blessés sur la route BR-174, dans la municipalité de Nova Lacerda, dans l'État du Mato Grosso. L'accident a provoqué un incendie, nécessitant l'intervention des pompiers ; les policiers du véhicule impliqué n'ont pas été blessés. La route a été entièrement fermée le temps des constatations.",
+      "en": "On July 17, a collision involving two trucks, a Ford F-1000 pickup and a military police vehicle killed two people and injured two others on the BR-174 highway, in the municipality of Nova Lacerda, Mato Grosso state. The crash sparked a fire requiring a fire department response; the police officers in the patrol car were unhurt. The highway was fully closed during the forensic investigation.",
+      "es": "El 17 de julio, una colisión entre dos camiones, una camioneta Ford F-1000 y un vehículo de la policía militar dejó dos muertos y dos heridos en la carretera BR-174, en el municipio de Nova Lacerda, estado de Mato Grosso. El choque provocó un incendio que requirió la intervención de los bomberos; los policías del vehículo implicado no resultaron heridos. La carretera fue cerrada por completo durante el trabajo forense."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une collision entre camions et véhicule de police fait deux morts et un incendie sur la BR-174, à Nova Lacerda.",
+          "en": "A collision between trucks and a police vehicle kills two and sparks a fire on the BR-174, in Nova Lacerda.",
+          "es": "Una colisión entre camiones y un vehículo policial deja dos muertos y un incendio en la BR-174, en Nova Lacerda."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "egypte-beni-suef-accident",
+    "coords": [
+      31.0994,
+      29.0661
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "Times of Israel / Egypt Independent",
+    "place": {
+      "fr": "Route Beni Souef–Gizeh, gouvernorat de Beni Souef, Égypte",
+      "en": "Beni Suef–Giza road, Beni Suef Governorate, Egypt",
+      "es": "Carretera Beni Suef–Guiza, gobernación de Beni Suef, Egipto"
+    },
+    "title": {
+      "fr": "Un accident sur la route Beni Souef–Gizeh fait au moins 16 morts, en majorité des policiers",
+      "en": "Crash on the Beni Suef–Giza road kills at least 16, mostly police officers",
+      "es": "Un accidente en la carretera Beni Suef–Guiza deja al menos 16 muertos, en su mayoría policías"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 17 au 18 juillet, un véhicule de police transportant des appelés est entré en collision avec un camion sur la route reliant Beni Souef à Gizeh, les deux véhicules terminant leur course dans un canal en bordure de route. Au moins 16 personnes sont mortes, dont 13 policiers, et quatre autres ont été blessées. Certaines sources évoquent un carambolage impliquant davantage de véhicules, sans que ce point soit confirmé de façon homogène.",
+      "en": "Overnight on July 17-18, a police vehicle carrying conscripts collided with a truck on the road linking Beni Suef and Giza, with both vehicles ending up in a roadside canal. At least 16 people died, 13 of them police officers, and four others were injured. Some sources describe a larger multi-vehicle pileup, a detail not consistently confirmed across accounts.",
+      "es": "En la noche del 17 al 18 de julio, un vehículo policial que transportaba a reclutas colisionó con un camión en la carretera que une Beni Suef y Guiza, y ambos vehículos terminaron en un canal junto a la vía. Al menos 16 personas murieron, 13 de ellas policías, y otras cuatro resultaron heridas. Algunas fuentes hablan de un choque múltiple con más vehículos implicados, un detalle que no se confirma de manera uniforme."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "Un véhicule de police entre en collision avec un camion et termine sa course dans un canal ; au moins 16 morts, dont 13 policiers.",
+          "en": "A police vehicle collides with a truck and ends up in a canal; at least 16 dead, 13 of them police officers.",
+          "es": "Un vehículo policial colisiona con un camión y termina en un canal; al menos 16 muertos, 13 de ellos policías."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-kogi-enlevement-neco",
+    "coords": [
+      7.0068,
+      7.7093
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Gouvernement de l'État de Kogi / Premium Times",
+    "place": {
+      "fr": "Olowa, zone de gouvernement local de Dekina, État de Kogi, Nigeria",
+      "en": "Olowa, Dekina Local Government Area, Kogi State, Nigeria",
+      "es": "Olowa, área de gobierno local de Dekina, estado de Kogi, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent cinq personnes dans un centre d'examen au Nigeria, quatre libérées",
+      "en": "Gunmen kidnap five people at an exam centre in Nigeria, four freed",
+      "es": "Hombres armados secuestran a cinco personas en un centro de examen en Nigeria, cuatro liberadas"
+    },
+    "summary": {
+      "fr": "Le 14 juillet, des hommes armés ont fait irruption dans une école secondaire d'Olowa, officiellement fermée mais réutilisée comme centre d'examen national (NECO), enlevant le principal de l'établissement, un responsable du NECO et trois candidats. Une opération conjointe de l'armée, des services de sécurité et de la police a permis la libération de quatre des cinq otages, relâchés en forêt, a annoncé le gouvernement de l'État de Kogi les 16 et 17 juillet. Une enquête est en cours sur l'utilisation de cette école fermée comme centre d'examen.",
+      "en": "On July 14, gunmen stormed a secondary school in Olowa — officially closed but reportedly repurposed as a national exam (NECO) centre — kidnapping the school principal, a NECO official and three candidates. A joint military, security service and police operation secured the release of four of the five hostages, released into a forest, the Kogi State government announced on July 16-17. An investigation is underway into the use of the closed school as an exam centre.",
+      "es": "El 14 de julio, hombres armados irrumpieron en una escuela secundaria de Olowa —oficialmente cerrada pero presuntamente reutilizada como centro de exámenes nacionales (NECO)—, secuestrando al director del centro, a un responsable del NECO y a tres candidatos. Una operación conjunta del ejército, los servicios de seguridad y la policía logró la liberación de cuatro de los cinco rehenes, dejados en libertad en un bosque, según anunció el gobierno del estado de Kogi el 16 y 17 de julio. Se investiga el uso de esta escuela cerrada como centro de examen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/07/2026",
+          "en": "14/07/2026",
+          "es": "14/07/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés enlèvent le principal d'une école, un responsable du NECO et trois candidats à Olowa.",
+          "en": "Gunmen kidnap a school principal, a NECO official and three candidates in Olowa.",
+          "es": "Hombres armados secuestran al director de una escuela, a un responsable del NECO y a tres candidatos en Olowa."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Une opération conjointe des forces de sécurité permet la libération de quatre des cinq otages.",
+          "en": "A joint security forces operation secures the release of four of the five hostages.",
+          "es": "Una operación conjunta de las fuerzas de seguridad logra la liberación de cuatro de los cinco rehenes."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "kenya-ol-kalou-journalistes-agresses",
+    "coords": [
+      36.3667,
+      -0.2833
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "📷",
+    "source": "The Star / Standard Media / Daily Nation",
+    "place": {
+      "fr": "Ol Kalou, comté de Nyandarua, Kenya",
+      "en": "Ol Kalou, Nyandarua County, Kenya",
+      "es": "Ol Kalou, condado de Nyandarua, Kenia"
+    },
+    "title": {
+      "fr": "Des journalistes agressés par des hommes armés lors d'une élection partielle au Kenya",
+      "en": "Journalists attacked by armed men during a by-election in Kenya",
+      "es": "Periodistas agredidos por hombres armados durante una elección parcial en Kenia"
+    },
+    "summary": {
+      "fr": "Le 16 juillet, plusieurs journalistes couvrant l'élection législative partielle d'Ol Kalou ont été agressés par des hommes masqués et armés, ainsi que par des personnes soupçonnées d'être des policiers en civil. Un photographe du Star a été frappé et touché par une grenade lacrymogène, son appareil confisqué ; une équipe de Nation Media Group a été agressée et son matériel saisi ; un cameraman de NTV a été électrocuté par taser, battu et dépouillé. Le Conseil des médias du Kenya a condamné ces agressions et demandé une enquête ; la police n'a pas encore confirmé l'identité des agresseurs.",
+      "en": "On July 16, several journalists covering the Ol Kalou parliamentary by-election were attacked by masked, armed men, as well as individuals suspected of being plainclothes police officers. A Star photojournalist was beaten and hit with a tear gas canister, his camera seized; a Nation Media Group crew was assaulted and had their equipment confiscated; an NTV cameraman was tased, beaten and robbed. Kenya's Media Council condemned the attacks and called for an investigation; police have not yet confirmed the attackers' identity.",
+      "es": "El 16 de julio, varios periodistas que cubrían la elección parlamentaria parcial de Ol Kalou fueron agredidos por hombres armados y encapuchados, así como por personas presuntamente policías de civil. Un fotoperiodista de The Star fue golpeado y alcanzado por un bote de gas lacrimógeno, y le confiscaron la cámara; un equipo de Nation Media Group fue agredido y le incautaron el material; un camarógrafo de NTV fue electrocutado con una pistola eléctrica, golpeado y despojado de sus pertenencias. El Consejo de Medios de Kenia condenó las agresiones y pidió una investigación; la policía aún no ha confirmado la identidad de los agresores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Plusieurs journalistes sont agressés par des hommes armés et masqués lors de l'élection partielle d'Ol Kalou.",
+          "en": "Several journalists are attacked by armed, masked men during the Ol Kalou by-election.",
+          "es": "Varios periodistas son agredidos por hombres armados y encapuchados durante la elección parcial de Ol Kalou."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 3
+  },
+  {
+    "id": "afrique-du-sud-african-bank-suppressions-emplois",
+    "coords": [
+      28.0473,
+      -26.2041
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "News24 / Business Day",
+    "place": {
+      "fr": "Johannesburg, Afrique du Sud",
+      "en": "Johannesburg, South Africa",
+      "es": "Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "African Bank pourrait supprimer jusqu'à 1 200 emplois et fermer 90 agences",
+      "en": "African Bank may cut up to 1,200 jobs and close 90 branches",
+      "es": "African Bank podría suprimir hasta 1.200 empleos y cerrar 90 sucursales"
+    },
+    "summary": {
+      "fr": "La banque sud-africaine African Bank a annoncé le 16 juillet être entrée en consultation formelle avec le syndicat SASBO en vue d'une restructuration pouvant entraîner la suppression de 1 200 emplois, soit plus d'un quart de ses effectifs, et la fermeture de 90 agences. Cette décision fait suite à une perte semestrielle de 624 millions de rands (période close en mars 2026), la banque évoquant des coûts supérieurs aux revenus après plusieurs acquisitions. Son projet d'introduction en Bourse a été repoussé à 2030.",
+      "en": "South African lender African Bank announced on July 16 that it had entered formal consultations with the SASBO union over a restructuring that could cut 1,200 jobs — more than a quarter of its workforce — and close 90 branches. The move follows a half-year loss of 624 million rand (period ended March 2026), with the bank citing costs outpacing revenue after several acquisitions. Its planned stock market listing has been pushed back to 2030.",
+      "es": "El banco sudafricano African Bank anunció el 16 de julio que había entrado en consultas formales con el sindicato SASBO sobre una reestructuración que podría suprimir 1.200 empleos —más de una cuarta parte de su plantilla— y cerrar 90 sucursales. La medida sigue a una pérdida semestral de 624 millones de rands (periodo cerrado en marzo de 2026), y el banco atribuye la situación a costos superiores a los ingresos tras varias adquisiciones. Su prevista salida a bolsa se ha aplazado a 2030."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "African Bank entre en consultation formelle avec le syndicat SASBO sur un plan pouvant supprimer 1 200 emplois.",
+          "en": "African Bank enters formal consultations with the SASBO union over a plan that could cut 1,200 jobs.",
+          "es": "African Bank entra en consultas formales con el sindicato SASBO sobre un plan que podría suprimir 1.200 empleos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "chine-pib-t2-ralentissement",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bureau national des statistiques de Chine / SCMP",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La croissance chinoise ralentit à 4,3 % au deuxième trimestre",
+      "en": "China's growth slows to 4.3% in the second quarter",
+      "es": "El crecimiento de China se desacelera al 4,3 % en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "Le Bureau national des statistiques a annoncé le 15 juillet que le PIB chinois avait progressé de 4,3 % sur un an au deuxième trimestre 2026, son rythme trimestriel le plus faible depuis 2022 et en dessous des prévisions. La consommation atone, le recul de l'investissement et la crise persistante de l'immobilier ont pesé sur la croissance, en partie compensés par des exportations dynamiques dopées par l'intelligence artificielle ; le choc pétrolier lié au conflit avec l'Iran a également été cité comme facteur de ralentissement.",
+      "en": "China's National Bureau of Statistics announced on July 15 that GDP grew 4.3% year-on-year in the second quarter of 2026, its weakest quarterly pace since 2022 and below forecasts. Weak consumer spending, falling investment and a persistent property slump weighed on growth, partly offset by resilient AI-driven exports; the oil shock linked to the Iran conflict was also cited as a drag.",
+      "es": "La Oficina Nacional de Estadísticas anunció el 15 de julio que el PIB chino creció un 4,3 % interanual en el segundo trimestre de 2026, su ritmo trimestral más débil desde 2022 y por debajo de las previsiones. El consumo débil, la caída de la inversión y la persistente crisis inmobiliaria lastraron el crecimiento, parcialmente compensado por unas exportaciones dinámicas impulsadas por la inteligencia artificial; el choque petrolero ligado al conflicto con Irán también se citó como factor de desaceleración."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "Le Bureau national des statistiques annonce une croissance du PIB de 4,3 % au deuxième trimestre, la plus faible depuis 2022.",
+          "en": "The National Bureau of Statistics announces 4.3% GDP growth in the second quarter, the weakest since 2022.",
+          "es": "La Oficina Nacional de Estadísticas anuncia un crecimiento del PIB del 4,3 % en el segundo trimestre, el más débil desde 2022."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "id": "coree-du-sud-taux-directeur-hausse",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Banque de Corée / CNBC",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Banque de Corée relève son taux directeur pour la première fois depuis 2023",
+      "en": "Bank of Korea raises rates for the first time since 2023",
+      "es": "El Banco de Corea sube los tipos de interés por primera vez desde 2023"
+    },
+    "summary": {
+      "fr": "La Banque de Corée a relevé le 16 juillet son taux directeur de 25 points de base, à 2,75 %, une première hausse depuis début 2023, invoquant une inflation à 3,2 % en juin, la hausse du crédit aux ménages et des prix de l'immobilier, ainsi que la faiblesse du won. Le gouverneur Shin Hyun-song a laissé entendre que d'autres resserrements pourraient suivre, tout en jugeant la prévision de croissance de 2,6 % pour 2026 désormais trop basse au vu de l'essor des exportations de semi-conducteurs liées à l'IA.",
+      "en": "The Bank of Korea raised its base rate by 25 basis points to 2.75% on July 16, its first hike since early 2023, citing June inflation of 3.2%, rising household credit and property prices, and a weak won. Governor Shin Hyun-song signaled further tightening could follow, while saying the bank's 2.6% growth forecast for 2026 now appeared too low given an AI-driven chip export boom.",
+      "es": "El Banco de Corea subió su tasa de referencia en 25 puntos básicos, hasta el 2,75 %, el 16 de julio, su primera subida desde principios de 2023, citando una inflación del 3,2 % en junio, el aumento del crédito a los hogares y de los precios inmobiliarios, y la debilidad del won. El gobernador Shin Hyun-song sugirió que podrían seguir nuevos endurecimientos, al tiempo que consideró que la previsión de crecimiento del 2,6 % para 2026 ahora parecía demasiado baja dado el auge de las exportaciones de chips impulsado por la IA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "La Banque de Corée relève son taux directeur de 25 points de base, à 2,75 %, sa première hausse depuis 2023.",
+          "en": "The Bank of Korea raises its base rate by 25 basis points to 2.75%, its first hike since 2023.",
+          "es": "El Banco de Corea sube su tasa de referencia en 25 puntos básicos, hasta el 2,75 %, su primera subida desde 2023."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "id": "hong-kong-librairies-perquisitions",
+    "coords": [
+      114.1694,
+      22.3193
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "📚",
+    "source": "NPR / South China Morning Post / Hong Kong Free Press",
+    "place": {
+      "fr": "Kowloon, Hong Kong",
+      "en": "Kowloon, Hong Kong",
+      "es": "Kowloon, Hong Kong"
+    },
+    "title": {
+      "fr": "La police de Hong Kong perquisitionne deux librairies indépendantes et arrête cinq personnes",
+      "en": "Hong Kong police raid two independent bookstores, arrest five",
+      "es": "La policía de Hong Kong allana dos librerías independientes y detiene a cinco personas"
+    },
+    "summary": {
+      "fr": "La police de la sécurité nationale a perquisitionné le 15 juillet les librairies indépendantes Have a Nice Stay (Prince Edward) et Greenfield Book Store (Mong Kok), arrêtant cinq personnes âgées de 30 à 59 ans soupçonnées d'avoir exposé et vendu des ouvrages à « intention séditieuse », en vertu de la loi de sécurité nationale de 2024. Il s'agit de la troisième vague d'arrestations visant des librairies cette année, après des opérations en mars et juin ; Have a Nice Stay avait déjà annoncé sa fermeture pour le 30 août.",
+      "en": "National security police raided the independent bookstores Have a Nice Stay (Prince Edward) and Greenfield Book Store (Mong Kok) on July 15, arresting five people aged 30 to 59 on suspicion of displaying and selling material with 'seditious intent' under the 2024 national security law. It is the third such wave of bookstore-related arrests this year, following operations in March and June; Have a Nice Stay had already announced it would close on August 30.",
+      "es": "La policía de seguridad nacional allanó el 15 de julio las librerías independientes Have a Nice Stay (Prince Edward) y Greenfield Book Store (Mong Kok), deteniendo a cinco personas de entre 30 y 59 años sospechosas de exhibir y vender material con 'intención sediciosa', en virtud de la ley de seguridad nacional de 2024. Es la tercera oleada de detenciones relacionadas con librerías este año, tras operaciones en marzo y junio; Have a Nice Stay ya había anunciado su cierre para el 30 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "La police perquisitionne deux librairies indépendantes de Kowloon et arrête cinq personnes pour « intention séditieuse ».",
+          "en": "Police raid two independent bookstores in Kowloon and arrest five people for 'seditious intent'.",
+          "es": "La policía allana dos librerías independientes de Kowloon y detiene a cinco personas por 'intención sediciosa'."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W29",
     "priority": 1
   }
 ]
