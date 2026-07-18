@@ -212,6 +212,19 @@
           "en": "Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.",
           "es": "Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de missile russe distincte touche un immeuble résidentiel à Odessa, faisant 2 morts et 8 blessés, selon Ukrinform.",
+          "en": "A separate Russian missile strike hits a residential building in Odesa, killing 2 and wounding 8, according to Ukrinform.",
+          "es": "Un ataque distinto con misiles rusos alcanza un edificio residencial en Odesa, matando a 2 personas y dejando 8 heridos, según Ukrinform."
+        },
         "active": true
       }
     ],
@@ -368,6 +381,19 @@
           "fr": "Selon Feux de Forêt, les incendies sont fixés (ne progressent plus) mais pas encore éteints.",
           "en": "According to Feux de Forêt, the fires are contained (no longer spreading) but not yet extinguished.",
           "es": "Según Feux de Forêt, los incendios están controlados (ya no avanzan) pero aún no extinguidos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15-16/07/2026",
+          "en": "15-16/07/2026",
+          "es": "15-16/07/2026"
+        },
+        "d": {
+          "fr": "Deux suspects, dont un pompier volontaire et un étudiant de 18 ans, sont mis en examen et placés en détention provisoire pour destruction par incendie, selon franceinfo.",
+          "en": "Two suspects, including a volunteer firefighter and an 18-year-old student, are placed under formal investigation and pretrial detention for destruction by fire, according to franceinfo.",
+          "es": "Dos sospechosos, entre ellos un bombero voluntario y un estudiante de 18 años, son imputados formalmente y enviados a prisión preventiva por destrucción mediante incendio, según franceinfo."
         },
         "active": true
       }
@@ -713,7 +739,7 @@
       {
         "t": {
           "fr": "08/04/2026",
-          "en": "04/08/2026",
+          "en": "08/04/2026",
           "es": "08/04/2026"
         },
         "d": {
@@ -733,6 +759,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis mènent une septième nuit consécutive de frappes contre l'Iran, visant notamment des ponts et sites côtiers dans la province du Hormozgan ; l'Iran riposte contre des cibles liées aux États-Unis à Bahreïn, au Qatar, en Jordanie, au Koweït et en Syrie, selon Al Jazeera.",
+          "en": "The US carries out a seventh straight night of strikes on Iran, hitting bridges and coastal sites in Hormozgan province among other targets; Iran retaliates against US-linked targets in Bahrain, Qatar, Jordan, Kuwait and Syria, according to Al Jazeera.",
+          "es": "Estados Unidos lleva a cabo una séptima noche consecutiva de ataques contra Irán, alcanzando puentes y emplazamientos costeros en la provincia de Ormuz, entre otros objetivos; Irán responde contra objetivos vinculados a EE. UU. en Baréin, Catar, Jordania, Kuwait y Siria, según Al Jazeera."
         },
         "active": true
       }
@@ -795,7 +834,7 @@
     "severe": false,
     "category": "sport",
     "icon": "⚽",
-    "source": "FIFA",
+    "source": "FIFA / ESPN",
     "week": "2026-W29",
     "place": {
       "fr": "Stade de New York/New Jersey, États-Unis",
@@ -803,14 +842,58 @@
       "es": "Estadio de Nueva York/Nueva Jersey, Estados Unidos"
     },
     "title": {
-      "fr": "Coupe du monde 2026 : le Brésil affronte la Norvège en huitièmes de finale",
-      "en": "2026 World Cup: Brazil faces Norway in the round of 16",
-      "es": "Mundial 2026: Brasil se enfrenta a Noruega en octavos de final"
+      "fr": "La Norvège élimine le Brésil et atteint pour la première fois les quarts de finale du Mondial",
+      "en": "Norway beats Brazil to reach World Cup quarterfinals for the first time",
+      "es": "Noruega elimina a Brasil y alcanza por primera vez los cuartos de final del Mundial"
     },
     "summary": {
-      "fr": "Le Brésil affronte la Norvège ce vendredi 17 juillet au stade de New York/New Jersey, dans le cadre des huitièmes de finale de la Coupe du monde de la FIFA 2026, organisée aux États-Unis, au Mexique et au Canada, selon les données officielles de la FIFA.",
-      "en": "Brazil faces Norway this Friday, July 17 at the New York/New Jersey Stadium, as part of the round of 16 of the 2026 FIFA World Cup, hosted in the United States, Mexico and Canada, according to official FIFA data.",
-      "es": "Brasil se enfrenta a Noruega este viernes 17 de julio en el estadio de Nueva York/Nueva Jersey, en los octavos de final de la Copa Mundial de la FIFA 2026, organizada en Estados Unidos, México y Canadá, según datos oficiales de la FIFA."
+      "fr": "La Norvège a battu le Brésil 2-1 en huitièmes de finale de la Coupe du monde 2026 de la FIFA, le 5 juillet à East Rutherford (New Jersey). Erling Haaland a inscrit un doublé dans les dernières minutes, tandis que Neymar a transformé un penalty dans le temps additionnel pour le Brésil. Il s'agit de la première qualification de la Norvège en quarts de finale d'une Coupe du monde, selon la FIFA.",
+      "en": "Norway defeated Brazil 2-1 in the round of 16 of the 2026 FIFA World Cup on July 5 in East Rutherford, New Jersey. Erling Haaland scored twice in the final minutes, while Neymar converted a stoppage-time penalty for Brazil. It was the first time Norway has reached the World Cup quarterfinals, according to FIFA.",
+      "es": "Noruega venció a Brasil 2-1 en los octavos de final de la Copa Mundial de la FIFA 2026, el 5 de julio en East Rutherford (Nueva Jersey). Erling Haaland marcó un doblete en los últimos minutos, mientras que Neymar convirtió un penalti en el tiempo añadido para Brasil. Es la primera vez que Noruega alcanza los cuartos de final de un Mundial, según la FIFA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/07/2026",
+          "en": "05/07/2026",
+          "es": "05/07/2026"
+        },
+        "d": {
+          "fr": "La Norvège bat le Brésil 2-1 en huitièmes de finale et se qualifie pour les quarts de finale de la Coupe du monde pour la première fois de son histoire, selon la FIFA.",
+          "en": "Norway beats Brazil 2-1 in the round of 16, reaching the World Cup quarterfinals for the first time in its history, according to FIFA.",
+          "es": "Noruega vence a Brasil 2-1 en los octavos de final y se clasifica por primera vez en su historia a los cuartos de final de la Copa del Mundo, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -93.0,
+      14.9
+    ],
+    "id": "mexique-seisme-chiapas",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CNN / USGS",
+    "place": {
+      "fr": "Golfe de Tehuantepec, au large du Chiapas, Mexique",
+      "en": "Gulf of Tehuantepec, off Chiapas, Mexico",
+      "es": "Golfo de Tehuantepec, frente a las costas de Chiapas, México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,3 au large du Chiapas déclenche une brève alerte au tsunami",
+      "en": "Magnitude 7.3 earthquake off Chiapas triggers brief tsunami alert",
+      "es": "Un sismo de magnitud 7,3 frente al Chiapas activa una breve alerta de tsunami"
+    },
+    "summary": {
+      "fr": "Un séisme peu profond de magnitude 7,3 a frappé au large, dans le golfe de Tehuantepec, à environ 48 km au sud-ouest d'Aquiles Serdán (Chiapas), le 17 juillet, poussant le Centre d'alerte aux tsunamis du Pacifique à évoquer des vagues pouvant atteindre un mètre dans un rayon de 300 km autour de l'épicentre. La présidente mexicaine Claudia Sheinbaum et les autorités guatémaltèques n'ont fait état d'aucun mort ni dégât important ; l'alerte a été levée après plusieurs répliques de magnitude supérieure à 5.",
+      "en": "A shallow magnitude 7.3 earthquake struck offshore in the Gulf of Tehuantepec, about 48 km southwest of Aquiles Serdán, Chiapas, on July 17, prompting the Pacific Tsunami Warning Center to warn of waves up to one meter within 300 km of the epicenter. Mexican President Claudia Sheinbaum and Guatemalan authorities reported no deaths or significant damage; the alert was lifted after several aftershocks above magnitude 5.",
+      "es": "Un sismo poco profundo de magnitud 7,3 sacudió frente a las costas, en el golfo de Tehuantepec, a unos 48 km al suroeste de Aquiles Serdán (Chiapas), el 17 de julio, lo que llevó al Centro de Alerta de Tsunamis del Pacífico a advertir de olas de hasta un metro en un radio de 300 km del epicentro. La presidenta mexicana Claudia Sheinbaum y las autoridades guatemaltecas no reportaron muertos ni daños importantes; la alerta fue levantada tras varias réplicas de magnitud superior a 5."
     },
     "timeline": [
       {
@@ -820,14 +903,838 @@
           "es": "17/07/2026"
         },
         "d": {
-          "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
-          "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
-          "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+          "fr": "Un séisme de magnitude 7,3 frappe au large du Chiapas ; le Centre d'alerte aux tsunamis du Pacifique émet une alerte, levée plus tard sans dégât signalé.",
+          "en": "A magnitude 7.3 earthquake strikes off Chiapas; the Pacific Tsunami Warning Center issues an alert, later lifted with no damage reported.",
+          "es": "Un sismo de magnitud 7,3 sacude frente al Chiapas; el Centro de Alerta de Tsunamis del Pacífico emite una alerta, levantada después sin daños reportados."
         },
         "active": true
       }
     ],
-    "related": [],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -101.0762,
+      56.8508
+    ],
+    "id": "canada-manitoba-evacuation",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / Global News",
+    "place": {
+      "fr": "Lynn Lake, Manitoba, Canada",
+      "en": "Lynn Lake, Manitoba, Canada",
+      "es": "Lynn Lake, Manitoba, Canadá"
+    },
+    "title": {
+      "fr": "Un incendie force une deuxième évacuation de Lynn Lake, au Manitoba, en un mois",
+      "en": "Wildfire forces second evacuation of Lynn Lake, Manitoba in a month",
+      "es": "Un incendio forestal obliga a una segunda evacuación de Lynn Lake, Manitoba, en un mes"
+    },
+    "summary": {
+      "fr": "Un incendie de forêt hors de contrôle, à environ 20 km au sud-ouest de Lynn Lake, au Manitoba, menaçait la principale ligne de transmission électrique de la ville, entraînant un ordre d'évacuation obligatoire pour ses quelque 600 habitants le 17 juillet, selon CBC News. Il s'agit de la deuxième évacuation forcée de la communauté en un peu plus d'un mois, dans le cadre d'un état d'urgence provincial et d'une saison des feux que les autorités du Manitoba qualifient de plus de dix fois supérieure à la moyenne en superficie brûlée.",
+      "en": "An out-of-control wildfire about 20 km southwest of Lynn Lake, Manitoba, threatened the town's main power transmission line, prompting a mandatory evacuation order for its roughly 600 residents on July 17, according to CBC News. It is the community's second forced evacuation in just over a month, amid a provincewide state of emergency and a wildfire season Manitoba officials describe as more than ten times the average area burned.",
+      "es": "Un incendio forestal fuera de control, a unos 20 km al suroeste de Lynn Lake, Manitoba, amenazaba la línea principal de transmisión eléctrica de la localidad, lo que provocó una orden de evacuación obligatoria para sus cerca de 600 habitantes el 17 de julio, según CBC News. Es la segunda evacuación forzada de la comunidad en poco más de un mes, en medio de un estado de emergencia provincial y una temporada de incendios que las autoridades de Manitoba califican de más de diez veces superior a la superficie promedio quemada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le Manitoba ordonne l'évacuation obligatoire de Lynn Lake, un incendie menaçant la ligne électrique de la ville, selon CBC News.",
+          "en": "Manitoba orders the mandatory evacuation of Lynn Lake as wildfire threatens the town's power line, according to CBC News.",
+          "es": "Manitoba ordena la evacuación obligatoria de Lynn Lake ante la amenaza de un incendio a la línea eléctrica de la localidad, según CBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
     "priority": 1
+  },
+  {
+    "coords": [
+      -98.9047,
+      29.9666
+    ],
+    "id": "texas-inondations-juillet",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "CNN / CBS News",
+    "place": {
+      "fr": "Texas Hill Country (Comfort et Uvalde), États-Unis",
+      "en": "Texas Hill Country (Comfort and Uvalde), United States",
+      "es": "Texas Hill Country (Comfort y Uvalde), Estados Unidos"
+    },
+    "title": {
+      "fr": "Des inondations soudaines font au moins deux morts dans le Texas Hill Country",
+      "en": "Flash floods kill at least two in Texas Hill Country",
+      "es": "Inundaciones repentinas dejan al menos dos muertos en el Texas Hill Country"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles, atteignant 60 cm par endroits, ont provoqué des crues soudaines dans le Texas Hill Country, les Rio Grande Plains et le sud du plateau Edwards les 16 et 17 juillet, faisant au moins deux morts : un homme emporté dans un camping-car près de Comfort et un homme de 74 ans emporté alors qu'il conduisait près d'Uvalde, selon CNN et CBS News. Plus de 230 opérations de sauvetage ont été menées et l'état de catastrophe a été déclaré dans 28 comtés du Texas.",
+      "en": "Torrential rain, up to 60 cm in places, triggered flash flooding across the Texas Hill Country, the Rio Grande Plains and the southern Edwards Plateau on July 16-17, killing at least two people: a man swept away in an RV near Comfort and a 74-year-old man swept away while driving near Uvalde, according to CNN and CBS News. More than 230 rescues were carried out and a disaster was declared in 28 Texas counties.",
+      "es": "Lluvias torrenciales, de hasta 60 cm en algunos puntos, provocaron inundaciones repentinas en el Texas Hill Country, las llanuras del Río Grande y el sur de la meseta Edwards los días 16 y 17 de julio, dejando al menos dos muertos: un hombre arrastrado en una autocaravana cerca de Comfort y un hombre de 74 años arrastrado mientras conducía cerca de Uvalde, según CNN y CBS News. Se realizaron más de 230 operaciones de rescate y se declaró el estado de catástrofe en 28 condados de Texas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Des inondations soudaines font au moins deux morts et plus de 230 sauvetages sont effectués dans le Texas Hill Country, selon CNN.",
+          "en": "Flash floods kill at least two people and prompt over 230 rescues across the Texas Hill Country, according to CNN.",
+          "es": "Inundaciones repentinas dejan al menos dos muertos y provocan más de 230 rescates en el Texas Hill Country, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -47.8645,
+      -15.7942
+    ],
+    "id": "bresil-bolsonaro-visites-suspendues",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Reuters",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne suspend pour 30 jours les visites à l'ex-président Bolsonaro, emprisonné",
+      "en": "Brazil's top court suspends all visits to jailed ex-president Bolsonaro for 30 days",
+      "es": "La justicia brasileña suspende por 30 días las visitas al expresidente Bolsonaro, encarcelado"
+    },
+    "summary": {
+      "fr": "Le juge de la Cour suprême Alexandre de Moraes a ordonné la suspension pour 30 jours des visites à l'ancien président Jair Bolsonaro, qui purge une peine de 27 ans en résidence surveillée pour tentative de coup d'État, n'autorisant plus que le personnel médical et les avocats, selon Reuters. Moraes a indiqué que cette décision faisait suite à une violation des conditions de son assignation à résidence, après que son fils, le sénateur Flávio Bolsonaro, a lu un message politique de son père ; la décision interdit les visites « à finalité politico-électorale » jusqu'aux élections d'octobre.",
+      "en": "Supreme Court Justice Alexandre de Moraes ordered a 30-day suspension of visits to former president Jair Bolsonaro, who is serving a 27-year sentence under house arrest for a coup attempt, allowing only medical staff and lawyers, according to Reuters. Moraes said the move followed a breach of house-arrest terms after Bolsonaro's son, Senator Flávio Bolsonaro, read out a political message from his father; the ruling bars visits 'with a political-electoral purpose' through the October elections.",
+      "es": "El juez del Supremo Tribunal Federal Alexandre de Moraes ordenó la suspensión por 30 días de las visitas al expresidente Jair Bolsonaro, quien cumple una condena de 27 años bajo arresto domiciliario por intento de golpe de Estado, permitiendo únicamente al personal médico y a los abogados, según Reuters. Moraes señaló que la medida se debió a un incumplimiento de las condiciones del arresto domiciliario, después de que su hijo, el senador Flávio Bolsonaro, leyera un mensaje político de su padre; el fallo prohíbe las visitas «con finalidad político-electoral» hasta las elecciones de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes suspend toutes les visites à Jair Bolsonaro pour 30 jours, selon Reuters.",
+          "en": "Justice Alexandre de Moraes suspends all visits to Jair Bolsonaro for 30 days, according to Reuters.",
+          "es": "El juez Alexandre de Moraes suspende todas las visitas a Jair Bolsonaro por 30 días, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.8645,
+      -15.7942
+    ],
+    "id": "bresil-credit-agricole-tarifs",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "source": "Reuters",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le Brésil dévoile un plan de crédit de 2,6 milliards de dollars face aux droits de douane américains",
+      "en": "Brazil unveils $2.6 billion credit package to cushion US tariff impact on farmers",
+      "es": "Brasil presenta un paquete de crédito de 2.600 millones de dólares ante los aranceles de EE. UU."
+    },
+    "summary": {
+      "fr": "Le gouvernement brésilien a autorisé environ 13,3 milliards de reals (2,6 milliards de dollars) de crédits extraordinaires pour l'investissement technologique rural, le refinancement de dettes et des subventions aux producteurs de canne à sucre du Nordeste, en réponse à un nouveau droit de douane américain de 25 % sur de nombreux produits brésiliens, devant entrer en vigueur le 22 juillet, selon Reuters. Sur ce total, 9 milliards de reals sont destinés à l'investissement dans la productivité rurale, 3 milliards au rééquilibrage des dettes, et 270 millions directement aux producteurs de canne à sucre touchés par les droits de douane.",
+      "en": "Brazil's government authorized about 13.3 billion reais ($2.6 billion) in extraordinary credit for rural technology investment, debt refinancing and subsidies for sugarcane producers in the Northeast, in response to a new 25% US tariff on many Brazilian goods due to take effect July 22, according to Reuters. Of the total, 9 billion reais targets rural productivity investment, 3 billion reais supports debt rebalancing, and 270 million reais goes directly to tariff-hit sugarcane producers.",
+      "es": "El gobierno brasileño autorizó unos 13.300 millones de reales (2.600 millones de dólares) en crédito extraordinario para inversión tecnológica rural, refinanciación de deudas y subsidios a productores de caña de azúcar del Nordeste, en respuesta a un nuevo arancel estadounidense del 25% sobre numerosos productos brasileños, que entrará en vigor el 22 de julio, según Reuters. Del total, 9.000 millones de reales se destinan a inversión en productividad rural, 3.000 millones al reequilibrio de deudas y 270 millones directamente a los productores de caña de azúcar afectados por los aranceles."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le Brésil annonce un plan de crédit rural de 2,6 milliards de dollars avant l'entrée en vigueur de nouveaux droits de douane américains le 22 juillet, selon Reuters.",
+          "en": "Brazil announces a $2.6 billion rural credit package ahead of new US tariffs taking effect July 22, according to Reuters.",
+          "es": "Brasil anuncia un paquete de crédito rural de 2.600 millones de dólares antes de la entrada en vigor de nuevos aranceles de EE. UU. el 22 de julio, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -74.0742,
+      40.8135
+    ],
+    "id": "mondial2026-finale-argentine-espagne",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FIFA / Reuters",
+    "place": {
+      "fr": "Stade MetLife, East Rutherford, New Jersey, États-Unis",
+      "en": "MetLife Stadium, East Rutherford, New Jersey, United States",
+      "es": "Estadio MetLife, East Rutherford, Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'Argentine affrontera l'Espagne en finale de la Coupe du monde, une première entre les deux équipes",
+      "en": "Argentina to face Spain in first-ever World Cup final between the two teams",
+      "es": "Argentina se enfrentará a España en la primera final mundialista entre ambos equipos"
+    },
+    "summary": {
+      "fr": "L'Argentine a battu l'Angleterre 2-1 en demi-finale le 15 juillet à Atlanta, Lionel Messi étant à l'origine des deux buts, tandis que l'Espagne a battu la France 2-0 à Dallas le même jour. Les deux équipes se retrouveront le dimanche 19 juillet au stade MetLife pour une première finale de Coupe du monde entre l'Argentine et l'Espagne, selon la FIFA.",
+      "en": "Argentina beat England 2-1 in the semifinal on July 15 in Atlanta, with Lionel Messi setting up both goals, while Spain defeated France 2-0 in Dallas the same day. The two teams will meet on Sunday, July 19 at MetLife Stadium in the first-ever World Cup final between Argentina and Spain, according to FIFA.",
+      "es": "Argentina venció 2-1 a Inglaterra en semifinales el 15 de julio en Atlanta, con Lionel Messi como asistente en ambos goles, mientras que España derrotó 2-0 a Francia en Dallas el mismo día. Ambas selecciones se enfrentarán el domingo 19 de julio en el estadio MetLife, en la primera final mundialista entre Argentina y España, según la FIFA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "L'Argentine bat l'Angleterre 2-1 et l'Espagne bat la France 2-0 en demi-finales, qualifiant les deux équipes pour la finale, selon la FIFA.",
+          "en": "Argentina beats England 2-1 and Spain beats France 2-0 in the semifinals, setting up the final, according to FIFA.",
+          "es": "Argentina vence 2-1 a Inglaterra y España vence 2-0 a Francia en las semifinales, clasificando a ambos equipos para la final, según la FIFA."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "L'Argentine et l'Espagne doivent disputer la finale de la Coupe du monde au stade MetLife, selon la FIFA.",
+          "en": "Argentina and Spain are set to contest the World Cup final at MetLife Stadium, according to FIFA.",
+          "es": "Argentina y España disputarán la final de la Copa del Mundo en el estadio MetLife, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "related": [
+      "mondial2026-bresil-norvege"
+    ],
+    "priority": 1
+  },
+  {
+    "coords": [
+      13.7,
+      51.62
+    ],
+    "id": "allemagne-finsterwalde-incendie-jugendamt",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "dpa",
+    "place": {
+      "fr": "Finsterwalde, Brandebourg, Allemagne",
+      "en": "Finsterwalde, Brandenburg, Germany",
+      "es": "Finsterwalde, Brandeburgo, Alemania"
+    },
+    "title": {
+      "fr": "Un homme incendie un bureau de l'aide à la jeunesse en Allemagne après avoir menacé une employée",
+      "en": "Man sets fire at German youth welfare office after threatening staff member",
+      "es": "Un hombre incendia una oficina de bienestar juvenil en Alemania tras amenazar a una empleada"
+    },
+    "summary": {
+      "fr": "Un homme de 35 ans est entré le 16 juillet dans une antenne de l'aide à la jeunesse (Jugendamt) à Finsterwalde, dans le Brandebourg, a menacé une employée puis a déclenché un incendie, provoquant l'évacuation du bâtiment, selon l'agence de presse dpa. Quatre personnes ont été hospitalisées pour une possible inhalation de fumée, et le suspect — qui serait le père d'un enfant suivi par ce service — a été interpellé à l'extérieur et fait l'objet d'une enquête pour tentative de meurtre.",
+      "en": "A 35-year-old man entered a district youth welfare office in Finsterwalde, Brandenburg, on July 16, threatened an employee and started a fire, prompting the building's evacuation, according to the dpa news agency. Four people were hospitalized with suspected smoke inhalation, and the suspect — reportedly the father of a child in a welfare case handled by the office — was detained outside and is under investigation on suspicion of attempted murder.",
+      "es": "Un hombre de 35 años entró el 16 de julio en una oficina de bienestar juvenil (Jugendamt) en Finsterwalde, Brandeburgo, amenazó a una empleada y provocó un incendio, lo que obligó a evacuar el edificio, según la agencia de noticias dpa. Cuatro personas fueron hospitalizadas por posible inhalación de humo, y el sospechoso —presuntamente padre de un menor atendido por ese servicio— fue detenido en el exterior y es investigado por presunto intento de homicidio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Un homme menace une employée puis incendie un bureau de l'aide à la jeunesse à Finsterwalde ; quatre personnes hospitalisées, selon dpa.",
+          "en": "A man threatens an employee then sets fire to a youth welfare office in Finsterwalde; four people hospitalized, according to dpa.",
+          "es": "Un hombre amenaza a una empleada y luego incendia una oficina de bienestar juvenil en Finsterwalde; cuatro personas son hospitalizadas, según dpa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      8.95,
+      44.41
+    ],
+    "id": "italie-verdict-pont-genes",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / Euronews",
+    "place": {
+      "fr": "Gênes, Italie",
+      "en": "Genoa, Italy",
+      "es": "Génova, Italia"
+    },
+    "title": {
+      "fr": "L'ex-PDG des autoroutes italiennes condamné à 12 ans de prison pour l'effondrement du pont de Gênes en 2018",
+      "en": "Former Italian motorway CEO sentenced to 12 years over 2018 Genoa bridge collapse",
+      "es": "El exdirector de la autopista italiana es condenado a 12 años de prisión por el derrumbe del puente de Génova en 2018"
+    },
+    "summary": {
+      "fr": "Un tribunal de Gênes a condamné 32 personnes, dont l'ancien PDG d'Autostrade per l'Italia Giovanni Castellucci, pour l'effondrement en 2018 du pont Morandi, qui avait fait 43 morts, infligeant 12 ans de prison à Castellucci et 11 ans à l'ancien responsable de l'entretien Michele Donferri Mitelli, selon Al Jazeera. L'accusation a fait valoir que l'entretien du pont avait été retardé à plusieurs reprises et que des signes avant-coureurs avaient été ignorés ; les avocats de Castellucci ont annoncé faire appel.",
+      "en": "A court in Genoa convicted 32 people, including former Autostrade per l'Italia CEO Giovanni Castellucci, over the 2018 collapse of the Morandi Bridge that killed 43 people, sentencing Castellucci to 12 years and former maintenance chief Michele Donferri Mitelli to 11 years, according to Al Jazeera. Prosecutors argued bridge maintenance had been repeatedly delayed and warning signs ignored; Castellucci's lawyers said they would appeal.",
+      "es": "Un tribunal de Génova condenó a 32 personas, entre ellas el exdirector ejecutivo de Autostrade per l'Italia Giovanni Castellucci, por el derrumbe en 2018 del puente Morandi, que dejó 43 muertos, imponiendo 12 años de prisión a Castellucci y 11 años al exresponsable de mantenimiento Michele Donferri Mitelli, según Al Jazeera. La fiscalía argumentó que el mantenimiento del puente se había retrasado repetidamente y que se habían ignorado señales de alerta; los abogados de Castellucci anunciaron que apelarán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Un tribunal de Gênes condamne Giovanni Castellucci à 12 ans de prison pour l'effondrement du pont Morandi, selon Al Jazeera.",
+          "en": "A Genoa court sentences Giovanni Castellucci to 12 years in prison over the Morandi bridge collapse, according to Al Jazeera.",
+          "es": "Un tribunal de Génova condena a Giovanni Castellucci a 12 años de prisión por el derrumbe del puente Morandi, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -3.7,
+      40.42
+    ],
+    "id": "espagne-begona-gomez-proces",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Reuters",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "L'épouse du Premier ministre espagnol, Begoña Gómez, jugée par un jury pour corruption",
+      "en": "Spanish PM's wife Begoña Gómez to face jury trial over corruption charges",
+      "es": "La esposa del presidente español, Begoña Gómez, será juzgada por un jurado por corrupción"
+    },
+    "summary": {
+      "fr": "Le tribunal provincial de Madrid a décidé le 16 juillet que Begoña Gómez, l'épouse du Premier ministre Pedro Sánchez, devait être jugée par un jury populaire pour trafic d'influence et détournement de fonds, tout en abandonnant une troisième charge de corruption et en levant une interdiction de sortie du territoire, selon Reuters. Cette décision intervient quelques jours après la condamnation, le 15 juillet, du frère de Pedro Sánchez, David, pour abus de pouvoir.",
+      "en": "The Provincial Court of Madrid ruled on July 16 that Begoña Gómez, wife of Prime Minister Pedro Sánchez, must stand trial before a citizen jury on influence-peddling and embezzlement charges, while dropping a third corruption charge and lifting a travel ban, according to Reuters. The ruling comes days after a separate July 15 decision convicted Sánchez's brother, David, of abuse of power.",
+      "es": "El Tribunal Provincial de Madrid dictaminó el 16 de julio que Begoña Gómez, esposa del presidente Pedro Sánchez, debe ser juzgada por un jurado popular por tráfico de influencias y malversación, aunque retiró un tercer cargo por corrupción y levantó la prohibición de salida del país, según Reuters. El fallo llega días después de que, el 15 de julio, una decisión distinta condenara al hermano de Sánchez, David, por prevaricación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal provincial de Madrid ordonne le procès de Begoña Gómez devant un jury populaire, selon Reuters.",
+          "en": "The Provincial Court of Madrid orders Begoña Gómez to stand trial before a citizen jury, according to Reuters.",
+          "es": "El Tribunal Provincial de Madrid ordena que Begoña Gómez sea juzgada por un jurado popular, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      31.99,
+      46.97
+    ],
+    "id": "ukraine-mykolaiv-frappe",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters / Ukrinform",
+    "place": {
+      "fr": "Mykolaïv, Ukraine",
+      "en": "Mykolaiv, Ukraine",
+      "es": "Mykolaiv, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe sur le port de Mykolaïv fait deux morts et endommage des navires étrangers",
+      "en": "Russian drone strike on Mykolaiv port kills two, damages foreign-flagged ships",
+      "es": "Un ataque ruso con drones al puerto de Mykolaiv deja dos muertos y daña buques extranjeros"
+    },
+    "summary": {
+      "fr": "Les forces russes ont frappé des infrastructures portuaires à Mykolaïv, dans le sud de l'Ukraine, avec un drone tôt le 17 juillet, tuant deux personnes à bord d'un navire immatriculé à l'étranger et endommageant trois bateaux civils, selon le parquet régional de Mykolaïv cité par Reuters et Ukrinform. Cette frappe s'inscrit dans une campagne russe plus large contre les infrastructures portuaires ukrainiennes de la mer Noire cette nuit-là, distincte de l'attaque du 15 juillet contre le port d'Odessa.",
+      "en": "Russian forces struck port infrastructure in Mykolaiv, southern Ukraine, with a drone early on July 17, killing two people aboard a foreign-registered vessel and damaging three civilian ships, according to the Mykolaiv regional prosecutor's office cited by Reuters and Ukrinform. The strike was part of a wider Russian campaign against Ukrainian Black Sea port infrastructure that night, distinct from the July 15 attack on the port of Odesa.",
+      "es": "Las fuerzas rusas atacaron infraestructuras portuarias en Mykolaiv, en el sur de Ucrania, con un dron en la madrugada del 17 de julio, matando a dos personas a bordo de un buque de bandera extranjera y dañando tres embarcaciones civiles, según la fiscalía regional de Mykolaiv citada por Reuters y Ukrinform. El ataque formó parte de una campaña rusa más amplia contra infraestructuras portuarias ucranianas del mar Negro esa misma noche, distinta del ataque del 15 de julio contra el puerto de Odesa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drone russe tue deux personnes et endommage trois navires civils dans le port de Mykolaïv, selon Ukrinform.",
+          "en": "A Russian drone strike kills two people and damages three civilian ships in the port of Mykolaiv, according to Ukrinform.",
+          "es": "Un ataque ruso con drones mata a dos personas y daña tres buques civiles en el puerto de Mykolaiv, según Ukrinform."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      -3.7,
+      57.17
+    ],
+    "id": "ecosse-cairngorms-incendie",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Scotsman / STV News",
+    "place": {
+      "fr": "Parc national des Cairngorms (près de Nethy Bridge et Glenmore), Écosse, Royaume-Uni",
+      "en": "Cairngorms National Park (near Nethy Bridge and Glenmore), Scotland, United Kingdom",
+      "es": "Parque nacional de Cairngorms (cerca de Nethy Bridge y Glenmore), Escocia, Reino Unido"
+    },
+    "title": {
+      "fr": "Un incendie force des évacuations dans le parc national des Cairngorms, en Écosse",
+      "en": "Wildfire forces evacuations in Scotland's Cairngorms National Park",
+      "es": "Un incendio forestal obliga a evacuaciones en el parque nacional de Cairngorms, en Escocia"
+    },
+    "summary": {
+      "fr": "Un incendie déclenché dans une lande près de Ryvoan Bothy, non loin de Nethy Bridge, dans la matinée du 15 juillet, s'est étendu sur plus de 3,5 km en deux jours, entraînant l'évacuation du camping de Glenmore, de la station de ski de Cairngorm Mountain et de centres de plein air voisins, selon The Scotsman et STV News. Les pompiers, aidés d'un hélicoptère, sont intervenus plusieurs nuits de suite, dans un contexte de canicule au Royaume-Uni et d'alertes « exceptionnelles » au risque d'incendie ; aucune victime n'a été signalée.",
+      "en": "A wildfire that broke out in heathland near Ryvoan Bothy, close to Nethy Bridge, on the morning of July 15 spread to more than 3.5 km wide within two days, forcing the evacuation of the Glenmore campsite, the Cairngorm Mountain ski resort and nearby outdoor centres, according to The Scotsman and STV News. Firefighters worked through multiple nights, aided by a helicopter, amid a UK heatwave and 'exceptional' wildfire risk warnings; no casualties have been reported.",
+      "es": "Un incendio declarado en un brezal cerca de Ryvoan Bothy, próximo a Nethy Bridge, en la mañana del 15 de julio, se extendió a más de 3,5 km en dos días, obligando a evacuar el camping de Glenmore, la estación de esquí de Cairngorm Mountain y centros al aire libre cercanos, según The Scotsman y STV News. Los bomberos, con ayuda de un helicóptero, trabajaron durante varias noches, en medio de una ola de calor en el Reino Unido y alertas «excepcionales» de riesgo de incendio; no se han reportado víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "Un incendie se déclare près de Ryvoan Bothy, non loin de Nethy Bridge, dans les Cairngorms.",
+          "en": "A wildfire breaks out near Ryvoan Bothy, close to Nethy Bridge, in the Cairngorms.",
+          "es": "Un incendio forestal se declara cerca de Ryvoan Bothy, próximo a Nethy Bridge, en los Cairngorms."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le feu, qui s'étend sur plus de 3,5 km, force l'évacuation du camping de Glenmore et de la station de ski de Cairngorm Mountain, selon STV News.",
+          "en": "The fire, now spanning more than 3.5 km, forces the evacuation of the Glenmore campsite and the Cairngorm Mountain ski resort, according to STV News.",
+          "es": "El incendio, que ya supera los 3,5 km, obliga a evacuar el camping de Glenmore y la estación de esquí de Cairngorm Mountain, según STV News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      70.6,
+      32.99
+    ],
+    "id": "pakistan-bannu-operation",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Dawn / AP",
+    "place": {
+      "fr": "District de Bannu, Khyber Pakhtunkhwa, Pakistan",
+      "en": "Bannu district, Khyber Pakhtunkhwa, Pakistan",
+      "es": "Distrito de Bannu, Khyber Pakhtunkhwa, Pakistán"
+    },
+    "title": {
+      "fr": "Les forces pakistanaises tuent 24 militants lors de raids près de Bannu",
+      "en": "Pakistani forces kill 24 militants in raids near Bannu",
+      "es": "Las fuerzas pakistaníes matan a 24 militantes en redadas cerca de Bannu"
+    },
+    "summary": {
+      "fr": "L'armée pakistanaise a annoncé que les forces de sécurité avaient tué 24 membres des groupes interdits Tehrik-i-Taliban Pakistan et de séparatistes baloutches lors de raids fondés sur le renseignement à Bannu et dans des districts voisins le 16 juillet, en réponse à un attentat-suicide visant policiers et civils la veille, selon Dawn et l'agence AP. Le président Asif Ali Zardari et le Premier ministre Shehbaz Sharif ont salué cette opération, qui s'inscrit dans la campagne antiterroriste « Azm-e-Istehkam ».",
+      "en": "Pakistan's military said security forces killed 24 members of the outlawed Tehrik-i-Taliban Pakistan and Baloch separatist groups in intelligence-based raids in Bannu and nearby districts on July 16, in response to a suicide bombing that targeted police and civilians there on July 15, according to Dawn and AP wire reports. President Asif Ali Zardari and Prime Minister Shehbaz Sharif praised the operation, part of the ongoing 'Azm-e-Istehkam' counterterrorism campaign.",
+      "es": "El ejército pakistaní informó de que las fuerzas de seguridad mataron a 24 miembros de los grupos prohibidos Tehrik-i-Taliban Pakistán y separatistas baluches en redadas basadas en inteligencia en Bannu y distritos vecinos el 16 de julio, en respuesta a un atentado suicida contra policías y civiles el día anterior, según Dawn y la agencia AP. El presidente Asif Ali Zardari y el primer ministro Shehbaz Sharif elogiaron la operación, enmarcada en la campaña antiterrorista «Azm-e-Istehkam»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Les forces de sécurité pakistanaises tuent 24 militants lors de raids près de Bannu, en réponse à un attentat-suicide, selon Dawn.",
+          "en": "Pakistani security forces kill 24 militants in raids near Bannu, in response to a suicide bombing, according to Dawn.",
+          "es": "Las fuerzas de seguridad pakistaníes matan a 24 militantes en redadas cerca de Bannu, en respuesta a un atentado suicida, según Dawn."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      135.37,
+      34.45
+    ],
+    "id": "japon-osaka-lycee-aerosol",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Japan Times / Jiji Press",
+    "place": {
+      "fr": "Kaizuka, préfecture d'Osaka, Japon",
+      "en": "Kaizuka, Osaka Prefecture, Japan",
+      "es": "Kaizuka, prefectura de Osaka, Japón"
+    },
+    "title": {
+      "fr": "23 blessés après qu'un élève a pulvérisé une substance dans un collège près d'Osaka",
+      "en": "23 injured after student sprays substance at Osaka-area junior high school",
+      "es": "23 heridos tras rociar un estudiante una sustancia en un instituto cerca de Osaka"
+    },
+    "summary": {
+      "fr": "Un élève de 14 ans a pulvérisé une substance irritante non identifiée dans des salles de classe et des cages d'escalier d'un collège de Kaizuka, dans la préfecture d'Osaka, le 17 juillet, à la suite d'une dispute après une cérémonie de fin de trimestre, blessant 15 élèves et 8 membres du personnel, souffrant de maux de gorge et d'irritations cutanées, selon The Japan Times. La police de la préfecture d'Osaka a interpellé l'élève, qui a reconnu les faits ; aucune des blessures n'a été signalée comme grave.",
+      "en": "A 14-year-old student sprayed an unidentified irritant substance in classrooms and stairwells at a junior high school in Kaizuka, Osaka Prefecture, on July 17, following a dispute after an end-of-term ceremony, injuring 15 students and 8 staff with sore throats and skin irritation, according to The Japan Times. Osaka prefectural police detained the student, who admitted to the act; none of the injuries were reported as serious.",
+      "es": "Un estudiante de 14 años roció una sustancia irritante no identificada en aulas y escaleras de un instituto de secundaria en Kaizuka, prefectura de Osaka, el 17 de julio, tras una disputa posterior a una ceremonia de fin de trimestre, causando molestias —dolor de garganta e irritación cutánea— a 15 alumnos y 8 miembros del personal, según The Japan Times. La policía de la prefectura de Osaka detuvo al estudiante, quien admitió los hechos; ninguna de las lesiones se reportó como grave."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Un élève de 14 ans pulvérise une substance irritante dans un collège de Kaizuka, blessant 23 personnes, selon The Japan Times.",
+          "en": "A 14-year-old student sprays an irritant substance at a junior high school in Kaizuka, injuring 23 people, according to The Japan Times.",
+          "es": "Un estudiante de 14 años rocía una sustancia irritante en un instituto de Kaizuka, dejando 23 heridos, según The Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      131.29,
+      -7.98
+    ],
+    "id": "indonesie-projet-gnl-masela",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "ANTARA News",
+    "place": {
+      "fr": "Îles Tanimbar, province des Moluques, Indonésie",
+      "en": "Tanimbar Islands, Maluku Province, Indonesia",
+      "es": "Islas Tanimbar, provincia de las Molucas, Indonesia"
+    },
+    "title": {
+      "fr": "L'Indonésie lance la construction du projet gazier Abadi Masela, d'un montant de 20,9 milliards de dollars",
+      "en": "Indonesia launches construction of $20.9 billion Abadi Masela LNG project",
+      "es": "Indonesia lanza la construcción del proyecto de GNL Abadi Masela, valorado en 20.900 millones de dólares"
+    },
+    "summary": {
+      "fr": "Le président Prabowo Subianto a inauguré à distance le début des travaux du projet gazier Abadi Masela, dans les îles Tanimbar (province des Moluques), un projet d'environ 20,9 milliards de dollars mené par le groupe japonais INPEX avec l'indonésien Pertamina et le malaisien Petronas, selon ANTARA News. Les autorités indonésiennes ont indiqué qu'environ 60 % du gaz produit serait destiné aux besoins nationaux, la production devant débuter vers 2027.",
+      "en": "President Prabowo Subianto virtually inaugurated the groundbreaking of the Abadi Masela LNG project in the Tanimbar Islands, Maluku province, a roughly $20.9 billion development led by Japan's INPEX with Indonesia's Pertamina and Malaysia's Petronas, according to ANTARA News. Officials said about 60% of the gas produced will be allocated to domestic needs, with production targeted to begin around 2027.",
+      "es": "El presidente Prabowo Subianto inauguró de forma virtual el inicio de las obras del proyecto de GNL Abadi Masela, en las islas Tanimbar (provincia de las Molucas), un desarrollo de unos 20.900 millones de dólares liderado por la japonesa INPEX junto con la indonesia Pertamina y la malasia Petronas, según ANTARA News. Las autoridades indonesias indicaron que cerca del 60% del gas producido se destinará a las necesidades internas, con producción prevista a partir de 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Prabowo Subianto inaugure à distance le début des travaux du projet gazier Abadi Masela, selon ANTARA News.",
+          "en": "Prabowo Subianto virtually inaugurates the groundbreaking of the Abadi Masela LNG project, according to ANTARA News.",
+          "es": "Prabowo Subianto inaugura de forma virtual el inicio de las obras del proyecto de GNL Abadi Masela, según ANTARA News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      77.22,
+      28.63
+    ],
+    "id": "inde-wangchuk-hospitalisation",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Tribune / LiveLaw",
+    "place": {
+      "fr": "Jantar Mantar, New Delhi, Inde",
+      "en": "Jantar Mantar, New Delhi, India",
+      "es": "Jantar Mantar, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "La haute cour de Delhi ordonne l'hospitalisation du militant Sonam Wangchuk, en grève de la faim",
+      "en": "Delhi High Court orders hospitalization of hunger-striking activist Sonam Wangchuk",
+      "es": "El Tribunal Superior de Delhi ordena la hospitalización del activista Sonam Wangchuk, en huelga de hambre"
+    },
+    "summary": {
+      "fr": "Le militant écologiste et pour l'éducation Sonam Wangchuk, en grève de la faim illimitée à Jantar Mantar depuis le 28 juin pour réclamer des comptes sur de présumées irrégularités dans un examen national, a été transféré à l'hôpital le 18 juillet après que la haute cour de Delhi — qui avait ordonné un suivi médical quotidien — a évoqué un risque de défaillance d'organes et une perte de 8 kg, selon The Tribune et LiveLaw.",
+      "en": "Climate and education activist Sonam Wangchuk, on an indefinite hunger strike at Jantar Mantar since June 28 demanding accountability over alleged irregularities in a national exam, was moved to hospital on July 18 after the Delhi High Court — which had ordered daily clinical monitoring — cited a risk of organ failure and an 8 kg weight loss, according to The Tribune and LiveLaw.",
+      "es": "El activista climático y educativo Sonam Wangchuk, en huelga de hambre indefinida en Jantar Mantar desde el 28 de junio para exigir responsabilidades por presuntas irregularidades en un examen nacional, fue trasladado al hospital el 18 de julio después de que el Tribunal Superior de Delhi —que había ordenado un seguimiento médico diario— citara un riesgo de fallo orgánico y una pérdida de 8 kg de peso, según The Tribune y LiveLaw."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Sonam Wangchuk est hospitalisé après 21 jours de grève de la faim, sur ordre de la haute cour de Delhi, selon The Tribune.",
+          "en": "Sonam Wangchuk is hospitalized after 21 days of hunger strike, on order of the Delhi High Court, according to The Tribune.",
+          "es": "Sonam Wangchuk es hospitalizado tras 21 días de huelga de hambre, por orden del Tribunal Superior de Delhi, según The Tribune."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "id": "chine-bourse-cxmt-ipo",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "source": "Reuters",
+    "place": {
+      "fr": "Shanghai, Chine",
+      "en": "Shanghai, China",
+      "es": "Shanghái, China"
+    },
+    "title": {
+      "fr": "Les actions chinoises chutent alors que l'introduction en Bourse record du fabricant de puces CXMT draine la liquidité du marché",
+      "en": "Chinese stocks tumble as chipmaker CXMT's record $8.6 billion IPO drains market liquidity",
+      "es": "Las acciones chinas caen mientras la salida a bolsa récord del fabricante de chips CXMT drena la liquidez del mercado"
+    },
+    "summary": {
+      "fr": "Les actions chinoises ont fortement chuté le 17 juillet, l'indice Shanghai Composite reculant jusqu'à 3 % et le CSI 300 tombant à son plus bas niveau en trois mois, sur la voie de leur pire semaine depuis plus de deux ans, alors que l'introduction en Bourse de 57,9 milliards de yuans (8,6 milliards de dollars) du fabricant de puces mémoire CXMT — la plus importante d'Asie en 2026 et la plus grande introduction d'un fabricant de semi-conducteurs chinois — a nourri les craintes qu'une vague de méga-introductions ne draine les capitaux d'un marché déjà tendu, selon Reuters. CXMT doit entrer en Bourse sur le marché STAR de Shanghai le 27 juillet.",
+      "en": "Chinese equities fell sharply on July 17, with the Shanghai Composite down as much as 3% and the CSI 300 hitting a three-month low, on track for their worst week in over two years, as memory-chipmaker CXMT's 57.9 billion yuan ($8.6 billion) IPO — Asia's largest of 2026 and China's biggest-ever semiconductor listing — stoked fears that a wave of mega-IPOs would drain capital from an already stretched market, according to Reuters. CXMT is set to list on the Shanghai STAR Market on July 27.",
+      "es": "Las acciones chinas cayeron con fuerza el 17 de julio, con el índice Shanghai Composite retrocediendo hasta un 3% y el CSI 300 tocando un mínimo de tres meses, camino de su peor semana en más de dos años, mientras la salida a bolsa de 57.900 millones de yuanes (8.600 millones de dólares) del fabricante de chips de memoria CXMT —la mayor de Asia en 2026 y la mayor colocación de un fabricante de semiconductores chino— alimentaba temores de que una ola de grandes salidas a bolsa drenara capital de un mercado ya tensionado, según Reuters. Se prevé que CXMT cotice en el mercado STAR de Shanghái el 27 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Les actions chinoises chutent nettement, sur fond de craintes liées à l'introduction en Bourse de 8,6 milliards de dollars de CXMT, selon Reuters.",
+          "en": "Chinese stocks fall sharply amid fears tied to CXMT's $8.6 billion IPO, according to Reuters.",
+          "es": "Las acciones chinas caen con fuerza en medio de temores vinculados a la salida a bolsa de 8.600 millones de dólares de CXMT, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.29,
+      7.17
+    ],
+    "id": "nigeria-benue-liberation-otages",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "PRNigeria / Punch Nigeria",
+    "place": {
+      "fr": "Katsina-Ala, État de Benue, Nigeria",
+      "en": "Katsina-Ala, Benue State, Nigeria",
+      "es": "Katsina-Ala, estado de Benue, Nigeria"
+    },
+    "title": {
+      "fr": "Les troupes nigérianes tuent deux ravisseurs et libèrent trois otages dans l'État de Benue",
+      "en": "Nigerian troops kill two kidnappers, rescue three hostages in Benue State",
+      "es": "Las tropas nigerianas matan a dos secuestradores y liberan a tres rehenes en el estado de Benue"
+    },
+    "summary": {
+      "fr": "Des soldats de l'opération conjointe « Whirl Stroke », en coordination avec la garde de protection civile de l'État de Benue, ont tué deux ravisseurs présumés et libéré trois civils enlevés — un enseignant, un vendeur de pièces détachées et un agriculteur — lors d'un raid contre un camp de ravisseurs à Katsina-Ala les 16 et 17 juillet, selon PRNigeria et Punch Nigeria. L'opération a également permis de récupérer des fusils, des munitions et des uniformes militaires, dans un contexte d'enlèvements contre rançon récurrents dans l'État de Benue et l'État voisin de Katsina.",
+      "en": "Troops of Joint Task Force Operation Whirl Stroke, working with the Benue State Civil Protection Guard, killed two suspected kidnappers and rescued three abducted civilians — a teacher, a spare-parts dealer and a farmer — during a raid on a kidnappers' camp in Katsina-Ala on July 16-17, according to PRNigeria and Punch Nigeria. The operation also recovered rifles, ammunition and military uniforms, amid a wider pattern of kidnapping-for-ransom in Benue and neighbouring Katsina state.",
+      "es": "Soldados de la operación conjunta «Whirl Stroke», en coordinación con la guardia de protección civil del estado de Benue, mataron a dos presuntos secuestradores y liberaron a tres civiles secuestrados —un profesor, un vendedor de repuestos y un agricultor— durante una redada contra un campamento de secuestradores en Katsina-Ala los días 16 y 17 de julio, según PRNigeria y Punch Nigeria. La operación también permitió recuperar fusiles, municiones y uniformes militares, en medio de un patrón recurrente de secuestros por rescate en Benue y el vecino estado de Katsina."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Les troupes nigérianes tuent deux ravisseurs et libèrent trois otages lors d'un raid à Katsina-Ala, selon PRNigeria.",
+          "en": "Nigerian troops kill two kidnappers and rescue three hostages in a raid in Katsina-Ala, according to PRNigeria.",
+          "es": "Las tropas nigerianas matan a dos secuestradores y liberan a tres rehenes en una redada en Katsina-Ala, según PRNigeria."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 3
+  },
+  {
+    "coords": [
+      42.51,
+      18.22
+    ],
+    "id": "arabie-saoudite-frappe-houthis-abha",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Bloomberg / Reuters",
+    "place": {
+      "fr": "Abha, région d'Assir, Arabie saoudite",
+      "en": "Abha, Asir Region, Saudi Arabia",
+      "es": "Abha, región de Asir, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Les Houthis tirent des missiles sur l'aéroport saoudien d'Abha, rompant une accalmie de plusieurs années",
+      "en": "Houthis fire missiles at Saudi Arabia's Abha airport, breaking years-long calm",
+      "es": "Los hutíes lanzan misiles contra el aeropuerto saudí de Abha, rompiendo años de calma"
+    },
+    "summary": {
+      "fr": "Le mouvement houthi du Yémen a tiré des missiles balistiques et des drones sur l'aéroport international d'Abha, en Arabie saoudite, les 13 et 14 juillet, une première attaque houthie revendiquée contre le royaume depuis une trêve informelle conclue en 2022, selon Bloomberg et Reuters. Un porte-parole de la coalition dirigée par l'Arabie saoudite a indiqué que les défenses aériennes avaient intercepté la menace ; les Houthis ont affirmé que cette frappe visait à répondre à des frappes saoudiennes sur l'aéroport de Sanaa, qui avaient empêché une délégation houthie de rentrer des funérailles du guide suprême iranien Ali Khamenei, tué en février par des frappes américano-israéliennes.",
+      "en": "Yemen's Houthi movement fired ballistic missiles and drones at Saudi Arabia's Abha International Airport on July 13-14, the first claimed Houthi attack on the kingdom since an informal 2022 truce, according to Bloomberg and Reuters. A Saudi-led coalition spokesperson said air defenses intercepted the threat; the Houthis said the strike was retaliation for Saudi airstrikes on Sanaa airport that had blocked a Houthi delegation from returning from the funeral of Iranian Supreme Leader Ali Khamenei, who was killed in February by US-Israeli strikes.",
+      "es": "El movimiento hutí de Yemen lanzó misiles balísticos y drones contra el Aeropuerto Internacional de Abha, en Arabia Saudita, los días 13 y 14 de julio, el primer ataque hutí reivindicado contra el reino desde una tregua informal alcanzada en 2022, según Bloomberg y Reuters. Un portavoz de la coalición liderada por Arabia Saudita afirmó que las defensas aéreas interceptaron la amenaza; los hutíes señalaron que el ataque respondía a bombardeos saudíes contra el aeropuerto de Saná, que habían impedido el regreso de una delegación hutí del funeral del líder supremo iraní Ali Khamenei, asesinado en febrero por ataques estadounidenses e israelíes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13-14/07/2026",
+          "en": "13-14/07/2026",
+          "es": "13-14/07/2026"
+        },
+        "d": {
+          "fr": "Les Houthis frappent l'aéroport d'Abha avec des missiles et des drones, une première depuis 2022, selon Bloomberg.",
+          "en": "The Houthis strike Abha airport with missiles and drones, the first such attack since 2022, according to Bloomberg.",
+          "es": "Los hutíes atacan el aeropuerto de Abha con misiles y drones, el primer ataque de este tipo desde 2022, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      18.43,
+      -33.67
+    ],
+    "id": "afrique-du-sud-koeberg-contamination",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "☢️",
+    "source": "AP / Washington Times",
+    "place": {
+      "fr": "Centrale nucléaire de Koeberg, Duynefontein, Cap-Occidental, Afrique du Sud",
+      "en": "Koeberg Nuclear Power Station, Duynefontein, Western Cape, South Africa",
+      "es": "Central nuclear de Koeberg, Duynefontein, Cabo Occidental, Sudáfrica"
+    },
+    "title": {
+      "fr": "Aucune fuite radioactive après des incidents de contamination à l'unique centrale nucléaire d'Afrique du Sud, selon le régulateur",
+      "en": "No radiation leak after contamination events at South Africa's only nuclear plant, regulator says",
+      "es": "Sin fuga radiactiva tras incidentes de contaminación en la única central nuclear de Sudáfrica, según el regulador"
+    },
+    "summary": {
+      "fr": "Le régulateur nucléaire national sud-africain a confirmé trois incidents distincts de contamination radioactive atmosphérique élevée à l'intérieur de la centrale de Koeberg, survenus les 30 juin, 2 juillet et 7 juillet, causés par une coupure d'alimentation des unités de ventilation pendant des travaux de maintenance, selon l'Associated Press. Le régulateur a précisé que la contamination était restée confinée à l'intérieur de la centrale, que les doses enregistrées pour les travailleurs exposés étaient inférieures à celle d'une radiographie dentaire courante, et qu'il n'y avait aucun danger pour le public.",
+      "en": "South Africa's National Nuclear Regulator confirmed three separate incidents of elevated airborne radioactive contamination inside the Koeberg power station, on June 30, July 2 and July 7, caused by a loss of power to ventilation units during maintenance work, according to the Associated Press. The regulator said the contamination was contained inside the plant, exposed workers' recorded doses were below that of a routine dental X-ray, and there was no danger to the public.",
+      "es": "El Regulador Nuclear Nacional de Sudáfrica confirmó tres incidentes distintos de contaminación radiactiva atmosférica elevada dentro de la central de Koeberg, ocurridos el 30 de junio, el 2 de julio y el 7 de julio, causados por un corte de energía en las unidades de ventilación durante trabajos de mantenimiento, según Associated Press. El regulador señaló que la contaminación quedó contenida dentro de la planta, que las dosis registradas en los trabajadores expuestos fueron inferiores a las de una radiografía dental habitual, y que no hubo peligro para el público."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Le régulateur nucléaire sud-africain confirme trois incidents de contamination fin juin et début juillet, sans danger pour le public, selon l'AP.",
+          "en": "South Africa's nuclear regulator confirms three contamination incidents in late June and early July, with no danger to the public, according to AP.",
+          "es": "El regulador nuclear sudafricano confirma tres incidentes de contaminación a finales de junio y principios de julio, sin peligro para el público, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 3
   }
 ]
