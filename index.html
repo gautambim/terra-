@@ -4,6 +4,10 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>TERRA — Jumeau numérique de la Terre</title>
+<meta name="description" content="Un globe 3D interactif avec de vraies actualités du monde, vérifiées et classées par niveau de confiance : vient de tomber, en recoupement, confirmée, ou démentie." />
+<meta property="og:title" content="TERRA — Jumeau numérique de la Terre" />
+<meta property="og:description" content="Un globe 3D interactif avec de vraies actualités du monde, vérifiées et classées par niveau de confiance." />
+<meta property="og:type" content="website" />
 <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.css" />
 <script src="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -201,6 +205,15 @@
     font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-lo);
     background:var(--panel);border:1px solid var(--panel-border);border-radius:8px;padding:8px 14px;
     backdrop-filter:blur(14px);}
+
+  @media (max-width: 640px){
+    .panel{width:100%;max-width:100%;}
+    .filters, .legend, .zone-badge, .lang-switch, .week-picker{font-size:10.5px;}
+    .zone-badge{padding:6px 10px;}
+    .hint{font-size:9.5px;padding:6px 10px;max-width:60vw;}
+    .brand .sub{display:none;}
+    .journalist-avatar svg{width:90px;height:98px;}
+  }
 </style>
 </head>
 <body>
