@@ -157,6 +157,30 @@
   .panel-footer{margin-top:24px;padding-top:16px;border-top:1px solid var(--panel-border);
     font-size:11px;color:var(--text-lo);line-height:1.6;}
 
+  .journalist-avatar{display:none;flex-direction:column;align-items:center;margin-bottom:20px;
+    padding:20px 0 4px;}
+  .journalist-avatar.show{display:flex;}
+  .journalist-avatar svg{width:120px;height:130px;}
+  .journalist-avatar .jname{font-family:'JetBrains Mono',monospace;font-size:10px;
+    letter-spacing:0.08em;color:var(--text-lo);margin-top:8px;text-transform:uppercase;}
+  .stop-reading-inline{display:none;align-items:center;gap:8px;background:rgba(239,68,68,0.12);
+    border:1.5px solid #ef4444;color:#ef4444;font-family:'Inter',sans-serif;font-weight:600;
+    font-size:14px;padding:11px 22px;border-radius:999px;cursor:pointer;margin-top:14px;
+    transition:background 0.15s;}
+  .stop-reading-inline:hover{background:rgba(239,68,68,0.2);}
+  .journalist-avatar.talking .stop-reading-inline{display:flex;}
+  .jaw{transform-origin:70px 78px;}
+  .journalist-avatar.talking .jaw{animation:jawmove 0.32s ease-in-out infinite alternate;}
+  @keyframes jawmove{
+    0%{transform:scaleY(1);}
+    100%{transform:scaleY(1.3);}
+  }
+  .jblink{animation:blink 4.5s ease-in-out infinite;}
+  @keyframes blink{
+    0%,94%,100%{transform:scaleY(1);}
+    96%{transform:scaleY(0.08);}
+  }
+
   .related{margin-top:20px;padding-top:16px;border-top:1px solid var(--panel-border);}
   .related .related-title{font-family:'Space Grotesk',sans-serif;font-size:11px;letter-spacing:0.1em;
     text-transform:uppercase;color:var(--text-lo);margin-bottom:10px;}
@@ -213,6 +237,8 @@
 </div>
 
 <div class="hint" id="hintText"></div>
+
+<button class="fullscreen-btn beam-toggle-btn off" id="autoReadToggleBtn" style="bottom:266px;">🗣</button>
 
 <button class="fullscreen-btn reset-layout-btn" id="resetLayoutBtn" style="bottom:218px;">⌂</button>
 
@@ -295,6 +321,10 @@ const I18N = {
     resetLayoutTitle: 'Réinitialiser la disposition des fenêtres',
     weekPickerTitle: 'Semaine affichée',
     thisWeek: 'Cette semaine',
+    readAloud: 'Écouter l\'actu',
+    stopReading: 'Arrêter la lecture',
+    journalistName: 'Léa · Présentatrice IA',
+    autoReadTitle: 'Lecture automatique des actus (voix)',
     beamToggleTitle: 'Afficher / masquer les rayons lumineux',
     sourcePrefix: 'Source :',
     relatedTitle: 'Actus liées',
@@ -314,6 +344,10 @@ const I18N = {
     resetLayoutTitle: 'Reset window layout',
     weekPickerTitle: 'Week shown',
     thisWeek: 'This week',
+    readAloud: 'Listen to this story',
+    stopReading: 'Stop reading',
+    journalistName: 'Léa · AI News Anchor',
+    autoReadTitle: 'Auto-read stories aloud',
     beamToggleTitle: 'Show / hide light beams',
     sourcePrefix: 'Source:',
     relatedTitle: 'Related events',
@@ -333,6 +367,10 @@ const I18N = {
     resetLayoutTitle: 'Restablecer la disposición de las ventanas',
     weekPickerTitle: 'Semana mostrada',
     thisWeek: 'Esta semana',
+    readAloud: 'Escuchar la noticia',
+    stopReading: 'Detener la lectura',
+    journalistName: 'Léa · Presentadora IA',
+    autoReadTitle: 'Lectura automática de las noticias',
     beamToggleTitle: 'Mostrar / ocultar los rayos de luz',
     sourcePrefix: 'Fuente:',
     relatedTitle: 'Eventos relacionados',
@@ -392,12 +430,11 @@ const STATUS_COLOR = {
    son rayon lumineux, sa présence dans les filtres et le contenu du
    panneau se génèrent tous automatiquement à partir de events.json.
 ----------------------------------------------------------------------- */
-const EMBEDDED_EVENTS = [{"coords":[-60.95,14.6094],"id":"lefrancois-incendie","status":"brut","severe":true,"category":"securite","icon":"🔥","source":"RCI Martinique","place":{"fr":"Le François (Pointe Courchet), Martinique","en":"Le François (Pointe Courchet), Martinique","es":"Le François (Pointe Courchet), Martinica"},"title":{"fr":"Incendie en cours à la Pointe Courchet, au François","en":"Fire underway at Pointe Courchet, in Le François","es":"Incendio en curso en Pointe Courchet, en Le François"},"summary":{"fr":"Un incendie est signalé ce jeudi 16 juillet à la Pointe Courchet, dans la commune du François. L'origine du feu n'est pas encore précisée par la source.","en":"A fire was reported on Thursday, July 16 at Pointe Courchet, in the town of Le François. The cause of the fire has not yet been specified by the source.","es":"Se informó de un incendio este jueves 16 de julio en Pointe Courchet, en el municipio de Le François. La fuente aún no ha precisado el origen del fuego."},"timeline":[{"t":{"fr":"16/07/2026 — heure non précisée","en":"16/07/2026 — time not specified","es":"16/07/2026 — hora no especificada"},"d":{"fr":"RCI Martinique signale un incendie en cours à la Pointe Courchet, au François.","en":"RCI Martinique reports a fire underway at Pointe Courchet, in Le François.","es":"RCI Martinique informa de un incendio en curso en Pointe Courchet, en Le François."},"active":true}],"week":"2026-W29"},{"coords":[-60.98,14.535],"id":"rn5-accident","status":"confirme","severe":true,"category":"securite","icon":"🚗","source":"Martinique la 1ère","place":{"fr":"Dans le sud de la Martinique, sur la RN5 (axe Ducos–Rivière-Salée–Rivière-Pilote–Le Marin) — commune précise non communiquée par la source","en":"In southern Martinique, on the RN5 road (Ducos–Rivière-Salée–Rivière-Pilote–Le Marin corridor) — exact town not specified by the source","es":"En el sur de Martinica, en la carretera RN5 (eje Ducos–Rivière-Salée–Rivière-Pilote–Le Marin) — municipio exacto no especificado por la fuente"},"title":{"fr":"Un homme meurt happé par un véhicule sur la RN5","en":"A man dies after being hit by a vehicle on the RN5","es":"Un hombre muere atropellado por un vehículo en la RN5"},"summary":{"fr":"Un homme percuté par un véhicule sur la route nationale 5 est décédé, selon Martinique la 1ère. La RN5 relie l'aéroport (au sud du Lamentin) au Marin en passant par Ducos, Rivière-Salée et Rivière-Pilote ; le point précis de l'accident sur ce tracé n'est pas communiqué par la source.","en":"A man hit by a vehicle on the RN5 national road has died, according to Martinique la 1ère. The RN5 runs from the airport (south of Le Lamentin) to Le Marin via Ducos, Rivière-Salée and Rivière-Pilote; the exact location of the accident along this road is not specified by the source.","es":"Un hombre atropellado por un vehículo en la carretera nacional RN5 ha fallecido, según Martinique la 1ère. La RN5 une el aeropuerto (al sur de Le Lamentin) con Le Marin pasando por Ducos, Rivière-Salée y Rivière-Pilote; la fuente no precisa el lugar exacto del accidente en este trayecto."},"timeline":[{"t":{"fr":"16/07/2026, 13h56","en":"16/07/2026, 1:56 PM","es":"16/07/2026, 13:56"},"d":{"fr":"Martinique la 1ère rapporte le décès d'un homme fauché par un véhicule sur la RN5.","en":"Martinique la 1ère reports the death of a man struck by a vehicle on the RN5.","es":"Martinique la 1ère informa del fallecimiento de un hombre atropellado por un vehículo en la RN5."},"active":true}],"week":"2026-W29"},{"coords":[-60.976044,14.576001],"id":"ducos-debrayage","status":"confirme","severe":true,"category":"securite","icon":"✊","source":"Martinique la 1ère","place":{"fr":"Centre pénitentiaire de Ducos, Martinique (seul établissement pénitentiaire de l'île)","en":"Ducos Penitentiary Centre, Martinique (the island's only prison facility)","es":"Centro penitenciario de Ducos, Martinica (único centro penitenciario de la isla)"},"title":{"fr":"Des agents pénitentiaires en débrayage après une agression à l'arme blanche","en":"Prison staff walk out after a knife attack","es":"Agentes penitenciarios en paro tras una agresión con arma blanca"},"summary":{"fr":"Des agents pénitentiaires de Martinique se sont mis en débrayage ce jeudi 16 juillet, après une agression commise à l'arme blanche, selon Martinique la 1ère. La Martinique ne comptant qu'un seul établissement pénitentiaire, celui de Ducos, l'événement s'y rattache logiquement, bien que la source ne le nomme pas explicitement.","en":"Prison staff in Martinique walked out on Thursday, July 16, following a knife attack, according to Martinique la 1ère. As Martinique has only one prison facility, the one in Ducos, the event is logically linked to it, although the source does not name it explicitly.","es":"Agentes penitenciarios de Martinica se pusieron en paro este jueves 16 de julio, tras una agresión con arma blanca, según Martinique la 1ère. Dado que Martinica solo cuenta con un centro penitenciario, el de Ducos, el hecho se vincula lógicamente a él, aunque la fuente no lo nombra explícitamente."},"timeline":[{"t":{"fr":"16/07/2026, 13h42","en":"16/07/2026, 1:42 PM","es":"16/07/2026, 13:42"},"d":{"fr":"Martinique la 1ère rapporte le débrayage d'agents pénitentiaires après une agression à l'arme blanche.","en":"Martinique la 1ère reports prison staff walking out after a knife attack.","es":"Martinique la 1ère informa del paro de agentes penitenciarios tras una agresión con arma blanca."},"active":true}],"week":"2026-W29"},{"coords":[-61.0588,14.6161],"id":"balancetonporc-jugement","status":"confirme","severe":false,"category":"justice","source":"Martinique la 1ère","place":{"fr":"Cour d'appel de Fort-de-France, Martinique","en":"Fort-de-France Court of Appeal, Martinique","es":"Tribunal de Apelación de Fort-de-France, Martinica"},"title":{"fr":"La justice annule le jugement de la créatrice du hashtag #BalanceTonPorc Martinique","en":"Court overturns ruling against the creator of the #BalanceTonPorc Martinique hashtag","es":"La justicia anula el fallo contra la creadora del hashtag #BalanceTonPorc Martinique"},"summary":{"fr":"La cour d'appel de Fort-de-France a annulé, ce jeudi 16 juillet, le jugement qui avait condamné pour diffamation la créatrice du hashtag #BalanceTonPorc Martinique en avril 2026, selon Martinique la 1ère.","en":"The Fort-de-France Court of Appeal overturned, on Thursday, July 16, the ruling that had convicted the creator of the #BalanceTonPorc Martinique hashtag for defamation in April 2026, according to Martinique la 1ère.","es":"El Tribunal de Apelación de Fort-de-France anuló, este jueves 16 de julio, el fallo que había condenado por difamación a la creadora del hashtag #BalanceTonPorc Martinique en abril de 2026, según Martinique la 1ère."},"timeline":[{"t":{"fr":"16/07/2026, 18h33","en":"16/07/2026, 6:33 PM","es":"16/07/2026, 18:33"},"d":{"fr":"Martinique la 1ère annonce l'annulation du jugement par la cour d'appel de Fort-de-France.","en":"Martinique la 1ère announces the ruling was overturned by the Fort-de-France Court of Appeal.","es":"Martinique la 1ère anuncia la anulación del fallo por el Tribunal de Apelación de Fort-de-France."},"active":true}],"week":"2026-W29"},{"coords":[30.7233,46.4825],"id":"odessa-attaque","status":"confirme","severe":true,"category":"securite","icon":"💥","source":"Le Temps","place":{"fr":"Odessa, Ukraine","en":"Odesa, Ukraine","es":"Odesa, Ucrania"},"title":{"fr":"Une attaque russe sur le port d'Odessa fait au moins 3 morts","en":"Russian attack on the port of Odesa kills at least 3","es":"Un ataque ruso al puerto de Odesa deja al menos 3 muertos"},"summary":{"fr":"Des attaques russes sur un navire civil dans le port de la région d'Odessa et sur deux autres bateaux en mer Noire ont fait au moins trois morts le 15 juillet, selon les autorités ukrainiennes.","en":"Russian attacks on a civilian ship in the port of the Odesa region and on two other vessels in the Black Sea killed at least three people on July 15, according to Ukrainian authorities.","es":"Ataques rusos contra un buque civil en el puerto de la región de Odesa y contra otras dos embarcaciones en el mar Negro dejaron al menos tres muertos el 15 de julio, según las autoridades ucranianas."},"timeline":[{"t":{"fr":"15/07/2026","en":"15/07/2026","es":"15/07/2026"},"d":{"fr":"Les autorités ukrainiennes rapportent au moins 3 morts après des frappes russes sur des navires civils près d'Odessa.","en":"Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.","es":"Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."},"active":true}],"week":"2026-W29"},{"coords":[-1.8833,37.1833],"id":"espagne-incendie","status":"confirme","severe":true,"category":"securite","icon":"🔥","source":"La Presse","place":{"fr":"Garrucha (Almería), Espagne","en":"Garrucha (Almería), Spain","es":"Garrucha (Almería), España"},"title":{"fr":"Le bilan d'un incendie dans le sud de l'Espagne s'alourdit à 13 morts","en":"Death toll from wildfire in southern Spain rises to 13","es":"El balance de un incendio en el sur de España se eleva a 13 muertos"},"summary":{"fr":"Le bilan d'un incendie survenu dans le sud de l'Espagne s'est alourdi à 13 morts après le décès d'une Britannique de 93 ans hospitalisée à Almería, selon le gouvernement régional d'Andalousie.","en":"The death toll from a wildfire in southern Spain has risen to 13 after the death of a 93-year-old British woman hospitalized in Almería, according to the Andalusian regional government.","es":"El balance de un incendio ocurrido en el sur de España se elevó a 13 muertos tras el fallecimiento de una británica de 93 años hospitalizada en Almería, según el gobierno regional de Andalucía."},"timeline":[{"t":{"fr":"13/07/2026","en":"13/07/2026","es":"13/07/2026"},"d":{"fr":"Le gouvernement régional d'Andalousie annonce le décès d'une nouvelle victime, portant le bilan à 13 morts.","en":"The Andalusian regional government announces the death of another victim, bringing the toll to 13.","es":"El gobierno regional de Andalucía anuncia el fallecimiento de una nueva víctima, elevando el balance a 13 muertos."},"active":true}],"week":"2026-W29"},{"coords":[8.6821,50.1109],"id":"bce-taux","status":"confirme","severe":false,"category":"economie","source":"Banque de France","place":{"fr":"Francfort, Allemagne (siège de la BCE)","en":"Frankfurt, Germany (ECB headquarters)","es":"Fráncfort, Alemania (sede del BCE)"},"title":{"fr":"La BCE maintient ses taux d'intérêt inchangés","en":"ECB keeps interest rates unchanged","es":"El BCE mantiene sin cambios sus tipos de interés"},"summary":{"fr":"Lors de sa dernière décision de politique monétaire, le 11 juin 2026, le Conseil des gouverneurs de la Banque centrale européenne a laissé inchangés ses trois taux directeurs, selon la Banque de France. La prochaine décision est prévue le 23 juillet 2026.","en":"At its last monetary policy decision, on June 11, 2026, the European Central Bank's Governing Council left its three key interest rates unchanged, according to the Banque de France. The next decision is scheduled for July 23, 2026.","es":"En su última decisión de política monetaria, el 11 de junio de 2026, el Consejo de Gobierno del Banco Central Europeo mantuvo sin cambios sus tres tipos de interés, según el Banco de Francia. La próxima decisión está prevista para el 23 de julio de 2026."},"timeline":[{"t":{"fr":"11/06/2026","en":"11/06/2026","es":"11/06/2026"},"d":{"fr":"La Banque de France rapporte le maintien des taux directeurs par la BCE.","en":"The Banque de France reports the ECB keeping its key rates unchanged.","es":"El Banco de Francia informa que el BCE mantiene sus tipos de interés sin cambios."},"active":true}],"week":"2026-W29"},{"coords":[2.7016,48.4084],"id":"fontainebleau-incendie","status":"confirme","severe":false,"category":"environnement","icon":"🔥","source":"franceinfo / Feux de Forêt","place":{"fr":"Forêt de Fontainebleau, France","en":"Fontainebleau Forest, France","es":"Bosque de Fontainebleau, Francia"},"title":{"fr":"Un incendie toujours en propagation dans la forêt de Fontainebleau","en":"Wildfire still spreading in the Fontainebleau forest","es":"Un incendio sigue propagándose en el bosque de Fontainebleau"},"summary":{"fr":"Deux incendies distincts touchent la forêt de Fontainebleau depuis le dimanche 12 juillet, selon franceinfo. Ensemble, ils ont parcouru environ 2050 hectares (1600 ha pour le premier foyer, 450 ha pour le second) et environ 1000 personnes ont été évacuées. Deux personnes soupçonnées d'être liées au déclenchement des feux ont été interpellées. Selon la préfecture de Seine-et-Marne, aucune victime ni blessé n'est à déplorer.","en":"Two separate wildfires have affected the Fontainebleau forest since Sunday, July 12, according to franceinfo. Together they have burned about 2,050 hectares (1,600 ha for the first fire, 450 ha for the second) and around 1,000 people were evacuated. Two people suspected of being linked to starting the fires have been arrested. According to the Seine-et-Marne prefecture, no casualties or injuries have been reported.","es":"Dos incendios distintos afectan al bosque de Fontainebleau desde el domingo 12 de julio, según franceinfo. En conjunto han quemado unas 2050 hectáreas (1600 ha el primer foco, 450 ha el segundo) y unas 1000 personas fueron evacuadas. Dos personas sospechosas de estar vinculadas al origen de los incendios fueron detenidas. Según la prefectura de Seine-et-Marne, no se reportan víctimas ni heridos."},"timeline":[{"t":{"fr":"12/07/2026","en":"12/07/2026","es":"12/07/2026"},"d":{"fr":"Un premier incendie se déclare près de Noisy-sur-École, selon franceinfo.","en":"A first fire breaks out near Noisy-sur-École, according to franceinfo.","es":"Se declara un primer incendio cerca de Noisy-sur-École, según franceinfo."},"active":false},{"t":{"fr":"14/07/2026","en":"14/07/2026","es":"14/07/2026"},"d":{"fr":"Le préfet de Seine-et-Marne annonce environ 2050 hectares brûlés et l'interpellation de deux suspects ; aucune victime signalée.","en":"The Seine-et-Marne prefect reports about 2,050 hectares burned and two suspects arrested; no casualties reported.","es":"El prefecto de Seine-et-Marne informa de unas 2050 hectáreas quemadas y dos sospechosos detenidos; no se reportan víctimas."},"active":false},{"t":{"fr":"15/07/2026","en":"15/07/2026","es":"15/07/2026"},"d":{"fr":"Selon Feux de Forêt, les incendies sont fixés (ne progressent plus) mais pas encore éteints.","en":"According to Feux de Forêt, the fires are contained (no longer spreading) but not yet extinguished.","es":"Según Feux de Forêt, los incendios están controlados (ya no avanzan) pero aún no extinguidos."},"active":true}],"week":"2026-W29"},{"coords":[-61.2333,15.9667],"id":"mariegalante-cyclisme","status":"confirme","severe":false,"category":"sport","source":"Guadeloupe la 1ère","place":{"fr":"Capesterre, Marie-Galante, Guadeloupe","en":"Capesterre, Marie-Galante, Guadeloupe","es":"Capesterre, Marie-Galante, Guadalupe"},"title":{"fr":"Le Tour cycliste de Marie-Galante 2026 poursuit sa 4e étape","en":"The 2026 Marie-Galante Cycling Tour continues with its 4th stage","es":"El Tour ciclista de Marie-Galante 2026 continúa con su 4.ª etapa"},"summary":{"fr":"Le Tour cycliste de Marie-Galante 2026 se poursuit ce vendredi 17 juillet avec une 4e étape de 115 km entre Capesterre et Grand-Bourg, selon Guadeloupe la 1ère. Rémi Marcoux porte le maillot jaune après la 3e étape remportée par Jérémy Deloumeaux.","en":"The 2026 Marie-Galante Cycling Tour continues this Friday, July 17 with a 115 km 4th stage between Capesterre and Grand-Bourg, according to Guadeloupe la 1ère. Rémi Marcoux holds the yellow jersey after the 3rd stage, won by Jérémy Deloumeaux.","es":"El Tour ciclista de Marie-Galante 2026 continúa este viernes 17 de julio con una 4.ª etapa de 115 km entre Capesterre y Grand-Bourg, según Guadeloupe la 1ère. Rémi Marcoux lleva el maillot amarillo tras la 3.ª etapa, ganada por Jérémy Deloumeaux."},"timeline":[{"t":{"fr":"17/07/2026","en":"17/07/2026","es":"17/07/2026"},"d":{"fr":"Guadeloupe la 1ère annonce le départ de la 4e étape entre Capesterre et Grand-Bourg.","en":"Guadeloupe la 1ère announces the start of the 4th stage between Capesterre and Grand-Bourg.","es":"Guadeloupe la 1ère anuncia la salida de la 4.ª etapa entre Capesterre y Grand-Bourg."},"active":true}],"week":"2026-W29"},{"coords":[109.28,22.68],"id":"guangxi-inondations","status":"confirme","severe":true,"category":"securite","icon":"🌊","source":"La Presse / Noovo Info","place":{"fr":"Hengzhou (village de Liulan), région du Guangxi, Chine","en":"Hengzhou (Liulan village), Guangxi region, China","es":"Hengzhou (aldea de Liulan), región de Guangxi, China"},"title":{"fr":"Le bilan des inondations dans le Guangxi s'alourdit à 39 morts","en":"Flood death toll in Guangxi rises to 39","es":"El balance de las inundaciones en Guangxi se eleva a 39 muertos"},"summary":{"fr":"Le bilan des inondations dévastatrices dans la région du Guangxi, dans le sud de la Chine, s'est alourdi à 39 morts et neuf disparus, selon les autorités citées par plusieurs médias. Un barrage-réservoir s'est rompu près du village de Liulan après des pluies torrentielles liées au typhon Maysak.","en":"The death toll from devastating floods in China's Guangxi region has risen to 39, with nine people still missing, according to authorities cited by several media outlets. A dam reservoir collapsed near the village of Liulan after torrential rains linked to Typhoon Maysak.","es":"El balance de las devastadoras inundaciones en la región de Guangxi, en el sur de China, se elevó a 39 muertos y nueve desaparecidos, según las autoridades citadas por varios medios. Una presa se rompió cerca de la aldea de Liulan tras lluvias torrenciales vinculadas al tifón Maysak."},"timeline":[{"t":{"fr":"09/07/2026","en":"09/07/2026","es":"09/07/2026"},"d":{"fr":"Les autorités portent le bilan à 39 morts et neuf disparus dans la région du Guangxi.","en":"Authorities raise the toll to 39 dead and nine missing in the Guangxi region.","es":"Las autoridades elevan el balance a 39 muertos y nueve desaparecidos en la región de Guangxi."},"active":true}],"week":"2026-W29"},{"coords":[-66.9036,10.4806],"id":"venezuela-seisme","status":"confirme","severe":true,"category":"securite","icon":"🏚️","source":"La Presse","place":{"fr":"Nord du Venezuela (région de Caracas)","en":"Northern Venezuela (Caracas region)","es":"Norte de Venezuela (región de Caracas)"},"title":{"fr":"Un double séisme dans le nord du Venezuela fait près de 3000 morts","en":"Double earthquake in northern Venezuela kills nearly 3,000","es":"Un doble terremoto en el norte de Venezuela deja casi 3000 muertos"},"summary":{"fr":"Un double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres.","en":"A double earthquake that devastated northern Venezuela has killed nearly 3,000 people, according to official figures. International rescue teams are gradually winding down the search for survivors in the rubble.","es":"Un doble terremoto que devastó el norte de Venezuela dejó casi 3000 muertos, según cifras oficiales. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros."},"timeline":[{"t":{"fr":"04/07/2026","en":"04/07/2026","es":"04/07/2026"},"d":{"fr":"Les autorités vénézuéliennes publient un bilan officiel proche de 3000 morts.","en":"Venezuelan authorities publish an official toll of nearly 3,000 deaths.","es":"Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."},"active":true}],"week":"2026-W29"},{"coords":[28.3228,-15.3875],"id":"zambie-guyscott","status":"confirme","severe":false,"category":"securite","icon":"🕯️","source":"allAfrica","place":{"fr":"Zambie","en":"Zambia","es":"Zambia"},"title":{"fr":"Mort de Guy Scott, seul président blanc d'Afrique post-apartheid","en":"Guy Scott, only white president in post-apartheid Africa, dies","es":"Muere Guy Scott, único presidente blanco de África tras el apartheid"},"summary":{"fr":"L'ancien vice-président zambien Guy Scott, qui fut par intérim le seul chef d'État blanc d'Afrique après la fin de l'apartheid, est décédé mercredi à l'âge de 82 ans, a annoncé le gouvernement zambien.","en":"Former Zambian vice-president Guy Scott, who briefly served as the only white head of state in Africa after the end of apartheid, died on Wednesday at age 82, the Zambian government announced.","es":"El expresidente interino y exvicepresidente zambio Guy Scott, quien fue el único jefe de Estado blanco de África tras el fin del apartheid, falleció el miércoles a los 82 años, según anunció el gobierno de Zambia."},"timeline":[{"t":{"fr":"15/07/2026","en":"15/07/2026","es":"15/07/2026"},"d":{"fr":"Le gouvernement zambien annonce le décès de Guy Scott à 82 ans.","en":"The Zambian government announces the death of Guy Scott at age 82.","es":"El gobierno de Zambia anuncia el fallecimiento de Guy Scott a los 82 años."},"active":true}],"week":"2026-W29"},{"coords":[149.13,-35.2809],"id":"australie-travail-force","status":"confirme","severe":false,"category":"justice","icon":"⚖","source":"AFP / Les Nouvelles Calédoniennes","place":{"fr":"Canberra, Australie","en":"Canberra, Australia","es":"Canberra, Australia"},"title":{"fr":"L'Australie va durcir sa loi contre le travail forcé","en":"Australia to toughen its law against forced labour","es":"Australia endurecerá su ley contra el trabajo forzoso"},"summary":{"fr":"L'Australie va rendre ses grandes entreprises pénalement responsables de l'absence de travail forcé dans leurs chaînes d'approvisionnement, y compris hors du pays, a annoncé jeudi 16 juillet la procureure générale Michelle Rowland, selon l'AFP. Une nouvelle infraction pénale visera les entreprises dont le chiffre d'affaires dépasse 7,2 milliards de francs si elles n'empêchent pas \"l'esclavage moderne\". L'annonce intervient après que les États-Unis ont menacé de droits de douane les pays jugés trop souples sur ce sujet.","en":"Australia will make large companies criminally liable for preventing forced labour in their supply chains, including abroad, Attorney General Michelle Rowland announced on Thursday, July 16, according to AFP. A new criminal offence will target companies with revenue above 7.2 billion francs that fail to prevent \"modern slavery.\" The announcement follows U.S. threats of tariffs against countries seen as too lenient on the issue.","es":"Australia hará penalmente responsables a las grandes empresas de prevenir el trabajo forzoso en sus cadenas de suministro, incluso fuera del país, anunció el jueves 16 de julio la fiscal general Michelle Rowland, según AFP. Un nuevo delito penal apuntará a las empresas con ingresos superiores a 7200 millones de francos que no prevengan la \"esclavitud moderna\". El anuncio se produce después de que Estados Unidos amenazara con aranceles a los países considerados demasiado permisivos en este tema."},"timeline":[{"t":{"fr":"16/07/2026","en":"16/07/2026","es":"16/07/2026"},"d":{"fr":"La procureure générale australienne annonce la nouvelle infraction pénale, selon l'AFP.","en":"The Australian Attorney General announces the new criminal offence, according to AFP.","es":"La fiscal general australiana anuncia el nuevo delito penal, según AFP."},"active":true}],"week":"2026-W29"},{"coords":[-123.1336,49.1666],"id":"canada-bateau","status":"confirme","severe":true,"category":"securite","icon":"🛟","source":"La Presse","place":{"fr":"Richmond, Colombie-Britannique, Canada","en":"Richmond, British Columbia, Canada","es":"Richmond, Columbia Británica, Canadá"},"title":{"fr":"Un navire de pêche immobilisé après le naufrage d'un autre bateau de la même société","en":"A fishing vessel grounded after another of the company's boats sank","es":"Un barco pesquero inmovilizado tras el naufragio de otra embarcación de la misma empresa"},"summary":{"fr":"Transports Canada a ordonné l'immobilisation d'un bateau exploité par une société de pêche de Colombie-Britannique, selon La Presse. Un autre navire de cette même société a coulé le mois dernier, faisant un mort et six disparus, présumés noyés.","en":"Transport Canada has ordered the grounding of a boat operated by a British Columbia fishing company, according to La Presse. Another vessel from the same company sank last month, leaving one dead and six missing, presumed drowned.","es":"Transport Canada ordenó la inmovilización de un barco operado por una empresa pesquera de Columbia Británica, según La Presse. Otra embarcación de la misma empresa se hundió el mes pasado, dejando un muerto y seis desaparecidos, presuntamente ahogados."},"timeline":[{"t":{"fr":"Semaine du 14/07/2026","en":"Week of 14/07/2026","es":"Semana del 14/07/2026"},"d":{"fr":"La Presse rapporte l'immobilisation du navire par Transports Canada.","en":"La Presse reports the vessel's grounding by Transport Canada.","es":"La Presse informa de la inmovilización de la embarcación por Transport Canada."},"active":true}],"week":"2026-W29"},{"id":"inde-train-hydrogene","coords":[76.314,29.316],"status":"confirme","severe":false,"category":"environnement","icon":"🚆","source":"Euronews / ABC News","place":{"fr":"Jind, Haryana, Inde","en":"Jind, Haryana, India","es":"Jind, Haryana, India"},"title":{"fr":"L'Inde lance son premier train de voyageurs à hydrogène","en":"India launches its first hydrogen-powered passenger train","es":"India lanza su primer tren de pasajeros a hidrógeno"},"summary":{"fr":"Le premier ministre indien Narendra Modi a lancé ce vendredi 17 juillet, depuis la gare de Jind Junction (Haryana), le premier train de voyageurs à hydrogène du pays, baptisé \"NaMo Green Rail\", selon Euronews et ABC News. Composé de deux voitures motrices à hydrogène et de huit voitures voyageurs, il peut transporter jusqu'à 2600 passagers à environ 75 km/h, et vise les lignes régionales non électrifiées.","en":"Indian Prime Minister Narendra Modi launched the country's first hydrogen-powered passenger train, named \"NaMo Green Rail,\" from Jind Junction station (Haryana) this Friday, July 17, according to Euronews and ABC News. Made up of two hydrogen-powered power cars and eight passenger cars, it can carry up to 2,600 passengers at about 75 km/h, and targets non-electrified regional lines.","es":"El primer ministro indio Narendra Modi lanzó este viernes 17 de julio, desde la estación de Jind Junction (Haryana), el primer tren de pasajeros a hidrógeno del país, llamado \"NaMo Green Rail\", según Euronews y ABC News. Compuesto por dos coches motores a hidrógeno y ocho coches de pasajeros, puede transportar hasta 2600 pasajeros a unos 75 km/h, y está destinado a líneas regionales no electrificadas."},"timeline":[{"t":{"fr":"17/07/2026","en":"17/07/2026","es":"17/07/2026"},"d":{"fr":"Narendra Modi inaugure le premier train à hydrogène indien à Jind, selon Euronews.","en":"Narendra Modi inaugurates India's first hydrogen train in Jind, according to Euronews.","es":"Narendra Modi inaugura el primer tren de hidrógeno indio en Jind, según Euronews."},"active":true}],"week":"2026-W29"},{"id":"iran-conflit-reprise","coords":[51.389,35.6892],"status":"confirme","severe":true,"category":"securite","icon":"⚠","source":"La Presse / franceinfo / Radio-Canada","week":"2026-W29","place":{"fr":"Téhéran, Iran","en":"Tehran, Iran","es":"Teherán, Irán"},"title":{"fr":"Le conflit entre les États-Unis, Israël et l'Iran reprend après le cessez-le-feu d'avril","en":"Conflict between the United States, Israel and Iran resumes after the April ceasefire","es":"El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"},"summary":{"fr":"Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.","en":"After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.","es":"Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."},"timeline":[{"t":{"fr":"08/04/2026","en":"04/08/2026","es":"08/04/2026"},"d":{"fr":"Un cessez-le-feu intermittent entre en vigueur, selon La Presse.","en":"An intermittent ceasefire takes effect, according to La Presse.","es":"Entra en vigor un alto el fuego intermitente, según La Presse."},"active":false},{"t":{"fr":"07/07/2026","en":"07/07/2026","es":"07/07/2026"},"d":{"fr":"Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.","en":"Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.","es":"Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."},"active":true}],"related":[]},{"id":"ouganda-bus-scolaire","coords":[34.4547,1.4022],"status":"confirme","severe":true,"category":"securite","icon":"🚗","source":"20 minutes / La Libre / AP","week":"2026-W29","place":{"fr":"District de Kapchorwa, est de l'Ouganda","en":"Kapchorwa District, eastern Uganda","es":"Distrito de Kapchorwa, este de Uganda"},"title":{"fr":"Un accident de bus scolaire fait au moins 21 morts en Ouganda","en":"A school bus crash kills at least 21 people in Uganda","es":"Un accidente de autobús escolar deja al menos 21 muertos en Uganda"},"summary":{"fr":"Un bus scolaire de l'école primaire King David de Ndejje est sorti de route jeudi soir dans le district de Kapchorwa, dans l'est de l'Ouganda, selon la police citée par 20 minutes, La Libre et l'AP. Le bilan s'élève à au moins 21 morts, dont 20 écoliers et un adulte ; plusieurs autres personnes ont été blessées. Selon la police, le chauffeur aurait perdu le contrôle du véhicule, qui a heurté un rocher avant de se retourner. Le bus revenait d'une excursion aux chutes de Sipi.","en":"A school bus from King David Primary School in Ndejje veered off the road on Thursday evening in Kapchorwa District, eastern Uganda, according to police cited by 20 minutes, La Libre and AP. The toll stands at at least 21 dead, including 20 schoolchildren and one adult; several other people were injured. Police said the driver apparently lost control of the vehicle, which hit a rock before overturning. The bus was returning from an excursion to Sipi Falls.","es":"Un autobús escolar de la escuela primaria King David de Ndejje se salió de la carretera el jueves por la noche en el distrito de Kapchorwa, este de Uganda, según la policía citada por 20 minutes, La Libre y AP. El balance es de al menos 21 muertos, entre ellos 20 escolares y un adulto; varias otras personas resultaron heridas. Según la policía, el conductor perdió el control del vehículo, que golpeó una roca antes de volcar. El autobús regresaba de una excursión a las cataratas de Sipi."},"timeline":[{"t":{"fr":"17/07/2026","en":"17/07/2026","es":"17/07/2026"},"d":{"fr":"La police ougandaise annonce un bilan d'au moins 21 morts.","en":"Ugandan police announce a toll of at least 21 dead.","es":"La policía ugandesa anuncia un balance de al menos 21 muertos."},"active":true}],"related":[]},{"id":"mondial2026-bresil-norvege","coords":[-74.0742,40.8135],"status":"confirme","severe":false,"category":"sport","icon":"⚽","source":"FIFA","week":"2026-W29","place":{"fr":"Stade de New York/New Jersey, États-Unis","en":"New York/New Jersey Stadium, United States","es":"Estadio de Nueva York/Nueva Jersey, Estados Unidos"},"title":{"fr":"Coupe du monde 2026 : le Brésil affronte la Norvège en huitièmes de finale","en":"2026 World Cup: Brazil faces Norway in the round of 16","es":"Mundial 2026: Brasil se enfrenta a Noruega en octavos de final"},"summary":{"fr":"Le Brésil affronte la Norvège ce vendredi 17 juillet au stade de New York/New Jersey, dans le cadre des huitièmes de finale de la Coupe du monde de la FIFA 2026, organisée aux États-Unis, au Mexique et au Canada, selon les données officielles de la FIFA.","en":"Brazil faces Norway this Friday, July 17 at the New York/New Jersey Stadium, as part of the round of 16 of the 2026 FIFA World Cup, hosted in the United States, Mexico and Canada, according to official FIFA data.","es":"Brasil se enfrenta a Noruega este viernes 17 de julio en el estadio de Nueva York/Nueva Jersey, en los octavos de final de la Copa Mundial de la FIFA 2026, organizada en Estados Unidos, México y Canadá, según datos oficiales de la FIFA."},"timeline":[{"t":{"fr":"17/07/2026","en":"17/07/2026","es":"17/07/2026"},"d":{"fr":"Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.","en":"Kickoff of the Brazil-Norway round of 16 match, according to FIFA.","es":"Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."},"active":true}],"related":[]}];
-
 let events = [];
 
 async function loadEvents(){
-  events = EMBEDDED_EVENTS;
+  const res = await fetch('events.json');
+  events = await res.json();
 }
 
 let currentOpenEvent = null;
@@ -409,11 +446,18 @@ const beamsContainer = document.getElementById('beams');
 document.getElementById('panelClose').addEventListener('click', () => {
   panel.classList.remove('open');
   currentOpenEvent = null;
+  stopReading();
 });
 
 document.getElementById('beamToggleBtn').addEventListener('click', (e) => {
   beamsEnabled = !beamsEnabled;
   e.currentTarget.classList.toggle('off', !beamsEnabled);
+});
+
+document.getElementById('autoReadToggleBtn').addEventListener('click', (e) => {
+  autoReadEnabled = !autoReadEnabled;
+  e.currentTarget.classList.toggle('off', !autoReadEnabled);
+  if (!autoReadEnabled) stopReading();
 });
 
 document.getElementById('resetViewBtn').addEventListener('click', () => {
@@ -432,12 +476,132 @@ document.getElementById('fullscreenBtn').addEventListener('click', () => {
 });
 
 // ---- 5. Panneau de détail + rendu de l'interface ----
+let currentUtterance = null;
+let autoReadEnabled = false;
+let cachedVoices = [];
+function loadVoices(){ cachedVoices = speechSynthesis.getVoices(); }
+if ('speechSynthesis' in window) {
+  loadVoices();
+  speechSynthesis.onvoiceschanged = loadVoices;
+}
+
+function stopReading(){
+  speechSynthesis.cancel();
+  currentUtterance = null;
+  const avatar = document.getElementById('journalistAvatar');
+  if (avatar) { avatar.classList.remove('talking'); avatar.classList.remove('show'); }
+}
+
+function speakArticle(evt){
+  if (!('speechSynthesis' in window)) return;
+  const avatar = document.getElementById('journalistAvatar');
+  const nameEl = document.getElementById('journalistName');
+  nameEl.textContent = I18N[currentLang].journalistName;
+
+  const text = `${evt.title[currentLang]}. ${evt.summary[currentLang]}`;
+  const utter = new SpeechSynthesisUtterance(text);
+  utter.lang = currentLang === 'fr' ? 'fr-FR' : currentLang === 'en' ? 'en-US' : 'es-ES';
+
+  const match = cachedVoices.find(v => v.lang.toLowerCase() === utter.lang.toLowerCase())
+    || cachedVoices.find(v => v.lang.toLowerCase().startsWith(currentLang));
+  if (match) utter.voice = match;
+
+  utter.rate = 1;
+  currentUtterance = utter;
+
+  utter.onstart = () => { avatar.classList.add('show', 'talking'); };
+  utter.onend = () => stopReading();
+  utter.onerror = () => stopReading();
+
+  speechSynthesis.cancel();
+  speechSynthesis.speak(utter);
+}
+
+function wireReadAloud(evt){
+  const avatar = document.getElementById('journalistAvatar');
+  avatar.style.cursor = 'pointer';
+  avatar.onclick = () => { if (speechSynthesis.speaking) stopReading(); };
+  document.getElementById('stopReadingLabel').textContent = I18N[currentLang].stopReading;
+  document.getElementById('stopReadingBtn').onclick = (e) => { e.stopPropagation(); stopReading(); };
+  if (autoReadEnabled) speakArticle(evt);
+}
+
 function openPanel(evt){
+  stopReading();
   currentOpenEvent = evt;
   const t = I18N[currentLang];
   const color = STATUS_COLOR[evt.status];
   const relatedEvents = (evt.related || []).map(id => events.find(e => e.id === id)).filter(Boolean);
   panelBody.innerHTML = `
+    <div class="journalist-avatar" id="journalistAvatar">
+      <svg viewBox="0 0 140 150" xmlns="http://www.w3.org/2000/svg">
+        <defs>
+          <radialGradient id="jbg" cx="50%" cy="35%" r="70%">
+            <stop offset="0%" stop-color="#1c2534"/>
+            <stop offset="100%" stop-color="#0a0e16"/>
+          </radialGradient>
+          <linearGradient id="jskin" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#f4d9bd"/>
+            <stop offset="100%" stop-color="#e7c1a0"/>
+          </linearGradient>
+          <linearGradient id="jhair" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#4a3527"/>
+            <stop offset="100%" stop-color="#2c1e15"/>
+          </linearGradient>
+          <linearGradient id="jblazer" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="#2a3242"/>
+            <stop offset="100%" stop-color="#171d29"/>
+          </linearGradient>
+        </defs>
+
+        <circle cx="70" cy="72" r="66" fill="url(#jbg)"/>
+        <circle cx="70" cy="72" r="66" fill="none" stroke="#e8b94e" stroke-width="1.2" opacity="0.55"/>
+
+        <!-- shoulders / blazer -->
+        <path d="M18 150 Q22 104 70 100 Q118 104 122 150 Z" fill="url(#jblazer)"/>
+        <path d="M56 104 L70 118 L84 104 L78 100 L70 106 L62 100 Z" fill="#f4f6fa" opacity="0.92"/>
+        <circle cx="70" cy="112" r="2.6" fill="#e8b94e"/>
+
+        <!-- neck -->
+        <rect x="60" y="86" width="20" height="22" rx="8" fill="url(#jskin)"/>
+
+        <!-- hair back -->
+        <path d="M30 70 Q26 28 70 24 Q114 28 110 70 L104 96 Q100 62 70 60 Q40 62 36 96 Z" fill="url(#jhair)"/>
+
+        <!-- head -->
+        <ellipse cx="70" cy="60" rx="28" ry="31" fill="url(#jskin)"/>
+
+        <!-- hair front / fringe -->
+        <path d="M42 52 Q40 24 70 22 Q100 24 98 52 Q92 34 70 33 Q48 34 42 52 Z" fill="url(#jhair)"/>
+
+        <!-- eyebrows -->
+        <path d="M50 51 Q56 47 62 50" stroke="#3a2a1f" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <path d="M78 50 Q84 47 90 51" stroke="#3a2a1f" stroke-width="2" fill="none" stroke-linecap="round"/>
+
+        <!-- eyes -->
+        <g class="jblink">
+          <ellipse cx="57" cy="58" rx="4" ry="4.6" fill="#2b2018"/>
+          <ellipse cx="83" cy="58" rx="4" ry="4.6" fill="#2b2018"/>
+          <circle cx="58.3" cy="56.5" r="1.1" fill="#fff" opacity="0.85"/>
+          <circle cx="84.3" cy="56.5" r="1.1" fill="#fff" opacity="0.85"/>
+        </g>
+
+        <!-- nose -->
+        <path d="M69 60 Q67 68 70 70 Q73 68 71 60" stroke="#c99a76" stroke-width="1.3" fill="none" stroke-linecap="round" opacity="0.7"/>
+
+        <!-- mouth (upper lip static, lower lip animates) -->
+        <path d="M58 76 Q70 74 82 76" stroke="#a85c4c" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+        <g class="jaw">
+          <path d="M60 78 Q70 88 80 78 Q70 82 60 78 Z" fill="#8a4438"/>
+        </g>
+
+        <!-- press badge -->
+        <rect x="30" y="122" width="26" height="9" rx="2" fill="none" stroke="#e8b94e" stroke-width="1" opacity="0.7"/>
+        <text x="43" y="129" font-size="6" fill="#e8b94e" font-family="monospace" text-anchor="middle" opacity="0.85">TERRA</text>
+      </svg>
+      <div class="jname" id="journalistName"></div>
+      <button class="stop-reading-inline" id="stopReadingBtn">⏹ <span id="stopReadingLabel"></span></button>
+    </div>
     <div class="status-badge${evt.severe ? ' severe' : ''}" style="color:${color}"><span class="dot"></span>${t.status[evt.status]}${evt.severe ? ' · <span style="color:#ef4444">' + t.grave + '</span>' : ''}</div>
     <h2>${evt.title[currentLang]}</h2>
     <div class="place">${evt.place[currentLang].toUpperCase()}</div>
@@ -463,6 +627,7 @@ function openPanel(evt){
       if (target) openPanel(target);
     });
   });
+  wireReadAloud(evt);
   map.flyTo({ center: evt.coords, zoom: 9, pitch: 0, duration: 1800 });
 }
 
@@ -480,6 +645,7 @@ function renderUI(){
   document.getElementById('fullscreenBtn').title = t.fullscreenTitle;
   document.getElementById('resetViewBtn').title = t.resetTitle;
   document.getElementById('resetLayoutBtn').title = t.resetLayoutTitle;
+  document.getElementById('autoReadToggleBtn').title = t.autoReadTitle;
   document.getElementById('weekPickerTitle').textContent = t.weekPickerTitle;
   document.getElementById('beamToggleBtn').title = t.beamToggleTitle;
 
@@ -708,9 +874,31 @@ map.on('load', async () => {
   await loadEvents();
 
   let beamEls = [];
+  let revealedIds = new Set();
+  let userCoords = null;
+
+  function haversineDistance(lng1, lat1, lng2, lat2){
+    const toRad = d => d * Math.PI / 180;
+    const R = 6371;
+    const dLat = toRad(lat2 - lat1);
+    const dLng = toRad(lng2 - lng1);
+    const a = Math.sin(dLat/2)**2 + Math.cos(toRad(lat1)) * Math.cos(toRad(lat2)) * Math.sin(dLng/2)**2;
+    return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  }
+
+  function sortedEventsForReveal(week){
+    const list = events.filter(e => e.week === week);
+    if (userCoords) {
+      return list.slice().sort((a, b) =>
+        haversineDistance(userCoords.lng, userCoords.lat, a.coords[0], a.coords[1]) -
+        haversineDistance(userCoords.lng, userCoords.lat, b.coords[0], b.coords[1])
+      );
+    }
+    return list.slice().sort((a, b) => (a.priority || 2) - (b.priority || 2));
+  }
 
   function getVisibleEvents(){
-    return events.filter(e => e.week === activeWeek);
+    return events.filter(e => e.week === activeWeek && revealedIds.has(e.id));
   }
 
   function buildGeojson(){
@@ -748,6 +936,24 @@ map.on('load', async () => {
     rebuildBeams();
   }
 
+  // dévoile les points par petites vagues plutôt que tous d'un coup, en commençant
+  // par les plus proches de l'utilisateur (ou, à défaut, les pays les plus importants)
+  function revealProgressively(week){
+    revealedIds = new Set();
+    const ordered = sortedEventsForReveal(week);
+    const BATCH_SIZE = 4;
+    const DELAY_MS = 400;
+
+    function step(idx){
+      ordered.slice(idx, idx + BATCH_SIZE).forEach(e => revealedIds.add(e.id));
+      refreshWeekData();
+      if (idx + BATCH_SIZE < ordered.length) {
+        setTimeout(() => step(idx + BATCH_SIZE), DELAY_MS);
+      }
+    }
+    step(0);
+  }
+
   function populateWeekPicker(){
     const weeks = [...new Set(events.map(e => e.week))].filter(Boolean).sort().reverse();
     activeWeek = weeks[0] || null;
@@ -762,11 +968,29 @@ map.on('load', async () => {
     if (activeWeek) sel.value = activeWeek;
     sel.addEventListener('change', () => {
       activeWeek = sel.value;
-      refreshWeekData();
+      revealProgressively(activeWeek);
       applyCategoryFilter(activeCategory);
     });
   }
   populateWeekPicker();
+
+  // tente d'obtenir la position de l'utilisateur pour prioriser les actus proches ;
+  // si refusé/indisponible, on retombe sur le classement par importance économique
+  function beginReveal(){
+    revealProgressively(activeWeek);
+  }
+  if ('geolocation' in navigator) {
+    let settled = false;
+    const finish = () => { if (!settled) { settled = true; beginReveal(); } };
+    navigator.geolocation.getCurrentPosition(
+      (pos) => { userCoords = { lat: pos.coords.latitude, lng: pos.coords.longitude }; finish(); },
+      () => finish(),
+      { timeout: 600 }
+    );
+    setTimeout(finish, 700);
+  } else {
+    beginReveal();
+  }
 
   map.addSource('events', { type: 'geojson', data: buildGeojson() });
 

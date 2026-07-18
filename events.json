@@ -40,7 +40,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -83,7 +84,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -126,7 +128,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -168,7 +171,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -211,7 +215,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 2
   },
   {
     "coords": [
@@ -254,7 +259,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 2
   },
   {
     "coords": [
@@ -296,7 +302,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -365,7 +372,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -407,7 +415,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -450,7 +459,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -493,7 +503,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 3
   },
   {
     "coords": [
@@ -536,7 +547,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 3
   },
   {
     "coords": [
@@ -579,7 +591,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "coords": [
@@ -622,7 +635,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 1
   },
   {
     "id": "inde-train-hydrogene",
@@ -665,7 +679,8 @@
         "active": true
       }
     ],
-    "week": "2026-W29"
+    "week": "2026-W29",
+    "priority": 2
   },
   {
     "id": "iran-conflit-reprise",
@@ -722,7 +737,8 @@
         "active": true
       }
     ],
-    "related": []
+    "related": [],
+    "priority": 2
   },
   {
     "id": "ouganda-bus-scolaire",
@@ -766,7 +782,8 @@
         "active": true
       }
     ],
-    "related": []
+    "related": [],
+    "priority": 3
   },
   {
     "id": "mondial2026-bresil-norvege",
@@ -810,6 +827,7 @@
         "active": true
       }
     ],
-    "related": []
+    "related": [],
+    "priority": 1
   }
 ]
