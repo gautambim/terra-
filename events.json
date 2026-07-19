@@ -829,5 +829,943 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -99.14,
+      30.05
+    ],
+    "id": "texas-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "CNN / Washington Post",
+    "place": {
+      "fr": "Comté de Kerr et comté d'Uvalde, Texas, États-Unis",
+      "en": "Kerr County and Uvalde County, Texas, United States",
+      "es": "Condado de Kerr y condado de Uvalde, Texas, Estados Unidos"
+    },
+    "title": {
+      "fr": "Inondations catastrophiques dans le Texas Hill Country",
+      "en": "Catastrophic flooding hits the Texas Hill Country",
+      "es": "Inundaciones catastróficas en el Texas Hill Country"
+    },
+    "summary": {
+      "fr": "De fortes pluies ont provoqué des crues éclair « catastrophiques » dans le centre-sud du Texas entre le 14 et le 17 juillet, avec plus de 53 cm de pluie tombés à Uvalde et 48 cm à Kerrville. La rivière Guadalupe est montée de plusieurs mètres en quelques heures. Au moins deux personnes sont mortes et plus de 270 ont été secourues. Le gouverneur Greg Abbott a déclaré l'état de catastrophe pour 59 comtés puis une déclaration de catastrophe majeure pour 28 comtés, mobilisant plus de 2 700 secouristes. Cet épisode survient un an après les inondations meurtrières de juillet 2025 dans la même région, qui avaient fait plus de 130 morts.",
+      "en": "Torrential rain triggered 'catastrophic' flash flooding across south-central Texas between July 14 and 17, with Uvalde receiving over 21 inches of rain and Kerrville over 19 inches. The Guadalupe River rose several meters within hours. At least two people died and more than 270 were rescued. Governor Greg Abbott declared a disaster for 59 counties, then a major disaster declaration for 28 of the hardest-hit counties, deploying over 2,700 personnel. The flooding comes almost exactly a year after the deadly July 2025 Hill Country floods, which killed more than 130 people in the same region.",
+      "es": "Fuertes lluvias provocaron inundaciones repentinas «catastróficas» en el centro-sur de Texas entre el 14 y el 17 de julio, con más de 53 cm de lluvia en Uvalde y 48 cm en Kerrville. El río Guadalupe subió varios metros en cuestión de horas. Al menos dos personas murieron y más de 270 fueron rescatadas. El gobernador Greg Abbott declaró el estado de catástrofe para 59 condados y luego una declaración de catástrofe mayor para 28 de los condados más afectados, movilizando a más de 2.700 socorristas. El episodio llega casi un año después de las mortíferas inundaciones de julio de 2025 en la misma región, que causaron más de 130 muertos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur du Texas déclare une catastrophe majeure pour 28 comtés après des crues éclair ayant fait au moins deux morts et 270 personnes secourues.",
+          "en": "The Texas governor declares a major disaster for 28 counties after flash flooding kills at least two and prompts 270 rescues.",
+          "es": "El gobernador de Texas declara una catástrofe mayor para 28 condados tras inundaciones repentinas que dejaron al menos dos muertos y 270 rescates."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -105.3,
+      55.92
+    ],
+    "id": "saskatchewan-ours",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🐻",
+    "source": "CBC News / CTV News",
+    "place": {
+      "fr": "Lac McTavish, nord de la Saskatchewan, Canada",
+      "en": "McTavish Lake, northern Saskatchewan, Canada",
+      "es": "Lago McTavish, norte de Saskatchewan, Canadá"
+    },
+    "title": {
+      "fr": "Un couple tué dans une attaque d'ours noir dans le nord de la Saskatchewan",
+      "en": "Couple killed in black bear attack in northern Saskatchewan",
+      "es": "Una pareja muere en un ataque de oso negro en el norte de Saskatchewan"
+    },
+    "summary": {
+      "fr": "Jay et Deb MacDonald, un couple de retraités de Regina d'une soixantaine-dizaine d'années, ont été tués par un ours noir près de leur chalet de pêche isolé, au lac McTavish, à environ 88 km au nord de La Ronge. Leurs corps ont été découverts près du chalet, déclenchant une enquête de la faune. Les agents de conservation de la Saskatchewan ont ensuite localisé et euthanasié un ours soupçonné d'être impliqué. Selon les autorités, il s'agit seulement du quatrième décès connu lié à un ours dans l'histoire récente de la province.",
+      "en": "Jay and Deb MacDonald, a retired couple from Regina in their early 70s, were killed by a black bear near their remote fishing cabin at McTavish Lake, about 88 km north of La Ronge. Their bodies were found near the cabin, prompting a provincial wildlife investigation. Saskatchewan conservation officers later located and euthanized a bear suspected in the deaths. Officials say it is only the fourth known fatal bear encounter in the province's recent history.",
+      "es": "Jay y Deb MacDonald, una pareja jubilada de Regina de unos setenta años, murieron a causa de un ataque de oso negro cerca de su cabaña de pesca aislada, en el lago McTavish, a unos 88 km al norte de La Ronge. Sus cuerpos fueron hallados cerca de la cabaña, lo que desencadenó una investigación de fauna silvestre. Los agentes de conservación de Saskatchewan localizaron y sacrificaron después a un oso sospechoso de estar implicado. Según las autoridades, es solo la cuarta muerte conocida por ataque de oso en la historia reciente de la provincia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Des agents de conservation localisent et euthanasient un ours noir soupçonné d'avoir tué le couple MacDonald près de leur chalet du lac McTavish.",
+          "en": "Conservation officers locate and euthanize a black bear suspected of killing the MacDonald couple near their cabin at McTavish Lake.",
+          "es": "Agentes de conservación localizan y sacrifican a un oso negro sospechoso de haber matado a la pareja MacDonald cerca de su cabaña en el lago McTavish."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.04,
+      38.91
+    ],
+    "id": "canada-tarifs-douaniers",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💵",
+    "source": "NBC News / Washington Post",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Donald Trump annonce une hausse des droits de douane à 35 % sur les importations canadiennes",
+      "en": "Trump announces 35% tariff hike on Canadian imports",
+      "es": "Trump anuncia un aumento de los aranceles al 35 % sobre las importaciones canadienses"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a annoncé le 17 juillet son intention de porter à 35 % les droits de douane sur les importations en provenance du Canada, à compter du 1er août, dans la continuité d'une annonce tarifaire du 10 juillet. Certains médias relient cette déclaration à l'irritation face à la fumée des feux de forêt canadiens dérivant vers les villes américaines, d'autres la présentent comme la poursuite de la campagne tarifaire engagée plus tôt ce mois-ci. Le dollar canadien s'est affaibli face au dollar américain après l'annonce. Les secteurs du bois et des pièces automobiles seraient les plus touchés, selon des responsables commerciaux canadiens.",
+      "en": "US President Donald Trump announced on July 17 his intention to raise tariffs on Canadian imports to 35%, effective August 1, building on a July 10 tariff announcement. Some reports link the statement to frustration over Canadian wildfire smoke drifting into US cities, while others frame it as a continuation of the broader tariff campaign launched earlier in the month. The Canadian dollar weakened against the US dollar following the announcement. Canadian trade officials say the lumber and auto parts sectors would be hit hardest.",
+      "es": "El presidente estadounidense Donald Trump anunció el 17 de julio su intención de elevar al 35 % los aranceles sobre las importaciones canadienses, a partir del 1 de agosto, en continuidad con un anuncio arancelario del 10 de julio. Algunos medios vinculan la declaración a la irritación por el humo de los incendios forestales canadienses que llega a ciudades estadounidenses, mientras que otros la enmarcan como la continuación de la campaña arancelaria iniciada a principios de mes. El dólar canadiense se debilitó frente al dólar estadounidense tras el anuncio. Según funcionarios comerciales canadienses, los sectores de la madera y las autopartes serían los más afectados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Donald Trump annonce une hausse à 35 % des droits de douane sur les produits canadiens, effective au 1er août.",
+          "en": "Donald Trump announces a 35% tariff hike on Canadian goods, effective August 1.",
+          "es": "Donald Trump anuncia un aumento al 35 % de los aranceles sobre los productos canadienses, vigente a partir del 1 de agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -74.07,
+      40.81
+    ],
+    "id": "mondial2026-finale",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FIFA / Fox Sports",
+    "related": [
+      "mondial2026-bresil-norvege"
+    ],
+    "place": {
+      "fr": "MetLife Stadium, East Rutherford, New Jersey, États-Unis",
+      "en": "MetLife Stadium, East Rutherford, New Jersey, United States",
+      "es": "MetLife Stadium, East Rutherford, Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "Espagne–Argentine : la finale de la Coupe du monde 2026 se joue à New York",
+      "en": "Spain vs Argentina: the 2026 World Cup final kicks off in New York",
+      "es": "España-Argentina: la final del Mundial 2026 se juega en Nueva York"
+    },
+    "summary": {
+      "fr": "L'Espagne, championne d'Europe, affronte l'Argentine, championne du monde et d'Amérique du Sud en titre, ce dimanche 19 juillet au MetLife Stadium (82 500 places), pour la finale de la Coupe du monde 2026. C'est la première finale de Coupe du monde à opposer deux champions continentaux en exercice. L'Argentine, portée par Lionel Messi, possède la meilleure attaque du tournoi avec 19 buts marqués ; l'Espagne, emmenée par Lamine Yamal, affiche la meilleure défense, un seul but encaissé. Ce Mondial est le premier co-organisé par les États-Unis, le Canada et le Mexique.",
+      "en": "European champion Spain faces defending world and South American champion Argentina on Sunday, July 19, at MetLife Stadium (capacity 82,500) in the 2026 World Cup final — the first World Cup final ever to pit two reigning continental champions against each other. Argentina, led by Lionel Messi, has the tournament's top attack with 19 goals scored; Spain, led by Lamine Yamal, has conceded just once, the tournament's best defense. This is the first World Cup jointly hosted by the United States, Canada and Mexico.",
+      "es": "España, campeona de Europa, se enfrenta a Argentina, vigente campeona del mundo y de Sudamérica, este domingo 19 de julio en el MetLife Stadium (82.500 localidades), en la final del Mundial 2026. Es la primera final de un Mundial que enfrenta a dos campeones continentales vigentes. Argentina, liderada por Lionel Messi, tiene el mejor ataque del torneo con 19 goles; España, liderada por Lamine Yamal, presenta la mejor defensa, con un solo gol encajado. Este Mundial es el primero coorganizado por Estados Unidos, Canadá y México."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026 — 15h00 (heure de l'Est)",
+          "en": "19/07/2026 — 3:00pm ET",
+          "es": "19/07/2026 — 15:00 (hora del Este)"
+        },
+        "d": {
+          "fr": "Coup d'envoi de la finale Espagne–Argentine au MetLife Stadium, retransmise sur Fox et Telemundo.",
+          "en": "Kickoff of the Spain vs Argentina final at MetLife Stadium, broadcast on Fox and Telemundo.",
+          "es": "Saque inicial de la final España-Argentina en el MetLife Stadium, transmitida por Fox y Telemundo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      108.17,
+      29.3
+    ],
+    "id": "chongqing-glissement-terrain",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛰️",
+    "source": "China Daily / Associated Press",
+    "place": {
+      "fr": "Pengshui, municipalité de Chongqing, Chine",
+      "en": "Pengshui County, Chongqing Municipality, China",
+      "es": "Pengshui, municipalidad de Chongqing, China"
+    },
+    "title": {
+      "fr": "Un glissement de terrain fait au moins 8 morts et 34 disparus près de Chongqing",
+      "en": "Landslide kills at least 8, leaves 34 missing near Chongqing",
+      "es": "Un deslizamiento de tierra deja al menos 8 muertos y 34 desaparecidos cerca de Chongqing"
+    },
+    "summary": {
+      "fr": "Un glissement de terrain déclenché par de fortes pluies a enseveli plus de dix bâtiments résidentiels le 18 juillet dans le comté de Pengshui, dans la municipalité de Chongqing, dans le sud-ouest de la Chine. Environ 18 000 m³ de roches et de terre, dont un bloc estimé à 3 000 m³, ont dévalé une pente. Au moins 8 personnes sont mortes et 34 restaient portées disparues, tandis que plus de 1 100 habitants ont été évacués et 10 personnes secourues vivantes. La Commission nationale du développement et de la réforme a débloqué 30 millions de yuans (environ 4,4 millions de dollars) d'aide d'urgence. L'événement survient dans un contexte d'alertes aux inondations sur une large partie du pays.",
+      "en": "A rain-triggered landslide buried more than ten residential buildings on July 18 in Pengshui County, Chongqing Municipality, in southwest China. Roughly 18,000 cubic meters of rock and soil, including one boulder estimated at 3,000 cubic meters, slid down a slope. At least 8 people died and 34 remained missing, while more than 1,100 residents were evacuated and 10 people rescued alive. China's National Development and Reform Commission allocated 30 million yuan (about $4.4 million) in emergency relief. The disaster comes amid widespread flood warnings across the country.",
+      "es": "Un deslizamiento de tierra provocado por fuertes lluvias sepultó más de diez edificios residenciales el 18 de julio en el condado de Pengshui, municipalidad de Chongqing, en el suroeste de China. Unos 18.000 m³ de roca y tierra, incluida una roca estimada en 3.000 m³, se desprendieron de una ladera. Al menos 8 personas murieron y 34 seguían desaparecidas, mientras más de 1.100 residentes fueron evacuados y 10 personas fueron rescatadas con vida. La Comisión Nacional de Desarrollo y Reforma de China destinó 30 millones de yuanes (unos 4,4 millones de dólares) en ayuda de emergencia. El desastre se produce en medio de alertas de inundación en gran parte del país."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Un glissement de terrain ensevelit des habitations à Pengshui ; le bilan s'établit à 8 morts et 34 disparus, les secours se poursuivent.",
+          "en": "A landslide buries homes in Pengshui; the toll stands at 8 dead and 34 missing as rescue operations continue.",
+          "es": "Un deslizamiento de tierra sepulta viviendas en Pengshui; el balance es de 8 muertos y 34 desaparecidos, mientras continúan las labores de rescate."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      126.78,
+      37.76
+    ],
+    "id": "coree-inondations",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌧️",
+    "source": "The Korea Times / Korea JoongAng Daily",
+    "place": {
+      "fr": "Paju et région du Gyeonggi, Corée du Sud",
+      "en": "Paju and Gyeonggi Province, South Korea",
+      "es": "Paju y provincia de Gyeonggi, Corea del Sur"
+    },
+    "title": {
+      "fr": "De fortes pluies inondent la région métropolitaine de Séoul",
+      "en": "Heavy rain floods the greater Seoul metropolitan area",
+      "es": "Fuertes lluvias inundan el área metropolitana de Seúl"
+    },
+    "summary": {
+      "fr": "Jusqu'à 192,5 mm de pluie sont tombés en une nuit sur la région métropolitaine de Séoul et la province du Gangwon les 17 et 18 juillet, poussant la Première ministre Han Seong-sook à ordonner des mesures d'urgence. Environ 540 sinistres ont été recensés, dont 148 inondations de logements ou de routes et 392 chutes d'arbres ; 95 personnes de 44 foyers ont été évacuées par précaution dans six villes. Aucune victime humaine n'a été signalée. Le Service forestier coréen a relevé le niveau d'alerte aux glissements de terrain dans la capitale et de nouvelles pluies étaient attendues vers la province du Chungcheong.",
+      "en": "Up to 192.5mm of rain fell overnight on the greater Seoul metropolitan area and Gangwon Province on July 17-18, prompting Prime Minister Han Seong-sook to order emergency response measures. About 540 damage cases were recorded, including 148 flooded homes or roads and 392 fallen trees; 95 people from 44 households were evacuated as a precaution across six cities. No human casualties were reported. The Korea Forest Service raised landslide warnings across the capital region, with further rain forecast toward Chungcheong province.",
+      "es": "Hasta 192,5 mm de lluvia cayeron en una noche sobre el área metropolitana de Seúl y la provincia de Gangwon los días 17 y 18 de julio, lo que llevó a la primera ministra Han Seong-sook a ordenar medidas de emergencia. Se registraron unos 540 casos de daños, entre ellos 148 viviendas o carreteras inundadas y 392 árboles caídos; 95 personas de 44 hogares fueron evacuadas por precaución en seis ciudades. No se reportaron víctimas humanas. El Servicio Forestal de Corea elevó las alertas de deslizamiento en la capital, y se preveían más lluvias hacia la provincia de Chungcheong."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "La Première ministre Han Seong-sook ordonne des mesures d'urgence après des inondations ayant touché environ 540 sites en région de Séoul, sans faire de victime.",
+          "en": "PM Han Seong-sook orders emergency measures after flooding affects about 540 sites in the Seoul region, with no casualties reported.",
+          "es": "La primera ministra Han Seong-sook ordena medidas de emergencia tras inundaciones que afectaron unos 540 puntos en la región de Seúl, sin víctimas reportadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      72.65,
+      23.03
+    ],
+    "id": "ahmedabad-explosion",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Business Standard / The Tribune India",
+    "place": {
+      "fr": "Quartier de Ramol, Ahmedabad, Gujarat, Inde",
+      "en": "Ramol area, Ahmedabad, Gujarat, India",
+      "es": "Barrio de Ramol, Ahmedabad, Gujarat, India"
+    },
+    "title": {
+      "fr": "Une explosion dans une usine clandestine de pétards fait au moins 9 morts à Ahmedabad",
+      "en": "Explosion at illegal firecracker factory kills at least 9 in Ahmedabad",
+      "es": "Una explosión en una fábrica clandestina de petardos deja al menos 9 muertos en Ahmedabad"
+    },
+    "summary": {
+      "fr": "Une explosion suivie d'un incendie s'est produite le 18 juillet vers 15h30 dans une unité clandestine de fabrication de pétards du quartier de Ramol, à Ahmedabad, dans l'État du Gujarat. Le bilan, d'abord établi à 4 morts, est monté à au moins 9 morts et environ 6 blessés à mesure que des victimes brûlées décédaient. L'exploitant présumé, Mehul Dodiya, aurait continué la production malgré le retrait de sa licence. Le Premier ministre Narendra Modi a annoncé une aide de 200 000 roupies par décès et 50 000 roupies par blessé.",
+      "en": "An explosion followed by a fire struck an illegal firecracker manufacturing unit in the Ramol area of Ahmedabad, Gujarat, on July 18 at around 3:30pm. The toll, initially reported at 4 dead, rose to at least 9 dead and around 6 injured as burn victims died. The alleged operator, Mehul Dodiya, reportedly kept producing despite having his license revoked. Prime Minister Narendra Modi announced ex-gratia payments of ₹200,000 per death and ₹50,000 per injury.",
+      "es": "Una explosión seguida de un incendio ocurrió el 18 de julio hacia las 15:30 en una unidad clandestina de fabricación de petardos en el barrio de Ramol, Ahmedabad, estado de Gujarat. El balance, inicialmente de 4 muertos, subió a al menos 9 muertos y unos 6 heridos a medida que fallecían víctimas con quemaduras. El presunto operador, Mehul Dodiya, habría seguido produciendo pese a que le habían revocado la licencia. El primer ministro Narendra Modi anunció una ayuda de 200.000 rupias por fallecido y 50.000 por herido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Une explosion dans une usine clandestine de pétards à Ahmedabad fait au moins 9 morts ; le Premier ministre Modi annonce une aide aux familles.",
+          "en": "An explosion at an illegal firecracker factory in Ahmedabad kills at least 9; PM Modi announces aid for families.",
+          "es": "Una explosión en una fábrica clandestina de petardos en Ahmedabad deja al menos 9 muertos; el primer ministro Modi anuncia ayuda para las familias."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      137.35,
+      36.76
+    ],
+    "id": "toyama-projet-attaque",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Japan Times / Japan Today",
+    "place": {
+      "fr": "Namerikawa, préfecture de Toyama, Japon (attaque projetée à Tokyo)",
+      "en": "Namerikawa, Toyama Prefecture, Japan (attack planned for Tokyo)",
+      "es": "Namerikawa, prefectura de Toyama, Japón (ataque planeado en Tokio)"
+    },
+    "title": {
+      "fr": "Japon : un homme arrêté pour avoir planifié une attaque au couteau de masse à Tokyo",
+      "en": "Japan: man arrested over planned mass stabbing attack in Tokyo",
+      "es": "Japón: arrestan a un hombre por planear un ataque masivo con cuchillo en Tokio"
+    },
+    "summary": {
+      "fr": "La police japonaise a arrêté Katsumi Mori, 53 ans, sans emploi et originaire de Namerikawa (préfecture de Toyama), soupçonné d'avoir préparé une attaque au couteau indiscriminée à Tokyo. Il aurait réservé un billet de bus et préparé un couteau. Selon les enquêteurs, il a déclaré vouloir mourir et espérait qu'un meurtre de masse le fasse abattre ou condamner à mort, invoquant des difficultés financières liées à l'inflation. Le projet a été déjoué après un signalement à la police de Shuitsu Otomo, un ancien proche de Tomohiro Kato, l'auteur exécuté du massacre d'Akihabara en 2008, qui a rapporté que Mori évoquait cet événement.",
+      "en": "Japanese police arrested Katsumi Mori, 53, an unemployed resident of Namerikawa in Toyama Prefecture, on suspicion of planning an indiscriminate knife attack in Tokyo. He had allegedly booked a bus ticket and prepared a knife. Investigators say he told them he wanted to die and hoped a mass killing would get him shot or sentenced to death, citing financial hardship linked to inflation. The plot was foiled after a tip to police from Shuitsu Otomo, a former close friend of Tomohiro Kato, the man executed for the 2008 Akihabara massacre, who reported that Mori had referenced that attack.",
+      "es": "La policía japonesa arrestó a Katsumi Mori, de 53 años, desempleado y residente en Namerikawa (prefectura de Toyama), sospechoso de planear un ataque indiscriminado con cuchillo en Tokio. Presuntamente había reservado un billete de autobús y preparado un cuchillo. Según los investigadores, declaró que quería morir y esperaba que un asesinato masivo hiciera que lo mataran a tiros o lo condenaran a muerte, citando dificultades económicas ligadas a la inflación. El plan fue frustrado tras un aviso a la policía de Shuitsu Otomo, un antiguo amigo cercano de Tomohiro Kato, el autor ejecutado de la masacre de Akihabara de 2008, quien informó que Mori mencionaba ese ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "13/07/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "La police arrête Katsumi Mori, soupçonné d'avoir planifié une attaque au couteau de masse à Tokyo, après un signalement lié au massacre d'Akihabara de 2008.",
+          "en": "Police arrest Katsumi Mori, suspected of planning a mass knife attack in Tokyo, following a tip referencing the 2008 Akihabara massacre.",
+          "es": "La policía arresta a Katsumi Mori, sospechoso de planear un ataque masivo con cuchillo en Tokio, tras un aviso relacionado con la masacre de Akihabara de 2008."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "De nouveaux éléments confirment que le projet d'attaque de Mori s'inspirait directement du massacre d'Akihabara de 2008.",
+          "en": "Further reporting confirms police believe Mori's plot was directly inspired by the 2008 Akihabara massacre.",
+          "es": "Nueva información confirma que la policía cree que el plan de Mori se inspiró directamente en la masacre de Akihabara de 2008."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -47.93,
+      -15.78
+    ],
+    "id": "bresil-bolsonaro-visites",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg / Al Jazeera",
+    "place": {
+      "fr": "Brasília, District fédéral, Brésil",
+      "en": "Brasília, Federal District, Brazil",
+      "es": "Brasilia, Distrito Federal, Brasil"
+    },
+    "title": {
+      "fr": "La Cour suprême brésilienne interdit toute visite à Jair Bolsonaro",
+      "en": "Brazil's Supreme Court bars all visits to Jair Bolsonaro",
+      "es": "El Supremo de Brasil prohíbe todas las visitas a Jair Bolsonaro"
+    },
+    "summary": {
+      "fr": "Le juge Alexandre de Moraes, de la Cour suprême, a imposé le 17 juillet une interdiction de 30 jours de toute visite en personne à l'ancien président Jair Bolsonaro, assigné à résidence, à l'exception de ses avocats et médecins. Il a évoqué 185 visites recensées entre fin mars et mi-juillet, qu'il a qualifiées de « dérive manifeste » par rapport aux motifs humanitaires de l'assignation. Le 18 juillet, la Cour a également refusé une demande de visite formulée par le président argentin Javier Milei. Le 13 juillet, un juge avait déjà interdit pour 90 jours à Flávio Bolsonaro, sénateur et fils de l'ex-président, de rendre visite à son père, après qu'il eut lu en direct une lettre manuscrite de celui-ci.",
+      "en": "Supreme Court Justice Alexandre de Moraes imposed a 30-day ban on all in-person visits to former president Jair Bolsonaro, who is under house arrest, except for his lawyers and doctors, on July 17. He cited 185 recorded visits between late March and mid-July, calling them an 'obvious deviation' from the humanitarian grounds of the house arrest. On July 18, the court also denied a visit request from Argentine President Javier Milei. On July 13, a justice had already barred Bolsonaro's son, Senator Flávio Bolsonaro, from visiting his father for 90 days, after he read a handwritten letter from his father live on a livestream.",
+      "es": "El juez del Supremo Alexandre de Moraes impuso el 17 de julio una prohibición de 30 días a todas las visitas presenciales al expresidente Jair Bolsonaro, bajo arresto domiciliario, salvo a sus abogados y médicos. Citó 185 visitas registradas entre finales de marzo y mediados de julio, calificándolas de «desviación evidente» de los motivos humanitarios del arresto. El 18 de julio, el tribunal también rechazó una solicitud de visita del presidente argentino Javier Milei. El 13 de julio, un juez ya había prohibido durante 90 días que el senador Flávio Bolsonaro, hijo del expresidente, visitara a su padre, después de que este leyera en directo una carta manuscrita suya."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême interdit pour 30 jours toute visite à Bolsonaro, invoquant 185 visites jugées incompatibles avec les motifs humanitaires de son assignation.",
+          "en": "The Supreme Court bars all visits to Bolsonaro for 30 days, citing 185 visits deemed incompatible with the humanitarian grounds of his house arrest.",
+          "es": "El Supremo prohíbe durante 30 días todas las visitas a Bolsonaro, citando 185 visitas consideradas incompatibles con los motivos humanitarios de su arresto."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême refuse une demande de visite du président argentin Javier Milei.",
+          "en": "The Supreme Court denies a visit request from Argentine President Javier Milei.",
+          "es": "El Supremo rechaza una solicitud de visita del presidente argentino Javier Milei."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      125.29,
+      5.97
+    ],
+    "id": "philippines-glissement-terrain",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Philippine Office of Civil Defense / Reuters",
+    "place": {
+      "fr": "Malapatan, province de Sarangani, Mindanao, Philippines",
+      "en": "Malapatan, Sarangani Province, Mindanao, Philippines",
+      "es": "Malapatan, provincia de Sarangani, Mindanao, Filipinas"
+    },
+    "title": {
+      "fr": "Glissements de terrain et inondations de mousson font au moins 26 morts aux Philippines",
+      "en": "Monsoon landslides and flooding kill at least 26 in the Philippines",
+      "es": "Deslizamientos e inundaciones del monzón dejan al menos 26 muertos en Filipinas"
+    },
+    "summary": {
+      "fr": "Un glissement de terrain a frappé le 10 juillet le village de Malapatan, dans la province de Sarangani, sur l'île de Mindanao, ensevelissant des habitations après que la mousson a fragilisé un sol déjà affaibli par le séisme de magnitude 7,8 survenu en juin. Combiné aux effets du typhon Bavi sur l'ensemble du pays, le bilan national s'élevait le 16 juillet à 26 morts et 14 disparus selon l'Office philippin de la défense civile, avec environ 562 000 personnes touchées. Les chiffres ont varié d'une source à l'autre au fil de la validation des victimes par les autorités.",
+      "en": "A landslide struck the village of Malapatan in Sarangani Province, on Mindanao island, on July 10, burying homes after monsoon rain weakened ground already destabilized by a magnitude-7.8 earthquake in June. Combined with Typhoon Bavi's nationwide effects, the national death toll stood at 26 dead and 14 missing as of July 16, according to the Philippine Office of Civil Defense, with about 562,000 people affected. Figures varied slightly across sources as authorities validated casualties.",
+      "es": "Un deslizamiento de tierra golpeó el 10 de julio el pueblo de Malapatan, en la provincia de Sarangani, en la isla de Mindanao, sepultando viviendas después de que la lluvia monzónica debilitara un terreno ya afectado por un terremoto de magnitud 7,8 en junio. Combinado con los efectos del tifón Bavi en todo el país, el balance nacional era de 26 muertos y 14 desaparecidos al 16 de julio, según la Oficina de Defensa Civil de Filipinas, con unas 562.000 personas afectadas. Las cifras variaron ligeramente entre fuentes mientras las autoridades validaban las víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "L'Office de la défense civile fait état de 26 morts et 14 disparus au niveau national après des glissements de terrain et inondations de mousson.",
+          "en": "The Office of Civil Defense reports 26 dead and 14 missing nationwide after monsoon landslides and flooding.",
+          "es": "La Oficina de Defensa Civil informa de 26 muertos y 14 desaparecidos a nivel nacional tras los deslizamientos e inundaciones del monzón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -99.13,
+      19.43
+    ],
+    "id": "mexique-usmca",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📄",
+    "source": "USTR / Reuters",
+    "place": {
+      "fr": "Mexico, Mexique",
+      "en": "Mexico City, Mexico",
+      "es": "Ciudad de México, México"
+    },
+    "title": {
+      "fr": "L'examen conjoint de l'accord USMCA s'achève sans accord de reconduction",
+      "en": "Joint USMCA review concludes without a renewal deal",
+      "es": "El examen conjunto del USMCA concluye sin acuerdo de renovación"
+    },
+    "summary": {
+      "fr": "L'examen conjoint obligatoire de l'accord commercial USMCA, dû le 1er juillet, s'est achevé sans que les États-Unis n'acceptent de reconduire l'accord en l'état ni d'accorder l'extension automatique de 16 ans prévue par le texte. L'accord reste en vigueur, mais déclenche un nouveau cycle d'examens annuels. Le représentant américain au Commerce, Jamieson Greer, doit se rendre au Mexique du 22 au 24 juillet pour de nouvelles discussions bilatérales avec la secrétaire mexicaine à l'Économie, Marcelo Ebrard, portant sur l'acier, l'aluminium, l'automobile, l'agriculture et le travail, et doit rencontrer la présidente Claudia Sheinbaum. Le gouvernement mexicain affirme que les exigences américaines se sont déjà réduites de 54 à 14 points lors de l'examen.",
+      "en": "The mandatory joint review of the USMCA trade agreement, due July 1, concluded without the United States agreeing to renew the pact as-is or granting the automatic 16-year extension provided for in the text. The agreement remains in force but triggers a new decade of annual reviews. US Trade Representative Jamieson Greer is due to travel to Mexico July 22-24 for further bilateral talks with Economy Secretary Marcelo Ebrard covering steel, aluminum, autos, agriculture and labor, and will meet President Claudia Sheinbaum. Mexico's government says US demands during the review already narrowed from 54 items to 14.",
+      "es": "El examen conjunto obligatorio del acuerdo comercial USMCA, previsto para el 1 de julio, concluyó sin que Estados Unidos aceptara renovar el pacto tal cual ni conceder la extensión automática de 16 años prevista en el texto. El acuerdo sigue vigente, pero activa una nueva década de exámenes anuales. El representante comercial de EE. UU., Jamieson Greer, viajará a México del 22 al 24 de julio para nuevas conversaciones bilaterales con la secretaria de Economía, Marcelo Ebrard, sobre acero, aluminio, automóviles, agricultura y trabajo, y se reunirá con la presidenta Claudia Sheinbaum. El gobierno mexicano afirma que las exigencias estadounidenses ya se redujeron de 54 puntos a 14 durante el examen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01-22/07/2026",
+          "en": "01-22/07/2026",
+          "es": "01-22/07/2026"
+        },
+        "d": {
+          "fr": "L'examen conjoint de l'USMCA s'achève sans reconduction ; de nouvelles discussions bilatérales sont prévues du 22 au 24 juillet.",
+          "en": "The joint USMCA review concludes without renewal; further bilateral talks are set for July 22-24.",
+          "es": "El examen conjunto del USMCA concluye sin renovación; nuevas conversaciones bilaterales están previstas del 22 al 24 de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "id": "allemagne-alerte-terroriste",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Bloomberg / Welt am Sonntag",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne relève son niveau d'alerte terroriste à « élevé »",
+      "en": "Germany raises its terror threat level to 'high'",
+      "es": "Alemania eleva su nivel de alerta terrorista a «alto»"
+    },
+    "summary": {
+      "fr": "Le ministre allemand de l'Intérieur, Alexander Dobrindt, a déclaré le 18 juillet au Welt am Sonntag avoir relevé le niveau d'évaluation de la menace terroriste d'« abstrait » à « élevé », citant une forte hausse des signalements de renseignement et des projets d'attaques visant les infrastructures et institutions allemandes qu'il juge « clairement identifiables ». Il a relié cette décision aux efforts du chancelier Friedrich Merz pour étendre les pouvoirs du renseignement intérieur, y compris une éventuelle autorisation de perquisition en cas de scénario aigu. L'annonce intervient alors qu'un agent de sécurité ferroviaire de 26 ans a été grièvement blessé le 17 juillet après être tombé d'un train en mouvement près d'Offenburg, à la suite d'une altercation avec un passager, désormais interpellé.",
+      "en": "German Interior Minister Alexander Dobrindt told Welt am Sonntag on July 18 that he had raised the country's terror threat assessment from 'abstract' to 'high,' citing a sharp rise in intelligence reporting and attack plans against German infrastructure and institutions he described as 'clearly discernible.' He linked the decision to Chancellor Friedrich Merz's push to expand domestic intelligence powers, including potential home-entry authority in acute scenarios. The announcement came as a 26-year-old railway security employee was left with life-threatening injuries after falling from a moving train near Offenburg on July 17 following a scuffle with a passenger, who was arrested onboard.",
+      "es": "El ministro alemán del Interior, Alexander Dobrindt, declaró el 18 de julio a Welt am Sonntag que había elevado la evaluación de la amenaza terrorista del país de «abstracta» a «alta», citando un fuerte aumento de los informes de inteligencia y planes de ataque contra infraestructuras e instituciones alemanas que calificó de «claramente identificables». Vinculó la decisión con los esfuerzos del canciller Friedrich Merz por ampliar las facultades de inteligencia interior, incluida una posible autorización de allanamiento en escenarios agudos. El anuncio se produjo cuando un empleado de seguridad ferroviaria de 26 años sufrió heridas potencialmente mortales tras caer de un tren en movimiento cerca de Offenburg el 17 de julio, después de un altercado con un pasajero, quien fue detenido a bordo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le ministre de l'Intérieur Alexander Dobrindt relève le niveau d'alerte terroriste national à « élevé ».",
+          "en": "Interior Minister Alexander Dobrindt raises the national terror threat level to 'high.'",
+          "es": "El ministro del Interior, Alexander Dobrindt, eleva el nivel de alerta terrorista nacional a «alto»."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -3.7,
+      57.15
+    ],
+    "id": "ecosse-incendie",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Scottish Fire and Rescue Service / Press and Journal",
+    "place": {
+      "fr": "Parc national de Cairngorms, près d'Aviemore, Écosse",
+      "en": "Cairngorms National Park, near Aviemore, Scotland",
+      "es": "Parque nacional de Cairngorms, cerca de Aviemore, Escocia"
+    },
+    "title": {
+      "fr": "Un feu de lande force l'évacuation de zones du parc national des Cairngorms",
+      "en": "Wildfire forces evacuations in Cairngorms National Park",
+      "es": "Un incendio forestal obliga a evacuar zonas del parque nacional de Cairngorms"
+    },
+    "summary": {
+      "fr": "Un incendie de lande parti près du refuge de Ryvoan le 15 juillet s'est étendu sur environ 3,5 km, forçant l'évacuation de maisons, commerces, campings et du domaine skiable de Cairngorm Mountain, près d'Aviemore et de Nethy Bridge. La RSPB Scotland estime qu'environ 300 hectares ont brûlé. Plusieurs équipes de pompiers, des unités spécialisées dans les feux de végétation et des gardes-chasse utilisant des dispositifs de brumisation sur quads ont créé des pare-feux. Aucune victime n'a été signalée et l'incendie était déclaré « actuellement maîtrisé » le 16 juillet, malgré un risque d'incendie très élevé dans la région.",
+      "en": "A heathland wildfire that started near Ryvoan Bothy on July 15 grew to about 3.5km wide, forcing the evacuation of homes, businesses, campsites and the Cairngorm Mountain Resort near Aviemore and Nethy Bridge. RSPB Scotland estimated about 300 hectares burned. Multiple fire crews, specialist wildfire units and estate gamekeepers using ATV fogging units cut fire breaks. No casualties were reported, and the fire was declared 'currently contained' on July 16, though very high fire risk persisted region-wide.",
+      "es": "Un incendio de matorral que comenzó cerca del refugio de Ryvoan el 15 de julio se extendió unos 3,5 km, obligando a evacuar viviendas, negocios, campings y el complejo de esquí de Cairngorm Mountain, cerca de Aviemore y Nethy Bridge. RSPB Scotland estima que ardieron unas 300 hectáreas. Varios equipos de bomberos, unidades especializadas en incendios forestales y guardas usando vehículos todoterreno con sistemas de niebla crearon cortafuegos. No se reportaron víctimas, y el incendio fue declarado «actualmente contenido» el 16 de julio, aunque persistía un riesgo de incendio muy alto en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15-16/07/2026",
+          "en": "15-16/07/2026",
+          "es": "15-16/07/2026"
+        },
+        "d": {
+          "fr": "Un feu de lande près du refuge de Ryvoan s'étend sur environ 300 hectares avant d'être déclaré maîtrisé, après l'évacuation de plusieurs sites touristiques.",
+          "en": "A heathland fire near Ryvoan Bothy spreads across roughly 300 hectares before being declared contained, after several tourist sites were evacuated.",
+          "es": "Un incendio de matorral cerca del refugio de Ryvoan se extiende por unas 300 hectáreas antes de ser declarado contenido, tras la evacuación de varios sitios turísticos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      0.069,
+      51.487
+    ],
+    "id": "londres-hackers-tfl",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "💻",
+    "source": "Crown Prosecution Service / National Crime Agency",
+    "place": {
+      "fr": "Woolwich Crown Court, Londres, Royaume-Uni",
+      "en": "Woolwich Crown Court, London, United Kingdom",
+      "es": "Tribunal de la Corona de Woolwich, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Deux jeunes hackers condamnés pour la cyberattaque record contre les transports londoniens",
+      "en": "Two young hackers sentenced over record cyberattack on London transport",
+      "es": "Dos jóvenes hackers condenados por el ciberataque récord al transporte de Londres"
+    },
+    "summary": {
+      "fr": "Thalha Jubair, 19 ans, et Owen Flowers, 18 ans, ont été condamnés le 16 juillet à cinq ans et demi de prison chacun pour une cyberattaque de 2024 contre Transport for London, qui avait paralysé plus de 140 systèmes et coûté 29 millions de livres à réparer. Tous deux avaient plaidé coupable de piratage ayant mis imprudemment en danger le bien-être d'autrui ; Flowers a également reconnu des attaques contre les prestataires de santé américains SSM Health et Sutter Health. Il s'agirait des premières condamnations prononcées au titre de l'article 3ZA de la loi britannique sur les abus informatiques ; les deux hommes avaient revendiqué des liens avec le collectif de piratage « Scattered Spider ».",
+      "en": "Thalha Jubair, 19, and Owen Flowers, 18, were sentenced on July 16 to five and a half years in prison each over a 2024 cyberattack on Transport for London that disabled more than 140 systems and cost £29 million to fix. Both had pleaded guilty to hacking while recklessly endangering human welfare; Flowers also admitted attacks on US healthcare providers SSM Health and Sutter Health. They are believed to be the first people prosecuted under Section 3ZA of the UK's Computer Misuse Act, and both had claimed links to the 'Scattered Spider' hacking collective.",
+      "es": "Thalha Jubair, de 19 años, y Owen Flowers, de 18, fueron condenados el 16 de julio a cinco años y medio de prisión cada uno por un ciberataque de 2024 contra Transport for London que inutilizó más de 140 sistemas y costó 29 millones de libras reparar. Ambos se habían declarado culpables de piratería que puso imprudentemente en peligro el bienestar de las personas; Flowers también admitió ataques contra los proveedores sanitarios estadounidenses SSM Health y Sutter Health. Se cree que son los primeros condenados en virtud del artículo 3ZA de la ley británica de uso indebido de computadoras, y ambos habían reivindicado vínculos con el colectivo de piratería «Scattered Spider»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Thalha Jubair et Owen Flowers sont condamnés à cinq ans et demi de prison pour la cyberattaque de 2024 contre Transport for London.",
+          "en": "Thalha Jubair and Owen Flowers are sentenced to five and a half years in prison over the 2024 cyberattack on Transport for London.",
+          "es": "Thalha Jubair y Owen Flowers son condenados a cinco años y medio de prisión por el ciberataque de 2024 a Transport for London."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.158,
+      45.185
+    ],
+    "id": "italie-pavie-arrestation",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "ANSA / Adnkronos",
+    "place": {
+      "fr": "Province de Pavie, Lombardie, Italie",
+      "en": "Province of Pavia, Lombardy, Italy",
+      "es": "Provincia de Pavía, Lombardía, Italia"
+    },
+    "title": {
+      "fr": "Une adolescente arrêtée en Lombardie pour radicalisation djihadiste en ligne",
+      "en": "Teenage girl arrested in Lombardy over online jihadist radicalization",
+      "es": "Una adolescente arrestada en Lombardía por radicalización yihadista en línea"
+    },
+    "summary": {
+      "fr": "Une jeune fille de 17 ans a été arrêtée le 17 juillet dans la province de Pavie pour participation à une association terroriste internationale, après que les enquêteurs l'ont identifiée comme active dans quatre groupes en ligne fermés affiliés à l'État islamique, diffusant propagande, matériel de recrutement et manuels de fabrication d'explosifs. Elle aurait conservé un guide téléchargé pour la confection d'une ceinture explosive et exprimé, selon les procureurs, le souhait d'un « martyre au nom d'Allah ». Le parquet évoque un « processus de radicalisation avancé » et un risque d'« activation violente imminente ». Elle a été placée dans un centre pour mineurs dans l'attente de la procédure.",
+      "en": "A 17-year-old girl was arrested on July 17 in the province of Pavia for participation in an international terrorist association, after investigators identified her as active in four invitation-only, ISIS-affiliated online groups distributing propaganda, recruitment material and explosives manuals. She reportedly kept a downloaded guide for building an explosive belt and, according to prosecutors, expressed a desire for 'martyrdom in the name of Allah.' Prosecutors cited an 'advanced radicalization process' and risk of 'imminent violent activation.' She was placed in a juvenile facility pending proceedings.",
+      "es": "Una joven de 17 años fue arrestada el 17 de julio en la provincia de Pavía por participar en una asociación terrorista internacional, después de que los investigadores la identificaran como activa en cuatro grupos en línea cerrados afiliados al Estado Islámico, que difundían propaganda, material de reclutamiento y manuales de explosivos. Presuntamente conservaba una guía descargada para fabricar un cinturón explosivo y, según los fiscales, expresó su deseo de «martirio en nombre de Alá». La fiscalía habla de un «proceso de radicalización avanzado» y riesgo de «activación violenta inminente». Fue ingresada en un centro de menores a la espera del proceso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une adolescente de 17 ans est arrêtée en province de Pavie pour son implication dans des réseaux djihadistes en ligne et un risque jugé imminent de passage à l'acte.",
+          "en": "A 17-year-old girl is arrested in the province of Pavia over involvement in online jihadist networks and an assessed imminent risk of violent action.",
+          "es": "Una adolescente de 17 años es arrestada en la provincia de Pavía por su implicación en redes yihadistas en línea y un riesgo evaluado como inminente de pasar a la acción."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 1
+  },
+  {
+    "coords": [
+      41.517,
+      52.583
+    ],
+    "id": "ukraine-frappes-russie",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters / Kyiv Independent / Moscow Times",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kotovsk (région de Tambov) et Elektrostal (région de Moscou), Russie",
+      "en": "Kotovsk (Tambov region) and Elektrostal (Moscow region), Russia",
+      "es": "Kotovsk (región de Tambov) y Elektrostal (región de Moscú), Rusia"
+    },
+    "title": {
+      "fr": "Des drones ukrainiens frappent la Russie profonde, au moins 8 morts",
+      "en": "Ukrainian drones strike deep into Russia, at least 8 dead",
+      "es": "Drones ucranianos golpean el interior de Rusia, al menos 8 muertos"
+    },
+    "summary": {
+      "fr": "Des drones ukrainiens ont frappé dans la nuit du 17 au 18 juillet des entrepôts logistiques du groupe Wildberries à Kotovsk (région de Tambov) et à Elektrostal (région de Moscou), à environ 480 km de Moscou. Le gouverneur de la région de Tambov, Evgueni Pervychov, a fait état de 7 morts et d'un nombre de blessés variant selon les sources (entre 24 et 60) sur le site de Kotovsk, auxquels s'ajoute un mort à Elektrostal, portant le bilan combiné à 8 morts. Kiev affirme que ces sites soutenaient la production de drones ; les autorités russes les présentent comme des entrepôts commerciaux civils. La même nuit, les forces ukrainiennes de systèmes sans pilote ont annoncé avoir touché 13 navires de la « flotte fantôme » russe en mer Noire et d'Azov, tandis que des frappes russes sur Odessa ont endommagé un cargo, tuant un membre d'équipage.",
+      "en": "Ukrainian drones struck Wildberries logistics warehouses in Kotovsk (Tambov region) and Elektrostal (Moscow region), about 480km from Moscow, overnight on July 17-18. Tambov Governor Yevgeny Pervyshov reported 7 dead and a number of injured that varies across sources (between 24 and 60) at the Kotovsk site, plus one further death in Elektrostal, for a combined toll of 8 killed. Kyiv says the facilities supported drone manufacturing; Russian officials describe them as civilian commercial warehouses. The same night, Ukraine's Unmanned Systems Forces said they hit 13 Russian 'shadow fleet' vessels in the Black Sea and Sea of Azov, while Russian strikes on Odesa damaged a cargo ship, killing one crew member.",
+      "es": "Drones ucranianos atacaron almacenes logísticos del grupo Wildberries en Kotovsk (región de Tambov) y Elektrostal (región de Moscú), a unos 480 km de Moscú, durante la noche del 17 al 18 de julio. El gobernador de la región de Tambov, Yevgueni Pervyshov, informó de 7 muertos y un número de heridos que varía según las fuentes (entre 24 y 60) en el sitio de Kotovsk, a lo que se suma una muerte en Elektrostal, elevando el balance combinado a 8 muertos. Kiev afirma que las instalaciones apoyaban la fabricación de drones; las autoridades rusas las describen como almacenes comerciales civiles. Esa misma noche, las Fuerzas de Sistemas No Tripulados de Ucrania dijeron haber alcanzado 13 buques de la «flota en la sombra» rusa en el mar Negro y el mar de Azov, mientras que ataques rusos sobre Odesa dañaron un carguero y mataron a un tripulante."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "Des frappes de drones ukrainiens sur des entrepôts en Russie font au moins 8 morts ; Kiev revendique aussi des frappes sur 13 navires en mer Noire et d'Azov.",
+          "en": "Ukrainian drone strikes on warehouses in Russia kill at least 8; Kyiv also claims strikes on 13 vessels in the Black Sea and Sea of Azov.",
+          "es": "Ataques con drones ucranianos contra almacenes en Rusia matan al menos a 8 personas; Kiev también reivindica ataques contra 13 buques en el mar Negro y de Azov."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      7.02,
+      7.69
+    ],
+    "id": "nigeria-enlevement-kogi",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛓️",
+    "source": "Vanguard / Premium Times",
+    "place": {
+      "fr": "École secondaire publique d'Olowa, zone de Dekina, État de Kogi, Nigeria",
+      "en": "Government Secondary School, Olowa, Dekina LGA, Kogi State, Nigeria",
+      "es": "Escuela secundaria pública de Olowa, área de Dekina, estado de Kogi, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : quatre personnes enlevées lors d'un examen national sont libérées dans l'État de Kogi",
+      "en": "Nigeria: four people abducted during a national exam freed in Kogi State",
+      "es": "Nigeria: liberan a cuatro personas secuestradas durante un examen nacional en el estado de Kogi"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont fait irruption le 14 juillet dans un centre d'examen d'une école rurale d'Olowa, dans la zone de gouvernement local de Dekina (État de Kogi), enlevant le principal de l'établissement, un responsable du NECO (l'organisme national d'examens) et deux candidates, en pleine session d'examen national. Les forces de sécurité ont mené une opération prolongée qui a permis d'obtenir la libération des quatre otages le 18 juillet. Le gouverneur de l'État de Kogi, Ahmed Ododo, a accueilli les personnes libérées ; la police enquête par ailleurs sur la réouverture non autorisée de cette école, auparavant fermée, utilisée comme « centre miracle » pour la fraude aux examens.",
+      "en": "Gunmen raided an exam center at a rural school in Olowa, in the Dekina local government area of Kogi State, on July 14, abducting the school principal, a National Examinations Council (NECO) official, and two female exam candidates during a national exam session. Security forces conducted a sustained operation that secured the release of all four hostages by July 18. Kogi State Governor Ahmed Ododo received the freed captives; police are separately investigating the unauthorized reopening of the previously shuttered school as an unlicensed 'miracle centre' for exam malpractice.",
+      "es": "Hombres armados irrumpieron el 14 de julio en un centro de examen de una escuela rural en Olowa, en el área de gobierno local de Dekina (estado de Kogi), secuestrando al director del centro, a un funcionario del Consejo Nacional de Exámenes (NECO) y a dos candidatas, durante una sesión de examen nacional. Las fuerzas de seguridad realizaron una operación prolongada que logró la liberación de los cuatro rehenes el 18 de julio. El gobernador del estado de Kogi, Ahmed Ododo, recibió a los liberados; la policía investiga además la reapertura no autorizada de esta escuela, previamente cerrada, utilizada como «centro milagro» para el fraude en exámenes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/07/2026",
+          "en": "14/07/2026",
+          "es": "14/07/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés enlèvent quatre personnes, dont le principal de l'école et deux candidates, lors d'un examen national à Olowa.",
+          "en": "Gunmen abduct four people, including the school principal and two candidates, during a national exam in Olowa.",
+          "es": "Hombres armados secuestran a cuatro personas, entre ellas el director de la escuela y dos candidatas, durante un examen nacional en Olowa."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Les quatre otages sont libérés après une opération de sécurité ; le gouverneur Ahmed Ododo les accueille.",
+          "en": "All four hostages are freed following a security operation; Governor Ahmed Ododo receives them.",
+          "es": "Los cuatro rehenes son liberados tras una operación de seguridad; el gobernador Ahmed Ododo los recibe."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      35.14,
+      31.2
+    ],
+    "id": "cisjordanie-incendies-colons",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Haaretz / Times of Israel",
+    "place": {
+      "fr": "A-Tuwani (collines du sud d'Hébron) et Sinjil, Cisjordanie",
+      "en": "A-Tuwani (South Hebron Hills) and Sinjil, West Bank",
+      "es": "A-Tuwani (colinas del sur de Hebrón) y Sinjil, Cisjordania"
+    },
+    "title": {
+      "fr": "Cisjordanie : une mosquée et des terres agricoles incendiées lors d'attaques attribuées à des colons",
+      "en": "West Bank: mosque and farmland torched in attacks attributed to settlers",
+      "es": "Cisjordania: incendian una mezquita y tierras agrícolas en ataques atribuidos a colonos"
+    },
+    "summary": {
+      "fr": "Des Palestiniens rapportent que des colons israéliens ont incendié dans la nuit du 17 au 18 juillet une mosquée, des habitations et un véhicule dans le village d'A-Tuwani, dans les collines du sud d'Hébron, et distinctement des terres agricoles à Sinjil, près de Ramallah. Les forces armées israéliennes se sont rendues sur place après avoir été alertées. Aucune arrestation n'avait été annoncée au moment des premiers signalements et les incidents faisaient l'objet d'une enquête. Ces événements s'inscrivent, selon plusieurs médias, dans une série plus large d'actes de violence attribués à des colons en Cisjordanie, distincte du conflit militaire en cours entre Israël et l'Iran.",
+      "en": "Palestinians reported that Israeli settlers set fire overnight on July 17-18 to a mosque, homes and a vehicle in the village of A-Tuwani, in the South Hebron Hills, and separately torched farmland in Sinjil, near Ramallah. Israeli military forces went to the scene after being alerted. No arrests had been announced as of initial reports, and the incidents remained under investigation. Several outlets describe the events as part of a broader pattern of settler-related violence in the West Bank, distinct from the ongoing Israel-Iran military conflict.",
+      "es": "Palestinos informaron de que colonos israelíes incendiaron durante la noche del 17 al 18 de julio una mezquita, viviendas y un vehículo en el pueblo de A-Tuwani, en las colinas del sur de Hebrón, y por separado quemaron tierras agrícolas en Sinjil, cerca de Ramala. Las fuerzas militares israelíes acudieron al lugar tras ser alertadas. No se habían anunciado detenciones al momento de los primeros informes, y los incidentes seguían bajo investigación. Varios medios describen los hechos como parte de un patrón más amplio de violencia atribuida a colonos en Cisjordania, distinto del conflicto militar en curso entre Israel e Irán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "Une mosquée, des habitations et des terres agricoles sont incendiées dans des attaques attribuées à des colons à A-Tuwani et Sinjil.",
+          "en": "A mosque, homes and farmland are set on fire in attacks attributed to settlers in A-Tuwani and Sinjil.",
+          "es": "Una mezquita, viviendas y tierras agrícolas son incendiadas en ataques atribuidos a colonos en A-Tuwani y Sinjil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 3
+  },
+  {
+    "coords": [
+      31.24,
+      30.04
+    ],
+    "id": "egypte-reserves-record",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Banque centrale d'Égypte / The National",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Les réserves de change de l'Égypte atteignent un record de 55 milliards de dollars",
+      "en": "Egypt's foreign reserves hit a record $55 billion",
+      "es": "Las reservas de divisas de Egipto alcanzan un récord de 55.000 millones de dólares"
+    },
+    "summary": {
+      "fr": "La Banque centrale d'Égypte a annoncé que les réserves nettes de change du pays ont atteint un niveau record de 55,072 milliards de dollars à fin juin 2026, en hausse de 1,938 milliard (+3,6 %) par rapport à mai. La banque centrale attribue cette progression à une activité exportatrice plus forte, à des recettes touristiques record et à une hausse de 33,2 % sur un an des transferts de la diaspora, qui ont atteint environ 39,2 milliards de dollars sur les dix premiers mois de l'exercice budgétaire 2025-2026. Plusieurs analystes notent toutefois que de nombreux ménages n'ont pas encore ressenti d'amélioration de leur coût de la vie malgré ce record.",
+      "en": "Egypt's Central Bank announced that the country's net foreign reserves reached a record $55.072 billion at the end of June 2026, up $1.938 billion (3.6%) from May. The central bank attributed the rise to stronger export activity, record tourism revenue, and a 33.2% year-on-year increase in remittances, which reached about $39.2 billion over the first ten months of the 2025-26 fiscal year. Several analysts noted that many households have yet to feel any improvement in living costs despite the record.",
+      "es": "El Banco Central de Egipto anunció que las reservas netas de divisas del país alcanzaron un récord de 55.072 millones de dólares a finales de junio de 2026, un aumento de 1.938 millones (3,6 %) respecto a mayo. El banco central atribuyó el aumento a una mayor actividad exportadora, ingresos turísticos récord y un incremento interanual del 33,2 % en las remesas, que alcanzaron unos 39.200 millones de dólares en los primeros diez meses del año fiscal 2025-26. Varios analistas señalaron que muchos hogares aún no perciben una mejora en el costo de vida pese a este récord."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/07/2026",
+          "en": "08/07/2026",
+          "es": "08/07/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale d'Égypte annonce des réserves de change record de 55,072 milliards de dollars à fin juin.",
+          "en": "Egypt's Central Bank announces record foreign reserves of $55.072 billion as of end-June.",
+          "es": "El Banco Central de Egipto anuncia reservas de divisas récord de 55.072 millones de dólares a finales de junio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
+  },
+  {
+    "coords": [
+      18.55,
+      -33.94
+    ],
+    "id": "afrique-sud-extorsion-spaza",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "News24 / EWN",
+    "place": {
+      "fr": "Bonteheuwel et Langa, Cape Flats, Le Cap, Afrique du Sud",
+      "en": "Bonteheuwel and Langa, Cape Flats, Cape Town, South Africa",
+      "es": "Bonteheuwel y Langa, Cape Flats, Ciudad del Cabo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Le Cap : des commerçants de quartier tués dans une vague d'extorsion",
+      "en": "Cape Town: neighborhood shopkeepers killed amid extortion wave",
+      "es": "Ciudad del Cabo: comerciantes de barrio asesinados en una ola de extorsión"
+    },
+    "summary": {
+      "fr": "Un commerçant de 31 ans connu sous le nom d'Umar a été tué par balle le 13 juillet dans sa boutique de l'avenue Assegaai, à Bonteheuwel ; un second commerçant, d'origine somalienne, avait été blessé par balle le 8 juillet non loin de là. Le conseiller municipal Angus McKenzie affirme avoir reçu de nombreuses plaintes faisant état de réseaux d'extorsion réclamant de l'« argent de protection » aux commerçants, la police évoquant un racket organisé plutôt que de la xénophobie. Le 15 juillet, la police a arrêté à Langa un suspect de 21 ans repéré par drone en train de collecter des sommes d'extorsion, saisissant deux pistolets non déclarés et des munitions ; le 17 juillet, habitants et association de commerçants continuaient de dénoncer publiquement une extorsion persistante dans les townships.",
+      "en": "A 31-year-old shopkeeper known as Umar was fatally shot on July 13 at his store on Assegaai Avenue in Bonteheuwel; a second, Somali-born shopkeeper had been shot and wounded on July 8 nearby. Ward councillor Angus McKenzie said his office had received numerous complaints of extortion networks demanding 'protection money' from shopkeepers, with police describing an organized racket rather than xenophobia. On July 15, police arrested a 21-year-old suspect in Langa, tracked by drone while collecting extortion payments, recovering two unlicensed pistols and ammunition; by July 17, residents and a shopkeepers' association were still publicly denouncing unabated extortion in the townships.",
+      "es": "Un comerciante de 31 años conocido como Umar murió baleado el 13 de julio en su tienda de la avenida Assegaai, en Bonteheuwel; un segundo comerciante, de origen somalí, había sido herido de bala el 8 de julio cerca de allí. El concejal Angus McKenzie afirmó haber recibido numerosas quejas sobre redes de extorsión que exigen «dinero de protección» a los comerciantes, y la policía describe un racket organizado y no xenofobia. El 15 de julio, la policía arrestó en Langa a un sospechoso de 21 años, rastreado por dron mientras cobraba pagos de extorsión, y recuperó dos pistolas no registradas y municiones; para el 17 de julio, residentes y una asociación de comerciantes seguían denunciando públicamente la extorsión persistente en los townships."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "13/07/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "Un commerçant de Bonteheuwel est tué par balle, dans un contexte de plaintes croissantes pour extorsion visant les commerces de quartier du Cap.",
+          "en": "A Bonteheuwel shopkeeper is fatally shot amid mounting complaints of extortion targeting Cape Town neighborhood shops.",
+          "es": "Un comerciante de Bonteheuwel muere baleado en medio de crecientes denuncias de extorsión contra comercios de barrio en Ciudad del Cabo."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "La police arrête à Langa un suspect repéré par drone en train de collecter de l'argent d'extorsion.",
+          "en": "Police arrest a suspect in Langa, tracked by drone while collecting extortion money.",
+          "es": "La policía arresta en Langa a un sospechoso rastreado por dron mientras cobraba dinero de extorsión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W29",
+    "priority": 2
   }
 ]
