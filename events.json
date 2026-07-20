@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le conflit s'est depuis étendu : les États-Unis ont mené plusieurs vagues de frappes sur des sites iraniens (énergie, infrastructures), l'Iran a visé à deux reprises une centrale électrique et de dessalement au Koweït, et deux militaires américains ont été tués (un autre porté disparu) après une attaque iranienne près d'Aqaba, en Jordanie, selon CNN et Al Jazeera. Le trafic maritime dans le détroit d'Ormuz est réduit à un filet.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The conflict has since widened: the United States has carried out several waves of strikes on Iranian sites (energy, infrastructure), Iran has twice struck a power and desalination plant in Kuwait, and two US service members were killed (another reported missing) after an Iranian attack near Aqaba, Jordan, according to CNN and Al Jazeera. Shipping traffic through the Strait of Hormuz has slowed to a trickle.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El conflicto se ha ampliado desde entonces: Estados Unidos ha realizado varias oleadas de ataques contra emplazamientos iraníes (energía, infraestructuras), Irán ha atacado dos veces una planta eléctrica y desalinizadora en Kuwait, y dos militares estadounidenses murieron (otro dado por desaparecido) tras un ataque iraní cerca de Aqaba, Jordania, según CNN y Al Jazeera. El tráfico marítimo por el estrecho de Ormuz se ha reducido a un goteo."
     },
     "timeline": [
       {
@@ -733,6 +733,32 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis frappent un aéroport, des ponts et une gare en Iran ; l'Iran riposte en touchant une centrale électrique et de dessalement au Koweït, selon France 24.",
+          "en": "The United States strikes an airport, bridges and a railway station in Iran; Iran retaliates by hitting a power and desalination plant in Kuwait, according to France 24.",
+          "es": "Estados Unidos ataca un aeropuerto, puentes y una estación de tren en Irán; Irán responde golpeando una planta eléctrica y desalinizadora en Kuwait, según France 24."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18-19/07/2026",
+          "en": "18-19/07/2026",
+          "es": "18-19/07/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis mènent une neuvième nuit consécutive de frappes sur l'Iran ; l'Iran tire des missiles vers Aqaba, en Jordanie, en partie interceptés ; deux militaires américains sont tués et un autre porté disparu après une attaque iranienne, selon CNN et Al Jazeera.",
+          "en": "The United States carries out a ninth consecutive night of strikes on Iran; Iran fires missiles toward Aqaba, Jordan, partly intercepted; two US service members are killed and another reported missing after an Iranian attack, according to CNN and Al Jazeera.",
+          "es": "Estados Unidos realiza una novena noche consecutiva de ataques contra Irán; Irán lanza misiles hacia Aqaba, Jordania, parcialmente interceptados; dos militares estadounidenses mueren y otro es dado por desaparecido tras un ataque iraní, según CNN y Al Jazeera."
         },
         "active": true
       }
@@ -828,6 +854,777 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "jordanie-frappe-iranienne",
+    "coords": [
+      35.0028,
+      29.5267
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CNN / Fox News / Al Jazeera",
+    "place": {
+      "fr": "Aqaba, Jordanie",
+      "en": "Aqaba, Jordan",
+      "es": "Aqaba, Jordania"
+    },
+    "title": {
+      "fr": "Deux militaires américains tués après une attaque iranienne près d'Aqaba",
+      "en": "Two US service members killed after an Iranian attack near Aqaba",
+      "es": "Dos militares estadounidenses mueren tras un ataque iraní cerca de Aqaba"
+    },
+    "summary": {
+      "fr": "L'Iran a tiré des missiles en direction de la ville jordanienne d'Aqaba dans le cadre de l'escalade de son conflit avec les États-Unis, selon CNN et Al Jazeera. La défense antiaérienne jordanienne dit avoir intercepté trois des missiles, un quatrième s'étant écrasé dans une zone isolée. Le Pentagone (CENTCOM) a annoncé la mort de deux militaires américains et la disparition d'un troisième après une attaque iranienne dans la région, selon Fox News.",
+      "en": "Iran fired missiles toward the Jordanian city of Aqaba as part of the escalating conflict with the United States, according to CNN and Al Jazeera. Jordan's air defenses say they intercepted three of the missiles, with a fourth landing in a remote area. The Pentagon (CENTCOM) announced the deaths of two US service members and reported a third missing after an Iranian attack in the region, according to Fox News.",
+      "es": "Irán lanzó misiles hacia la ciudad jordana de Aqaba en el marco de la escalada de su conflicto con Estados Unidos, según CNN y Al Jazeera. La defensa antiaérea jordana afirma haber interceptado tres de los misiles, mientras que un cuarto cayó en una zona remota. El Pentágono (CENTCOM) anunció la muerte de dos militares estadounidenses y la desaparición de un tercero tras un ataque iraní en la región, según Fox News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18-19/07/2026",
+          "en": "18-19/07/2026",
+          "es": "18-19/07/2026"
+        },
+        "d": {
+          "fr": "CENTCOM annonce la mort de deux militaires américains et la disparition d'un troisième après des tirs de missiles iraniens visant Aqaba.",
+          "en": "CENTCOM announces the deaths of two US service members and reports a third missing after Iranian missile fire targeting Aqaba.",
+          "es": "CENTCOM anuncia la muerte de dos militares estadounidenses y la desaparición de un tercero tras el lanzamiento de misiles iraníes contra Aqaba."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "koweit-dessalement-frappe",
+    "coords": [
+      47.9774,
+      29.3759
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💧",
+    "source": "Bloomberg / NBC News",
+    "place": {
+      "fr": "Koweït (Koweït City)",
+      "en": "Kuwait (Kuwait City)",
+      "es": "Kuwait (Ciudad de Kuwait)"
+    },
+    "title": {
+      "fr": "Une centrale électrique et de dessalement du Koweït touchée à deux reprises par des frappes iraniennes",
+      "en": "A Kuwaiti power and desalination plant hit twice by Iranian strikes",
+      "es": "Una planta eléctrica y desalinizadora de Kuwait, alcanzada dos veces por ataques iraníes"
+    },
+    "summary": {
+      "fr": "Une centrale de production d'électricité et de dessalement d'eau a été touchée à deux reprises en 24 heures au Koweït, dans le cadre de l'élargissement du conflit entre les États-Unis et l'Iran aux infrastructures régionales, selon Bloomberg et NBC News. Le gouvernement koweïtien fait état de dégâts \"sévères\" sur plusieurs unités de production et appelle les habitants à limiter leur consommation d'électricité aux heures de pointe. Environ 90% de l'eau potable du pays provient du dessalement.",
+      "en": "A power and water desalination plant was hit twice in 24 hours in Kuwait, as the conflict between the United States and Iran expands to regional infrastructure, according to Bloomberg and NBC News. The Kuwaiti government reports \"severe\" damage to several production units and has urged residents to ration electricity use during peak hours. About 90% of the country's drinking water comes from desalination.",
+      "es": "Una planta de generación eléctrica y desalinización de agua fue alcanzada dos veces en 24 horas en Kuwait, en el marco de la expansión del conflicto entre Estados Unidos e Irán hacia infraestructuras regionales, según Bloomberg y NBC News. El gobierno kuwaití informa de daños \"severos\" en varias unidades de producción y pide a los residentes racionar el consumo eléctrico en horas punta. Cerca del 90% del agua potable del país proviene de la desalinización."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement koweïtien annonce qu'une centrale électrique et de dessalement a été touchée pour la première fois.",
+          "en": "The Kuwaiti government announces that a power and desalination plant was hit for the first time.",
+          "es": "El gobierno kuwaití anuncia que una planta eléctrica y desalinizadora fue alcanzada por primera vez."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Une seconde frappe touche la même installation en moins de 24 heures, provoquant un incendie, selon le ministère de l'Énergie koweïtien.",
+          "en": "A second strike hits the same facility within 24 hours, sparking a fire, according to Kuwait's energy ministry.",
+          "es": "Un segundo ataque golpea la misma instalación en menos de 24 horas, provocando un incendio, según el ministerio de Energía kuwaití."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "gaza-frappes-cessez-le-feu",
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Middle East Monitor",
+    "place": {
+      "fr": "Gaza (bande de Gaza)",
+      "en": "Gaza (Gaza Strip)",
+      "es": "Gaza (Franja de Gaza)"
+    },
+    "title": {
+      "fr": "De nouvelles frappes israéliennes font des morts à Gaza malgré le cessez-le-feu",
+      "en": "New Israeli strikes kill people in Gaza despite the ceasefire",
+      "es": "Nuevos ataques israelíes causan muertos en Gaza pese al alto el fuego"
+    },
+    "summary": {
+      "fr": "Des frappes israéliennes ont continué à faire des victimes dans la bande de Gaza en juillet, malgré le cessez-le-feu entré en vigueur en octobre 2025, selon Al Jazeera et le Middle East Monitor. Le 17 juillet, une frappe sur un cortège funéraire a fait partie des 14 morts recensés en une journée. Selon le bureau des médias du gouvernement de Gaza, 3 689 violations du cessez-le-feu ont été recensées en 275 jours, faisant 1 122 morts et 3 599 blessés palestiniens ; ce bilan, émanant d'une autorité de Gaza, n'a pas été vérifié de façon indépendante. L'armée israélienne n'a pas détaillé publiquement chacune de ces frappes.",
+      "en": "Israeli strikes have continued to kill people in the Gaza Strip through July, despite the ceasefire that took effect in October 2025, according to Al Jazeera and Middle East Monitor. On July 17, a strike on a funeral procession was among 14 deaths recorded in a single day. According to Gaza's government media office, 3,689 ceasefire violations have been recorded over 275 days, resulting in 1,122 Palestinians killed and 3,599 injured; this toll, provided by a Gaza authority, has not been independently verified. The Israeli military has not publicly detailed each of these strikes.",
+      "es": "Los ataques israelíes han seguido causando muertes en la Franja de Gaza durante julio, pese al alto el fuego vigente desde octubre de 2025, según Al Jazeera y Middle East Monitor. El 17 de julio, un ataque contra un cortejo fúnebre figuró entre los 14 muertos registrados en un solo día. Según la oficina de medios del gobierno de Gaza, se han registrado 3689 violaciones del alto el fuego en 275 días, con un saldo de 1122 palestinos muertos y 3599 heridos; este balance, proporcionado por una autoridad de Gaza, no ha sido verificado de forma independiente. El ejército israelí no ha detallado públicamente cada uno de estos ataques."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe israélienne sur un cortège funéraire fait partie d'une journée qui totalise 14 morts à Gaza, selon Al Jazeera.",
+          "en": "An Israeli strike on a funeral procession is among a day's toll of 14 deaths in Gaza, according to Al Jazeera.",
+          "es": "Un ataque israelí contra un cortejo fúnebre figura entre los 14 muertos de una jornada en Gaza, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "kyiv-attaque-missiles",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "NPR / Al Jazeera / Kyiv Independent",
+    "place": {
+      "fr": "Kyiv et Kharkiv, Ukraine",
+      "en": "Kyiv and Kharkiv, Ukraine",
+      "es": "Kiev y Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie mène sa plus vaste attaque de missiles sur Kyiv depuis le début de la guerre",
+      "en": "Russia launches its largest missile attack on Kyiv since the start of the war",
+      "es": "Rusia lanza su mayor ataque con misiles contra Kiev desde el inicio de la guerra"
+    },
+    "summary": {
+      "fr": "La Russie a mené dans la nuit du 19 juillet l'une de ses plus vastes attaques de missiles balistiques sur Kyiv depuis le début de la guerre, selon l'armée de l'air ukrainienne citée par NPR et Al Jazeera. Au total, 41 missiles (dont 25 balistiques) et 125 drones ont été tirés sur l'ensemble du pays. À Kyiv, l'attaque a fait au moins un mort et 16 blessés ; à Kharkiv, un dépôt postal a été touché à trois reprises, selon les médias locaux. Sur l'ensemble de l'Ukraine, le bilan cumulé rapporté par plusieurs médias fait état d'environ 20 morts et de plus de 140 blessés.",
+      "en": "Russia carried out one of its largest ballistic missile attacks on Kyiv since the start of the war overnight on July 19, according to the Ukrainian air force cited by NPR and Al Jazeera. In total, 41 missiles (including 25 ballistic) and 125 drones were fired across the country. In Kyiv, the attack killed at least one person and wounded 16; in Kharkiv, a postal depot was hit three times, according to local media. Across all of Ukraine, the combined toll reported by several outlets stands at about 20 dead and more than 140 injured.",
+      "es": "Rusia llevó a cabo en la noche del 19 de julio uno de sus mayores ataques con misiles balísticos contra Kiev desde el inicio de la guerra, según la fuerza aérea ucraniana citada por NPR y Al Jazeera. En total se lanzaron 41 misiles (25 de ellos balísticos) y 125 drones contra todo el país. En Kiev, el ataque dejó al menos un muerto y 16 heridos; en Járkov, un depósito postal fue alcanzado tres veces, según medios locales. En el conjunto de Ucrania, el balance combinado citado por varios medios es de unos 20 muertos y más de 140 heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026, vers 1h30",
+          "en": "19/07/2026, around 1:30 AM",
+          "es": "19/07/2026, alrededor de la 1:30"
+        },
+        "d": {
+          "fr": "Les premières explosions retentissent à Kyiv au début d'une attaque de plusieurs heures, selon l'armée de l'air ukrainienne.",
+          "en": "The first explosions are heard in Kyiv at the start of a several-hour attack, according to the Ukrainian air force.",
+          "es": "Las primeras explosiones se escuchan en Kiev al inicio de un ataque de varias horas, según la fuerza aérea ucraniana."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque",
+      "mer-noire-navire-cerealier"
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "mer-noire-navire-cerealier",
+    "coords": [
+      30.85,
+      46.3
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Kyiv Independent / Euromaidan Press",
+    "place": {
+      "fr": "Mer Noire, au large d'Odessa, Ukraine",
+      "en": "Black Sea, off Odesa, Ukraine",
+      "es": "Mar Negro, frente a Odesa, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe sur un cargo céréalier en mer Noire fait 5 morts et 5 disparus",
+      "en": "Russian strike on a grain cargo ship in the Black Sea kills 5, leaves 5 missing",
+      "es": "Un ataque ruso contra un carguero de grano en el mar Negro deja 5 muertos y 5 desaparecidos"
+    },
+    "summary": {
+      "fr": "Le Golden Leo, un cargo battant pavillon de Guinée-Bissau et appartenant à une société turque, a été touché par trois missiles de croisière russes alors qu'il quittait le corridor maritime ukrainien chargé de maïs, selon le Kyiv Independent et Euromaidan Press. Le navire transportait un équipage de 17 marins indiens et syriens ainsi qu'un Ukrainien. Les autorités maritimes ukrainiennes font état de 5 morts, 8 membres d'équipage évacués et 5 personnes toujours portées disparues ; les recherches se poursuivent.",
+      "en": "The Golden Leo, a Guinea-Bissau-flagged cargo ship owned by a Turkish company, was hit by three Russian cruise missiles as it left Ukraine's maritime corridor carrying corn, according to the Kyiv Independent and Euromaidan Press. The vessel was carrying a crew of 17 Indian and Syrian sailors plus one Ukrainian. Ukrainian maritime authorities report 5 dead, 8 crew members evacuated, and 5 people still missing; search efforts continue.",
+      "es": "El Golden Leo, un carguero con bandera de Guinea-Bisáu propiedad de una empresa turca, fue alcanzado por tres misiles de crucero rusos cuando salía del corredor marítimo ucraniano cargado de maíz, según Kyiv Independent y Euromaidan Press. El buque transportaba una tripulación de 17 marineros indios y sirios, además de un ucraniano. Las autoridades marítimas ucranianas informan de 5 muertos, 8 tripulantes evacuados y 5 personas aún desaparecidas; las búsquedas continúan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Trois missiles russes touchent le Golden Leo en mer Noire, provoquant un incendie à bord.",
+          "en": "Three Russian missiles hit the Golden Leo in the Black Sea, sparking a fire on board.",
+          "es": "Tres misiles rusos alcanzan al Golden Leo en el mar Negro, provocando un incendio a bordo."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque",
+      "kyiv-attaque-missiles"
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "tate-freres-arrestation",
+    "coords": [
+      -80.1918,
+      25.7617
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR / Al Jazeera / NBC News",
+    "place": {
+      "fr": "Miami, Floride, États-Unis",
+      "en": "Miami, Florida, United States",
+      "es": "Miami, Florida, Estados Unidos"
+    },
+    "title": {
+      "fr": "Andrew et Tristan Tate arrêtés à Miami, la justice britannique demande leur extradition",
+      "en": "Andrew and Tristan Tate arrested in Miami, UK justice system seeks extradition",
+      "es": "Andrew y Tristan Tate son arrestados en Miami; la justicia británica pide su extradición"
+    },
+    "summary": {
+      "fr": "Andrew Tate et son frère Tristan ont été arrêtés samedi 18 juillet à Miami par le US Marshals Service, sur la base d'un mandat scellé, après que des procureurs britanniques ont déposé de nouvelles charges de viol et de traite à leur encontre, selon NPR, NBC News et Al Jazeera. Le Royaume-Uni demande leur extradition pour répondre au total de 59 chefs d'accusation : Andrew Tate fait face à 42 charges (dont viol, traite à des fins d'exploitation sexuelle et images pédopornographiques) et Tristan Tate à 17. Leur avocat, Joseph McBride, affirme que les deux frères sont innocents.",
+      "en": "Andrew Tate and his brother Tristan were arrested on Saturday, July 18 in Miami by the US Marshals Service on a sealed warrant, after British prosecutors filed new rape and trafficking charges against them, according to NPR, NBC News and Al Jazeera. The UK is seeking their extradition to face a total of 59 charges: Andrew Tate faces 42 charges (including rape, trafficking for sexual exploitation and child abuse images) and Tristan Tate faces 17. Their lawyer, Joseph McBride, says the brothers are innocent.",
+      "es": "Andrew Tate y su hermano Tristan fueron arrestados el sábado 18 de julio en Miami por el Servicio de Alguaciles de EE. UU. bajo una orden sellada, después de que fiscales británicos presentaran nuevos cargos de violación y trata en su contra, según NPR, NBC News y Al Jazeera. El Reino Unido solicita su extradición para responder a un total de 59 cargos: Andrew Tate enfrenta 42 cargos (incluidos violación, trata con fines de explotación sexual e imágenes de abuso infantil) y Tristan Tate 17. Su abogado, Joseph McBride, afirma que ambos hermanos son inocentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Les frères Tate sont arrêtés à Miami sur la base d'un mandat scellé, dans l'attente d'une procédure d'extradition vers le Royaume-Uni.",
+          "en": "The Tate brothers are arrested in Miami on a sealed warrant, pending extradition proceedings to the UK.",
+          "es": "Los hermanos Tate son arrestados en Miami bajo una orden sellada, a la espera del proceso de extradición al Reino Unido."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "maine-ice-fusillade",
+    "coords": [
+      -70.4531,
+      43.4926
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Washington Post / PBS NewsHour / Al Jazeera",
+    "place": {
+      "fr": "Biddeford, Maine, États-Unis",
+      "en": "Biddeford, Maine, United States",
+      "es": "Biddeford, Maine, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un agent de l'ICE tue par balle un automobiliste colombien dans le Maine",
+      "en": "An ICE officer fatally shoots a Colombian motorist in Maine",
+      "es": "Un agente de ICE mata a tiros a un automovilista colombiano en Maine"
+    },
+    "summary": {
+      "fr": "Un agent de l'agence américaine de l'immigration (ICE) a tué par balle lundi 13 juillet Johan Sebastián Durán Guerrero, un Colombien de 26 ans, à Biddeford, dans le Maine, selon le Washington Post et PBS NewsHour. Le ministère de la Sécurité intérieure affirme que ses agents surveillaient le domicile d'une autre personne visée par une mesure d'expulsion et qu'un agent a ouvert le feu en craignant pour la sécurité publique lorsque le conducteur a tenté de fuir ; selon le sénateur du Maine Angus King, la victime n'était pas la personne visée par le mandat. Les caméras-piétons n'étaient pas encore en service. Des manifestations ont eu lieu dans l'État ; le FBI et le bureau de l'inspecteur général du ministère enquêtent, tout comme la procureure générale du Maine.",
+      "en": "An officer with the US immigration agency (ICE) fatally shot Johan Sebastián Durán Guerrero, a 26-year-old Colombian national, on Monday, July 13 in Biddeford, Maine, according to the Washington Post and PBS NewsHour. The Department of Homeland Security says its officers were monitoring the home of another person subject to a deportation order and that an officer opened fire fearing for public safety when the driver tried to flee; according to Maine Senator Angus King, the victim was not the target of the warrant. Body cameras were not yet in use. Protests took place across the state; the FBI and the department's inspector general's office are investigating, as is Maine's attorney general.",
+      "es": "Un agente de la agencia estadounidense de inmigración (ICE) mató a tiros el lunes 13 de julio a Johan Sebastián Durán Guerrero, un colombiano de 26 años, en Biddeford, Maine, según el Washington Post y PBS NewsHour. El Departamento de Seguridad Nacional afirma que sus agentes vigilaban el domicilio de otra persona sujeta a una orden de deportación y que un agente abrió fuego temiendo por la seguridad pública cuando el conductor intentó huir; según el senador de Maine Angus King, la víctima no era el objetivo de la orden. Las cámaras corporales aún no estaban en uso. Se produjeron protestas en el estado; el FBI y la oficina del inspector general del departamento investigan, al igual que la fiscal general de Maine."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "13/07/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "Un agent de l'ICE tue par balle Johan Sebastián Durán Guerrero à Biddeford ; des enquêtes sont ouvertes.",
+          "en": "An ICE officer fatally shoots Johan Sebastián Durán Guerrero in Biddeford; investigations are opened.",
+          "es": "Un agente de ICE mata a tiros a Johan Sebastián Durán Guerrero en Biddeford; se abren investigaciones."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "coupe-du-monde-finale-2026",
+    "coords": [
+      -74.0742,
+      40.8135
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏆",
+    "source": "FIFA / ESPN",
+    "place": {
+      "fr": "East Rutherford (New Jersey), États-Unis",
+      "en": "East Rutherford, New Jersey, United States",
+      "es": "East Rutherford, Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'Espagne remporte la Coupe du monde 2026 face à l'Argentine",
+      "en": "Spain wins the 2026 World Cup, beating Argentina",
+      "es": "España gana el Mundial 2026 frente a Argentina"
+    },
+    "summary": {
+      "fr": "L'Espagne a battu l'Argentine 1-0 en finale de la Coupe du monde de la FIFA 2026, dimanche 19 juillet au stade de East Rutherford (New Jersey), grâce à un but de Ferran Torres inscrit 39 secondes après la reprise de la seconde période de prolongation, selon les données officielles de la FIFA et ESPN. Il s'agit du deuxième titre mondial de la Roja, seize ans après celui de 2010.",
+      "en": "Spain beat Argentina 1-0 in the 2026 FIFA World Cup final on Sunday, July 19 at the stadium in East Rutherford, New Jersey, with a goal from Ferran Torres scored 39 seconds into the second period of extra time, according to official FIFA data and ESPN. It is La Roja's second world title, sixteen years after their 2010 win.",
+      "es": "España venció 1-0 a Argentina en la final de la Copa Mundial de la FIFA 2026, el domingo 19 de julio en el estadio de East Rutherford, Nueva Jersey, con un gol de Ferran Torres marcado 39 segundos después de reanudarse el segundo periodo de la prórroga, según datos oficiales de la FIFA y ESPN. Es el segundo título mundial de la Roja, dieciséis años después del de 2010."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Ferran Torres inscrit le but décisif en prolongation, offrant à l'Espagne son deuxième titre mondial.",
+          "en": "Ferran Torres scores the decisive goal in extra time, giving Spain its second world title.",
+          "es": "Ferran Torres marca el gol decisivo en la prórroga, dando a España su segundo título mundial."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "mondial2026-bresil-norvege"
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "chine-conference-ia-shanghai",
+    "coords": [
+      121.4737,
+      31.2304
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤖",
+    "source": "Global Times / SCMP",
+    "place": {
+      "fr": "Shanghai, Chine",
+      "en": "Shanghai, China",
+      "es": "Shanghái, China"
+    },
+    "title": {
+      "fr": "Xi Jinping ouvre la Conférence mondiale sur l'intelligence artificielle à Shanghai",
+      "en": "Xi Jinping opens the World AI Conference in Shanghai",
+      "es": "Xi Jinping inaugura la Conferencia Mundial de Inteligencia Artificial en Shanghái"
+    },
+    "summary": {
+      "fr": "Le président chinois Xi Jinping a assisté à la cérémonie d'ouverture de la Conférence mondiale sur l'intelligence artificielle 2026, qui se tient à Shanghai du 17 au 20 juillet en parallèle d'une réunion de haut niveau sur la gouvernance mondiale de l'IA, selon la presse chinoise. Il y a prononcé un discours défendant une ouverture accrue de la Chine sur les questions d'intelligence artificielle.",
+      "en": "Chinese President Xi Jinping attended the opening ceremony of the 2026 World AI Conference, held in Shanghai from July 17 to 20 alongside a high-level meeting on global AI governance, according to Chinese media. He delivered a speech advocating for greater Chinese openness on artificial intelligence issues.",
+      "es": "El presidente chino, Xi Jinping, asistió a la ceremonia de apertura de la Conferencia Mundial de Inteligencia Artificial 2026, celebrada en Shanghái del 17 al 20 de julio junto a una reunión de alto nivel sobre gobernanza global de la IA, según medios chinos. Pronunció un discurso defendiendo una mayor apertura de China en materia de inteligencia artificial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Xi Jinping prononce le discours d'ouverture de la conférence à Shanghai.",
+          "en": "Xi Jinping delivers the conference's opening speech in Shanghai.",
+          "es": "Xi Jinping pronuncia el discurso de apertura de la conferencia en Shanghái."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "inde-alerte-inondations-uttarakhand",
+    "coords": [
+      78.0322,
+      30.3165
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧️",
+    "source": "IMD / The Statesman / Deccan Herald",
+    "place": {
+      "fr": "Uttarakhand et nord de l'Inde",
+      "en": "Uttarakhand and northern India",
+      "es": "Uttarakhand y norte de la India"
+    },
+    "title": {
+      "fr": "L'Inde place l'Uttarakhand en alerte rouge face à des pluies torrentielles",
+      "en": "India places Uttarakhand on red alert over torrential rain",
+      "es": "India pone en alerta roja a Uttarakhand por lluvias torrenciales"
+    },
+    "summary": {
+      "fr": "Le Département météorologique indien (IMD) a placé plusieurs districts de l'Uttarakhand — dont Dehradun, Nainital, Chamoli, Pauri Garhwal, Rudraprayag et Pithoragarh — en alerte rouge face au risque de crues éclair et de glissements de terrain, avec des pluies très abondantes attendues jusqu'au 22 juillet dans le nord, l'est et le centre du pays, selon The Statesman et le Deccan Herald. Les équipes de gestion des catastrophes de l'État ont été prépositionnées et les pèlerins et touristes invités à adapter leurs déplacements.",
+      "en": "The India Meteorological Department (IMD) has placed several districts of Uttarakhand — including Dehradun, Nainital, Chamoli, Pauri Garhwal, Rudraprayag and Pithoragarh — on red alert over the risk of flash floods and landslides, with very heavy rain expected through July 22 across northern, eastern and central India, according to The Statesman and Deccan Herald. State disaster-response teams have been pre-positioned and pilgrims and tourists have been urged to adjust their travel plans.",
+      "es": "El Departamento Meteorológico de la India (IMD) ha puesto en alerta roja a varios distritos de Uttarakhand —entre ellos Dehradun, Nainital, Chamoli, Pauri Garhwal, Rudraprayag y Pithoragarh— por el riesgo de crecidas repentinas y deslizamientos de tierra, con lluvias muy intensas previstas hasta el 22 de julio en el norte, este y centro del país, según The Statesman y Deccan Herald. Los equipos estatales de gestión de desastres han sido desplegados con antelación y se ha pedido a peregrinos y turistas que ajusten sus desplazamientos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "L'IMD émet une alerte rouge pour plusieurs districts de l'Uttarakhand et prévoit des pluies très abondantes jusqu'au 22 juillet.",
+          "en": "The IMD issues a red alert for several Uttarakhand districts and forecasts very heavy rain through July 22.",
+          "es": "El IMD emite una alerta roja para varios distritos de Uttarakhand y prevé lluvias muy intensas hasta el 22 de julio."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "afrique-sud-anti-migrants",
+    "coords": [
+      28.0473,
+      -26.2041
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Al Jazeera / NPR / HRW",
+    "place": {
+      "fr": "Johannesburg et ensemble de l'Afrique du Sud",
+      "en": "Johannesburg and across South Africa",
+      "es": "Johannesburgo y todo Sudáfrica"
+    },
+    "title": {
+      "fr": "Plus de 900 arrestations lors de manifestations anti-migrants en Afrique du Sud",
+      "en": "More than 900 arrests during anti-migrant protests in South Africa",
+      "es": "Más de 900 detenidos en protestas antiinmigrantes en Sudáfrica"
+    },
+    "summary": {
+      "fr": "La police sud-africaine a procédé à plus de 900 arrestations lors de manifestations antimigrants organisées à l'échelle nationale début juillet, majoritairement pacifiques mais parfois marquées par des pillages et un homicide par balle, selon Al Jazeera. Le mouvement \"March and March\" a appelé à des marches hebdomadaires jusqu'à ce que les migrants sans papiers quittent le pays. Human Rights Watch et Médecins Sans Frontières font état de dizaines de milliers de personnes déplacées ou reparties dans leur pays d'origine, dont plus de 38 000 Malawites et plus de 60 000 Zimbabwéens, selon leurs gouvernements respectifs.",
+      "en": "South African police made more than 900 arrests during nationwide anti-migrant protests in early July, largely peaceful but at times marked by looting and one fatal shooting, according to Al Jazeera. The \"March and March\" movement has called for weekly marches until undocumented migrants leave the country. Human Rights Watch and Doctors Without Borders report tens of thousands of people displaced or having returned to their home countries, including more than 38,000 Malawians and more than 60,000 Zimbabweans, according to their respective governments.",
+      "es": "La policía sudafricana realizó más de 900 detenciones durante protestas antiinmigrantes a escala nacional a principios de julio, en gran parte pacíficas pero marcadas en ocasiones por saqueos y un homicidio por arma de fuego, según Al Jazeera. El movimiento \"March and March\" ha convocado marchas semanales hasta que los migrantes indocumentados abandonen el país. Human Rights Watch y Médicos Sin Fronteras informan de decenas de miles de personas desplazadas o que han regresado a sus países de origen, entre ellas más de 38 000 malauíes y más de 60 000 zimbabuenses, según sus respectivos gobiernos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Début juillet 2026",
+          "en": "Early July 2026",
+          "es": "Principios de julio de 2026"
+        },
+        "d": {
+          "fr": "Des manifestations antimigrants ont lieu dans tout le pays ; plus de 900 personnes sont arrêtées, selon la police.",
+          "en": "Anti-migrant protests take place across the country; more than 900 people are arrested, according to police.",
+          "es": "Se producen protestas antiinmigrantes en todo el país; más de 900 personas son detenidas, según la policía."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "Semaine du 13/07/2026",
+          "en": "Week of 13/07/2026",
+          "es": "Semana del 13/07/2026"
+        },
+        "d": {
+          "fr": "Des militants font du porte-à-porte à Johannesburg pour identifier des migrants sans papiers ; MSF alerte sur la crise humanitaire.",
+          "en": "Activists go door-to-door in Johannesburg to identify undocumented migrants; MSF warns of a humanitarian crisis.",
+          "es": "Activistas recorren puerta por puerta Johannesburgo para identificar a migrantes indocumentados; MSF alerta sobre la crisis humanitaria."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "mexique-nayarit-disparitions-forcees",
+    "coords": [
+      -104.8946,
+      21.5041
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "FGR / Infobae / Aristegui Noticias",
+    "place": {
+      "fr": "Nayarit, Mexique (localisation exacte des faits non précisée par la source)",
+      "en": "Nayarit, Mexico (exact location of the events not specified by the source)",
+      "es": "Nayarit, México (ubicación exacta de los hechos no precisada por la fuente)"
+    },
+    "title": {
+      "fr": "Deux ex-policiers de Nayarit inculpés pour la disparition forcée de 56 victimes",
+      "en": "Two former Nayarit police officers charged over the forced disappearance of 56 victims",
+      "es": "Dos exagentes de Nayarit son procesados por la desaparición forzada de 56 víctimas"
+    },
+    "summary": {
+      "fr": "Le Parquet général de la République (FGR) a obtenu la mise en examen de deux anciens agents de sécurité de l'État de Nayarit, un ex-commandant de la police surnommé \"El Jimmy\" et un ex-garde du corps d'une ancienne procureure surnommé \"Paco Salazar\", pour disparition forcée de personnes, selon Infobae et Aristegui Noticias. Le dossier d'enquête, constitué par le parquet spécialisé en droits humains, porte sur 56 à 57 victimes directes ; 55 corps ont été localisés dans des fosses clandestines. Les suspects auraient agi en profitant de leurs fonctions officielles, possiblement en collusion avec le crime organisé.",
+      "en": "Mexico's Attorney General's Office (FGR) obtained an indictment against two former Nayarit state security officials — a former police commander known as \"El Jimmy\" and a former bodyguard for an ex-state prosecutor known as \"Paco Salazar\" — for the forced disappearance of people, according to Infobae and Aristegui Noticias. The investigation file, built by the human rights prosecutor's office, covers 56 to 57 direct victims; 55 bodies have been located in clandestine graves. The suspects allegedly acted by taking advantage of their official positions, possibly in collusion with organized crime.",
+      "es": "La Fiscalía General de la República (FGR) obtuvo la vinculación a proceso de dos exservidores de seguridad de Nayarit —un excomandante policial conocido como \"El Jimmy\" y un exescolta de una exfiscal estatal conocido como \"Paco Salazar\"— por el delito de desaparición forzada de personas, según Infobae y Aristegui Noticias. La carpeta de investigación, integrada por la fiscalía especializada en derechos humanos, contempla entre 56 y 57 víctimas directas; se han localizado 55 cuerpos en fosas clandestinas. Los sospechosos habrían actuado aprovechando sus cargos públicos, posiblemente en colusión con el crimen organizado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "La FGR annonce la mise en examen des deux ex-agents pour disparition forcée de 56 victimes.",
+          "en": "The FGR announces the indictment of the two former officials for the forced disappearance of 56 victims.",
+          "es": "La FGR anuncia la vinculación a proceso de los dos exservidores por la desaparición forzada de 56 víctimas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "japon-loi-succession-imperiale",
+    "coords": [
+      139.7454,
+      35.6759
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "📜",
+    "source": "NPR / PBS NewsHour / France 24",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Japon révise sa loi sur la succession impériale mais maintient l'interdiction faite aux femmes",
+      "en": "Japan revises its imperial succession law but keeps women barred from the throne",
+      "es": "Japón revisa su ley de sucesión imperial pero mantiene la prohibición a las mujeres"
+    },
+    "summary": {
+      "fr": "La Diète japonaise a adopté le 17 juillet une révision de la loi sur la maison impériale, promulguée le lendemain, qui permet aux princesses de conserver leur statut royal après un mariage avec un roturier et instaure un mécanisme d'adoption de descendants masculins d'anciennes branches impériales, selon NPR, PBS NewsHour et France 24. Le texte, première révision substantielle depuis 1947, maintient toutefois l'interdiction faite aux femmes d'accéder au trône du Chrysanthème, malgré des sondages favorables à un changement.",
+      "en": "Japan's Diet passed a revision of the Imperial House Law on July 17, enacted the following day, allowing princesses to retain their royal status after marrying commoners and creating a mechanism to adopt male descendants from former imperial branches, according to NPR, PBS NewsHour and France 24. The law, the first substantive revision since 1947, nonetheless keeps the ban on women ascending the Chrysanthemum Throne, despite polls favoring a change.",
+      "es": "La Dieta japonesa aprobó el 17 de julio una revisión de la Ley de la Casa Imperial, promulgada al día siguiente, que permite a las princesas conservar su estatus real tras casarse con plebeyos y crea un mecanismo para adoptar descendientes varones de antiguas ramas imperiales, según NPR, PBS NewsHour y France 24. La ley, la primera revisión sustancial desde 1947, mantiene sin embargo la prohibición de que las mujeres accedan al Trono del Crisantemo, pese a las encuestas favorables a un cambio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "La loi révisée sur la maison impériale est promulguée après son adoption par la Chambre des conseillers.",
+          "en": "The revised Imperial House Law is enacted after passing the House of Councillors.",
+          "es": "La ley revisada de la Casa Imperial se promulga tras su aprobación en la Cámara de Consejeros."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-naufrage-selayar",
+    "coords": [
+      120.4,
+      -6.65
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Îles Selayar, Sulawesi du Sud, Indonésie",
+      "en": "Selayar Islands, South Sulawesi, Indonesia",
+      "es": "Islas Selayar, Célebes Meridional, Indonesia"
+    },
+    "title": {
+      "fr": "Le bilan d'un naufrage en Indonésie reste incertain, une vingtaine de personnes toujours recherchées",
+      "en": "Toll from an Indonesian boat sinking remains unclear, around 20 people still searched for",
+      "es": "El balance de un naufragio en Indonesia sigue incierto, se buscan a unas 20 personas"
+    },
+    "summary": {
+      "fr": "Le KM Nurul Salsa, qui reliait l'île de Jampea au port de Benteng, sur l'île de Selayar (Sulawesi du Sud), a coulé mercredi après une panne moteur avec 78 personnes à bord, selon Al Jazeera. Sept survivants ont été retrouvés d'ici dimanche, dont deux (une mère et son fils) échoués sur l'île de Balaloho. Plus de 200 sauveteurs, appuyés par l'armée, la police et des pêcheurs locaux, poursuivent les recherches dans des conditions de mer difficiles (vagues de 2 à 3 mètres) pour retrouver les quelque 20 personnes encore portées disparues.",
+      "en": "The KM Nurul Salsa, sailing from Jampea Island to the port of Benteng on Selayar Island (South Sulawesi), sank on Wednesday after engine failure with 78 people on board, according to Al Jazeera. Seven survivors had been found by Sunday, including two (a mother and her son) who washed up on Balaloho Island. More than 200 rescuers, backed by the military, police and local fishermen, are continuing the search in rough seas (2-3 metre waves) for the roughly 20 people still missing.",
+      "es": "El KM Nurul Salsa, que cubría la ruta entre la isla de Jampea y el puerto de Benteng, en la isla de Selayar (Célebes Meridional), se hundió el miércoles tras una falla de motor con 78 personas a bordo, según Al Jazeera. Para el domingo se habían encontrado siete supervivientes, entre ellos dos (una madre y su hijo) que llegaron a la isla de Balaloho. Más de 200 rescatistas, apoyados por el ejército, la policía y pescadores locales, continúan la búsqueda en condiciones de mar difíciles (olas de 2 a 3 metros) de las cerca de 20 personas aún desaparecidas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "Le KM Nurul Salsa coule après une panne moteur au large de Selayar, avec 78 personnes à bord.",
+          "en": "The KM Nurul Salsa sinks after engine failure off Selayar, with 78 people on board.",
+          "es": "El KM Nurul Salsa se hunde tras una falla de motor frente a Selayar, con 78 personas a bordo."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Deux nouveaux survivants sont retrouvés sur l'île de Balaloho ; les recherches se poursuivent pour environ 20 disparus.",
+          "en": "Two more survivors are found on Balaloho Island; the search continues for about 20 missing people.",
+          "es": "Se encuentran dos supervivientes más en la isla de Balaloho; la búsqueda continúa por unas 20 personas desaparecidas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "turquie-izmit-corruption",
+    "coords": [
+      29.9186,
+      40.7654
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Daily Sabah / Euronews Türkçe",
+    "place": {
+      "fr": "Izmit (Kocaeli), Turquie",
+      "en": "Izmit (Kocaeli), Turkey",
+      "es": "Izmit (Kocaeli), Turquía"
+    },
+    "title": {
+      "fr": "La maire d'Izmit et son mari placés en garde à vue dans une enquête pour corruption",
+      "en": "Izmit mayor and her husband detained in a corruption investigation",
+      "es": "La alcaldesa de Izmit y su esposo son detenidos en una investigación por corrupción"
+    },
+    "summary": {
+      "fr": "La maire d'Izmit, Fatma Kaplan Hürriyet, membre du parti d'opposition CHP, a été placée en garde à vue le 20 juillet avec son mari Murat Hürriyet et une trentaine d'autres personnes, dans le cadre d'une enquête du parquet d'Istanbul sur des soupçons de corruption et de trucage d'appels d'offres municipaux, selon Daily Sabah et Euronews Türkçe. Le parquet accuse les suspects d'avoir dirigé une organisation criminelle, avec des marchés publics attribués à des entreprises liées par des liens familiaux à des responsables municipaux.",
+      "en": "Izmit mayor Fatma Kaplan Hürriyet, a member of the opposition CHP party, was detained on July 20 along with her husband Murat Hürriyet and about 30 other people, as part of an Istanbul prosecutor's investigation into suspected corruption and rigged municipal tenders, according to Daily Sabah and Euronews Türkçe. Prosecutors accuse the suspects of running a criminal organization, with public contracts awarded to companies with family ties to municipal officials.",
+      "es": "La alcaldesa de Izmit, Fatma Kaplan Hürriyet, del partido opositor CHP, fue detenida el 20 de julio junto a su esposo Murat Hürriyet y otras treinta personas, en el marco de una investigación de la fiscalía de Estambul por presunta corrupción y amaño de licitaciones municipales, según Daily Sabah y Euronews Türkçe. La fiscalía acusa a los sospechosos de dirigir una organización criminal, con contratos públicos adjudicados a empresas con vínculos familiares con funcionarios municipales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "La police procède à des perquisitions et place la maire d'Izmit, son mari et une trentaine de suspects en garde à vue.",
+          "en": "Police carry out raids and detain the Izmit mayor, her husband and about 30 suspects.",
+          "es": "La policía realiza registros y detiene a la alcaldesa de Izmit, a su esposo y a unos 30 sospechosos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "france-croissance-revision",
+    "coords": [
+      2.373,
+      48.8397
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Ministère de l'Économie / Boursorama",
+    "place": {
+      "fr": "Paris, France (Bercy)",
+      "en": "Paris, France (Bercy)",
+      "es": "París, Francia (Bercy)"
+    },
+    "title": {
+      "fr": "Le gouvernement français abaisse sa prévision de croissance à 0,7 % pour 2026",
+      "en": "French government lowers its 2026 growth forecast to 0.7%",
+      "es": "El gobierno francés reduce su previsión de crecimiento a 0,7% para 2026"
+    },
+    "summary": {
+      "fr": "Le ministre français de l'Économie Roland Lescure a annoncé le 7 juillet l'abaissement de la prévision de croissance pour 2026 à 0,7 % du PIB, contre 0,9 % anticipés en avril, lors d'un comité d'alerte des finances publiques réuni par le Premier ministre Sébastien Lecornu, selon Boursorama et Econostrum. Cette révision, alignée sur les prévisions de l'INSEE, du FMI et de l'OCDE, tient compte d'un début d'année moins favorable qu'attendu et du contexte international, notamment le conflit au Moyen-Orient. La France affichait un déficit public de 5,1 % du PIB en 2025, le deuxième de la zone euro derrière la Belgique, et une dette de 3 536,1 milliards d'euros (117,5 % du PIB) fin mars 2026.",
+      "en": "French Economy Minister Roland Lescure announced on July 7 that the 2026 growth forecast had been lowered to 0.7% of GDP, down from 0.9% expected in April, at a public finances alert committee convened by Prime Minister Sébastien Lecornu, according to Boursorama and Econostrum. The revision, in line with forecasts from INSEE, the IMF and the OECD, factors in a weaker-than-expected start to the year and the international context, including the Middle East conflict. France posted a public deficit of 5.1% of GDP in 2025, the second-highest in the eurozone after Belgium, and debt of €3,536.1 billion (117.5% of GDP) at the end of March 2026.",
+      "es": "El ministro francés de Economía, Roland Lescure, anunció el 7 de julio la reducción de la previsión de crecimiento para 2026 a 0,7% del PIB, frente al 0,9% previsto en abril, en un comité de alerta de las finanzas públicas convocado por el primer ministro Sébastien Lecornu, según Boursorama y Econostrum. La revisión, alineada con las previsiones del INSEE, el FMI y la OCDE, tiene en cuenta un inicio de año menos favorable de lo esperado y el contexto internacional, en particular el conflicto en Oriente Medio. Francia registró un déficit público del 5,1% del PIB en 2025, el segundo más alto de la eurozona tras Bélgica, y una deuda de 3536,1 miles de millones de euros (117,5% del PIB) a finales de marzo de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/07/2026",
+          "en": "07/07/2026",
+          "es": "07/07/2026"
+        },
+        "d": {
+          "fr": "Roland Lescure annonce la révision à la baisse de la prévision de croissance à 0,7 % pour 2026.",
+          "en": "Roland Lescure announces the downward revision of the growth forecast to 0.7% for 2026.",
+          "es": "Roland Lescure anuncia la revisión a la baja de la previsión de crecimiento al 0,7% para 2026."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
     "priority": 1
   }
 ]
