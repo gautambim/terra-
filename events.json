@@ -196,9 +196,9 @@
       "es": "Un ataque ruso al puerto de Odesa deja al menos 3 muertos"
     },
     "summary": {
-      "fr": "Des attaques russes sur un navire civil dans le port de la région d'Odessa et sur deux autres bateaux en mer Noire ont fait au moins trois morts le 15 juillet, selon les autorités ukrainiennes.",
-      "en": "Russian attacks on a civilian ship in the port of the Odesa region and on two other vessels in the Black Sea killed at least three people on July 15, according to Ukrainian authorities.",
-      "es": "Ataques rusos contra un buque civil en el puerto de la región de Odesa y contra otras dos embarcaciones en el mar Negro dejaron al menos tres muertos el 15 de julio, según las autoridades ucranianas."
+      "fr": "Des attaques russes visant des navires civils dans la région d'Odessa se sont multipliées depuis la mi-juillet. Un premier tir a fait au moins trois morts le 15 juillet. Le 19 juillet, le cargo céréalier Golden Leo a été frappé par des missiles à sa sortie du port, tuant 10 des 17 personnes à bord, selon les autorités ukrainiennes et plusieurs médias.",
+      "en": "Russian attacks on civilian ships in the Odesa region have multiplied since mid-July. A first strike killed at least three people on July 15. On July 19, the grain carrier Golden Leo was hit by missiles as it left the port, killing 10 of the 17 people aboard, according to Ukrainian authorities and several media outlets.",
+      "es": "Los ataques rusos contra buques civiles en la región de Odesa se han multiplicado desde mediados de julio. Un primer ataque dejó al menos tres muertos el 15 de julio. El 19 de julio, el buque granelero Golden Leo fue alcanzado por misiles al salir del puerto, matando a 10 de las 17 personas a bordo, según las autoridades ucranianas y varios medios."
     },
     "timeline": [
       {
@@ -211,6 +211,19 @@
           "fr": "Les autorités ukrainiennes rapportent au moins 3 morts après des frappes russes sur des navires civils près d'Odessa.",
           "en": "Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.",
           "es": "Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Des missiles russes frappent le cargo céréalier Golden Leo alors qu'il quitte le port d'Odessa, tuant 10 personnes (9 membres d'équipage et un pilote portuaire ukrainien) sur 17 à bord, selon Al Jazeera et Marine Link. Il s'agit de l'attaque la plus meurtrière visant le transport maritime en mer Noire depuis le début de cette escalade.",
+          "en": "Russian missiles strike the grain carrier Golden Leo as it leaves the port of Odesa, killing 10 of the 17 people aboard (9 crew members and a Ukrainian harbor pilot), according to Al Jazeera and Marine Link. It is the deadliest attack on Black Sea shipping since this escalation began.",
+          "es": "Misiles rusos alcanzan el buque granelero Golden Leo cuando salía del puerto de Odesa, matando a 10 de las 17 personas a bordo (9 tripulantes y un práctico portuario ucraniano), según Al Jazeera y Marine Link. Es el ataque más mortífero contra el transporte marítimo en el mar Negro desde el inicio de esta escalada."
         },
         "active": true
       }
@@ -370,6 +383,19 @@
           "es": "Según Feux de Forêt, los incendios están controlados (ya no avanzan) pero aún no extinguidos."
         },
         "active": true
+      },
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Le ministre de l'Intérieur Laurent Nuñez annonce que près de 40 000 hectares ont brûlé en France depuis le début de l'année 2026, soit plus du double de la même période en 2025, avec 111 personnes interpellées pour des départs de feu, selon Al Jazeera et France 24. L'incendie de Fontainebleau lui-même est désormais éteint.",
+          "en": "Interior Minister Laurent Nuñez announces that nearly 40,000 hectares have burned in France since the start of 2026, more than double the same period in 2025, with 111 people arrested over fire-starting, according to Al Jazeera and France 24. The Fontainebleau fire itself is now extinguished.",
+          "es": "El ministro del Interior, Laurent Nuñez, anuncia que casi 40 000 hectáreas han ardido en Francia desde comienzos de 2026, más del doble que en el mismo periodo de 2025, con 111 personas detenidas por provocar incendios, según Al Jazeera y France 24. El propio incendio de Fontainebleau ya está extinguido."
+        },
+        "active": true
       }
     ],
     "week": "2026-W29",
@@ -484,9 +510,9 @@
       "es": "Un doble terremoto en el norte de Venezuela deja casi 3000 muertos"
     },
     "summary": {
-      "fr": "Un double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres.",
-      "en": "A double earthquake that devastated northern Venezuela has killed nearly 3,000 people, according to official figures. International rescue teams are gradually winding down the search for survivors in the rubble.",
-      "es": "Un doble terremoto que devastó el norte de Venezuela dejó casi 3000 muertos, según cifras oficiales. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros."
+      "fr": "Un double tremblement de terre qui a dévasté le nord du Venezuela, dans la région de Caracas et l'État de La Guaira, a fait plus de 5000 morts selon le dernier bilan officiel, contre près de 3000 initialement annoncés début juillet. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres, tandis que le gouvernement vénézuélien a obtenu un premier financement d'urgence du FMI.",
+      "en": "A double earthquake that devastated northern Venezuela, in the Caracas region and La Guaira state, has killed more than 5,000 people according to the latest official toll, up from nearly 3,000 initially announced in early July. International rescue teams are gradually winding down the search for survivors in the rubble, while the Venezuelan government has secured initial emergency financing from the IMF.",
+      "es": "Un doble terremoto que devastó el norte de Venezuela, en la región de Caracas y el estado de La Guaira, ha dejado más de 5000 muertos según el último balance oficial, frente a los casi 3000 anunciados inicialmente a principios de julio. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros, mientras el gobierno venezolano ha obtenido un primer financiamiento de emergencia del FMI."
     },
     "timeline": [
       {
@@ -499,6 +525,19 @@
           "fr": "Les autorités vénézuéliennes publient un bilan officiel proche de 3000 morts.",
           "en": "Venezuelan authorities publish an official toll of nearly 3,000 deaths.",
           "es": "Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel dépasse 5000 morts (5119) et plus de 16 700 blessés, selon Al Jazeera. La présidente par intérim Delcy Rodríguez annonce l'obtention de 346 millions de dollars de financement d'urgence du FMI, confirmée par la directrice générale du Fonds Kristalina Georgieva.",
+          "en": "The official toll surpasses 5,000 deaths (5,119) and more than 16,700 injured, according to Al Jazeera. Interim President Delcy Rodríguez announces Venezuela has secured $346 million in emergency IMF financing, confirmed by IMF Managing Director Kristalina Georgieva.",
+          "es": "El balance oficial supera los 5000 muertos (5119) y más de 16 700 heridos, según Al Jazeera. La presidenta interina Delcy Rodríguez anuncia la obtención de 346 millones de dólares en financiamiento de emergencia del FMI, confirmado por la directora gerente del Fondo, Kristalina Georgieva."
         },
         "active": true
       }
@@ -705,9 +744,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le conflit s'est depuis étendu à des pays du Golfe : une frappe iranienne sur la base aérienne jordanienne de Muwaffaq Salti a tué trois soldats américains le 17 juillet, et une centrale électrique et de dessalement a été touchée au Koweït le lendemain. Le gouvernement iranien affirme par ailleurs que des frappes américaines ont fait 38 morts et plus de 400 blessés en Iran ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The conflict has since spread to Gulf countries: an Iranian strike on Jordan's Muwaffaq Salti air base killed three US soldiers on July 17, and a power and desalination plant was hit in Kuwait the following day. The Iranian government also states that US strikes killed 38 people and wounded more than 400 in Iran; this toll, put forward by one side of the conflict, has not been independently confirmed.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El conflicto se ha extendido desde entonces a países del Golfo: un ataque iraní contra la base aérea jordana de Muwaffaq Salti mató a tres soldados estadounidenses el 17 de julio, y una central eléctrica y desaladora fue alcanzada en Kuwait al día siguiente. El gobierno iraní afirma además que los ataques estadounidenses causaron 38 muertos y más de 400 heridos en Irán; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente."
     },
     "timeline": [
       {
@@ -733,6 +772,32 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Un missile balistique iranien frappe la base aérienne jordanienne de Muwaffaq Salti ; le Pentagone confirme la mort de trois soldats américains, dont deux identifiés (Isabella Gonzales et Tyler James Feehan), selon CBS News, CNN et NPR. Les États-Unis mènent de nouvelles frappes de représailles sur l'Iran.",
+          "en": "An Iranian ballistic missile strikes Jordan's Muwaffaq Salti air base; the Pentagon confirms the death of three US soldiers, two of them identified (Isabella Gonzales and Tyler James Feehan), according to CBS News, CNN and NPR. The US carries out further retaliatory strikes on Iran.",
+          "es": "Un misil balístico iraní golpea la base aérea jordana de Muwaffaq Salti; el Pentágono confirma la muerte de tres soldados estadounidenses, dos de ellos identificados (Isabella Gonzales y Tyler James Feehan), según CBS News, CNN y NPR. Estados Unidos lleva a cabo nuevos ataques de represalia contra Irán."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17-18/07/2026",
+          "en": "17-18/07/2026",
+          "es": "17-18/07/2026"
+        },
+        "d": {
+          "fr": "Des frappes iraniennes touchent la centrale électrique et de dessalement de Doha West, au Koweït, provoquant un incendie ; les autorités koweïtiennes appellent à limiter la consommation électrique, selon Bloomberg et Gulf News.",
+          "en": "Iranian strikes hit the Doha West power and desalination plant in Kuwait, sparking a fire; Kuwaiti authorities urge residents to cut power use, according to Bloomberg and Gulf News.",
+          "es": "Ataques iraníes alcanzan la central eléctrica y desaladora de Doha West, en Kuwait, provocando un incendio; las autoridades kuwaitíes piden reducir el consumo eléctrico, según Bloomberg y Gulf News."
         },
         "active": true
       }
@@ -829,5 +894,860 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "usa-texas-inondations",
+    "coords": [
+      -99.1403,
+      30.0474
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "CNN / ABC News / Texas Tribune",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Kerrville et comté de Kerr (également Uvalde, Real et Guadalupe), Texas, États-Unis",
+      "en": "Kerrville and Kerr County (also Uvalde, Real and Guadalupe counties), Texas, United States",
+      "es": "Kerrville y el condado de Kerr (también Uvalde, Real y Guadalupe), Texas, Estados Unidos"
+    },
+    "title": {
+      "fr": "De nouvelles crues éclair font au moins deux morts au Texas",
+      "en": "New flash floods kill at least two in Texas",
+      "es": "Nuevas crecidas repentinas dejan al menos dos muertos en Texas"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles ont déclenché des crues éclair dans le centre du Texas entre le 14 et le 17 juillet, tuant au moins deux personnes dans les comtés de Kerr et d'Uvalde et provoquant plus de 230 sauvetages, selon CNN et ABC News. La rivière Guadalupe est montée de près de 10 mètres en quatre heures, un an après les inondations meurtrières de juillet 2025 dans la même région.",
+      "en": "Torrential rain triggered flash floods in central Texas between July 14 and 17, killing at least two people in Kerr and Uvalde counties and prompting more than 230 rescues, according to CNN and ABC News. The Guadalupe River rose nearly 10 meters in four hours, a year after deadly floods struck the same region in July 2025.",
+      "es": "Lluvias torrenciales provocaron crecidas repentinas en el centro de Texas entre el 14 y el 17 de julio, matando al menos a dos personas en los condados de Kerr y Uvalde y provocando más de 230 rescates, según CNN y ABC News. El río Guadalupe subió casi 10 metros en cuatro horas, un año después de las inundaciones mortales que golpearon la misma región en julio de 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16-17/07/2026",
+          "en": "16-17/07/2026",
+          "es": "16-17/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités du comté de Kerr confirment au moins deux morts et plus de 230 personnes secourues.",
+          "en": "Kerr County authorities confirm at least two deaths and more than 230 people rescued.",
+          "es": "Las autoridades del condado de Kerr confirman al menos dos muertos y más de 230 personas rescatadas."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mexique-seisme-chiapas",
+    "coords": [
+      -92.51,
+      14.94
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "USGS / CNN / Euronews",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Au large de l'État du Chiapas (golfe de Tehuantepec), Mexique",
+      "en": "Off the coast of Chiapas state (Gulf of Tehuantepec), Mexico",
+      "es": "Frente a las costas del estado de Chiapas (golfo de Tehuantepec), México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,3 secoue le sud du Mexique, sans faire de morts",
+      "en": "Magnitude 7.3 earthquake shakes southern Mexico, no deaths reported",
+      "es": "Un terremoto de magnitud 7,3 sacude el sur de México, sin víctimas mortales"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,3 a frappé le 17 juillet au large du Chiapas, à environ 48 km au sud-ouest d'Aquiles Serdán, selon l'USGS. Deux personnes ont été blessées, des bâtiments endommagés, et une alerte au tsunami a été brièvement émise avant d'être levée après l'observation de vagues de moins d'un mètre au Guatemala. Aucun décès n'a été signalé au Mexique, au Guatemala ni au Salvador.",
+      "en": "A magnitude 7.3 earthquake struck off Chiapas on July 17, about 48 km southwest of Aquiles Serdán, according to the USGS. Two people were injured, buildings were damaged, and a brief tsunami alert was issued before being lifted after waves under one meter were recorded in Guatemala. No deaths were reported in Mexico, Guatemala or El Salvador.",
+      "es": "Un terremoto de magnitud 7,3 golpeó frente a las costas de Chiapas el 17 de julio, a unos 48 km al suroeste de Aquiles Serdán, según el USGS. Dos personas resultaron heridas, hubo daños en edificios y se emitió brevemente una alerta de tsunami que fue levantada tras registrarse olas de menos de un metro en Guatemala. No se reportaron muertes en México, Guatemala ni El Salvador."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "L'USGS mesure un séisme de magnitude 7,3 à 15,2 km de profondeur ; plusieurs répliques suivent.",
+          "en": "The USGS measures a magnitude 7.3 earthquake at a depth of 15.2 km; several aftershocks follow.",
+          "es": "El USGS mide un terremoto de magnitud 7,3 a 15,2 km de profundidad; le siguen varias réplicas."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "usa-canada-tarifs",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Bloomberg / NBC News / PBS NewsHour",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Les États-Unis imposent des droits de douane de 50 % sur les voitures, l'alcool et les produits laitiers canadiens",
+      "en": "United States imposes 50% tariffs on Canadian autos, alcohol and dairy products",
+      "es": "Estados Unidos impone aranceles del 50 % a los automóviles, el alcohol y los lácteos canadienses"
+    },
+    "summary": {
+      "fr": "Le président Trump a signé le 20 juillet trois décrets imposant des droits de douane supplémentaires de 50 % sur les véhicules, boissons alcoolisées et produits laitiers canadiens, invoquant une loi commerciale de 1930 rarement utilisée, selon Bloomberg et NBC News. La mesure, qui entrera en vigueur dans 30 jours, concerne environ 20 milliards de dollars d'exportations canadiennes et exclut l'énergie ; des contestations juridiques sont attendues.",
+      "en": "President Trump signed three proclamations on July 20 imposing an additional 50% tariff on Canadian vehicles, alcoholic beverages and dairy products, invoking a rarely used 1930 trade law, according to Bloomberg and NBC News. The measure, taking effect in 30 days, covers about $20 billion in Canadian exports and excludes energy; legal challenges are expected.",
+      "es": "El presidente Trump firmó el 20 de julio tres proclamaciones que imponen un arancel adicional del 50 % a los vehículos, bebidas alcohólicas y productos lácteos canadienses, invocando una ley comercial de 1930 poco utilizada, según Bloomberg y NBC News. La medida, que entrará en vigor en 30 días, afecta a unos 20 000 millones de dólares en exportaciones canadienses y excluye la energía; se esperan impugnaciones legales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "La Maison-Blanche annonce les nouveaux droits de douane, citant un traitement jugé discriminatoire envers le commerce américain.",
+          "en": "The White House announces the new tariffs, citing what it calls discriminatory treatment of US commerce.",
+          "es": "La Casa Blanca anuncia los nuevos aranceles, citando un trato que considera discriminatorio hacia el comercio estadounidense."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "usa-paramount-fusion",
+    "coords": [
+      -122.4194,
+      37.7749
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "NPR / Variety / CNBC",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "San Francisco, Californie, États-Unis (tribunal fédéral)",
+      "en": "San Francisco, California, United States (federal court)",
+      "es": "San Francisco, California, Estados Unidos (tribunal federal)"
+    },
+    "title": {
+      "fr": "Une juge fédérale suspend temporairement la fusion à 110 milliards de dollars entre Paramount et Warner Bros. Discovery",
+      "en": "Federal judge temporarily halts $110 billion Paramount–Warner Bros. Discovery merger",
+      "es": "Una jueza federal suspende temporalmente la fusión de 110 000 millones de dólares entre Paramount y Warner Bros. Discovery"
+    },
+    "summary": {
+      "fr": "La juge fédérale Araceli Martínez-Olguin a accordé le 20 juillet une injonction temporaire suspendant pour au moins deux semaines la fusion entre Paramount Skydance et Warner Bros. Discovery, à la demande d'une douzaine de procureurs généraux démocrates estimant que l'opération à 110 milliards de dollars nuirait à la concurrence dans les médias, selon NPR et Variety. Une audience sur une injonction plus longue est prévue le 3 août.",
+      "en": "Federal Judge Araceli Martínez-Olguin granted a temporary restraining order on July 20 pausing the Paramount Skydance–Warner Bros. Discovery merger for at least two weeks, at the request of a dozen Democratic state attorneys general who argue the $110 billion deal would harm competition in media, according to NPR and Variety. A hearing on a longer injunction is set for August 3.",
+      "es": "La jueza federal Araceli Martínez-Olguin concedió el 20 de julio una orden de restricción temporal que suspende durante al menos dos semanas la fusión entre Paramount Skydance y Warner Bros. Discovery, a petición de una docena de fiscales generales demócratas que argumentan que el acuerdo de 110 000 millones de dólares perjudicaría la competencia en los medios, según NPR y Variety. Una audiencia sobre una orden más prolongada está prevista para el 3 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal fédéral du district nord de Californie ordonne la suspension temporaire de la fusion.",
+          "en": "The federal court for the Northern District of California orders the temporary suspension of the merger.",
+          "es": "El tribunal federal del Distrito Norte de California ordena la suspensión temporal de la fusión."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "mondial2026-finale-espagne-argentine",
+    "coords": [
+      -74.0745,
+      40.8135
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FIFA / ESPN / NBC News",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Stade de New York/New Jersey (MetLife Stadium), États-Unis",
+      "en": "New York/New Jersey Stadium (MetLife Stadium), United States",
+      "es": "Estadio de Nueva York/Nueva Jersey (MetLife Stadium), Estados Unidos"
+    },
+    "title": {
+      "fr": "L'Espagne remporte la Coupe du monde 2026 face à l'Argentine",
+      "en": "Spain wins the 2026 World Cup against Argentina",
+      "es": "España gana el Mundial 2026 ante Argentina"
+    },
+    "summary": {
+      "fr": "L'Espagne a battu l'Argentine 1-0 après prolongation en finale de la Coupe du monde 2026, le 19 juillet au MetLife Stadium, sur un but de Ferran Torres à la 106e minute, selon la FIFA. C'est le deuxième titre mondial espagnol après 2010, et l'Espagne devient la première équipe à détenir simultanément les titres masculin et féminin. Il s'agissait probablement de la dernière Coupe du monde de Lionel Messi, âgé de 39 ans.",
+      "en": "Spain defeated Argentina 1-0 after extra time in the 2026 World Cup final on July 19 at MetLife Stadium, with Ferran Torres scoring in the 106th minute, according to FIFA. It is Spain's second World Cup title after 2010, and Spain becomes the first team to hold both the men's and women's titles simultaneously. It was likely the last World Cup for 39-year-old Lionel Messi.",
+      "es": "España venció a Argentina 1-0 tras la prórroga en la final del Mundial 2026, el 19 de julio en el MetLife Stadium, con un gol de Ferran Torres en el minuto 106, según la FIFA. Es el segundo título mundial de España tras el de 2010, y España se convierte en el primer combinado en ostentar a la vez los títulos masculino y femenino. Fue probablemente el último Mundial de Lionel Messi, de 39 años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "L'Espagne remporte la finale 1-0 après prolongation grâce à un but de Ferran Torres.",
+          "en": "Spain wins the final 1-0 after extra time thanks to a goal from Ferran Torres.",
+          "es": "España gana la final 1-0 tras la prórroga gracias a un gol de Ferran Torres."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "mondial2026-bresil-norvege"
+    ]
+  },
+  {
+    "id": "nigeria-ansaru-condamnation",
+    "coords": [
+      7.399,
+      9.077
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Premium Times / Daily Post Nigeria",
+    "week": "2026-W30",
+    "priority": 3,
+    "place": {
+      "fr": "Haute Cour fédérale d'Abuja, Nigeria",
+      "en": "Federal High Court, Abuja, Nigeria",
+      "es": "Tribunal Federal Superior de Abuja, Nigeria"
+    },
+    "title": {
+      "fr": "Deux commandants du groupe terroriste Ansaru condamnés à perpétuité au Nigeria",
+      "en": "Two Ansaru terrorist commanders sentenced to life imprisonment in Nigeria",
+      "es": "Dos comandantes del grupo terrorista Ansaru condenados a cadena perpetua en Nigeria"
+    },
+    "summary": {
+      "fr": "La Haute Cour fédérale d'Abuja a condamné le 20 juillet Abubakar Abba et Mahmud Usman, deux commandants du groupe lié à Al-Qaïda Ansaru, à la prison à vie après leur plaidoyer de culpabilité pour des faits liés à l'évasion de la prison de Kuje en 2022 et à l'enlèvement en 2013 d'un ingénieur français, selon Premium Times. Les services de sécurité de l'État (DSS) ont annoncé vouloir faire appel, jugeant la peine trop clémente.",
+      "en": "The Federal High Court in Abuja sentenced Abubakar Abba and Mahmud Usman, two commanders of the Al-Qaeda-linked group Ansaru, to life imprisonment on July 20 after they pleaded guilty to charges linked to the 2022 Kuje prison break and the 2013 kidnapping of a French engineer, according to Premium Times. Nigeria's State Security Service (DSS) said it plans to appeal, arguing the sentence is too lenient.",
+      "es": "El Tribunal Federal Superior de Abuja condenó el 20 de julio a Abubakar Abba y Mahmud Usman, dos comandantes del grupo vinculado a Al Qaeda Ansaru, a cadena perpetua tras declararse culpables de cargos relacionados con la fuga de la prisión de Kuje en 2022 y el secuestro en 2013 de un ingeniero francés, según Premium Times. El Servicio de Seguridad del Estado (DSS) de Nigeria anunció que apelará, alegando que la pena es demasiado leve."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Emeka Nwite prononce la condamnation à perpétuité des deux commandants.",
+          "en": "Justice Emeka Nwite hands down the life sentences for the two commanders.",
+          "es": "El juez Emeka Nwite dicta la cadena perpetua para los dos comandantes."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "egypte-fmi-croissance",
+    "coords": [
+      31.236,
+      30.044
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "FMI / Ahram Online",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Le FMI relève ses prévisions de croissance pour l'Égypte, réserves de change record",
+      "en": "IMF raises growth forecast for Egypt as foreign reserves hit record high",
+      "es": "El FMI eleva sus previsiones de crecimiento para Egipto, con reservas de divisas récord"
+    },
+    "summary": {
+      "fr": "Le FMI a relevé mi-juillet à 4,6 % sa prévision de croissance du PIB égyptien pour 2026, tout en alertant sur une contraction régionale liée à la guerre entre Israël et l'Iran, selon Ahram Online. Les réserves de change du pays ont par ailleurs dépassé pour la première fois les 55 milliards de dollars en juin, même si la hausse des prix du pétrole pèse sur la facture énergétique.",
+      "en": "The IMF raised its 2026 GDP growth forecast for Egypt to 4.6% in mid-July, while warning of a regional contraction linked to the Israel-Iran war, according to Ahram Online. The country's foreign currency reserves also topped $55 billion for the first time in June, even as rising oil prices weigh on its energy import bill.",
+      "es": "El FMI elevó a mediados de julio su previsión de crecimiento del PIB egipcio para 2026 al 4,6 %, mientras advertía de una contracción regional vinculada a la guerra entre Israel e Irán, según Ahram Online. Las reservas de divisas del país superaron además por primera vez los 55 000 millones de dólares en junio, aunque el aumento de los precios del petróleo presiona la factura energética."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Mi-juillet 2026",
+          "en": "Mid-July 2026",
+          "es": "Mediados de julio de 2026"
+        },
+        "d": {
+          "fr": "Le FMI publie sa mise à jour des perspectives économiques mondiales relevant la croissance égyptienne à 4,6 %.",
+          "en": "The IMF publishes its World Economic Outlook update raising Egypt's growth forecast to 4.6%.",
+          "es": "El FMI publica su actualización de perspectivas económicas mundiales que eleva la previsión de crecimiento de Egipto al 4,6 %."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "inde-cachemire-glissements",
+    "coords": [
+      74.0942,
+      33.7739
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / Kashmir Observer",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "District de Poonch, Jammu-et-Cachemire, Inde",
+      "en": "Poonch district, Jammu and Kashmir, India",
+      "es": "Distrito de Poonch, Jammu y Cachemira, India"
+    },
+    "title": {
+      "fr": "Des coulées de boue et crues éclair font au moins 27 morts au Jammu-et-Cachemire",
+      "en": "Mudslides and flash floods kill at least 27 in Jammu and Kashmir",
+      "es": "Deslizamientos de lodo y crecidas repentinas dejan al menos 27 muertos en Jammu y Cachemira"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson ont provoqué des glissements de terrain et des crues éclair dans les districts de Poonch, Rajouri et Doda entre le 18 et le 20 juillet, selon Al Jazeera. Deux glissements de terrain distincts ont enseveli des habitations dans le district de Poonch, tuant 15 membres de deux familles ; le bilan national de cet épisode de pluie atteint environ 27 morts, avec des personnes toujours portées disparues. Les autorités ont suspendu les principaux pèlerinages himalayens.",
+      "en": "Heavy monsoon rain triggered landslides and flash floods in Poonch, Rajouri and Doda districts between July 18 and 20, according to Al Jazeera. Two separate landslides buried homes in Poonch district, killing 15 members of two families; the national toll from this rain spell stands at around 27 dead, with people still missing. Authorities suspended major Himalayan pilgrimages.",
+      "es": "Fuertes lluvias monzónicas provocaron deslizamientos de tierra y crecidas repentinas en los distritos de Poonch, Rajouri y Doda entre el 18 y el 20 de julio, según Al Jazeera. Dos deslizamientos distintos sepultaron viviendas en el distrito de Poonch, matando a 15 miembros de dos familias; el balance nacional de este episodio de lluvias asciende a unos 27 muertos, con personas aún desaparecidas. Las autoridades suspendieron las principales peregrinaciones del Himalaya."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-20/07/2026",
+          "en": "19-20/07/2026",
+          "es": "19-20/07/2026"
+        },
+        "d": {
+          "fr": "Des glissements de terrain ensevelissent des maisons dans les villages de Loran Dumilan et Murrah, district de Poonch.",
+          "en": "Landslides bury homes in Loran Dumilan and Murrah villages, Poonch district.",
+          "es": "Deslizamientos sepultan viviendas en las aldeas de Loran Dumilan y Murrah, distrito de Poonch."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "pakistan-khyber-inondations",
+    "coords": [
+      71.0269,
+      34.1136
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "The Express Tribune / Daily Times",
+    "week": "2026-W30",
+    "priority": 3,
+    "place": {
+      "fr": "Landi Kotal, district de Khyber, Khyber Pakhtunkhwa, Pakistan",
+      "en": "Landi Kotal, Khyber district, Khyber Pakhtunkhwa, Pakistan",
+      "es": "Landi Kotal, distrito de Khyber, Khyber Pakhtunkhwa, Pakistán"
+    },
+    "title": {
+      "fr": "Des crues éclair font au moins six morts dans le district de Khyber, au Pakistan",
+      "en": "Flash floods kill at least six in Khyber district, Pakistan",
+      "es": "Crecidas repentinas dejan al menos seis muertos en el distrito de Khyber, Pakistán"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson ont provoqué des crues éclair dans le district de Khyber les 19 et 20 juillet, selon The Express Tribune. Un véhicule transportant 16 personnes a été emporté près de Landi Kotal ; trois ressortissants afghans sont morts, tandis que les secours en sauvaient treize. Le bilan dans le district s'élève à au moins six morts. L'agence nationale de gestion des catastrophes (NDMA) a averti d'un risque persistant de crues et de glissements de terrain jusqu'au 24-25 juillet dans le nord du pays.",
+      "en": "Heavy monsoon rain caused flash floods in Khyber district on July 19-20, according to The Express Tribune. A vehicle carrying 16 people was swept away near Landi Kotal; three Afghan nationals died while rescuers saved thirteen. The district's toll stands at at least six dead. Pakistan's National Disaster Management Authority warned of continued flood and landslide risk in the north through July 24-25.",
+      "es": "Fuertes lluvias monzónicas provocaron crecidas repentinas en el distrito de Khyber el 19 y 20 de julio, según The Express Tribune. Un vehículo con 16 personas fue arrastrado cerca de Landi Kotal; tres ciudadanos afganos murieron mientras los rescatistas salvaban a otros trece. El balance en el distrito es de al menos seis muertos. La Autoridad Nacional de Gestión de Desastres de Pakistán advirtió de un riesgo continuo de inundaciones y deslizamientos en el norte hasta el 24-25 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-20/07/2026",
+          "en": "19-20/07/2026",
+          "es": "19-20/07/2026"
+        },
+        "d": {
+          "fr": "Les secours 1122 sauvent 13 personnes d'un véhicule emporté par les eaux à Niki Khel ; trois passagers afghans meurent.",
+          "en": "Rescue 1122 saves 13 people from a vehicle swept away at Niki Khel; three Afghan passengers die.",
+          "es": "El servicio de rescate 1122 salva a 13 personas de un vehículo arrastrado en Niki Khel; mueren tres pasajeros afganos."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bangladesh-extradition-kamal",
+    "coords": [
+      90.4125,
+      23.8103
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Daily Star / Dhaka Tribune",
+    "week": "2026-W30",
+    "priority": 3,
+    "place": {
+      "fr": "Dacca, Bangladesh",
+      "en": "Dhaka, Bangladesh",
+      "es": "Daca, Bangladesh"
+    },
+    "title": {
+      "fr": "Le Bangladesh demande à l'Inde l'extradition de son ex-ministre de l'Intérieur",
+      "en": "Bangladesh formally seeks extradition of former home minister from India",
+      "es": "Bangladesh solicita a India la extradición de su exministro del Interior"
+    },
+    "summary": {
+      "fr": "Le gouvernement intérimaire du Bangladesh a envoyé une demande formelle d'extradition à New Delhi visant l'ex-ministre de l'Intérieur Asaduzzaman Khan Kamal, condamné à mort par contumace par le Tribunal international des crimes pour la répression du soulèvement de 2024, selon The Daily Star. Kamal, comme l'ex-Première ministre Sheikh Hasina, vit en exil en Inde depuis août 2024.",
+      "en": "Bangladesh's interim government sent a formal extradition request to New Delhi for former Home Minister Asaduzzaman Khan Kamal, sentenced to death in absentia by the International Crimes Tribunal over the crackdown on the 2024 uprising, according to The Daily Star. Kamal, like former Prime Minister Sheikh Hasina, has lived in exile in India since August 2024.",
+      "es": "El gobierno interino de Bangladesh envió una solicitud formal de extradición a Nueva Delhi por el exministro del Interior Asaduzzaman Khan Kamal, condenado a muerte en ausencia por el Tribunal Internacional de Crímenes por la represión del levantamiento de 2024, según The Daily Star. Kamal, al igual que la ex primera ministra Sheikh Hasina, vive exiliado en India desde agosto de 2024."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20-21/07/2026",
+          "en": "20-21/07/2026",
+          "es": "20-21/07/2026"
+        },
+        "d": {
+          "fr": "La ministre d'État aux Affaires étrangères Shama Obaed Islam confirme l'envoi de la demande d'extradition.",
+          "en": "State Minister for Foreign Affairs Shama Obaed Islam confirms the extradition request has been sent.",
+          "es": "La ministra de Estado de Asuntos Exteriores, Shama Obaed Islam, confirma el envío de la solicitud de extradición."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "inde-cour-supreme-attentat1996",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "LiveLaw / Deccan Herald",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Cour suprême, New Delhi, Inde",
+      "en": "Supreme Court, New Delhi, India",
+      "es": "Tribunal Supremo, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "La Cour suprême indienne annule une condamnation à mort dans l'attentat de 1996 contre un bus au Rajasthan",
+      "en": "India's Supreme Court overturns death sentence in 1996 Rajasthan bus bombing",
+      "es": "El Tribunal Supremo de India anula una condena a muerte por el atentado de 1996 contra un autobús en Rajastán"
+    },
+    "summary": {
+      "fr": "La Cour suprême indienne a annulé le 21 juillet la condamnation à mort d'Abdul Hameed, reconnu coupable de l'attentat de 1996 contre un bus près du village de Samleti, au Rajasthan, qui avait fait 14 morts et 37 blessés, selon LiveLaw. La Cour a estimé qu'il n'avait pas bénéficié d'une défense effective et a ordonné un nouveau procès devant un tribunal spécial de Jaipur dans un délai d'un an ; un coaccusé a par ailleurs été acquitté.",
+      "en": "India's Supreme Court overturned the death sentence of Abdul Hameed on July 21, who was convicted over the 1996 bombing of a bus near Samleti village, Rajasthan, that killed 14 and injured 37, according to LiveLaw. The Court found he had been denied effective legal representation and ordered a fresh trial before a special Jaipur court within one year; a co-accused was separately acquitted.",
+      "es": "El Tribunal Supremo de India anuló el 21 de julio la condena a muerte de Abdul Hameed, declarado culpable del atentado de 1996 contra un autobús cerca de la aldea de Samleti, Rajastán, que dejó 14 muertos y 37 heridos, según LiveLaw. El Tribunal consideró que no había recibido una defensa efectiva y ordenó un nuevo juicio ante un tribunal especial de Jaipur en el plazo de un año; un coacusado fue además absuelto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Un banc de trois juges ordonne un nouveau procès et acquitte un coaccusé.",
+          "en": "A three-judge bench orders a fresh trial and acquits a co-accused.",
+          "es": "Un tribunal de tres jueces ordena un nuevo juicio y absuelve a un coacusado."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "ukraine-kyiv-frappe-massive",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / Al Jazeera / Kyiv Independent",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Kiev subit la plus vaste attaque de missiles balistiques russes depuis le début de la guerre",
+      "en": "Kyiv hit by largest Russian ballistic missile barrage since the war began",
+      "es": "Kiev sufre el mayor ataque de misiles balísticos rusos desde el inicio de la guerra"
+    },
+    "summary": {
+      "fr": "La Russie a tiré environ 41 missiles balistiques et hypersoniques ainsi que 125 drones sur Kiev dans la nuit du 18 au 19 juillet, ce que le ministère ukrainien des Affaires étrangères a qualifié de plus vaste attaque de missiles sur la capitale depuis 2022, selon CNN et Al Jazeera. La défense antiaérienne ukrainienne dit avoir intercepté près de la moitié des missiles et la majorité des drones ; au moins une personne est morte et 16 ont été blessées, des immeubles résidentiels ayant été endommagés.",
+      "en": "Russia fired around 41 ballistic and hypersonic missiles along with 125 drones at Kyiv overnight on July 18-19, which Ukraine's foreign ministry called the largest missile barrage on the capital since 2022, according to CNN and Al Jazeera. Ukrainian air defenses say they intercepted close to half the missiles and most of the drones; at least one person died and 16 were wounded, with residential buildings damaged.",
+      "es": "Rusia disparó unos 41 misiles balísticos e hipersónicos junto con 125 drones contra Kiev en la noche del 18 al 19 de julio, lo que el Ministerio de Asuntos Exteriores de Ucrania calificó como el mayor ataque de misiles contra la capital desde 2022, según CNN y Al Jazeera. La defensa aérea ucraniana afirma haber interceptado cerca de la mitad de los misiles y la mayoría de los drones; al menos una persona murió y 16 resultaron heridas, con edificios residenciales dañados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18-19/07/2026",
+          "en": "18-19/07/2026",
+          "es": "18-19/07/2026"
+        },
+        "d": {
+          "fr": "Le ministre ukrainien des Affaires étrangères Andrii Sybiha dénonce la plus vaste attaque de missiles sur Kiev depuis le début de la guerre.",
+          "en": "Ukrainian Foreign Minister Andrii Sybiha denounces the largest missile attack on Kyiv since the war began.",
+          "es": "El ministro de Asuntos Exteriores ucraniano, Andrii Sybiha, denuncia el mayor ataque de misiles contra Kiev desde el inicio de la guerra."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "id": "italie-bijoutier-condamnation",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "La Sicilia / Il Sole 24 Ore",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Cour de cassation, Rome, Italie",
+      "en": "Court of Cassation, Rome, Italy",
+      "es": "Corte de Casación, Roma, Italia"
+    },
+    "title": {
+      "fr": "La justice italienne confirme la peine d'un bijoutier ayant tué deux braqueurs, provoquant une controverse politique",
+      "en": "Italian court finalizes sentence for jeweler who killed two robbers, sparking political controversy",
+      "es": "La justicia italiana confirma la condena de un joyero que mató a dos ladrones, generando polémica política"
+    },
+    "summary": {
+      "fr": "La Cour de cassation italienne a rejeté le 15 juillet le dernier recours du bijoutier Mario Roggero, rendant définitive sa peine de 14 ans et 9 mois de prison pour avoir tué en 2021 deux braqueurs de sa bijouterie, avec 780 000 euros de dommages et intérêts, selon La Sicilia. Le vice-Premier ministre Matteo Salvini a qualifié la peine d'\"injuste\" le 17 juillet et promis de plaider pour une grâce, relançant le débat sur la légitime défense en Italie.",
+      "en": "Italy's Court of Cassation rejected jeweler Mario Roggero's final appeal on July 15, making definitive his 14-year, 9-month sentence for killing two robbers of his store in 2021, along with €780,000 in damages, according to La Sicilia. Deputy Prime Minister Matteo Salvini called the sentence \"unjust\" on July 17 and pledged to push for clemency, reigniting debate over self-defense law in Italy.",
+      "es": "La Corte de Casación italiana rechazó el 15 de julio el último recurso del joyero Mario Roggero, haciendo definitiva su condena de 14 años y 9 meses de prisión por matar en 2021 a dos ladrones de su joyería, junto con 780 000 euros en daños, según La Sicilia. El viceprimer ministro Matteo Salvini calificó la condena de \"injusta\" el 17 de julio y prometió abogar por un indulto, reavivando el debate sobre la legítima defensa en Italia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "La Cour de cassation rejette le pourvoi de Mario Roggero, qui commence à purger sa peine à la prison de Bollate.",
+          "en": "The Court of Cassation rejects Mario Roggero's appeal; he begins serving his sentence at Bollate prison.",
+          "es": "La Corte de Casación rechaza el recurso de Mario Roggero, quien comienza a cumplir su condena en la prisión de Bollate."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "bresil-cour-supreme-milei",
+    "coords": [
+      -47.78,
+      -15.87
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 24 / Bloomberg",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La Cour suprême brésilienne interdit à Javier Milei de rendre visite à Jair Bolsonaro",
+      "en": "Brazil's Supreme Court bars Javier Milei from visiting Jair Bolsonaro",
+      "es": "El Tribunal Supremo de Brasil prohíbe a Javier Milei visitar a Jair Bolsonaro"
+    },
+    "summary": {
+      "fr": "Le juge de la Cour suprême Alexandre de Moraes a interdit le 18 juillet au président argentin Javier Milei de rendre visite à l'ex-président brésilien Jair Bolsonaro, assigné à résidence après sa condamnation pour tentative de coup d'État, selon France 24. Le juge a également interdit toute visite à Bolsonaro pendant 30 jours, après la publication sur les réseaux sociaux d'une lettre jugée contraire à une injonction lui interdisant toute communication politique.",
+      "en": "Supreme Court Justice Alexandre de Moraes barred Argentine President Javier Milei on July 18 from visiting former Brazilian president Jair Bolsonaro, who is under house arrest following his conviction over an attempted coup, according to France 24. The justice also banned all visitors to Bolsonaro for 30 days, after a letter published on social media was deemed to violate an injunction barring him from political communication.",
+      "es": "El juez del Tribunal Supremo Alexandre de Moraes prohibió el 18 de julio al presidente argentino Javier Milei visitar al expresidente brasileño Jair Bolsonaro, bajo arresto domiciliario tras su condena por intento de golpe de Estado, según France 24. El juez también prohibió cualquier visita a Bolsonaro durante 30 días, después de que una carta publicada en redes sociales se considerara una violación de una orden que le prohíbe comunicación política."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes rend sa décision, quelques jours avant un congrès du parti de Bolsonaro à São Paulo.",
+          "en": "Justice Alexandre de Moraes issues his ruling, days before a convention of Bolsonaro's party in São Paulo.",
+          "es": "El juez Alexandre de Moraes dicta su decisión, días antes de una convención del partido de Bolsonaro en São Paulo."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "chili-inondations-etat-urgence",
+    "coords": [
+      -70.76,
+      -28.57
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / AFP",
+    "week": "2026-W30",
+    "priority": 3,
+    "place": {
+      "fr": "Région de Coquimbo et province de Huasco (région d'Atacama), nord du Chili",
+      "en": "Coquimbo Region and Huasco Province (Atacama Region), northern Chile",
+      "es": "Región de Coquimbo y provincia de Huasco (región de Atacama), norte de Chile"
+    },
+    "title": {
+      "fr": "Des inondations liées à El Niño font au moins 10 morts dans le nord du Chili",
+      "en": "El Niño-linked floods kill at least 10 in northern Chile",
+      "es": "Inundaciones ligadas a El Niño dejan al menos 10 muertos en el norte de Chile"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles inhabituelles, liées à El Niño, se sont abattues depuis le 15 juillet sur les régions arides du nord du Chili, faisant au moins 10 morts, 17 blessés et 4 disparus selon un bilan du service national des urgences (Senapred) au 21 juillet, selon Al Jazeera et l'AFP. Plus de 1100 habitations ont été détruites ou endommagées et plus de 100 000 personnes isolées ; le président José Antonio Kast a déclaré l'état de catastrophe dans les régions de Coquimbo et de Huasco.",
+      "en": "Unusually intense El Niño-linked rainfall has struck Chile's arid northern regions since July 15, killing at least 10 people, injuring 17 and leaving 4 missing according to a July 21 update from the national emergency service (Senapred), according to Al Jazeera and AFP. More than 1,100 homes were destroyed or damaged and over 100,000 people were left isolated; President José Antonio Kast declared a state of catastrophe in the Coquimbo and Huasco regions.",
+      "es": "Lluvias torrenciales inusualmente intensas, vinculadas a El Niño, han azotado desde el 15 de julio las áridas regiones del norte de Chile, dejando al menos 10 muertos, 17 heridos y 4 desaparecidos según un balance del Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) al 21 de julio, según Al Jazeera y AFP. Más de 1100 viviendas resultaron destruidas o dañadas y más de 100 000 personas quedaron aisladas; el presidente José Antonio Kast declaró el estado de catástrofe en las regiones de Coquimbo y Huasco."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Le Senapred porte le bilan à 10 morts, 17 blessés et 4 disparus ; l'armée est déployée dans les zones sinistrées.",
+          "en": "Senapred raises the toll to 10 dead, 17 injured and 4 missing; the military is deployed to affected areas.",
+          "es": "Senapred eleva el balance a 10 muertos, 17 heridos y 4 desaparecidos; el ejército es desplegado en las zonas afectadas."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "chine-pib-ralentissement",
+    "coords": [
+      116.41,
+      39.9
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Bureau national des statistiques de Chine / CNBC",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La croissance chinoise ralentit à 4,3 % au deuxième trimestre, sous les prévisions",
+      "en": "China's growth slows to 4.3% in the second quarter, missing forecasts",
+      "es": "El crecimiento chino se desacelera al 4,3 % en el segundo trimestre, por debajo de lo previsto"
+    },
+    "summary": {
+      "fr": "Le Bureau national des statistiques chinois a annoncé le 15 juillet une croissance du PIB de 4,3 % sur un an au deuxième trimestre 2026, sous la prévision de 4,5 % et en net recul par rapport aux 5,0 % du premier trimestre, selon CNBC. Il s'agit du rythme trimestriel le plus faible depuis 2022, la faiblesse de la consommation intérieure n'étant que partiellement compensée par des exportations résilientes.",
+      "en": "China's National Bureau of Statistics announced on July 15 that GDP grew 4.3% year-on-year in the second quarter of 2026, below the 4.5% forecast and a sharp slowdown from 5.0% in the first quarter, according to CNBC. It is the weakest quarterly pace since 2022, with weak domestic consumption only partly offset by resilient exports.",
+      "es": "La Oficina Nacional de Estadísticas de China anunció el 15 de julio que el PIB creció un 4,3 % interanual en el segundo trimestre de 2026, por debajo de la previsión del 4,5 % y en fuerte desaceleración frente al 5,0 % del primer trimestre, según CNBC. Es el ritmo trimestral más débil desde 2022, con un consumo interno débil solo parcialmente compensado por unas exportaciones resilientes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "15/07/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "Le Bureau national des statistiques publie les chiffres du PIB du deuxième trimestre.",
+          "en": "The National Bureau of Statistics releases second-quarter GDP figures.",
+          "es": "La Oficina Nacional de Estadísticas publica las cifras del PIB del segundo trimestre."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "coree-sud-inondations-mousson",
+    "coords": [
+      128.7,
+      36.35
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "The Korea Herald / Korea JoongAng Daily",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Comté d'Uiseong, province du Gyeongsang du Nord, Corée du Sud",
+      "en": "Uiseong County, North Gyeongsang Province, South Korea",
+      "es": "Condado de Uiseong, provincia de Gyeongsang del Norte, Corea del Sur"
+    },
+    "title": {
+      "fr": "De fortes pluies de mousson inondent le Gyeongsang du Nord, dont des logements de sinistrés des incendies de 2025",
+      "en": "Heavy monsoon rain floods North Gyeongsang, including 2025 wildfire survivors' housing",
+      "es": "Fuertes lluvias monzónicas inundan Gyeongsang del Norte, incluidas viviendas de damnificados por los incendios de 2025"
+    },
+    "summary": {
+      "fr": "Quatre jours de pluies torrentielles ont provoqué inondations et coulées de boue dans le centre et le sud-est de la Corée du Sud du 17 au 19 juillet, selon le Korea Herald. Le comté d'Uiseong, dans le Gyeongsang du Nord, a été le plus touché : 23 logements temporaires construits pour les sinistrés des incendies de 2025 ont été inondés, 441 personnes évacuées au niveau national et une soixantaine secourues. Aucun décès n'a été signalé.",
+      "en": "Four days of torrential rain caused flooding and landslides across central and southeastern South Korea from July 17-19, according to the Korea Herald. Uiseong County in North Gyeongsang was hit hardest: 23 temporary housing units built for 2025 wildfire survivors were flooded, 441 people were evacuated nationwide, and about 70 were rescued. No deaths were reported.",
+      "es": "Cuatro días de lluvias torrenciales provocaron inundaciones y deslizamientos en el centro y sureste de Corea del Sur del 17 al 19 de julio, según el Korea Herald. El condado de Uiseong, en Gyeongsang del Norte, fue el más afectado: 23 viviendas temporales construidas para los damnificados por los incendios de 2025 quedaron inundadas, 441 personas fueron evacuadas a nivel nacional y unas 70 fueron rescatadas. No se reportaron muertes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-19/07/2026",
+          "en": "17-19/07/2026",
+          "es": "17-19/07/2026"
+        },
+        "d": {
+          "fr": "La nouvelle Première ministre Han Seong-sook se rend sur place et ordonne des opérations de secours d'urgence.",
+          "en": "New Prime Minister Han Seong-sook visits the region and orders emergency recovery operations.",
+          "es": "La nueva primera ministra Han Seong-sook visita la zona y ordena operaciones de recuperación de emergencia."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "japon-niigata-incendie-brasserie",
+    "coords": [
+      138.87,
+      37.78
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "News On Japan / Nippon.com (Jiji Press)",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Quartier de Takenomachi, arrondissement de Nishikan, ville de Niigata, Japon",
+      "en": "Takenomachi, Nishikan Ward, Niigata City, Japan",
+      "es": "Takenomachi, distrito de Nishikan, ciudad de Niigata, Japón"
+    },
+    "title": {
+      "fr": "Un incendie détruit une brasserie de saké centenaire à Niigata et se propage à des habitations",
+      "en": "Fire destroys century-old sake brewery in Niigata, spreads to nearby homes",
+      "es": "Un incendio destruye una centenaria fábrica de sake en Niigata y se propaga a viviendas cercanas"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré le 19 juillet vers 16h30 à la brasserie de saké Echigo Tsurukame, fondée en 1890, dans le quartier de Takenomachi à Niigata, selon News On Japan. Le feu a détruit la brasserie et s'est propagé à au moins six habitations voisines dans ce quartier résidentiel dense ; 19 véhicules de pompiers ont été mobilisés et aucun blessé n'a été signalé.",
+      "en": "A fire broke out around 4:30 p.m. on July 19 at the Echigo Tsurukame sake brewery, founded in 1890, in the Takenomachi district of Niigata, according to News On Japan. The blaze destroyed the brewery and spread to at least six neighboring homes in the densely populated area; 19 fire trucks were dispatched and no injuries were reported.",
+      "es": "Un incendio se declaró alrededor de las 16:30 del 19 de julio en la fábrica de sake Echigo Tsurukame, fundada en 1890, en el barrio de Takenomachi de Niigata, según News On Japan. El fuego destruyó la fábrica y se propagó a al menos seis viviendas vecinas en esta zona residencial densa; se movilizaron 19 camiones de bomberos y no se reportaron heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-20/07/2026",
+          "en": "19-20/07/2026",
+          "es": "19-20/07/2026"
+        },
+        "d": {
+          "fr": "Les pompiers maîtrisent le feu principal en environ deux heures mais poursuivent les opérations de nettoyage jusqu'au lendemain.",
+          "en": "Firefighters bring the main blaze under control in about two hours but continue mop-up operations into the next day.",
+          "es": "Los bomberos controlan el foco principal en unas dos horas, pero continúan las labores de remate hasta el día siguiente."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "id": "indonesie-cour-constitutionnelle-mines",
+    "coords": [
+      106.83,
+      -6.18
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Jakarta Post",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "La Cour constitutionnelle indonésienne interdit l'attribution directe de permis miniers",
+      "en": "Indonesia's Constitutional Court bars direct award of mining permits",
+      "es": "El Tribunal Constitucional de Indonesia prohíbe la adjudicación directa de permisos mineros"
+    },
+    "summary": {
+      "fr": "La Cour constitutionnelle indonésienne a jugé le 17 juillet que le gouvernement ne pouvait plus attribuer directement des permis miniers à des bénéficiaires désignés, y compris des organisations religieuses ou des universités, et devait recourir à un processus de sélection transparent, selon le Jakarta Post, seule source identifiée à ce stade pour cette décision.",
+      "en": "Indonesia's Constitutional Court ruled on July 17 that the government can no longer directly award mining permits to hand-picked recipients, including religious organizations or universities, and must instead use a transparent selection process, according to the Jakarta Post, the only source identified so far for this ruling.",
+      "es": "El Tribunal Constitucional de Indonesia dictaminó el 17 de julio que el gobierno ya no puede adjudicar directamente permisos mineros a beneficiarios designados, incluidas organizaciones religiosas o universidades, y debe recurrir a un proceso de selección transparente, según The Jakarta Post, única fuente identificada hasta el momento para esta decisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "La Cour constitutionnelle rend sa décision sur la loi révisée relative aux mines et au charbon.",
+          "en": "The Constitutional Court issues its ruling on the revised Mineral and Coal Mining Law.",
+          "es": "El Tribunal Constitucional dicta su fallo sobre la ley revisada de minería y carbón."
+        },
+        "active": true
+      }
+    ],
+    "related": []
   }
 ]
