@@ -829,5 +829,874 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "nyc-incendie-federal",
+    "coords": [
+      -74.0021,
+      40.7143
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "ABC News / CNN / CBS News",
+    "place": {
+      "fr": "26 Federal Plaza, Manhattan, New York, États-Unis",
+      "en": "26 Federal Plaza, Manhattan, New York, United States",
+      "es": "26 Federal Plaza, Manhattan, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un vétéran de l'armée met le feu devant un bâtiment fédéral à New York",
+      "en": "Army veteran sets fire outside a federal building in New York",
+      "es": "Un veterano del ejército provoca un incendio frente a un edificio federal en Nueva York"
+    },
+    "summary": {
+      "fr": "Un vétéran de l'armée américaine de 43 ans, identifié comme Andrew Arrabaca, a aspergé d'essence l'entrée réservée aux employés du bâtiment fédéral du 26 Federal Plaza, qui abrite des bureaux du FBI et de l'ICE, avant d'y mettre le feu le lundi 20 juillet, selon le FBI cité par ABC News et CNN. Il portait sur lui six engins incendiaires, des haches, une machette et des couteaux, ainsi qu'une pancarte hostile à l'ICE. Un civil et deux employés fédéraux ont été blessés ; le suspect a été arrêté et sa mise en liberté sous caution a été refusée.",
+      "en": "A 43-year-old U.S. Army veteran, identified as Andrew Arrabaca, doused the employee entrance of the federal building at 26 Federal Plaza, which houses FBI and ICE offices, with gasoline and set it on fire on Monday, July 20, according to the FBI cited by ABC News and CNN. He was carrying six incendiary devices, axes, a machete and knives, as well as a sign hostile to ICE. One civilian and two federal employees were injured; the suspect was arrested and denied bail.",
+      "es": "Un veterano del ejército estadounidense de 43 años, identificado como Andrew Arrabaca, roció con gasolina la entrada de empleados del edificio federal del 26 de Federal Plaza, que alberga oficinas del FBI y del ICE, y le prendió fuego el lunes 20 de julio, según el FBI citado por ABC News y CNN. Llevaba consigo seis artefactos incendiarios, hachas, un machete y cuchillos, además de un cartel hostil al ICE. Un civil y dos empleados federales resultaron heridos; el sospechoso fue detenido y se le negó la libertad bajo fianza."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026, vers 8h30",
+          "en": "20/07/2026, around 8:30 AM",
+          "es": "20/07/2026, hacia las 8:30"
+        },
+        "d": {
+          "fr": "Le FBI annonce l'arrestation d'un suspect après l'incendie déclenché devant le bâtiment fédéral de Manhattan.",
+          "en": "The FBI announces the arrest of a suspect after the fire set outside the Manhattan federal building.",
+          "es": "El FBI anuncia la detención de un sospechoso tras el incendio provocado frente al edificio federal de Manhattan."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "usa-tarifs-canada",
+    "coords": [
+      -77.0365,
+      38.8977
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "NPR / The Washington Post / Maison-Blanche",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Donald Trump impose des droits de douane de 50 % sur plusieurs produits canadiens",
+      "en": "Donald Trump imposes 50% tariffs on several Canadian goods",
+      "es": "Donald Trump impone aranceles del 50 % a varios productos canadienses"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a signé les 20 et 21 juillet des décrets imposant des droits de douane de 50 % sur une série de produits canadiens (vin, bâtons de hockey, ciment, automobiles, alcool, produits laitiers), en invoquant pour la première fois la section 338 de la loi douanière de 1930, selon NPR et le Washington Post. L'énergie, la potasse, le poisson et les minéraux critiques sont exclus ; les tarifs entrent en vigueur dans 30 jours. Le premier ministre canadien Mark Carney et les premiers ministres provinciaux ont tenu des discussions d'urgence sur d'éventuelles mesures de rétorsion.",
+      "en": "U.S. President Donald Trump signed proclamations on July 20 and 21 imposing 50% tariffs on a range of Canadian goods (wine, hockey sticks, cement, automobiles, alcohol, dairy products), invoking Section 338 of the 1930 Tariff Act for the first time, according to NPR and The Washington Post. Energy, potash, fish and critical minerals are excluded; the tariffs take effect in 30 days. Canadian Prime Minister Mark Carney and provincial premiers held emergency talks on possible retaliatory measures.",
+      "es": "El presidente estadounidense Donald Trump firmó el 20 y 21 de julio proclamas que imponen aranceles del 50 % a una serie de productos canadienses (vino, palos de hockey, cemento, automóviles, alcohol, lácteos), invocando por primera vez la sección 338 de la ley arancelaria de 1930, según NPR y The Washington Post. La energía, la potasa, el pescado y los minerales críticos quedan excluidos; los aranceles entrarán en vigor en 30 días. El primer ministro canadiense Mark Carney y los primeros ministros provinciales mantuvieron conversaciones de emergencia sobre posibles medidas de represalia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "La Maison-Blanche publie une fiche officielle confirmant les nouveaux droits de douane sur le Canada.",
+          "en": "The White House publishes an official fact sheet confirming the new tariffs on Canada.",
+          "es": "La Casa Blanca publica una ficha oficial que confirma los nuevos aranceles sobre Canadá."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "shanghai-inondations",
+    "coords": [
+      121.52,
+      31.27
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CNN / South China Morning Post",
+    "place": {
+      "fr": "District de Yangpu, Shanghai, Chine",
+      "en": "Yangpu District, Shanghai, China",
+      "es": "Distrito de Yangpu, Shanghái, China"
+    },
+    "title": {
+      "fr": "De fortes pluies paralysent Shanghai après un déluge record",
+      "en": "Heavy rain paralyzes Shanghai after record downpour",
+      "es": "Fuertes lluvias paralizan Shanghái tras un aguacero récord"
+    },
+    "summary": {
+      "fr": "Des orages ont déversé plus de 200 mm de pluie en cinq heures sur le district de Yangpu, à Shanghai, inondant routes, écoles, stations de métro et commerces souterrains les 19 et 20 juillet, selon CNN et le South China Morning Post. Plus de 70 000 agents des services d'urgence ont été mobilisés dans toute la ville ; le campus de l'université Fudan a été partiellement submergé. Aucun décès ni blessé n'était rapporté par les sources au moment de la publication.",
+      "en": "Thunderstorms dumped more than 200 mm of rain in five hours on Shanghai's Yangpu district, flooding roads, schools, subway stations and underground shops on July 19 and 20, according to CNN and the South China Morning Post. More than 70,000 emergency personnel were deployed across the city; Fudan University's campus was partially submerged. No deaths or injuries had been reported by the sources at the time of publication.",
+      "es": "Fuertes tormentas descargaron más de 200 mm de lluvia en cinco horas sobre el distrito de Yangpu, en Shanghái, inundando calles, escuelas, estaciones de metro y comercios subterráneos los días 19 y 20 de julio, según CNN y el South China Morning Post. Más de 70 000 efectivos de emergencia fueron desplegados en toda la ciudad; el campus de la Universidad de Fudan quedó parcialmente sumergido. Las fuentes no informaron de muertos ni heridos hasta el momento de la publicación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "CNN rapporte l'ampleur des inondations et la mobilisation de 70 000 agents d'urgence à Shanghai.",
+          "en": "CNN reports the scale of the flooding and the deployment of 70,000 emergency personnel in Shanghai.",
+          "es": "CNN informa de la magnitud de las inundaciones y del despliegue de 70 000 efectivos de emergencia en Shanghái."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "japon-nikkei-correction",
+    "coords": [
+      139.69,
+      35.68
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Bloomberg / The Japan Times",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Nikkei subit une correction avant de rebondir sur fond de craintes autour du rallye de l'IA",
+      "en": "Nikkei suffers a correction before rebounding amid AI-rally fears",
+      "es": "El Nikkei sufre una corrección antes de rebotar por temores en torno al rally de la IA"
+    },
+    "summary": {
+      "fr": "L'indice Nikkei 225 a chuté de plus de 4 % le 17 juillet, son pire recul hebdomadaire depuis avril 2025, les investisseurs craignant que le rallye mondial autour de l'intelligence artificielle soit allé trop loin, pénalisant des valeurs comme SoftBank, Tokyo Electron et Kioxia, selon Bloomberg et le Japan Times. L'indice a rebondi de 3,29 % le 20 juillet, porté par l'immobilier, la banque et la technologie.",
+      "en": "The Nikkei 225 index fell more than 4% on July 17, its worst weekly decline since April 2025, as investors worried the global AI rally had gone too far, hitting stocks such as SoftBank, Tokyo Electron and Kioxia, according to Bloomberg and the Japan Times. The index rebounded 3.29% on July 20, lifted by real estate, banking and technology shares.",
+      "es": "El índice Nikkei 225 cayó más del 4 % el 17 de julio, su peor caída semanal desde abril de 2025, ante el temor de los inversores de que el rally mundial en torno a la inteligencia artificial hubiera ido demasiado lejos, golpeando valores como SoftBank, Tokyo Electron y Kioxia, según Bloomberg y The Japan Times. El índice rebotó un 3,29 % el 20 de julio, impulsado por el sector inmobiliario, la banca y la tecnología."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Le Nikkei clôture en hausse de 3,29 %, effaçant une partie de la chute du 17 juillet, selon Bloomberg.",
+          "en": "The Nikkei closes up 3.29%, erasing part of the July 17 drop, according to Bloomberg.",
+          "es": "El Nikkei cierra con una subida del 3,29 %, borrando parte de la caída del 17 de julio, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "coree-mousson-inondations",
+    "coords": [
+      126.98,
+      37.57
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌧️",
+    "source": "The Korea Herald / Korea JoongAng Daily",
+    "place": {
+      "fr": "Séoul et régions environnantes, Corée du Sud",
+      "en": "Seoul and surrounding regions, South Korea",
+      "es": "Seúl y regiones circundantes, Corea del Sur"
+    },
+    "title": {
+      "fr": "De fortes pluies de mousson déclenchent alertes aux inondations et évacuations en Corée du Sud",
+      "en": "Heavy monsoon rain triggers flood warnings and evacuations in South Korea",
+      "es": "Fuertes lluvias monzónicas provocan alertas de inundación y evacuaciones en Corea del Sur"
+    },
+    "summary": {
+      "fr": "Des pluies de mousson atteignant 170 à 200 mm sont tombées les 18 et 19 juillet sur Séoul et les provinces voisines (Gyeonggi, Daegu, Gyeongsang du Nord, Gangwon), provoquant alertes aux inondations, coulées de boue et fermetures de routes, selon le Korea Herald et le Korea JoongAng Daily. Les autorités ont recensé 837 signalements de dégâts et évacué 441 personnes de 338 foyers dans 21 villes et comtés. La Première ministre Han Seong-sook a ordonné des opérations d'urgence ; aucune victime n'était rapportée à ce stade.",
+      "en": "Monsoon rains of 170 to 200 mm fell on July 18 and 19 on Seoul and neighboring provinces (Gyeonggi, Daegu, North Gyeongsang, Gangwon), triggering flood and landslide warnings and road closures, according to the Korea Herald and Korea JoongAng Daily. Authorities logged 837 damage reports and evacuated 441 people from 338 households across 21 cities and counties. Prime Minister Han Seong-sook ordered emergency response operations; no casualties had been reported at this stage.",
+      "es": "Lluvias monzónicas de entre 170 y 200 mm cayeron los días 18 y 19 de julio sobre Seúl y las provincias vecinas (Gyeonggi, Daegu, Gyeongsang del Norte, Gangwon), provocando alertas de inundación y deslizamientos y el cierre de carreteras, según el Korea Herald y el Korea JoongAng Daily. Las autoridades registraron 837 reportes de daños y evacuaron a 441 personas de 338 hogares en 21 ciudades y condados. La primera ministra Han Seong-sook ordenó operaciones de emergencia; hasta el momento no se reportaron víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités sud-coréennes annoncent l'évacuation de 441 personnes après les pluies de mousson.",
+          "en": "South Korean authorities announce the evacuation of 441 people after the monsoon rains.",
+          "es": "Las autoridades surcoreanas anuncian la evacuación de 441 personas tras las lluvias monzónicas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "sikkim-tunnel-effondrement",
+    "coords": [
+      88.35,
+      27.17
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏️",
+    "source": "Al Jazeera / AP",
+    "place": {
+      "fr": "Chantier hydroélectrique de Teesta Stage VI, district de Namchi, Sikkim, Inde",
+      "en": "Teesta Stage VI hydropower site, Namchi district, Sikkim, India",
+      "es": "Obra hidroeléctrica de Teesta Stage VI, distrito de Namchi, Sikkim, India"
+    },
+    "title": {
+      "fr": "Une explosion de gaz effondre un tunnel hydroélectrique au Sikkim, au moins 20 morts",
+      "en": "Gas explosion collapses hydropower tunnel in Sikkim, at least 20 dead",
+      "es": "Una explosión de gas provoca el derrumbe de un túnel hidroeléctrico en Sikkim, con al menos 20 muertos"
+    },
+    "summary": {
+      "fr": "Une accumulation présumée de méthane a provoqué une explosion et un effondrement lundi 20 juillet dans un tunnel en construction du projet hydroélectrique NHPC Teesta Stage VI, près de la frontière chinoise, selon Al Jazeera et l'AP. Environ 25 ouvriers et responsables du chantier se trouvaient piégés ; le bilan, encore incertain, est passé d'une dizaine à au moins 20 morts avec plusieurs personnes toujours portées disparues au 22 juillet. Des gaz toxiques ont compliqué les opérations de secours.",
+      "en": "A suspected methane buildup triggered an explosion and collapse on Monday, July 20, inside a tunnel under construction at the NHPC Teesta Stage VI hydropower project, near the Chinese border, according to Al Jazeera and AP. About 25 workers and site officials were trapped; the still-uncertain toll rose from around ten to at least 20 dead, with several people still missing as of July 22. Toxic gases have hampered rescue operations.",
+      "es": "Una presunta acumulación de metano provocó una explosión y un derrumbe el lunes 20 de julio en un túnel en construcción del proyecto hidroeléctrico NHPC Teesta Stage VI, cerca de la frontera china, según Al Jazeera y AP. Unos 25 trabajadores y responsables de la obra quedaron atrapados; el balance, aún incierto, pasó de una decena a al menos 20 muertos, con varias personas todavía desaparecidas hasta el 22 de julio. Los gases tóxicos han dificultado las operaciones de rescate."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan est porté à au moins 20 morts, plusieurs personnes restant portées disparues, selon la presse indienne.",
+          "en": "The toll rises to at least 20 dead, with several people still missing, according to Indian media.",
+          "es": "El balance se eleva a al menos 20 muertos, con varias personas aún desaparecidas, según la prensa india."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "delhi-manifestations-neet",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "CNN / Amnesty International",
+    "place": {
+      "fr": "Jantar Mantar, près du Parlement, New Delhi, Inde",
+      "en": "Jantar Mantar, near Parliament, New Delhi, India",
+      "es": "Jantar Mantar, cerca del Parlamento, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Des manifestants étudiants dispersés au gaz lacrymogène près du Parlement indien",
+      "en": "Student protesters tear-gassed near India's Parliament",
+      "es": "Manifestantes estudiantiles dispersados con gas lacrimógeno cerca del Parlamento indio"
+    },
+    "summary": {
+      "fr": "Des milliers de jeunes manifestants, mobilisés sous la bannière du \"Cockroach Janta Party\", ont marché lundi 20 juillet vers le Parlement à New Delhi pour réclamer la démission du ministre de l'Éducation Dharmendra Pradhan, après des soupçons de fuite de sujets à l'examen médical national NEET-UG qui ont contraint plus de deux millions d'étudiants à repasser l'épreuve, selon CNN. La police de Delhi, qui avait déclaré la marche illégale, a utilisé des gaz lacrymogènes pour disperser la foule ; les organisateurs affirment qu'environ 150 personnes ont été hospitalisées. Amnesty International a exprimé des préoccupations sur la réponse policière.",
+      "en": "Thousands of young protesters, organized under the \"Cockroach Janta Party\" banner, marched toward Parliament in New Delhi on Monday, July 20, demanding the resignation of Education Minister Dharmendra Pradhan, following allegations of a paper leak in the national NEET-UG medical entrance exam that forced more than two million students to retake it, according to CNN. Delhi Police, who had declared the march unlawful, used tear gas to disperse the crowd; organizers say around 150 people were hospitalized. Amnesty International raised concerns about the police response.",
+      "es": "Miles de jóvenes manifestantes, organizados bajo la bandera del \"Cockroach Janta Party\", marcharon el lunes 20 de julio hacia el Parlamento en Nueva Delhi para exigir la dimisión del ministro de Educación, Dharmendra Pradhan, tras las denuncias de filtración de preguntas en el examen médico nacional NEET-UG que obligaron a más de dos millones de estudiantes a repetirlo, según CNN. La policía de Delhi, que había declarado ilegal la marcha, usó gas lacrimógeno para dispersar a la multitud; los organizadores afirman que unas 150 personas fueron hospitalizadas. Amnistía Internacional expresó su preocupación por la respuesta policial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "La police de Delhi disperse au gaz lacrymogène une marche étudiante près du Parlement.",
+          "en": "Delhi Police tear-gas a student march near Parliament.",
+          "es": "La policía de Delhi dispersa con gas lacrimógeno una marcha estudiantil cerca del Parlamento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "bogor-agressions-trans",
+    "coords": [
+      106.7892,
+      -6.5944
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "source": "Amnesty International Indonesia / The Star",
+    "place": {
+      "fr": "Bogor, Java occidental, Indonésie",
+      "en": "Bogor, West Java, Indonesia",
+      "es": "Bogor, Java Occidental, Indonesia"
+    },
+    "title": {
+      "fr": "Amnesty International dénonce des agressions en réunion contre des femmes transgenres à Bogor",
+      "en": "Amnesty International condemns mob attacks on transgender women in Bogor",
+      "es": "Amnistía Internacional denuncia agresiones en grupo contra mujeres transgénero en Bogor"
+    },
+    "summary": {
+      "fr": "Amnesty International Indonesia a condamné vendredi 17 juillet au moins trois agressions en réunion visant une dizaine de femmes transgenres à Bogor au cours des deux derniers mois, des vidéos montrant des victimes rouées de coups et humiliées. L'organisation, citée par The Star, relie ces attaques à une hostilité croissante après un règlement présidentiel de 2025 classant les questions LGBTQ comme une menace sécuritaire non militaire, et appelle les autorités locales à protéger les victimes et poursuivre les agresseurs.",
+      "en": "Amnesty International Indonesia condemned on Friday, July 17 at least three mob attacks targeting around ten transgender women in Bogor over the past two months, with videos showing victims being beaten and humiliated. The organization, cited by The Star, linked the attacks to rising hostility following a 2025 presidential regulation classifying LGBTQ issues as a non-military security threat, and called on local authorities to protect victims and prosecute attackers.",
+      "es": "Amnistía Internacional Indonesia condenó el viernes 17 de julio al menos tres agresiones en grupo contra una decena de mujeres transgénero en Bogor durante los últimos dos meses, con videos que muestran a las víctimas siendo golpeadas y humilladas. La organización, citada por The Star, vinculó los ataques a una hostilidad creciente tras un reglamento presidencial de 2025 que clasifica las cuestiones LGBTQ como una amenaza de seguridad no militar, y pidió a las autoridades locales que protejan a las víctimas y persigan a los agresores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Amnesty International Indonesia publie une déclaration dénonçant les agressions répétées à Bogor.",
+          "en": "Amnesty International Indonesia issues a statement condemning the repeated attacks in Bogor.",
+          "es": "Amnistía Internacional Indonesia publica una declaración que denuncia las agresiones repetidas en Bogor."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "mexique-seisme-chiapas",
+    "coords": [
+      -92.8,
+      14.6
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "CNN / AP / USGS",
+    "place": {
+      "fr": "Golfe de Tehuantepec, au large du Chiapas, Mexique",
+      "en": "Gulf of Tehuantepec, off the coast of Chiapas, Mexico",
+      "es": "Golfo de Tehuantepec, frente a la costa de Chiapas, México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,3 frappe la côte pacifique du Mexique près du Guatemala",
+      "en": "Magnitude 7.3 earthquake strikes Mexico's Pacific coast near Guatemala",
+      "es": "Un terremoto de magnitud 7,3 sacude la costa pacífica de México cerca de Guatemala"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,3 (7,4 selon certaines sources), d'une profondeur d'environ 15 km, a frappé le 17 juillet la côte du Chiapas près de la frontière guatémaltèque, ressenti par environ 6 millions de personnes jusqu'à Mexico et au Salvador, selon CNN, l'AP et l'USGS. Une alerte au tsunami localisée a été émise puis levée. La présidente Claudia Sheinbaum a fait état de dégâts limités selon les premiers rapports, tandis que certains médias évoquent au moins un mort et de fortes répliques se sont poursuivies.",
+      "en": "A magnitude-7.3 earthquake (7.4 according to some sources), at a depth of about 15 km, struck the Chiapas coast near the Guatemalan border on July 17, felt by an estimated 6 million people as far as Mexico City and El Salvador, according to CNN, AP and USGS. A localized tsunami warning was issued and later lifted. President Claudia Sheinbaum reported limited damage based on initial reports, while some media cited at least one death, and strong aftershocks continued.",
+      "es": "Un terremoto de magnitud 7,3 (7,4 según algunas fuentes), a una profundidad de unos 15 km, sacudió el 17 de julio la costa de Chiapas cerca de la frontera con Guatemala, sentido por unos 6 millones de personas hasta Ciudad de México y El Salvador, según CNN, AP y el USGS. Se emitió una alerta de tsunami localizada que después fue levantada. La presidenta Claudia Sheinbaum informó de daños limitados según los primeros reportes, mientras que algunos medios mencionaron al menos un muerto, y continuaron fuertes réplicas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "L'USGS confirme un séisme de magnitude 7,3 au large du Chiapas ; l'alerte au tsunami est levée dans la journée.",
+          "en": "USGS confirms a magnitude-7.3 earthquake off Chiapas; the tsunami warning is lifted later that day.",
+          "es": "El USGS confirma un terremoto de magnitud 7,3 frente a Chiapas; la alerta de tsunami se levanta ese mismo día."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "bresil-milei-bolsonaro",
+    "coords": [
+      -47.892,
+      -15.797
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "source": "AP / Bloomberg / France 24",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne interdit à Javier Milei de rendre visite à Jair Bolsonaro",
+      "en": "Brazilian court bars Javier Milei from visiting Jair Bolsonaro",
+      "es": "La justicia brasileña prohíbe a Javier Milei visitar a Jair Bolsonaro"
+    },
+    "summary": {
+      "fr": "Le juge de la Cour suprême brésilienne Alexandre de Moraes a refusé le 18 juillet une demande du président argentin Javier Milei de rendre visite à l'ancien président Jair Bolsonaro, assigné à résidence, invoquant une suspension de 30 jours des visites non essentielles décidée après la lecture publique d'une lettre manuscrite de Bolsonaro par son fils, selon l'AP, Bloomberg et France 24. Milei prévoyait d'assister au congrès du parti de Bolsonaro le 25 juillet à São Paulo. Seuls les avocats et le personnel médical sont actuellement autorisés à le voir.",
+      "en": "Brazilian Supreme Court Justice Alexandre de Moraes denied a request on July 18 from Argentine President Javier Milei to visit former President Jair Bolsonaro, who is under house arrest, citing a 30-day suspension of non-essential visits imposed after Bolsonaro's son read a handwritten letter from him publicly, according to AP, Bloomberg and France 24. Milei had planned to attend Bolsonaro's party convention on July 25 in São Paulo. Only lawyers and medical staff are currently permitted to see him.",
+      "es": "El juez del Tribunal Supremo brasileño Alexandre de Moraes rechazó el 18 de julio una petición del presidente argentino Javier Milei para visitar al expresidente Jair Bolsonaro, bajo arresto domiciliario, alegando una suspensión de 30 días de las visitas no esenciales impuesta tras la lectura pública de una carta manuscrita de Bolsonaro por parte de su hijo, según AP, Bloomberg y France 24. Milei tenía previsto asistir a la convención del partido de Bolsonaro el 25 de julio en São Paulo. Actualmente solo abogados y personal médico están autorizados a verlo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes rejette la demande de visite de Javier Milei à Jair Bolsonaro.",
+          "en": "Justice Alexandre de Moraes rejects Javier Milei's request to visit Jair Bolsonaro.",
+          "es": "El juez Alexandre de Moraes rechaza la solicitud de Javier Milei de visitar a Jair Bolsonaro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "russie-ukraine-escalade-frappes",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "AP / Bloomberg / Al Jazeera / Moscow Times",
+    "place": {
+      "fr": "Kyiv (Ukraine) et régions de Tambov et Moscou (Russie)",
+      "en": "Kyiv (Ukraine) and the Tambov and Moscow regions (Russia)",
+      "es": "Kiev (Ucrania) y las regiones de Tambov y Moscú (Rusia)"
+    },
+    "title": {
+      "fr": "Nouvelle escalade de frappes entre la Russie et l'Ukraine",
+      "en": "New escalation of strikes between Russia and Ukraine",
+      "es": "Nueva escalada de ataques entre Rusia y Ucrania"
+    },
+    "summary": {
+      "fr": "Une série de frappes s'est succédé du 17 au 20 juillet entre la Russie et l'Ukraine. Des drones ukrainiens ont visé dans la nuit du 17 au 18 juillet des entrepôts logistiques et un dépôt pétrolier dans les régions russes de Tambov et de Moscou ; les autorités russes ont fait état de 8 à 9 morts et de plus de 60 blessés, selon l'AP et le Moscow Times. Dans la nuit du 18 au 19 juillet, la Russie a frappé Kyiv avec environ 41 missiles, dont des missiles hypersoniques Zircon, tuant au moins une personne et en blessant une seizaine, selon Al Jazeera. Dans la nuit du 19 au 20 juillet, l'Ukraine a envoyé plus de 400 drones vers la région de Moscou ; le gouverneur de l'oblast de Moscou a fait état de dix blessés, un bilan avancé par la partie russe et non vérifié de façon indépendante.",
+      "en": "A series of strikes followed one another between July 17 and 20 between Russia and Ukraine. Ukrainian drones targeted logistics warehouses and an oil depot in Russia's Tambov and Moscow regions on the night of July 17-18; Russian authorities reported 8 to 9 dead and more than 60 wounded, according to AP and the Moscow Times. On the night of July 18-19, Russia struck Kyiv with about 41 missiles, including Zircon hypersonic missiles, killing at least one person and wounding around 16, according to Al Jazeera. On the night of July 19-20, Ukraine sent more than 400 drones toward the Moscow region; the Moscow region governor reported ten wounded, a toll put forward by the Russian side and not independently verified.",
+      "es": "Una serie de ataques se sucedieron del 17 al 20 de julio entre Rusia y Ucrania. Drones ucranianos atacaron almacenes logísticos y un depósito de petróleo en las regiones rusas de Tambov y Moscú en la noche del 17 al 18 de julio; las autoridades rusas informaron de entre 8 y 9 muertos y más de 60 heridos, según AP y The Moscow Times. En la noche del 18 al 19 de julio, Rusia atacó Kiev con unos 41 misiles, incluidos misiles hipersónicos Zircon, matando al menos a una persona e hiriendo a unas 16, según Al Jazeera. En la noche del 19 al 20 de julio, Ucrania envió más de 400 drones hacia la región de Moscú; el gobernador de la región de Moscú informó de diez heridos, un balance presentado por la parte rusa y no verificado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent des entrepôts et un dépôt pétrolier dans les régions de Tambov et de Moscou, selon les autorités russes citées par l'AP.",
+          "en": "Ukrainian drones strike warehouses and an oil depot in the Tambov and Moscow regions, according to Russian authorities cited by AP.",
+          "es": "Drones ucranianos atacan almacenes y un depósito de petróleo en las regiones de Tambov y Moscú, según las autoridades rusas citadas por AP."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "La Russie frappe Kyiv avec environ 41 missiles, dont des Zircon hypersoniques, selon Al Jazeera.",
+          "en": "Russia strikes Kyiv with about 41 missiles, including hypersonic Zircons, according to Al Jazeera.",
+          "es": "Rusia ataca Kiev con unos 41 misiles, incluidos Zircon hipersónicos, según Al Jazeera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "L'Ukraine envoie plus de 400 drones vers la région de Moscou, selon le maire de Moscou Sergueï Sobianine.",
+          "en": "Ukraine sends more than 400 drones toward the Moscow region, according to Moscow Mayor Sergei Sobyanin.",
+          "es": "Ucrania envía más de 400 drones hacia la región de Moscú, según el alcalde de Moscú, Serguéi Sobianin."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "usa-loi-sanctions-russie",
+    "coords": [
+      -77.0091,
+      38.8899
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "RFE/RL / CNN / The Hill",
+    "place": {
+      "fr": "Washington, D.C., États-Unis (Sénat américain)",
+      "en": "Washington, D.C., United States (U.S. Senate)",
+      "es": "Washington, D.C., Estados Unidos (Senado de EE. UU.)"
+    },
+    "title": {
+      "fr": "Un projet de loi de sanctions contre la Russie approche du vote au Sénat américain",
+      "en": "A bill sanctioning Russia nears a vote in the U.S. Senate",
+      "es": "Un proyecto de ley de sanciones contra Rusia se acerca a la votación en el Senado de EE. UU."
+    },
+    "summary": {
+      "fr": "La \"Sanctioning Russia Act of 2026\", qui prévoit des sanctions contre des responsables, oligarques et banques russes ainsi que la flotte fantôme pétrolière, et autorise jusqu'à 100 % de droits de douane sur les pays achetant du pétrole ou du gaz russe, a recueilli 62 coparrains au Sénat américain (39 républicains, 22 démocrates) au 21 juillet, un nombre suffisant pour franchir le seuil des 60 voix si elle est mise au vote, selon RFE/RL et CNN. L'administration Trump a accepté de faire avancer le texte, dont l'adoption reste soumise à un vote du Sénat, à l'approbation de la Chambre des représentants et à la signature présidentielle.",
+      "en": "The \"Sanctioning Russia Act of 2026,\" which would impose sanctions on Russian officials, oligarchs and banks as well as the oil shadow fleet, and authorize tariffs of up to 100% on countries buying Russian oil or gas, had gathered 62 co-sponsors in the U.S. Senate (39 Republicans, 22 Democrats) as of July 21, enough to clear the 60-vote threshold if brought to a vote, according to RFE/RL and CNN. The Trump administration agreed to advance the bill, whose passage still requires a Senate vote, House approval and the president's signature.",
+      "es": "La \"Sanctioning Russia Act of 2026\", que prevé sanciones contra funcionarios, oligarcas y bancos rusos, así como contra la flota fantasma petrolera, y autoriza aranceles de hasta el 100 % a los países que compren petróleo o gas ruso, había reunido 62 copatrocinadores en el Senado de EE. UU. (39 republicanos, 22 demócratas) hasta el 21 de julio, un número suficiente para superar el umbral de 60 votos si se somete a votación, según RFE/RL y CNN. La administración Trump aceptó impulsar el proyecto, cuya aprobación aún requiere una votación en el Senado, la aprobación de la Cámara de Representantes y la firma presidencial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "RFE/RL rapporte que le texte a atteint 62 coparrains au Sénat américain.",
+          "en": "RFE/RL reports the bill has reached 62 co-sponsors in the U.S. Senate.",
+          "es": "RFE/RL informa de que el proyecto ha alcanzado 62 copatrocinadores en el Senado de EE. UU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "france-deficit-fmi",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Bloomberg / FMI",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Le FMI prévoit un creusement du déficit budgétaire français",
+      "en": "IMF forecasts a widening of France's budget deficit",
+      "es": "El FMI prevé un aumento del déficit presupuestario francés"
+    },
+    "summary": {
+      "fr": "Le Fonds monétaire international estime que le déficit budgétaire de la France en 2026 s'élargira à environ 5,2 % du PIB, au-delà de l'objectif de 5 % fixé par le gouvernement, en citant un ralentissement de la croissance lié en partie à la hausse des coûts liés au conflit iranien, selon Bloomberg. Cette annonce du 22 juillet fait suite à l'abaissement par le gouvernement de sa prévision de croissance 2026 à 0,7 % et à l'annonce de 3 milliards d'euros d'économies supplémentaires en juillet.",
+      "en": "The International Monetary Fund estimates that France's 2026 budget deficit will widen to about 5.2% of GDP, beyond the government's 5% target, citing slower growth partly linked to rising costs from the Iran conflict, according to Bloomberg. The July 22 announcement follows the government's downgrade of its 2026 growth forecast to 0.7% and the announcement of an additional €3 billion in spending cuts in July.",
+      "es": "El Fondo Monetario Internacional estima que el déficit presupuestario de Francia en 2026 se ampliará hasta cerca del 5,2 % del PIB, por encima del objetivo del 5 % fijado por el gobierno, citando una desaceleración del crecimiento vinculada en parte al aumento de los costos derivados del conflicto con Irán, según Bloomberg. El anuncio del 22 de julio se produce después de que el gobierno rebajara su previsión de crecimiento para 2026 al 0,7 % y anunciara 3000 millones de euros adicionales en recortes de gasto en julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte les nouvelles projections du FMI sur le déficit français.",
+          "en": "Bloomberg reports the IMF's new projections on the French deficit.",
+          "es": "Bloomberg informa de las nuevas proyecciones del FMI sobre el déficit francés."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "bologne-emeutes-mortdegarde",
+    "coords": [
+      11.3426,
+      44.4949
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "AP / Al Jazeera / Euronews",
+    "place": {
+      "fr": "Bologne, Italie",
+      "en": "Bologna, Italy",
+      "es": "Bolonia, Italia"
+    },
+    "title": {
+      "fr": "La mort d'un homme lors d'une interpellation policière déclenche des heurts à Bologne",
+      "en": "Death of a man during a police arrest sparks clashes in Bologna",
+      "es": "La muerte de un hombre durante una detención policial provoca disturbios en Bolonia"
+    },
+    "summary": {
+      "fr": "Abderrahim Fakir, un Italo-Marocain de 43 ans souffrant de problèmes cardiaques et d'asthme, est mort le dimanche 19 juillet après avoir été maintenu au sol par la police lors d'une interpellation pour dégradation de véhicule, selon l'AP, Al Jazeera et Euronews. Une vidéo le montre répétant qu'il ne pouvait plus respirer avant de cesser de bouger. Une veillée organisée par le maire de Bologne et la famille de la victime a dégénéré, des manifestants incendiant des véhicules et affrontant la police, qui a utilisé gaz lacrymogènes et canons à eau ; les procureurs font état de 64 policiers blessés. La première ministre Giorgia Meloni a promis une enquête impartiale tout en critiquant les violences.",
+      "en": "Abderrahim Fakir, a 43-year-old Italian-Moroccan man with heart and asthma problems, died on Sunday, July 19 after being held face-down by police during an arrest over alleged vehicle damage, according to AP, Al Jazeera and Euronews. A video shows him repeating that he could not breathe before he stopped moving. A vigil organized by Bologna's mayor and the victim's family turned violent, with protesters setting vehicles on fire and clashing with police, who used tear gas and water cannon; prosecutors reported 64 officers injured. Prime Minister Giorgia Meloni pledged an impartial investigation while criticizing the violence.",
+      "es": "Abderrahim Fakir, un ítalo-marroquí de 43 años con problemas cardíacos y de asma, murió el domingo 19 de julio tras ser inmovilizado boca abajo por la policía durante una detención por presuntos daños a un vehículo, según AP, Al Jazeera y Euronews. Un video lo muestra repitiendo que no podía respirar antes de dejar de moverse. Una vigilia organizada por el alcalde de Bolonia y la familia de la víctima derivó en violencia, con manifestantes incendiando vehículos y enfrentándose a la policía, que usó gases lacrimógenos y cañones de agua; los fiscales informaron de 64 agentes heridos. La primera ministra Giorgia Meloni prometió una investigación imparcial mientras criticaba la violencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Abderrahim Fakir meurt après avoir été maintenu au sol par la police, selon l'AP.",
+          "en": "Abderrahim Fakir dies after being held down by police, according to AP.",
+          "es": "Abderrahim Fakir muere tras ser inmovilizado por la policía, según AP."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Une veillée dégénère en heurts avec la police ; Giorgia Meloni critique les violences, selon Al Jazeera.",
+          "en": "A vigil turns into clashes with police; Giorgia Meloni criticizes the violence, according to Al Jazeera.",
+          "es": "Una vigilia deriva en enfrentamientos con la policía; Giorgia Meloni critica la violencia, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "genes-pont-morandi-verdict",
+    "coords": [
+      8.9463,
+      44.4056
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / ENR",
+    "place": {
+      "fr": "Gênes, Italie",
+      "en": "Genoa, Italy",
+      "es": "Génova, Italia"
+    },
+    "title": {
+      "fr": "Effondrement du pont Morandi : 30 personnes condamnées, dont l'ex-PDG d'Autostrade",
+      "en": "Morandi Bridge collapse: 30 people convicted, including Autostrade's former CEO",
+      "es": "Derrumbe del puente Morandi: 30 personas condenadas, incluido el exdirector general de Autostrade"
+    },
+    "summary": {
+      "fr": "Un tribunal italien a condamné le 16 juillet 30 personnes, dont Giovanni Castellucci, ancien PDG du gestionnaire autoroutier Autostrade per l'Italia, à 12 ans de prison, pour l'effondrement en 2018 du pont Morandi à Gênes qui avait fait 43 morts, selon Al Jazeera et ENR. L'ancien responsable de la maintenance Michele Donferri Mitelli a été condamné à 11 ans ; les charges retenues incluent la négligence et l'homicide involontaire liés à un défaut d'entretien de l'ouvrage.",
+      "en": "An Italian court convicted 30 people on July 16, including Giovanni Castellucci, former CEO of highway operator Autostrade per l'Italia, sentencing him to 12 years in prison, over the 2018 collapse of Genoa's Morandi Bridge that killed 43 people, according to Al Jazeera and ENR. Former maintenance chief Michele Donferri Mitelli was sentenced to 11 years; the charges included negligence and manslaughter linked to a failure to maintain the structure.",
+      "es": "Un tribunal italiano condenó el 16 de julio a 30 personas, entre ellas Giovanni Castellucci, expresidente ejecutivo de la operadora de autopistas Autostrade per l'Italia, a 12 años de prisión, por el derrumbe en 2018 del puente Morandi en Génova, que dejó 43 muertos, según Al Jazeera y ENR. El exresponsable de mantenimiento Michele Donferri Mitelli fue condenado a 11 años; los cargos incluyeron negligencia y homicidio involuntario vinculados a un fallo en el mantenimiento de la estructura."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/07/2026",
+          "en": "16/07/2026",
+          "es": "16/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Gênes rend son verdict condamnant 30 personnes, selon Al Jazeera.",
+          "en": "The Genoa court delivers its verdict convicting 30 people, according to Al Jazeera.",
+          "es": "El tribunal de Génova dicta su veredicto condenando a 30 personas, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "espagne-guadalajara-incendie",
+    "coords": [
+      -3.233,
+      40.967
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "France 24 / Al Jazeera / The Olive Press",
+    "place": {
+      "fr": "Sierra Norte de Guadalajara (près de Tamajón), Espagne",
+      "en": "Sierra Norte de Guadalajara (near Tamajón), Spain",
+      "es": "Sierra Norte de Guadalajara (cerca de Tamajón), España"
+    },
+    "title": {
+      "fr": "Un incendie majeur ravage la Sierra Norte de Guadalajara près de Madrid",
+      "en": "Major wildfire devastates the Sierra Norte de Guadalajara near Madrid",
+      "es": "Un gran incendio devasta la Sierra Norte de Guadalajara, cerca de Madrid"
+    },
+    "summary": {
+      "fr": "Un incendie distinct de celui d'Almería a débuté vers le 16 juillet dans le parc naturel de la Sierra Norte de Guadalajara et se poursuivait le 21 juillet, selon France 24 et Al Jazeera. Il s'agit du plus grand feu jamais enregistré en Castille-La Manche, avec des surfaces brûlées estimées entre 12 000 et environ 26 000 hectares selon les dates de mesure. Environ 1200 personnes ont été évacuées de plus de 30 villages, et plus de 600 pompiers et militaires ainsi que 29 aéronefs ont été mobilisés. Aucune victime n'était rapportée, pour des dégâts estimés à plus de 50 millions d'euros.",
+      "en": "A wildfire distinct from the one in Almería began around July 16 in the Sierra Norte de Guadalajara natural park and was still burning on July 21, according to France 24 and Al Jazeera. It is the largest fire ever recorded in Castilla-La Mancha, with burned areas estimated at between 12,000 and about 26,000 hectares depending on the measurement date. About 1,200 people were evacuated from more than 30 villages, and more than 600 firefighters and soldiers along with 29 aircraft were deployed. No casualties were reported, with damages estimated above €50 million.",
+      "es": "Un incendio distinto al de Almería comenzó hacia el 16 de julio en el parque natural de la Sierra Norte de Guadalajara y seguía activo el 21 de julio, según France 24 y Al Jazeera. Es el mayor incendio jamás registrado en Castilla-La Mancha, con superficies quemadas estimadas entre 12 000 y unas 26 000 hectáreas según la fecha de medición. Unas 1200 personas fueron evacuadas de más de 30 pueblos, y se movilizaron más de 600 bomberos y militares junto con 29 aeronaves. No se reportaron víctimas, con daños estimados en más de 50 millones de euros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera rapporte environ 26 000 hectares brûlés et la poursuite des opérations de lutte contre l'incendie.",
+          "en": "Al Jazeera reports about 26,000 hectares burned and firefighting operations continuing.",
+          "es": "Al Jazeera informa de unas 26 000 hectáreas quemadas y de la continuación de las operaciones de extinción."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-jigawa-pirogue",
+    "coords": [
+      9.17,
+      12.15
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "Vanguard / TheCable / Channels TV",
+    "place": {
+      "fr": "Communauté de Malamawar Yan Dutse, zone de Ringim, État de Jigawa, Nigeria",
+      "en": "Malamawar Yan Dutse community, Ringim area, Jigawa State, Nigeria",
+      "es": "Comunidad de Malamawar Yan Dutse, área de Ringim, estado de Jigawa, Nigeria"
+    },
+    "title": {
+      "fr": "Le chavirement d'une pirogue surchargée fait craindre des dizaines de morts au Nigeria",
+      "en": "Capsized overloaded canoe feared to have killed dozens in Nigeria",
+      "es": "El vuelco de una piragua sobrecargada hace temer decenas de muertos en Nigeria"
+    },
+    "summary": {
+      "fr": "Une pirogue transportant une trentaine à une quarantaine de passagers, surtout des femmes et des enfants se rendant aux champs, a chaviré en traversant une rivière près de Ringim, dans l'État de Jigawa, dans la nuit du dimanche 19 au lundi 20 juillet, apparemment en raison d'une surcharge, selon Vanguard, TheCable et Channels TV. Six corps avaient été retrouvés et une trentaine de personnes restaient portées disparues au 20 juillet, tandis que plongeurs, police et agence locale de gestion des urgences poursuivaient les recherches.",
+      "en": "A canoe carrying an estimated thirty to forty passengers, mostly women and children heading to farms, capsized while crossing a river near Ringim, Jigawa State, during the night of Sunday, July 19 into Monday, July 20, apparently due to overloading, according to Vanguard, TheCable and Channels TV. Six bodies had been recovered and around thirty people remained missing as of July 20, as divers, police and the local emergency management agency continued the search.",
+      "es": "Una piragua que transportaba entre treinta y cuarenta pasajeros, en su mayoría mujeres y niños que se dirigían a los campos, volcó al cruzar un río cerca de Ringim, estado de Jigawa, durante la noche del domingo 19 al lunes 20 de julio, aparentemente por sobrecarga, según Vanguard, TheCable y Channels TV. Hasta el 20 de julio se habían recuperado seis cuerpos y unas treinta personas seguían desaparecidas, mientras buceadores, policía y la agencia local de gestión de emergencias continuaban la búsqueda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités de Jigawa confirment six morts et une trentaine de disparus après le naufrage de la pirogue.",
+          "en": "Jigawa authorities confirm six dead and around thirty missing after the canoe sinking.",
+          "es": "Las autoridades de Jigawa confirman seis muertos y unas treinta personas desaparecidas tras el hundimiento de la piragua."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-zamfara-enlevements",
+    "coords": [
+      6.4,
+      12.33
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "source": "EWN / AFP",
+    "place": {
+      "fr": "District de Mayanchi, zone de Maru, État de Zamfara, Nigeria",
+      "en": "Mayanchi district, Maru area, Zamfara State, Nigeria",
+      "es": "Distrito de Mayanchi, área de Maru, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "Un gang armé enlève plus de 40 personnes dans onze villages du Zamfara",
+      "en": "Armed gang abducts more than 40 people across eleven villages in Zamfara",
+      "es": "Una banda armada secuestra a más de 40 personas en once aldeas de Zamfara"
+    },
+    "summary": {
+      "fr": "Un gang armé dirigé par un homme identifié comme \"Kachalla Sa'idu\" a mené des raids entre le vendredi 17 et le dimanche 19 juillet dans onze villages du district de Mayanchi, dans la zone de Maru, État de Zamfara, enlevant plus de 40 habitants, selon l'AFP relayée par EWN. Le président du gouvernement local, Bello Jabaka, a confirmé les enlèvements. Ces raids surviennent dans un contexte d'opérations militaires élargies contre les bandes armées dans les États de Zamfara, Sokoto et Katsina.",
+      "en": "An armed gang led by a man identified as \"Kachalla Sa'idu\" carried out raids between Friday, July 17 and Sunday, July 19 across eleven villages in the Mayanchi district, Maru area, Zamfara State, abducting more than 40 residents, according to AFP relayed by EWN. Local government chairman Bello Jabaka confirmed the abductions. The raids come amid broader military operations against armed gangs in Zamfara, Sokoto and Katsina states.",
+      "es": "Una banda armada liderada por un hombre identificado como \"Kachalla Sa'idu\" llevó a cabo asaltos entre el viernes 17 y el domingo 19 de julio en once aldeas del distrito de Mayanchi, área de Maru, estado de Zamfara, secuestrando a más de 40 residentes, según AFP, citada por EWN. El presidente del gobierno local, Bello Jabaka, confirmó los secuestros. Los asaltos se producen en medio de operaciones militares más amplias contra bandas armadas en los estados de Zamfara, Sokoto y Katsina."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "L'AFP rapporte l'enlèvement de plus de 40 personnes dans onze villages du Zamfara.",
+          "en": "AFP reports the abduction of more than 40 people across eleven villages in Zamfara.",
+          "es": "AFP informa del secuestro de más de 40 personas en once aldeas de Zamfara."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "afriquesud-ramaphosa-destitution",
+    "coords": [
+      18.42,
+      -33.92
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "eNCA / Sowetan / EWN",
+    "place": {
+      "fr": "Haute Cour du Cap-Occidental, Le Cap, Afrique du Sud",
+      "en": "Western Cape High Court, Cape Town, South Africa",
+      "es": "Tribunal Superior del Cabo Occidental, Ciudad del Cabo, Sudáfrica"
+    },
+    "title": {
+      "fr": "La justice sud-africaine met en délibéré le recours de Cyril Ramaphosa contre une procédure de destitution",
+      "en": "South African court reserves judgment on Cyril Ramaphosa's bid to block impeachment inquiry",
+      "es": "La justicia sudafricana reserva el fallo sobre el recurso de Cyril Ramaphosa contra un proceso de destitución"
+    },
+    "summary": {
+      "fr": "Les avocats du président sud-africain Cyril Ramaphosa ont conclu le 17 juillet leurs plaidoiries dans une demande urgente visant à suspendre les travaux de la commission parlementaire d'enquête en destitution (article 89), qui examine des éléments jugés \"prima facie\" suggérant qu'il aurait enfreint la Constitution dans l'affaire de l'argent liquide découvert à la ferme de Phala Phala en 2020, selon eNCA, le Sowetan et EWN. Une formation de trois juges de la Haute Cour du Cap-Occidental a mis sa décision en délibéré, avec un jugement attendu le 24 juillet ; la commission a indiqué que ses travaux se poursuivaient tant qu'aucune décision de justice ne les suspend.",
+      "en": "Lawyers for South African President Cyril Ramaphosa concluded arguments on July 17 in an urgent bid to halt the work of Parliament's Section 89 impeachment inquiry committee, which is examining evidence deemed \"prima facie\" to suggest he may have breached the constitution over the cash found at his Phala Phala farm in 2020, according to eNCA, the Sowetan and EWN. A three-judge panel of the Western Cape High Court reserved judgment, with a ruling expected on July 24; the committee said its work continues unless a court order halts it.",
+      "es": "Los abogados del presidente sudafricano Cyril Ramaphosa concluyeron el 17 de julio sus alegatos en una solicitud urgente para detener el trabajo de la comisión parlamentaria de investigación por destitución (artículo 89), que examina indicios considerados \"prima facie\" de que podría haber infringido la Constitución en el caso del dinero en efectivo hallado en su granja de Phala Phala en 2020, según eNCA, Sowetan y EWN. Un tribunal de tres jueces del Tribunal Superior del Cabo Occidental reservó su fallo, con una decisión prevista para el 24 de julio; la comisión indicó que su trabajo continúa mientras no exista una orden judicial que lo detenga."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "La Haute Cour du Cap-Occidental met en délibéré le recours de Cyril Ramaphosa, jugement attendu le 24 juillet.",
+          "en": "The Western Cape High Court reserves judgment on Cyril Ramaphosa's challenge, with a ruling expected July 24.",
+          "es": "El Tribunal Superior del Cabo Occidental reserva el fallo sobre el recurso de Cyril Ramaphosa, con una decisión prevista para el 24 de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
   }
 ]
