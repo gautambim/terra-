@@ -212,10 +212,36 @@
           "en": "Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.",
           "es": "Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de missile russe sur un navire transportant du maïs au large d'Odessa fait 10 morts, selon les autorités ukrainiennes citées par l'agence Associated Press — l'attaque la plus meurtrière de ces dernières semaines en mer Noire.",
+          "en": "A Russian missile strike on a ship carrying corn off Odesa kills 10 people, Ukrainian officials say, according to the Associated Press — the deadliest attack in weeks of flare-ups in the Black Sea.",
+          "es": "Un ataque con misiles rusos contra un buque que transportaba maíz frente a Odesa deja 10 muertos, según las autoridades ucranianas citadas por Associated Press, el ataque más mortífero en semanas de tensión en el mar Negro."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21-22/07/2026",
+          "en": "07/21-22/2026",
+          "es": "21-22/07/2026"
+        },
+        "d": {
+          "fr": "De nouvelles frappes de drones russes touchent des immeubles résidentiels d'Odessa ainsi qu'un entrepôt de tabac et un gazoduc principal, qui prend feu. Au moins une femme est tuée et plusieurs personnes blessées les 21 et 22 juillet, selon les médias ukrainiens Kyiv Independent et Mezha.",
+          "en": "New Russian drone strikes hit residential buildings in Odesa as well as a tobacco warehouse and a main gas pipeline, which catches fire. At least one woman is killed and several people injured on July 21-22, according to Ukrainian outlets Kyiv Independent and Mezha.",
+          "es": "Nuevos ataques con drones rusos alcanzan edificios residenciales de Odesa, además de un almacén de tabaco y un gasoducto principal, que se incendia. Al menos una mujer muere y varias personas resultan heridas el 21 y 22 de julio, según los medios ucranianos Kyiv Independent y Mezha."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W30",
     "priority": 2
   },
   {
@@ -456,10 +482,23 @@
           "en": "Authorities raise the toll to 39 dead and nine missing in the Guangxi region.",
           "es": "Las autoridades elevan el balance a 39 muertos y nueve desaparecidos en la región de Guangxi."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Le ministère chinois des Ressources en eau indique que le niveau de dix cours d'eau dans les régions du Guangxi, du Yunnan, du Jiangsu et du Xinjiang a dépassé le seuil d'alerte. Une réponse d'urgence de niveau IV reste maintenue pour le Guangxi, le Hubei et le Hunan, alors que la Chine entre dans sa période de pointe des crues, selon US News et The Peninsula Qatar.",
+          "en": "China's Ministry of Water Resources says water levels in 10 rivers across the Guangxi, Yunnan, Jiangsu and Xinjiang regions have exceeded warning thresholds. A Level-IV emergency flood response remains in place for Guangxi, Hubei and Hunan as China enters its peak flood season, according to US News and The Peninsula Qatar.",
+          "es": "El Ministerio de Recursos Hídricos de China indica que el nivel de diez ríos en las regiones de Guangxi, Yunnan, Jiangsu y Xinjiang ha superado el umbral de alerta. Se mantiene una respuesta de emergencia de nivel IV para Guangxi, Hubei y Hunan mientras China entra en su temporada de crecidas máximas, según US News y The Peninsula Qatar."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W30",
     "priority": 1
   },
   {
@@ -693,7 +732,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W30",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -734,11 +773,39 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17-20/07/2026",
+          "en": "07/17-20/2026",
+          "es": "17-20/07/2026"
+        },
+        "d": {
+          "fr": "L'Iran frappe des bases utilisées par les forces américaines en Jordanie (base de Muwaffaq Salti) et au Koweït (près du port de Shuaiba). Le Pentagone confirme la mort d'au moins neuf militaires américains (dont deux à Jordanie identifiés par le nom, un troisième porté disparu puis présumé tué, un autre lors de la neutralisation d'un drone iranien en Irak, et six autres au Koweït) et le Bahreïn et la Jordanie affirment avoir intercepté plusieurs missiles iraniens, selon le Pentagone, NPR, CNN et Axios.",
+          "en": "Iran strikes bases used by US forces in Jordan (Muwaffaq Salti air base) and Kuwait (near the port of Shuaiba). The Pentagon confirms the deaths of at least nine US service members (two named in Jordan, a third initially missing and later presumed killed, another during the neutralization of an Iranian drone in Iraq, and six more in Kuwait), while Bahrain and Jordan say they intercepted several Iranian missiles, according to the Pentagon, NPR, CNN and Axios.",
+          "es": "Irán ataca bases utilizadas por fuerzas estadounidenses en Jordania (base aérea de Muwaffaq Salti) y en Kuwait (cerca del puerto de Shuaiba). El Pentágono confirma la muerte de al menos nueve militares estadounidenses (dos identificados por su nombre en Jordania, un tercero dado por desaparecido y luego presumido muerto, otro durante la neutralización de un dron iraní en Irak, y seis más en Kuwait), mientras que Baréin y Jordania afirman haber interceptado varios misiles iraníes, según el Pentágono, NPR, CNN y Axios."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis mènent de nouvelles frappes contre l'Iran ; le secrétaire à la Défense Pete Hegseth chiffre le coût du conflit à environ 37,5 milliards de dollars pour Washington, selon Al Jazeera. La Chambre des représentants adopte une proposition de budget de 95 milliards de dollars liée en partie à la guerre. Aucun cessez-le-feu durable n'est en vigueur à cette date.",
+          "en": "The United States carries out fresh strikes on Iran; Defense Secretary Pete Hegseth puts the conflict's cost to Washington at roughly $37.5 billion, according to Al Jazeera. The House of Representatives adopts a $95 billion budget proposal tied in part to the war. No durable ceasefire is in place as of this date.",
+          "es": "Estados Unidos lleva a cabo nuevos ataques contra Irán; el secretario de Defensa, Pete Hegseth, cifra el costo del conflicto para Washington en unos 37.500 millones de dólares, según Al Jazeera. La Cámara de Representantes aprueba una propuesta de presupuesto de 95.000 millones de dólares vinculada en parte a la guerra. No hay un alto el fuego duradero vigente en esta fecha."
+        },
         "active": true
       }
     ],
-    "related": [],
-    "priority": 2
+    "related": [
+      "arabie-houthis-petroliers"
+    ],
+    "priority": 1
   },
   {
     "id": "ouganda-bus-scolaire",
@@ -829,5 +896,631 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      135.4699,
+      34.8656
+    ],
+    "id": "japon-bombe-minoh",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "News On Japan / Japan Times",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Minoh, préfecture d'Osaka, Japon",
+      "en": "Minoh, Osaka Prefecture, Japan",
+      "es": "Minoh, prefectura de Osaka, Japón"
+    },
+    "title": {
+      "fr": "Une bombe américaine de la Seconde Guerre mondiale découverte près d'une école à Minoh",
+      "en": "US World War II bomb found near a school in Minoh",
+      "es": "Hallan una bomba estadounidense de la Segunda Guerra Mundial cerca de una escuela en Minoh"
+    },
+    "summary": {
+      "fr": "Des ouvriers ont découvert le 17 juillet une bombe américaine non explosée d'une tonne (environ 900 kg), probablement larguée pendant la guerre du Pacifique, sur un chantier résidentiel à environ 300 mètres de la gare de Minoh, au Japon. Le maire de Minoh, Ryo Harada, a annoncé le 22 juillet lors d'une conférence de presse que jusqu'à 5 000 personnes pourraient devoir être évacuées lors de son désamorçage, la route concernée étant empruntée par des écoliers et des bus scolaires.",
+      "en": "Construction workers discovered an unexploded, roughly one-ton US bomb — believed to date from the Pacific War — on July 17 at a residential construction site about 300 meters from Minoh Station in Japan. Minoh Mayor Ryo Harada announced on July 22 at a press conference that up to 5,000 people may need to be evacuated during its disposal, as the nearby road is used by schoolchildren and school buses.",
+      "es": "Trabajadores de la construcción descubrieron el 17 de julio una bomba estadounidense sin detonar de aproximadamente una tonelada, presuntamente de la guerra del Pacífico, en una obra residencial a unos 300 metros de la estación de Minoh, en Japón. El alcalde de Minoh, Ryo Harada, anunció el 22 de julio en una rueda de prensa que hasta 5.000 personas podrían tener que ser evacuadas durante su desactivación, ya que la carretera cercana es utilizada por escolares y autobuses escolares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "07/17/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Des ouvriers découvrent une bombe américaine de 2 000 livres (environ une tonne) enfouie sur un chantier résidentiel de Minoh.",
+          "en": "Construction workers uncover a 2,000-pound (roughly one-ton) US bomb buried at a residential construction site in Minoh.",
+          "es": "Trabajadores descubren una bomba estadounidense de 2.000 libras (aproximadamente una tonelada) enterrada en una obra residencial de Minoh."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le maire de Minoh annonce qu'une évacuation pouvant concerner près de 5 000 habitants sera nécessaire pour le désamorçage de la bombe.",
+          "en": "Minoh's mayor announces that an evacuation of nearly 5,000 residents may be needed for the bomb's disposal.",
+          "es": "El alcalde de Minoh anuncia que podría ser necesaria la evacuación de casi 5.000 residentes para la desactivación de la bomba."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      11.3986,
+      44.5219
+    ],
+    "id": "italie-bologne-affrontements",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera / France 24 / Euronews / ANSA",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Bologne (quartier Pilastro), Italie",
+      "en": "Bologna (Pilastro district), Italy",
+      "es": "Bolonia (barrio de Pilastro), Italia"
+    },
+    "title": {
+      "fr": "Des affrontements éclatent à Bologne après la mort d'un homme lors d'une interpellation policière",
+      "en": "Clashes erupt in Bologna after a man's death during a police stop",
+      "es": "Estallan enfrentamientos en Bolonia tras la muerte de un hombre durante una detención policial"
+    },
+    "summary": {
+      "fr": "Abderrahim Fakir, un Marocain de 42 ans installé en Italie depuis plus de 30 ans, est mort le 19 juillet à Bologne après avoir été plaqué au sol et menotté par la police dans le quartier du Pilastro, selon Al Jazeera et France 24. Une vidéo largement diffusée le montre appelant à l'aide avant de cesser de bouger. Une veillée pacifique organisée le 20 juillet a dégénéré en affrontements : des manifestants ont lancé des pétards et des projectiles sur des véhicules blindés, et la police a répondu par des matraques, des canons à eau et des gaz lacrymogènes. Soixante-quatre policiers ont été blessés, selon ANSA.",
+      "en": "Abderrahim Fakir, a 42-year-old Moroccan man who had lived in Italy for over 30 years, died on July 19 in Bologna after being pinned to the ground and handcuffed by police in the Pilastro district, according to Al Jazeera and France 24. Widely shared footage shows him calling for help before going still. A peaceful vigil held on July 20 descended into clashes: demonstrators threw firecrackers and objects at armored vehicles, and police responded with batons, water cannon and tear gas. Sixty-four police officers were injured, according to ANSA.",
+      "es": "Abderrahim Fakir, un marroquí de 42 años que llevaba más de 30 años viviendo en Italia, murió el 19 de julio en Bolonia tras ser inmovilizado en el suelo y esposado por la policía en el barrio de Pilastro, según Al Jazeera y France 24. Un video ampliamente difundido lo muestra pidiendo ayuda antes de dejar de moverse. Una vigilia pacífica celebrada el 20 de julio derivó en enfrentamientos: manifestantes lanzaron petardos y objetos contra vehículos blindados, y la policía respondió con porras, cañones de agua y gases lacrimógenos. Sesenta y cuatro agentes resultaron heridos, según ANSA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "07/19/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Abderrahim Fakir meurt à Bologne après une intervention policière dans le quartier du Pilastro.",
+          "en": "Abderrahim Fakir dies in Bologna following a police intervention in the Pilastro district.",
+          "es": "Abderrahim Fakir muere en Bolonia tras una intervención policial en el barrio de Pilastro."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Une veillée en sa mémoire dégénère en affrontements avec la police ; 64 policiers sont blessés selon ANSA.",
+          "en": "A vigil in his memory turns into clashes with police; 64 officers are injured according to ANSA.",
+          "es": "Una vigilia en su memoria se convierte en enfrentamientos con la policía; 64 agentes resultan heridos según ANSA."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -71.2519,
+      -29.9027
+    ],
+    "id": "chili-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Washington Post / AP / France 24",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Régions de Coquimbo et d'Atacama, nord du Chili (zone proche de La Serena)",
+      "en": "Coquimbo and Atacama regions, northern Chile (near La Serena)",
+      "es": "Regiones de Coquimbo y Atacama, norte de Chile (cerca de La Serena)"
+    },
+    "title": {
+      "fr": "Des pluies diluviennes liées à El Niño font au moins 10 morts dans le nord du Chili",
+      "en": "El Niño-driven torrential rains kill at least 10 in northern Chile",
+      "es": "Lluvias torrenciales vinculadas a El Niño dejan al menos 10 muertos en el norte de Chile"
+    },
+    "summary": {
+      "fr": "Une semaine de pluies torrentielles inhabituelles, attribuées au phénomène El Niño, s'est abattue sur les régions arides de Coquimbo et d'Atacama, dans le nord du Chili, faisant au moins 10 morts et coupant plus de 100 000 personnes du reste du pays, selon le Washington Post et l'agence AP. Le gouvernement a déclaré l'état d'urgence ; environ 81 habitations ont été détruites et plus de 20 000 endommagées, avec plus de 4 000 personnes déplacées.",
+      "en": "A week of unusually torrential rain, attributed to El Niño, has battered the arid Coquimbo and Atacama regions of northern Chile, killing at least 10 people and cutting off more than 100,000 residents, according to the Washington Post and the Associated Press. The government has declared a state of emergency; roughly 81 homes were destroyed and more than 20,000 damaged, with over 4,000 people displaced.",
+      "es": "Una semana de lluvias inusualmente torrenciales, atribuidas a El Niño, ha azotado las áridas regiones de Coquimbo y Atacama, en el norte de Chile, dejando al menos 10 muertos y aislando a más de 100.000 personas, según el Washington Post y la agencia AP. El gobierno declaró el estado de emergencia; unas 81 viviendas fueron destruidas y más de 20.000 resultaron dañadas, con más de 4.000 personas desplazadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement chilien déclare l'état d'urgence face aux inondations meurtrières dans le nord du pays.",
+          "en": "The Chilean government declares a state of emergency amid deadly flooding in the country's north.",
+          "es": "El gobierno chileno declara el estado de emergencia ante las inundaciones mortales en el norte del país."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      9.8442,
+      10.3158
+    ],
+    "id": "nigeria-alerte-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "NIHSA / Vanguard / Guardian Nigeria",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "17 États du Nigeria, dont Bauchi (le plus exposé)",
+      "en": "17 Nigerian states, including Bauchi (most exposed)",
+      "es": "17 estados de Nigeria, incluido Bauchi (el más expuesto)"
+    },
+    "title": {
+      "fr": "Le Nigeria alerte 17 États sur un risque d'inondations et appelle à des évacuations préventives",
+      "en": "Nigeria warns 17 states of flood risk and urges preventive evacuations",
+      "es": "Nigeria alerta a 17 estados sobre riesgo de inundaciones y pide evacuaciones preventivas"
+    },
+    "summary": {
+      "fr": "L'Agence nigériane des services hydrologiques (NIHSA) a émis le 22 juillet une alerte de sept jours signalant un risque moyen d'inondations dans 17 États — dont Adamawa, Bauchi, Benue, Borno, Edo, Gombe, Imo, Jigawa, Kaduna, Kano, Kebbi, Nasarawa, Niger, Plateau, Taraba, Yobe et Zamfara — en raison de la montée des niveaux des cours d'eau, selon Vanguard et Guardian Nigeria. L'État de Bauchi est identifié comme le plus exposé, avec 1 841 localités jugées vulnérables ; les habitants des zones inondables sont invités à évacuer.",
+      "en": "Nigeria's Hydrological Services Agency (NIHSA) issued a seven-day advisory on July 22 warning of a medium flood risk in 17 states — including Adamawa, Bauchi, Benue, Borno, Edo, Gombe, Imo, Jigawa, Kaduna, Kano, Kebbi, Nasarawa, Niger, Plateau, Taraba, Yobe and Zamfara — due to rising river levels, according to Vanguard and Guardian Nigeria. Bauchi state is identified as the most exposed, with 1,841 communities deemed vulnerable; residents of floodplain areas are urged to evacuate.",
+      "es": "La Agencia de Servicios Hidrológicos de Nigeria (NIHSA) emitió el 22 de julio una alerta de siete días advirtiendo de un riesgo medio de inundaciones en 17 estados —entre ellos Adamawa, Bauchi, Benue, Borno, Edo, Gombe, Imo, Jigawa, Kaduna, Kano, Kebbi, Nasarawa, Niger, Plateau, Taraba, Yobe y Zamfara— debido a la subida del nivel de los ríos, según Vanguard y Guardian Nigeria. El estado de Bauchi es el más expuesto, con 1.841 comunidades consideradas vulnerables; se pide a los residentes de zonas inundables que evacúen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "La NIHSA publie une alerte nationale (NFA-2026-200) couvrant la période du 21 au 27 juillet pour 17 États.",
+          "en": "NIHSA issues a national advisory (NFA-2026-200) covering July 21-27 for 17 states.",
+          "es": "La NIHSA emite una alerta nacional (NFA-2026-200) que cubre del 21 al 27 de julio para 17 estados."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -89.9401,
+      29.8399
+    ],
+    "id": "etatsunis-tempete-bertha",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "NPR / CNN",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Paroisse de Saint-Bernard, Louisiane, États-Unis",
+      "en": "St. Bernard Parish, Louisiana, United States",
+      "es": "Parroquia de Saint Bernard, Luisiana, Estados Unidos"
+    },
+    "title": {
+      "fr": "La tempête tropicale Bertha touche terre en Louisiane et menace la côte du golfe du Mexique",
+      "en": "Tropical Storm Bertha makes landfall in Louisiana, threatens the Gulf Coast",
+      "es": "La tormenta tropical Bertha toca tierra en Luisiana y amenaza la costa del golfo de México"
+    },
+    "summary": {
+      "fr": "La tempête tropicale Bertha, deuxième tempête nommée de la saison des ouragans dans l'Atlantique, a touché terre le 21 juillet dans la paroisse de Saint-Bernard, dans le sud-est de la Louisiane, avec des vents soutenus d'environ 72 km/h, selon CNN et NPR. Les dégâts semblent limités à ce stade, mais la tempête menace de provoquer jusqu'à 1,2 mètre de submersion marine sur la côte du golfe du Mexique et pourrait alimenter un risque d'inondation sur la côte est des États-Unis dans les prochains jours.",
+      "en": "Tropical Storm Bertha, the second named storm of the Atlantic hurricane season, made landfall on July 21 in St. Bernard Parish in southeastern Louisiana with sustained winds of about 45 mph, according to CNN and NPR. Damage appears limited so far, but the storm threatens up to four feet of storm surge along the Gulf Coast and could fuel a flood risk on the US East Coast in coming days.",
+      "es": "La tormenta tropical Bertha, la segunda tormenta con nombre de la temporada de huracanes del Atlántico, tocó tierra el 21 de julio en la parroquia de Saint Bernard, en el sureste de Luisiana, con vientos sostenidos de unos 72 km/h, según CNN y NPR. Los daños parecen limitados por ahora, pero la tormenta amenaza con provocar hasta 1,2 metros de marejada ciclónica en la costa del golfo de México y podría alimentar un riesgo de inundación en la costa este de Estados Unidos en los próximos días."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Bertha touche terre à environ 65 km au sud-ouest de La Nouvelle-Orléans ; ses vents et pluies les plus forts restent au large.",
+          "en": "Bertha makes landfall about 40 miles southwest of New Orleans; its strongest winds and rain remain offshore.",
+          "es": "Bertha toca tierra a unos 65 km al suroeste de Nueva Orleans; sus vientos y lluvias más fuertes permanecen mar adentro."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -1.0833,
+      44.9333
+    ],
+    "id": "france-incendie-gironde",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "France Info / France 24 / ICI",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Entre Saumos et Le Porge (Médoc), Gironde, France",
+      "en": "Between Saumos and Le Porge (Médoc), Gironde, France",
+      "es": "Entre Saumos y Le Porge (Médoc), Gironde, Francia"
+    },
+    "title": {
+      "fr": "Un incendie dans le Médoc pousse plus de 5 000 personnes à évacuer en Gironde",
+      "en": "A wildfire in the Médoc forces more than 5,000 people to evacuate in Gironde",
+      "es": "Un incendio en el Médoc obliga a evacuar a más de 5.000 personas en Gironde"
+    },
+    "summary": {
+      "fr": "Un feu de forêt s'est déclaré l'après-midi du 22 juillet dans une pinède entre les communes de Saumos et du Porge, dans le Médoc (Gironde), et avait déjà parcouru 1 400 hectares en quelques heures, selon France Info et France 24. Plus de 5 000 personnes ont été évacuées, dont 3 500 vacanciers d'un camping du Porge, tandis qu'une évacuation partielle de la commune de Lège était engagée. Près de 300 pompiers, appuyés par des Canadair et des avions bombardiers d'eau, luttaient contre les flammes.",
+      "en": "A forest fire broke out on the afternoon of July 22 in a pine forest between the towns of Saumos and Le Porge in the Médoc area of Gironde, and had already burned through 1,400 hectares within hours, according to France Info and France 24. More than 5,000 people were evacuated, including 3,500 holidaymakers from a campsite in Le Porge, while a partial evacuation of the town of Lège was under way. Nearly 300 firefighters, backed by Canadair water bombers and air tankers, were battling the blaze.",
+      "es": "Un incendio forestal se declaró la tarde del 22 de julio en un pinar entre los municipios de Saumos y Le Porge, en el Médoc (Gironde), y ya había arrasado 1.400 hectáreas en pocas horas, según France Info y France 24. Más de 5.000 personas fueron evacuadas, entre ellas 3.500 turistas de un camping de Le Porge, mientras se llevaba a cabo una evacuación parcial del municipio de Lège. Cerca de 300 bomberos, apoyados por hidroaviones Canadair y aviones cisterna, combatían las llamas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "L'incendie se déclare entre Saumos et Le Porge et progresse rapidement, provoquant l'évacuation de plus de 5 000 personnes.",
+          "en": "The fire breaks out between Saumos and Le Porge and spreads rapidly, prompting the evacuation of more than 5,000 people.",
+          "es": "El incendio se declara entre Saumos y Le Porge y avanza rápidamente, provocando la evacuación de más de 5.000 personas."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "id": "inde-tribunaux-fuite-neet",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bar and Bench / India Legal",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Le Premier ministre Modi annonce des tribunaux spéciaux après la fuite du sujet de l'examen national NEET",
+      "en": "PM Modi announces fast-track courts after leak of national NEET exam paper",
+      "es": "El primer ministro Modi anuncia tribunales especiales tras la filtración del examen nacional NEET"
+    },
+    "summary": {
+      "fr": "Le Premier ministre indien Narendra Modi a annoncé le 23 juillet la création de tribunaux spéciaux (« fast-track ») pour juger rapidement les personnes impliquées dans des fuites de sujets d'examens, selon Bar and Bench et India Legal. L'annonce intervient en pleine controverse après la fuite alléguée du sujet de l'examen national d'entrée en médecine NEET-UG 2026, qui avait entraîné l'annulation puis la répétition de l'épreuve, ainsi que des manifestations dans plusieurs villes.",
+      "en": "Indian Prime Minister Narendra Modi announced on July 23 the creation of fast-track courts to swiftly try those involved in exam paper leaks, according to Bar and Bench and India Legal. The announcement comes amid controversy following the alleged leak of the 2026 NEET-UG national medical entrance exam paper, which led to the exam being cancelled and re-held, along with protests in several cities.",
+      "es": "El primer ministro indio, Narendra Modi, anunció el 23 de julio la creación de tribunales especiales de vía rápida para juzgar con celeridad a los implicados en filtraciones de exámenes, según Bar and Bench e India Legal. El anuncio llega en medio de la controversia por la presunta filtración del examen nacional de acceso a medicina NEET-UG 2026, que provocó la cancelación y repetición de la prueba, además de protestas en varias ciudades."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "07/23/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "Narendra Modi annonce la création de tribunaux rapides dédiés aux affaires de fuite de sujets d'examens.",
+          "en": "Narendra Modi announces the creation of fast-track courts dedicated to exam-leak cases.",
+          "es": "Narendra Modi anuncia la creación de tribunales de vía rápida dedicados a los casos de filtración de exámenes."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -93.85,
+      15.55
+    ],
+    "id": "mexique-seisme-chiapas",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "CNN / Euronews / The Watchers",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Au large de Chiapas, à environ 48 km au sud-ouest d'Aquiles Serdán, Mexique",
+      "en": "Off the coast of Chiapas, about 48 km southwest of Aquiles Serdán, Mexico",
+      "es": "Frente a la costa de Chiapas, a unos 48 km al suroeste de Aquiles Serdán, México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,3 secoue le Mexique près de la frontière guatémaltèque, alerte au tsunami levée",
+      "en": "Magnitude 7.3 earthquake shakes Mexico near the Guatemalan border, tsunami alert lifted",
+      "es": "Un sismo de magnitud 7,3 sacude México cerca de la frontera con Guatemala; se levanta la alerta de tsunami"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,3 a frappé le 17 juillet au large de la côte pacifique du Chiapas, dans le sud du Mexique, avec un épicentre situé à environ 48 km au sud-ouest d'Aquiles Serdán et une profondeur de 15 km selon l'USGS, cité par CNN et Euronews. Les secousses ont été ressenties jusqu'au Guatemala et au Salvador. Une alerte au tsunami a été émise par précaution puis levée ; les autorités mexicaines n'ont signalé à ce stade ni victime ni dégât majeur, malgré au moins dix répliques de magnitude 4,9 à 6,0.",
+      "en": "A magnitude 7.3 earthquake struck on July 17 off the Pacific coast of Chiapas in southern Mexico, with an epicenter about 48 km southwest of Aquiles Serdán and a depth of 15 km, according to the USGS, as cited by CNN and Euronews. The shaking was felt as far as Guatemala and El Salvador. A tsunami alert was issued as a precaution and later lifted; Mexican authorities have so far reported no casualties or major damage, despite at least 10 aftershocks of magnitude 4.9 to 6.0.",
+      "es": "Un sismo de magnitud 7,3 sacudió el 17 de julio la costa del Pacífico de Chiapas, en el sur de México, con epicentro a unos 48 km al suroeste de Aquiles Serdán y una profundidad de 15 km, según el USGS, citado por CNN y Euronews. El movimiento se sintió hasta Guatemala y El Salvador. Se emitió una alerta de tsunami por precaución que luego fue levantada; las autoridades mexicanas no han reportado hasta ahora víctimas ni daños mayores, pese a al menos 10 réplicas de magnitud entre 4,9 y 6,0."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "07/17/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,3 se produit à 14h48 UTC ; aucune victime n'est rapportée dans l'immédiat.",
+          "en": "The magnitude 7.3 quake occurs at 14:48 UTC; no casualties are reported immediately.",
+          "es": "El sismo de magnitud 7,3 ocurre a las 14:48 UTC; no se reportan víctimas de inmediato."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "id": "coree-sud-exportations-record",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg / UPI",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud relève ses prévisions de croissance, portée par un « supercycle » des semi-conducteurs",
+      "en": "South Korea raises growth outlook, powered by a semiconductor 'supercycle'",
+      "es": "Corea del Sur eleva sus previsiones de crecimiento impulsada por un 'superciclo' de semiconductores"
+    },
+    "summary": {
+      "fr": "Le gouvernement sud-coréen a relevé le 14 juillet sa prévision de croissance pour 2026 à environ 3 %, citant un « supercycle » de la demande de semi-conducteurs, selon UPI. Bloomberg rapporte que les exportations sud-coréennes ont grimpé de 62,9 % sur un an sur les vingt premiers jours de juillet, portées par la demande liée à l'intelligence artificielle, atteignant un record pour un mois de juillet.",
+      "en": "The South Korean government raised its 2026 growth forecast to about 3% on July 14, citing a semiconductor demand 'supercycle', according to UPI. Bloomberg reports that South Korean exports jumped 62.9% year-on-year in the first 20 days of July, driven by AI-related demand, reaching a record for any July on record.",
+      "es": "El gobierno surcoreano elevó el 14 de julio su previsión de crecimiento para 2026 a alrededor del 3 %, citando un 'superciclo' de demanda de semiconductores, según UPI. Bloomberg informa de que las exportaciones surcoreanas subieron un 62,9 % interanual en los primeros 20 días de julio, impulsadas por la demanda ligada a la inteligencia artificial, alcanzando un récord para un mes de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte un bond de 62,9 % des exportations sud-coréennes sur les vingt premiers jours de juillet, un record pour ce mois.",
+          "en": "Bloomberg reports a 62.9% jump in South Korean exports over the first 20 days of July, a record for the month.",
+          "es": "Bloomberg informa de un salto del 62,9 % en las exportaciones surcoreanas durante los primeros 20 días de julio, un récord para ese mes."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      7.3986,
+      9.0765
+    ],
+    "id": "allemagne-nigeria-visite",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Associated Press",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "Le chef de la diplomatie allemande achève une visite de deux jours au Nigeria pour renforcer les liens économiques",
+      "en": "Germany's foreign minister wraps up two-day Nigeria visit to deepen economic ties",
+      "es": "El jefe de la diplomacia alemana concluye una visita de dos días a Nigeria para reforzar los lazos económicos"
+    },
+    "summary": {
+      "fr": "Le ministre allemand des Affaires étrangères a achevé le 22 juillet une visite de deux jours au Nigeria, dans le cadre d'un effort de Berlin pour développer ses opportunités d'affaires en Afrique, alors que les États-Unis se montrent plus isolationnistes et que la Russie et la Chine exercent une pression géopolitique croissante sur le continent, selon l'agence Associated Press.",
+      "en": "Germany's foreign minister wrapped up a two-day visit to Nigeria on July 22, part of a broader push by Berlin to expand business opportunities across Africa amid a more isolationist United States and growing geopolitical pressure from Russia and China on the continent, according to the Associated Press.",
+      "es": "El ministro de Asuntos Exteriores alemán concluyó el 22 de julio una visita de dos días a Nigeria, en el marco de un esfuerzo de Berlín por ampliar oportunidades de negocio en África, en un contexto de mayor aislacionismo de Estados Unidos y creciente presión geopolítica de Rusia y China en el continente, según la agencia Associated Press."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le ministre allemand des Affaires étrangères conclut sa visite au Nigeria axée sur les relations commerciales.",
+          "en": "Germany's foreign minister concludes his Nigeria visit focused on trade relations.",
+          "es": "El ministro alemán de Asuntos Exteriores concluye su visita a Nigeria centrada en las relaciones comerciales."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "id": "bresil-audit-securite-crime",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Rio Times",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Un audit fédéral révèle que le crime organisé brasse 2,4 fois le budget de sécurité publique du Brésil",
+      "en": "Federal audit finds organized crime moves 2.4 times Brazil's public security budget",
+      "es": "Una auditoría federal revela que el crimen organizado mueve 2,4 veces el presupuesto de seguridad pública de Brasil"
+    },
+    "summary": {
+      "fr": "La Cour des comptes fédérale du Brésil (TCU) a publié le 8 juillet un rapport sur le Plan national de sécurité publique montrant que le crime organisé génère environ 348 milliards de reais (67,6 milliards de dollars) par an, soit environ 2,4 fois les 142,81 milliards de reais dépensés en 2024 par les trois échelons de gouvernement pour la sécurité, selon le Rio Times. L'audit souligne que ce sont surtout les États qui financent le maintien de l'ordre.",
+      "en": "Brazil's federal accounts court (TCU) published a report on July 8 on the National Public Security Plan showing organized crime generates about R$348 billion ($67.6 billion) a year — roughly 2.4 times the R$142.81 billion spent on security by all three tiers of government in 2024, according to the Rio Times. The audit found that Brazilian states shoulder almost the entire policing bill.",
+      "es": "El tribunal federal de cuentas de Brasil (TCU) publicó el 8 de julio un informe sobre el Plan Nacional de Seguridad Pública que muestra que el crimen organizado genera unos 348.000 millones de reales (67.600 millones de dólares) al año, aproximadamente 2,4 veces los 142.810 millones de reales gastados en seguridad por los tres niveles de gobierno en 2024, según el Rio Times. La auditoría señala que son los estados quienes financian casi la totalidad del gasto policial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/07/2026",
+          "en": "07/08/2026",
+          "es": "08/07/2026"
+        },
+        "d": {
+          "fr": "Le TCU publie son rapport chiffrant le poids financier du crime organisé face aux dépenses de sécurité publique.",
+          "en": "The TCU publishes its report quantifying organized crime's financial weight against public security spending.",
+          "es": "El TCU publica su informe que cuantifica el peso financiero del crimen organizado frente al gasto en seguridad pública."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      39.1925,
+      21.4858
+    ],
+    "id": "arabie-houthis-petroliers",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / CNBC",
+    "week": "2026-W30",
+    "priority": 1,
+    "place": {
+      "fr": "Mer Rouge, au large des côtes saoudiennes (zone précise non confirmée de façon indépendante)",
+      "en": "Red Sea, off the Saudi coast (precise location not independently confirmed)",
+      "es": "Mar Rojo, frente a la costa saudí (ubicación precisa no confirmada de forma independiente)"
+    },
+    "title": {
+      "fr": "Les Houthis revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge",
+      "en": "Houthis claim attacks on two Saudi oil tankers in the Red Sea",
+      "es": "Los hutíes reivindican ataques contra dos petroleros saudíes en el mar Rojo"
+    },
+    "summary": {
+      "fr": "Le mouvement houthi du Yémen a annoncé le 20 juillet un blocus maritime visant l'Arabie saoudite, sur fond d'élargissement du conflit régional autour de l'Iran, puis revendiqué le 22 juillet des frappes de missiles et de drones contre deux pétroliers saoudiens, l'Encelia et le Layla, selon Al Jazeera et CNBC. L'Arabie saoudite a confirmé qu'un des deux navires avait été touché, précisant que l'ensemble de l'équipage était sain et sauf. Le trafic maritime dans le détroit d'Ormuz et le détroit de Bab-el-Mandeb a fortement chuté le 21 juillet.",
+      "en": "Yemen's Houthi movement announced a maritime blockade targeting Saudi Arabia on July 20, amid a widening regional conflict tied to Iran, then claimed missile and drone strikes on July 22 against two Saudi oil tankers, the Encelia and the Layla, according to Al Jazeera and CNBC. Saudi Arabia confirmed one of the two vessels was hit, saying all crew members were safe. Shipping traffic through the Strait of Hormuz and the Bab al-Mandeb strait dropped sharply on July 21.",
+      "es": "El movimiento hutí de Yemen anunció el 20 de julio un bloqueo marítimo contra Arabia Saudita, en medio de la ampliación del conflicto regional vinculado a Irán, y luego reivindicó el 22 de julio ataques con misiles y drones contra dos petroleros saudíes, el Encelia y el Layla, según Al Jazeera y CNBC. Arabia Saudita confirmó que uno de los dos buques fue alcanzado, precisando que toda la tripulación estaba a salvo. El tráfico marítimo por el estrecho de Ormuz y el de Bab el-Mandeb cayó fuertemente el 21 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Les Houthis annoncent un blocus maritime visant l'Arabie saoudite.",
+          "en": "The Houthis announce a maritime blockade targeting Saudi Arabia.",
+          "es": "Los hutíes anuncian un bloqueo marítimo contra Arabia Saudita."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Les Houthis revendiquent des frappes contre deux pétroliers saoudiens ; Riyad confirme qu'un navire a été touché sans faire de victimes.",
+          "en": "The Houthis claim strikes on two Saudi oil tankers; Riyadh confirms one vessel was hit with no casualties.",
+          "es": "Los hutíes reivindican ataques contra dos petroleros saudíes; Riad confirma que un buque fue alcanzado sin víctimas."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "coords": [
+      107.6191,
+      -6.9175
+    ],
+    "id": "indonesie-trafic-bebes-condamnation",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Agence France-Presse",
+    "week": "2026-W30",
+    "priority": 2,
+    "place": {
+      "fr": "Bandung, Indonésie",
+      "en": "Bandung, Indonesia",
+      "es": "Bandung, Indonesia"
+    },
+    "title": {
+      "fr": "La responsable d'un réseau de trafic de bébés condamnée à 7 ans de prison en Indonésie",
+      "en": "Leader of a baby trafficking ring sentenced to 7 years in prison in Indonesia",
+      "es": "La líder de una red de tráfico de bebés condenada a 7 años de prisión en Indonesia"
+    },
+    "summary": {
+      "fr": "Un tribunal de Bandung, en Indonésie, a condamné le 21 juillet Lie Siu Luan, à la tête d'un réseau de trafic de nourrissons, à sept ans de prison, selon l'Agence France-Presse. Elle a été reconnue coupable d'avoir « recruté, hébergé, envoyé et transféré » des victimes à des fins d'exploitation.",
+      "en": "A court in Bandung, Indonesia, sentenced Lie Siu Luan, the leader of a baby trafficking ring, to seven years in prison on July 21, according to Agence France-Presse. She was found guilty of 'recruiting, harbouring, sending, transferring' victims for the purpose of exploitation.",
+      "es": "Un tribunal de Bandung, Indonesia, condenó el 21 de julio a Lie Siu Luan, líder de una red de tráfico de bebés, a siete años de prisión, según la Agencia France-Presse. Fue declarada culpable de 'reclutar, albergar, enviar y transferir' víctimas con fines de explotación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Bandung condamne Lie Siu Luan à sept ans de prison pour trafic de nourrissons.",
+          "en": "The Bandung court sentences Lie Siu Luan to seven years in prison for infant trafficking.",
+          "es": "El tribunal de Bandung condena a Lie Siu Luan a siete años de prisión por tráfico de bebés."
+        },
+        "active": true
+      }
+    ],
+    "related": []
   }
 ]
