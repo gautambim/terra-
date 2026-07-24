@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "CNN / Al Jazeera / Axios / La Presse / franceinfo / Radio-Canada",
+    "week": "2026-W30",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22-23/07/2026",
+          "en": "07/22-23/2026",
+          "es": "22-23/07/2026"
+        },
+        "d": {
+          "fr": "Les forces américaines mènent une 13e nuit consécutive de frappes contre l'Iran, utilisant pour la première fois un bombardier B-1, tandis que les rebelles houthis, alliés de l'Iran, revendiquent des attaques contre deux pétroliers saoudiens en mer Rouge. Le baril de Brent dépasse les 100 dollars. Téhéran aurait rejeté une proposition de cessez-le-feu transmise par l'intermédiaire du Premier ministre irakien, selon CNN et Al Jazeera.",
+          "en": "US forces carry out a 13th consecutive night of strikes on Iran, using a B-1 bomber for the first time, while Iran-aligned Houthi rebels claim attacks on two Saudi oil tankers in the Red Sea. Brent crude tops $100 a barrel. Tehran reportedly rejected a ceasefire proposal relayed via the Iraqi prime minister, according to CNN and Al Jazeera.",
+          "es": "Las fuerzas estadounidenses realizan una 13.ª noche consecutiva de ataques contra Irán, utilizando por primera vez un bombardero B-1, mientras los rebeldes hutíes, aliados de Irán, reivindican ataques contra dos petroleros saudíes en el mar Rojo. El barril de Brent supera los 100 dólares. Teherán presuntamente rechazó una propuesta de alto el fuego transmitida por medio del primer ministro iraquí, según CNN y Al Jazeera."
         },
         "active": true
       }
@@ -828,6 +841,1070 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "denver-ultra-lounge-fusillade",
+    "coords": [
+      -104.9,
+      39.643
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Denverite / CBS Colorado / Denver Gazette",
+    "place": {
+      "fr": "Denver (quartier sud-est), Colorado, États-Unis",
+      "en": "Denver (southeast), Colorado, United States",
+      "es": "Denver (sureste), Colorado, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade devant une boîte de nuit à Denver : un mort et huit blessés",
+      "en": "Shooting outside Denver nightclub leaves one dead, eight wounded",
+      "es": "Tiroteo frente a una discoteca de Denver deja un muerto y ocho heridos"
+    },
+    "summary": {
+      "fr": "Des coups de feu ont éclaté sur la terrasse et le parking de l'Ultra Lounge, dans le sud-est de Denver, peu avant 1h du matin le 20 juillet 2026. Une personne est morte et huit autres ont été blessées. Les enquêteurs ont retrouvé 66 douilles de calibres .45 et 9 mm, ce qui suggère au moins deux tireurs. Selon la police, la fusillade ferait suite à une dispute survenue plus tôt dans la journée lors d'un événement à Aurora.",
+      "en": "Gunfire erupted on the patio and in the parking lot of the Ultra Lounge, in southeast Denver, shortly before 1 a.m. on July 20, 2026. One person was killed and eight others wounded. Investigators recovered 66 shell casings in .45-caliber and 9mm calibers, suggesting at least two shooters. Police believe the shooting followed a dispute that began earlier that day at a separate event in Aurora.",
+      "es": "Se produjeron disparos en la terraza y el estacionamiento del Ultra Lounge, en el sureste de Denver, poco antes de la 1 de la madrugada del 20 de julio de 2026. Una persona murió y otras ocho resultaron heridas. Los investigadores recuperaron 66 casquillos de calibres .45 y 9 mm, lo que sugiere al menos dos tiradores. Según la policía, el tiroteo se produjo tras una disputa iniciada horas antes en un evento en Aurora."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026 — vers 1h du matin",
+          "en": "07/20/2026 — around 1 a.m.",
+          "es": "20/07/2026 — alrededor de la 1 de la madrugada"
+        },
+        "d": {
+          "fr": "Des coups de feu éclatent à l'Ultra Lounge, dans le sud-est de Denver ; un mort et huit blessés.",
+          "en": "Gunfire erupts at the Ultra Lounge in southeast Denver; one dead and eight wounded.",
+          "es": "Se producen disparos en el Ultra Lounge, en el sureste de Denver; un muerto y ocho heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "La ville de Denver suspend les licences d'alcool et de spectacle de l'établissement, l'accusant d'avoir contourné la réglementation.",
+          "en": "The city of Denver suspends the venue's liquor and entertainment licenses, alleging it circumvented licensing rules.",
+          "es": "La ciudad de Denver suspende las licencias de alcohol y espectáculos del local, alegando que incumplió la normativa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "virginie-occidentale-inondations",
+    "coords": [
+      -80.23,
+      38.998
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "The Washington Post / CBS News / bureau du gouverneur de Virginie-Occidentale",
+    "place": {
+      "fr": "Buckhannon (comté d'Upshur), Virginie-Occidentale, États-Unis",
+      "en": "Buckhannon (Upshur County), West Virginia, United States",
+      "es": "Buckhannon (condado de Upshur), Virginia Occidental, Estados Unidos"
+    },
+    "title": {
+      "fr": "Crues éclair meurtrières en Virginie-Occidentale, état d'urgence déclaré",
+      "en": "Deadly flash flooding hits West Virginia, state of emergency declared",
+      "es": "Inundaciones repentinas mortales en Virginia Occidental; se declara el estado de emergencia"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles — jusqu'à 18 cm en quelques heures, dont 11 cm en 37 minutes par endroits — ont provoqué des crues éclair dans les comtés de Lewis, Randolph et Upshur dans la nuit du 21 au 22 juillet 2026. Le ruisseau Sand Run, près de Buckhannon, a atteint son niveau le plus élevé jamais enregistré. Le gouverneur Patrick Morrisey a déclaré l'état d'urgence pour les 55 comtés de l'État et déployé plus de 300 membres de la Garde nationale pour les opérations de recherche et de sauvetage. Deux décès ont été confirmés dans le comté d'Upshur.",
+      "en": "Torrential rain — up to 18 cm in a few hours, including 11 cm in just 37 minutes in some spots — triggered flash flooding across Lewis, Randolph and Upshur counties overnight on July 21-22, 2026. Sand Run creek near Buckhannon reached its highest recorded level. Governor Patrick Morrisey declared a state of emergency for all 55 counties and deployed over 300 National Guard members for search-and-rescue operations. Two deaths were confirmed in Upshur County.",
+      "es": "Lluvias torrenciales —hasta 18 cm en pocas horas, incluidos 11 cm en solo 37 minutos en algunos puntos— provocaron inundaciones repentinas en los condados de Lewis, Randolph y Upshur durante la noche del 21 al 22 de julio de 2026. El arroyo Sand Run, cerca de Buckhannon, alcanzó su nivel más alto registrado. El gobernador Patrick Morrisey declaró el estado de emergencia para los 55 condados del estado y desplegó a más de 300 miembros de la Guardia Nacional para tareas de búsqueda y rescate. Se confirmaron dos muertes en el condado de Upshur."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur déclare l'état d'urgence après des crues éclair record ayant fait deux morts dans le comté d'Upshur.",
+          "en": "The governor declares a state of emergency after record flash flooding kills two in Upshur County.",
+          "es": "El gobernador declara el estado de emergencia tras inundaciones repentinas récord que dejaron dos muertos en el condado de Upshur."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "ontario-feux-evacuations",
+    "coords": [
+      -90.3,
+      49.7
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / NetNewsLedger",
+    "place": {
+      "fr": "Nord-ouest de l'Ontario (district de Thunder Bay), Canada",
+      "en": "Northwestern Ontario (Thunder Bay District), Canada",
+      "es": "Noroeste de Ontario (distrito de Thunder Bay), Canadá"
+    },
+    "title": {
+      "fr": "Plus de 100 feux de forêt forcent l'évacuation de communautés autochtones dans le nord-ouest de l'Ontario",
+      "en": "Over 100 wildfires force evacuation of First Nations communities in northwestern Ontario",
+      "es": "Más de 100 incendios forestales obligan a evacuar comunidades indígenas en el noroeste de Ontario"
+    },
+    "summary": {
+      "fr": "Une centaine de feux de forêt se sont déclarés dans le nord-ouest de l'Ontario à partir de la mi-juillet 2026, entraînant l'évacuation de plusieurs communautés des Premières Nations, dont Whitesand, Lac des Mille Lacs et Gakijiwanong Anishinaabe Nation. Le feu Fort Frances 14 a à lui seul brûlé plus de 55 000 hectares et n'était toujours pas maîtrisé au 22 juillet. Les fumées ont atteint Toronto, Chicago, Boston et New York. Des ordres d'évacuation et des restrictions d'accès, notamment sur les routes 811 et 527, restaient en vigueur au 22 juillet 2026.",
+      "en": "About 100 wildfires broke out in northwestern Ontario starting in mid-July 2026, forcing the evacuation of several First Nations communities, including Whitesand, Lac des Mille Lacs and Gakijiwanong Anishinaabe Nation. The Fort Frances 14 fire alone had burned more than 55,000 hectares and remained out of control as of July 22. Smoke reached Toronto, Chicago, Boston and New York. Evacuation orders and access restrictions, including on Highways 811 and 527, remained in effect as of July 22, 2026.",
+      "es": "Un centenar de incendios forestales estalló en el noroeste de Ontario desde mediados de julio de 2026, obligando a evacuar a varias comunidades de Primeras Naciones, entre ellas Whitesand, Lac des Mille Lacs y Gakijiwanong Anishinaabe Nation. El incendio Fort Frances 14 por sí solo había quemado más de 55.000 hectáreas y seguía sin control al 22 de julio. El humo llegó hasta Toronto, Chicago, Boston y Nueva York. Las órdenes de evacuación y las restricciones de acceso, incluidas las carreteras 811 y 527, seguían vigentes al 22 de julio de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Les ordres d'évacuation et restrictions d'accès restent en vigueur alors que de nouveaux feux sont confirmés dans le nord-est de la province.",
+          "en": "Evacuation orders and access restrictions remain in place as new fires are confirmed in the province's northeast.",
+          "es": "Las órdenes de evacuación y las restricciones de acceso siguen vigentes mientras se confirman nuevos incendios en el noreste de la provincia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "oaxaca-journaliste-assassine",
+    "coords": [
+      -96.78,
+      17.14
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎙",
+    "source": "La Jornada / El Financiero",
+    "place": {
+      "fr": "San Pablo Etla, région d'Oaxaca, Mexique",
+      "en": "San Pablo Etla, Oaxaca region, Mexico",
+      "es": "San Pablo Etla, región de Oaxaca, México"
+    },
+    "title": {
+      "fr": "Le journaliste Alejandro Leyva Aguilar assassiné à Oaxaca",
+      "en": "Journalist Alejandro Leyva Aguilar shot dead in Oaxaca",
+      "es": "Asesinan al periodista Alejandro Leyva Aguilar en Oaxaca"
+    },
+    "summary": {
+      "fr": "Francisco Alejandro Leyva Aguilar, 60 ans, journaliste et ancien directeur de la chaîne publique CORTV, a été abattu par des hommes armés circulant à moto alors qu'il prenait son petit-déjeuner dans le quartier de La Esmeralda, à San Pablo Etla, le 22 juillet 2026. Il a été atteint de trois balles à la tête. Critique du gouverneur d'Oaxaca Salomón Jara, il avait signalé des menaces de mort depuis juillet 2025. Selon Reporters sans frontières, il s'agit du septième journaliste tué au Mexique en 2026.",
+      "en": "Francisco Alejandro Leyva Aguilar, 60, a journalist and former director of state broadcaster CORTV, was shot by gunmen on a motorcycle while eating breakfast in the La Esmeralda neighborhood of San Pablo Etla on July 22, 2026. He was hit three times in the head. A vocal critic of Oaxaca Governor Salomón Jara, he had reported death threats since July 2025. According to Reporters Without Borders, he is the seventh journalist killed in Mexico in 2026.",
+      "es": "Francisco Alejandro Leyva Aguilar, de 60 años, periodista y exdirector de la televisora estatal CORTV, fue baleado por hombres armados en motocicleta mientras desayunaba en el barrio de La Esmeralda, en San Pablo Etla, el 22 de julio de 2026. Recibió tres impactos en la cabeza. Crítico habitual del gobernador de Oaxaca, Salomón Jara, había denunciado amenazas de muerte desde julio de 2025. Según Reporteros Sin Fronteras, es el séptimo periodista asesinado en México en 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Alejandro Leyva Aguilar est abattu par des hommes armés à San Pablo Etla ; le gouverneur Salomón Jara condamne l'attaque.",
+          "en": "Alejandro Leyva Aguilar is shot dead by gunmen in San Pablo Etla; Governor Salomón Jara condemns the attack.",
+          "es": "Alejandro Leyva Aguilar es baleado por hombres armados en San Pablo Etla; el gobernador Salomón Jara condena el ataque."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "zacatecas-dix-corps",
+    "coords": [
+      -102.87,
+      23.17
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "El Financiero / Infobae",
+    "place": {
+      "fr": "Municipalités de Pánuco, Morelos et Sain Alto (région de Fresnillo), Zacatecas, Mexique",
+      "en": "Pánuco, Morelos and Sain Alto municipalities (Fresnillo region), Zacatecas, Mexico",
+      "es": "Municipios de Pánuco, Morelos y Sain Alto (región de Fresnillo), Zacatecas, México"
+    },
+    "title": {
+      "fr": "Dix hommes séquestrés retrouvés morts dans trois municipalités de Zacatecas",
+      "en": "Ten kidnapped men found dead across three Zacatecas municipalities",
+      "es": "Hallan muertos a diez hombres secuestrados en tres municipios de Zacatecas"
+    },
+    "summary": {
+      "fr": "Les corps de dix hommes enlevés ont été découverts le 18 juillet 2026 dans les municipalités de Pánuco, Morelos et Sain Alto, dans la région de Fresnillo. Parmi les victimes figurent un ancien maire de Sombrerete et un responsable municipal de Fresnillo ; huit sont morts asphyxiés et deux par balle. Dans le cadre de l'opération « Rastrillo », cinq suspects ont été arrêtés entre le 19 et le 22 juillet, et l'armée mexicaine a déployé une centaine de soldats des forces spéciales dans l'État.",
+      "en": "The bodies of ten kidnapped men were found on July 18, 2026, across the municipalities of Pánuco, Morelos and Sain Alto in the Fresnillo region. Victims included a former mayor of Sombrerete and a Fresnillo municipal official; eight died of asphyxiation and two from gunshot wounds. Under 'Operation Rastrillo,' five suspects were arrested between July 19 and 22, and the Mexican army deployed about 100 special forces troops to the state.",
+      "es": "Los cuerpos de diez hombres secuestrados fueron hallados el 18 de julio de 2026 en los municipios de Pánuco, Morelos y Sain Alto, en la región de Fresnillo. Entre las víctimas había un exalcalde de Sombrerete y un funcionario municipal de Fresnillo; ocho murieron por asfixia y dos por disparos. En el marco del 'Operativo Rastrillo', cinco sospechosos fueron detenidos entre el 19 y el 22 de julio, y el Ejército mexicano desplegó un centenar de soldados de fuerzas especiales en el estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "07/18/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Les corps de dix hommes enlevés sont découverts dans trois municipalités de la région de Fresnillo.",
+          "en": "The bodies of ten kidnapped men are found across three municipalities in the Fresnillo region.",
+          "es": "Se hallan los cuerpos de diez hombres secuestrados en tres municipios de la región de Fresnillo."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Cinq suspects sont arrêtés et l'armée déploie une centaine de soldats des forces spéciales dans l'État.",
+          "en": "Five suspects are arrested and the army deploys about 100 special forces troops to the state.",
+          "es": "Cinco sospechosos son detenidos y el ejército despliega un centenar de soldados de fuerzas especiales en el estado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "bolsonaro-visites-suspendues",
+    "coords": [
+      -47.89,
+      -15.8
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg / Al Jazeera",
+    "place": {
+      "fr": "Brasília, District fédéral, Brésil",
+      "en": "Brasília, Federal District, Brazil",
+      "es": "Brasilia, Distrito Federal, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne interdit à Flávio Bolsonaro de rendre visite à son père pendant 90 jours",
+      "en": "Brazilian court bars Flávio Bolsonaro from visiting his father for 90 days",
+      "es": "La justicia brasileña prohíbe a Flávio Bolsonaro visitar a su padre durante 90 días"
+    },
+    "summary": {
+      "fr": "Le juge de la Cour suprême Alexandre de Moraes a suspendu le 13 juillet 2026 les visites du sénateur Flávio Bolsonaro à son père, l'ex-président Jair Bolsonaro, après que celui-ci a lu à voix haute une lettre de son père lors d'une diffusion en direct sur les réseaux sociaux, en violation de l'interdiction faite à l'ex-président d'utiliser directement ou indirectement les réseaux sociaux. Jair Bolsonaro, condamné en septembre 2025 à 27 ans de prison pour tentative de coup d'État, purge sa peine en résidence surveillée. La défense a fait appel de la décision le 20 juillet 2026, la jugeant « manifestement disproportionnée ».",
+      "en": "Supreme Court Justice Alexandre de Moraes suspended Senator Flávio Bolsonaro's visits to his father, former president Jair Bolsonaro, on July 13, 2026, after Flávio read aloud a letter from his father during a live social media broadcast, violating the former president's ban on direct or indirect social media use. Jair Bolsonaro, sentenced in September 2025 to 27 years in prison for plotting a coup, is serving his sentence under house arrest. His defense appealed the ruling on July 20, 2026, calling it 'manifestly disproportionate.'",
+      "es": "El juez del Supremo Tribunal Federal Alexandre de Moraes suspendió el 13 de julio de 2026 las visitas del senador Flávio Bolsonaro a su padre, el expresidente Jair Bolsonaro, después de que Flávio leyera en voz alta una carta de su padre durante una transmisión en vivo en redes sociales, en violación de la prohibición que pesa sobre el expresidente de usar redes sociales de forma directa o indirecta. Jair Bolsonaro, condenado en septiembre de 2025 a 27 años de prisión por intentar un golpe de Estado, cumple su condena bajo arresto domiciliario. Su defensa apeló la decisión el 20 de julio de 2026, calificándola de 'manifiestamente desproporcionada'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "07/13/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes suspend pour 90 jours les visites de Flávio Bolsonaro à son père.",
+          "en": "Justice Alexandre de Moraes suspends Flávio Bolsonaro's visits to his father for 90 days.",
+          "es": "El juez Alexandre de Moraes suspende por 90 días las visitas de Flávio Bolsonaro a su padre."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "La défense de Jair Bolsonaro fait appel de la décision, la qualifiant de manifestement disproportionnée.",
+          "en": "Jair Bolsonaro's defense appeals the ruling, calling it manifestly disproportionate.",
+          "es": "La defensa de Jair Bolsonaro apela la decisión, calificándola de manifiestamente desproporcionada."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "pantanal-incendies-record",
+    "coords": [
+      -57.65,
+      -19.01
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Correio do Estado / A Crítica",
+    "place": {
+      "fr": "Corumbá, Mato Grosso do Sul (biome du Pantanal), Brésil",
+      "en": "Corumbá, Mato Grosso do Sul (Pantanal biome), Brazil",
+      "es": "Corumbá, Mato Grosso do Sul (bioma del Pantanal), Brasil"
+    },
+    "title": {
+      "fr": "Les incendies dans le Pantanal brésilien bondissent de 770 % en un an",
+      "en": "Wildfires in Brazil's Pantanal surge 770% year-on-year",
+      "es": "Los incendios en el Pantanal brasileño aumentan un 770 % en un año"
+    },
+    "summary": {
+      "fr": "Entre le 1er janvier et le 15 juillet 2026, la surface brûlée dans le Pantanal de l'État du Mato Grosso do Sul a atteint près de 58 900 hectares, soit une hausse de 770 % par rapport à la même période en 2025. Quatre foyers actifs étaient recensés le long de la frontière avec la Bolivie, dans la municipalité de Corumbá. Le ministère brésilien de l'Environnement a déclaré l'état d'urgence environnementale pour le Pantanal jusqu'en décembre 2026, en raison du risque d'incendie aggravé par El Niño.",
+      "en": "Between January 1 and July 15, 2026, burned area in the Pantanal of Mato Grosso do Sul reached nearly 58,900 hectares, a 770% increase over the same period in 2025. Four active fires were recorded along the border with Bolivia, in the municipality of Corumbá. Brazil's Ministry of Environment declared an environmental emergency for the Pantanal running through December 2026, citing fire risk worsened by El Niño.",
+      "es": "Entre el 1 de enero y el 15 de julio de 2026, el área quemada en el Pantanal de Mato Grosso do Sul alcanzó casi 58.900 hectáreas, un aumento del 770 % respecto al mismo período de 2025. Se registraron cuatro incendios activos a lo largo de la frontera con Bolivia, en el municipio de Corumbá. El Ministerio de Medio Ambiente de Brasil declaró la emergencia ambiental para el Pantanal hasta diciembre de 2026, citando el riesgo de incendios agravado por El Niño."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026",
+          "en": "07/15/2026",
+          "es": "15/07/2026"
+        },
+        "d": {
+          "fr": "La surface brûlée dans le Pantanal atteint 58 900 hectares depuis le début de l'année, en hausse de 770 % sur un an.",
+          "en": "Burned area in the Pantanal reaches 58,900 hectares since the start of the year, up 770% year-on-year.",
+          "es": "El área quemada en el Pantanal alcanza 58.900 hectáreas desde inicios de año, un 770 % más interanual."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "sikkim-tunnel-explosion",
+    "coords": [
+      88.35,
+      27.17
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "NBC News / EastMojo",
+    "place": {
+      "fr": "Samardung, district de Namchi, Sikkim du Sud, Inde",
+      "en": "Samardung, Namchi district, South Sikkim, India",
+      "es": "Samardung, distrito de Namchi, Sikkim del Sur, India"
+    },
+    "title": {
+      "fr": "Une explosion de gaz toxique tue 25 ouvriers dans un tunnel hydroélectrique au Sikkim",
+      "en": "Toxic gas explosion kills 25 workers in Sikkim hydropower tunnel",
+      "es": "Una explosión de gas tóxico mata a 25 obreros en un túnel hidroeléctrico de Sikkim"
+    },
+    "summary": {
+      "fr": "Une explosion provoquée par une accumulation de méthane, de monoxyde de carbone et d'hydrogène sulfuré a frappé le 20 juillet 2026 le tunnel en construction du projet hydroélectrique Teesta VI, près de Samardung, dans le sud du Sikkim, à proximité de la frontière chinoise. Les 25 ouvriers piégés, employés par NHPC Ltd et l'entreprise Patel Engineering, sont morts. L'opération de recherche, ralentie par les émanations toxiques, s'est achevée le 23 juillet avec la récupération de tous les corps.",
+      "en": "An explosion caused by a build-up of methane, carbon monoxide and hydrogen sulphide struck the under-construction tunnel of the Teesta VI hydropower project near Samardung, South Sikkim, close to the Chinese border, on July 20, 2026. All 25 trapped workers, employed by NHPC Ltd and contractor Patel Engineering, died. The search operation, slowed by toxic fumes, concluded on July 23 with the recovery of all bodies.",
+      "es": "Una explosión causada por la acumulación de metano, monóxido de carbono y sulfuro de hidrógeno golpeó el 20 de julio de 2026 el túnel en construcción del proyecto hidroeléctrico Teesta VI, cerca de Samardung, en el sur de Sikkim, próximo a la frontera con China. Los 25 obreros atrapados, empleados de NHPC Ltd y la contratista Patel Engineering, murieron. La operación de búsqueda, ralentizada por los gases tóxicos, concluyó el 23 de julio con la recuperación de todos los cuerpos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Une explosion de gaz toxique piège 25 ouvriers dans le tunnel du projet Teesta VI.",
+          "en": "A toxic gas explosion traps 25 workers in the Teesta VI project tunnel.",
+          "es": "Una explosión de gas tóxico atrapa a 25 obreros en el túnel del proyecto Teesta VI."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "07/23/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "L'opération de recherche s'achève avec la récupération des corps des 25 ouvriers, tous décédés.",
+          "en": "The search operation concludes with the recovery of the bodies of all 25 workers, all deceased.",
+          "es": "La operación de búsqueda concluye con la recuperación de los cuerpos de los 25 obreros, todos fallecidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "delhi-manifestation-cafards",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Washington Post / Al Jazeera / NPR",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Répression policière lors d'une manifestation de plus de 10 000 personnes à New Delhi",
+      "en": "Police crack down on protest of over 10,000 near India's Parliament",
+      "es": "La policía reprime una manifestación de más de 10.000 personas cerca del Parlamento en Nueva Delhi"
+    },
+    "summary": {
+      "fr": "Plus de 10 000 personnes du mouvement « Cockroach » ont défilé le 20 juillet 2026 vers le Parlement à New Delhi pour réclamer la démission du ministre de l'Éducation et une réforme des examens nationaux, après l'hospitalisation forcée de l'activiste Sonam Wangchuk, en grève de la faim depuis trois semaines. La police a utilisé gaz lacrymogènes et matraques ; environ 180 personnes, manifestants et policiers confondus, ont été blessées. Les organisateurs ont annoncé une pause des marches à New Delhi pour des raisons de sécurité.",
+      "en": "More than 10,000 supporters of the 'Cockroach' movement marched toward Parliament in New Delhi on July 20, 2026, demanding the education minister's resignation and reform of the national exam system, after the forcible hospitalization of activist Sonam Wangchuk, who had been on hunger strike for three weeks. Police used tear gas and batons; about 180 people, protesters and police combined, were injured. Organizers announced a pause on street marches in New Delhi over safety concerns.",
+      "es": "Más de 10.000 seguidores del movimiento 'Cockroach' marcharon hacia el Parlamento en Nueva Delhi el 20 de julio de 2026 para exigir la renuncia del ministro de Educación y una reforma del sistema de exámenes nacionales, tras la hospitalización forzada del activista Sonam Wangchuk, en huelga de hambre desde hacía tres semanas. La policía usó gases lacrimógenos y porras; unas 180 personas, entre manifestantes y policías, resultaron heridas. Los organizadores anunciaron una pausa en las marchas en Nueva Delhi por razones de seguridad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "La police disperse au gaz lacrymogène une marche de plus de 10 000 personnes vers le Parlement ; environ 180 blessés.",
+          "en": "Police use tear gas to disperse a march of more than 10,000 toward Parliament; about 180 injured.",
+          "es": "La policía dispersa con gases lacrimógenos una marcha de más de 10.000 personas hacia el Parlamento; unos 180 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "zamfara-attaque-bandits",
+    "coords": [
+      6.07,
+      12.57
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera (AFP) / Sahara Reporters",
+    "place": {
+      "fr": "Zone de gouvernement local de Talata Mafara, État de Zamfara, Nigeria",
+      "en": "Talata Mafara Local Government Area, Zamfara State, Nigeria",
+      "es": "Área de gobierno local de Talata Mafara, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "Plus de 20 morts dans une attaque de bandits armés contre des villages du Zamfara",
+      "en": "More than 20 killed in armed bandit attack on Zamfara villages",
+      "es": "Más de 20 muertos en un ataque de bandidos armados contra aldeas de Zamfara"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué au moins cinq villages de la zone de Talata Mafara, dans l'État de Zamfara, dans le nord-ouest du Nigeria, pendant environ trois heures le 23 juillet 2026. Au moins 20 personnes ont été tuées, selon des responsables locaux et des témoins, qui accusent les forces de sécurité d'avoir fui les lieux. Les assaillants ont également volé du bétail, une pratique récurrente des groupes de « bandits » actifs dans la région.",
+      "en": "Armed men attacked at least five villages in the Talata Mafara area of Zamfara State, in northwest Nigeria, for about three hours on July 23, 2026. At least 20 people were killed, according to local officials and witnesses, who accused security forces of fleeing the scene. The attackers also stole livestock, a recurring pattern of the 'bandit' groups active in the region.",
+      "es": "Hombres armados atacaron al menos cinco aldeas en el área de Talata Mafara, en el estado de Zamfara, noroeste de Nigeria, durante unas tres horas el 23 de julio de 2026. Al menos 20 personas murieron, según funcionarios locales y testigos, quienes acusaron a las fuerzas de seguridad de huir del lugar. Los atacantes también robaron ganado, una práctica recurrente de los grupos de 'bandidos' activos en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "07/23/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent au moins cinq villages pendant environ trois heures, faisant au moins 20 morts.",
+          "en": "Armed men attack at least five villages for about three hours, killing at least 20.",
+          "es": "Hombres armados atacan al menos cinco aldeas durante unas tres horas, dejando al menos 20 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "indonesie-trafic-bebes",
+    "coords": [
+      107.6191,
+      -6.9175
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Jakarta Post (AFP) / New Straits Times",
+    "place": {
+      "fr": "Bandung, Java occidental, Indonésie",
+      "en": "Bandung, West Java, Indonesia",
+      "es": "Bandung, Java Occidental, Indonesia"
+    },
+    "title": {
+      "fr": "Le chef d'un réseau de trafic de bébés condamné à 7 ans de prison en Indonésie",
+      "en": "Leader of baby-trafficking ring sentenced to 7 years in Indonesia",
+      "es": "Condenan a 7 años de prisión al líder de una red de tráfico de bebés en Indonesia"
+    },
+    "summary": {
+      "fr": "Un tribunal de Bandung a condamné le 21 juillet 2026 Lie Siu Luan, 70 ans, à sept ans de prison pour avoir dirigé un réseau ayant envoyé au moins 12 bébés indonésiens à Singapour. Une coaccusée, Astri Fitrinika, a écopé de 6 ans et 7 mois ; les 19 personnes jugées au total ont reçu des peines de 3 à 6 ans. Le réseau a été découvert après le signalement de l'enlèvement d'un bébé par un parent, menant à un suspect ayant avoué avoir vendu plus de deux douzaines de nourrissons.",
+      "en": "A Bandung court sentenced Lie Siu Luan, 70, to seven years in prison on July 21, 2026, for leading a ring that sent at least 12 Indonesian babies to Singapore. Co-defendant Astri Fitrinika received 6 years and 7 months; all 19 people tried received sentences of 3 to 6 years. The ring was uncovered after a parent reported a baby's kidnapping, leading to a suspect who confessed to trading more than two dozen infants.",
+      "es": "Un tribunal de Bandung condenó el 21 de julio de 2026 a Lie Siu Luan, de 70 años, a siete años de prisión por liderar una red que envió al menos 12 bebés indonesios a Singapur. La coacusada Astri Fitrinika recibió 6 años y 7 meses; las 19 personas juzgadas en total recibieron condenas de entre 3 y 6 años. La red fue descubierta después de que un padre denunciara el secuestro de un bebé, lo que llevó a un sospechoso que confesó haber vendido a más de dos docenas de bebés."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Lie Siu Luan est condamnée à 7 ans de prison pour avoir dirigé un réseau de trafic de bébés vers Singapour.",
+          "en": "Lie Siu Luan is sentenced to 7 years in prison for leading a baby-trafficking ring to Singapore.",
+          "es": "Lie Siu Luan es condenada a 7 años de prisión por liderar una red de tráfico de bebés hacia Singapur."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "hongkong-juge-plagiat",
+    "coords": [
+      114.163,
+      22.279
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "South China Morning Post / Hong Kong Free Press",
+    "place": {
+      "fr": "Hong Kong (Région administrative spéciale de Chine)",
+      "en": "Hong Kong (Special Administrative Region of China)",
+      "es": "Hong Kong (Región Administrativa Especial de China)"
+    },
+    "title": {
+      "fr": "Un juge de Hong Kong à nouveau sanctionné pour avoir plagié un jugement",
+      "en": "Hong Kong judge reprimanded again for plagiarizing a judgment",
+      "es": "Un juez de Hong Kong es sancionado de nuevo por plagiar una sentencia"
+    },
+    "summary": {
+      "fr": "Le juge de la Haute Cour de Hong Kong Wilson Chan Ka-shun a reçu un nouveau blâme sévère de la part du juge en chef Andrew Cheung, après que la Cour d'appel a jugé qu'environ 95 % de son jugement civil de 2024 avait été copié presque mot pour mot des conclusions d'une des parties. L'affaire concernait un homme d'affaires cherchant à récupérer des actions d'une valeur de 40 millions de dollars hongkongais. Un nouveau procès a été ordonné. Il s'agit au moins de la septième affaire de plagiat identifiée le concernant.",
+      "en": "Hong Kong High Court judge Wilson Chan Ka-shun received a fresh serious reprimand from Chief Justice Andrew Cheung after the Court of Appeal found roughly 95% of his 2024 civil judgment had been copied almost verbatim from one party's submissions. The case involved a businessman seeking to recover HK$40 million in shares. A retrial was ordered. It marks at least the seventh identified instance of plagiarism involving the judge.",
+      "es": "El juez del Tribunal Superior de Hong Kong Wilson Chan Ka-shun recibió una nueva reprimenda severa del presidente del Tribunal, Andrew Cheung, después de que el Tribunal de Apelación determinara que cerca del 95 % de su sentencia civil de 2024 había sido copiada casi textualmente de los alegatos de una de las partes. El caso involucraba a un empresario que buscaba recuperar acciones por valor de 40 millones de dólares hongkoneses. Se ordenó un nuevo juicio. Es al menos el séptimo caso de plagio identificado del juez."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-22/07/2026",
+          "en": "07/21-22/2026",
+          "es": "21-22/07/2026"
+        },
+        "d": {
+          "fr": "La Cour d'appel confirme un nouveau cas de plagiat ; le juge Wilson Chan reçoit un blâme sévère et une formation obligatoire.",
+          "en": "The Court of Appeal confirms a new plagiarism case; Judge Wilson Chan receives a serious reprimand and mandatory training.",
+          "es": "El Tribunal de Apelación confirma un nuevo caso de plagio; el juez Wilson Chan recibe una reprimenda severa y formación obligatoria."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "japon-yen-plus-bas",
+    "coords": [
+      139.65,
+      35.676
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "CNBC / Fortune",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le yen tombe à son plus bas niveau en 40 ans face au dollar",
+      "en": "Yen falls to 40-year low against the dollar",
+      "es": "El yen cae a su nivel más bajo en 40 años frente al dólar"
+    },
+    "summary": {
+      "fr": "Le dollar est passé au-dessus de 163 yens le 22 juillet 2026, son niveau le plus faible face à la devise japonaise depuis décembre 1986. La ministre des Finances Satsuki Katayama a averti que Tokyo n'hésiterait pas à intervenir sur les marchés des changes. La chute fait suite à l'inquiétude des marchés concernant les nouvelles orientations économiques de la Première ministre Sanae Takaichi, perçues comme un frein à la hausse des taux d'emprunt, alimentant les doutes sur le rythme de resserrement monétaire de la Banque du Japon.",
+      "en": "The dollar climbed above 163 yen on July 22, 2026, its weakest level against the Japanese currency since December 1986. Finance Minister Satsuki Katayama warned that Tokyo would not hesitate to intervene in currency markets. The slide followed market unease over Prime Minister Sanae Takaichi's newly unveiled economic policy blueprint, seen as resistant to higher borrowing costs, fueling doubts about how aggressively the Bank of Japan will tighten policy.",
+      "es": "El dólar superó los 163 yenes el 22 de julio de 2026, su nivel más débil frente a la divisa japonesa desde diciembre de 1986. La ministra de Finanzas, Satsuki Katayama, advirtió que Tokio no dudaría en intervenir en los mercados cambiarios. La caída se produjo tras la inquietud de los mercados por el nuevo plan de política económica de la primera ministra Sanae Takaichi, visto como reacio a elevar los costos de endeudamiento, lo que alimentó dudas sobre el ritmo de endurecimiento monetario del Banco de Japón."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le dollar dépasse 163 yens, son plus haut niveau depuis décembre 1986 ; Tokyo évoque une intervention possible.",
+          "en": "The dollar tops 163 yen, its highest level since December 1986; Tokyo signals a possible intervention.",
+          "es": "El dólar supera los 163 yenes, su nivel más alto desde diciembre de 1986; Tokio señala una posible intervención."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "japon-sumo-aonishiki",
+    "coords": [
+      136.907,
+      35.182
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥋",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Nagoya, préfecture d'Aichi, Japon",
+      "en": "Nagoya, Aichi Prefecture, Japan",
+      "es": "Nagoya, prefectura de Aichi, Japón"
+    },
+    "title": {
+      "fr": "Le sumotori Aonishiki réalise le retour le plus rapide au rang d'ozeki de l'histoire",
+      "en": "Sumo wrestler Aonishiki achieves fastest-ever return to ozeki rank",
+      "es": "El luchador de sumo Aonishiki logra el regreso más rápido de la historia al rango de ozeki"
+    },
+    "summary": {
+      "fr": "Lors du tournoi de Nagoya, le 21 juillet 2026, le sekiwake Aonishiki a remporté son dixième combat contre une seule défaite, se qualifiant pour un retour immédiat au rang d'ozeki dès le tournoi d'automne de septembre. Il devient le septième lutteur à réussir un tel retour en un seul tournoi depuis l'instauration du système actuel en juillet 1969, et le plus rapide jamais enregistré, en 11 jours.",
+      "en": "At the Nagoya tournament on July 21, 2026, sekiwake Aonishiki won his tenth bout against a single loss, qualifying for an immediate return to the ozeki rank at the September Autumn Tournament. He becomes the seventh wrestler to achieve such a single-tournament comeback since the current system began in July 1969, and the fastest ever recorded, in 11 days.",
+      "es": "En el torneo de Nagoya, el 21 de julio de 2026, el sekiwake Aonishiki ganó su décimo combate con una sola derrota, clasificando para un regreso inmediato al rango de ozeki en el Torneo de Otoño de septiembre. Se convierte en el séptimo luchador en lograr un regreso de este tipo en un solo torneo desde que comenzó el sistema actual en julio de 1969, y el más rápido jamás registrado, en 11 días."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Aonishiki décroche sa 10e victoire et se qualifie pour un retour immédiat au rang d'ozeki.",
+          "en": "Aonishiki secures his 10th win and qualifies for an immediate return to the ozeki rank.",
+          "es": "Aonishiki logra su décima victoria y se clasifica para un regreso inmediato al rango de ozeki."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "cisjordanie-havat-gilad-fusillade",
+    "coords": [
+      35.18,
+      32.2
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Times of Israel / Haaretz / The Media Line",
+    "place": {
+      "fr": "Près de Havat Gilad, à l'ouest de Naplouse, Cisjordanie",
+      "en": "Near Havat Gilad, west of Nablus, West Bank",
+      "es": "Cerca de Havat Gilad, al oeste de Naplusa, Cisjordania"
+    },
+    "title": {
+      "fr": "Un Israélien tué, quatre Palestiniens morts lors d'une fusillade près de Havat Gilad",
+      "en": "One Israeli killed, four Palestinians dead in shooting near Havat Gilad",
+      "es": "Un israelí muerto y cuatro palestinos muertos en un tiroteo cerca de Havat Gilad"
+    },
+    "summary": {
+      "fr": "Selon des sources israéliennes, une confrontation a éclaté le 24 juillet 2026 entre un groupe de randonneurs israéliens et des Palestiniens près d'un village proche de la colonie de Havat Gilad, à l'ouest de Naplouse. Un Israélien, identifié comme Benyahu Mellet, 32 ans, a été tué et plusieurs autres blessés, dont deux évacués par hélicoptère. Au moins quatre Palestiniens sont morts dans les échanges de tirs qui ont suivi. L'armée israélienne a instauré un bouclage temporaire autour de Naplouse. Les versions israélienne et palestinienne du déroulement exact de l'incident divergent ; ce résumé reflète principalement les comptes rendus des sources militaires et médiatiques israéliennes citées.",
+      "en": "According to Israeli sources, a confrontation broke out on July 24, 2026, between a group of Israeli hikers and Palestinians near a village close to the Havat Gilad settlement, west of Nablus. One Israeli, identified as 32-year-old Benyahu Mellet, was killed and several others wounded, two evacuated by helicopter. At least four Palestinians died in the ensuing exchange of fire. The Israeli military imposed a temporary cordon around Nablus. Israeli and Palestinian accounts of exactly how the incident unfolded differ; this summary primarily reflects the Israeli military and media sources cited.",
+      "es": "Según fuentes israelíes, el 24 de julio de 2026 estalló un enfrentamiento entre un grupo de excursionistas israelíes y palestinos cerca de una aldea próxima al asentamiento de Havat Gilad, al oeste de Naplusa. Un israelí, identificado como Benyahu Mellet, de 32 años, murió y varios más resultaron heridos, dos evacuados en helicóptero. Al menos cuatro palestinos murieron en el intercambio de disparos posterior. El ejército israelí impuso un cerco temporal alrededor de Naplusa. Las versiones israelí y palestina sobre cómo se desarrolló exactamente el incidente difieren; este resumen refleja principalmente los relatos de las fuentes militares y mediáticas israelíes citadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "07/24/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Une confrontation près de Havat Gilad fait un mort israélien et quatre morts palestiniens ; l'armée boucle temporairement Naplouse.",
+          "en": "A confrontation near Havat Gilad leaves one Israeli and four Palestinians dead; the army temporarily cordons off Nablus.",
+          "es": "Un enfrentamiento cerca de Havat Gilad deja un muerto israelí y cuatro muertos palestinos; el ejército acordona temporalmente Naplusa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "bordeaux-pompiers-tues-incendie",
+    "coords": [
+      -0.6494,
+      44.8386
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚒",
+    "source": "franceinfo / Gendarmerie nationale",
+    "place": {
+      "fr": "Mérignac, près de l'aéroport de Bordeaux, Gironde, France",
+      "en": "Mérignac, near Bordeaux airport, Gironde, France",
+      "es": "Mérignac, cerca del aeropuerto de Burdeos, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Deux sapeurs-pompiers meurent en luttant contre un incendie près de l'aéroport de Bordeaux",
+      "en": "Two firefighters die battling blaze near Bordeaux airport",
+      "es": "Dos bomberos mueren combatiendo un incendio cerca del aeropuerto de Burdeos"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré vers 14h30 le 21 juillet 2026 près des parkings de l'aéroport de Bordeaux-Mérignac, en Gironde. Deux sapeurs-pompiers sont morts en luttant contre le feu, selon le ministre de l'Intérieur Laurent Nuñez. Une centaine de pompiers et une vingtaine de véhicules ont été mobilisés ; l'incendie a été maîtrisé vers 18h30 et le trafic aérien a repris. Le parquet de Bordeaux a ouvert une enquête sur les circonstances et l'origine du sinistre. Des sources non officielles évoquent un feu de forêt de pins, tandis que la gendarmerie et franceinfo parlent d'un incendie de bâtiment ; la nature exacte du sinistre reste incertaine.",
+      "en": "A fire broke out around 2:30 p.m. on July 21, 2026, near the parking lots at Bordeaux-Mérignac airport, in Gironde. Two firefighters died battling the blaze, according to Interior Minister Laurent Nuñez. About 100 firefighters and 20 vehicles were mobilized; the fire was brought under control by 6:30 p.m. and air traffic resumed. The Bordeaux prosecutor's office opened an investigation into the circumstances and cause of the fire. Some unofficial sources describe a pine forest fire, while the Gendarmerie and franceinfo describe a building fire; the exact nature of the blaze remains uncertain.",
+      "es": "Un incendio se produjo hacia las 14:30 del 21 de julio de 2026 cerca de los estacionamientos del aeropuerto de Burdeos-Mérignac, en Gironda. Dos bomberos murieron combatiendo el fuego, según el ministro del Interior, Laurent Nuñez. Se movilizaron un centenar de bomberos y una veintena de vehículos; el incendio quedó controlado hacia las 18:30 y el tráfico aéreo se reanudó. La fiscalía de Burdeos abrió una investigación sobre las circunstancias y el origen del siniestro. Algunas fuentes no oficiales mencionan un incendio forestal de pinos, mientras que la gendarmería y franceinfo hablan de un incendio de edificio; la naturaleza exacta del siniestro sigue sin estar clara."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "07/21/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Un incendie près de l'aéroport de Bordeaux-Mérignac fait deux morts parmi les sapeurs-pompiers ; le parquet ouvre une enquête.",
+          "en": "A fire near Bordeaux-Mérignac airport kills two firefighters; prosecutors open an investigation.",
+          "es": "Un incendio cerca del aeropuerto de Burdeos-Mérignac mata a dos bomberos; la fiscalía abre una investigación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "espagne-madrid-urgence-incendies",
+    "coords": [
+      -4.4333,
+      40.2833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Reuters / Bloomberg",
+    "place": {
+      "fr": "Villa del Prado et San Martín de Valdeiglesias, communauté de Madrid ; Ávila, Espagne",
+      "en": "Villa del Prado and San Martín de Valdeiglesias, Community of Madrid; Ávila, Spain",
+      "es": "Villa del Prado y San Martín de Valdeiglesias, Comunidad de Madrid; Ávila, España"
+    },
+    "title": {
+      "fr": "L'Espagne déclare l'urgence nationale face aux incendies près de Madrid",
+      "en": "Spain declares national emergency over wildfires near Madrid",
+      "es": "España declara la emergencia nacional por los incendios cerca de Madrid"
+    },
+    "summary": {
+      "fr": "Le ministère espagnol de l'Intérieur a déclaré l'urgence nationale dans la nuit du 24 juillet 2026 pour la communauté de Madrid et la province d'Ávila, où plusieurs incendies échappaient à tout contrôle. Plus de 10 000 personnes ont été évacuées des localités de Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa et Aldea del Fresno. Plus de 270 secouristes et 40 véhicules, dont des unités militaires d'urgence, ont été déployés, alors qu'une troisième vague de chaleur estivale faisait grimper les températures jusqu'à 44°C. Selon les autorités, c'est la première fois qu'une urgence nationale est déclarée spécifiquement pour un incendie en Espagne.",
+      "en": "Spain's Interior Ministry declared a national emergency on the night of July 24, 2026, for the Community of Madrid and the province of Ávila, where several wildfires were burning out of control. More than 10,000 people were evacuated from Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa and Aldea del Fresno. Over 270 emergency personnel and 40 vehicles, including military emergency units, were deployed, as a third summer heatwave pushed temperatures up to 44°C. Authorities said it is the first time a national emergency has been declared specifically for a wildfire in Spain.",
+      "es": "El Ministerio del Interior de España declaró la emergencia nacional en la noche del 24 de julio de 2026 para la Comunidad de Madrid y la provincia de Ávila, donde varios incendios ardían sin control. Más de 10.000 personas fueron evacuadas de Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno. Se desplegaron más de 270 efectivos de emergencia y 40 vehículos, incluidas unidades militares de emergencia, mientras una tercera ola de calor veraniega elevaba las temperaturas hasta los 44°C. Las autoridades señalaron que es la primera vez que se declara una emergencia nacional específicamente por un incendio forestal en España."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "07/24/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "L'Espagne déclare l'urgence nationale pour la première fois pour un incendie ; plus de 10 000 personnes évacuées.",
+          "en": "Spain declares a national emergency over a wildfire for the first time; more than 10,000 people evacuated.",
+          "es": "España declara por primera vez la emergencia nacional por un incendio; más de 10.000 personas evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "wurtzbourg-agression-antisemite",
+    "coords": [
+      9.8858,
+      49.7736
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "t-online / inFranken.de",
+    "place": {
+      "fr": "Höchberg, près de Wurtzbourg, Bavière, Allemagne",
+      "en": "Höchberg, near Würzburg, Bavaria, Germany",
+      "es": "Höchberg, cerca de Wurzburgo, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "Un homme grièvement blessé dans une agression antisémite présumée près de Wurtzbourg",
+      "en": "Man severely injured in suspected antisemitic attack near Würzburg",
+      "es": "Un hombre resulta gravemente herido en un presunto ataque antisemita cerca de Wurzburgo"
+    },
+    "summary": {
+      "fr": "Un homme de 65 ans portant une épinglette israélienne a été agressé à un arrêt de bus à Höchberg, près de Wurtzbourg, en Bavière, le soir du 19 juillet 2026. Un suspect syrien de 20 ans l'aurait frappé au visage puis roué de coups de pied alors qu'il était au sol ; la victime a été soignée en unité de soins intensifs. La police et le référent antisémitisme de la justice bavaroise ont repris l'enquête, soupçonnant une motivation antisémite, antisioniste et islamiste, pour tentative de meurtre. Le suspect a été placé en détention provisoire.",
+      "en": "A 65-year-old man wearing an Israeli lapel pin was attacked at a bus stop in Höchberg, near Würzburg, Bavaria, on the evening of July 19, 2026. A 20-year-old Syrian suspect allegedly punched him in the face and then repeatedly kicked him while he was on the ground; the victim was treated in intensive care. Police and Bavaria's antisemitism prosecutor took over the investigation, suspecting an antisemitic, anti-Israel and Islamist motive, on suspicion of attempted murder. The suspect was placed in pretrial detention.",
+      "es": "Un hombre de 65 años que llevaba un pin de Israel fue agredido en una parada de autobús en Höchberg, cerca de Wurzburgo, Baviera, la noche del 19 de julio de 2026. Un sospechoso sirio de 20 años presuntamente lo golpeó en la cara y luego le propinó patadas repetidas mientras estaba en el suelo; la víctima fue tratada en cuidados intensivos. La policía y el fiscal antisemitismo de Baviera asumieron la investigación, sospechando un motivo antisemita, antiisraelí e islamista, por intento de asesinato. El sospechoso quedó en prisión preventiva."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "07/19/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Un homme portant une épinglette israélienne est violemment agressé à un arrêt de bus ; un suspect est arrêté.",
+          "en": "A man wearing an Israeli lapel pin is violently attacked at a bus stop; a suspect is arrested.",
+          "es": "Un hombre que llevaba un pin de Israel es agredido violentamente en una parada de autobús; un sospechoso es detenido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-inflation-juin",
+    "coords": [
+      -0.1278,
+      51.5074
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Office for National Statistics",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "L'inflation britannique ralentit à 2,6 % en juin",
+      "en": "UK inflation cools to 2.6% in June",
+      "es": "La inflación en el Reino Unido se modera al 2,6 % en junio"
+    },
+    "summary": {
+      "fr": "L'Office for National Statistics a confirmé le 22 juillet 2026 que l'indice des prix à la consommation a augmenté de 2,6 % sur un an en juin, contre 2,8 % en mai, un chiffre inférieur aux prévisions des économistes (2,7 %). Ce ralentissement s'explique principalement par la modération de l'inflation dans les transports, notamment le prix des carburants. La Banque d'Angleterre maintient son taux directeur à 3,75 % depuis quatre mois consécutifs.",
+      "en": "The Office for National Statistics confirmed on July 22, 2026, that consumer prices rose 2.6% year-on-year in June, down from 2.8% in May and below economists' 2.7% forecast. The slowdown was driven mainly by moderating transport inflation, particularly fuel prices. The Bank of England has held its base rate at 3.75% for four consecutive months.",
+      "es": "La Oficina de Estadísticas Nacionales confirmó el 22 de julio de 2026 que los precios al consumidor subieron un 2,6 % interanual en junio, por debajo del 2,8 % de mayo y de la previsión de los economistas del 2,7 %. La desaceleración se debió principalmente a la moderación de la inflación en transporte, en particular el precio de los combustibles. El Banco de Inglaterra mantiene su tasa de referencia en el 3,75 % durante cuatro meses consecutivos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "L'ONS confirme un ralentissement de l'inflation à 2,6 % sur un an en juin, sous les prévisions des économistes.",
+          "en": "The ONS confirms inflation slowed to 2.6% year-on-year in June, below economists' forecasts.",
+          "es": "La ONS confirma que la inflación se desaceleró al 2,6 % interanual en junio, por debajo de las previsiones de los economistas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "afriquesud-matlala-proces",
+    "coords": [
+      28.0473,
+      -26.2041
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "IOL / National Prosecuting Authority",
+    "place": {
+      "fr": "Johannesburg, Gauteng, Afrique du Sud",
+      "en": "Johannesburg, Gauteng, South Africa",
+      "es": "Johannesburgo, Gauteng, Sudáfrica"
+    },
+    "title": {
+      "fr": "Le procès pour tentatives de meurtre commandités de l'homme d'affaires « Cat » Matlala s'ouvre à Johannesburg",
+      "en": "Businessman 'Cat' Matlala's contract-killing trial opens in Johannesburg",
+      "es": "Comienza en Johannesburgo el juicio por asesinatos por encargo del empresario 'Cat' Matlala"
+    },
+    "summary": {
+      "fr": "L'homme d'affaires Vusimuzi « Cat » Matlala a comparu le 20 juillet 2026 devant la Haute Cour de Johannesburg avec quatre coaccusés, pour 25 chefs d'accusation dont 11 tentatives de meurtre liées à trois fusillades commises entre août 2022 et janvier 2024. Le ministère public l'accuse d'avoir commandité des attaques contre un homme d'affaires, une personnalité médiatique et un musicien, ainsi que du blanchiment d'argent. Tous les accusés ont plaidé non coupables devant le juge Cassim Moosa. Les sources ne s'accordent pas totalement sur l'identité de tous les coaccusés.",
+      "en": "Businessman Vusimuzi 'Cat' Matlala appeared before the Johannesburg High Court on July 20, 2026, alongside four co-accused, facing 25 charges including 11 counts of attempted murder linked to three shootings committed between August 2022 and January 2024. Prosecutors allege he orchestrated attacks on a businessman, a media personality and a musician, along with money laundering. All defendants pleaded not guilty before Judge Cassim Moosa. Sources do not fully agree on the identities of all co-accused.",
+      "es": "El empresario Vusimuzi 'Cat' Matlala compareció el 20 de julio de 2026 ante el Tribunal Superior de Johannesburgo junto a cuatro coacusados, enfrentando 25 cargos, entre ellos 11 de intento de asesinato vinculados a tres tiroteos cometidos entre agosto de 2022 y enero de 2024. La fiscalía alega que orquestó ataques contra un empresario, una personalidad mediática y un músico, además de lavado de dinero. Todos los acusados se declararon inocentes ante el juez Cassim Moosa. Las fuentes no coinciden totalmente sobre la identidad de todos los coacusados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "07/20/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Vusimuzi « Cat » Matlala et quatre coaccusés plaident non coupables devant la Haute Cour de Johannesburg.",
+          "en": "Vusimuzi 'Cat' Matlala and four co-accused plead not guilty before the Johannesburg High Court.",
+          "es": "Vusimuzi 'Cat' Matlala y cuatro coacusados se declaran inocentes ante el Tribunal Superior de Johannesburgo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "australie-queensland-grippe-aviaire",
+    "coords": [
+      153.4,
+      -27.1
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🦅",
+    "source": "North Queensland Register",
+    "place": {
+      "fr": "Île Moreton, Queensland, Australie",
+      "en": "Moreton Island, Queensland, Australia",
+      "es": "Isla Moreton, Queensland, Australia"
+    },
+    "title": {
+      "fr": "Premier cas suspecté de grippe aviaire H5 détecté dans le Queensland",
+      "en": "First suspected H5 bird flu case detected in Queensland",
+      "es": "Se detecta el primer caso sospechoso de gripe aviar H5 en Queensland"
+    },
+    "summary": {
+      "fr": "Le ministère queenslandais des Industries primaires a confirmé le 24 juillet 2026 qu'un pétrel mort retrouvé sur l'île Moreton a été testé positif à la grippe aviaire hautement pathogène H5, un premier cas suspecté pour l'État. Des échantillons ont été envoyés au CSIRO pour confirmation. L'Australie avait détecté un premier cas en Australie-Occidentale le 20 juin 2026, suivi de cas en Australie-Méridionale et en Nouvelle-Galles du Sud. Les autorités précisent qu'aucun élevage de volailles n'est touché dans le Queensland et que la viande de poulet et les œufs restent sans danger.",
+      "en": "The Queensland Department of Primary Industries confirmed on July 24, 2026, that a dead petrel found on Moreton Island tested positive for highly pathogenic H5 bird flu, the state's first suspected case. Samples were sent to CSIRO for confirmation. Australia recorded its first detection in Western Australia on June 20, 2026, followed by cases in South Australia and New South Wales. Authorities said no Queensland poultry farms are affected and chicken meat and eggs remain safe.",
+      "es": "El Departamento de Industrias Primarias de Queensland confirmó el 24 de julio de 2026 que un petrel muerto hallado en la isla Moreton dio positivo a la gripe aviar altamente patógena H5, el primer caso sospechoso del estado. Se enviaron muestras al CSIRO para su confirmación. Australia registró su primera detección en Australia Occidental el 20 de junio de 2026, seguida de casos en Australia Meridional y Nueva Gales del Sur. Las autoridades indicaron que ninguna granja avícola de Queensland está afectada y que la carne de pollo y los huevos siguen siendo seguros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "07/24/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Un pétrel mort trouvé sur l'île Moreton est testé positif à la grippe aviaire H5, un premier cas suspecté pour le Queensland.",
+          "en": "A dead petrel found on Moreton Island tests positive for H5 bird flu, the first suspected case for Queensland.",
+          "es": "Un petrel muerto hallado en la isla Moreton da positivo a la gripe aviar H5, el primer caso sospechoso de Queensland."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "odessa-navire-cereales-frappe",
+    "coords": [
+      30.9,
+      46.45
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Kyiv Post / AP / gCaptain",
+    "place": {
+      "fr": "Mer Noire, au large du port d'Odessa, Ukraine",
+      "en": "Black Sea, off the port of Odesa, Ukraine",
+      "es": "Mar Negro, frente al puerto de Odesa, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe sur un cargo céréalier au large d'Odessa fait 10 morts",
+      "en": "Russian strike on grain ship off Odesa kills 10",
+      "es": "Un ataque ruso a un buque cerealero frente a Odesa deja 10 muertos"
+    },
+    "summary": {
+      "fr": "Les forces russes ont tiré trois missiles de croisière le 19 juillet 2026, dont l'un a touché le flanc tribord du Golden Leo, un vraquier battant pavillon de Guinée-Bissau, appartenant à des intérêts turcs, peu après son départ d'Odessa avec une cargaison de maïs. Le navire transportait 17 membres d'équipage (syriens et indiens) ainsi qu'un pilote portuaire ukrainien ; neuf marins étrangers et le pilote ukrainien sont morts, dont quatre ressortissants indiens, et huit membres d'équipage ont été secourus. Les autorités ukrainiennes ont condamné cette frappe contre un navire civil.",
+      "en": "Russian forces fired three cruise missiles on July 19, 2026, one of which struck the starboard side of the Golden Leo, a Guinea-Bissau-flagged, Turkish-owned bulk carrier, shortly after it left Odesa carrying corn. The ship carried 17 crew members (Syrian and Indian) plus a Ukrainian port pilot; nine foreign crew members and the Ukrainian pilot were killed, including four Indian nationals, and eight crew were rescued. Ukrainian officials condemned the strike on a civilian vessel.",
+      "es": "Las fuerzas rusas dispararon tres misiles de crucero el 19 de julio de 2026, uno de los cuales impactó en el costado de estribor del Golden Leo, un granelero de bandera de Guinea-Bissau y propiedad turca, poco después de zarpar de Odesa con un cargamento de maíz. El buque transportaba a 17 tripulantes (sirios e indios) además de un práctico portuario ucraniano; nueve tripulantes extranjeros y el práctico ucraniano murieron, entre ellos cuatro ciudadanos indios, y ocho tripulantes fueron rescatados. Las autoridades ucranianas condenaron el ataque contra un buque civil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "07/19/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Un missile russe touche le cargo céréalier Golden Leo au large d'Odessa, tuant 10 des 18 personnes à bord.",
+          "en": "A Russian missile strikes the grain carrier Golden Leo off Odesa, killing 10 of the 18 people aboard.",
+          "es": "Un misil ruso impacta el buque cerealero Golden Leo frente a Odesa, matando a 10 de las 18 personas a bordo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "russie-wildberries-drones",
+    "coords": [
+      38.98,
+      45.04
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛸",
+    "source": "Al Jazeera / RFE/RL / The Moscow Times",
+    "place": {
+      "fr": "Krasnodar et Nevinnomyssk, Russie",
+      "en": "Krasnodar and Nevinnomyssk, Russia",
+      "es": "Krasnodar y Nevinnomyssk, Rusia"
+    },
+    "title": {
+      "fr": "Des drones ukrainiens frappent des entrepôts Wildberries dans le sud de la Russie",
+      "en": "Ukrainian drones hit Wildberries warehouses in southern Russia",
+      "es": "Drones ucranianos atacan almacenes de Wildberries en el sur de Rusia"
+    },
+    "summary": {
+      "fr": "Des drones ukrainiens ont frappé dans la nuit du 22 juillet 2026 des entrepôts logistiques du géant du e-commerce Wildberries à Krasnodar et à Nevinnomyssk, dans le territoire de Stavropol, provoquant de vastes incendies et des évacuations. Trois personnes ont été blessées à Krasnodar et cinq à Nevinnomyssk. Une personne est morte à Armavir après la chute de débris de drone sur un site Wildberries. Le président ukrainien Volodymyr Zelensky affirme que ces installations servent à la production de pièces pour drones militaires russes ; les autorités russes n'ont pas commenté cette allégation spécifique dans les déclarations consultées.",
+      "en": "Ukrainian drones struck Wildberries e-commerce logistics warehouses in Krasnodar and Nevinnomyssk, in Stavropol Krai, overnight on July 22, 2026, sparking large fires and evacuations. Three people were injured in Krasnodar and five in Nevinnomyssk. One person died in Armavir after drone debris fell on a Wildberries site. Ukrainian President Volodymyr Zelensky said the facilities supply parts for Russian military drones; Russian authorities did not address that specific allegation in the statements reviewed.",
+      "es": "Drones ucranianos atacaron almacenes logísticos del gigante del comercio electrónico Wildberries en Krasnodar y Nevinnomyssk, en el krai de Stávropol, durante la noche del 22 de julio de 2026, provocando grandes incendios y evacuaciones. Tres personas resultaron heridas en Krasnodar y cinco en Nevinnomyssk. Una persona murió en Armavir tras la caída de restos de un dron sobre un local de Wildberries. El presidente ucraniano, Volodímir Zelenski, afirmó que las instalaciones suministran piezas para drones militares rusos; las autoridades rusas no abordaron esa acusación específica en las declaraciones revisadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent des entrepôts Wildberries à Krasnodar et Nevinnomyssk ; un mort à Armavir et plusieurs blessés.",
+          "en": "Ukrainian drones strike Wildberries warehouses in Krasnodar and Nevinnomyssk; one dead in Armavir and several injured.",
+          "es": "Drones ucranianos atacan almacenes de Wildberries en Krasnodar y Nevinnomyssk; un muerto en Armavir y varios heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W30",
     "priority": 1
   }
 ]
