@@ -692,7 +692,7 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
+    "source": "La Presse / franceinfo / Radio-Canada / CNN / Al Jazeera",
     "week": "2026-W29",
     "place": {
       "fr": "Téhéran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "L'Iran rejette une proposition de cessez-le-feu transmise par le premier ministre irakien, invoquant un désaccord sur le contrôle du détroit d'Ormuz ; une frappe de drone touche Erbil, dans le Kurdistan irakien, sans que sa responsabilité soit établie, selon CNN et Al Jazeera.",
+          "en": "Iran rejects a ceasefire proposal delivered via the Iraqi prime minister, citing disagreement over control of the Strait of Hormuz; a drone strike hits Erbil, in Iraqi Kurdistan, with responsibility undetermined, according to CNN and Al Jazeera.",
+          "es": "Irán rechaza una propuesta de alto el fuego transmitida por el primer ministro iraquí, alegando un desacuerdo sobre el control del estrecho de Ormuz; un ataque con drones alcanza Erbil, en el Kurdistán iraquí, sin que se determine su responsabilidad, según CNN y Al Jazeera."
         },
         "active": true
       }
@@ -829,5 +842,901 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -89.4012,
+      43.0731
+    ],
+    "id": "wisconsin-fusillade-policiere",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CBS News / Washington Post / NBC News / Wisconsin Public Radio",
+    "place": {
+      "fr": "Madison, Wisconsin, États-Unis",
+      "en": "Madison, Wisconsin, United States",
+      "es": "Madison, Wisconsin, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un homme armé d'un couteau tué par la police à Madison, des manifestations éclatent",
+      "en": "Man armed with a knife killed by police in Madison, protests erupt",
+      "es": "Un hombre armado con un cuchillo muere abatido por la policía en Madison, estallan protestas"
+    },
+    "summary": {
+      "fr": "Un policier de Madison a tué un homme le mercredi 22 juillet, après que celui-ci a sorti un couteau lors d'une intervention ; l'agent aurait été blessé par l'arme, selon plusieurs médias. Des proches et des associations locales identifient la victime comme un homme noir, et des manifestations ont gagné le Capitole du Wisconsin. Les agents impliqués ont été placés en congé administratif et le Département des enquêtes criminelles du Wisconsin a ouvert une enquête ; la police de Madison n'est pas équipée de caméras-piétons.",
+      "en": "A Madison police officer killed a man on Wednesday, July 22, after he produced a knife during an encounter; the officer was reportedly injured by the weapon, according to several outlets. Community advocates and family identify the victim as a Black man, and protests spread to the Wisconsin State Capitol. The officers involved were placed on administrative leave and Wisconsin's Division of Criminal Investigation opened an inquiry; Madison police do not use body cameras.",
+      "es": "Un agente de policía de Madison mató a un hombre el miércoles 22 de julio, después de que este sacara un cuchillo durante una intervención; el agente habría resultado herido por el arma, según varios medios. Allegados y colectivos locales identifican a la víctima como un hombre negro, y las protestas se extendieron hasta el Capitolio de Wisconsin. Los agentes implicados fueron puestos en licencia administrativa y la División de Investigaciones Criminales de Wisconsin abrió una investigación; la policía de Madison no utiliza cámaras corporales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026, 13h30",
+          "en": "22/07/2026, 1:30 PM",
+          "es": "22/07/2026, 13:30"
+        },
+        "d": {
+          "fr": "Un policier tue un homme armé d'un couteau ; des manifestations éclatent en soirée jusqu'au Capitole.",
+          "en": "A police officer kills a man armed with a knife; protests erupt that evening reaching the Capitol.",
+          "es": "Un policía mata a un hombre armado con un cuchillo; esa noche estallan protestas hasta el Capitolio."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -79.792,
+      36.0726
+    ],
+    "id": "caroline-nord-inondations-bertha",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CNN / Fox Weather / ABC11 Raleigh-Durham",
+    "place": {
+      "fr": "Greensboro, Winston-Salem et région de Durham, Caroline du Nord, États-Unis",
+      "en": "Greensboro, Winston-Salem and the Durham area, North Carolina, United States",
+      "es": "Greensboro, Winston-Salem y la zona de Durham, Carolina del Norte, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les restes de la tempête tropicale Bertha provoquent des inondations éclair en Caroline du Nord",
+      "en": "Remnants of Tropical Storm Bertha trigger flash flooding in North Carolina",
+      "es": "Los restos de la tormenta tropical Bertha provocan inundaciones repentinas en Carolina del Norte"
+    },
+    "summary": {
+      "fr": "Alimentés par l'humidité résiduelle de la tempête tropicale Bertha, des orages ont frappé la Caroline du Nord les 22 et 23 juillet, déversant jusqu'à 15 cm de pluie en 12 heures — l'équivalent d'un mois — dans les secteurs de Greensboro et Winston-Salem. Un tronçon de l'Interstate 40 au nord-ouest de Durham a été fermé par les inondations avant de rouvrir, et des milliers de foyers ont été privés d'électricité. Les prévisionnistes ont averti que le risque de crues éclair se prolongerait vers la Géorgie et l'Alabama.",
+      "en": "Fueled by moisture from Tropical Storm Bertha, storms struck North Carolina on July 22-23, dropping up to 6 inches (15 cm) of rain in 12 hours — about a month's worth — around Greensboro and Winston-Salem. A stretch of Interstate 40 northwest of Durham was closed by flooding before reopening, and thousands of homes lost power. Forecasters warned the flash-flood threat would continue toward Georgia and Alabama.",
+      "es": "Alimentadas por la humedad de la tormenta tropical Bertha, las tormentas golpearon Carolina del Norte los días 22 y 23 de julio, dejando hasta 15 cm de lluvia en 12 horas —el equivalente a un mes— en las zonas de Greensboro y Winston-Salem. Un tramo de la Interestatal 40 al noroeste de Durham fue cerrado por las inundaciones antes de reabrir, y miles de hogares se quedaron sin electricidad. Los meteorólogos advirtieron que el riesgo de crecidas repentinas continuaría hacia Georgia y Alabama."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026 — heure non précisée",
+          "en": "23/07/2026 — time not specified",
+          "es": "23/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des inondations éclair frappent le centre de la Caroline du Nord après de fortes pluies.",
+          "en": "Flash flooding hits central North Carolina after heavy rain.",
+          "es": "Inundaciones repentinas golpean el centro de Carolina del Norte tras fuertes lluvias."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "id": "usa-nouveaux-tarifs-douaniers",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "NPR / Bloomberg / NBC News",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Les États-Unis imposent de nouveaux droits de douane de 10 à 12,5 % à une soixantaine de partenaires",
+      "en": "United States imposes new 10%-12.5% tariffs on around 60 trading partners",
+      "es": "Estados Unidos impone nuevos aranceles del 10 % al 12,5 % a unos sesenta socios comerciales"
+    },
+    "summary": {
+      "fr": "Les États-Unis ont imposé le vendredi 24 juillet de nouveaux droits de douane de 10 à 12,5 % à environ 60 partenaires commerciaux, dont le Canada, le Mexique, l'Inde et le Royaume-Uni, remplaçant une taxe temporaire de 10 % arrivée à expiration. Ces mesures s'appuient sur la Section 301 du Trade Act de 1974 — une base légale différente de celle invalidée par la Cour suprême en février 2026 — et sont officiellement justifiées par la lutte contre les importations liées au travail forcé. Elles concernent environ 99 % des importations américaines.",
+      "en": "The United States imposed new tariffs of 10% to 12.5% on roughly 60 trading partners on Friday, July 24, including Canada, Mexico, India and the United Kingdom, replacing a temporary 10% duty that had expired. The measures rely on Section 301 of the Trade Act of 1974 — a different legal basis from the one the Supreme Court struck down in February 2026 — and are officially justified as targeting forced-labor-linked imports. They cover roughly 99% of US imports.",
+      "es": "Estados Unidos impuso el viernes 24 de julio nuevos aranceles del 10 % al 12,5 % a unos 60 socios comerciales, entre ellos Canadá, México, India y el Reino Unido, en sustitución de una tasa temporal del 10 % que había expirado. Las medidas se basan en la Sección 301 de la Ley de Comercio de 1974 —una base legal distinta de la que el Tribunal Supremo invalidó en febrero de 2026— y se justifican oficialmente como una respuesta a las importaciones vinculadas al trabajo forzoso. Cubren cerca del 99 % de las importaciones estadounidenses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — matinée",
+          "en": "24/07/2026 — morning",
+          "es": "24/07/2026 — mañana"
+        },
+        "d": {
+          "fr": "Les nouveaux droits de douane entrent en vigueur pour une soixantaine de partenaires commerciaux.",
+          "en": "The new tariffs take effect for around 60 trading partners.",
+          "es": "Los nuevos aranceles entran en vigor para unos sesenta socios comerciales."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -100.0326,
+      54.8837
+    ],
+    "id": "manitoba-incendies-urgence",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Gouvernement du Manitoba / Gouvernement du Canada / CBC News",
+    "place": {
+      "fr": "Nord du Manitoba (Snow Lake, Première Nation Garden Hill Anisininew), Canada",
+      "en": "Northern Manitoba (Snow Lake, Garden Hill Anisininew Nation), Canada",
+      "es": "Norte de Manitoba (Snow Lake, Nación Garden Hill Anisininew), Canadá"
+    },
+    "title": {
+      "fr": "Le Manitoba déclare l'état d'urgence provincial face aux feux de forêt",
+      "en": "Manitoba declares provincewide state of emergency over wildfires",
+      "es": "Manitoba declara el estado de emergencia provincial por los incendios forestales"
+    },
+    "summary": {
+      "fr": "Le Manitoba est sous état d'urgence provincial en raison d'une activité de feux de forêt extrême, concentrée dans le nord de la province, avec des évacuations obligatoires dans des communautés dont Snow Lake et la Première Nation Garden Hill Anisininew. Au 23 juillet, deux Premières Nations manitobaines avaient été évacuées. À l'échelle du pays, le gouvernement du Canada rapporte des milliers de personnes évacuées de communautés autochtones, les feux les plus importants se concentrant au Manitoba, en Saskatchewan et en Ontario.",
+      "en": "Manitoba is under a provincewide state of emergency due to extreme wildfire activity concentrated in the north of the province, with mandatory evacuations in communities including Snow Lake and Garden Hill Anisininew Nation. As of July 23, two Manitoba First Nations had been evacuated. Nationally, the Government of Canada reports thousands of people evacuated from Indigenous communities, with the largest fires concentrated in Manitoba, Saskatchewan and Ontario.",
+      "es": "Manitoba se encuentra bajo estado de emergencia provincial debido a una actividad extrema de incendios forestales concentrada en el norte de la provincia, con evacuaciones obligatorias en comunidades como Snow Lake y la Nación Garden Hill Anisininew. Hasta el 23 de julio, dos Primeras Naciones de Manitoba habían sido evacuadas. A escala nacional, el Gobierno de Canadá informa de miles de personas evacuadas de comunidades indígenas, con los incendios más importantes concentrados en Manitoba, Saskatchewan y Ontario."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026 — heure non précisée",
+          "en": "23/07/2026 — time not specified",
+          "es": "23/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le Manitoba confirme l'état d'urgence provincial et l'évacuation de deux Premières Nations.",
+          "en": "Manitoba confirms the provincewide state of emergency and the evacuation of two First Nations.",
+          "es": "Manitoba confirma el estado de emergencia provincial y la evacuación de dos Primeras Naciones."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      91.7362,
+      26.1445
+    ],
+    "id": "inde-assam-inondations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Washington Post / ABC News / Al Jazeera",
+    "place": {
+      "fr": "État d'Assam (bassin du Brahmapoutre, 11 districts), Inde",
+      "en": "Assam state (Brahmaputra river basin, 11 districts), India",
+      "es": "Estado de Assam (cuenca del río Brahmaputra, 11 distritos), India"
+    },
+    "title": {
+      "fr": "Les inondations en Assam font au moins 50 morts et 700 000 déplacés",
+      "en": "Assam floods kill at least 50, displace 700,000",
+      "es": "Las inundaciones en Assam dejan al menos 50 muertos y 700 000 desplazados"
+    },
+    "summary": {
+      "fr": "Des jours de pluies de mousson intenses ont fait déborder le Brahmapoutre dans l'État indien d'Assam, tuant au moins 50 personnes — avec une quarantaine de disparus selon le ministre en chef Himanta Biswa Sarma — et déplaçant environ 700 000 habitants. Près de 900 villages répartis sur 11 districts ont été submergés et environ 300 000 personnes ont rejoint des camps de secours, tandis que des largages héliportés de vivres sont en cours. La catastrophe résulte de fortes précipitations en amont, dans le Nagaland et l'Arunachal Pradesh, combinées à de fortes pluies dans le haut Assam.",
+      "en": "Days of intense monsoon rain caused the Brahmaputra River to overflow in India's Assam state, killing at least 50 people — with around 40 still missing according to Chief Minister Himanta Biswa Sarma — and displacing roughly 700,000. Nearly 900 villages across 11 districts were submerged, and about 300,000 people moved into relief camps, with helicopter airdrops of supplies underway. The disaster stemmed from heavy rainfall upstream in Nagaland and Arunachal Pradesh combined with heavy rain across Upper Assam.",
+      "es": "Días de intensas lluvias monzónicas provocaron el desbordamiento del río Brahmaputra en el estado indio de Assam, matando al menos a 50 personas —con unas 40 aún desaparecidas, según el ministro principal Himanta Biswa Sarma— y desplazando a unas 700 000. Cerca de 900 aldeas en 11 distritos quedaron sumergidas y unas 300 000 personas se trasladaron a campamentos de socorro, mientras se realizan lanzamientos aéreos de suministros. La catástrofe se debió a fuertes lluvias río arriba, en Nagaland y Arunachal Pradesh, combinadas con fuertes lluvias en el alto Assam."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le bilan atteint au moins 50 morts et environ 700 000 déplacés selon les autorités de l'Assam.",
+          "en": "The toll reaches at least 50 dead and around 700,000 displaced, according to Assam authorities.",
+          "es": "El balance alcanza al menos 50 muertos y unos 700 000 desplazados, según las autoridades de Assam."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      108.0167,
+      29.2967
+    ],
+    "id": "chine-chongqing-glissement-terrain",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Caixin Global / UPI",
+    "place": {
+      "fr": "Comté de Pengshui, municipalité de Chongqing, Chine",
+      "en": "Pengshui County, Chongqing Municipality, China",
+      "es": "Condado de Pengshui, municipio de Chongqing, China"
+    },
+    "title": {
+      "fr": "Un glissement de terrain ensevelit des immeubles à Chongqing, au moins 8 morts et 34 disparus",
+      "en": "Landslide buries buildings in Chongqing, at least 8 dead and 34 missing",
+      "es": "Un deslizamiento de tierra sepulta edificios en Chongqing, al menos 8 muertos y 34 desaparecidos"
+    },
+    "summary": {
+      "fr": "Un glissement de terrain a frappé le 17 juillet vers 9h08 une bande résidentielle en bord de la rivière Wujiang, dans le comté de Pengshui (Chongqing), projetant des milliers de tonnes de roche sur treize habitations et immeubles, en partie jusque dans la rivière. Au moins 8 personnes sont mortes et 34 restaient portées disparues selon les dernières informations, et plus de 1 100 résidents ont été évacués. Le ministère chinois de la Gestion des urgences a déclenché une réponse de niveau II, avec plus de 800 secouristes mobilisés, des experts avertissant que 5 000 à 6 000 mètres cubes de roches instables demeurent au-dessus du site.",
+      "en": "A landslide struck a riverside residential strip along the Wujiang River in Pengshui County, Chongqing, at around 9:08 a.m. on July 17, sending thousands of tons of rock into thirteen houses and apartment blocks, partly into the river. At least 8 people were confirmed dead and 34 remained missing as of the latest reports, and more than 1,100 residents were evacuated. China's Ministry of Emergency Management launched a Level-II national emergency response with more than 800 rescue personnel, while experts warned that 5,000-6,000 cubic meters of unstable rock remained above the site.",
+      "es": "Un deslizamiento de tierra golpeó el 17 de julio, hacia las 9:08 h, una franja residencial junto al río Wujiang, en el condado de Pengshui (Chongqing), lanzando miles de toneladas de roca sobre trece viviendas y edificios, en parte hasta el río. Al menos 8 personas murieron y 34 seguían desaparecidas según los últimos informes, y más de 1100 residentes fueron evacuados. El Ministerio de Gestión de Emergencias de China activó una respuesta de emergencia de nivel II, con más de 800 rescatistas movilizados, mientras expertos advertían que entre 5000 y 6000 metros cúbicos de roca inestable permanecían sobre el lugar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026, 9h08",
+          "en": "17/07/2026, 9:08 AM",
+          "es": "17/07/2026, 9:08"
+        },
+        "d": {
+          "fr": "Le glissement de terrain ensevelit treize bâtiments ; les secours évaluent le bilan à 8 morts et 34 disparus.",
+          "en": "The landslide buries thirteen buildings; rescuers put the toll at 8 dead and 34 missing.",
+          "es": "El deslizamiento sepulta trece edificios; los rescatistas cifran el balance en 8 muertos y 34 desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "id": "japon-canicule-record",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Bangkok Post / The Star / Malay Mail / phys.org",
+    "place": {
+      "fr": "Tokyo et ensemble du Japon",
+      "en": "Tokyo and across Japan",
+      "es": "Tokio y todo Japón"
+    },
+    "title": {
+      "fr": "Une canicule record hospitalise des centaines de personnes au Japon, au moins 14 morts",
+      "en": "Record heatwave hospitalizes hundreds in Japan, at least 14 dead",
+      "es": "Una ola de calor récord hospitaliza a cientos de personas en Japón, al menos 14 muertos"
+    },
+    "summary": {
+      "fr": "Le Japon traverse une canicule extrême avec des températures atteignant ou dépassant 40°C, un phénomène pour lequel les autorités ont créé le terme « kokushobi » (« journée cruellement chaude »). Le service des pompiers de Tokyo a recensé 453 hospitalisations pour coup de chaleur en une seule journée mercredi, un record depuis le début des relevés en 2010 ; la canicule a fait au moins 14 morts à l'échelle nationale sur la semaine écoulée et généré plus de 11 000 appels d'urgence, le taux le plus élevé depuis au moins 1963.",
+      "en": "Japan is experiencing an extreme heatwave with temperatures at or above 40°C (104°F), a phenomenon for which authorities coined the term 'kokushobi' ('cruelly hot day'). The Tokyo Fire Department recorded 453 hospitalizations for heat-related illness in a single day on Wednesday, the highest since records began in 2010; the heatwave has killed at least 14 people nationwide over the past week and prompted more than 11,000 emergency calls, the highest rate since at least 1963.",
+      "es": "Japón atraviesa una ola de calor extrema con temperaturas que alcanzan o superan los 40 °C, un fenómeno para el que las autoridades acuñaron el término «kokushobi» («día cruelmente caluroso»). El Departamento de Bomberos de Tokio registró 453 hospitalizaciones por golpe de calor en un solo día el miércoles, la cifra más alta desde que comenzaron los registros en 2010; la ola de calor ha causado al menos 14 muertes en todo el país durante la última semana y ha generado más de 11 000 llamadas de emergencia, la tasa más alta desde al menos 1963."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026 — heure non précisée",
+          "en": "23/07/2026 — time not specified",
+          "es": "23/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le service des pompiers de Tokyo recense 453 hospitalisations en une journée, un record.",
+          "en": "The Tokyo Fire Department records 453 hospitalizations in a single day, a record.",
+          "es": "El Departamento de Bomberos de Tokio registra 453 hospitalizaciones en un solo día, un récord."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      35.2,
+      32.17
+    ],
+    "id": "cisjordanie-affrontement-altal",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Times of Israel / Middle East Eye / UPI",
+    "place": {
+      "fr": "Village d'Al-Tal, au sud-ouest de Naplouse, Cisjordanie",
+      "en": "Al-Tal village, southwest of Nablus, West Bank",
+      "es": "Aldea de Al-Tal, al suroeste de Naplusa, Cisjordania"
+    },
+    "title": {
+      "fr": "Un affrontement près de Naplouse fait deux morts israéliens et quatre morts palestiniens",
+      "en": "Clash near Nablus leaves two Israelis and four Palestinians dead",
+      "es": "Un enfrentamiento cerca de Naplusa deja dos muertos israelíes y cuatro palestinos"
+    },
+    "summary": {
+      "fr": "Une confrontation a éclaté le 24 juillet au village d'Al-Tal, près de Naplouse, après l'arrivée d'un groupe de colons israéliens que l'armée israélienne décrit comme étant en « randonnée » ; les habitants palestiniens donnent une version différente du déclenchement de l'affrontement. Un résident palestinien aurait saisi l'arme d'un membre d'une équipe de sécurité civile de colons, et des tirs qui ont suivi ont fait deux morts israéliens — un garde de sécurité civile et un commandant de l'armée — et quatre morts palestiniens. L'armée israélienne a ensuite mené des raids dans plusieurs localités palestiniennes de Cisjordanie.",
+      "en": "A confrontation broke out on July 24 in the village of Al-Tal, near Nablus, after a group of Israeli settlers arrived that the Israeli military described as being on a 'hike'; Palestinian residents give a different account of how the clash began. A Palestinian resident reportedly took a weapon from a member of a settler civil-security squad, and the gunfire that followed killed two Israelis — a civil-security guard and an army officer — and four Palestinians. The Israeli military subsequently conducted raids on several Palestinian towns across the West Bank.",
+      "es": "El 24 de julio estalló un enfrentamiento en la aldea de Al-Tal, cerca de Naplusa, tras la llegada de un grupo de colonos israelíes que el ejército israelí describió como de «excursión»; los residentes palestinos dan una versión distinta de cómo comenzó el enfrentamiento. Un residente palestino habría arrebatado un arma a un miembro de un escuadrón de seguridad civil de colonos, y los disparos posteriores dejaron dos muertos israelíes —un guardia de seguridad civil y un oficial del ejército— y cuatro muertos palestinos. El ejército israelí llevó a cabo posteriormente redadas en varias localidades palestinas de Cisjordania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "L'affrontement fait six morts (deux Israéliens, quatre Palestiniens) ; l'armée mène des raids nocturnes en représailles.",
+          "en": "The clash leaves six dead (two Israelis, four Palestinians); the army conducts overnight raids in response.",
+          "es": "El enfrentamiento deja seis muertos (dos israelíes, cuatro palestinos); el ejército realiza redadas nocturnas como respuesta."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      28.5667,
+      -3.9667
+    ],
+    "id": "rdc-sud-kivu-combats",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Critical Threats / Anadolu Agency / OHCHR",
+    "place": {
+      "fr": "Hauts plateaux du Sud-Kivu, près de Minembwe, République démocratique du Congo",
+      "en": "South Kivu highlands, near Minembwe, Democratic Republic of Congo",
+      "es": "Altiplanos de Kivu del Sur, cerca de Minembwe, República Democrática del Congo"
+    },
+    "title": {
+      "fr": "Les combats s'intensifient au Sud-Kivu entre la milice Twirwaneho, alliée au M23, et l'armée congolaise",
+      "en": "Fighting intensifies in South Kivu between the M23-allied Twirwaneho militia and Congolese forces",
+      "es": "Los combates se intensifican en Kivu del Sur entre la milicia Twirwaneho, aliada del M23, y el ejército congoleño"
+    },
+    "summary": {
+      "fr": "Des combattants de la milice Twirwaneho, alliée au groupe armé M23/AFC-M23, se sont affrontés à plusieurs reprises avec l'armée congolaise (FARDC) et les forces alliées Wazalendo dans les hauts plateaux du Sud-Kivu, s'emparant de la position stratégique de Point Zéro, près de Minembwe. Le Haut-Commissaire de l'ONU aux droits de l'homme, Volker Türk, s'est dit préoccupé par la poursuite des affrontements et a appelé à une désescalade, tandis que des experts de l'ONU ont dénoncé des tueries, viols et actes de torture attribués au M23 dans l'est de la RDC. Un accord de cessez-le-feu conclu en décembre 2025 entre le gouvernement congolais et le M23 ne tient pas dans cette zone.",
+      "en": "Twirwaneho militia fighters, allied with the M23/AFC-M23 armed group, have repeatedly clashed with the Congolese army (FARDC) and allied Wazalendo forces in the South Kivu highlands, seizing the strategic hilltop position of Point Zéro near Minembwe. UN human rights chief Volker Türk voiced concern over the continued clashes and urged de-escalation, while UN experts have condemned killings, rapes and torture attributed to M23 forces in eastern DRC. A ceasefire deal reached in December 2025 between the Congolese government and M23 has not held in this area.",
+      "es": "Combatientes de la milicia Twirwaneho, aliada del grupo armado M23/AFC-M23, se han enfrentado repetidamente con el ejército congoleño (FARDC) y las fuerzas aliadas Wazalendo en los altiplanos de Kivu del Sur, tomando la posición estratégica de Point Zéro, cerca de Minembwe. El alto comisionado de la ONU para los derechos humanos, Volker Türk, expresó preocupación por los continuos enfrentamientos y pidió una desescalada, mientras que expertos de la ONU denunciaron matanzas, violaciones y torturas atribuidas a las fuerzas del M23 en el este de la RDC. Un acuerdo de alto el fuego alcanzado en diciembre de 2025 entre el gobierno congoleño y el M23 no se ha mantenido en esta zona."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Semaine du 09/07/2026 au 17/07/2026",
+          "en": "Week of 07/09/2026 to 07/17/2026",
+          "es": "Semana del 09/07/2026 al 17/07/2026"
+        },
+        "d": {
+          "fr": "La milice Twirwaneho s'empare de la position de Point Zéro, près de Minembwe, après de nouveaux combats.",
+          "en": "The Twirwaneho militia seizes the Point Zéro position near Minembwe after renewed fighting.",
+          "es": "La milicia Twirwaneho toma la posición de Point Zéro, cerca de Minembwe, tras nuevos combates."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      139.5,
+      -4.9
+    ],
+    "id": "indonesie-papouasie-piste-aerienne",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "ANTARA News / NBC News / South China Morning Post",
+    "place": {
+      "fr": "Village de Balinggama, régence de Yahukimo, province des Hautes-Terres de Papouasie, Indonésie",
+      "en": "Balinggama village, Yahukimo Regency, Papua Highlands Province, Indonesia",
+      "es": "Aldea de Balinggama, regencia de Yahukimo, provincia de las Tierras Altas de Papúa, Indonesia"
+    },
+    "title": {
+      "fr": "L'Indonésie rouvre une piste isolée de Papouasie après une attaque séparatiste ayant tué un pilote américain",
+      "en": "Indonesia reopens isolated Papua airstrip after separatist attack killed American pilot",
+      "es": "Indonesia reabre una pista aislada de Papúa tras un ataque separatista que mató a un piloto estadounidense"
+    },
+    "summary": {
+      "fr": "Des militaires indonésiens et des habitants ont dégagé le 18 juillet l'épave d'un avion Pilatus incendié le 2 juillet par des combattants séparatistes de l'Armée de libération nationale de Papouasie occidentale (TPNPB), qui avaient abattu le pilote américain Nicholas F. Goselin sur la piste d'Ipdeheik, au village de Balinggama. Les sept passagers, tous des civils papous autochtones, n'avaient pas été blessés. L'épave désormais dégagée de la piste, les vols desservant cette communauté isolée et dépendante de l'aide ont pu reprendre, des militaires indonésiens restant déployés pour sécuriser la piste.",
+      "en": "Indonesian troops and local residents cleared, on July 18, the wreckage of a Pilatus aircraft that separatist fighters from the West Papua National Liberation Army (TPNPB) set on fire on July 2, after shooting dead American pilot Nicholas F. Goselin at the Ipdeheik airstrip in Balinggama village. The seven passengers, all Indigenous Papuan civilians, were unharmed. With the wreckage now cleared from the runway, flights serving the remote, aid-dependent community were able to resume, with Indonesian military personnel remaining deployed to secure the airstrip.",
+      "es": "Militares indonesios y residentes locales despejaron el 18 de julio los restos de una avioneta Pilatus incendiada el 2 de julio por combatientes separatistas del Ejército de Liberación Nacional de Papúa Occidental (TPNPB), que habían abatido al piloto estadounidense Nicholas F. Goselin en la pista de Ipdeheik, en la aldea de Balinggama. Los siete pasajeros, todos civiles papúes indígenas, resultaron ilesos. Con los restos ya despejados de la pista, los vuelos que atienden a esta comunidad aislada y dependiente de la ayuda pudieron reanudarse, con personal militar indonesio desplegado para asegurar la pista."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/07/2026 — heure non précisée",
+          "en": "07/02/2026 — time not specified",
+          "es": "02/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des séparatistes du TPNPB tuent le pilote américain Nicholas F. Goselin et incendient son avion sur la piste d'Ipdeheik.",
+          "en": "TPNPB separatists kill American pilot Nicholas F. Goselin and burn his plane at the Ipdeheik airstrip.",
+          "es": "Separatistas del TPNPB matan al piloto estadounidense Nicholas F. Goselin e incendian su avión en la pista de Ipdeheik."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/07/2026 — heure non précisée",
+          "en": "07/18/2026 — time not specified",
+          "es": "18/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "L'épave est dégagée de la piste et les vols reprennent, sous protection militaire.",
+          "en": "The wreckage is cleared from the runway and flights resume, under military protection.",
+          "es": "Los restos son retirados de la pista y los vuelos se reanudan, bajo protección militar."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      28.1881,
+      -25.7461
+    ],
+    "id": "afrique-du-sud-taux-directeur",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "SAnews / Moneyweb / Eyewitness News",
+    "place": {
+      "fr": "Pretoria, Afrique du Sud (siège de la Banque de réserve sud-africaine)",
+      "en": "Pretoria, South Africa (South African Reserve Bank headquarters)",
+      "es": "Pretoria, Sudáfrica (sede del Banco de Reserva de Sudáfrica)"
+    },
+    "title": {
+      "fr": "La Banque de réserve sud-africaine maintient son taux directeur à 7 %, à la surprise des analystes",
+      "en": "South African Reserve Bank holds rate at 7%, surprising analysts",
+      "es": "El Banco de Reserva de Sudáfrica mantiene su tasa de interés en el 7 %, sorprendiendo a los analistas"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque de réserve sud-africaine a voté le 23 juillet le maintien de son taux directeur à 7 %, une décision qui a surpris la plupart des analystes, qui anticipaient une hausse de 25 points de base. Le comité a invoqué des perspectives d'inflation légèrement améliorées et une croissance plus faible, tout en réaffirmant son objectif de ramener l'inflation vers une cible de 3 % à terme ; le taux préférentiel bancaire reste à 10,50 %.",
+      "en": "The South African Reserve Bank's Monetary Policy Committee voted on July 23 to keep the benchmark repo rate unchanged at 7%, a decision that surprised most analysts who had forecast a 25-basis-point increase. The committee cited a slightly improved inflation outlook and softer growth, while reaffirming its goal of steering inflation toward a 3% target over time; the prime lending rate remains at 10.50%.",
+      "es": "El comité de política monetaria del Banco de Reserva de Sudáfrica votó el 23 de julio mantener sin cambios la tasa de interés de referencia en el 7 %, una decisión que sorprendió a la mayoría de los analistas, que preveían una subida de 25 puntos básicos. El comité citó una perspectiva de inflación ligeramente mejorada y un crecimiento más débil, reafirmando su objetivo de llevar la inflación hacia una meta del 3 % a largo plazo; la tasa preferencial bancaria se mantiene en el 10,50 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026 — heure non précisée",
+          "en": "23/07/2026 — time not specified",
+          "es": "23/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La Banque de réserve sud-africaine annonce le maintien de son taux directeur à 7 %.",
+          "en": "The South African Reserve Bank announces it is holding its benchmark rate at 7%.",
+          "es": "El Banco de Reserva de Sudáfrica anuncia que mantiene su tasa de referencia en el 7 %."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-kyiv-frappe-exposition",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Ukrainska Pravda / Kyiv Post / Washington Post",
+    "place": {
+      "fr": "Région de Kyiv, Ukraine — site précis non communiqué par les sources",
+      "en": "Kyiv Oblast, Ukraine — exact site not specified by sources",
+      "es": "Región de Kiev, Ucrania — emplazamiento exacto no especificado por las fuentes"
+    },
+    "title": {
+      "fr": "Une frappe russe sur une exposition d'armement près de Kyiv fait au moins 10 morts",
+      "en": "Russian strike on arms exhibition near Kyiv kills at least 10",
+      "es": "Un ataque ruso contra una exposición de armamento cerca de Kiev deja al menos 10 muertos"
+    },
+    "summary": {
+      "fr": "Un missile balistique russe a frappé le 24 juillet un site d'entraînement de la région de Kyiv où se tenait une exposition de drones et d'armement organisée par le groupement industriel ukrainien ARMADA, faisant au moins 10 morts et plus de 100 blessés selon le parquet général ukrainien. Le ministère russe de la Défense a affirmé avoir délibérément visé cet événement, le qualifiant de cible militaire légitime ; les autorités ukrainiennes ont ouvert des enquêtes distinctes sur la frappe et sur l'organisation de l'événement. Les bilans varient légèrement selon les sources et ont été révisés à la hausse au cours de la journée.",
+      "en": "A Russian ballistic missile struck a training site in the Kyiv region on July 24 where a drone and arms exhibition organized by the Ukrainian industry group ARMADA was underway, killing at least 10 people and injuring more than 100, according to Ukraine's Prosecutor General. Russia's Defense Ministry said it had deliberately targeted the event, calling it a legitimate military target; Ukrainian authorities opened separate investigations into the strike and the event's organization. Casualty figures vary slightly between sources and were revised upward through the day.",
+      "es": "Un misil balístico ruso alcanzó el 24 de julio un centro de entrenamiento en la región de Kiev, donde se celebraba una exposición de drones y armamento organizada por el grupo industrial ucraniano ARMADA, dejando al menos 10 muertos y más de 100 heridos, según la Fiscalía General de Ucrania. El Ministerio de Defensa ruso afirmó haber apuntado deliberadamente a ese evento, calificándolo de objetivo militar legítimo; las autoridades ucranianas abrieron investigaciones independientes sobre el ataque y sobre la organización del evento. Las cifras de víctimas varían ligeramente según la fuente y se revisaron al alza a lo largo del día."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Une frappe russe touche une exposition d'armement près de Kyiv, faisant au moins 10 morts et plus de 100 blessés.",
+          "en": "A Russian strike hits an arms exhibition near Kyiv, killing at least 10 and wounding more than 100.",
+          "es": "Un ataque ruso golpea una exposición de armamento cerca de Kiev, dejando al menos 10 muertos y más de 100 heridos."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -1.2461,
+      44.6203
+    ],
+    "id": "france-gironde-incendie-cap-ferret",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CNN / PBS NewsHour / The Watchers",
+    "place": {
+      "fr": "Presqu'île du Cap-Ferret, Gironde, France",
+      "en": "Cap Ferret peninsula, Gironde, France",
+      "es": "Península de Cap Ferret, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Un feu de forêt force l'évacuation massive de la presqu'île du Cap-Ferret près de Bordeaux",
+      "en": "Wildfire forces mass evacuation of the Cap Ferret peninsula near Bordeaux",
+      "es": "Un incendio forestal obliga a evacuar en masa la península de Cap Ferret cerca de Burdeos"
+    },
+    "summary": {
+      "fr": "Un feu de forêt à progression rapide en Gironde a franchi les lignes de confinement dans la nuit du 23 au 24 juillet et s'est étendu jusqu'à la presqu'île du Cap-Ferret, poussant les autorités à activer le système d'alerte national FR-Alert et à ordonner l'évacuation de l'ensemble de la presqu'île. Des dizaines de milliers de résidents et de touristes ont été évacués, certains par bateau depuis trois pontons, alors que l'incendie — qui a progressé jusqu'à 1 000 hectares par heure durant la nuit et a brûlé environ 10 000 hectares au total — était combattu par des Canadair et des renforts européens.",
+      "en": "A fast-moving wildfire in Gironde breached containment lines overnight between July 23 and 24 and spread onto the Cap Ferret peninsula, prompting authorities to activate the national FR-Alert emergency system and order the evacuation of the entire peninsula. Tens of thousands of residents and tourists were evacuated, some by boat from three piers, as the fire — which grew by up to 1,000 hectares per hour overnight and had burned roughly 10,000 hectares in total — was fought with water-bombing aircraft and European reinforcements.",
+      "es": "Un incendio forestal de rápida propagación en Gironda rompió las líneas de contención durante la noche del 23 al 24 de julio y se extendió hasta la península de Cap Ferret, lo que llevó a las autoridades a activar el sistema nacional de alerta FR-Alert y a ordenar la evacuación de toda la península. Decenas de miles de residentes y turistas fueron evacuados, algunos en barco desde tres embarcaderos, mientras el incendio —que avanzó hasta 1000 hectáreas por hora durante la noche y había quemado unas 10 000 hectáreas en total— era combatido con aviones cisterna y refuerzos europeos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Les autorités ordonnent l'évacuation de toute la presqu'île du Cap-Ferret face à l'avancée du feu.",
+          "en": "Authorities order the evacuation of the entire Cap Ferret peninsula as the fire advances.",
+          "es": "Las autoridades ordenan la evacuación de toda la península de Cap Ferret ante el avance del fuego."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -3.1669,
+      40.6333
+    ],
+    "id": "espagne-incendies-madrid-guadalajara",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Euronews / The Irish Times",
+    "related": [
+      "espagne-incendie"
+    ],
+    "place": {
+      "fr": "Province de Guadalajara et environs de Madrid, Espagne",
+      "en": "Guadalajara province and around Madrid, Spain",
+      "es": "Provincia de Guadalajara y alrededores de Madrid, España"
+    },
+    "title": {
+      "fr": "L'Espagne déclare l'urgence nationale face à des feux de forêt près de Madrid",
+      "en": "Spain declares national emergency as wildfires threaten Madrid-area communities",
+      "es": "España declara la emergencia nacional ante los incendios forestales cerca de Madrid"
+    },
+    "summary": {
+      "fr": "Les autorités espagnoles ont déclaré l'urgence nationale alors que des feux de forêt menaçaient des localités proches de Madrid et dans la province d'Ávila, dans un contexte de canicule intense en Europe du Sud. Un important incendie dans la province de Guadalajara reculait le 22 juillet, permettant à certains habitants évacués de rentrer chez eux, même si les pompiers avertissent que le risque de nouveaux départs de feu reste très élevé. Cet épisode fait suite à un précédent incendie plus meurtrier, survenu le 9 juillet près de Los Gallardos (Almería) et ayant fait 13 morts — le plus meurtrier de l'histoire de l'Andalousie.",
+      "en": "Spanish authorities declared a national emergency as wildfires threatened towns near the capital Madrid and in Ávila province, amid an intense heatwave gripping southern Europe. A large fire in Guadalajara province was receding by July 22, allowing some evacuated residents to return, even as firefighters warned the risk of new blazes remained very high. This follows an earlier, deadlier wildfire on July 9 near Los Gallardos (Almería) that killed 13 people, the deadliest in Andalusian history.",
+      "es": "Las autoridades españolas declararon la emergencia nacional mientras los incendios forestales amenazaban localidades cercanas a la capital, Madrid, y en la provincia de Ávila, en medio de una intensa ola de calor que azota el sur de Europa. Un gran incendio en la provincia de Guadalajara remitía el 22 de julio, permitiendo el regreso de algunos residentes evacuados, aunque los bomberos advirtieron que el riesgo de nuevos incendios seguía siendo muy alto. Este episodio sigue a un incendio anterior, más mortífero, ocurrido el 9 de julio cerca de Los Gallardos (Almería), que dejó 13 muertos, el más mortífero de la historia de Andalucía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026 — heure non précisée",
+          "en": "22/07/2026 — time not specified",
+          "es": "22/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "L'incendie de Guadalajara recule, permettant un début de retour des habitants évacués.",
+          "en": "The Guadalajara fire recedes, allowing evacuated residents to begin returning.",
+          "es": "El incendio de Guadalajara remite, permitiendo el regreso de los primeros residentes evacuados."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "id": "allemagne-niveau-menace-terroriste",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Reuters / Bloomberg",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne relève son niveau national de menace terroriste à « élevé »",
+      "en": "Germany raises national terror threat level to 'high'",
+      "es": "Alemania eleva su nivel nacional de amenaza terrorista a «alto»"
+    },
+    "summary": {
+      "fr": "Le ministre de l'Intérieur Alexander Dobrindt a annoncé le 18 juillet le relèvement du niveau de menace, passant d'« abstrait » à « élevé », invoquant des renseignements faisant état de projets d'attaque clairement identifiés visant des infrastructures critiques, des individus et des institutions. L'annonce fait suite à une attaque au couteau dans un train ayant laissé un agent de sécurité grièvement blessé, alors que le gouvernement du chancelier Friedrich Merz prépare des propositions pour élargir les pouvoirs de recherche des services de renseignement intérieur.",
+      "en": "Interior Minister Alexander Dobrindt announced on July 18 that Germany was raising its threat level from 'abstract' to 'high,' citing intelligence pointing to clearly identifiable attack plans targeting critical infrastructure, individuals and institutions. The announcement followed a violent knife attack on a train that left a security employee with life-threatening injuries, as Chancellor Friedrich Merz's government prepares proposals to expand domestic intelligence agencies' search powers.",
+      "es": "El ministro del Interior, Alexander Dobrindt, anunció el 18 de julio que Alemania elevaba su nivel de amenaza de «abstracto» a «alto», citando información de inteligencia sobre planes de ataque claramente identificados contra infraestructuras críticas, personas e instituciones. El anuncio se produjo tras un violento ataque con cuchillo en un tren que dejó a un empleado de seguridad con heridas potencialmente mortales, mientras el gobierno del canciller Friedrich Merz prepara propuestas para ampliar las facultades de investigación de los servicios de inteligencia interior."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026 — heure non précisée",
+          "en": "18/07/2026 — time not specified",
+          "es": "18/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le ministère de l'Intérieur annonce le relèvement du niveau de menace terroriste à « élevé ».",
+          "en": "The Interior Ministry announces the terror threat level is being raised to 'high.'",
+          "es": "El Ministerio del Interior anuncia que el nivel de amenaza terrorista se eleva a «alto»."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "id": "russie-banque-centrale-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Banque de Russie / Washington Post / Meduza / BNN Bloomberg",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "La banque centrale russe abaisse son taux directeur à 14 % malgré un ralentissement de la croissance",
+      "en": "Russia's central bank cuts key rate to 14% amid slowing growth",
+      "es": "El banco central de Rusia baja su tasa de interés al 14 % en medio de una desaceleración del crecimiento"
+    },
+    "summary": {
+      "fr": "La Banque de Russie a abaissé le 24 juillet son taux directeur de 25 points de base, à 14 %, une dixième baisse consécutive, une décision que les analystes n'attendaient pas majoritairement compte tenu de la hausse des prix des carburants. L'institution invoque une croissance économique modérée, une hausse des anticipations d'inflation et un ralentissement du crédit, et a abaissé sa prévision de croissance 2026 à une fourchette de 0 à 1 %. La décision reflète la tension entre les pressions du monde des affaires russe pour des taux plus bas et l'objectif de la banque de ramener l'inflation vers sa cible de 4 %.",
+      "en": "The Bank of Russia cut its key interest rate by 25 basis points to 14% on July 24, its tenth consecutive reduction, a move analysts had not widely expected given rising fuel prices. The bank cited moderate economic growth, rising inflation expectations, and slowing lending activity, and lowered its 2026 growth forecast to a range of 0% to 1%. The decision reflects tension between pressure from Russia's business lobby for lower rates and the bank's goal of bringing inflation down to its 4% target.",
+      "es": "El Banco de Rusia recortó el 24 de julio su tasa de interés clave en 25 puntos básicos, hasta el 14 %, la décima reducción consecutiva, una decisión que los analistas no esperaban en su mayoría dado el aumento de los precios del combustible. El banco citó un crecimiento económico moderado, un aumento de las expectativas de inflación y una desaceleración del crédito, y redujo su previsión de crecimiento para 2026 a un rango de entre el 0 % y el 1 %. La decisión refleja la tensión entre la presión del sector empresarial ruso para bajar las tasas y el objetivo del banco de llevar la inflación hacia su meta del 4 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La Banque de Russie annonce sa dixième baisse consécutive de taux, à 14 %.",
+          "en": "The Bank of Russia announces its tenth consecutive rate cut, to 14%.",
+          "es": "El Banco de Rusia anuncia su décimo recorte de tasas consecutivo, hasta el 14 %."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -76.8167,
+      2.4167
+    ],
+    "id": "colombie-cauca-affrontements",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "El Heraldo / El Colombiano / Vanguardia / NTN24",
+    "place": {
+      "fr": "Huisitó, municipalité d'El Tambo, département du Cauca, Colombie",
+      "en": "Huisitó, El Tambo municipality, Cauca department, Colombia",
+      "es": "Huisitó, municipio de El Tambo, departamento del Cauca, Colombia"
+    },
+    "title": {
+      "fr": "Des affrontements entre l'armée colombienne et des dissidents des FARC font sept militaires blessés dans le Cauca",
+      "en": "Clashes between Colombian army and FARC dissidents wound seven soldiers in Cauca",
+      "es": "Los enfrentamientos entre el ejército colombiano y disidentes de las FARC dejan siete militares heridos en el Cauca"
+    },
+    "summary": {
+      "fr": "L'armée nationale colombienne s'est affrontée le 23 juillet au front Carlos Patiño, une dissidence des FARC, dans la zone rurale de Huisitó, municipalité d'El Tambo (Cauca), alors que des troupes intervenaient pour empêcher un barrage routier illégal. Sept militaires ont été blessés — un par balle, six par des éclats — et deux membres présumés de la dissidence ont été tués. Le ministre de la Défense a indiqué que les dissidents, habillés en civils, avaient ouvert le feu sur les soldats ; la confrontation a confiné la communauté locale pendant plusieurs heures.",
+      "en": "Colombia's National Army clashed on July 23 with the Carlos Patiño front, a FARC dissident group, in the rural area of Huisitó, El Tambo municipality (Cauca), while troops were operating to prevent an illegal roadblock. Seven military personnel were wounded — one by gunfire, six by shrapnel — and two alleged dissidents were killed. The defense minister said the dissidents, dressed as civilians, opened fire on the soldiers; the confrontation confined the local community for several hours.",
+      "es": "El Ejército Nacional de Colombia se enfrentó el 23 de julio con el frente Carlos Patiño, una disidencia de las FARC, en la zona rural de Huisitó, municipio de El Tambo (Cauca), mientras las tropas operaban para impedir un bloqueo vial ilegal. Siete militares resultaron heridos —uno por arma de fuego, seis por metralla— y dos presuntos disidentes murieron. El ministro de Defensa indicó que los disidentes, vestidos de civil, abrieron fuego contra los soldados; el enfrentamiento confinó a la comunidad local durante varias horas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026 — heure non précisée",
+          "en": "23/07/2026 — time not specified",
+          "es": "23/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des combats dans la zone rurale d'El Tambo font sept militaires blessés et deux dissidents tués.",
+          "en": "Fighting in the rural area of El Tambo leaves seven soldiers wounded and two dissidents dead.",
+          "es": "Los combates en la zona rural de El Tambo dejan siete militares heridos y dos disidentes muertos."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -51.96,
+      -29.4669
+    ],
+    "id": "bresil-rio-grande-do-sul-inondations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Agência Brasil / TN Sul / Brasil 247",
+    "place": {
+      "fr": "Bassin du Taquari (Lajeado, Muçum, Estrela, Encantado, Santa Cruz do Sul), Rio Grande do Sul, Brésil",
+      "en": "Taquari river basin (Lajeado, Muçum, Estrela, Encantado, Santa Cruz do Sul), Rio Grande do Sul, Brazil",
+      "es": "Cuenca del río Taquari (Lajeado, Muçum, Estrela, Encantado, Santa Cruz do Sul), Río Grande del Sur, Brasil"
+    },
+    "title": {
+      "fr": "Des orages et inondations déplacent près de 1 900 personnes dans plus de 140 villes du Rio Grande do Sul",
+      "en": "Storms and flooding displace nearly 1,900 people across more than 140 towns in Rio Grande do Sul",
+      "es": "Tormentas e inundaciones desplazan a casi 1900 personas en más de 140 localidades de Río Grande del Sur"
+    },
+    "summary": {
+      "fr": "De fortes pluies, de la grêle et des tempêtes de vent ont touché plus de 140 municipalités du Rio Grande do Sul, laissant environ 1 315 personnes dans des abris et 565 autres hébergées chez des proches, selon les chiffres de la défense civile de l'État relayés par l'agence publique fédérale Agência Brasil. Certaines localités ont enregistré plus de 180 mm de pluie en 24 heures, et les rivières Taquari et Lajeado ont dépassé le niveau d'alerte de crue, déclenchant des alertes de risque élevé. Des glissements de terrain et des inondations éclair ont également été signalés.",
+      "en": "Heavy rain, hail and windstorms hit more than 140 municipalities in Rio Grande do Sul state, leaving about 1,315 people in shelters and another 565 staying with relatives, according to state civil defense figures reported by federal public news agency Agência Brasil. Some towns recorded more than 180mm of rain in 24 hours, and the Taquari and Lajeado rivers exceeded flood stage, triggering high-risk alerts. Landslides and flash flooding were also reported.",
+      "es": "Fuertes lluvias, granizo y vendavales golpearon a más de 140 municipios de Río Grande del Sur, dejando a unas 1315 personas en refugios y a otras 565 alojadas con familiares, según cifras de la defensa civil estatal difundidas por la agencia pública federal Agência Brasil. Algunas localidades registraron más de 180 mm de lluvia en 24 horas, y los ríos Taquari y Lajeado superaron el nivel de alerta por crecida, lo que desencadenó alertas de alto riesgo. También se reportaron deslizamientos de tierra e inundaciones repentinas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 — heure non précisée",
+          "en": "24/07/2026 — time not specified",
+          "es": "24/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La défense civile du Rio Grande do Sul recense près de 1 900 personnes déplacées après plusieurs jours de tempêtes.",
+          "en": "Rio Grande do Sul's civil defense counts nearly 1,900 people displaced after several days of storms.",
+          "es": "La defensa civil de Río Grande del Sur contabiliza casi 1900 personas desplazadas tras varios días de tormentas."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -93.3833,
+      15.1667
+    ],
+    "id": "mexique-chiapas-seisme",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "ABC News / Euronews / The Weather Network",
+    "place": {
+      "fr": "Au large du Chiapas, près d'Aquiles Serdán, Mexique",
+      "en": "Off the coast of Chiapas, near Aquiles Serdán, Mexico",
+      "es": "Frente a la costa de Chiapas, cerca de Aquiles Serdán, México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,3 frappe au large du Chiapas et déclenche une alerte au tsunami",
+      "en": "Magnitude 7.3 earthquake strikes off Chiapas coast, triggers tsunami alert",
+      "es": "Un terremoto de magnitud 7,3 sacude la costa de Chiapas y desencadena una alerta de tsunami"
+    },
+    "summary": {
+      "fr": "Un séisme peu profond de magnitude 7,3 a frappé le 17 juillet au large du Chiapas, à environ 48 km au sud-ouest d'Aquiles Serdán, provoquant une alerte au tsunami sur la côte Pacifique et des évacuations au Mexique et au Salvador. La présidente Claudia Sheinbaum a indiqué qu'aucun dommage structurel majeur ni victime n'avait été signalé. Au moins dix répliques de magnitude comprise entre 4,9 et 6,0 ont suivi, et le Centre d'alerte aux tsunamis du Pacifique a levé la menace quelques heures plus tard.",
+      "en": "A shallow magnitude 7.3 earthquake struck off the coast of Chiapas on July 17, roughly 48 km southwest of Aquiles Serdán, prompting a tsunami warning for the Pacific coast and evacuations in Mexico and El Salvador. President Claudia Sheinbaum said no major structural damage or casualties had been reported. At least ten aftershocks ranging from magnitude 4.9 to 6.0 followed, and the Pacific Tsunami Warning Center lifted the threat hours later.",
+      "es": "Un terremoto superficial de magnitud 7,3 sacudió el 17 de julio la costa de Chiapas, a unos 48 km al suroeste de Aquiles Serdán, lo que provocó una alerta de tsunami en la costa del Pacífico y evacuaciones en México y El Salvador. La presidenta Claudia Sheinbaum indicó que no se habían reportado daños estructurales importantes ni víctimas. Le siguieron al menos diez réplicas de entre magnitud 4,9 y 6,0, y el Centro de Alerta de Tsunamis del Pacífico levantó la amenaza horas después."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026 — heure non précisée",
+          "en": "17/07/2026 — time not specified",
+          "es": "17/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,3 déclenche une alerte au tsunami, levée quelques heures plus tard sans dommages majeurs signalés.",
+          "en": "The magnitude 7.3 earthquake triggers a tsunami alert, lifted hours later with no major damage reported.",
+          "es": "El terremoto de magnitud 7,3 desencadena una alerta de tsunami, levantada horas después sin daños importantes reportados."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
+  },
+  {
+    "coords": [
+      -74.0744,
+      40.8135
+    ],
+    "id": "mondial2026-bagarre-finale",
+    "status": "recoupement",
+    "severe": true,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "Al Jazeera / Fox Sports / ABC7",
+    "place": {
+      "fr": "MetLife Stadium, East Rutherford, New Jersey, États-Unis",
+      "en": "MetLife Stadium, East Rutherford, New Jersey, United States",
+      "es": "MetLife Stadium, East Rutherford, Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une bagarre éclate entre joueurs argentins et espagnols après la finale du Mondial",
+      "en": "Brawl erupts between Argentina and Spain players after World Cup final",
+      "es": "Estalla una pelea entre jugadores de Argentina y España tras la final del Mundial"
+    },
+    "summary": {
+      "fr": "Après la victoire de l'Espagne 1-0 après prolongation en finale de la Coupe du monde 2026, une altercation physique a éclaté sur la pelouse, avec des coups échangés et une prise à la gorge. L'Argentin Leandro Paredes a reçu un carton rouge direct après avoir saisi l'Espagnol Eric García à la gorge et plaqué Gavi au sol ; le milieu argentin Enzo Fernández avait déjà été expulsé pendant le match. La commission de discipline de la FIFA a ouvert une enquête sur les incidents survenus après la rencontre.",
+      "en": "Following Spain's 1-0 extra-time win over Argentina in the 2026 FIFA World Cup final, a physical altercation broke out on the pitch involving punches and a chokehold. Argentina's Leandro Paredes received a straight red card after grabbing Spain's Eric García by the throat and wrestling Gavi to the ground; Argentina midfielder Enzo Fernández had already been sent off during the match. FIFA's disciplinary committee opened an investigation into the post-match incidents.",
+      "es": "Tras la victoria de España por 1-0 en la prórroga de la final de la Copa Mundial de la FIFA 2026 ante Argentina, estalló una pelea sobre el terreno de juego con golpes y un agarre al cuello. El argentino Leandro Paredes recibió tarjeta roja directa tras agarrar del cuello al español Eric García y forcejear con Gavi hasta derribarlo; el mediocampista argentino Enzo Fernández ya había sido expulsado durante el partido. El comité disciplinario de la FIFA abrió una investigación sobre los incidentes posteriores al encuentro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026 — heure non précisée",
+          "en": "19/07/2026 — time not specified",
+          "es": "19/07/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Une bagarre éclate sur la pelouse après la finale ; la FIFA ouvre une enquête disciplinaire.",
+          "en": "A brawl breaks out on the pitch after the final; FIFA opens a disciplinary investigation.",
+          "es": "Estalla una pelea sobre el césped tras la final; la FIFA abre una investigación disciplinaria."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "week": "2026-W30"
   }
 ]
