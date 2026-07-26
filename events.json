@@ -216,7 +216,10 @@
       }
     ],
     "week": "2026-W29",
-    "priority": 2
+    "priority": 2,
+    "related": [
+      "russie-troupes-nordcoreennes"
+    ]
   },
   {
     "coords": [
@@ -260,7 +263,10 @@
       }
     ],
     "week": "2026-W29",
-    "priority": 2
+    "priority": 2,
+    "related": [
+      "espagne-incendie-manises"
+    ]
   },
   {
     "coords": [
@@ -692,7 +698,7 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
+    "source": "La Presse / franceinfo / Radio-Canada / CNN / Al Jazeera",
     "week": "2026-W29",
     "place": {
       "fr": "Téhéran, Iran",
@@ -734,10 +740,25 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Après 13 nuits consécutives de frappes américaines, le Pentagone marque une pause le 25 juillet ; le président Donald Trump affirme que les forces américaines restent « prêtes à en découdre » (« locked and loaded ») pour une possible nouvelle escalade, tout en assurant ne pas être « pressé » de conclure le conflit, selon CNN et Al Jazeera. Des tractations diplomatiques se poursuivent, notamment via le vice-président JD Vance et le secrétaire d'État Marco Rubio.",
+          "en": "After 13 consecutive nights of US strikes, the Pentagon paused on July 25; President Donald Trump said US forces remain \"locked and loaded\" for a possible further escalation, while saying he is in no \"hurry\" to end the conflict, according to CNN and Al Jazeera. Diplomatic talks continue, including via Vice President JD Vance and Secretary of State Marco Rubio.",
+          "es": "Tras 13 noches consecutivas de ataques estadounidenses, el Pentágono hizo una pausa el 25 de julio; el presidente Donald Trump afirmó que las fuerzas estadounidenses siguen « listas para el combate » (\"locked and loaded\") ante una posible nueva escalada, aunque aseguró no tener « prisa » por poner fin al conflicto, según CNN y Al Jazeera. Continúan las gestiones diplomáticas, entre ellas las del vicepresidente JD Vance y el secretario de Estado Marco Rubio."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "arabie-saoudite-houthis-attaque"
+    ],
     "priority": 2
   },
   {
@@ -829,5 +850,751 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "berlin-attentat-pride",
+    "coords": [
+      13.3564,
+      52.5145
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚐",
+    "source": "CNN / police de Berlin",
+    "place": {
+      "fr": "Parc du Tiergarten, Berlin, Allemagne",
+      "en": "Tiergarten Park, Berlin, Germany",
+      "es": "Parque Tiergarten, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une camionnette fonce dans la foule à la Pride de Berlin, un mort",
+      "en": "Van rams into crowd at Berlin Pride, one dead",
+      "es": "Una furgoneta embiste a la multitud en el Orgullo de Berlín, un muerto"
+    },
+    "summary": {
+      "fr": "Une camionnette a foncé dans la foule samedi 25 juillet peu avant 22h, dans le parc du Tiergarten à Berlin, en marge du plus grand rassemblement LGBTQ+ d'Allemagne, faisant un mort et au moins 16 blessés, selon la police citée par CNN. Le véhicule a été retrouvé encastré dans un arbre après les faits. La police affirme avoir identifié un suspect, non encore arrêté, connu des services pour des liens allégués avec des milieux islamistes de la capitale ; cette qualification n'a pas été confirmée par une source judiciaire indépendante à ce stade.",
+      "en": "A van rammed into the crowd on Saturday, July 25 shortly before 10 p.m., in Berlin's Tiergarten park on the sidelines of Germany's largest LGBTQ+ gathering, killing one person and injuring at least 16, according to police cited by CNN. The vehicle was later found crashed into a tree. Police say they have identified a suspect, not yet arrested, known to authorities for alleged ties to Islamist circles in the capital; this characterization has not been independently confirmed by a judicial source at this stage.",
+      "es": "Una furgoneta embistió a la multitud el sábado 25 de julio poco antes de las 22:00, en el parque Tiergarten de Berlín, al margen de la mayor concentración LGBTQ+ de Alemania, dejando un muerto y al menos 16 heridos, según la policía citada por CNN. El vehículo fue hallado después estrellado contra un árbol. La policía afirma haber identificado a un sospechoso, aún no detenido, conocido por presuntos vínculos con círculos islamistas de la capital; esta calificación no ha sido confirmada de forma independiente por una fuente judicial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026, 22h00 (approx.)",
+          "en": "25/07/2026, 10:00 PM (approx.)",
+          "es": "25/07/2026, 22:00 (aprox.)"
+        },
+        "d": {
+          "fr": "La police berlinoise annonce un mort et au moins 16 blessés après qu'une camionnette a foncé dans la foule au Tiergarten.",
+          "en": "Berlin police report one dead and at least 16 injured after a van rammed into the crowd at Tiergarten.",
+          "es": "La policía de Berlín informa de un muerto y al menos 16 heridos tras el impacto de una furgoneta contra la multitud en el Tiergarten."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "france-incendies-gironde",
+    "coords": [
+      -1.2003,
+      44.9808
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CNN / Reuters",
+    "place": {
+      "fr": "Gironde (secteurs de Bordeaux et de Lacanau), France",
+      "en": "Gironde (Bordeaux and Lacanau area), France",
+      "es": "Gironda (zona de Burdeos y Lacanau), Francia"
+    },
+    "title": {
+      "fr": "Plus de 220 000 personnes évacuées en Gironde face aux incendies",
+      "en": "Over 220,000 people evacuated in Gironde as wildfires rage",
+      "es": "Más de 220 000 personas evacuadas en Gironda por los incendios"
+    },
+    "summary": {
+      "fr": "Une trentaine de feux brûlent simultanément dans le sud-ouest de la France, où le plus important, parti mercredi près de la presqu'île du Cap-Ferret, a conduit à l'évacuation de plus de 220 000 personnes en Gironde, selon CNN et Reuters. Au total, environ 198 000 évacuations ont été comptabilisées à travers les départements de la Gironde, des Landes, du Var et du Tarn. Un avion militaire A400M a largué pour la première fois du retardant sur le feu près de Lacanau. Le président Emmanuel Macron a promis samedi que « nous reconstruirons ».",
+      "en": "Around thirty fires are burning simultaneously in southwestern France, where the largest, which broke out Wednesday near the Cap Ferret peninsula, has led to the evacuation of more than 220,000 people in Gironde, according to CNN and Reuters. In total, about 198,000 evacuations have been recorded across the Gironde, Landes, Var and Tarn departments. A military A400M aircraft made its first-ever drop of fire retardant on the blaze near Lacanau. President Emmanuel Macron pledged Saturday that \"we will rebuild.\"",
+      "es": "Una treintena de incendios arden simultáneamente en el suroeste de Francia, donde el más importante, iniciado el miércoles cerca de la península de Cap Ferret, ha llevado a evacuar a más de 220 000 personas en Gironda, según CNN y Reuters. En total se han contabilizado unas 198 000 evacuaciones en los departamentos de Gironda, Landas, Var y Tarn. Un avión militar A400M realizó su primer lanzamiento de retardante sobre el fuego cerca de Lacanau. El presidente Emmanuel Macron prometió el sábado que «reconstruiremos»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "23/07/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "Le principal incendie se déclare près de la presqu'île du Cap-Ferret, en Gironde.",
+          "en": "The main fire breaks out near the Cap Ferret peninsula in Gironde.",
+          "es": "El principal incendio se declara cerca de la península de Cap Ferret, en Gironda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités portent le total à plus de 220 000 évacués en Gironde ; un A400M largue du retardant près de Lacanau ; Macron promet la reconstruction.",
+          "en": "Authorities raise the total to more than 220,000 evacuated in Gironde; an A400M drops retardant near Lacanau; Macron pledges reconstruction.",
+          "es": "Las autoridades elevan el total a más de 220 000 evacuados en Gironda; un A400M lanza retardante cerca de Lacanau; Macron promete la reconstrucción."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "espagne-incendie-manises"
+    ],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "espagne-incendie-manises",
+    "coords": [
+      -0.4667,
+      39.4833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "LBC / pompiers locaux",
+    "place": {
+      "fr": "Manises (province de Valence), Espagne",
+      "en": "Manises (Valencia province), Spain",
+      "es": "Manises (provincia de Valencia), España"
+    },
+    "title": {
+      "fr": "Un incendie fait un mort près de Valence, la ville en deuil",
+      "en": "Wildfire kills one near Valencia, town declares mourning",
+      "es": "Un incendio deja un muerto cerca de Valencia, el municipio guarda luto"
+    },
+    "summary": {
+      "fr": "Un homme de 78 ans à mobilité réduite est mort samedi 25 juillet, surpris par les flammes près de son verger dans un ravin de Manises, au nord-ouest de Valence, selon les pompiers locaux cités par LBC. Poussé par des vents de 20 à 35 km/h, le feu s'est propagé très rapidement avant d'être maîtrisé environ quatre heures plus tard. La commune a décrété deux jours de deuil officiel. Cet incendie s'inscrit dans une vague plus large qui a forcé l'évacuation de plus de 250 000 personnes en Espagne et en France.",
+      "en": "A 78-year-old man with reduced mobility died on Saturday, July 25, caught by flames near his orchard in a ravine in Manises, northwest of Valencia, according to local firefighters cited by LBC. Driven by winds of 20 to 35 km/h, the fire spread very quickly before being brought under control roughly four hours later. The town has declared two days of official mourning. The fire is part of a wider wave that has forced the evacuation of more than 250,000 people across Spain and France.",
+      "es": "Un hombre de 78 años con movilidad reducida murió el sábado 25 de julio, sorprendido por las llamas cerca de su huerto en un barranco de Manises, al noroeste de Valencia, según los bomberos locales citados por LBC. Impulsado por vientos de 20 a 35 km/h, el fuego se propagó muy rápido antes de ser controlado unas cuatro horas después. El municipio decretó dos días de luto oficial. Este incendio forma parte de una ola más amplia que ha obligado a evacuar a más de 250 000 personas en España y Francia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Les pompiers annoncent la mort d'un homme de 78 ans et deux jours de deuil officiel à Manises.",
+          "en": "Firefighters report the death of a 78-year-old man and two days of official mourning in Manises.",
+          "es": "Los bomberos informan de la muerte de un hombre de 78 años y dos días de luto oficial en Manises."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "espagne-incendie",
+      "france-incendies-gironde"
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-vedette-naufrage",
+    "coords": [
+      121.5828,
+      -0.8814
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "AP / Washington Post",
+    "place": {
+      "fr": "Baie de Tomini, au large de Tojo Una-Una, Sulawesi central, Indonésie",
+      "en": "Tomini Bay, off Tojo Una-Una, Central Sulawesi, Indonesia",
+      "es": "Bahía de Tomini, frente a Tojo Una-Una, Célebes Central, Indonesia"
+    },
+    "title": {
+      "fr": "Onze touristes européens retrouvés vivants après le naufrage de leur vedette, le capitaine reste introuvable",
+      "en": "Eleven European tourists found alive after speedboat sinks, captain still missing",
+      "es": "Once turistas europeos hallados con vida tras el naufragio de su lancha, el capitán sigue desaparecido"
+    },
+    "summary": {
+      "fr": "Une vedette rapide partie vendredi matin d'un centre de plongée du Sulawesi central à destination de la province de Gorontalo s'est disloquée et a coulé en mer agitée, selon l'AP et le Washington Post. Les onze touristes européens à bord ainsi qu'un membre d'équipage, séparés du groupe dans le brouillard, ont été localisés vivants dans la baie de Tomini et évacués vers le district de Tojo Una-Una. Les recherches se poursuivent pour retrouver le capitaine du bateau, âgé de 29 ans, toujours porté disparu.",
+      "en": "A speedboat that left a dive resort in Central Sulawesi on Friday morning bound for Gorontalo province broke apart and sank in rough seas, according to AP and the Washington Post. The eleven European tourists on board, along with one crew member who became separated from the group in dense fog, were located alive in Tomini Bay and evacuated to Tojo Una-Una district. Search efforts continue for the boat's 29-year-old captain, who remains missing.",
+      "es": "Una lancha rápida que salió el viernes por la mañana de un centro de buceo en Célebes Central con destino a la provincia de Gorontalo se partió y se hundió en un mar agitado, según AP y The Washington Post. Los once turistas europeos a bordo, junto con un tripulante que quedó separado del grupo entre la niebla, fueron localizados con vida en la bahía de Tomini y evacuados al distrito de Tojo Una-Una. Continúan las labores de búsqueda del capitán de la embarcación, de 29 años, que sigue desaparecido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "La vedette perd le contact peu après son départ ; les recherches s'organisent.",
+          "en": "The speedboat loses contact shortly after departure; a search operation is launched.",
+          "es": "La lancha pierde el contacto poco después de salir; se organiza la búsqueda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Les onze touristes et un membre d'équipage sont retrouvés vivants ; le capitaine reste porté disparu.",
+          "en": "The eleven tourists and one crew member are found alive; the captain remains missing.",
+          "es": "Los once turistas y un tripulante son hallados con vida; el capitán sigue desaparecido."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-procureur-corruption",
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg / Free Malaysia Today",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "L'ex-procureur anticorruption le plus puissant d'Indonésie arrêté pour blanchiment",
+      "en": "Indonesia's most powerful former anti-graft prosecutor arrested for money laundering",
+      "es": "El expiscal anticorrupción más poderoso de Indonesia, detenido por blanqueo de capitales"
+    },
+    "summary": {
+      "fr": "Febrie Adriansyah, qui a dirigé pendant plus de quatre ans le service des crimes spéciaux du parquet général indonésien, a été arrêté vendredi soir pour blanchiment d'argent, selon Bloomberg et Free Malaysia Today. Des perquisitions avaient permis de saisir à son domicile environ 19 millions de dollars en diverses devises et 74 kg de lingots d'or, pour une valeur totale d'environ 26 millions de dollars. Il avait démissionné le 11 juillet. Placé en détention pour vingt jours par la Commission d'éradication de la corruption (KPK), il nie toute infraction et affirme être victime d'une « criminalisation », sans préciser à qui appartiendraient selon lui l'or et l'argent saisis.",
+      "en": "Febrie Adriansyah, who led Indonesia's attorney general office special crimes unit for more than four years, was arrested Friday evening on suspicion of money laundering, according to Bloomberg and Free Malaysia Today. Raids on his property had turned up about $19 million in various currencies and 74 kg of gold bars, worth roughly $26 million in total. He had resigned on July 11. Detained for 20 days by the Corruption Eradication Commission (KPK), he denies any wrongdoing and says he is a victim of \"criminalization,\" without specifying who he says actually owns the seized gold and cash.",
+      "es": "Febrie Adriansyah, quien dirigió durante más de cuatro años la unidad de delitos especiales de la fiscalía general de Indonesia, fue detenido el viernes por la noche por presunto blanqueo de capitales, según Bloomberg y Free Malaysia Today. Registros en su propiedad habían permitido incautar unos 19 millones de dólares en diversas divisas y 74 kg de lingotes de oro, por un valor total aproximado de 26 millones de dólares. Había dimitido el 11 de julio. Detenido por veinte días por la Comisión Erradicadora de la Corrupción (KPK), niega cualquier delito y afirma ser víctima de una «criminalización», sin precisar a quién pertenecerían, según él, el oro y el dinero incautados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/07/2026",
+          "en": "11/07/2026",
+          "es": "11/07/2026"
+        },
+        "d": {
+          "fr": "Febrie Adriansyah démissionne après des perquisitions à son domicile.",
+          "en": "Febrie Adriansyah resigns following raids on his home.",
+          "es": "Febrie Adriansyah dimite tras registros en su domicilio."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Il est arrêté pour blanchiment d'argent et placé en détention pour vingt jours par le KPK.",
+          "en": "He is arrested for money laundering and detained for 20 days by the KPK.",
+          "es": "Es detenido por blanqueo de capitales y recluido por veinte días por el KPK."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "arabie-saoudite-houthis-attaque",
+    "coords": [
+      42.5511,
+      16.8892
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Türkiye Today",
+    "place": {
+      "fr": "Jizan et Yanbu, Arabie saoudite",
+      "en": "Jizan and Yanbu, Saudi Arabia",
+      "es": "Jizán y Yanbu, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Les Houthis revendiquent des frappes sur des sites pétroliers saoudiens à Jizan et Yanbu",
+      "en": "Houthis claim strikes on Saudi oil sites in Jizan and Yanbu",
+      "es": "Los hutíes reivindican ataques contra instalaciones petroleras saudíes en Jizán y Yanbu"
+    },
+    "summary": {
+      "fr": "Le mouvement houthi yéménite a revendiqué samedi 25 juillet des frappes de missiles et de drones contre des installations liées à Saudi Aramco à Jizan et Yanbu, en représailles selon lui à des frappes saoudiennes sur le port yéménite de Hodeïda et l'île de Kamaran, rapportent Al Jazeera et Türkiye Today. Une raffinerie a pris feu à Jizan. Yanbu est le point de sortie de l'oléoduc Est-Ouest, devenu la principale voie d'exportation du pétrole saoudien depuis la fermeture du détroit d'Ormuz par l'Iran. Ces attaques, survenant dans le contexte de l'élargissement du conflit entre les États-Unis, Israël et l'Iran, ont fait remonter le baril de Brent au-dessus de 100 dollars.",
+      "en": "Yemen's Houthi movement claimed missile and drone strikes on Saturday, July 25 against Saudi Aramco-linked facilities in Jizan and Yanbu, which it said were in retaliation for Saudi strikes on Yemen's Hodeidah port and Kamaran Island, according to Al Jazeera and Türkiye Today. A refinery caught fire in Jizan. Yanbu is the outlet for the East-West pipeline, which has become Saudi Arabia's main crude export route since Iran closed the Strait of Hormuz. The attacks, coming amid the wider conflict involving the United States, Israel and Iran, pushed Brent crude back above $100 a barrel.",
+      "es": "El movimiento hutí de Yemen reivindicó el sábado 25 de julio ataques con misiles y drones contra instalaciones vinculadas a Saudi Aramco en Jizán y Yanbu, en represalia, según afirma, por ataques saudíes contra el puerto yemení de Hodeida y la isla de Kamaran, informan Al Jazeera y Türkiye Today. Una refinería se incendió en Jizán. Yanbu es el punto de salida del oleoducto Este-Oeste, convertido en la principal vía de exportación de crudo saudí desde que Irán cerró el estrecho de Ormuz. Estos ataques, en el marco de la ampliación del conflicto entre Estados Unidos, Israel e Irán, hicieron subir el barril de Brent por encima de los 100 dólares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Les Houthis revendiquent des frappes sur des installations pétrolières à Jizan et Yanbu ; une raffinerie prend feu.",
+          "en": "The Houthis claim strikes on oil facilities in Jizan and Yanbu; a refinery catches fire.",
+          "es": "Los hutíes reivindican ataques contra instalaciones petroleras en Jizán y Yanbu; una refinería se incendia."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "chine-typhon-noul",
+    "coords": [
+      114.87,
+      22.8
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Al Jazeera / Hong Kong Free Press",
+    "place": {
+      "fr": "Pinghai (district de Huidong, Huizhou), province du Guangdong, Chine",
+      "en": "Pinghai (Huidong district, Huizhou), Guangdong province, China",
+      "es": "Pinghai (distrito de Huidong, Huizhou), provincia de Guangdong, China"
+    },
+    "title": {
+      "fr": "Le typhon Noul touche terre en Chine après l'évacuation de plus de 340 000 personnes",
+      "en": "Typhoon Noul makes landfall in China after more than 340,000 evacuated",
+      "es": "El tifón Noul toca tierra en China tras la evacuación de más de 340 000 personas"
+    },
+    "summary": {
+      "fr": "Le typhon Noul, le plus puissant à avoir touché terre en Chine cette année, s'est abattu vers 3h50 du matin dimanche 26 juillet près de Pinghai, dans le district de Huidong (Huizhou, Guangdong), à environ 80 km au nord-est de Hong Kong, avec des vents soutenus de 162 km/h, selon Al Jazeera et Hong Kong Free Press. Plus de 340 000 personnes ont été évacuées, le travail et les liaisons ferroviaires ont été suspendus, et environ 350 vols ont été annulés à l'aéroport de Hong Kong. Au moins neuf personnes ont été blessées à Hong Kong pendant le passage de la tempête.",
+      "en": "Typhoon Noul, the strongest to make landfall in China this year, struck at around 3:50 a.m. on Sunday, July 26 near Pinghai, in Huidong district (Huizhou, Guangdong), about 80 km northeast of Hong Kong, with sustained winds of 162 km/h, according to Al Jazeera and Hong Kong Free Press. More than 340,000 people were evacuated, work and rail links were suspended, and about 350 flights were cancelled at Hong Kong's airport. At least nine people were injured in Hong Kong during the storm.",
+      "es": "El tifón Noul, el más fuerte en tocar tierra en China este año, golpeó hacia las 3:50 de la madrugada del domingo 26 de julio cerca de Pinghai, en el distrito de Huidong (Huizhou, Guangdong), a unos 80 km al noreste de Hong Kong, con vientos sostenidos de 162 km/h, según Al Jazeera y Hong Kong Free Press. Más de 340 000 personas fueron evacuadas, se suspendieron el trabajo y los enlaces ferroviarios, y se cancelaron unos 350 vuelos en el aeropuerto de Hong Kong. Al menos nueve personas resultaron heridas en Hong Kong durante el paso de la tormenta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Noul touche terre près de Pinghai avec des vents de 162 km/h ; plus de 340 000 personnes ont été évacuées.",
+          "en": "Noul makes landfall near Pinghai with 162 km/h winds; more than 340,000 people have been evacuated.",
+          "es": "Noul toca tierra cerca de Pinghai con vientos de 162 km/h; más de 340 000 personas han sido evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "japon-canicule-record",
+    "coords": [
+      136.7606,
+      35.4233
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Japan Times / Nippon.com",
+    "place": {
+      "fr": "Préfecture de Gifu (villes de Mino et Tajimi), Japon",
+      "en": "Gifu Prefecture (cities of Mino and Tajimi), Japan",
+      "es": "Prefectura de Gifu (ciudades de Mino y Tajimi), Japón"
+    },
+    "title": {
+      "fr": "Le Japon enregistre un cinquième jour consécutif de chaleur record",
+      "en": "Japan records a fifth consecutive day of record heat",
+      "es": "Japón registra un quinto día consecutivo de calor récord"
+    },
+    "summary": {
+      "fr": "Le Japon a connu samedi 25 juillet son cinquième « jour de chaleur cruelle » consécutif — un terme créé cette année pour les journées dépassant 40°C —, la plus longue série depuis le début des relevés comparables en 2010, selon le Japan Times et Nippon.com. Six villes du centre du pays, dans les préfectures de Gifu, Mie, Shizuoka et Aichi, ont dépassé ce seuil, avec un pic de 40,8°C à Mino (Gifu). Sur une semaine, sept personnes sont mortes et 105 ont été classées en état grave ; près de 11 000 personnes ont consulté en urgence entre le 13 et le 19 juillet, selon les autorités.",
+      "en": "Japan recorded its fifth consecutive \"cruelly hot day\" on Saturday, July 25 — a term coined this year for days exceeding 40°C — the longest such streak since comparable records began in 2010, according to the Japan Times and Nippon.com. Six cities in central Japan, in Gifu, Mie, Shizuoka and Aichi prefectures, exceeded the threshold, with a peak of 40.8°C in Mino (Gifu). Over one week, seven people died and 105 were classified as seriously ill; nearly 11,000 people sought emergency care between July 13 and 19, according to authorities.",
+      "es": "Japón vivió el sábado 25 de julio su quinto «día de calor cruel» consecutivo —un término acuñado este año para las jornadas que superan los 40°C—, la racha más larga desde que comenzaron los registros comparables en 2010, según Japan Times y Nippon.com. Seis ciudades del centro del país, en las prefecturas de Gifu, Mie, Shizuoka y Aichi, superaron ese umbral, con un pico de 40,8°C en Mino (Gifu). En una semana murieron siete personas y 105 fueron clasificadas en estado grave; cerca de 11 000 personas acudieron a urgencias entre el 13 y el 19 de julio, según las autoridades."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Le Japon enregistre son cinquième jour consécutif au-dessus de 40°C, un record.",
+          "en": "Japan records its fifth consecutive day above 40°C, a record.",
+          "es": "Japón registra su quinto día consecutivo por encima de los 40°C, un récord."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "etatsunis-enquete-commerciale-ue",
+    "coords": [
+      -77.0365,
+      38.8977
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "CBS News / AP",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, United States",
+      "es": "Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Trump annonce une enquête commerciale américaine contre l'Union européenne",
+      "en": "Trump announces US trade investigation into the European Union",
+      "es": "Trump anuncia una investigación comercial estadounidense contra la Unión Europea"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a annoncé vendredi 24 juillet l'ouverture immédiate d'une enquête au titre de la section 301 de la loi commerciale sur les pratiques de l'Union européenne, selon CBS News et l'AP. Il accuse le bloc d'avoir infligé des amendes « illégales et hautement contraires à l'éthique » à des géants technologiques américains — Google, Apple, Meta et Amazon —, un jour après une amende de 890 millions d'euros infligée par Bruxelles à Google pour infraction aux règles antitrust numériques. M. Trump évoque un « tarif substantiel » à venir contre l'UE.",
+      "en": "US President Donald Trump announced on Friday, July 24 the immediate opening of a Section 301 trade investigation into European Union practices, according to CBS News and AP. He accuses the bloc of imposing \"illegal and highly unethical\" fines on American tech giants — Google, Apple, Meta and Amazon — a day after Brussels fined Google 890 million euros for breaching digital antitrust rules. Trump said a \"substantial tariff\" against the EU would follow.",
+      "es": "El presidente estadounidense Donald Trump anunció el viernes 24 de julio la apertura inmediata de una investigación al amparo de la sección 301 de la ley comercial sobre las prácticas de la Unión Europea, según CBS News y AP. Acusa al bloque de imponer multas «ilegales y sumamente antiéticas» a gigantes tecnológicos estadounidenses —Google, Apple, Meta y Amazon—, un día después de que Bruselas multara a Google con 890 millones de euros por infringir las normas antimonopolio digitales. Trump afirmó que seguirá un «arancel sustancial» contra la UE."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Trump annonce l'ouverture d'une enquête de la section 301 sur les pratiques commerciales de l'UE.",
+          "en": "Trump announces the opening of a Section 301 investigation into EU trade practices.",
+          "es": "Trump anuncia la apertura de una investigación de la sección 301 sobre las prácticas comerciales de la UE."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "royaumeuni-petrole-mer-du-nord",
+    "coords": [
+      -0.1276,
+      51.5034
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "source": "BBC / Al Jazeera / Bloomberg",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Le nouveau premier ministre britannique Andy Burnham divisé sur le forage en mer du Nord",
+      "en": "New UK PM Andy Burnham divided over North Sea drilling",
+      "es": "El nuevo primer ministro británico Andy Burnham, dividido sobre la perforación en el mar del Norte"
+    },
+    "summary": {
+      "fr": "Devenu premier ministre le 20 juillet, Andy Burnham serait, selon la BBC, tenté d'approuver de nouveaux forages sur les champs pétro-gaziers de Rosebank et Jackdaw, en Écosse, et d'étendre les raccordements à des puits existants. Mais sa vice-cheffe de parti, Lucy Powell, a démenti dès le lendemain tout changement de cap, affirmant qu'« Andy a été clair : il maintient les engagements du programme du parti », selon Al Jazeera. Une consultation publique est en cours jusqu'au 17 août, avant une décision finale de la ministre de l'Énergie Miatta Fahnbulleh. Le président américain Donald Trump a pour sa part salué les projets prêtés à M. Burnham.",
+      "en": "Having become prime minister on July 20, Andy Burnham was reportedly, according to the BBC, considering approving new drilling at the Rosebank and Jackdaw oil and gas fields off Scotland and expanding tie-backs to existing wells. But his party's deputy leader, Lucy Powell, denied any shift in policy the next day, saying \"Andy has been clear he stands by the policies in our manifesto,\" according to Al Jazeera. A public consultation is running until August 17, ahead of a final decision by Energy Secretary Miatta Fahnbulleh. US President Donald Trump, for his part, welcomed the plans reportedly being considered by Burnham.",
+      "es": "Tras convertirse en primer ministro el 20 de julio, Andy Burnham estaría, según la BBC, considerando aprobar nuevas perforaciones en los yacimientos petrolíferos y gasísticos de Rosebank y Jackdaw, frente a Escocia, y ampliar las conexiones a pozos existentes. Pero la vicelíder de su partido, Lucy Powell, desmintió al día siguiente cualquier cambio de rumbo, afirmando que «Andy ha dejado claro que mantiene los compromisos del programa del partido», según Al Jazeera. Una consulta pública está en curso hasta el 17 de agosto, antes de una decisión final de la ministra de Energía, Miatta Fahnbulleh. El presidente estadounidense Donald Trump, por su parte, elogió los planes que se atribuyen a Burnham."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Andy Burnham devient premier ministre du Royaume-Uni.",
+          "en": "Andy Burnham becomes UK prime minister.",
+          "es": "Andy Burnham se convierte en primer ministro del Reino Unido."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "23/07/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "Des informations font état d'un possible feu vert à de nouveaux forages ; sa vice-cheffe de parti dément tout changement de cap.",
+          "en": "Reports emerge of a possible green light for new drilling; his deputy party leader denies any policy shift.",
+          "es": "Surgen informaciones sobre un posible visto bueno a nuevas perforaciones; su vicelíder de partido desmiente cualquier cambio de rumbo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 1
+  },
+  {
+    "id": "pakistan-attentat-tank",
+    "coords": [
+      70.3831,
+      32.2226
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "India TV News / Times of Earth",
+    "place": {
+      "fr": "District de Tank, province de Khyber Pakhtunkhwa, Pakistan",
+      "en": "Tank district, Khyber Pakhtunkhwa province, Pakistan",
+      "es": "Distrito de Tank, provincia de Khyber Pakhtunkhwa, Pakistán"
+    },
+    "title": {
+      "fr": "Un attentat suicide contre un poste de sécurité fait 15 morts au Pakistan",
+      "en": "Suicide attack on security post kills 15 in Pakistan",
+      "es": "Un atentado suicida contra un puesto de seguridad deja 15 muertos en Pakistán"
+    },
+    "summary": {
+      "fr": "Des militants ont lancé un véhicule piégé contre un poste de sécurité du district de Tank, près de la frontière afghane, vendredi 24 juillet, selon India TV News et Times of Earth. L'attaque, menée selon la police par quatre kamikazes, a fait 15 morts : 12 soldats, deux policiers et un ancien agent des forêts. Le Tehreek-e-Taliban Pakistan (TTP) a revendiqué l'attentat. La région a connu une recrudescence marquée de la violence ces derniers mois.",
+      "en": "Militants rammed an explosive-laden vehicle into a security post in Tank district, near the Afghan border, on Friday, July 24, according to India TV News and Times of Earth. Police say the attack, carried out by four suicide bombers, killed 15 people: 12 soldiers, two police officers and a former forestry official. The Tehreek-e-Taliban Pakistan (TTP) claimed responsibility. The region has seen a marked rise in violence in recent months.",
+      "es": "Milicianos lanzaron un vehículo cargado de explosivos contra un puesto de seguridad del distrito de Tank, cerca de la frontera con Afganistán, el viernes 24 de julio, según India TV News y Times of Earth. El ataque, perpetrado según la policía por cuatro terroristas suicidas, dejó 15 muertos: 12 soldados, dos policías y un exfuncionario forestal. El Tehreek-e-Taliban Pakistán (TTP) reivindicó el atentado. La región ha registrado un notable aumento de la violencia en los últimos meses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Le TTP revendique l'attentat qui fait 15 morts, dont 12 soldats.",
+          "en": "The TTP claims the attack that kills 15 people, including 12 soldiers.",
+          "es": "El TTP reivindica el atentado que deja 15 muertos, entre ellos 12 soldados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-fievre-lassa",
+    "coords": [
+      7.3986,
+      9.0765
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦠",
+    "source": "NCDC",
+    "place": {
+      "fr": "Nigeria (États les plus touchés : Bauchi, Ondo, Taraba, Benue, Edo) — rapport du NCDC, Abuja",
+      "en": "Nigeria (worst-hit states: Bauchi, Ondo, Taraba, Benue, Edo) — NCDC report, Abuja",
+      "es": "Nigeria (estados más afectados: Bauchi, Ondo, Taraba, Benue, Edo) — informe del NCDC, Abuya"
+    },
+    "title": {
+      "fr": "La fièvre de Lassa a fait 229 morts au Nigeria depuis janvier",
+      "en": "Lassa fever has killed 229 people in Nigeria since January",
+      "es": "La fiebre de Lassa ha matado a 229 personas en Nigeria desde enero"
+    },
+    "summary": {
+      "fr": "Le Centre nigérian de contrôle des maladies (NCDC) a recensé 25 nouveaux cas confirmés et cinq décès supplémentaires en une semaine (6-12 juillet), portant le bilan cumulé à 963 cas confirmés et 229 morts depuis le début de 2026, avec un taux de létalité de 23,8 %, supérieur à celui de la même période en 2025 (18,7 %). Les cas touchent 23 États et 114 collectivités locales ; les nouvelles infections ont été signalées dans l'Ondo, le Bauchi, l'Edo, le Kogi et le Cross River, les États du Bauchi, de l'Ondo, du Taraba, du Benue et de l'Edo concentrant 86 % des cas.",
+      "en": "Nigeria's Centre for Disease Control (NCDC) recorded 25 new confirmed cases and five additional deaths in one week (July 6-12), bringing the cumulative toll to 963 confirmed cases and 229 deaths since the start of 2026, with a case fatality rate of 23.8%, higher than the same period in 2025 (18.7%). Cases span 23 states and 114 local government areas; new infections were reported in Ondo, Bauchi, Edo, Kogi and Cross River, with Bauchi, Ondo, Taraba, Benue and Edo states accounting for 86% of cases.",
+      "es": "El Centro de Control de Enfermedades de Nigeria (NCDC) registró 25 nuevos casos confirmados y cinco muertes adicionales en una semana (6-12 de julio), elevando el balance acumulado a 963 casos confirmados y 229 muertos desde comienzos de 2026, con una tasa de letalidad del 23,8 %, superior a la del mismo periodo de 2025 (18,7 %). Los casos se extienden por 23 estados y 114 gobiernos locales; se notificaron nuevas infecciones en Ondo, Bauchi, Edo, Kogi y Cross River, y los estados de Bauchi, Ondo, Taraba, Benue y Edo concentran el 86 % de los casos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Semaine du 06/07/2026",
+          "en": "Week of 06/07/2026",
+          "es": "Semana del 06/07/2026"
+        },
+        "d": {
+          "fr": "Le NCDC publie son rapport hebdomadaire portant le bilan à 963 cas et 229 morts.",
+          "en": "The NCDC publishes its weekly report bringing the toll to 963 cases and 229 deaths.",
+          "es": "El NCDC publica su informe semanal, que eleva el balance a 963 casos y 229 muertos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "mexique-seisme-chiapas",
+    "coords": [
+      -92.1522,
+      14.6819
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Service sismologique national du Mexique / Rio Times",
+    "place": {
+      "fr": "Au large de Ciudad Hidalgo, Chiapas, Mexique (frontière avec le Guatemala)",
+      "en": "Off Ciudad Hidalgo, Chiapas, Mexico (Guatemala border)",
+      "es": "Frente a Ciudad Hidalgo, Chiapas, México (frontera con Guatemala)"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,4 secoue le sud du Mexique, alerte au tsunami levée",
+      "en": "Magnitude 7.4 earthquake shakes southern Mexico, tsunami alert lifted",
+      "es": "Un sismo de magnitud 7,4 sacude el sur de México, se levanta la alerta de tsunami"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,4 a frappé au large de Ciudad Hidalgo, dans l'État du Chiapas, à la frontière avec le Guatemala, le 17 juillet à 8h48 heure locale, à une profondeur de 10 km, selon le Service sismologique national mexicain. Une alerte au tsunami a été émise puis levée. La présidente Claudia Sheinbaum a indiqué, après avoir consulté les gouverneurs du Chiapas et du Tabasco, n'avoir aucun dégât matériel ni victime à déplorer. La séquence s'est poursuivie par de nombreuses répliques, dont une de magnitude 6,5 et plusieurs autres supérieures à 5 ; au 24 juillet, 883 répliques avaient été enregistrées au total, selon le Rio Times.",
+      "en": "A magnitude 7.4 earthquake struck off Ciudad Hidalgo, in Chiapas state near the Guatemala border, on July 17 at 8:48 a.m. local time, at a depth of 10 km, according to Mexico's national seismological service. A tsunami alert was issued and later lifted. President Claudia Sheinbaum said, after speaking with the governors of Chiapas and Tabasco, that no material damage or casualties had been reported. The sequence continued with numerous aftershocks, including one of magnitude 6.5 and several others above 5; by July 24, a total of 883 aftershocks had been recorded, according to the Rio Times.",
+      "es": "Un sismo de magnitud 7,4 golpeó frente a Ciudad Hidalgo, en el estado de Chiapas, cerca de la frontera con Guatemala, el 17 de julio a las 8:48 hora local, a una profundidad de 10 km, según el Servicio Sismológico Nacional de México. Se emitió una alerta de tsunami que después fue levantada. La presidenta Claudia Sheinbaum indicó, tras hablar con los gobernadores de Chiapas y Tabasco, que no se habían reportado daños materiales ni víctimas. La secuencia continuó con numerosas réplicas, incluida una de magnitud 6,5 y varias más superiores a 5; hasta el 24 de julio se habían registrado en total 883 réplicas, según Rio Times."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,4 frappe au large de Ciudad Hidalgo ; aucun dégât ni victime rapportés.",
+          "en": "The magnitude 7.4 earthquake strikes off Ciudad Hidalgo; no damage or casualties reported.",
+          "es": "El sismo de magnitud 7,4 golpea frente a Ciudad Hidalgo; no se reportan daños ni víctimas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "883 répliques ont été enregistrées au total depuis le séisme principal.",
+          "en": "A total of 883 aftershocks have been recorded since the mainshock.",
+          "es": "Se han registrado en total 883 réplicas desde el sismo principal."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 2
+  },
+  {
+    "id": "egypte-deficit-commercial",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Egypt Daily News / CAPMAS",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Le déficit commercial de l'Égypte bondit de 50 % au premier semestre",
+      "en": "Egypt's trade deficit jumps 50% in the first half of the year",
+      "es": "El déficit comercial de Egipto se dispara un 50 % en el primer semestre"
+    },
+    "summary": {
+      "fr": "Le déficit commercial des marchandises de l'Égypte s'est creusé de 50 % au premier semestre 2026, pour atteindre environ 22,6 milliards de dollars, contre 15 milliards sur la même période en 2025, selon les données de l'agence statistique CAPMAS relayées par Egypt Daily News. Les importations ont bondi de 21 % à 48 milliards de dollars, tandis que les exportations n'ont progressé que de moins de 3 %, à 25,5 milliards de dollars.",
+      "en": "Egypt's merchandise trade deficit widened by 50% in the first half of 2026, reaching about $22.6 billion, up from $15 billion in the same period of 2025, according to data from the CAPMAS statistics agency reported by Egypt Daily News. Imports jumped 21% to $48 billion, while exports grew by less than 3%, to $25.5 billion.",
+      "es": "El déficit comercial de mercancías de Egipto se amplió un 50 % en el primer semestre de 2026, hasta alcanzar unos 22 600 millones de dólares, frente a los 15 000 millones del mismo periodo de 2025, según datos de la agencia estadística CAPMAS recogidos por Egypt Daily News. Las importaciones se dispararon un 21 %, hasta 48 000 millones de dólares, mientras que las exportaciones crecieron menos del 3 %, hasta 25 500 millones de dólares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Premier semestre 2026 (publié le 25/07/2026)",
+          "en": "First half of 2026 (published 25/07/2026)",
+          "es": "Primer semestre de 2026 (publicado el 25/07/2026)"
+        },
+        "d": {
+          "fr": "La CAPMAS publie des données montrant un déficit commercial en hausse de 50 % sur un an.",
+          "en": "CAPMAS publishes data showing a trade deficit up 50% year-on-year.",
+          "es": "La CAPMAS publica datos que muestran un déficit comercial un 50 % mayor interanual."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W30",
+    "priority": 3
+  },
+  {
+    "id": "russie-troupes-nordcoreennes",
+    "coords": [
+      39.1843,
+      51.672
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Volodymyr Zelensky / Reuters",
+    "place": {
+      "fr": "Oblast de Voronej, Russie",
+      "en": "Voronezh Oblast, Russia",
+      "es": "Óblast de Vorónezh, Rusia"
+    },
+    "title": {
+      "fr": "Selon Kyiv, la Russie se prépare à recevoir 30 000 soldats nord-coréens supplémentaires",
+      "en": "Russia preparing to receive 30,000 more North Korean troops, Kyiv says",
+      "es": "Según Kiev, Rusia se prepara para recibir 30 000 soldados norcoreanos más"
+    },
+    "summary": {
+      "fr": "Le président ukrainien Volodymyr Zelensky a affirmé samedi 25 juillet que la Russie souhaitait faire venir 30 000 soldats nord-coréens supplémentaires pour son offensive en Ukraine et s'y préparait déjà, des préparatifs étant en cours depuis juin dans la région russe de Voronej, selon Reuters. Il affirme également que la Corée du Nord s'apprête à fournir de nouveaux lanceurs de missiles balistiques. La Corée du Nord avait déjà envoyé environ 14 000 soldats dans la région russe de Koursk en 2024. Ces affirmations, émanant du dirigeant ukrainien, n'ont pas été confirmées de façon indépendante par la Russie ni par la Corée du Nord.",
+      "en": "Ukrainian President Volodymyr Zelensky said on Saturday, July 25 that Russia wanted to bring in 30,000 more North Korean troops for its offensive in Ukraine and was already preparing to receive them, with preparations under way since June in Russia's Voronezh region, according to Reuters. He also said North Korea was preparing to supply new ballistic missile launchers. North Korea had already sent about 14,000 soldiers to Russia's Kursk region in 2024. These claims, made by the Ukrainian leader, have not been independently confirmed by Russia or North Korea.",
+      "es": "El presidente ucraniano Volodímir Zelenski afirmó el sábado 25 de julio que Rusia quería incorporar 30 000 soldados norcoreanos adicionales para su ofensiva en Ucrania y que ya se estaba preparando para recibirlos, con preparativos en marcha desde junio en la región rusa de Vorónezh, según Reuters. Aseguró también que Corea del Norte se dispone a suministrar nuevos lanzadores de misiles balísticos. Corea del Norte ya había enviado unos 14 000 soldados a la región rusa de Kursk en 2024. Estas afirmaciones, procedentes del mandatario ucraniano, no han sido confirmadas de forma independiente por Rusia ni por Corea del Norte."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Zelensky affirme que la Russie prépare l'arrivée de 30 000 soldats nord-coréens supplémentaires.",
+          "en": "Zelensky says Russia is preparing for the arrival of 30,000 more North Korean troops.",
+          "es": "Zelenski afirma que Rusia prepara la llegada de 30 000 soldados norcoreanos más."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "week": "2026-W30",
+    "priority": 2
   }
 ]
