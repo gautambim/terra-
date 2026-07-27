@@ -216,7 +216,10 @@
       }
     ],
     "week": "2026-W29",
-    "priority": 2
+    "priority": 2,
+    "related": [
+      "ukraine-frappes-kyiv-zaporijjia"
+    ]
   },
   {
     "coords": [
@@ -693,7 +696,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W31",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -735,9 +738,24 @@
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
         "active": true
+      },
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Un pétrolier explose dans le détroit d'Ormuz après avoir heurté une mine navale, selon les médias d'État iraniens cités par CNN ; l'Iran dénonce par ailleurs une attaque ukrainienne distincte contre un navire iranien en mer Caspienne le même jour.",
+          "en": "A tanker explodes in the Strait of Hormuz after striking a naval mine, according to Iranian state media cited by CNN; Iran also denounces a separate Ukrainian attack on an Iranian vessel in the Caspian Sea the same day.",
+          "es": "Un petrolero explota en el estrecho de Ormuz tras chocar con una mina naval, según medios estatales iraníes citados por CNN; Irán denuncia además un ataque ucraniano distinto contra un buque iraní en el mar Caspio el mismo día."
+        },
+        "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "iran-executions"
+    ],
     "priority": 2
   },
   {
@@ -829,5 +847,908 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "berlin-pride-attaque",
+    "coords": [
+      13.376,
+      52.5096
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Euronews / Al Jazeera",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Près de Potsdamer Platz, Berlin, Allemagne",
+      "en": "Near Potsdamer Platz, Berlin, Germany",
+      "es": "Cerca de Potsdamer Platz, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une voiture fonce sur la foule lors de la marche des fiertés à Berlin, un mort",
+      "en": "Car rams crowd at Berlin Pride march, killing one",
+      "es": "Un coche embiste a la multitud en la marcha del orgullo de Berlín y deja un muerto"
+    },
+    "summary": {
+      "fr": "Une camionnette a foncé dans la foule le samedi 25 juillet lors des célébrations de la Christopher Street Day (marche des fiertés) près de Potsdamer Platz, à Berlin, selon Euronews et Al Jazeera. Une femme est morte sur place et une trentaine de personnes ont été blessées, dont plusieurs grièvement. Le ministre allemand de l'Intérieur, Alexander Dobrindt, a indiqué que le suspect, connu des services de police et présenté comme lié à des milieux islamistes, avait aussi attaqué des passants à la machette avant d'être tué lors de l'intervention policière. L'événement a été interrompu.",
+      "en": "A van drove into the crowd on Saturday, July 25 during Christopher Street Day (Pride) celebrations near Potsdamer Platz in Berlin, according to Euronews and Al Jazeera. One woman died at the scene and around 30 people were injured, several critically. German Interior Minister Alexander Dobrindt said the suspect, previously known to police and described as linked to Islamist circles, also attacked bystanders with a machete before being killed during the police operation. The event was called off.",
+      "es": "Una furgoneta embistió a la multitud el sábado 25 de julio durante las celebraciones del Christopher Street Day (marcha del orgullo) cerca de Potsdamer Platz, en Berlín, según Euronews y Al Jazeera. Una mujer murió en el lugar y unas 30 personas resultaron heridas, varias de gravedad. El ministro alemán del Interior, Alexander Dobrindt, indicó que el sospechoso, ya conocido por la policía y descrito como vinculado a círculos islamistas, también atacó a transeúntes con un machete antes de ser abatido durante la intervención policial. El evento fue suspendido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Une camionnette percute la foule près de Potsdamer Platz ; un mort et une trentaine de blessés, selon la police berlinoise.",
+          "en": "A van rams the crowd near Potsdamer Platz; one dead and around 30 injured, according to Berlin police.",
+          "es": "Una furgoneta atropella a la multitud cerca de Potsdamer Platz; un muerto y unos 30 heridos, según la policía de Berlín."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "gironde-incendie",
+    "coords": [
+      -1.2456,
+      44.6473
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CNN / The Watchers",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Presqu'île du Cap Ferret, Gironde, France",
+      "en": "Cap Ferret peninsula, Gironde, France",
+      "es": "Península de Cap Ferret, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Un feu de forêt force l'évacuation de près de 170 000 personnes en Gironde",
+      "en": "Wildfire forces evacuation of nearly 170,000 people in Gironde",
+      "es": "Un incendio forestal obliga a evacuar a casi 170 000 personas en Gironda"
+    },
+    "summary": {
+      "fr": "Un incendie qui a franchi les lignes de contention dans la nuit a conduit les autorités à étendre les ordres d'évacuation à l'ensemble de la presqu'île du Cap Ferret le 24 juillet, selon CNN et The Watchers. Plus de 167 000 personnes ont été évacuées en Gironde et 31 000 de plus dans les Landes voisines ; plusieurs dizaines de pompiers ont été blessés et de nombreuses habitations auraient été détruites. La France a demandé l'activation du mécanisme européen de protection civile, avec l'envoi de moyens aériens croates, portugais, tchèques et slovaques.",
+      "en": "A fire that breached containment lines overnight led authorities to expand evacuation orders across the entire Cap Ferret peninsula on July 24, according to CNN and The Watchers. More than 167,000 people were evacuated in Gironde and 31,000 more in the neighboring Landes department; dozens of firefighters were injured and numerous homes were reportedly destroyed. France requested activation of the EU Civil Protection Mechanism, bringing in Croatian, Portuguese, Czech and Slovak aircraft.",
+      "es": "Un incendio que rebasó las líneas de contención durante la noche llevó a las autoridades a ampliar las órdenes de evacuación a toda la península de Cap Ferret el 24 de julio, según CNN y The Watchers. Más de 167 000 personas fueron evacuadas en Gironda y 31 000 más en el vecino departamento de Landas; decenas de bomberos resultaron heridos y numerosas viviendas habrían sido destruidas. Francia solicitó la activación del Mecanismo de Protección Civil de la UE, con el envío de medios aéreos croatas, portugueses, checos y eslovacos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités étendent l'évacuation à toute la presqu'île du Cap Ferret ; plus de 198 000 personnes évacuées au total en Gironde et dans les Landes.",
+          "en": "Authorities expand the evacuation to the entire Cap Ferret peninsula; more than 198,000 people evacuated in total across Gironde and Landes.",
+          "es": "Las autoridades amplían la evacuación a toda la península de Cap Ferret; más de 198 000 personas evacuadas en total entre Gironda y Landas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "madrid-incendie",
+    "coords": [
+      -4.3958,
+      40.3667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Bloomberg / France 24",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Entre les provinces d'Ávila et de Madrid, Espagne",
+      "en": "Between the provinces of Ávila and Madrid, Spain",
+      "es": "Entre las provincias de Ávila y Madrid, España"
+    },
+    "title": {
+      "fr": "L'Espagne décrète l'état d'urgence face à des incendies « hors de contrôle » près de Madrid",
+      "en": "Spain declares state of emergency as wildfires near Madrid go \"out of control\"",
+      "es": "España declara el estado de emergencia ante incendios «fuera de control» cerca de Madrid"
+    },
+    "summary": {
+      "fr": "Deux incendies de forêt qui brûlaient dans les provinces d'Ávila et de Madrid ont fusionné en un seul foyer le 24 juillet, après avoir déjà parcouru environ 15 000 hectares à eux deux, selon Bloomberg et France 24. La responsable régionale de la sécurité civile a jugé la situation « hors de la capacité des pompiers à la contenir », tandis que la présidente de la région de Madrid, Isabel Díaz Ayuso, a qualifié l'incendie de pire de l'histoire de la région. L'Espagne a décrété l'état d'urgence et déployé l'armée ; environ 60 000 personnes ont été évacuées.",
+      "en": "Two wildfires burning in the provinces of Ávila and Madrid merged into a single blaze on July 24, after already having burned around 15,000 hectares combined, according to Bloomberg and France 24. Madrid's regional emergency chief called the situation \"beyond firefighters' capacity to contain,\" while regional president Isabel Díaz Ayuso called it the worst wildfire in the region's history. Spain declared a state of emergency and deployed the military; around 60,000 people were evacuated.",
+      "es": "Dos incendios forestales que ardían en las provincias de Ávila y Madrid se fusionaron en un único foco el 24 de julio, tras haber quemado ya unas 15 000 hectáreas en conjunto, según Bloomberg y France 24. La responsable regional de emergencias calificó la situación de «fuera de la capacidad de los bomberos para contenerla», mientras que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, lo calificó como el peor incendio de la historia de la región. España decretó el estado de emergencia y desplegó al ejército; unas 60 000 personas fueron evacuadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Les deux incendies fusionnent ; l'Espagne décrète l'état d'urgence et déploie l'armée.",
+          "en": "The two fires merge; Spain declares a state of emergency and deploys the military.",
+          "es": "Los dos incendios se fusionan; España decreta el estado de emergencia y despliega al ejército."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "sicile-incendie",
+    "coords": [
+      14.0528,
+      37.4897
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ANSA / The Local Italy",
+    "week": "2026-W31",
+    "place": {
+      "fr": "San Cataldo, province de Caltanissetta, Sicile, Italie",
+      "en": "San Cataldo, Caltanissetta province, Sicily, Italy",
+      "es": "San Cataldo, provincia de Caltanissetta, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "Un pompier meurt en luttant contre un incendie en Sicile",
+      "en": "Firefighter dies battling wildfire in Sicily",
+      "es": "Un bombero muere combatiendo un incendio en Sicilia"
+    },
+    "summary": {
+      "fr": "Un pompier de 59 ans, identifié localement comme Alessandro Marchì, est mort le 22 juillet en luttant contre un important incendie près de San Cataldo, dans la province de Caltanissetta, selon l'agence ANSA ; les autorités locales évoquent un possible malaise cardiaque. La Sicile a enregistré près d'un millier d'interventions contre des feux de forêt depuis la mi-juillet, sous des températures dépassant 40°C et un vent de sirocco soutenu. Plus de 100 habitants ont par ailleurs été évacués près d'Agrigente après qu'un incendie a menacé un dépôt d'oxygène et une station-service.",
+      "en": "A 59-year-old firefighter, locally identified as Alessandro Marchì, died on July 22 while battling a large wildfire near San Cataldo, in Caltanissetta province, according to the ANSA news agency; local authorities suggested a possible heart attack. Sicily has recorded nearly 1,000 firefighting interventions since mid-July amid temperatures above 40°C and strong sirocco winds. More than 100 residents were also evacuated near Agrigento after a fire threatened an oxygen depot and a fuel station.",
+      "es": "Un bombero de 59 años, identificado localmente como Alessandro Marchì, murió el 22 de julio mientras combatía un gran incendio cerca de San Cataldo, en la provincia de Caltanissetta, según la agencia ANSA; las autoridades locales apuntan a un posible infarto. Sicilia ha registrado cerca de mil intervenciones contra incendios forestales desde mediados de julio, con temperaturas superiores a 40°C y fuertes vientos de siroco. Más de 100 residentes fueron además evacuados cerca de Agrigento después de que un incendio amenazara un depósito de oxígeno y una gasolinera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Un pompier meurt près de San Cataldo en combattant l'incendie, selon ANSA.",
+          "en": "A firefighter dies near San Cataldo fighting the wildfire, according to ANSA.",
+          "es": "Un bombero muere cerca de San Cataldo combatiendo el incendio, según ANSA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ukraine-frappes-kyiv-zaporijjia",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The Moscow Times / Washington Times",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Kyiv et Zaporijjia, Ukraine",
+      "en": "Kyiv and Zaporizhzhia, Ukraine",
+      "es": "Kiev y Zaporiyia, Ucrania"
+    },
+    "title": {
+      "fr": "Des missiles et drones russes frappent Kyiv et Zaporijjia",
+      "en": "Russian missiles and drones strike Kyiv and Zaporizhzhia",
+      "es": "Misiles y drones rusos atacan Kiev y Zaporiyia"
+    },
+    "summary": {
+      "fr": "Les forces russes ont mené une attaque de missiles balistiques sur Kyiv dans la nuit du 26 juillet, provoquant des incendies et blessant au moins trois civils, selon les autorités ukrainiennes citées par The Moscow Times. L'attaque faisait partie d'une frappe plus large au cours de laquelle la Russie a tiré sept missiles balistiques et 136 drones sur l'ensemble du pays. À Zaporijjia, une frappe de bombe planante a tué une personne et blessé six autres selon le Washington Times ; un drone a par ailleurs tué une personne et blessé douze autres à Kharkiv le même jour. De son côté, la partie russe affirme que quatre personnes ont été tuées par une frappe de drone ukrainienne sur la ville occupée de Horlivka, un bilan non vérifié de manière indépendante.",
+      "en": "Russian forces launched a ballistic missile attack on Kyiv overnight on July 26, sparking fires and wounding at least three civilians, according to Ukrainian officials cited by The Moscow Times. The strike was part of a wider assault in which Russia fired seven ballistic missiles and 136 drones across the country. In Zaporizhzhia, a glide-bomb strike killed one person and wounded six others according to the Washington Times; a drone also killed one person and wounded twelve others in Kharkiv the same day. For its part, the Russian side says four people were killed by a Ukrainian drone strike on the occupied city of Horlivka, a toll that has not been independently verified.",
+      "es": "Las fuerzas rusas lanzaron un ataque con misiles balísticos contra Kiev en la madrugada del 26 de julio, provocando incendios y hiriendo al menos a tres civiles, según las autoridades ucranianas citadas por The Moscow Times. El ataque formó parte de una ofensiva más amplia en la que Rusia disparó siete misiles balísticos y 136 drones contra todo el país. En Zaporiyia, un ataque con bomba planeadora mató a una persona e hirió a otras seis, según Washington Times; un dron también mató a una persona e hirió a doce más en Járkov el mismo día. Por su parte, la parte rusa afirma que cuatro personas murieron por un ataque con dron ucraniano en la ciudad ocupada de Horlivka, un balance no verificado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Sept missiles balistiques et 136 drones russes frappent l'Ukraine, dont Kyiv, Zaporijjia et Kharkiv.",
+          "en": "Seven Russian ballistic missiles and 136 drones strike Ukraine, including Kyiv, Zaporizhzhia and Kharkiv.",
+          "es": "Siete misiles balísticos y 136 drones rusos atacan Ucrania, incluidas Kiev, Zaporiyia y Járkov."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "iran-executions",
+    "coords": [
+      51.67,
+      32.65
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Isfahan, Iran",
+      "en": "Isfahan, Iran",
+      "es": "Isfahán, Irán"
+    },
+    "title": {
+      "fr": "Vague d'exécutions de prisonniers politiques en Iran depuis la reprise du conflit",
+      "en": "Wave of political-prisoner executions in Iran since conflict resumed",
+      "es": "Ola de ejecuciones de presos políticos en Irán desde que se reanudó el conflicto"
+    },
+    "summary": {
+      "fr": "L'Iran a nettement accéléré les exécutions de prisonniers politiques depuis la reprise de la guerre avec les États-Unis et Israël, selon des organisations de défense des droits humains citées par CNN. Deux hommes, Erfan Esfandiari (18 ans) et Gol-Mohammad Mohammadi (24 ans, de nationalité afghane), auraient été pendus à Isfahan le 19 juillet après avoir été condamnés pour des faits liés aux manifestations survenues dans le pays. Ces organisations affirment que des dizaines de prisonniers politiques ont déjà été exécutés depuis mars, et que plus de 70 autres attendraient leur exécution dans la prison de Dastgerd, à Isfahan. Les autorités iraniennes ne contestent pas ces exécutions mais décrivent les personnes exécutées comme des criminels condamnés dans le cadre d'une procédure judiciaire régulière.",
+      "en": "Iran has sharply accelerated executions of political prisoners since its war with the United States and Israel resumed, according to human rights organizations cited by CNN. Two men, 18-year-old Erfan Esfandiari and 24-year-old Afghan national Gol-Mohammad Mohammadi, were reportedly hanged in Isfahan on July 19 after being convicted over matters linked to nationwide protests. These organizations say dozens of political prisoners have already been executed since March, with more than 70 others reportedly awaiting execution at Isfahan's Dastgerd prison. Iranian authorities do not dispute the executions but describe those executed as criminals convicted through regular legal process.",
+      "es": "Irán ha acelerado notablemente las ejecuciones de presos políticos desde que se reanudó la guerra con Estados Unidos e Israel, según organizaciones de derechos humanos citadas por CNN. Dos hombres, Erfan Esfandiari (18 años) y el afgano Gol-Mohammad Mohammadi (24 años), habrían sido ahorcados en Isfahán el 19 de julio tras ser condenados por hechos vinculados a las protestas en el país. Estas organizaciones afirman que decenas de presos políticos ya han sido ejecutados desde marzo, y que más de 70 más esperarían su ejecución en la prisión de Dastgerd, en Isfahán. Las autoridades iraníes no niegan las ejecuciones, pero describen a los ejecutados como delincuentes condenados mediante un proceso judicial regular."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Deux hommes sont exécutés à Isfahan, selon des organisations de défense des droits humains citées par CNN.",
+          "en": "Two men are executed in Isfahan, according to human rights organizations cited by CNN.",
+          "es": "Dos hombres son ejecutados en Isfahán, según organizaciones de derechos humanos citadas por CNN."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "usa-cyclospora-tacobell",
+    "coords": [
+      -84.388,
+      33.749
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦠",
+    "source": "CDC / NPR",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Neuf États du centre et des Grands Lacs, États-Unis (enquête pilotée par les CDC, basés à Atlanta)",
+      "en": "Nine Midwest/Great Lakes states, United States (investigation led by the CDC, based in Atlanta)",
+      "es": "Nueve estados del Medio Oeste y los Grandes Lagos, Estados Unidos (investigación dirigida por los CDC, con sede en Atlanta)"
+    },
+    "title": {
+      "fr": "Une épidémie de cyclosporose liée à de la laitue Taco Bell touche près de 2000 personnes",
+      "en": "Cyclospora outbreak linked to Taco Bell lettuce sickens nearly 2,000",
+      "es": "Un brote de ciclosporiasis vinculado a lechuga de Taco Bell enferma a casi 2000 personas"
+    },
+    "summary": {
+      "fr": "Les Centres américains de contrôle des maladies (CDC) et la FDA enquêtent sur une épidémie de cyclosporose, une infection parasitaire, liée à de la laitue iceberg râpée servie dans des restaurants Taco Bell, avec des débuts de symptômes entre le 22 juin et le 20 juillet 2026. Fin juillet, 1947 cas et au moins 98 hospitalisations ont été recensés dans neuf États, sans décès signalé. Les enquêteurs ont retracé la laitue jusqu'à l'entreprise Taylor Farms de Mexico, qui a rappelé volontairement le 17 juillet sa laitue iceberg provenant du centre du Mexique.",
+      "en": "The US Centers for Disease Control and Prevention (CDC) and the FDA are investigating a Cyclospora outbreak, a parasitic infection, linked to shredded iceberg lettuce served at Taco Bell restaurants, with symptom onset between June 22 and July 20, 2026. By late July, 1,947 illnesses and at least 98 hospitalizations had been recorded across nine states, with no deaths reported. Investigators traced the lettuce to Taylor Farms de Mexico, which voluntarily recalled iceberg lettuce sourced from central Mexico on July 17.",
+      "es": "Los Centros para el Control y la Prevención de Enfermedades de EE. UU. (CDC) y la FDA investigan un brote de ciclosporiasis, una infección parasitaria, vinculado a lechuga iceberg rallada servida en restaurantes Taco Bell, con inicio de síntomas entre el 22 de junio y el 20 de julio de 2026. A finales de julio se habían registrado 1947 casos y al menos 98 hospitalizaciones en nueve estados, sin muertes reportadas. Los investigadores rastrearon la lechuga hasta la empresa Taylor Farms de México, que retiró voluntariamente el 17 de julio su lechuga iceberg procedente del centro de México."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Les CDC recensent 1947 cas et au moins 98 hospitalisations dans neuf États.",
+          "en": "The CDC records 1,947 cases and at least 98 hospitalizations across nine states.",
+          "es": "Los CDC registran 1947 casos y al menos 98 hospitalizaciones en nueve estados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "usa-freres-tate-arrestation",
+    "coords": [
+      -80.19,
+      25.77
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR / CNN",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Miami, Floride, États-Unis",
+      "en": "Miami, Florida, United States",
+      "es": "Miami, Florida, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les frères Andrew et Tristan Tate arrêtés à Miami sur mandat d'extradition britannique",
+      "en": "Andrew and Tristan Tate arrested in Miami on UK extradition warrant",
+      "es": "Los hermanos Andrew y Tristan Tate son arrestados en Miami por una orden de extradición británica"
+    },
+    "summary": {
+      "fr": "Les influenceurs Andrew et Tristan Tate ont été arrêtés le 18 juillet par le service des marshals fédéraux américains devant le James L. Knight Center de Miami, en vertu d'un mandat scellé lié à une nouvelle demande d'extradition britannique, selon NPR et CNN. Les procureurs britanniques les accusent d'avoir violé et exploité des femmes entre 2010 et 2017 ; Andrew Tate fait face à 42 chefs d'accusation dont viol, traite d'êtres humains et détention d'images pédopornographiques, tandis que Tristan Tate en compte 17, dont viol et traite. Les deux frères nient l'ensemble des accusations, affirmant que leurs propos passés ont été sortis de leur contexte.",
+      "en": "Influencers Andrew and Tristan Tate were arrested on July 18 by the US Marshals Service outside Miami's James L. Knight Center on a sealed warrant tied to a new UK extradition request, according to NPR and CNN. British prosecutors allege they raped and trafficked women between 2010 and 2017; Andrew Tate faces 42 charges including rape, human trafficking and possession of child sexual abuse images, while Tristan Tate faces 17 charges including rape and trafficking. Both brothers deny all the allegations, saying past statements were taken out of context.",
+      "es": "Los influencers Andrew y Tristan Tate fueron arrestados el 18 de julio por el Servicio de Alguaciles de EE. UU. frente al James L. Knight Center de Miami, en virtud de una orden sellada vinculada a una nueva solicitud de extradición británica, según NPR y CNN. Los fiscales británicos los acusan de violar y traficar con mujeres entre 2010 y 2017; Andrew Tate afronta 42 cargos, entre ellos violación, trata de personas y posesión de imágenes de abuso infantil, mientras que Tristan Tate afronta 17 cargos, incluidos violación y trata. Ambos hermanos niegan todas las acusaciones y afirman que sus declaraciones pasadas fueron sacadas de contexto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Les deux frères sont arrêtés à Miami sur mandat lié à l'extradition demandée par le Royaume-Uni.",
+          "en": "The two brothers are arrested in Miami on a warrant tied to the UK's extradition request.",
+          "es": "Los dos hermanos son arrestados en Miami en virtud de una orden vinculada a la solicitud de extradición del Reino Unido."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ontario-incendies",
+    "coords": [
+      -91.92,
+      50.1
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News (Thunder Bay)",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Région de Sioux Lookout, nord-ouest de l'Ontario, Canada",
+      "en": "Sioux Lookout area, northwestern Ontario, Canada",
+      "es": "Zona de Sioux Lookout, noroeste de Ontario, Canadá"
+    },
+    "title": {
+      "fr": "L'Ontario déclare l'état d'urgence face à plus de 130 feux de forêt dans le nord-ouest",
+      "en": "Ontario declares wildfire emergency as over 130 fires burn in the northwest",
+      "es": "Ontario declara emergencia por incendios forestales ante más de 130 focos en el noroeste"
+    },
+    "summary": {
+      "fr": "Environ 130 feux de forêt actifs brûlent dans le nord-ouest de l'Ontario, ce qui a conduit à la déclaration d'un état d'urgence couvrant les districts de Nipigon, Sioux Lookout, Red Lake, Dryden et Fort Frances, selon CBC News. Fin juillet, environ 2415 personnes avaient été évacuées vers des communautés d'accueil dont Thunder Bay, Kenora et Sioux Lookout ; des Premières Nations comme Armstrong et Whitesand ont reçu l'ordre de partir. Le feu Sioux Lookout 72, près de la Première Nation de Cat Lake, couvre à lui seul environ 23 600 hectares et reste non maîtrisé.",
+      "en": "About 130 active wildfires are burning across northwestern Ontario, prompting a declared emergency covering the Nipigon, Sioux Lookout, Red Lake, Dryden and Fort Frances districts, according to CBC News. By late July, about 2,415 people had evacuated to host communities including Thunder Bay, Kenora and Sioux Lookout; First Nations including Armstrong and Whitesand were ordered to leave. The Sioux Lookout 72 fire near Cat Lake First Nation alone covers roughly 23,600 hectares and remains uncontained.",
+      "es": "Cerca de 130 incendios forestales activos arden en el noroeste de Ontario, lo que llevó a declarar una emergencia que abarca los distritos de Nipigon, Sioux Lookout, Red Lake, Dryden y Fort Frances, según CBC News. A finales de julio, unas 2415 personas habían sido evacuadas a comunidades de acogida como Thunder Bay, Kenora y Sioux Lookout; Primeras Naciones como Armstrong y Whitesand recibieron la orden de partir. El incendio Sioux Lookout 72, cerca de la Primera Nación de Cat Lake, cubre por sí solo unas 23 600 hectáreas y sigue sin control."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Environ 2415 personnes ont été évacuées vers Thunder Bay, Kenora et Sioux Lookout, selon CBC News.",
+          "en": "About 2,415 people have been evacuated to Thunder Bay, Kenora and Sioux Lookout, according to CBC News.",
+          "es": "Unas 2415 personas han sido evacuadas a Thunder Bay, Kenora y Sioux Lookout, según CBC News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "londres-clapham-attaque",
+    "coords": [
+      -0.14,
+      51.46
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Metropolitan Police / ITV News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Clapham, sud de Londres, Royaume-Uni",
+      "en": "Clapham, south London, United Kingdom",
+      "es": "Clapham, sur de Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Six hommes arrêtés après une attaque mortelle au couteau à Clapham, à Londres",
+      "en": "Six men arrested after fatal stabbing in Clapham, London",
+      "es": "Seis hombres detenidos tras un apuñalamiento mortal en Clapham, Londres"
+    },
+    "summary": {
+      "fr": "Un homme de 22 ans est mort à l'hôpital dans la nuit du samedi 25 juillet après avoir été grièvement poignardé près de Tremadoc Road, à Clapham, dans le sud de Londres, selon la police métropolitaine et ITV News. Quatre autres jeunes hommes, âgés de 22 à 24 ans, sont également arrivés à l'hôpital avec des blessures au couteau, apparemment liées au même incident. La police métropolitaine a arrêté six hommes soupçonnés de meurtre et a ouvert une enquête, toujours en cours.",
+      "en": "A 22-year-old man died in hospital overnight on Saturday, July 25 after being severely stabbed near Tremadoc Road in Clapham, south London, according to the Metropolitan Police and ITV News. Four other young men, aged 22 to 24, also arrived at hospital with stab wounds, apparently from the same incident. The Metropolitan Police have arrested six men on suspicion of murder and have opened an investigation, which remains ongoing.",
+      "es": "Un hombre de 22 años murió en el hospital en la madrugada del sábado 25 de julio tras ser apuñalado gravemente cerca de Tremadoc Road, en Clapham, sur de Londres, según la Policía Metropolitana e ITV News. Otros cuatro hombres jóvenes, de entre 22 y 24 años, también llegaron al hospital con heridas de arma blanca, aparentemente del mismo incidente. La Policía Metropolitana ha detenido a seis hombres sospechosos de asesinato y ha abierto una investigación, que sigue en curso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Un homme de 22 ans meurt poignardé ; six hommes sont arrêtés, selon la police métropolitaine.",
+          "en": "A 22-year-old man dies of stab wounds; six men are arrested, according to the Metropolitan Police.",
+          "es": "Un hombre de 22 años muere apuñalado; seis hombres son detenidos, según la Policía Metropolitana."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "chine-typhon-noul",
+    "coords": [
+      114.98,
+      22.98
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "Al Jazeera / Washington Post",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Comté de Huidong, Huizhou, province du Guangdong, Chine",
+      "en": "Huidong County, Huizhou, Guangdong Province, China",
+      "es": "Condado de Huidong, Huizhou, provincia de Guangdong, China"
+    },
+    "title": {
+      "fr": "Le typhon Noul touche terre dans le sud de la Chine, plus de 800 000 personnes évacuées",
+      "en": "Typhoon Noul makes landfall in southern China, over 800,000 evacuated",
+      "es": "El tifón Noul toca tierra en el sur de China; más de 800 000 personas evacuadas"
+    },
+    "summary": {
+      "fr": "Le typhon Noul a touché terre près du comté de Huidong, dans la ville de Huizhou (province du Guangdong), vers 3h50 du matin le dimanche 27 juillet, avant de s'affaiblir en tempête tropicale en poursuivant sa course à l'intérieur des terres, selon Al Jazeera. Les autorités chinoises prévoient des précipitations localisées de 500 à 600 mm dans les provinces du Guangdong et du Fujian, avec un risque de crues éclair, de glissements de terrain et d'inondations urbaines. Plus de 801 000 personnes avaient été déplacées par mesure de précaution dans le Guangdong dimanche, Noul étant décrit comme le typhon le plus puissant à toucher la Chine cette année.",
+      "en": "Typhoon Noul made landfall near Huidong county in Huizhou, Guangdong province, at around 3:50am local time on Sunday, July 27, before weakening to a tropical storm as it moved inland, according to Al Jazeera. Chinese authorities forecast localized rainfall of 500-600mm in Guangdong and Fujian, warning of flash floods, landslides and urban flooding. More than 801,000 people had been relocated for safety in Guangdong as of Sunday, with Noul described as the strongest typhoon to make landfall in China so far this year.",
+      "es": "El tifón Noul tocó tierra cerca del condado de Huidong, en Huizhou, provincia de Guangdong, hacia las 3:50 de la madrugada hora local del domingo 27 de julio, antes de debilitarse a tormenta tropical al adentrarse en el interior, según Al Jazeera. Las autoridades chinas prevén lluvias localizadas de 500 a 600 mm en Guangdong y Fujian, con riesgo de crecidas repentinas, deslizamientos de tierra e inundaciones urbanas. Más de 801 000 personas habían sido reubicadas por precaución en Guangdong el domingo, y Noul es descrito como el tifón más fuerte en tocar tierra en China este año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le typhon Noul touche terre dans le Guangdong ; plus de 801 000 personnes évacuées.",
+          "en": "Typhoon Noul makes landfall in Guangdong; more than 801,000 people evacuated.",
+          "es": "El tifón Noul toca tierra en Guangdong; más de 801 000 personas evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "chine-philippines-scarborough",
+    "coords": [
+      117.76,
+      15.12
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💦",
+    "source": "Al Jazeera / CNN",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Récif de Scarborough (Bajo de Masinloc), mer de Chine méridionale",
+      "en": "Scarborough Shoal (Bajo de Masinloc), South China Sea",
+      "es": "Bajo de Masinloc (arrecife Scarborough), mar de la China Meridional"
+    },
+    "title": {
+      "fr": "Les garde-côtes chinois utilisent des canons à eau contre des navires philippins pour la troisième fois en une semaine",
+      "en": "Chinese coast guard fires water cannon at Philippine vessels for third time in a week",
+      "es": "La guardia costera china usa cañones de agua contra buques filipinos por tercera vez en una semana"
+    },
+    "summary": {
+      "fr": "Des navires des garde-côtes chinois ont utilisé des canons à eau contre deux bateaux de pêche philippins près du récif de Scarborough, en mer de Chine méridionale, le 24 juillet, un troisième incident du genre en une semaine selon Al Jazeera, un navire chinois s'étant approché à environ sept mètres d'un bateau philippin. Manille affirme que cet épisode fait suite à une précédente confrontation près du récif de Second Thomas, où un marin philippin aurait été frappé à coups de bâton par du personnel chinois. Pékin qualifie l'action de ses garde-côtes de « légale », tandis que les Philippines et les États-Unis l'ont condamnée ; l'incident survient alors que se tenait à Manille une réunion de hauts diplomates.",
+      "en": "Chinese coast guard ships used water cannon against two Philippine fishing vessels near Scarborough Shoal in the South China Sea on July 24, the third such confrontation in a week according to Al Jazeera, with a Chinese vessel coming within about seven metres of a Philippine boat. Manila says the incident followed an earlier confrontation near Second Thomas Shoal, in which a Filipino sailor was allegedly struck with a baton by Chinese personnel. Beijing describes its coast guard's actions as \"lawful,\" while the Philippines and the United States have condemned them; the incident coincided with a meeting of senior diplomats in Manila.",
+      "es": "Buques de la guardia costera china usaron cañones de agua contra dos embarcaciones pesqueras filipinas cerca del bajo Scarborough, en el mar de la China Meridional, el 24 de julio, la tercera confrontación de este tipo en una semana según Al Jazeera, con un buque chino que se acercó a unos siete metros de un barco filipino. Manila afirma que el incidente se produjo tras una confrontación anterior cerca del bajo Second Thomas, en la que un marino filipino habría sido golpeado con una porra por personal chino. Pekín describe las acciones de su guardia costera como «legales», mientras que Filipinas y Estados Unidos las han condenado; el incidente coincidió con una reunión de altos diplomáticos en Manila."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Des garde-côtes chinois utilisent des canons à eau contre des navires philippins près du récif de Scarborough.",
+          "en": "Chinese coast guard vessels use water cannon against Philippine ships near Scarborough Shoal.",
+          "es": "Buques de la guardia costera china usan cañones de agua contra barcos filipinos cerca del bajo Scarborough."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-toyama-projet-attaque",
+    "coords": [
+      137.36,
+      36.76
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Japan Times",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Namerikawa, préfecture de Toyama, Japon (le suspect visait Tokyo)",
+      "en": "Namerikawa, Toyama Prefecture, Japan (suspect's alleged target was Tokyo)",
+      "es": "Namerikawa, prefectura de Toyama, Japón (el sospechoso pretendía atacar Tokio)"
+    },
+    "title": {
+      "fr": "Un homme arrêté au Japon pour avoir projeté un massacre indiscriminé à Tokyo",
+      "en": "Man arrested in Japan for allegedly planning indiscriminate killing spree in Tokyo",
+      "es": "Un hombre es arrestado en Japón por planear presuntamente una matanza indiscriminada en Tokio"
+    },
+    "summary": {
+      "fr": "La police de la préfecture de Toyama a arrêté le 14 juillet Katsumi Mori, 53 ans, sans emploi, résidant à Namerikawa, après un signalement selon lequel il projetait de tuer un grand nombre de personnes à Tokyo, selon le Japan Times. Il aurait réservé un bus pour la capitale et emporté un couteau dans son sac, disant aux enquêteurs vouloir mourir et croire qu'il serait abattu ou condamné à mort s'il commettait un massacre, invoquant des difficultés financières liées à l'inflation. Les enquêteurs estiment qu'il s'inspirait de l'attaque au couteau d'Akihabara en 2008 ; il aurait globalement reconnu les faits.",
+      "en": "Toyama Prefectural Police arrested 53-year-old unemployed Namerikawa resident Katsumi Mori on July 14 after receiving a tip that he was plotting to kill a large number of people in Tokyo, according to the Japan Times. He allegedly booked a bus to the capital and packed a knife in his bag, telling investigators he wanted to die and believed he would be shot or sentenced to death if he carried out a massacre, citing financial hardship linked to inflation. Investigators believe he was inspired by the 2008 Akihabara stabbing rampage; he broadly admitted to the allegations.",
+      "es": "La policía de la prefectura de Toyama arrestó el 14 de julio a Katsumi Mori, de 53 años, desempleado y residente en Namerikawa, tras un aviso de que planeaba matar a un gran número de personas en Tokio, según el Japan Times. Según la policía, habría reservado un autobús a la capital y llevaba un cuchillo en su bolsa, y dijo a los investigadores que quería morir y creía que sería abatido o condenado a muerte si cometía una matanza, citando dificultades financieras vinculadas a la inflación. Los investigadores creen que se inspiró en el ataque con cuchillo de Akihabara en 2008; habría admitido en general los hechos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/07/2026",
+          "en": "14/07/2026",
+          "es": "14/07/2026"
+        },
+        "d": {
+          "fr": "La police de Toyama arrête le suspect avant tout passage à l'acte, selon le Japan Times.",
+          "en": "Toyama police arrest the suspect before any attack takes place, according to the Japan Times.",
+          "es": "La policía de Toyama arresta al sospechoso antes de que se produzca cualquier ataque, según el Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coreesud-yoon-condamnation",
+    "coords": [
+      127.01,
+      37.5
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "UPI / France 24",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Séoul, Corée du Sud (Cour suprême)",
+      "en": "Seoul, South Korea (Supreme Court)",
+      "es": "Seúl, Corea del Sur (Corte Suprema)"
+    },
+    "title": {
+      "fr": "La Cour suprême sud-coréenne confirme la peine de 7 ans de l'ex-président Yoon Suk Yeol",
+      "en": "South Korea's Supreme Court upholds ex-President Yoon Suk Yeol's 7-year sentence",
+      "es": "La Corte Suprema de Corea del Sur confirma la condena de 7 años del expresidente Yoon Suk Yeol"
+    },
+    "summary": {
+      "fr": "La Cour suprême de Corée du Sud a confirmé le 9 juillet une peine de sept ans de prison contre l'ancien président Yoon Suk Yeol pour avoir entravé les tentatives des enquêteurs de l'arrêter après sa brève déclaration de loi martiale en décembre 2024, selon UPI et France 24. Cette peine avait été portée de cinq à sept ans par la haute cour de Séoul en avril 2026, après que des chefs d'accusation supplémentaires eurent été jugés établis. Yoon, absent lors du prononcé du jugement, fait encore face à plusieurs autres procès liés à l'épisode de la loi martiale.",
+      "en": "South Korea's Supreme Court on July 9 upheld a seven-year prison sentence against former President Yoon Suk Yeol for obstructing investigators' attempts to arrest him following his brief declaration of martial law in December 2024, according to UPI and France 24. The sentence had been increased from five to seven years by the Seoul High Court in April 2026 after additional charges were found proven. Yoon, who did not attend the ruling, still faces several other ongoing trials related to the martial law episode.",
+      "es": "La Corte Suprema de Corea del Sur confirmó el 9 de julio una condena de siete años de prisión contra el expresidente Yoon Suk Yeol por obstruir los intentos de los investigadores de arrestarlo tras su breve declaración de ley marcial en diciembre de 2024, según UPI y France 24. La condena había sido elevada de cinco a siete años por el Tribunal Superior de Seúl en abril de 2026, tras comprobarse cargos adicionales. Yoon, que no asistió al fallo, todavía enfrenta varios otros juicios en curso relacionados con el episodio de la ley marcial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/07/2026",
+          "en": "09/07/2026",
+          "es": "09/07/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême confirme la peine de sept ans contre Yoon Suk Yeol, selon UPI.",
+          "en": "The Supreme Court upholds the seven-year sentence against Yoon Suk Yeol, according to UPI.",
+          "es": "La Corte Suprema confirma la condena de siete años contra Yoon Suk Yeol, según UPI."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "indonesie-camion-mariage",
+    "coords": [
+      108.2,
+      -6.33
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "CBS News / Washington Post",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Village de Kiajaran Kulon, régence d'Indramayu, Java-Ouest, Indonésie",
+      "en": "Kiajaran Kulon village, Indramayu Regency, West Java, Indonesia",
+      "es": "Aldea de Kiajaran Kulon, regencia de Indramayu, Java Occidental, Indonesia"
+    },
+    "title": {
+      "fr": "13 morts après l'écrasement d'un camion transportant des invités de mariage entre deux poids lourds",
+      "en": "13 killed as truck carrying wedding guests is crushed between two trucks",
+      "es": "13 muertos al ser aplastado entre dos camiones un vehículo con invitados de boda"
+    },
+    "summary": {
+      "fr": "Au moins 13 personnes sont mortes et cinq ont été blessées le 12 juillet lorsqu'une camionnette à plateau ouvert transportant des invités revenant d'un mariage dans le village de Parean a été percutée par l'arrière par un camion près d'un terre-plein central, dans la régence d'Indramayu, à Java, avant d'être poussée dans la trajectoire d'un autre poids lourd venant en sens inverse, selon CBS News et le Washington Post. Le choc aurait projeté plus d'une dizaine de personnes sur la route. La police locale enquête sur les causes de l'accident ; cinq survivants restaient hospitalisés, avec des blessures allant de légères à graves.",
+      "en": "At least 13 people were killed and five injured on July 12 when an open-bed pickup truck carrying wedding guests, returning from a wedding in Parean village, was struck from behind by a truck near a highway median in Indramayu Regency, Java, and pushed into the path of another oncoming truck, according to CBS News and the Washington Post. The impact reportedly threw more than a dozen people onto the highway. Local traffic police are investigating the cause of the crash; five survivors remained hospitalized with injuries ranging from minor to serious.",
+      "es": "Al menos 13 personas murieron y cinco resultaron heridas el 12 de julio cuando una camioneta de caja abierta que transportaba a invitados que regresaban de una boda en la aldea de Parean fue embestida por detrás por un camión cerca de una mediana en la regencia de Indramayu, Java, y empujada hacia la trayectoria de otro camión que circulaba en sentido contrario, según CBS News y Washington Post. El impacto habría arrojado a más de una decena de personas a la carretera. La policía de tránsito local investiga la causa del accidente; cinco supervivientes seguían hospitalizados con heridas de leves a graves."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/07/2026",
+          "en": "12/07/2026",
+          "es": "12/07/2026"
+        },
+        "d": {
+          "fr": "Au moins 13 personnes meurent dans l'accident, selon CBS News.",
+          "en": "At least 13 people die in the crash, according to CBS News.",
+          "es": "Al menos 13 personas mueren en el accidente, según CBS News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "inde-assam-inondations",
+    "coords": [
+      91.7362,
+      26.1445
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "AP / Washington Post / ABC News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Guwahati et région de l'Assam, Inde",
+      "en": "Guwahati and Assam region, India",
+      "es": "Guwahati y la región de Assam, India"
+    },
+    "title": {
+      "fr": "Les inondations du Brahmapoutre font au moins 50 morts et déplacent 700 000 personnes en Assam",
+      "en": "Floods from overflowing Brahmaputra kill at least 50, displace 700,000 in Assam",
+      "es": "Las inundaciones del Brahmaputra dejan al menos 50 muertos y 700 000 desplazados en Assam"
+    },
+    "summary": {
+      "fr": "Des jours de fortes pluies de mousson ont fait déborder le fleuve Brahmapoutre dans tout l'État d'Assam, tuant au moins 50 personnes et déplaçant environ 700 000 habitants, selon des responsables cités par l'agence AP. Près de 900 villages ont été submergés, plus de 7000 foyers ont perdu l'électricité et environ 300 000 personnes ont été installées dans des camps de secours gouvernementaux. Les inondations ont également perturbé la capitale de l'État, Guwahati, où des habitants se sont retrouvés bloqués sur des routes submergées. Les autorités, dont le ministre en chef de l'Assam Himanta Biswa Sarma, ont indiqué que des secours étaient parachutés par hélicoptère vers les zones coupées du reste du territoire.",
+      "en": "Days of heavy monsoon rain caused the Brahmaputra River to overflow across Assam state, killing at least 50 people and displacing roughly 700,000, according to officials cited by the AP news agency. Nearly 900 villages were submerged, more than 7,000 homes lost electricity, and about 300,000 people were moved into government relief camps. Flooding also disrupted the state capital Guwahati, leaving residents stranded on submerged roads. Authorities, including Assam Chief Minister Himanta Biswa Sarma, said relief supplies were being airdropped by helicopter to cut-off areas.",
+      "es": "Días de fuertes lluvias monzónicas hicieron que el río Brahmaputra se desbordara en todo el estado de Assam, matando al menos a 50 personas y desplazando a unas 700 000, según funcionarios citados por la agencia AP. Cerca de 900 aldeas quedaron sumergidas, más de 7000 hogares se quedaron sin electricidad y unas 300 000 personas fueron trasladadas a campamentos de ayuda gubernamentales. Las inundaciones también afectaron a la capital estatal, Guwahati, donde vecinos quedaron varados en carreteras sumergidas. Las autoridades, incluido el ministro principal de Assam, Himanta Biswa Sarma, indicaron que se lanzaban suministros de ayuda por helicóptero a las zonas aisladas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités font état d'au moins 50 morts et 700 000 déplacés en Assam, selon l'AP.",
+          "en": "Officials report at least 50 dead and 700,000 displaced in Assam, according to the AP.",
+          "es": "Las autoridades informan de al menos 50 muertos y 700 000 desplazados en Assam, según AP."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-bolsonaro-visites",
+    "coords": [
+      -47.9218,
+      -15.8267
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg / Al Jazeera",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Brasília, Brésil (Cour suprême fédérale)",
+      "en": "Brasília, Brazil (Supreme Federal Tribunal)",
+      "es": "Brasilia, Brasil (Tribunal Supremo Federal)"
+    },
+    "title": {
+      "fr": "La Cour suprême brésilienne restreint les visites à Jair Bolsonaro en résidence surveillée",
+      "en": "Brazilian Supreme Court restricts visits to Jair Bolsonaro under house arrest",
+      "es": "El Supremo brasileño restringe las visitas a Jair Bolsonaro bajo arresto domiciliario"
+    },
+    "summary": {
+      "fr": "Le juge de la Cour suprême Alexandre de Moraes a rejeté le 18 juillet une demande du président argentin Javier Milei souhaitant rendre visite à l'ancien président brésilien Jair Bolsonaro, invoquant une suspension de 30 jours des visites non essentielles imposée dans le cadre de sa résidence surveillée, selon Bloomberg. Cette décision fait suite à une précédente interdiction, prononcée le 14 juillet par Al Jazeera, empêchant pendant 90 jours le fils de Bolsonaro et candidat à la présidentielle Flavio Bolsonaro de rendre visite à son père, après que les deux hommes eurent enfreint les conditions de l'assignation à résidence en lisant une lettre manuscrite lors d'une diffusion en direct. Bolsonaro purge une peine de 27 ans après sa condamnation en septembre 2025 pour tentative de coup d'État consécutive à sa défaite électorale de 2022 face à Lula da Silva ; les récits sur l'équité de cette condamnation restent disputés entre ses soutiens et l'accusation.",
+      "en": "Supreme Court Justice Alexandre de Moraes denied a request on July 18 from Argentine President Javier Milei to visit former Brazilian president Jair Bolsonaro, citing a 30-day suspension of non-essential visits imposed under the terms of Bolsonaro's house arrest, according to Bloomberg. This followed an earlier ruling reported by Al Jazeera on July 14 barring Bolsonaro's son and presidential candidate Flavio Bolsonaro from visiting his father for 90 days, after the pair were found to have breached house-arrest terms when Flavio read a handwritten letter from his father during a livestream. Bolsonaro is serving a 27-year sentence following his September 2025 conviction for attempting a coup after his 2022 election defeat to Lula da Silva; accounts of the underlying conviction's fairness remain disputed between Bolsonaro's supporters and the prosecution.",
+      "es": "El juez de la Corte Suprema Alexandre de Moraes rechazó el 18 de julio una solicitud del presidente argentino Javier Milei para visitar al expresidente brasileño Jair Bolsonaro, citando una suspensión de 30 días de las visitas no esenciales impuesta dentro de las condiciones de su arresto domiciliario, según Bloomberg. Esto se produjo tras un fallo anterior, reportado por Al Jazeera el 14 de julio, que prohibió durante 90 días al hijo de Bolsonaro y candidato presidencial Flavio Bolsonaro visitar a su padre, después de que ambos incumplieran las condiciones del arresto domiciliario al leer una carta manuscrita durante una transmisión en vivo. Bolsonaro cumple una condena de 27 años tras su condena en septiembre de 2025 por intento de golpe de Estado tras su derrota electoral de 2022 frente a Lula da Silva; los relatos sobre la equidad de dicha condena siguen siendo disputados entre sus partidarios y la fiscalía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/07/2026",
+          "en": "18/07/2026",
+          "es": "18/07/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes refuse la visite du président argentin Javier Milei à Bolsonaro.",
+          "en": "Justice Alexandre de Moraes denies Argentine President Javier Milei's visit to Bolsonaro.",
+          "es": "El juez Alexandre de Moraes deniega la visita del presidente argentino Javier Milei a Bolsonaro."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "russie-nadejdine-condamnation",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "AP / PBS NewsHour",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Région de Moscou, Russie (ville exacte du tribunal non précisée par les sources)",
+      "en": "Moscow region, Russia (exact court city not specified by sources)",
+      "es": "Región de Moscú, Rusia (ciudad exacta del tribunal no especificada por las fuentes)"
+    },
+    "title": {
+      "fr": "L'opposant russe Boris Nadejdine condamné, écarté des élections législatives",
+      "en": "Kremlin critic Boris Nadezhdin convicted, barred from parliamentary race",
+      "es": "El opositor ruso Boris Nadezhdin es condenado y excluido de las elecciones legislativas"
+    },
+    "summary": {
+      "fr": "Boris Nadejdine, un homme politique ayant critiqué publiquement l'action militaire russe en Ukraine et ayant tenté de se présenter face à Vladimir Poutine à la présidentielle de 2024, a été condamné le 17 juillet pour avoir montré des « symboles extrémistes », selon une dépêche de l'agence AP reprise par PBS NewsHour. Cette condamnation, fondée sur une vidéo de 2023 où il montrait brièvement une image de l'opposant défunt Alexeï Navalny, lui interdit de faire campagne aux élections législatives russes à venir. Des observateurs indépendants notent que ce verdict intervient alors que les autorités agissent contre les dernières voix dissidentes avant le scrutin de septembre, dans un contexte de pénuries de carburant liées au conflit en Ukraine ; les autorités russes n'ont pas qualifié publiquement cette affaire de politiquement motivée.",
+      "en": "Boris Nadezhdin, a politician who has publicly criticized Russia's military action in Ukraine and previously attempted to challenge Vladimir Putin in the 2024 presidential election, was convicted on July 17 of displaying \"extremist symbols,\" according to an AP wire report carried by PBS NewsHour. The conviction, based on a 2023 video in which he briefly showed an image of late opposition figure Alexei Navalny, bars him from campaigning in Russia's upcoming parliamentary election. Independent observers note the verdict came as authorities moved against remaining dissent ahead of the September vote, amid public strain from fuel shortages linked to the Ukraine conflict; Russian authorities have not publicly characterized the case as politically motivated.",
+      "es": "Boris Nadezhdin, un político que ha criticado públicamente la acción militar rusa en Ucrania y que anteriormente intentó desafiar a Vladimir Putin en las elecciones presidenciales de 2024, fue condenado el 17 de julio por mostrar «símbolos extremistas», según un despacho de la agencia AP recogido por PBS NewsHour. La condena, basada en un vídeo de 2023 en el que mostraba brevemente una imagen del fallecido opositor Alexéi Navalni, le impide hacer campaña en las próximas elecciones legislativas rusas. Observadores independientes señalan que el veredicto llega mientras las autoridades actúan contra la disidencia restante antes de la votación de septiembre, en un contexto de escasez de combustible vinculada al conflicto en Ucrania; las autoridades rusas no han calificado públicamente el caso como políticamente motivado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/07/2026",
+          "en": "17/07/2026",
+          "es": "17/07/2026"
+        },
+        "d": {
+          "fr": "Boris Nadejdine est condamné et écarté de la campagne législative, selon l'AP.",
+          "en": "Boris Nadezhdin is convicted and barred from the parliamentary campaign, according to the AP.",
+          "es": "Boris Nadezhdin es condenado y excluido de la campaña legislativa, según AP."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "nigeria-zamfara-enlevement",
+    "coords": [
+      6.33,
+      12.37
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Punch Nigeria / Vanguard",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Bungudu, État de Zamfara, Nigeria",
+      "en": "Bungudu, Zamfara State, Nigeria",
+      "es": "Bungudu, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent un président de collectivité locale et tuent quatre agents de sécurité au Nigeria",
+      "en": "Gunmen abduct Nigerian local government chairman, kill four security personnel",
+      "es": "Hombres armados secuestran a un presidente de gobierno local y matan a cuatro agentes de seguridad en Nigeria"
+    },
+    "summary": {
+      "fr": "Des assaillants armés ont pris d'assaut dans la nuit du 25 juillet la résidence de Nura Umar Abdullahi, président de la collectivité locale de Bungudu, dans l'État de Zamfara, neutralisant les policiers et les vigiles chargés de sa protection, selon Punch Nigeria, corroboré par Vanguard et Tribune Online. Quatre membres de son dispositif de sécurité (deux policiers, deux vigiles) ont été tués, et le président a été enlevé avec des membres de sa famille. Une réaction militaire rapide a contraint les assaillants à abandonner cinq membres de la famille, qui ont été secourus, mais le président restait porté disparu au moment du signalement ; une chasse à l'homme conjointe impliquant l'armée, la police et les services de renseignement a été lancée.",
+      "en": "Armed attackers stormed the residence of Nura Umar Abdullahi, chairman of Bungudu Local Government Area in Zamfara State, in the early hours of July 25, overpowering police officers and vigilante guards, according to Punch Nigeria, corroborated by Vanguard and Tribune Online. Four members of his security detail (two police officers, two vigilantes) were killed, and the chairman was abducted along with family members. A rapid military response forced the attackers to abandon five family members, who were rescued, but the chairman remained missing as of the report; a joint manhunt involving the army, police and intelligence services was launched.",
+      "es": "Atacantes armados asaltaron en la madrugada del 25 de julio la residencia de Nura Umar Abdullahi, presidente del gobierno local de Bungudu, en el estado de Zamfara, reduciendo a los policías y guardias vigilantes que lo protegían, según Punch Nigeria, corroborado por Vanguard y Tribune Online. Cuatro miembros de su escolta de seguridad (dos policías, dos vigilantes) fueron asesinados, y el presidente fue secuestrado junto con familiares. Una rápida respuesta militar obligó a los atacantes a abandonar a cinco familiares, que fueron rescatados, pero el presidente seguía desaparecido al momento del informe; se lanzó una cacería conjunta con la participación del ejército, la policía y los servicios de inteligencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Le président de la collectivité de Bungudu est enlevé, quatre agents de sécurité sont tués, selon Punch Nigeria.",
+          "en": "The Bungudu local government chairman is abducted, four security personnel are killed, according to Punch Nigeria.",
+          "es": "El presidente del gobierno local de Bungudu es secuestrado y cuatro agentes de seguridad mueren, según Punch Nigeria."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "egypte-fmi-croissance",
+    "coords": [
+      31.24,
+      30.04
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Ahram Online",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Le FMI relève ses prévisions de croissance pour l'Égypte à 4,6 % pour 2026",
+      "en": "IMF raises Egypt's 2026 growth forecast to 4.6%",
+      "es": "El FMI eleva su previsión de crecimiento de Egipto al 4,6 % para 2026"
+    },
+    "summary": {
+      "fr": "Dans sa mise à jour de juillet des Perspectives de l'économie mondiale, le FMI a relevé sa prévision de croissance du PIB égyptien pour 2026 à 4,6 %, soit 0,4 point de plus que sa prévision d'avril, en évoquant la résilience de l'économie du pays, selon Ahram Online. Dans le même temps, le FMI a nettement abaissé ses perspectives pour l'ensemble de la région Moyen-Orient et Afrique du Nord, désormais orientées vers une contraction, en raison de la guerre régionale en cours et des perturbations du transport maritime liées à la fermeture répétée du détroit d'Ormuz. Le FMI a toutefois légèrement réduit sa prévision pour l'Égypte en 2027, invoquant une incertitude mondiale et régionale prolongée.",
+      "en": "In its July World Economic Outlook update, the IMF raised its projected 2026 GDP growth for Egypt to 4.6%, up 0.4 percentage points from its April forecast, citing the country's economic resilience, according to Ahram Online. At the same time, the IMF sharply cut its outlook for the wider Middle East and North Africa region into a projected contraction, citing the ongoing regional war and shipping disruptions tied to repeated closures of the Strait of Hormuz. The IMF did trim its 2027 forecast for Egypt slightly, citing prolonged global and regional uncertainty.",
+      "es": "En su actualización de julio de las Perspectivas de la Economía Mundial, el FMI elevó su previsión de crecimiento del PIB de Egipto para 2026 al 4,6 %, 0,4 puntos porcentuales más que su previsión de abril, citando la resiliencia económica del país, según Ahram Online. Al mismo tiempo, el FMI recortó bruscamente sus perspectivas para toda la región de Oriente Medio y el Norte de África, ahora orientadas hacia una contracción, debido a la guerra regional en curso y a las interrupciones del transporte marítimo vinculadas al cierre repetido del estrecho de Ormuz. El FMI sí redujo ligeramente su previsión para Egipto en 2027, citando una incertidumbre mundial y regional prolongada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le FMI publie sa mise à jour de juillet relevant la prévision de croissance égyptienne à 4,6 %.",
+          "en": "The IMF publishes its July update raising Egypt's growth forecast to 4.6%.",
+          "es": "El FMI publica su actualización de julio, elevando la previsión de crecimiento de Egipto al 4,6 %."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
