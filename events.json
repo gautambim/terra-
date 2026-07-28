@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Times of Israel / Al Jazeera",
+    "week": "2026-W31",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,15 +705,15 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Fin juillet, les États-Unis ont suspendu leurs frappes pendant trois nuits consécutives et l'Iran a cessé ses ripostes, avant que Donald Trump ne reçoive Benjamin Netanyahu à la Maison-Blanche le 28 juillet, une première rencontre depuis le déclenchement du conflit.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. In late July, the United States paused strikes for three consecutive nights and Iran halted its retaliatory attacks, before Donald Trump hosted Benjamin Netanyahu at the White House on July 28, their first meeting since the conflict began.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. A finales de julio, Estados Unidos suspendió sus ataques durante tres noches consecutivas e Irán detuvo sus represalias, antes de que Donald Trump recibiera a Benjamín Netanyahu en la Casa Blanca el 28 de julio, en su primer encuentro desde que comenzó el conflicto."
     },
     "timeline": [
       {
         "t": {
           "fr": "08/04/2026",
-          "en": "04/08/2026",
+          "en": "08/04/2026",
           "es": "08/04/2026"
         },
         "d": {
@@ -734,11 +734,24 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis suspendent leurs frappes contre l'Iran pour une troisième nuit consécutive tandis que Téhéran suspend ses ripostes ; Donald Trump reçoit Benjamin Netanyahu à la Maison-Blanche pour la première fois depuis le déclenchement du conflit, selon plusieurs médias.",
+          "en": "The United States pauses strikes on Iran for a third consecutive night while Tehran halts its retaliatory strikes; Donald Trump hosts Benjamin Netanyahu at the White House for the first time since the conflict began, according to multiple outlets.",
+          "es": "Estados Unidos suspende sus ataques contra Irán durante una tercera noche consecutiva mientras Teherán detiene sus represalias; Donald Trump recibe a Benjamín Netanyahu en la Casa Blanca por primera vez desde que comenzó el conflicto, según varios medios."
+        },
         "active": true
       }
     ],
     "related": [],
-    "priority": 2
+    "priority": 1
   },
   {
     "id": "ouganda-bus-scolaire",
@@ -829,5 +842,928 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "seattle-fusillade-festival",
+    "coords": [
+      -122.3493,
+      47.6205
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / KOMO News / CBS News",
+    "place": {
+      "fr": "Seattle Center, Seattle (Washington), États-Unis",
+      "en": "Seattle Center, Seattle, Washington, United States",
+      "es": "Seattle Center, Seattle (Washington), Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade lors du festival « Bite of Seattle » fait 3 morts",
+      "en": "Shooting at the 'Bite of Seattle' festival kills 3",
+      "es": "Un tiroteo en el festival «Bite of Seattle» deja 3 muertos"
+    },
+    "summary": {
+      "fr": "Une fusillade a éclaté dimanche 26 juillet en soirée au Seattle Center, lors des dernières heures du festival gastronomique « Bite of Seattle », faisant 3 morts et au moins 4 blessés, dont un enfant de 2 ans, selon la police de Seattle. Les enquêteurs évoquent un règlement de comptes entre bandes rivales impliquant plusieurs tireurs ; un adolescent de 15 ans a été interpellé et un suspect reste recherché.",
+      "en": "A shooting broke out on the evening of Sunday, July 26 at Seattle Center, during the closing hours of the 'Bite of Seattle' food festival, killing 3 people and wounding at least 4 others, including a 2-year-old child, according to Seattle police. Investigators believe it was a shootout between rival groups involving several shooters; a 15-year-old has been detained and one suspect remains at large.",
+      "es": "Un tiroteo estalló la noche del domingo 26 de julio en el Seattle Center, durante las últimas horas del festival gastronómico «Bite of Seattle», dejando 3 muertos y al menos 4 heridos, entre ellos un niño de 2 años, según la policía de Seattle. Los investigadores creen que fue un enfrentamiento entre bandas rivales con varios tiradores; un adolescente de 15 años fue detenido y un sospechoso sigue en fuga."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "La police de Seattle confirme 3 morts et plusieurs blessés après une fusillade au festival « Bite of Seattle ».",
+          "en": "Seattle police confirm 3 deaths and several injuries after a shooting at the 'Bite of Seattle' festival.",
+          "es": "La policía de Seattle confirma 3 muertos y varios heridos tras un tiroteo en el festival «Bite of Seattle»."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "nyc-agression-haineuse",
+    "coords": [
+      -73.9723,
+      40.7851
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🔪",
+    "source": "NYPD / Bloomberg / NBC News",
+    "place": {
+      "fr": "Upper West Side, Manhattan, New York, États-Unis",
+      "en": "Upper West Side, Manhattan, New York, United States",
+      "es": "Upper West Side, Manhattan, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Deux agressions au couteau à Manhattan requalifiées en crimes de haine",
+      "en": "Two Manhattan stabbings charged as hate crimes",
+      "es": "Dos apuñalamientos en Manhattan son procesados como crímenes de odio"
+    },
+    "summary": {
+      "fr": "Le 23 juillet, un homme a poignardé sans provocation apparente un homme d'origine asiatique près de Central Park, puis un homme juif quelques rues plus loin, selon la police de New York. Les deux victimes ont survécu. Le suspect, Raul Morales, 51 ans, a été inculpé de tentative de meurtre et d'agression aggravées par un mobile haineux ; la piste d'un trouble de santé mentale est également étudiée.",
+      "en": "On July 23, a man stabbed an Asian man without apparent provocation near Central Park and then a Jewish man several blocks away, according to the New York Police Department. Both victims survived. The suspect, Raul Morales, 51, was charged with attempted murder and assault as hate crimes; investigators say mental illness may also be a factor.",
+      "es": "El 23 de julio, un hombre apuñaló sin provocación aparente a un hombre de origen asiático cerca de Central Park y, varias calles después, a un hombre judío, según la policía de Nueva York. Ambas víctimas sobrevivieron. El sospechoso, Raul Morales, de 51 años, fue acusado de intento de homicidio y agresión con agravante de odio; los investigadores también estudian un posible trastorno de salud mental."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "23/07/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "La police de New York inculpe Raul Morales de crimes de haine après deux agressions au couteau près de Central Park.",
+          "en": "New York police charge Raul Morales with hate crimes after two stabbings near Central Park.",
+          "es": "La policía de Nueva York acusa a Raul Morales de crímenes de odio tras dos apuñalamientos cerca de Central Park."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "usa-canicule",
+    "coords": [
+      -97.5164,
+      35.4676
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Associated Press / National Weather Service",
+    "place": {
+      "fr": "Sud et centre des États-Unis (dont Oklahoma City)",
+      "en": "Central and southern United States (including Oklahoma City)",
+      "es": "Centro y sur de Estados Unidos (incluida Oklahoma City)"
+    },
+    "title": {
+      "fr": "Une vague de chaleur extrême place 40 millions d'Américains en alerte",
+      "en": "Extreme heat wave puts 40 million Americans under warnings",
+      "es": "Una ola de calor extremo pone en alerta a 40 millones de estadounidenses"
+    },
+    "summary": {
+      "fr": "Un dôme de chaleur a fait grimper les indices de chaleur au-delà de 40°C sur une bande allant du Minnesota au Mississippi, avec des pointes proches de 49°C dans le Sud-Ouest, selon le Service météorologique national relayé par l'Associated Press. Environ 40 millions de personnes étaient placées sous alerte chaleur extrême les 25 et 26 juillet, dans un contexte de premier semestre 2026 parmi les plus chauds jamais enregistrés aux États-Unis.",
+      "en": "A heat dome pushed heat index values above 105°F (40.5°C) across a swath from Minnesota to Mississippi, with highs near 120°F (49°C) in the Southwest, according to the National Weather Service via the Associated Press. About 40 million people were under extreme heat warnings on July 25-26, part of what has been the second-hottest first half of a year on record in the contiguous United States.",
+      "es": "Una cúpula de calor elevó los índices de calor por encima de los 40,5°C en una franja que va de Minnesota a Misisipi, con máximas cercanas a los 49°C en el suroeste, según el Servicio Meteorológico Nacional citado por Associated Press. Unos 40 millones de personas estuvieron bajo alerta de calor extremo el 25 y 26 de julio, en el marco de uno de los primeros semestres más calurosos jamás registrados en Estados Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "L'Associated Press rapporte que 40 millions de personnes sont sous alerte chaleur extrême aux États-Unis.",
+          "en": "The Associated Press reports 40 million people are under extreme heat warnings in the United States.",
+          "es": "Associated Press informa que 40 millones de personas están bajo alerta de calor extremo en Estados Unidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "paramount-wbd-fusion-suspendue",
+    "coords": [
+      -122.4194,
+      37.7749
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💼",
+    "source": "Bureau du procureur général de New York / Axios / CNBC",
+    "place": {
+      "fr": "San Francisco (Californie), États-Unis",
+      "en": "San Francisco, California, United States",
+      "es": "San Francisco (California), Estados Unidos"
+    },
+    "title": {
+      "fr": "Paramount Skydance accepte de suspendre son rachat à 110 milliards de dollars de Warner Bros. Discovery",
+      "en": "Paramount Skydance agrees to pause $110 billion Warner Bros. Discovery merger",
+      "es": "Paramount Skydance acepta suspender su fusión de 110.000 millones de dólares con Warner Bros. Discovery"
+    },
+    "summary": {
+      "fr": "Paramount Skydance a accepté le 24 juillet de reporter la conclusion de son rachat de Warner Bros. Discovery, évalué à 110 milliards de dollars, jusqu'à l'issue d'une action antitrust menée par une coalition de 12 États américains, ou jusqu'en juin 2027 au plus tard. La procureure générale de New York, Letitia James, qui pilote la plainte, estime que la fusion réduirait illégalement la concurrence dans les médias et le streaming.",
+      "en": "Paramount Skydance agreed on July 24 to delay closing its $110 billion acquisition of Warner Bros. Discovery until a 12-state antitrust lawsuit is resolved, or until June 2027 at the latest. New York Attorney General Letitia James, who is leading the suit, argues the merger would illegally reduce competition in media and streaming.",
+      "es": "Paramount Skydance aceptó el 24 de julio posponer el cierre de su adquisición de Warner Bros. Discovery, valorada en 110.000 millones de dólares, hasta que se resuelva una demanda antimonopolio presentada por una coalición de 12 estados, o hasta junio de 2027 como máximo. La fiscal general de Nueva York, Letitia James, que encabeza la demanda, sostiene que la fusión reduciría ilegalmente la competencia en medios y streaming."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Paramount Skydance accepte de suspendre sa fusion avec Warner Bros. Discovery le temps de la procédure antitrust.",
+          "en": "Paramount Skydance agrees to pause its merger with Warner Bros. Discovery pending the antitrust case.",
+          "es": "Paramount Skydance acepta suspender su fusión con Warner Bros. Discovery mientras dure el proceso antimonopolio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "espagne-france-incendies-record",
+    "coords": [
+      -4.95,
+      40.35
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CNN / NPR / Euronews",
+    "related": [
+      "espagne-incendie",
+      "fontainebleau-incendie"
+    ],
+    "place": {
+      "fr": "Province d'Ávila, Espagne, et région de Bordeaux, France",
+      "en": "Ávila province, Spain, and the Bordeaux region, France",
+      "es": "Provincia de Ávila, España, y región de Burdeos, Francia"
+    },
+    "title": {
+      "fr": "Le plus grand incendie de l'histoire espagnole et des feux en France forcent plus de 300 000 évacuations",
+      "en": "Spain's largest wildfire on record and fires in France force over 300,000 evacuations",
+      "es": "El mayor incendio de la historia de España y focos en Francia obligan a evacuar a más de 300.000 personas"
+    },
+    "summary": {
+      "fr": "Un incendie ayant parcouru environ 50 000 hectares dans la province d'Ávila est devenu le plus important jamais enregistré en Espagne, selon CNN et Euronews, tandis que d'autres feux touchent la région de Bordeaux, en France. Plus de 300 000 personnes ont été évacuées ou confinées dans les deux pays, l'Espagne ayant déclaré son premier état d'urgence national pour feux de forêt. La Garde civile espagnole a arrêté un conducteur de tracteur soupçonné d'avoir provoqué le feu d'Ávila par négligence.",
+      "en": "A wildfire that burned around 50,000 hectares in Ávila province has become the largest ever recorded in Spain, according to CNN and Euronews, while separate fires struck the Bordeaux region in France. More than 300,000 people were evacuated or confined across both countries, and Spain declared its first-ever national wildfire emergency. Spain's Civil Guard arrested a tractor driver suspected of sparking the Ávila fire through negligence.",
+      "es": "Un incendio que arrasó unas 50.000 hectáreas en la provincia de Ávila se ha convertido en el mayor jamás registrado en España, según CNN y Euronews, mientras otros focos afectan la región de Burdeos, en Francia. Más de 300.000 personas fueron evacuadas o confinadas en ambos países, y España declaró su primera emergencia nacional por incendios forestales. La Guardia Civil española detuvo a un conductor de tractor sospechoso de haber provocado el incendio de Ávila por negligencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "22/07/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Le feu d'Ávila se déclare et devient rapidement le plus grand incendie de l'histoire espagnole, selon Euronews.",
+          "en": "The Ávila fire breaks out and quickly becomes the largest wildfire in Spanish history, according to Euronews.",
+          "es": "Se declara el incendio de Ávila, que rápidamente se convierte en el mayor de la historia de España, según Euronews."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan combiné des évacuations en Espagne et en France dépasse 300 000 personnes, selon CNN et NPR.",
+          "en": "The combined evacuation toll in Spain and France surpasses 300,000 people, according to CNN and NPR.",
+          "es": "El balance combinado de evacuados en España y Francia supera las 300.000 personas, según CNN y NPR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "berlin-attaque-fierte",
+    "coords": [
+      13.3757,
+      52.5096
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚐",
+    "source": "NPR / Euronews / Reuters",
+    "place": {
+      "fr": "Potsdamer Platz, Berlin, Allemagne",
+      "en": "Potsdamer Platz, Berlin, Germany",
+      "es": "Potsdamer Platz, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une camionnette fonce sur la foule au défilé de la fierté à Berlin, un mort et 29 blessés",
+      "en": "Van rams crowd at Berlin Pride march, killing one and injuring 29",
+      "es": "Una furgoneta embiste a la multitud en el desfile del orgullo de Berlín; un muerto y 29 heridos"
+    },
+    "summary": {
+      "fr": "Un homme de 21 ans a délibérément foncé en camionnette sur la foule du défilé Christopher Street Day à Berlin le 25 juillet au soir, tuant une femme et blessant 29 personnes, selon la police allemande. Le suspect, en fuite, a été localisé le lendemain à Spandau et abattu par une unité spéciale après avoir, selon la police, chargé les policiers avec une arme blanche. Les autorités évoquent une piste islamiste, le suspect ayant déjà été condamné pour un projet d'attentat.",
+      "en": "A 21-year-old man deliberately drove a van into the crowd at Berlin's Christopher Street Day Pride march on the evening of July 25, killing one woman and injuring 29 people, according to German police. The suspect fled but was located the next day in Spandau and shot dead by a special police unit after allegedly charging officers with a bladed weapon. Authorities say the suspect had previously been convicted over a planned attack and cite a suspected Islamist motive.",
+      "es": "Un hombre de 21 años condujo deliberadamente una furgoneta contra la multitud del desfile del orgullo Christopher Street Day en Berlín la noche del 25 de julio, matando a una mujer e hiriendo a 29 personas, según la policía alemana. El sospechoso huyó, pero fue localizado al día siguiente en Spandau y abatido por una unidad especial tras, según la policía, atacar a los agentes con un arma blanca. Las autoridades apuntan a un posible móvil islamista, ya que el sospechoso había sido condenado previamente por planear un atentado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Une camionnette fonce sur la foule du défilé de la fierté à Berlin, faisant un mort et 29 blessés.",
+          "en": "A van rams the crowd at Berlin's Pride march, killing one person and injuring 29.",
+          "es": "Una furgoneta embiste a la multitud del desfile del orgullo en Berlín, dejando un muerto y 29 heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Le suspect est abattu par la police à Spandau après une chasse à l'homme, selon les autorités allemandes.",
+          "en": "The suspect is shot dead by police in Spandau after a manhunt, according to German authorities.",
+          "es": "El sospechoso es abatido por la policía en Spandau tras una persecución, según las autoridades alemanas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "pogacar-tour-de-france",
+    "coords": [
+      2.3078,
+      48.8698
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "NPR / Euronews / ESPN",
+    "place": {
+      "fr": "Champs-Élysées, Paris, France",
+      "en": "Champs-Élysées, Paris, France",
+      "es": "Champs-Élysées, París, Francia"
+    },
+    "title": {
+      "fr": "Tadej Pogačar remporte un 5e Tour de France, la dernière étape écourtée à cause des incendies",
+      "en": "Tadej Pogačar wins a 5th Tour de France as final stage is shortened due to wildfires",
+      "es": "Tadej Pogačar gana su quinto Tour de Francia mientras la última etapa se acorta por los incendios"
+    },
+    "summary": {
+      "fr": "Le Slovène Tadej Pogačar (UAE Team Emirates) a remporté le 26 juillet son cinquième Tour de France, égalant le record détenu par Eddy Merckx, Bernard Hinault, Jacques Anquetil et Miguel Indurain. Le Néerlandais Mathieu van der Poel a gagné la dernière étape sur les Champs-Élysées, raccourcie et redessinée car les forces de sécurité avaient été mobilisées pour lutter contre les incendies dans le Sud-Ouest de la France.",
+      "en": "Slovenian rider Tadej Pogačar (UAE Team Emirates) won his fifth Tour de France on July 26, equaling the record held by Eddy Merckx, Bernard Hinault, Jacques Anquetil and Miguel Indurain. Dutch rider Mathieu van der Poel won the final stage on the Champs-Élysées, which was shortened and rerouted because security personnel had been redeployed to fight wildfires in southwestern France.",
+      "es": "El esloveno Tadej Pogačar (UAE Team Emirates) ganó el 26 de julio su quinto Tour de Francia, igualando el récord que ostentan Eddy Merckx, Bernard Hinault, Jacques Anquetil y Miguel Indurain. El neerlandés Mathieu van der Poel se impuso en la última etapa en los Campos Elíseos, que fue acortada y modificada porque las fuerzas de seguridad habían sido desplegadas para combatir los incendios en el suroeste de Francia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Tadej Pogačar remporte son cinquième Tour de France sur les Champs-Élysées.",
+          "en": "Tadej Pogačar wins his fifth Tour de France on the Champs-Élysées.",
+          "es": "Tadej Pogačar gana su quinto Tour de Francia en los Campos Elíseos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "uk-cour-supreme-bahrein",
+    "coords": [
+      -0.1272,
+      51.501
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Al Jazeera / Amnesty International / The Record",
+    "place": {
+      "fr": "Cour suprême, Londres, Royaume-Uni",
+      "en": "Supreme Court, London, United Kingdom",
+      "es": "Tribunal Supremo, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "La Cour suprême britannique rejette l'immunité de Bahreïn dans une affaire de logiciel espion",
+      "en": "UK Supreme Court rejects Bahrain's immunity claim in spyware case",
+      "es": "El Tribunal Supremo británico rechaza la inmunidad de Baréin en un caso de software espía"
+    },
+    "summary": {
+      "fr": "La Cour suprême du Royaume-Uni a rejeté le 27 juillet, par 3 voix contre 2, l'appel de Bahreïn invoquant l'immunité d'État dans une action intentée par deux militants basés à Londres, qui affirment que leurs ordinateurs ont été infectés par le logiciel espion FinSpy en 2011 pour le compte de Bahreïn. La décision permet à leur action civile de se poursuivre et établit qu'un piratage mené à distance depuis l'étranger peut être considéré comme un acte commis au Royaume-Uni.",
+      "en": "The UK Supreme Court ruled 3-2 on July 27 to dismiss Bahrain's appeal claiming state immunity in a lawsuit brought by two London-based activists who say their computers were infected with FinSpy spyware in 2011 on Bahrain's behalf. The ruling allows their civil case to proceed and establishes that remote hacking directed from abroad can count as an act carried out in the UK.",
+      "es": "El Tribunal Supremo del Reino Unido rechazó el 27 de julio, por 3 votos contra 2, la apelación de Baréin que invocaba la inmunidad estatal en una demanda presentada por dos activistas radicados en Londres, quienes afirman que sus ordenadores fueron infectados con el software espía FinSpy en 2011 por cuenta de Baréin. El fallo permite que su demanda civil continúe y establece que un pirateo realizado a distancia desde el extranjero puede considerarse un acto cometido en el Reino Unido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême britannique rejette l'immunité de Bahreïn et autorise l'action des militants à se poursuivre.",
+          "en": "The UK Supreme Court rejects Bahrain's immunity claim and allows the activists' case to proceed.",
+          "es": "El Tribunal Supremo británico rechaza la inmunidad de Baréin y permite que continúe la demanda de los activistas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "inde-assam-inondations",
+    "coords": [
+      95.05,
+      27.15
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Outlook India / The Washington Post / Al Jazeera",
+    "place": {
+      "fr": "District de Charaideo, Assam, Inde",
+      "en": "Charaideo district, Assam, India",
+      "es": "Distrito de Charaideo, Assam, India"
+    },
+    "title": {
+      "fr": "Les crues du Brahmapoutre font au moins 68 morts en Assam",
+      "en": "Brahmaputra floods kill at least 68 in Assam",
+      "es": "Las inundaciones del Brahmaputra dejan al menos 68 muertos en Assam"
+    },
+    "summary": {
+      "fr": "Les inondations provoquées par la mousson et la crue du fleuve Brahmapoutre ont fait au moins 68 morts en Assam au 27 juillet, selon plusieurs médias indiens, et affectent plus de 524 000 personnes dans cinq districts. Au plus fort de la crise, environ 700 000 personnes avaient été déplacées vers des camps de secours, dont 354 étaient encore en activité fin juillet.",
+      "en": "Monsoon-driven flooding and the overflowing Brahmaputra River have killed at least 68 people in Assam as of July 27, according to multiple Indian outlets, and affected more than 524,000 people across five districts. At the peak of the crisis, around 700,000 people had been displaced into relief camps, with 354 camps still operating in late July.",
+      "es": "Las inundaciones provocadas por el monzón y el desbordamiento del río Brahmaputra han dejado al menos 68 muertos en Assam hasta el 27 de julio, según varios medios indios, y afectan a más de 524.000 personas en cinco distritos. En el punto álgido de la crisis, unas 700.000 personas fueron desplazadas a campamentos de ayuda, de los cuales 354 seguían operando a finales de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan des inondations en Assam atteint 68 morts, selon les autorités locales.",
+          "en": "The Assam flood death toll reaches 68, according to local authorities.",
+          "es": "El balance de las inundaciones en Assam llega a 68 muertos, según las autoridades locales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "inde-bihar-bandh-violences",
+    "coords": [
+      84.36,
+      26.22
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠️",
+    "source": "India TV News / Outlook India / The Federal",
+    "place": {
+      "fr": "Siwan, Bihar, Inde",
+      "en": "Siwan, Bihar, India",
+      "es": "Siwan, Bihar, India"
+    },
+    "title": {
+      "fr": "Une grève générale contre une fuite d'examen tourne à la violence dans plus de 20 districts du Bihar",
+      "en": "General strike over exam leak turns violent across 20+ Bihar districts",
+      "es": "Una huelga general contra una filtración de examen desemboca en violencia en más de 20 distritos de Bihar"
+    },
+    "summary": {
+      "fr": "Une grève générale (« bandh ») appelée par des organisations étudiantes de gauche pour dénoncer une fuite du sujet de l'examen médical national NEET a dégénéré le 25 juillet dans plus de 20 districts du Bihar, selon plusieurs médias indiens. Environ 694 personnes ont été interpellées et une centaine de policiers et civils blessés. Une vidéo montrant un policier tirer avec un fusil AK-47 à Siwan a suscité une controverse politique ; les versions divergent sur d'éventuels blessés par balle parmi les manifestants, une allégation avancée par un syndicat étudiant mais non confirmée par les autorités.",
+      "en": "A general strike ('bandh') called by left-wing student organizations to protest a leak of the national NEET medical entrance exam turned violent on July 25 across more than 20 districts of Bihar, according to multiple Indian outlets. About 694 people were detained and roughly 100 police officers and civilians were injured. A video showing a policeman firing an AK-47 in Siwan triggered a political controversy; accounts differ on whether any protesters were struck by gunfire, an allegation made by a student union but not confirmed by authorities.",
+      "es": "Una huelga general («bandh») convocada por organizaciones estudiantiles de izquierda para denunciar una filtración del examen médico nacional NEET degeneró en violencia el 25 de julio en más de 20 distritos de Bihar, según varios medios indios. Unas 694 personas fueron detenidas y cerca de un centenar de policías y civiles resultaron heridos. Un vídeo que muestra a un policía disparando un fusil AK-47 en Siwan generó una controversia política; las versiones difieren sobre si hubo manifestantes heridos de bala, una acusación hecha por un sindicato estudiantil pero no confirmada por las autoridades."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "La grève générale contre la fuite du NEET tourne à la violence dans le Bihar ; 694 personnes interpellées.",
+          "en": "The general strike over the NEET exam leak turns violent in Bihar; 694 people detained.",
+          "es": "La huelga general contra la filtración del examen NEET degenera en violencia en Bihar; 694 personas detenidas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-banque-centrale-demission",
+    "coords": [
+      106.816,
+      -6.2
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Antara News / The Jakarta Post / Bloomberg",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Le gouverneur de la banque centrale indonésienne démissionne deux ans avant la fin de son mandat",
+      "en": "Indonesia's central bank governor resigns two years early",
+      "es": "El gobernador del banco central de Indonesia dimite dos años antes de acabar su mandato"
+    },
+    "summary": {
+      "fr": "Le gouverneur de Bank Indonesia, Perry Warjiyo, a démissionné le 26 juillet, invoquant des raisons personnelles, environ deux ans avant la fin prévue de son second mandat en 2028, selon Antara News et Bloomberg. La vice-gouverneure Destry Damayanti assure l'intérim. L'indice boursier de Jakarta a brièvement reculé avant de se stabiliser, dans un contexte de préoccupations sur l'indépendance de la banque centrale et la faiblesse de la roupie.",
+      "en": "Bank Indonesia Governor Perry Warjiyo resigned on July 26, citing personal reasons, about two years before his second term was due to end in 2028, according to Antara News and Bloomberg. Senior Deputy Governor Destry Damayanti has taken over as acting governor. Jakarta's stock index briefly dipped before stabilizing, amid existing concerns over central bank independence and the rupiah's weakness.",
+      "es": "El gobernador del Banco de Indonesia, Perry Warjiyo, dimitió el 26 de julio alegando motivos personales, unos dos años antes de que concluyera previsiblemente su segundo mandato en 2028, según Antara News y Bloomberg. La subgobernadora Destry Damayanti asumió como gobernadora interina. El índice bursátil de Yakarta cayó brevemente antes de estabilizarse, en medio de preocupaciones existentes sobre la independencia del banco central y la debilidad de la rupia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Perry Warjiyo démissionne de la direction de Bank Indonesia ; Destry Damayanti assure l'intérim.",
+          "en": "Perry Warjiyo resigns as Bank Indonesia governor; Destry Damayanti becomes acting governor.",
+          "es": "Perry Warjiyo dimite como gobernador del Banco de Indonesia; Destry Damayanti asume como interina."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-naufrage-tomini",
+    "coords": [
+      121.6,
+      -0.3
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Antara News / Jakarta Globe / AP",
+    "place": {
+      "fr": "Golfe de Tomini, près de l'île d'Una-Una, Sulawesi central, Indonésie",
+      "en": "Gulf of Tomini, near Una-Una Island, Central Sulawesi, Indonesia",
+      "es": "Golfo de Tomini, cerca de la isla de Una-Una, Célebes Central, Indonesia"
+    },
+    "title": {
+      "fr": "Une vedette rapide disparaît avec 11 touristes étrangers à bord ; le capitaine reste introuvable",
+      "en": "Speedboat carrying 11 foreign tourists goes missing; captain still unaccounted for",
+      "es": "Una lancha rápida con 11 turistas extranjeros desaparece; el capitán sigue sin ser hallado"
+    },
+    "summary": {
+      "fr": "Une vedette transportant 11 touristes étrangers (Néerlandais, Allemands, Tchèque, Belge et Français) et 2 membres d'équipage indonésiens a été portée disparue le 24 juillet dans le golfe de Tomini, en route vers le port de Marisa, selon Antara News. L'agence indonésienne de recherche et de sauvetage (Basarnas) a récupéré les 12 passagers et membres d'équipage sains et saufs sur un radeau, mais le capitaine du bateau reste introuvable et les recherches se poursuivent.",
+      "en": "A speedboat carrying 11 foreign tourists (Dutch, German, Czech, Belgian and French nationals) and 2 Indonesian crew was reported missing on July 24 in the Gulf of Tomini while heading to Marisa port, according to Antara News. Indonesia's search and rescue agency (Basarnas) recovered all 12 passengers and crew safely from a raft, but the boat's captain remains missing and the search is continuing.",
+      "es": "Una lancha rápida con 11 turistas extranjeros (neerlandeses, alemanes, un checo, un belga y un francés) y 2 tripulantes indonesios fue reportada como desaparecida el 24 de julio en el golfo de Tomini, cuando se dirigía al puerto de Marisa, según Antara News. La agencia indonesia de búsqueda y rescate (Basarnas) recuperó sanos y salvos a los 12 pasajeros y tripulantes en una balsa, pero el capitán de la embarcación sigue sin aparecer y la búsqueda continúa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "La vedette est signalée disparue après ne pas être arrivée au port de Marisa.",
+          "en": "The speedboat is reported missing after failing to arrive at Marisa port.",
+          "es": "La lancha es reportada como desaparecida tras no llegar al puerto de Marisa."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Basarnas retrouve les 12 passagers et membres d'équipage sains et saufs ; le capitaine reste recherché.",
+          "en": "Basarnas finds all 12 passengers and crew safe; the captain remains missing.",
+          "es": "Basarnas encuentra a salvo a los 12 pasajeros y tripulantes; el capitán sigue desaparecido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "chine-detroit-taiwan-exercices",
+    "coords": [
+      117.35,
+      23.7
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎯",
+    "source": "South China Morning Post / Reuters / Ministère taïwanais de la Défense",
+    "place": {
+      "fr": "Île de Dongshan, province du Fujian, Chine",
+      "en": "Dongshan Island, Fujian Province, China",
+      "es": "Isla de Dongshan, provincia de Fujian, China"
+    },
+    "title": {
+      "fr": "La Chine mène des tirs réels près de Taïwan pendant deux jours",
+      "en": "China conducts two days of live-fire drills near Taiwan",
+      "es": "China realiza dos días de ejercicios con fuego real cerca de Taiwán"
+    },
+    "summary": {
+      "fr": "L'armée chinoise a mené deux jours de tirs réels au large de l'île de Dongshan, dans la province du Fujian, à environ 105 km des îles taïwanaises de Kinmen, les 23 et 24 juillet, selon le South China Morning Post. Le ministère taïwanais de la Défense a fait état d'une hausse simultanée du nombre d'avions et de navires militaires chinois autour de l'île, un décompte qui provient uniquement de Taipei et n'a pas été confirmé par Pékin. Ces manœuvres suivent des critiques chinoises visant un discours du président taïwanais Lai.",
+      "en": "China's military held two days of live-fire drills off Dongshan Island in Fujian province, about 105 km from Taiwan's Kinmen Islands, on July 23-24, according to the South China Morning Post. Taiwan's Defense Ministry reported a simultaneous increase in Chinese military aircraft and vessels around the island — a count that comes solely from Taipei and has not been confirmed by Beijing. The exercises followed Chinese criticism of a speech by Taiwan's President Lai.",
+      "es": "El ejército chino realizó dos días de ejercicios con fuego real frente a la isla de Dongshan, en la provincia de Fujian, a unos 105 km de las islas taiwanesas de Kinmen, los días 23 y 24 de julio, según South China Morning Post. El Ministerio de Defensa de Taiwán informó de un aumento simultáneo de aviones y buques militares chinos alrededor de la isla, un recuento que procede únicamente de Taipéi y no ha sido confirmado por Pekín. Las maniobras siguieron a críticas chinas contra un discurso del presidente taiwanés Lai."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "La Chine termine deux jours de tirs réels au large de Dongshan, près de Taïwan.",
+          "en": "China concludes two days of live-fire drills off Dongshan, near Taiwan.",
+          "es": "China concluye dos días de ejercicios con fuego real frente a Dongshan, cerca de Taiwán."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "chine-cxmt-introduction-bourse",
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNBC / Washington Times",
+    "place": {
+      "fr": "Bourse de Shanghai, Chine",
+      "en": "Shanghai Stock Exchange, China",
+      "es": "Bolsa de Shanghái, China"
+    },
+    "title": {
+      "fr": "Le fabricant de puces CXMT bondit de plus de 460 % lors de son entrée en Bourse à Shanghai",
+      "en": "Chipmaker CXMT surges more than 460% on Shanghai stock debut",
+      "es": "El fabricante de chips CXMT se dispara más de un 460 % en su debut bursátil en Shanghái"
+    },
+    "summary": {
+      "fr": "Les actions du fabricant chinois de puces mémoire ChangXin Memory Technologies (CXMT) ont bondi d'environ 466 % lors de leurs débuts à la Bourse de Shanghai le 27 juillet, à l'issue d'une introduction en Bourse de 8,6 milliards de dollars, la plus importante jamais réalisée par un fabricant chinois de semi-conducteurs, selon CNBC. La capitalisation boursière de l'entreprise a atteint environ 3300 milliards de yuans, dépassant celle de l'ICBC, portée par la demande de puces liées à l'intelligence artificielle.",
+      "en": "Shares of Chinese memory-chip maker ChangXin Memory Technologies (CXMT) surged about 466% on their Shanghai Stock Exchange debut on July 27, following an $8.6 billion IPO — the largest ever for a mainland Chinese semiconductor maker, according to CNBC. The company's market capitalization reached roughly 3.3 trillion yuan, surpassing ICBC, driven by demand for AI-related chips.",
+      "es": "Las acciones del fabricante chino de chips de memoria ChangXin Memory Technologies (CXMT) se dispararon un 466 % aproximadamente en su debut en la Bolsa de Shanghái el 27 de julio, tras una salida a bolsa de 8.600 millones de dólares, la mayor realizada por un fabricante chino de semiconductores, según CNBC. La capitalización bursátil de la empresa alcanzó unos 3,3 billones de yuanes, superando al ICBC, impulsada por la demanda de chips relacionados con la inteligencia artificial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "CXMT fait ses débuts à la Bourse de Shanghai avec un bond d'environ 466 %.",
+          "en": "CXMT makes its Shanghai stock market debut, surging about 466%.",
+          "es": "CXMT debuta en la Bolsa de Shanghái con una subida de alrededor del 466 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "japon-canicule-catastrophe",
+    "coords": [
+      136.92,
+      35.53
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Agence japonaise de gestion des incendies et des catastrophes / The Japan Times / Xinhua",
+    "place": {
+      "fr": "Mino, préfecture de Gifu, Japon",
+      "en": "Mino, Gifu Prefecture, Japan",
+      "es": "Mino, prefectura de Gifu, Japón"
+    },
+    "title": {
+      "fr": "Le Japon connaît sa plus longue série de journées à plus de 40°C, une « catastrophe » selon les autorités",
+      "en": "Japan hits its longest-ever streak of 40°C+ days, declared a 'disaster' by authorities",
+      "es": "Japón registra su racha más larga de días con más de 40°C, declarada «catástrofe» por las autoridades"
+    },
+    "summary": {
+      "fr": "Le Japon a enregistré une cinquième journée consécutive à plus de 40°C les 25 et 26 juillet, un record, avec un pic de 40,8°C à Mino, dans la préfecture de Gifu, selon l'Agence japonaise de gestion des incendies et des catastrophes. Celle-ci a qualifié l'épisode de « catastrophe », faisant état d'au moins 14 décès et de plus de 10 000 transports en ambulance pour des malaises liés à la chaleur sur une semaine, les hospitalisations continuant d'augmenter.",
+      "en": "Japan recorded a record fifth consecutive day above 40°C on July 25-26, with a peak of 40.8°C in Mino, Gifu Prefecture, according to Japan's Fire and Disaster Management Agency. The agency labeled the heat wave a 'disaster,' citing at least 14 deaths and more than 10,000 ambulance transports for heat-related illness in a single week, with hospitalizations continuing to rise.",
+      "es": "Japón registró un quinto día consecutivo récord con más de 40°C los días 25 y 26 de julio, con un máximo de 40,8°C en Mino, prefectura de Gifu, según la Agencia japonesa de gestión de incendios y catástrofes. La agencia calificó la ola de calor de «catástrofe», citando al menos 14 muertes y más de 10.000 traslados en ambulancia por enfermedades relacionadas con el calor en una sola semana, con hospitalizaciones que siguen aumentando."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Le Japon atteint un cinquième jour consécutif à plus de 40°C, un record ; l'épisode est qualifié de catastrophe.",
+          "en": "Japan reaches a record fifth consecutive day above 40°C; the heat wave is declared a disaster.",
+          "es": "Japón alcanza un quinto día consecutivo récord con más de 40°C; la ola de calor es declarada catástrofe."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "bresil-rio-grande-sul-inondations",
+    "coords": [
+      -51.9639,
+      -29.4669
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Inmet / Brasil 247 / Climatempo",
+    "place": {
+      "fr": "Vale do Taquari, Rio Grande do Sul, Brésil",
+      "en": "Vale do Taquari, Rio Grande do Sul, Brazil",
+      "es": "Vale do Taquari, Rio Grande do Sul, Brasil"
+    },
+    "title": {
+      "fr": "Des inondations déplacent près de 1900 personnes dans le Rio Grande do Sul",
+      "en": "Flooding displaces nearly 1,900 people in Rio Grande do Sul",
+      "es": "Las inundaciones desplazan a casi 1900 personas en Rio Grande do Sul"
+    },
+    "summary": {
+      "fr": "L'institut météorologique brésilien Inmet a placé le Rio Grande do Sul en alerte rouge après des pluies intenses ayant fait déborder les rivières Taquari et Lajeado, selon Brasil 247 et Climatempo. Environ 1880 personnes ont été déplacées et plus de 140 communes touchées par des inondations, glissements de terrain et grêle ; aucun décès n'a été signalé à ce stade, mais de nouvelles fortes pluies sont attendues jusqu'à début août.",
+      "en": "Brazil's Inmet weather institute placed Rio Grande do Sul under a red alert after intense rains caused the Taquari and Lajeado rivers to overflow, according to Brasil 247 and Climatempo. About 1,880 people have been displaced and more than 140 municipalities affected by flooding, landslides and hail; no deaths have been reported so far, but further heavy rain is expected through early August.",
+      "es": "El instituto meteorológico brasileño Inmet colocó a Rio Grande do Sul en alerta roja tras lluvias intensas que hicieron desbordar los ríos Taquari y Lajeado, según Brasil 247 y Climatempo. Unas 1880 personas fueron desplazadas y más de 140 municipios resultaron afectados por inundaciones, deslizamientos de tierra y granizo; no se han reportado muertes hasta el momento, aunque se esperan más lluvias intensas hasta principios de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "L'Inmet maintient l'alerte rouge dans le Rio Grande do Sul ; environ 1880 personnes déplacées.",
+          "en": "Inmet maintains the red alert in Rio Grande do Sul; about 1,880 people displaced.",
+          "es": "El Inmet mantiene la alerta roja en Rio Grande do Sul; unas 1880 personas desplazadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "bresil-surtaxe-americaine",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Agência Brasil / Ministère brésilien du Développement, de l'Industrie et du Commerce",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Une nouvelle surtaxe américaine porte à 37,5 % les droits de douane sur des exportations brésiliennes",
+      "en": "New US surtax brings tariffs on Brazilian exports to 37.5%",
+      "es": "Una nueva sobretasa estadounidense eleva al 37,5 % los aranceles sobre exportaciones brasileñas"
+    },
+    "summary": {
+      "fr": "Le ministère brésilien du Développement, de l'Industrie et du Commerce a confirmé fin juillet qu'une nouvelle surtaxe américaine de 12,5 %, s'ajoutant à un droit de douane existant de 25 %, porte à 37,5 % les taxes sur environ 6,6 milliards de dollars d'exportations brésiliennes (machines, bois, chaussures, meubles, textile), selon Agência Brasil. Les exportations brésiliennes vers les États-Unis ont reculé de 13 % au premier semestre 2026 par rapport à l'an dernier.",
+      "en": "Brazil's Ministry of Development, Industry, Trade and Services confirmed in late July that a new 12.5% US surtax, added to an existing 25% tariff, brings taxes to 37.5% on about $6.6 billion of Brazilian exports (machinery, wood, footwear, furniture, textiles), according to Agência Brasil. Brazilian exports to the United States fell 13% in the first half of 2026 compared with a year earlier.",
+      "es": "El Ministerio brasileño de Desarrollo, Industria y Comercio confirmó a finales de julio que una nueva sobretasa estadounidense del 12,5 %, sumada a un arancel existente del 25 %, eleva al 37,5 % los impuestos sobre unos 6600 millones de dólares de exportaciones brasileñas (maquinaria, madera, calzado, muebles, textiles), según Agência Brasil. Las exportaciones brasileñas a Estados Unidos cayeron un 13 % en el primer semestre de 2026 respecto al año anterior."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Le ministère brésilien du Commerce confirme la nouvelle surtaxe américaine de 37,5 % sur certaines exportations.",
+          "en": "Brazil's trade ministry confirms the new 37.5% US surtax on certain exports.",
+          "es": "El ministerio de Comercio brasileño confirma la nueva sobretasa estadounidense del 37,5 % sobre ciertas exportaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-kyiv-frappe-salon-defense",
+    "coords": [
+      30.2286,
+      50.5378
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Post / Ukrainska Pravda / Ministère russe de la Défense",
+    "place": {
+      "fr": "District de Boutcha, région de Kiev, Ukraine",
+      "en": "Bucha district, Kyiv Oblast, Ukraine",
+      "es": "Distrito de Bucha, óblast de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Un missile russe frappe un salon de l'armement près de Kiev, au moins 10 morts",
+      "en": "Russian missile strikes arms exhibition near Kyiv, killing at least 10",
+      "es": "Un misil ruso golpea una feria de armamento cerca de Kiev y deja al menos 10 muertos"
+    },
+    "summary": {
+      "fr": "Un missile balistique russe a frappé le 24 juillet un terrain d'entraînement privé du district de Boutcha, dans la région de Kiev, où se tenait un salon de l'armement et des drones, selon le procureur général ukrainien Ruslan Kravtchenko. Il fait état d'au moins 10 morts et une centaine de blessés. Le ministère russe de la Défense a confirmé avoir visé délibérément cet événement, qu'il présente comme une démonstration de drones ukrainiens et étrangers.",
+      "en": "A Russian ballistic missile struck a private training ground in Kyiv region's Bucha district on July 24, where a defense and drone industry exhibition was being held, according to Ukrainian Prosecutor General Ruslan Kravchenko, who reported at least 10 dead and around 100 wounded. Russia's Ministry of Defense confirmed it had deliberately targeted the event, describing it as a showcase of Ukrainian and foreign-made drones.",
+      "es": "Un misil balístico ruso impactó el 24 de julio en un campo de entrenamiento privado del distrito de Bucha, en la región de Kiev, donde se celebraba una feria de la industria de defensa y drones, según el fiscal general ucraniano Ruslán Kravchenko, quien informó de al menos 10 muertos y un centenar de heridos. El Ministerio de Defensa ruso confirmó haber apuntado deliberadamente a ese evento, al que describió como una muestra de drones ucranianos y extranjeros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Un missile russe frappe un salon de l'armement près de Kiev ; le procureur général fait état d'au moins 10 morts.",
+          "en": "A Russian missile strikes an arms exhibition near Kyiv; the prosecutor general reports at least 10 dead.",
+          "es": "Un misil ruso golpea una feria de armamento cerca de Kiev; el fiscal general informa de al menos 10 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-tchernihiv-frappe-supermarche",
+    "coords": [
+      31.2893,
+      51.4982
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / The Moscow Times",
+    "place": {
+      "fr": "Tchernihiv, Ukraine",
+      "en": "Chernihiv, Ukraine",
+      "es": "Chernihiv, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe sur un supermarché à Tchernihiv tue une fillette de 9 ans",
+      "en": "Russian drone strike on Chernihiv supermarket kills 9-year-old girl",
+      "es": "Un ataque con drones ruso contra un supermercado en Chernihiv mata a una niña de 9 años"
+    },
+    "summary": {
+      "fr": "Un drone russe a frappé le 26 juillet en pleine journée un supermarché très fréquenté de Tchernihiv, ainsi qu'un garage automobile et un entrepôt voisins, selon le Kyiv Independent. Les autorités ukrainiennes font état de 2 morts, dont une fillette de 9 ans, et d'environ 25 blessés. Le président Zelensky a qualifié la frappe d'acte délibéré visant des civils, sans justification militaire ; la Russie n'a pas communiqué de version distincte de cet événement précis.",
+      "en": "A Russian drone struck a busy supermarket in Chernihiv during daytime on July 26, along with a nearby car garage and warehouse, according to the Kyiv Independent. Ukrainian authorities reported 2 deaths, including a 9-year-old girl, and around 25 wounded. President Zelensky described the strike as a deliberate act against civilians with no military justification; Russia has not issued a separate account of this specific strike.",
+      "es": "Un dron ruso golpeó en pleno día un concurrido supermercado en Chernihiv el 26 de julio, además de un taller mecánico y un almacén cercanos, según Kyiv Independent. Las autoridades ucranianas informaron de 2 muertos, entre ellos una niña de 9 años, y unos 25 heridos. El presidente Zelenski calificó el ataque de acto deliberado contra civiles sin justificación militar; Rusia no ha ofrecido una versión propia sobre este ataque en concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drone russe sur un supermarché de Tchernihiv fait 2 morts, dont une enfant, selon les autorités ukrainiennes.",
+          "en": "A Russian drone strike on a Chernihiv supermarket kills 2, including a child, according to Ukrainian authorities.",
+          "es": "Un ataque con drones ruso contra un supermercado de Chernihiv deja 2 muertos, entre ellos una niña, según las autoridades ucranianas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-kebbi-juge-enleve",
+    "coords": [
+      4.0108,
+      12.0916
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Premium Times / Daily Trust / Punch",
+    "place": {
+      "fr": "Bunza, État de Kebbi, Nigeria",
+      "en": "Bunza, Kebbi State, Nigeria",
+      "es": "Bunza, estado de Kebbi, Nigeria"
+    },
+    "title": {
+      "fr": "Un juge de la Haute Cour est enlevé par des hommes armés dans l'État de Kebbi",
+      "en": "High Court judge abducted by gunmen in Kebbi State",
+      "es": "Un juez del Tribunal Superior es secuestrado por hombres armados en el estado de Kebbi"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont enlevé dans la nuit du 25 au 26 juillet le juge Faruku Hassan Bunza, de la Haute Cour de l'État de Kebbi, à son domicile de Bunza, selon Premium Times et Daily Trust. La police de Kebbi a confirmé l'enlèvement et déployé des unités pour le rechercher ; l'Association du barreau nigérian a condamné l'enlèvement et exigé sa libération. Une demande de rançon a été évoquée par plusieurs sources mais n'a pas été officiellement confirmée par la police.",
+      "en": "Armed men abducted High Court Judge Faruku Hassan Bunza from his residence in Bunza, Kebbi State, during the night of July 25-26, according to Premium Times and Daily Trust. Kebbi police confirmed the abduction and deployed units to search for him; the Nigerian Bar Association condemned the abduction and demanded his release. A ransom demand has been reported by several sources but has not been officially confirmed by police.",
+      "es": "Hombres armados secuestraron al juez del Tribunal Superior Faruku Hassan Bunza en su residencia de Bunza, estado de Kebbi, durante la noche del 25 al 26 de julio, según Premium Times y Daily Trust. La policía de Kebbi confirmó el secuestro y desplegó unidades para buscarlo; la Asociación de Abogados de Nigeria condenó el secuestro y exigió su liberación. Varias fuentes mencionan una demanda de rescate, aunque no ha sido confirmada oficialmente por la policía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "La police de Kebbi confirme l'enlèvement du juge Faruku Hassan Bunza et lance des recherches.",
+          "en": "Kebbi police confirm the abduction of Judge Faruku Hassan Bunza and launch a search.",
+          "es": "La policía de Kebbi confirma el secuestro del juez Faruku Hassan Bunza e inicia una búsqueda."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 3
   }
 ]
