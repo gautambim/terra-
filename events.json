@@ -829,5 +829,974 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -122.349,
+      47.621
+    ],
+    "id": "seattle-fusillade-festival",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / CBS News",
+    "place": {
+      "fr": "Seattle Center (festival Bite of Seattle), Washington, États-Unis",
+      "en": "Seattle Center (Bite of Seattle festival), Washington, United States",
+      "es": "Seattle Center (festival Bite of Seattle), Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade lors du festival « Bite of Seattle » fait trois morts",
+      "en": "Shooting at the 'Bite of Seattle' festival leaves three dead",
+      "es": "Un tiroteo en el festival «Bite of Seattle» deja tres muertos"
+    },
+    "summary": {
+      "fr": "Une fusillade a éclaté dimanche 26 juillet vers 18h au Seattle Center, lors du festival gastronomique « Bite of Seattle », faisant trois morts et au moins quatre blessés, dont un garçon de 2 ans. Le bureau du médecin légiste du comté de King a identifié les victimes comme Carlos Israel Sanchez Villalba, 44 ans, Ashley Whitehead, 56 ans, et Junior Cee Niko Semo, 19 ans. Selon la police de Seattle, deux suspects semblent s'être tirés dessus mutuellement ; l'un d'eux a été tué et un adolescent de 15 ans a été arrêté, tandis qu'un troisième suspect reste recherché.",
+      "en": "A shooting broke out on Sunday, July 26 around 6 p.m. at Seattle Center during the 'Bite of Seattle' food festival, killing three people and wounding at least four others, including a 2-year-old boy. The King County Medical Examiner's Office identified the dead as Carlos Israel Sanchez Villalba, 44, Ashley Whitehead, 56, and Junior Cee Niko Semo, 19. Seattle police say two suspects appear to have fired at each other; one was killed and a 15-year-old was arrested, while a third suspect remains at large.",
+      "es": "Un tiroteo estalló el domingo 26 de julio hacia las 18h en el Seattle Center, durante el festival gastronómico «Bite of Seattle», dejando tres muertos y al menos cuatro heridos, entre ellos un niño de 2 años. La oficina del médico forense del condado de King identificó a las víctimas como Carlos Israel Sánchez Villalba, 44 años, Ashley Whitehead, 56 años, y Junior Cee Niko Semo, 19 años. Según la policía de Seattle, dos sospechosos parecen haberse disparado mutuamente; uno de ellos murió y un adolescente de 15 años fue arrestado, mientras que un tercer sospechoso sigue en búsqueda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026 — vers 18h",
+          "en": "July 26, 2026 — around 6 p.m.",
+          "es": "26/07/2026 — hacia las 18h"
+        },
+        "d": {
+          "fr": "CNN, CBS News et la police de Seattle confirment trois morts et au moins quatre blessés lors d'une fusillade au festival « Bite of Seattle ».",
+          "en": "CNN, CBS News and Seattle police confirm three dead and at least four wounded in a shooting at the 'Bite of Seattle' festival.",
+          "es": "CNN, CBS News y la policía de Seattle confirman tres muertos y al menos cuatro heridos en un tiroteo durante el festival «Bite of Seattle»."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.037,
+      38.907
+    ],
+    "id": "fed-taux-inchanges",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💵",
+    "source": "Federal Reserve / CNBC",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Réserve fédérale américaine maintient ses taux inchangés pour la cinquième fois consécutive",
+      "en": "The US Federal Reserve holds interest rates steady for a fifth consecutive meeting",
+      "es": "La Reserva Federal de EE. UU. mantiene sus tasas sin cambios por quinta vez consecutiva"
+    },
+    "summary": {
+      "fr": "Le Comité fédéral de l'open market (FOMC) a maintenu son taux directeur entre 3,50 % et 3,75 % à l'issue de sa réunion du 29 juillet, une cinquième décision de statu quo d'affilée. Le président de la Fed, Kevin Warsh, a évoqué une pression inflationniste ravivée par la hausse des prix pétroliers liée aux tensions au Moyen-Orient et par de nouveaux droits de douane. L'indice des prix à la consommation avait progressé de 4,2 % sur un an en juin, sa plus forte hausse annuelle depuis avril 2023.",
+      "en": "The Federal Open Market Committee kept its benchmark rate at 3.50%-3.75% following its meeting on July 29, the fifth straight decision to hold steady. Fed Chair Kevin Warsh pointed to renewed inflationary pressure driven by rising oil prices tied to Middle East tensions and new tariffs. The Consumer Price Index had risen 4.2% year-over-year in June, its largest annual increase since April 2023.",
+      "es": "El Comité Federal de Mercado Abierto (FOMC) mantuvo su tasa de referencia entre el 3,50 % y el 3,75 % tras su reunión del 29 de julio, la quinta decisión consecutiva de mantener el statu quo. El presidente de la Fed, Kevin Warsh, señaló una presión inflacionaria reavivada por la subida de los precios del petróleo vinculada a las tensiones en Oriente Medio y a nuevos aranceles. El índice de precios al consumo había subido un 4,2 % interanual en junio, su mayor incremento anual desde abril de 2023."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "July 29, 2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "La Réserve fédérale annonce le maintien de son taux directeur, sans changement pour la cinquième réunion consécutive.",
+          "en": "The Federal Reserve announces it is holding its benchmark rate steady, unchanged for a fifth consecutive meeting.",
+          "es": "La Reserva Federal anuncia el mantenimiento de su tasa de referencia, sin cambios por quinta reunión consecutiva."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -79.383,
+      43.653
+    ],
+    "id": "toronto-consulat-tirs",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CBC News",
+    "place": {
+      "fr": "Consulat des États-Unis, centre-ville de Toronto, Canada",
+      "en": "U.S. Consulate, downtown Toronto, Canada",
+      "es": "Consulado de EE. UU., centro de Toronto, Canadá"
+    },
+    "title": {
+      "fr": "Des coups de feu visent à nouveau le consulat américain à Toronto",
+      "en": "Gunfire hits the U.S. Consulate in Toronto for the second time this year",
+      "es": "Disparos vuelven a alcanzar el consulado de EE. UU. en Toronto"
+    },
+    "summary": {
+      "fr": "Au moins un coup de feu a été tiré dans la nuit du 27 juillet, vers 4h46, contre le consulat des États-Unis dans le centre-ville de Toronto, selon la police torontoise. Des agents de sécurité ont entendu la détonation ; une douille a été retrouvée et des dégâts constatés sur la façade. Une berline blanche sans plaque d'immatriculation a été vue quittant les lieux ; aucun blessé n'a été signalé. Il s'agit du deuxième incident de ce type visant le consulat cette année, après un premier tir le 10 mars.",
+      "en": "At least one shot was fired in the early hours of July 27, around 4:46 a.m., at the U.S. Consulate in downtown Toronto, according to Toronto police. Security staff heard the gunshot; a shell casing was recovered and damage was found on the building's facade. A white sedan without a license plate was seen leaving the scene; no injuries were reported. This is the second such incident targeting the consulate this year, after an earlier shooting on March 10.",
+      "es": "Al menos un disparo se produjo en la madrugada del 27 de julio, hacia las 4:46, contra el consulado de Estados Unidos en el centro de Toronto, según la policía local. El personal de seguridad escuchó la detonación; se halló un casquillo y daños en la fachada del edificio. Un sedán blanco sin matrícula fue visto alejándose del lugar; no se reportaron heridos. Es el segundo incidente de este tipo contra el consulado este año, tras un primer disparo el 10 de marzo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026, 4h46",
+          "en": "July 27, 2026, 4:46 a.m.",
+          "es": "27/07/2026, 4:46"
+        },
+        "d": {
+          "fr": "La police de Toronto confirme un tir contre le consulat des États-Unis ; aucun blessé n'est signalé.",
+          "en": "Toronto police confirm a shot was fired at the U.S. Consulate; no injuries reported.",
+          "es": "La policía de Toronto confirma un disparo contra el consulado de Estados Unidos; no se reportan heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -97.838,
+      22.278
+    ],
+    "id": "madero-dafne-zapata",
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "El Financiero / Nación321",
+    "place": {
+      "fr": "Ciudad Madero, État de Tamaulipas, Mexique",
+      "en": "Ciudad Madero, Tamaulipas, Mexico",
+      "es": "Ciudad Madero, Tamaulipas, México"
+    },
+    "title": {
+      "fr": "Le directeur d'une académie militarisée arrêté après la mort d'une adolescente de 13 ans",
+      "en": "Director of a militarized academy arrested after the death of a 13-year-old girl",
+      "es": "Detienen al director de una academia militarizada tras la muerte de una adolescente de 13 años"
+    },
+    "summary": {
+      "fr": "Jorge Luis Ponce Ortega, directeur de l'Academia Militarizada Marina Doenitz à Ciudad Madero, a été arrêté le 26 juillet, devenant la deuxième personne interpellée dans l'enquête sur la mort de Dafne Zapata Quintos, 13 ans. L'adolescente est morte le 16 juillet pendant un stage d'été organisé par cet établissement ; l'autopsie officielle a conclu à une mort par noyade, avec des ecchymoses, une lèvre fendue et le nez fracturé. Deux femmes liées à l'académie ont également été arrêtées. Le parquet de Tamaulipas instruit l'affaire sous le protocole féminicide et l'enquête se poursuit.",
+      "en": "Jorge Luis Ponce Ortega, director of the Academia Militarizada Marina Doenitz in Ciudad Madero, was arrested on July 26, becoming the second person detained in the investigation into the death of 13-year-old Dafne Zapata Quintos. The teenager died on July 16 during a summer course run by the academy; the official autopsy attributed the death to drowning and noted bruising, a split lip and a broken nose. Two women linked to the academy were also arrested. The Tamaulipas prosecutor's office is handling the case under its femicide protocol, and the investigation continues.",
+      "es": "Jorge Luis Ponce Ortega, director de la Academia Militarizada Marina Doenitz en Ciudad Madero, fue detenido el 26 de julio, convirtiéndose en la segunda persona arrestada en la investigación por la muerte de Dafne Zapata Quintos, de 13 años. La adolescente murió el 16 de julio durante un curso de verano organizado por ese plantel; la autopsia oficial determinó que la causa fue asfixia por sumersión, con moretones, el labio partido y la nariz fracturada. Dos mujeres vinculadas a la academia también fueron detenidas. La Fiscalía de Tamaulipas lleva el caso bajo el protocolo de feminicidio y la investigación continúa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "July 26, 2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Le parquet de Tamaulipas annonce l'arrestation du directeur de l'académie, deuxième suspect interpellé dans l'affaire.",
+          "en": "The Tamaulipas prosecutor's office announces the arrest of the academy's director, the second suspect detained in the case.",
+          "es": "La Fiscalía de Tamaulipas anuncia la detención del director de la academia, segundo sospechoso arrestado en el caso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      104.9,
+      35.13
+    ],
+    "id": "gansu-crue-subite",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Xinhua",
+    "place": {
+      "fr": "Zone touristique de Shuangshimen, comté de Weiyuan, ville de Dingxi, province du Gansu, Chine",
+      "en": "Shuangshimen scenic area, Weiyuan County, Dingxi City, Gansu Province, China",
+      "es": "Zona turística de Shuangshimen, condado de Weiyuan, ciudad de Dingxi, provincia de Gansu, China"
+    },
+    "title": {
+      "fr": "Une crue subite fait au moins 10 morts sur un site touristique du Gansu",
+      "en": "Flash flood kills at least 10 at a scenic area in Gansu",
+      "es": "Una crecida repentina deja al menos 10 muertos en una zona turística de Gansu"
+    },
+    "summary": {
+      "fr": "Une crue torrentielle provoquée par de fortes pluies a frappé le 26 juillet vers 13h40 le site touristique de Shuangshimen, dans le comté de Weiyuan (province du Gansu), tuant au moins 10 personnes et en blessant 23 autres. Une alerte pluie avait été émise environ trois heures plus tôt par les autorités météorologiques locales. Les secours ont indiqué avoir mis 174 personnes en sécurité sur ce site prisé pour son camping estival près de ses arches rocheuses. Cette inondation survient alors qu'une série d'alertes aux fortes pluies touchait le sud de la Chine après le passage du typhon Noul.",
+      "en": "A flash flood triggered by heavy rainfall struck the Shuangshimen scenic area in Weiyuan County, Gansu Province, around 1:40 p.m. on July 26, killing at least 10 people and injuring 23 others. Local meteorological authorities had issued a rain alert roughly three hours earlier. Rescuers said they brought 174 people to safety at the site, popular for summer camping near its rock arches. The flooding came amid a wave of heavy-rain alerts across southern China following Typhoon Noul.",
+      "es": "Una crecida repentina provocada por fuertes lluvias golpeó el 26 de julio hacia las 13:40 la zona turística de Shuangshimen, en el condado de Weiyuan (provincia de Gansu), matando al menos a 10 personas y dejando 23 heridos. Las autoridades meteorológicas locales habían emitido una alerta de lluvia unas tres horas antes. Los equipos de rescate indicaron haber puesto a salvo a 174 personas en este lugar, popular por su camping de verano cerca de sus arcos rocosos. La inundación se produjo en medio de una ola de alertas por fuertes lluvias en el sur de China tras el paso del tifón Noul."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026, vers 13h40",
+          "en": "July 26, 2026, around 1:40 p.m.",
+          "es": "26/07/2026, hacia las 13:40"
+        },
+        "d": {
+          "fr": "L'agence Xinhua rapporte au moins 10 morts et 23 blessés après une crue subite à Shuangshimen ; 174 personnes secourues.",
+          "en": "Xinhua reports at least 10 dead and 23 injured after a flash flood at Shuangshimen; 174 people rescued.",
+          "es": "La agencia Xinhua informa de al menos 10 muertos y 23 heridos tras una crecida repentina en Shuangshimen; 174 personas rescatadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      121.47,
+      31.23
+    ],
+    "id": "cxmt-shanghai-ipo",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Bourse STAR Market, Shanghai, Chine",
+      "en": "STAR Market, Shanghai, China",
+      "es": "Bolsa STAR Market, Shanghái, China"
+    },
+    "title": {
+      "fr": "Le fabricant de puces CXMT bondit de plus de 460 % pour ses débuts en Bourse à Shanghai",
+      "en": "Chipmaker CXMT surges more than 460% on its Shanghai stock market debut",
+      "es": "El fabricante de chips CXMT se dispara más del 460 % en su debut bursátil en Shanghái"
+    },
+    "summary": {
+      "fr": "L'action de ChangXin Memory Technologies (CXMT), fabricant chinois de puces mémoire basé à Hefei, a bondi d'environ 466 % lors de ses débuts le 27 juillet sur le STAR Market de Shanghai, ouvrant à plus de 49 yuans contre un prix d'introduction de 8,66 yuans. L'introduction en Bourse a levé environ 57,9 milliards de yuans (8,6 milliards de dollars), la plus importante cotation en Chine continentale depuis celle d'Agricultural Bank of China en 2010. La capitalisation boursière de CXMT a brièvement atteint environ 3 300 milliards de yuans, faisant d'elle l'entreprise cotée la plus valorisée de Chine. Plusieurs analystes ont jugé cette valorisation spéculative compte tenu de la cyclicité du secteur et des restrictions américaines à l'exportation.",
+      "en": "Shares of ChangXin Memory Technologies (CXMT), a Hefei-based Chinese memory-chip maker, surged about 466% on their July 27 debut on Shanghai's STAR Market, opening above 49 yuan against an IPO price of 8.66 yuan. The listing raised roughly 57.9 billion yuan ($8.6 billion), the largest mainland China IPO since Agricultural Bank of China's in 2010. CXMT's market capitalization briefly reached about 3.3 trillion yuan, making it China's most valuable listed company. Several analysts called the valuation speculative given the industry's cyclical nature and U.S. export restrictions.",
+      "es": "Las acciones de ChangXin Memory Technologies (CXMT), fabricante chino de chips de memoria con sede en Hefei, se dispararon un 466 % aproximadamente en su debut el 27 de julio en el STAR Market de Shanghái, abriendo por encima de 49 yuanes frente a un precio de salida de 8,66 yuanes. La oferta recaudó unos 57 900 millones de yuanes (8600 millones de dólares), la mayor salida a bolsa en China continental desde la de Agricultural Bank of China en 2010. La capitalización bursátil de CXMT alcanzó brevemente unos 3,3 billones de yuanes, convirtiéndola en la empresa cotizada más valiosa de China. Varios analistas calificaron la valoración de especulativa dada la naturaleza cíclica del sector y las restricciones estadounidenses a la exportación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "July 27, 2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "L'action CXMT clôture sa première séance en hausse de plus de 460 % sur le STAR Market de Shanghai.",
+          "en": "CXMT shares close their first session up more than 460% on Shanghai's STAR Market.",
+          "es": "Las acciones de CXMT cierran su primera sesión con una subida de más del 460 % en el STAR Market de Shanghái."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.71,
+      32.8
+    ],
+    "id": "kyushu-seisme",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "NHK",
+    "place": {
+      "fr": "Préfecture de Kumamoto, île de Kyushu, Japon",
+      "en": "Kumamoto Prefecture, Kyushu Island, Japan",
+      "es": "Prefectura de Kumamoto, isla de Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Un puissant séisme frappe le sud du Japon et fait au moins 13 morts",
+      "en": "Powerful earthquake strikes southern Japan, killing at least 13",
+      "es": "Un potente terremoto sacude el sur de Japón y deja al menos 13 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme d'une magnitude de 6,8 à 7,1 selon les instituts a frappé le 28 juillet vers 16h30 (heure locale) la préfecture de Kumamoto, sur l'île de Kyushu, avec un épicentre à environ 20 km au sud de la ville de Kumamoto. Le Premier ministre japonais, Sanae Takaichi, a annoncé le 29 juillet au moins 13 morts confirmés, un centre commercial partiellement effondré ayant fait au moins deux victimes et neuf personnes portées disparues dans une usine du groupe Nippon Paper à Yatsushiro. Une alerte au tsunami d'environ un mètre a été émise puis levée ; environ 37 000 foyers ont été privés d'électricité. Aucune anomalie n'a été signalée dans les centrales nucléaires voisines.",
+      "en": "An earthquake measured at magnitude 6.8 to 7.1 depending on the institute struck Kumamoto Prefecture on Kyushu Island around 4:30 p.m. local time on July 28, with an epicenter roughly 20 km south of Kumamoto City. Japanese Prime Minister Sanae Takaichi announced on July 29 that at least 13 deaths had been confirmed, with a partially collapsed shopping mall the site of at least two deaths and nine people reported missing at a Nippon Paper factory in Yatsushiro. A tsunami warning of about one meter was issued and later lifted; roughly 37,000 households lost power. No irregularities were reported at nearby nuclear plants.",
+      "es": "Un terremoto de magnitud entre 6,8 y 7,1 según los institutos sacudió la prefectura de Kumamoto, en la isla de Kyushu, hacia las 16:30 hora local del 28 de julio, con epicentro a unos 20 km al sur de la ciudad de Kumamoto. El primer ministro japonés, Sanae Takaichi, anunció el 29 de julio al menos 13 muertos confirmados, con un centro comercial parcialmente derrumbado donde se registraron al menos dos víctimas y nueve personas desaparecidas en una fábrica de Nippon Paper en Yatsushiro. Se emitió una alerta de tsunami de aproximadamente un metro que después fue levantada; unos 37 000 hogares se quedaron sin electricidad. No se reportaron anomalías en las centrales nucleares cercanas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026, vers 16h30",
+          "en": "July 28, 2026, around 4:30 p.m.",
+          "es": "28/07/2026, hacia las 16:30"
+        },
+        "d": {
+          "fr": "La NHK rapporte un puissant séisme au large de Kyushu ; une alerte au tsunami est émise pour la préfecture de Kumamoto.",
+          "en": "NHK reports a powerful earthquake off Kyushu; a tsunami warning is issued for Kumamoto Prefecture.",
+          "es": "NHK informa de un potente terremoto frente a Kyushu; se emite una alerta de tsunami para la prefectura de Kumamoto."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "July 29, 2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Le Premier ministre Sanae Takaichi annonce un bilan d'au moins 13 morts et neuf personnes toujours portées disparues.",
+          "en": "Prime Minister Sanae Takaichi announces a death toll of at least 13, with nine people still missing.",
+          "es": "El primer ministro Sanae Takaichi anuncia un balance de al menos 13 muertos y nueve personas aún desaparecidas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      126.92,
+      37.52
+    ],
+    "id": "kospi-krach",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Korea Herald",
+    "place": {
+      "fr": "Bourse de Séoul (Korea Exchange), Corée du Sud",
+      "en": "Korea Exchange, Seoul, South Korea",
+      "es": "Bolsa de Seúl (Korea Exchange), Corea del Sur"
+    },
+    "title": {
+      "fr": "L'indice sud-coréen KOSPI s'effondre de près de 13 % en deux séances",
+      "en": "South Korea's KOSPI index plunges nearly 13% over two sessions",
+      "es": "El índice surcoreano KOSPI se desploma casi un 13 % en dos sesiones"
+    },
+    "summary": {
+      "fr": "L'indice KOSPI a chuté de 10,8 % le 28 juillet, à son plus bas niveau depuis avril, avant de plonger de près de 13 % supplémentaires le 29 juillet, déclenchant un coupe-circuit boursier pour la deuxième journée consécutive. La chute est attribuée par plusieurs médias à des craintes liées à la concurrence mondiale dans les semi-conducteurs, notamment des progrès rapportés de la Chine dans les équipements de lithographie, dans le sillage de l'envolée en Bourse du fabricant chinois CXMT. Samsung Electronics et SK Hynix comptent parmi les valeurs les plus touchées. Sur le mois de juillet, l'indice perd environ 23 %, effaçant selon les estimations près de 250 000 milliards de wons de capitalisation.",
+      "en": "The KOSPI index fell 10.8% on July 28, its lowest close since April, before plunging nearly 13% further on July 29, triggering a market-wide circuit breaker for a second straight day. Multiple outlets attribute the drop to fears over intensifying global semiconductor competition, including reported Chinese progress in lithography equipment, following the blockbuster Shanghai listing of Chinese chipmaker CXMT. Samsung Electronics and SK Hynix are among the hardest-hit stocks. Over the month of July, the index has lost roughly 23%, wiping out an estimated 250 trillion won in value.",
+      "es": "El índice KOSPI cayó un 10,8 % el 28 de julio, su cierre más bajo desde abril, antes de desplomarse casi un 13 % adicional el 29 de julio, activando un cortacircuitos bursátil por segundo día consecutivo. Varios medios atribuyen la caída a temores por la creciente competencia global en semiconductores, incluidos avances reportados de China en equipos de litografía, tras la espectacular salida a bolsa en Shanghái del fabricante chino CXMT. Samsung Electronics y SK Hynix figuran entre los valores más afectados. En el mes de julio, el índice pierde alrededor de un 23 %, borrando según estimaciones cerca de 250 billones de wones en valor."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "July 28, 2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Le KOSPI clôture en baisse de 10,8 %, à son plus bas niveau depuis avril.",
+          "en": "The KOSPI closes down 10.8%, its lowest level since April.",
+          "es": "El KOSPI cierra con una caída del 10,8 %, su nivel más bajo desde abril."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "July 29, 2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "L'indice plonge de près de 13 % supplémentaires, déclenchant un coupe-circuit pour la deuxième journée consécutive.",
+          "en": "The index plunges nearly 13% further, triggering a circuit breaker for a second straight day.",
+          "es": "El índice se desploma casi un 13 % adicional, activando un cortacircuitos por segundo día consecutivo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2,
+    "related": [
+      "cxmt-shanghai-ipo"
+    ]
+  },
+  {
+    "coords": [
+      88.4,
+      27.13
+    ],
+    "id": "sikkim-tunnel-drame",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚧",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Chantier hydroélectrique de Teesta VI, village de Samardung, Sikkim du Sud, Inde",
+      "en": "Teesta Stage VI hydropower project site, Samardung village, South Sikkim, India",
+      "es": "Obra hidroeléctrica de Teesta VI, aldea de Samardung, Sikkim del Sur, India"
+    },
+    "title": {
+      "fr": "Le bilan de la catastrophe du tunnel hydroélectrique du Sikkim atteint 25 morts",
+      "en": "Death toll from Sikkim hydropower tunnel disaster reaches 25",
+      "es": "El balance de la catástrofe en el túnel hidroeléctrico de Sikkim asciende a 25 muertos"
+    },
+    "summary": {
+      "fr": "Une explosion de gaz suivie d'un effondrement avait piégé une vingtaine d'ouvriers dans un tunnel en construction du projet hydroélectrique Teesta VI, près du village de Samardung, dans le Sikkim du Sud. Les opérations de secours, ralenties par de forts taux de méthane, ont permis de retrouver les derniers corps ; le gouvernement du Sikkim a confirmé le 23 juillet la fin des recherches avec un bilan de 25 morts. L'accident s'est produit sur un chantier géré par l'entreprise publique indienne NHPC.",
+      "en": "A gas explosion followed by a collapse had trapped around two dozen workers in a tunnel under construction at the Teesta Stage VI hydropower project, near Samardung village in South Sikkim. Rescue operations, slowed by high methane levels, recovered the last bodies, and the Sikkim state government confirmed on July 23 that the search had ended with a death toll of 25. The accident occurred at a site run by India's state-owned NHPC.",
+      "es": "Una explosión de gas seguida de un derrumbe había atrapado a una veintena de trabajadores en un túnel en construcción del proyecto hidroeléctrico Teesta VI, cerca de la aldea de Samardung, en Sikkim del Sur. Las operaciones de rescate, ralentizadas por altos niveles de metano, permitieron recuperar los últimos cuerpos; el gobierno de Sikkim confirmó el 23 de julio el fin de la búsqueda con un balance de 25 muertos. El accidente ocurrió en una obra gestionada por la empresa estatal india NHPC."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "July 23, 2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement du Sikkim confirme la fin des opérations de secours, avec un bilan final de 25 morts.",
+          "en": "The Sikkim government confirms the end of rescue operations, with a final death toll of 25.",
+          "es": "El gobierno de Sikkim confirma el fin de las operaciones de rescate, con un balance final de 25 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "id": "indonesie-gouverneur-bi-demission",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Le gouverneur de la banque centrale indonésienne démissionne deux ans avant la fin de son mandat",
+      "en": "Indonesia's central bank governor resigns two years before his term ends",
+      "es": "El gobernador del banco central de Indonesia dimite dos años antes de terminar su mandato"
+    },
+    "summary": {
+      "fr": "Perry Warjiyo, gouverneur de la Banque d'Indonésie depuis 2018, a démissionné pour des « raisons personnelles » selon l'annonce faite le 27 juillet par le secrétaire d'État Prasetyo Hadi. La vice-gouverneure principale Destry Damayanti assure l'intérim. La démission intervient près de deux ans avant la fin prévue de son mandat ; la roupie indonésienne, les actions et les obligations du pays ont reculé après l'annonce, certains analystes s'interrogeant sur l'indépendance de la banque centrale sous la présidence de Prabowo Subianto.",
+      "en": "Perry Warjiyo, governor of Bank Indonesia since 2018, resigned for stated 'personal reasons,' according to an announcement made on July 27 by State Secretary Prasetyo Hadi. Senior Deputy Governor Destry Damayanti is serving as acting governor. The resignation comes nearly two years before his term was due to end; Indonesia's rupiah, stocks and bonds fell following the announcement, with some analysts questioning the central bank's independence under President Prabowo Subianto.",
+      "es": "Perry Warjiyo, gobernador del Banco de Indonesia desde 2018, dimitió por «razones personales», según el anuncio hecho el 27 de julio por el secretario de Estado Prasetyo Hadi. La subgobernadora principal, Destry Damayanti, asume el cargo de forma interina. La dimisión se produce casi dos años antes de que concluyera su mandato; la rupia indonesia, las acciones y los bonos del país cayeron tras el anuncio, y algunos analistas cuestionaron la independencia del banco central bajo la presidencia de Prabowo Subianto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "July 27, 2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement annonce la démission du gouverneur de la banque centrale et la nomination d'une gouverneure par intérim.",
+          "en": "The government announces the central bank governor's resignation and the appointment of an acting governor.",
+          "es": "El gobierno anuncia la dimisión del gobernador del banco central y el nombramiento de una gobernadora interina."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      86.0833,
+      55.3331
+    ],
+    "id": "kemerovo-corruption",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Interfax",
+    "place": {
+      "fr": "Kemerovo, Russie",
+      "en": "Kemerovo, Russia",
+      "es": "Kémerovo, Rusia"
+    },
+    "title": {
+      "fr": "L'ex-ministre de la Santé du Kouzbass condamné à six ans et demi de prison pour corruption",
+      "en": "Former Kuzbass health minister sentenced to six and a half years for bribery",
+      "es": "El exministro de Salud de Kuzbás es condenado a seis años y medio de prisión por corrupción"
+    },
+    "summary": {
+      "fr": "Le tribunal du district central de Kemerovo a condamné le 24 juillet l'ancien ministre régional de la Santé du Kouzbass, Dmitri Beglov, à six ans et six mois de colonie pénitentiaire à régime sévère et à une amende de 25 millions de roubles. Les procureurs l'accusaient d'avoir perçu des pots-de-vin lors de onze épisodes distincts, entre janvier et juin 2025, en échange de la facilitation de marchés publics d'équipements médicaux. L'accusé ayant reconnu l'intégralité des faits, l'affaire a été jugée selon une procédure simplifiée.",
+      "en": "The Central District Court of Kemerovo sentenced former Kuzbass regional health minister Dmitry Beglov on July 24 to six years and six months in a strict-regime penal colony, plus a 25-million-ruble fine. Prosecutors accused him of taking bribes across 11 separate episodes between January and June 2025 in exchange for facilitating public contracts for medical equipment. Because the defendant admitted to all the facts, the case was tried under a simplified procedure.",
+      "es": "El Tribunal del Distrito Central de Kémerovo condenó el 24 de julio al exministro regional de Salud de Kuzbás, Dmitri Beglov, a seis años y seis meses en una colonia penal de régimen estricto, además de una multa de 25 millones de rublos. La fiscalía lo acusaba de haber recibido sobornos en once episodios distintos, entre enero y junio de 2025, a cambio de facilitar contratos públicos de equipamiento médico. Al haber reconocido el acusado la totalidad de los hechos, la causa se juzgó mediante un procedimiento simplificado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "July 24, 2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Kemerovo prononce une peine de six ans et demi de prison contre l'ex-ministre régional de la Santé.",
+          "en": "The Kemerovo court hands down a six-and-a-half-year prison sentence against the former regional health minister.",
+          "es": "El tribunal de Kémerovo dicta una condena de seis años y medio de prisión contra el exministro regional de Salud."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.2176,
+      50.5442
+    ],
+    "id": "kapitanivka-frappe-missile",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent",
+    "place": {
+      "fr": "Kapitanivka, district de Boutcha, oblast de Kyiv, Ukraine",
+      "en": "Kapitanivka, Bucha Raion, Kyiv Oblast, Ukraine",
+      "es": "Kapitanivka, distrito de Bucha, óblast de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de missile russe sur un site d'exposition d'armement près de Kyiv fait au moins 10 morts",
+      "en": "Russian missile strike on a defense exhibition near Kyiv kills at least 10",
+      "es": "Un ataque con misil ruso contra una exposición de armamento cerca de Kiev deja al menos 10 muertos"
+    },
+    "summary": {
+      "fr": "Un missile balistique russe a frappé le 24 juillet un terrain d'entraînement privé à Kapitanivka, dans le district de Boutcha, en oblast de Kyiv, où se tenait une exposition de matériel militaire et de drones organisée par l'association ukrainienne ARMADA, réunissant plus de 300 personnes dont des délégations étrangères. Au moins 10 personnes sont mortes et une centaine ont été blessées, parmi lesquelles des responsables des services de sécurité ukrainiens et un employé d'une entreprise polonaise de défense. Le ministère russe de la Défense a revendiqué la frappe, la qualifiant de cible militaire légitime, tandis que les autorités ukrainiennes l'ont qualifiée d'attaque contre des civils ; une enquête a par ailleurs été ouverte sur d'éventuelles négligences dans la sécurisation de l'événement.",
+      "en": "A Russian ballistic missile struck a private training ground in Kapitanivka, in the Bucha district of Kyiv Oblast, on July 24, where a defense and drone exhibition organized by Ukrainian association ARMADA was underway, drawing more than 300 people including foreign delegations. At least 10 people were killed and around 100 injured, including Ukrainian security service officials and an employee of a Polish defense firm. Russia's defense ministry claimed the strike, describing it as a legitimate military target, while Ukrainian authorities described it as an attack on civilians; an investigation was also opened into possible security lapses at the event.",
+      "es": "Un misil balístico ruso alcanzó el 24 de julio un campo de entrenamiento privado en Kapitanivka, en el distrito de Bucha, óblast de Kiev, donde se celebraba una exposición de material militar y drones organizada por la asociación ucraniana ARMADA, con más de 300 asistentes, incluidas delegaciones extranjeras. Al menos 10 personas murieron y un centenar resultaron heridas, entre ellas responsables de los servicios de seguridad ucranianos y un empleado de una empresa polaca de defensa. El Ministerio de Defensa ruso reivindicó el ataque, calificándolo de objetivo militar legítimo, mientras que las autoridades ucranianas lo calificaron de ataque contra civiles; también se abrió una investigación por posibles fallos de seguridad en el evento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "July 24, 2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de missile russe touche un site d'exposition militaire près de Kyiv ; au moins 10 morts et une centaine de blessés sont recensés.",
+          "en": "A Russian missile strike hits a defense exhibition site near Kyiv; at least 10 dead and around 100 injured are recorded.",
+          "es": "Un ataque con misil ruso alcanza un recinto de exposición militar cerca de Kiev; se registran al menos 10 muertos y un centenar de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2,
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "coords": [
+      13.3501,
+      52.5145
+    ],
+    "id": "berlin-attaque-pride",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "NPR / Al Jazeera",
+    "place": {
+      "fr": "Parc du Tiergarten, Berlin, Allemagne",
+      "en": "Tiergarten park, Berlin, Germany",
+      "es": "Parque Tiergarten, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une attaque à la voiture-bélier et à la machette près de la Marche des fiertés de Berlin fait un mort",
+      "en": "Van and machete attack near Berlin's Pride march kills one",
+      "es": "Un ataque con furgoneta y machete cerca de la marcha del Orgullo de Berlín deja un muerto"
+    },
+    "summary": {
+      "fr": "Le 25 juillet au soir, un homme de 21 ans a foncé au volant d'une camionnette de location sur des piétons empruntant un chemin du Tiergarten, à proximité du parcours de la Marche des fiertés (Christopher Street Day) de Berlin, avant d'attaquer des passants à la machette après que le véhicule a percuté un arbre. Une femme de 65 ans a été tuée et 29 personnes ont été blessées, plusieurs grièvement. Le suspect, identifié comme Abdul Ballout, a été localisé et abattu par la police le lendemain lors d'une tentative d'interpellation. Le gouvernement allemand a annoncé vouloir renforcer la législation sur la sécurité en réaction à cette attaque.",
+      "en": "On the evening of July 25, a 21-year-old man drove a rented van into pedestrians on a path in Tiergarten park, near the route of Berlin's Christopher Street Day (Pride) march, before attacking bystanders with a machete after the vehicle struck a tree. A 65-year-old woman was killed and 29 people were injured, several critically. The suspect, identified as Abdul Ballout, was tracked down and shot dead by police the following day during an attempted arrest. The German government said it would seek tougher security legislation in response to the attack.",
+      "es": "En la tarde del 25 de julio, un hombre de 21 años condujo una furgoneta de alquiler contra peatones en un sendero del parque Tiergarten, cerca del recorrido de la marcha del Orgullo (Christopher Street Day) de Berlín, y después atacó a transeúntes con un machete tras chocar el vehículo contra un árbol. Una mujer de 65 años murió y 29 personas resultaron heridas, varias de gravedad. El sospechoso, identificado como Abdul Ballout, fue localizado y abatido por la policía al día siguiente durante un intento de detención. El gobierno alemán anunció que buscará endurecer la legislación de seguridad en respuesta al ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "July 25, 2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Un homme fonce sur des piétons près du Tiergarten puis attaque à la machette : une femme est tuée, 29 personnes blessées.",
+          "en": "A man drives into pedestrians near the Tiergarten then attacks with a machete: one woman is killed, 29 people injured.",
+          "es": "Un hombre embiste a peatones cerca del Tiergarten y luego ataca con un machete: una mujer muere y 29 personas resultan heridas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "July 26, 2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "La police abat le suspect lors d'une tentative d'interpellation.",
+          "en": "Police shoot the suspect dead during an attempted arrest.",
+          "es": "La policía abate al sospechoso durante un intento de detención."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.5792,
+      44.8378
+    ],
+    "id": "gironde-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "BBC News",
+    "place": {
+      "fr": "Département de la Gironde (péninsule du Cap-Ferret, Lacanau), France",
+      "en": "Gironde department (Cap Ferret peninsula, Lacanau), France",
+      "es": "Departamento de Gironda (península de Cap Ferret, Lacanau), Francia"
+    },
+    "title": {
+      "fr": "Des incendies obligent à évacuer jusqu'à 250 000 personnes en Gironde",
+      "en": "Wildfires force up to 250,000 evacuations in Gironde",
+      "es": "Incendios obligan a evacuar hasta 250 000 personas en Gironda"
+    },
+    "summary": {
+      "fr": "Des feux de forêt dans le département de la Gironde ont brûlé plus de 42 000 hectares et poussé entre 220 000 et 251 000 personnes à évacuer leur domicile fin juillet, dont la totalité des quelque 40 000 habitants de la péninsule du Cap-Ferret. Le président Emmanuel Macron a qualifié la situation de crise d'incendies « la plus grave » depuis la Seconde Guerre mondiale dans le pays. Environ 1 500 militaires ont été déployés, avec des avions A400M et des drones de surveillance, tandis que plusieurs pays de l'Union européenne ont fourni un appui aérien supplémentaire. Les autorités indiquent que le feu génère ses propres vents et éclairs localisés, compliquant sa maîtrise, alors qu'une quatrième vague de chaleur de l'été s'annonce dans la région.",
+      "en": "Wildfires in the Gironde department have burned more than 42,000 hectares and forced between 220,000 and 251,000 people from their homes in late July, including the full evacuation of roughly 40,000 residents of the Cap Ferret peninsula. President Emmanuel Macron described the situation as the country's 'most severe' wildfire crisis since World War II. About 1,500 military personnel have been deployed, along with A400M aircraft and surveillance drones, while several EU countries have provided additional aerial firefighting support. Authorities say the fire is generating its own localized winds and lightning, complicating containment, as a fourth summer heatwave approaches the region.",
+      "es": "Los incendios forestales en el departamento de Gironda han quemado más de 42 000 hectáreas y han obligado a evacuar entre 220 000 y 251 000 personas de sus hogares a finales de julio, incluida la evacuación total de los cerca de 40 000 residentes de la península de Cap Ferret. El presidente Emmanuel Macron calificó la situación como la crisis de incendios «más grave» del país desde la Segunda Guerra Mundial. Se han desplegado unos 1500 militares, junto con aviones A400M y drones de vigilancia, mientras varios países de la UE han aportado apoyo aéreo adicional. Las autoridades indican que el fuego genera sus propios vientos y rayos localizados, lo que complica su control, mientras se aproxima a la región una cuarta ola de calor del verano."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "July 28, 2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités font état de plus de 42 000 hectares brûlés et de jusqu'à 251 000 personnes évacuées en Gironde.",
+          "en": "Authorities report more than 42,000 hectares burned and up to 251,000 people evacuated in Gironde.",
+          "es": "Las autoridades informan de más de 42 000 hectáreas quemadas y hasta 251 000 personas evacuadas en Gironda."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1367,
+      51.4613
+    ],
+    "id": "clapham-poignardage",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Metropolitan Police / ITV News",
+    "place": {
+      "fr": "Tremadoc Road, Clapham, Londres, Royaume-Uni",
+      "en": "Tremadoc Road, Clapham, London, United Kingdom",
+      "es": "Tremadoc Road, Clapham, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Un homme tué et quatre autres blessés dans une attaque au couteau à Clapham",
+      "en": "One man killed and four others injured in a stabbing in Clapham",
+      "es": "Un hombre muere y otros cuatro resultan heridos en un ataque con arma blanca en Clapham"
+    },
+    "summary": {
+      "fr": "Un homme de 22 ans est mort à l'hôpital après avoir été poignardé vers 4h20 le 25 juillet sur Tremadoc Road, près de Clapham High Street, dans le sud de Londres, selon la police métropolitaine. Quatre autres hommes, âgés de 22 à 24 ans, se sont ensuite présentés à l'hôpital avec des blessures par arme blanche jugées non menaçantes pour leur vie. Six hommes ont été arrêtés pour suspicion de meurtre, dont deux interpellés directement à l'hôpital. Une enquête pour meurtre a été ouverte.",
+      "en": "A 22-year-old man died in hospital after being stabbed around 4:20 a.m. on July 25 on Tremadoc Road, near Clapham High Street in south London, according to the Metropolitan Police. Four other men, aged 22 to 24, subsequently arrived at hospital with stab wounds not believed to be life-threatening. Six men have been arrested on suspicion of murder, including two detained directly at the hospital. A murder investigation has been opened.",
+      "es": "Un hombre de 22 años murió en el hospital tras ser apuñalado hacia las 4:20 del 25 de julio en Tremadoc Road, cerca de Clapham High Street, en el sur de Londres, según la Policía Metropolitana. Otros cuatro hombres, de entre 22 y 24 años, llegaron después al hospital con heridas de arma blanca que no se consideran de riesgo vital. Seis hombres fueron detenidos por sospecha de asesinato, dos de ellos directamente en el hospital. Se ha abierto una investigación por asesinato."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026, 4h20",
+          "en": "July 25, 2026, 4:20 a.m.",
+          "es": "25/07/2026, 4:20"
+        },
+        "d": {
+          "fr": "La police métropolitaine confirme la mort d'un homme poignardé à Clapham et l'arrestation de six suspects.",
+          "en": "The Metropolitan Police confirm the death of a man stabbed in Clapham and the arrest of six suspects.",
+          "es": "La Policía Metropolitana confirma la muerte de un hombre apuñalado en Clapham y la detención de seis sospechosos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      6.9835,
+      45.1058
+    ],
+    "id": "susa-vallee-affrontements",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚧",
+    "source": "Governo.it / Il Sole 24 Ore",
+    "place": {
+      "fr": "Chantier du TGV Turin-Lyon, Chiomonte, vallée de Suse, Piémont, Italie",
+      "en": "Turin-Lyon high-speed rail site, Chiomonte, Susa Valley, Piedmont, Italy",
+      "es": "Obra del TAV Turín-Lyon, Chiomonte, valle de Susa, Piamonte, Italia"
+    },
+    "title": {
+      "fr": "Des affrontements sur le chantier du TGV Turin-Lyon font plus de 120 policiers blessés",
+      "en": "Clashes at the Turin-Lyon high-speed rail site injure more than 120 police officers",
+      "es": "Enfrentamientos en la obra del TAV Turín-Lyon dejan más de 120 policías heridos"
+    },
+    "summary": {
+      "fr": "Plusieurs milliers de personnes ont manifesté le 25 juillet dans la vallée de Suse (Piémont) contre la construction de la ligne à grande vitesse Turin-Lyon. Plusieurs centaines de manifestants vêtus de noir ont attaqué les forces de l'ordre postées près du chantier de Chiomonte avec des cocktails Molotov et des projectiles. Plus de 120 policiers ont été blessés et les autorités italiennes évaluent les dégâts à environ un million d'euros ; quatre personnes ont été arrêtées. La Première ministre Giorgia Meloni a qualifié les faits de « violence organisée et préméditée » et s'est rendue sur place le 27 juillet avec le ministre de l'Intérieur Matteo Piantedosi.",
+      "en": "Several thousand people protested on July 25 in Piedmont's Susa Valley against construction of the Turin-Lyon high-speed rail line. Several hundred black-clad demonstrators attacked police stationed near the Chiomonte construction site with petrol bombs and projectiles. More than 120 police officers were injured, and Italian authorities estimate damage at around one million euros; four people were arrested. Prime Minister Giorgia Meloni called it 'organized, premeditated violence' and visited the site on July 27 with Interior Minister Matteo Piantedosi.",
+      "es": "Varios miles de personas se manifestaron el 25 de julio en el valle de Susa (Piamonte) contra la construcción de la línea de alta velocidad Turín-Lyon. Varios cientos de manifestantes vestidos de negro atacaron a las fuerzas del orden apostadas cerca de la obra de Chiomonte con cócteles molotov y proyectiles. Más de 120 agentes resultaron heridos, y las autoridades italianas calculan los daños en cerca de un millón de euros; cuatro personas fueron detenidas. La primera ministra Giorgia Meloni calificó los hechos de «violencia organizada y premeditada» y visitó el lugar el 27 de julio junto al ministro del Interior, Matteo Piantedosi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "July 25, 2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Des affrontements éclatent près du chantier de Chiomonte ; plus de 120 policiers sont blessés.",
+          "en": "Clashes break out near the Chiomonte construction site; more than 120 police officers are injured.",
+          "es": "Estallan enfrentamientos cerca de la obra de Chiomonte; más de 120 policías resultan heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -4.2439,
+      40.4936
+    ],
+    "id": "madrid-incendie-sierraouest",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Comunidad de Madrid",
+    "place": {
+      "fr": "Robledo de Chavela et la Sierra Oeste, région de Madrid, Espagne",
+      "en": "Robledo de Chavela and the Sierra Oeste, Madrid region, Spain",
+      "es": "Robledo de Chavela y la Sierra Oeste, Comunidad de Madrid, España"
+    },
+    "title": {
+      "fr": "Le pire incendie de l'histoire récente de la région de Madrid force plus de 60 000 évacuations",
+      "en": "Worst wildfire in the Madrid region's recent history forces over 60,000 evacuations",
+      "es": "El peor incendio de la historia reciente de la Comunidad de Madrid obliga a evacuar a más de 60 000 personas"
+    },
+    "summary": {
+      "fr": "Trois feux de forêt à l'ouest de Madrid ont fusionné le 24 juillet en un seul front ayant brûlé environ 34 000 hectares, décrit par les autorités régionales comme le pire incendie de l'histoire récente de la région. Plus de 60 000 personnes ont été évacuées ou confinées dans onze communes, dont Robledo de Chavela, Valdemaqueda et Navas del Rey ; l'Unité militaire d'urgence espagnole a été mobilisée. À Robledo de Chavela, les flammes ont atteint la zone des antennes du complexe de communications spatiales de la NASA, également évacué. Au 27 juillet, dix communes avaient été autorisées à accueillir de nouveau leurs habitants, tandis qu'environ 11 000 personnes restaient évacuées, le feu étant décrit comme stabilisé mais non totalement maîtrisé.",
+      "en": "Three wildfires west of Madrid merged on July 24 into a single front that has burned around 34,000 hectares, described by regional authorities as the worst wildfire in the region's recent history. More than 60,000 people were evacuated or told to shelter in place across eleven municipalities, including Robledo de Chavela, Valdemaqueda and Navas del Rey; Spain's Military Emergency Unit was deployed. In Robledo de Chavela, flames reached the antenna area of NASA's Deep Space Communications Complex, which was also evacuated. As of July 27, ten municipalities had been cleared for residents to return, while roughly 11,000 people remained evacuated, with the fire described as stabilizing but not fully contained.",
+      "es": "Tres incendios forestales al oeste de Madrid se fusionaron el 24 de julio en un único frente que ha quemado unas 34 000 hectáreas, descrito por las autoridades regionales como el peor incendio de la historia reciente de la región. Más de 60 000 personas fueron evacuadas o confinadas en once municipios, entre ellos Robledo de Chavela, Valdemaqueda y Navas del Rey; se movilizó a la Unidad Militar de Emergencias española. En Robledo de Chavela, las llamas alcanzaron la zona de antenas del Complejo de Comunicaciones de Espacio Profundo de la NASA, que también fue evacuado. Hasta el 27 de julio, diez municipios habían sido autorizados a que sus habitantes regresaran, mientras unas 11 000 personas seguían evacuadas, con el fuego descrito como estabilizado pero no totalmente controlado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "July 24, 2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Trois incendies fusionnent à l'ouest de Madrid ; plus de 60 000 personnes sont évacuées ou confinées.",
+          "en": "Three wildfires merge west of Madrid; more than 60,000 people are evacuated or told to shelter in place.",
+          "es": "Tres incendios se fusionan al oeste de Madrid; más de 60 000 personas son evacuadas o confinadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -43.1729,
+      -22.9068
+    ],
+    "id": "bresil-inflation-ipca15",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Agência Brasil / Bloomberg",
+    "place": {
+      "fr": "Rio de Janeiro (IBGE), Brésil",
+      "en": "Rio de Janeiro (IBGE), Brazil",
+      "es": "Río de Janeiro (IBGE), Brasil"
+    },
+    "title": {
+      "fr": "L'inflation ralentit fortement au Brésil, ouvrant la voie à une nouvelle baisse des taux",
+      "en": "Inflation slows sharply in Brazil, paving the way for another rate cut",
+      "es": "La inflación se desacelera fuertemente en Brasil, allanando el camino a otro recorte de tasas"
+    },
+    "summary": {
+      "fr": "L'institut brésilien de statistiques IBGE a annoncé le 28 juillet que son indice avancé d'inflation IPCA-15 n'a progressé que de 0,06 % en juillet, contre 0,41 % en juin, un chiffre inférieur aux attentes des marchés. Sur douze mois, l'inflation atteint 4,52 %, en repli par rapport à un précédent relevé de 4,8 %. Le logement (+0,97 %, tiré par une hausse de 3,03 % de l'électricité résidentielle) a été le principal moteur de la hausse, tandis que les prix alimentaires ont reculé de 0,66 %. Selon Bloomberg, ces données maintiennent la banque centrale brésilienne sur la voie d'une nouvelle baisse de ses taux directeurs lors de sa prochaine réunion.",
+      "en": "Brazil's statistics institute IBGE announced on July 28 that its IPCA-15 inflation preview rose just 0.06% in July, down from 0.41% in June, below market expectations. Over 12 months, inflation stands at 4.52%, down from a previous reading of 4.8%. Housing costs (up 0.97%, driven by a 3.03% rise in residential electricity) were the main upward driver, while food prices fell 0.66%. According to Bloomberg, the data keeps Brazil's central bank on track for another interest-rate cut at its next meeting.",
+      "es": "El instituto brasileño de estadística IBGE anunció el 28 de julio que su índice adelantado de inflación IPCA-15 subió apenas un 0,06 % en julio, frente al 0,41 % de junio, por debajo de las expectativas del mercado. En doce meses, la inflación se sitúa en el 4,52 %, por debajo de una lectura previa del 4,8 %. La vivienda (+0,97 %, impulsada por una subida del 3,03 % en la electricidad residencial) fue el principal motor al alza, mientras que los precios de los alimentos bajaron un 0,66 %. Según Bloomberg, estos datos mantienen al banco central de Brasil en camino de un nuevo recorte de tasas en su próxima reunión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "July 28, 2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "L'IBGE publie un IPCA-15 de juillet en hausse de seulement 0,06 %, en net ralentissement par rapport à juin.",
+          "en": "IBGE publishes a July IPCA-15 up just 0.06%, a sharp slowdown from June.",
+          "es": "El IBGE publica un IPCA-15 de julio con una subida de solo el 0,06 %, una fuerte desaceleración respecto a junio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      9.8439,
+      10.3103
+    ],
+    "id": "bauchi-atbu-attaque",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Channels Television / Daily Trust",
+    "place": {
+      "fr": "Université Abubakar Tafawa Balewa (ATBU), Bauchi, Nigeria",
+      "en": "Abubakar Tafawa Balewa University (ATBU), Bauchi, Nigeria",
+      "es": "Universidad Abubakar Tafawa Balewa (ATBU), Bauchi, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés attaquent un foyer étudiant à l'université ATBU de Bauchi",
+      "en": "Armed men storm a student hostel at Bauchi's ATBU university",
+      "es": "Hombres armados asaltan una residencia estudiantil en la universidad ATBU de Bauchi"
+    },
+    "summary": {
+      "fr": "Vers 2h du matin le 27 juillet, des individus armés de machettes et de couteaux ont forcé l'entrée de plus de dix chambres du foyer féminin de l'université Abubakar Tafawa Balewa (ATBU), à Bauchi, dérobant plus de 50 téléphones portables et divers objets de valeur. Une étudiante ayant résisté a été sérieusement blessée. Les étudiantes ont ensuite manifesté jusqu'au bâtiment du Sénat de l'université pour réclamer davantage de sécurité. La police de l'État de Bauchi indique avoir ouvert une enquête, les assaillants ayant pris la fuite avant son arrivée.",
+      "en": "Around 2 a.m. on July 27, individuals armed with machetes and knives forced their way into more than ten rooms of the female hostel at Abubakar Tafawa Balewa University (ATBU) in Bauchi, stealing more than 50 mobile phones and various valuables. A student who resisted was seriously injured. Female students later marched to the university's Senate building to demand better security. Bauchi State Police say they have opened an investigation, as the attackers fled before officers arrived.",
+      "es": "Hacia las 2 de la madrugada del 27 de julio, individuos armados con machetes y cuchillos forzaron la entrada de más de diez habitaciones de la residencia femenina de la Universidad Abubakar Tafawa Balewa (ATBU), en Bauchi, robando más de 50 teléfonos móviles y otros objetos de valor. Una estudiante que se resistió resultó gravemente herida. Las estudiantes marcharon después hasta el edificio del Senado universitario para exigir más seguridad. La policía del estado de Bauchi indica que ha abierto una investigación, ya que los agresores huyeron antes de su llegada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026, vers 2h",
+          "en": "July 27, 2026, around 2 a.m.",
+          "es": "27/07/2026, hacia las 2:00"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent le foyer féminin de l'ATBU et dérobent plus de 50 téléphones ; une étudiante est blessée.",
+          "en": "Armed men attack ATBU's female hostel and steal more than 50 phones; one student is injured.",
+          "es": "Hombres armados atacan la residencia femenina de la ATBU y roban más de 50 teléfonos; una estudiante resulta herida."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -4.2518,
+      55.8642
+    ],
+    "id": "australie-cwg-medailles",
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥇",
+    "source": "Olympics.com",
+    "place": {
+      "fr": "Glasgow, Écosse (délégation australienne aux Jeux du Commonwealth 2026)",
+      "en": "Glasgow, Scotland (Australian team at the 2026 Commonwealth Games)",
+      "es": "Glasgow, Escocia (delegación australiana en los Juegos de la Commonwealth 2026)"
+    },
+    "title": {
+      "fr": "L'Australie domine le tableau des médailles aux Jeux du Commonwealth de Glasgow",
+      "en": "Australia tops the medal table at the Glasgow Commonwealth Games",
+      "es": "Australia lidera el medallero de los Juegos de la Commonwealth de Glasgow"
+    },
+    "summary": {
+      "fr": "Au 29 juillet, l'Australie est en tête du tableau des médailles des Jeux du Commonwealth 2026, qui se tiennent à Glasgow du 23 juillet au 2 août, avec 35 médailles d'or, 18 d'argent et 27 de bronze. La natation et la para-natation représentent à elles seules 23 titres australiens. Le nageur Cameron McEvoy a remporté l'or individuel du 50 m nage libre, tandis que la gymnaste Georgia Godwin est devenue la gymnaste féminine la plus titrée de l'histoire des Jeux pour l'Australie après avoir mené son équipe vers l'or.",
+      "en": "As of July 29, Australia leads the medal table at the 2026 Commonwealth Games, being held in Glasgow from July 23 to August 2, with 35 gold, 18 silver and 27 bronze medals. Swimming and para-swimming alone account for 23 of Australia's gold medals. Swimmer Cameron McEvoy won individual gold in the 50m freestyle, while gymnast Georgia Godwin became Australia's most decorated women's gymnast in Games history after leading her team to gold.",
+      "es": "Hasta el 29 de julio, Australia lidera el medallero de los Juegos de la Commonwealth 2026, que se celebran en Glasgow del 23 de julio al 2 de agosto, con 35 medallas de oro, 18 de plata y 27 de bronce. La natación y la paranatación representan por sí solas 23 de los títulos australianos. El nadador Cameron McEvoy ganó el oro individual en los 50 m libres, mientras que la gimnasta Georgia Godwin se convirtió en la gimnasta femenina más laureada de la historia de los Juegos para Australia tras liderar a su equipo hacia el oro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "July 29, 2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "L'Australie compte 35 médailles d'or aux Jeux du Commonwealth de Glasgow, en tête du tableau général.",
+          "en": "Australia has 35 gold medals at the Glasgow Commonwealth Games, leading the overall table.",
+          "es": "Australia suma 35 medallas de oro en los Juegos de la Commonwealth de Glasgow, al frente del medallero general."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "id": "egypte-streameast-condamnation",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "GlobeNewswire (Alliance for Creativity and Entertainment)",
+    "place": {
+      "fr": "Tribunal économique du Caire, Égypte",
+      "en": "Cairo Economic Court, Egypt",
+      "es": "Tribunal Económico de El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Le tribunal économique du Caire condamne les opérateurs du réseau de streaming pirate StreamEast",
+      "en": "Cairo Economic Court convicts operators of the StreamEast piracy network",
+      "es": "El Tribunal Económico de El Cairo condena a los operadores de la red pirata StreamEast"
+    },
+    "summary": {
+      "fr": "Le tribunal économique du Caire a condamné le 21 juillet deux exploitants du réseau de streaming sportif illégal StreamEast à deux ans de prison chacun pour violation du droit d'auteur, assortis d'amendes de 5,5 millions de livres égyptiennes (environ 110 000 dollars) par personne. Le tribunal a également ordonné la confiscation des avoirs liés à l'opération et la fermeture des domaines concernés. Fermé en 2025, StreamEast exploitait environ 80 noms de domaine et avait enregistré plus de 1,6 milliard de visites, ce qui en faisait selon l'Alliance for Creativity and Entertainment le plus important réseau de streaming sportif pirate au monde.",
+      "en": "The Cairo Economic Court on July 21 convicted two operators of the illegal sports-streaming network StreamEast on copyright-infringement charges, sentencing each to two years in prison along with fines of 5.5 million Egyptian pounds (about $110,000) per person. The court also ordered the confiscation of assets tied to the operation and the closure of related domains. Shut down in 2025, StreamEast had operated roughly 80 domains and logged more than 1.6 billion visits, making it, according to the Alliance for Creativity and Entertainment, the world's largest illicit sports-streaming operation.",
+      "es": "El Tribunal Económico de El Cairo condenó el 21 de julio a dos operadores de la red ilegal de streaming deportivo StreamEast por infracción de derechos de autor, con penas de dos años de prisión cada uno y multas de 5,5 millones de libras egipcias (unos 110 000 dólares) por persona. El tribunal también ordenó la confiscación de los activos vinculados a la operación y el cierre de los dominios relacionados. Cerrada en 2025, StreamEast operaba unos 80 dominios y registró más de 1600 millones de visitas, lo que la convertía, según la Alliance for Creativity and Entertainment, en la mayor red ilegal de streaming deportivo del mundo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "July 21, 2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal économique du Caire condamne deux responsables de StreamEast à deux ans de prison et à de lourdes amendes.",
+          "en": "The Cairo Economic Court sentences two StreamEast operators to two years in prison and heavy fines.",
+          "es": "El Tribunal Económico de El Cairo condena a dos responsables de StreamEast a dos años de prisión y fuertes multas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 3
   }
 ]
