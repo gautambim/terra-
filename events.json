@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W31",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -734,10 +734,26 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Après l'interception d'une attaque iranienne contre des forces américaines, les États-Unis, en coordination avec l'Arabie saoudite, frappent des groupes armés soutenus par l'Iran en Irak ; le président Donald Trump déclare sur Fox News que l'Iran va \"subir une correction\", selon CNN.",
+          "en": "After an attempted Iranian attack on US forces was intercepted, the United States, coordinating with Saudi Arabia, struck Iran-backed armed groups in Iraq; President Donald Trump said on Fox News that Iran is \"going to get a beating,\" according to CNN.",
+          "es": "Tras interceptarse un intento de ataque iraní contra fuerzas estadounidenses, Estados Unidos, en coordinación con Arabia Saudita, atacó a grupos armados respaldados por Irán en Irak; el presidente Donald Trump declaró en Fox News que Irán \"va a recibir una paliza\", según CNN."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "arabie-saoudite-houthis-mer-rouge",
+      "egypte-damiette-drone"
+    ],
     "priority": 2
   },
   {
@@ -828,6 +844,761 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.6597,
+      32.6836
+    ],
+    "id": "japon-seisme-kumamoto",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Al Jazeera / NPR / France 24 / CNN",
+    "place": {
+      "fr": "Uto, préfecture de Kumamoto, Japon (île de Kyushu)",
+      "en": "Uto, Kumamoto Prefecture, Japan (Kyushu island)",
+      "es": "Uto, prefectura de Kumamoto, Japón (isla de Kyushu)"
+    },
+    "title": {
+      "fr": "Un séisme meurtrier frappe le sud du Japon, un centre commercial s'effondre",
+      "en": "Deadly earthquake strikes southern Japan, shopping mall partly collapses",
+      "es": "Un terremoto mortal golpea el sur de Japón y un centro comercial se derrumba"
+    },
+    "summary": {
+      "fr": "Un séisme est survenu le 28 juillet vers 16h30 heure locale près d'Uto, dans la préfecture de Kumamoto (île de Kyushu). L'Agence météorologique japonaise l'a mesuré à magnitude 7,1, contre 6,8 selon l'US Geological Survey, à une profondeur d'environ 10 km. Une explosion s'est produite au centre commercial Aeon Mall de Kashima, où environ 3000 clients se trouvaient ; une partie du deuxième étage s'est effondrée, piégeant des personnes. Selon Al Jazeera et NPR, le bilan atteignait au moins 17 morts confirmés au matin du 30 juillet, avec plusieurs personnes en arrêt cardio-respiratoire et sans signes vitaux, ce bilan étant susceptible de s'alourdir. Au moins 63 personnes ont été blessées, dont 5 grièvement.",
+      "en": "An earthquake struck near Uto, in Kumamoto Prefecture (Kyushu island), on July 28 at around 4:30 p.m. local time. Japan's Meteorological Agency measured it at magnitude 7.1, versus 6.8 from the US Geological Survey, at a depth of about 10 km. An explosion occurred at the Aeon Mall shopping center in Kashima, where roughly 3,000 customers were present; part of the second floor collapsed, trapping people inside. According to Al Jazeera and NPR, the confirmed death toll stood at at least 17 on the morning of July 30, with several more people in cardiopulmonary arrest and showing no vital signs, meaning the toll is likely to rise further. At least 63 people were injured, five of them seriously.",
+      "es": "Un terremoto se produjo cerca de Uto, en la prefectura de Kumamoto (isla de Kyushu), el 28 de julio hacia las 16:30 hora local. La Agencia Meteorológica de Japón lo midió en magnitud 7,1, frente a 6,8 según el Servicio Geológico de Estados Unidos, a una profundidad de unos 10 km. Se produjo una explosión en el centro comercial Aeon Mall de Kashima, donde había unos 3000 clientes; parte de la segunda planta se derrumbó, atrapando a varias personas. Según Al Jazeera y NPR, el balance confirmado era de al menos 17 muertos en la mañana del 30 de julio, con varias personas más en parada cardiorrespiratoria sin signos vitales, por lo que el balance podría seguir aumentando. Al menos 63 personas resultaron heridas, cinco de ellas de gravedad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026 — vers 16h30 (heure locale)",
+          "en": "28/07/2026 — around 4:30 p.m. (local time)",
+          "es": "28/07/2026 — hacia las 16:30 (hora local)"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 (JMA) / 6,8 (USGS) frappe près d'Uto, préfecture de Kumamoto ; une explosion et un effondrement partiel sont signalés au centre commercial Aeon Mall de Kashima.",
+          "en": "A magnitude 7.1 (JMA) / 6.8 (USGS) earthquake strikes near Uto, Kumamoto Prefecture; an explosion and partial collapse are reported at the Aeon Mall shopping center in Kashima.",
+          "es": "Un terremoto de magnitud 7,1 (JMA) / 6,8 (USGS) golpea cerca de Uto, prefectura de Kumamoto; se informa de una explosión y un derrumbe parcial en el centro comercial Aeon Mall de Kashima."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint au moins 17 morts confirmés selon Al Jazeera et NPR, avec des opérations de sauvetage toujours en cours dans la fenêtre critique des 72 heures.",
+          "en": "The toll reaches at least 17 confirmed deaths according to Al Jazeera and NPR, with rescue operations still under way within the critical 72-hour window.",
+          "es": "El balance alcanza al menos 17 muertos confirmados según Al Jazeera y NPR, con operaciones de rescate todavía en curso dentro de la ventana crítica de 72 horas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-frappes-kyiv-lviv",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / The Irish Times / Kyiv Independent",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv et Lviv, Ukraine",
+      "en": "Kyiv and Lviv, Ukraine",
+      "es": "Kiev y Leópolis, Ucrania"
+    },
+    "title": {
+      "fr": "De vastes frappes russes sur l'Ukraine font au moins 13 morts, la Pologne fait décoller des chasseurs",
+      "en": "Large-scale Russian strikes on Ukraine kill at least 13, Poland scrambles fighter jets",
+      "es": "Amplios ataques rusos contra Ucrania dejan al menos 13 muertos y Polonia despliega cazas"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 29 au 30 juillet, la Russie a lancé des dizaines de missiles balistiques et de croisière ainsi que plusieurs centaines de drones Shahed contre l'Ukraine, selon l'armée de l'air ukrainienne citée par Al Jazeera. Les frappes ont touché Kyiv, où au moins une personne est morte, et se sont étendues jusqu'à Lviv, à l'ouest du pays. Au moins 13 personnes ont été tuées au total selon l'Irish Times. En Pologne, un F-16 a été envoyé après la détection radar d'un objet non identifié entré dans l'espace aérien polonais dans la région de Lublin vers 3h40 ; l'objet a disparu des radars avant d'être formellement identifié.",
+      "en": "Overnight on July 29-30, Russia launched dozens of ballistic and cruise missiles along with several hundred Shahed-type drones at Ukraine, according to the Ukrainian air force cited by Al Jazeera. The strikes hit Kyiv, where at least one person died, and extended as far as Lviv in the west of the country. At least 13 people were killed in total, according to the Irish Times. In Poland, an F-16 was scrambled after radar detected an unidentified object that had entered Polish airspace in the Lublin region at around 3:40 a.m.; the object disappeared from radar before it could be formally identified.",
+      "es": "En la noche del 29 al 30 de julio, Rusia lanzó decenas de misiles balísticos y de crucero, junto con varios cientos de drones tipo Shahed, contra Ucrania, según la fuerza aérea ucraniana citada por Al Jazeera. Los ataques alcanzaron Kiev, donde murió al menos una persona, y se extendieron hasta Leópolis, en el oeste del país. En total murieron al menos 13 personas, según el Irish Times. En Polonia, se envió un F-16 tras detectarse por radar un objeto no identificado que había entrado en el espacio aéreo polaco en la región de Lublin hacia las 3:40 h; el objeto desapareció del radar antes de poder ser identificado formalmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026 — nuit",
+          "en": "30/07/2026 — overnight",
+          "es": "30/07/2026 — madrugada"
+        },
+        "d": {
+          "fr": "La Russie lance environ 74 missiles et 284 drones sur l'Ukraine ; au moins 13 morts sont recensés à Kyiv et dans d'autres villes, selon les autorités ukrainiennes.",
+          "en": "Russia launches around 74 missiles and 284 drones at Ukraine; at least 13 deaths are recorded in Kyiv and other cities, according to Ukrainian authorities.",
+          "es": "Rusia lanza unos 74 misiles y 284 drones contra Ucrania; se registran al menos 13 muertos en Kiev y otras ciudades, según las autoridades ucranianas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      13.3759,
+      52.5096
+    ],
+    "id": "allemagne-attaque-berlin-pride",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "Al Jazeera / Euronews / NPR / CBS News",
+    "place": {
+      "fr": "Potsdamer Platz, Berlin, Allemagne",
+      "en": "Potsdamer Platz, Berlin, Germany",
+      "es": "Potsdamer Platz, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une voiture fonce sur la foule lors de la Christopher Street Day à Berlin, une morte",
+      "en": "Car rams crowd at Berlin's Christopher Street Day, one woman killed",
+      "es": "Un coche embiste a la multitud en el Christopher Street Day de Berlín y deja una muerta"
+    },
+    "summary": {
+      "fr": "Le samedi 25 juillet vers 22h, une voiture a foncé dans la foule près de Potsdamer Platz, à Berlin, en marge de la Christopher Street Day (la marche des fiertés locale), qui rassemblait plusieurs centaines de milliers de personnes. Une femme est morte sur place et 29 autres personnes ont été blessées, dont plusieurs grièvement, selon Euronews. Le suspect, identifié par le ministre fédéral de l'Intérieur Alexander Dobrindt comme un homme de 21 ans né en Allemagne, a été localisé le lendemain à Spandau et abattu par la police après avoir chargé les agents muni d'une arme blanche, selon Al Jazeera. M. Dobrindt a déclaré que \"tout indique qu'il s'agissait d'un attentat islamiste\", une qualification qui reste, à ce stade, celle avancée par les autorités allemandes.",
+      "en": "On Saturday, July 25 at around 10 p.m., a car drove into the crowd near Potsdamer Platz in Berlin on the sidelines of Christopher Street Day (the local Pride march), which had drawn several hundred thousand people. One woman died at the scene and 29 others were injured, several of them seriously, according to Euronews. The suspect, identified by federal Interior Minister Alexander Dobrindt as a 21-year-old man born in Germany, was located the next day in Spandau and shot dead by police after charging at officers with a bladed weapon, according to Al Jazeera. Dobrindt said \"everything indicates this was an Islamist terror attack,\" a characterization that, at this stage, is the one put forward by German authorities.",
+      "es": "El sábado 25 de julio, hacia las 22:00, un coche embistió a la multitud cerca de Potsdamer Platz, en Berlín, al margen del Christopher Street Day (la marcha del orgullo local), que había reunido a varios cientos de miles de personas. Una mujer murió en el lugar y otras 29 personas resultaron heridas, varias de gravedad, según Euronews. El sospechoso, identificado por el ministro federal del Interior, Alexander Dobrindt, como un hombre de 21 años nacido en Alemania, fue localizado al día siguiente en Spandau y abatido por la policía tras cargar contra los agentes con un arma blanca, según Al Jazeera. Dobrindt afirmó que \"todo indica que se trató de un atentado islamista\", una calificación que, por el momento, es la que sostienen las autoridades alemanas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026 — vers 22h",
+          "en": "25/07/2026 — around 10 p.m.",
+          "es": "25/07/2026 — hacia las 22:00"
+        },
+        "d": {
+          "fr": "Une voiture percute la foule près de Potsdamer Platz pendant la Christopher Street Day ; une femme meurt, 29 personnes sont blessées.",
+          "en": "A car strikes the crowd near Potsdamer Platz during Christopher Street Day; one woman dies, 29 people are injured.",
+          "es": "Un coche golpea a la multitud cerca de Potsdamer Platz durante el Christopher Street Day; una mujer muere y 29 personas resultan heridas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Le suspect est localisé à Spandau et abattu par la police après avoir chargé les agents avec une arme blanche ; le ministre de l'Intérieur évoque un attentat islamiste.",
+          "en": "The suspect is located in Spandau and shot dead by police after charging officers with a bladed weapon; the interior minister describes it as an Islamist terror attack.",
+          "es": "El sospechoso es localizado en Spandau y abatido por la policía tras cargar contra los agentes con un arma blanca; el ministro del Interior lo califica de atentado islamista."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "id": "allemagne-munich-eau-justice",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Local Germany / iamexpat.de",
+    "place": {
+      "fr": "Munich, Allemagne",
+      "en": "Munich, Germany",
+      "es": "Múnich, Alemania"
+    },
+    "title": {
+      "fr": "Un tribunal munichois valide les restrictions d'eau décrétées pendant la sécheresse",
+      "en": "Munich court upholds water-use restrictions imposed during drought",
+      "es": "Un tribunal de Múnich avala las restricciones de agua impuestas durante la sequía"
+    },
+    "summary": {
+      "fr": "La ville de Munich avait instauré le 14 juillet un arrêté interdisant, jusqu'au 1er août, l'usage de l'eau potable pour remplir des piscines privées, arroser les pelouses, laver les voitures ou les terrasses, sous peine d'amendes pouvant atteindre 50 000 euros, alors que la consommation quotidienne d'eau de la ville était passée d'environ 300 à plus de 360 millions de litres par jour pendant la vague de chaleur. Deux propriétaires de jardins ont contesté cette mesure en justice, la jugeant disproportionnée et sans base légale suffisante. Selon The Local, un tribunal munichois a rejeté leurs recours, estimant les restrictions probablement conformes au droit ; la décision n'est pas définitive et peut encore être frappée d'appel.",
+      "en": "On July 14, the city of Munich had issued a decree banning, until August 1, the use of drinking water to fill private swimming pools, water lawns, or wash cars and terraces, with fines of up to €50,000, as the city's daily water consumption had risen from around 300 million to over 360 million litres per day during the heatwave. Two garden owners challenged the measure in court, arguing it was disproportionate and lacked a sufficient legal basis. According to The Local, a Munich court rejected their challenges, ruling the restrictions likely lawful; the decision is not final and can still be appealed.",
+      "es": "El 14 de julio, la ciudad de Múnich había dictado un decreto que prohibía, hasta el 1 de agosto, usar agua potable para llenar piscinas privadas, regar céspedes o lavar coches y terrazas, con multas de hasta 50.000 euros, ya que el consumo diario de agua de la ciudad había pasado de unos 300 a más de 360 millones de litros diarios durante la ola de calor. Dos propietarios de jardines impugnaron la medida ante la justicia, alegando que era desproporcionada y carecía de base legal suficiente. Según The Local, un tribunal de Múnich rechazó sus recursos, considerando que las restricciones son probablemente conformes a derecho; la decisión no es firme y todavía puede recurrirse."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/07/2026",
+          "en": "14/07/2026",
+          "es": "14/07/2026"
+        },
+        "d": {
+          "fr": "La ville de Munich décrète des restrictions sur l'eau potable pendant la sécheresse, avec des amendes possibles jusqu'à 50 000 euros.",
+          "en": "The city of Munich decrees drinking-water restrictions during the drought, with possible fines of up to €50,000.",
+          "es": "La ciudad de Múnich decreta restricciones sobre el agua potable durante la sequía, con multas posibles de hasta 50.000 euros."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Un tribunal munichois rejette les recours de deux propriétaires contre l'arrêté, jugeant les restrictions probablement légales, selon The Local.",
+          "en": "A Munich court rejects two homeowners' challenges to the decree, ruling the restrictions likely lawful, according to The Local.",
+          "es": "Un tribunal de Múnich rechaza los recursos de dos propietarios contra el decreto, considerando las restricciones probablemente legales, según The Local."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -1.0539,
+      44.8608
+    ],
+    "id": "france-incendie-gironde",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "France 24 / CNN / NPR",
+    "place": {
+      "fr": "Le Porge et presqu'île du Cap Ferret, Gironde, France",
+      "en": "Le Porge and the Cap Ferret peninsula, Gironde, France",
+      "es": "Le Porge y la península de Cap Ferret, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Le plus grand incendie de France depuis 1949 ravage la Gironde",
+      "en": "France's largest wildfire since 1949 devastates the Gironde region",
+      "es": "El mayor incendio de Francia desde 1949 devasta la Gironda"
+    },
+    "summary": {
+      "fr": "Un incendie parti aux alentours du 24 juillet a parcouru plus de 42 000 hectares dans le département de la Gironde (Nouvelle-Aquitaine) au 27 juillet, selon France 24, ce qui en fait le plus grand feu de forêt en France depuis 1949. Environ 240 habitations ont été détruites, dont 183 dans la seule commune du Porge, où un collectif d'habitants s'estimant \"sacrifiés\" pour protéger la presqu'île du Cap Ferret envisage une action en justice. Jusqu'à 222 000 personnes ont été évacuées selon les autorités, dont environ 57 000 avaient pu regagner leur domicile au 29 juillet. Aucun décès parmi la population n'a été rapporté, mais 126 pompiers ont été blessés en luttant contre les flammes. Emmanuel Macron s'est rendu sur place et a promis de \"reconstruire une forêt différente\".",
+      "en": "A wildfire that broke out around July 24 had burned more than 42,000 hectares in the Gironde department (Nouvelle-Aquitaine) by July 27, according to France 24, making it France's largest forest fire since 1949. About 240 homes were destroyed, 183 of them in the commune of Le Porge alone, where a group of residents who feel they were \"sacrificed\" to protect the Cap Ferret peninsula are considering legal action. Up to 222,000 people were evacuated according to authorities, of whom about 57,000 had been able to return home by July 29. No deaths among residents have been reported, but 126 firefighters were injured battling the blaze. President Emmanuel Macron visited the area and pledged to \"rebuild a different kind of forest.\"",
+      "es": "Un incendio que se declaró hacia el 24 de julio había quemado más de 42.000 hectáreas en el departamento de la Gironda (Nueva Aquitania) para el 27 de julio, según France 24, lo que lo convierte en el mayor incendio forestal de Francia desde 1949. Unas 240 viviendas fueron destruidas, 183 de ellas solo en el municipio de Le Porge, donde un colectivo de residentes que se sienten \"sacrificados\" para proteger la península de Cap Ferret estudia emprender acciones legales. Hasta 222.000 personas fueron evacuadas según las autoridades, de las cuales unas 57.000 habían podido regresar a sus casas el 29 de julio. No se han reportado muertes entre la población, pero 126 bomberos resultaron heridos combatiendo las llamas. El presidente Emmanuel Macron visitó la zona y prometió \"reconstruir un bosque diferente\"."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026 (environ)",
+          "en": "24/07/2026 (approx.)",
+          "es": "24/07/2026 (aprox.)"
+        },
+        "d": {
+          "fr": "Un incendie se déclare en Gironde et progresse rapidement sous l'effet de la chaleur et du vent.",
+          "en": "A wildfire breaks out in the Gironde and spreads rapidly amid heat and wind.",
+          "es": "Se declara un incendio en la Gironda y avanza rápidamente por el calor y el viento."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le feu a parcouru plus de 42 000 hectares et détruit environ 240 habitations ; Emmanuel Macron se rend sur place.",
+          "en": "The fire has burned more than 42,000 hectares and destroyed about 240 homes; Emmanuel Macron visits the area.",
+          "es": "El fuego ha quemado más de 42.000 hectáreas y destruido unas 240 viviendas; Emmanuel Macron visita la zona."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "L'incendie reste sous contrôle selon les autorités locales ; environ 57 000 évacués ont pu regagner leur domicile.",
+          "en": "The fire remains under control according to local authorities; about 57,000 evacuees have been able to return home.",
+          "es": "El incendio sigue bajo control según las autoridades locales; unos 57.000 evacuados han podido regresar a sus casas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      117.75,
+      15.15
+    ],
+    "id": "chine-philippines-mer-chine-sud",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "CNN / Al Jazeera / ABC News",
+    "place": {
+      "fr": "Récif de Scarborough et Second Thomas Shoal, mer de Chine méridionale",
+      "en": "Scarborough Shoal and Second Thomas Shoal, South China Sea",
+      "es": "Bajo de Scarborough y Second Thomas Shoal, mar de la China Meridional"
+    },
+    "title": {
+      "fr": "Trois accrochages en une semaine entre garde-côtes chinois et navires philippins en mer de Chine méridionale",
+      "en": "Three run-ins in one week between Chinese coast guard and Philippine ships in the South China Sea",
+      "es": "Tres enfrentamientos en una semana entre la guardia costera china y buques filipinos en el mar de la China Meridional"
+    },
+    "summary": {
+      "fr": "Trois incidents distincts ont opposé, entre le 21 et le 24 juillet, des navires chinois et philippins en mer de Chine méridionale, selon CNN et Al Jazeera. Le 21 juillet, près du Second Thomas Shoal, une vidéo philippine a montré des militaires chinois heurtant une embarcation philippine à coups de bâtons et de rames, blessant deux membres de l'équipage. Le 23 puis le 24 juillet, près du récif de Scarborough, la marine philippine accuse des navires des garde-côtes chinois d'avoir utilisé des canons à eau et des manœuvres qualifiées de \"dangereuses\" contre ses bateaux, dont un ravitaillant des pêcheurs philippins ; Pékin affirme de son côté que ses actions étaient \"légales\" face à des navires philippins \"s'introduisant\" dans ses eaux. Aucune des deux parties n'a été présentée ici comme responsable, les versions des deux gouvernements divergeant sur les faits.",
+      "en": "Three separate incidents pitted Chinese and Philippine vessels against each other in the South China Sea between July 21 and 24, according to CNN and Al Jazeera. On July 21, near Second Thomas Shoal, Philippine video showed Chinese personnel striking a Philippine boat with sticks and oars, injuring two crew members. On July 23 and again on July 24, near Scarborough Shoal, the Philippine navy accused Chinese coast guard vessels of using water cannon and what it called \"dangerous\" maneuvers against its boats, including one resupplying Philippine fishermen; Beijing, for its part, says its actions were \"lawful\" against Philippine vessels it says were \"intruding\" into its waters. Neither side is presented here as at fault, as the two governments' accounts of events diverge.",
+      "es": "Tres incidentes distintos enfrentaron a buques chinos y filipinos en el mar de la China Meridional entre el 21 y el 24 de julio, según CNN y Al Jazeera. El 21 de julio, cerca de Second Thomas Shoal, un video filipino mostró a personal chino golpeando una embarcación filipina con palos y remos, hiriendo a dos tripulantes. El 23 y de nuevo el 24 de julio, cerca del bajo de Scarborough, la marina filipina acusó a buques de la guardia costera china de usar cañones de agua y maniobras calificadas de \"peligrosas\" contra sus embarcaciones, incluida una que abastecía a pescadores filipinos; Pekín, por su parte, sostiene que sus acciones fueron \"legales\" frente a buques filipinos que, según dice, \"se introdujeron\" en sus aguas. Ninguna de las partes se presenta aquí como responsable, ya que las versiones de ambos gobiernos sobre los hechos difieren."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Près du Second Thomas Shoal, des militaires chinois heurtent une embarcation philippine ; deux membres d'équipage philippins sont blessés et évacués.",
+          "en": "Near Second Thomas Shoal, Chinese personnel strike a Philippine boat; two Philippine crew members are injured and evacuated.",
+          "es": "Cerca de Second Thomas Shoal, personal chino golpea una embarcación filipina; dos tripulantes filipinos resultan heridos y son evacuados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Un garde-côte chinois utilise un canon à eau contre un navire philippin près du récif de Scarborough, troisième accrochage de la semaine.",
+          "en": "A Chinese coast guard ship uses water cannon against a Philippine vessel near Scarborough Shoal, the third run-in of the week.",
+          "es": "Un buque de la guardia costera china usa un cañón de agua contra una embarcación filipina cerca del bajo de Scarborough, el tercer enfrentamiento de la semana."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      31.8133,
+      31.4165
+    ],
+    "id": "egypte-damiette-drone",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / Egyptian Streets / Egypt Oil & Gas",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Port de Damiette, Égypte",
+      "en": "Damietta Port, Egypt",
+      "es": "Puerto de Damieta, Egipto"
+    },
+    "title": {
+      "fr": "Un drone déclenche un incendie sur deux navires gaziers dans le port égyptien de Damiette",
+      "en": "A drone sparks a fire on two gas vessels at Egypt's Damietta port",
+      "es": "Un dron provoca un incendio en dos buques gasistas en el puerto egipcio de Damieta"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré le 29 juillet sur deux navires utilisés pour le stockage et la regazéification de gaz naturel liquéfié (le Energos Winter puis le Gaslog Salem, ce dernier ayant pris feu par propagation) amarrés au port de Damiette, sur la côte méditerranéenne égyptienne. Selon une enquête préliminaire du gouvernement égyptien citée par Al Jazeera et Egyptian Streets, le feu a été déclenché par un drone ; aucun groupe ne l'a revendiqué et l'origine de l'appareil n'a pas été identifiée publiquement. Certains médias régionaux ont rapporté des versions contradictoires, l'Égypte ayant dans un premier temps nié toute frappe de drone avant que le gouvernement ne confirme cette cause ; l'incident intervient alors que les tensions entre les États-Unis, Israël et l'Iran se sont ravivées dans la région. Aucun blessé n'a été signalé et l'incendie a été maîtrisé, le port ayant maintenu son activité.",
+      "en": "A fire broke out on July 29 aboard two vessels used for liquefied natural gas storage and regasification (the Energos Winter, with flames then spreading to the Gaslog Salem) docked at Damietta port on Egypt's Mediterranean coast. According to a preliminary Egyptian government investigation cited by Al Jazeera and Egyptian Streets, the fire was caused by a drone; no group has claimed responsibility and the origin of the drone has not been publicly identified. Some regional outlets reported conflicting accounts, with Egypt initially denying any drone strike before the government confirmed that cause; the incident comes as tensions between the United States, Israel and Iran have flared anew in the region. No injuries were reported and the fire was brought under control, with the port continuing normal operations.",
+      "es": "El 29 de julio se produjo un incendio a bordo de dos buques utilizados para el almacenamiento y la regasificación de gas natural licuado (el Energos Winter, cuyas llamas se propagaron después al Gaslog Salem) atracados en el puerto de Damieta, en la costa mediterránea de Egipto. Según una investigación preliminar del gobierno egipcio citada por Al Jazeera y Egyptian Streets, el incendio fue provocado por un dron; ningún grupo se ha atribuido el ataque y no se ha identificado públicamente el origen del aparato. Algunos medios regionales difundieron versiones contradictorias, ya que Egipto negó inicialmente cualquier ataque con drones antes de que el gobierno confirmara esa causa; el incidente se produce mientras las tensiones entre Estados Unidos, Israel e Irán se han reavivado en la región. No se reportaron heridos y el incendio fue controlado, y el puerto mantuvo su actividad con normalidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Un incendie se déclare sur deux navires gaziers au port de Damiette ; le gouvernement égyptien évoque, en enquête préliminaire, une origine liée à un drone.",
+          "en": "A fire breaks out on two gas vessels at Damietta port; the Egyptian government's preliminary investigation points to a drone as the cause.",
+          "es": "Se declara un incendio en dos buques gasistas en el puerto de Damieta; la investigación preliminar del gobierno egipcio apunta a un dron como causa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      106.8229,
+      -6.2088
+    ],
+    "id": "indonesie-banque-centrale-demission",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Bloomberg / Antara News / The Diplomat",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Le gouverneur de la banque centrale indonésienne démissionne, inquiétudes sur son indépendance",
+      "en": "Indonesia's central bank governor resigns, raising independence concerns",
+      "es": "El gobernador del banco central de Indonesia dimite y crece la preocupación por su independencia"
+    },
+    "summary": {
+      "fr": "Perry Warjiyo, gouverneur de Bank Indonesia depuis sept ans et en poste jusqu'en 2028, a démissionné le 27 juillet, sa lettre datée du 25 juillet invoquant des raisons de santé personnelles, selon Bloomberg et Antara News. Le président Prabowo Subianto a approuvé la démission. La vice-gouverneure senior Destry Damayanti a été nommée gouverneure par intérim en attendant la désignation d'un successeur définitif. Si les autorités mettent en avant des motifs personnels, plusieurs analystes cités par The Diplomat et Bloomberg s'interrogent sur une possible volonté du gouvernement central de renforcer son emprise sur la politique monétaire, ce qui a accru la volatilité sur les marchés financiers indonésiens.",
+      "en": "Perry Warjiyo, governor of Bank Indonesia for seven years and due to serve until 2028, resigned on July 27, with his resignation letter dated July 25 citing personal health reasons, according to Bloomberg and Antara News. President Prabowo Subianto approved the resignation. Senior Deputy Governor Destry Damayanti was named acting governor pending the appointment of a permanent successor. While officials point to personal reasons, several analysts cited by The Diplomat and Bloomberg question whether the central government may be seeking greater control over monetary policy, which has increased volatility on Indonesian financial markets.",
+      "es": "Perry Warjiyo, gobernador de Bank Indonesia durante siete años y con mandato previsto hasta 2028, dimitió el 27 de julio, con una carta de renuncia fechada el 25 de julio que invoca motivos de salud personal, según Bloomberg y Antara News. El presidente Prabowo Subianto aprobó la dimisión. La subgobernadora principal Destry Damayanti fue nombrada gobernadora en funciones a la espera de un sucesor definitivo. Aunque las autoridades alegan motivos personales, varios analistas citados por The Diplomat y Bloomberg se preguntan si el gobierno central podría estar buscando un mayor control sobre la política monetaria, lo que ha aumentado la volatilidad en los mercados financieros indonesios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "La démission de Perry Warjiyo est approuvée par le président Prabowo Subianto ; Destry Damayanti devient gouverneure par intérim.",
+          "en": "Perry Warjiyo's resignation is approved by President Prabowo Subianto; Destry Damayanti becomes acting governor.",
+          "es": "La dimisión de Perry Warjiyo es aprobada por el presidente Prabowo Subianto; Destry Damayanti asume como gobernadora en funciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "id": "coree-sud-kospi-krach",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Al Jazeera",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "L'indice sud-coréen KOSPI chute de 23 % en juillet, un record",
+      "en": "South Korea's KOSPI index plunges 23% in July, a record drop",
+      "es": "El índice surcoreano KOSPI se desploma un 23 % en julio, un récord"
+    },
+    "summary": {
+      "fr": "L'indice boursier sud-coréen KOSPI a chuté de 23 % au cours du mois de juillet, sa pire performance mensuelle enregistrée, effaçant environ 250 000 milliards de wons de valeur et déclenchant sept coupe-circuits, selon Bloomberg et Al Jazeera. La chute, portée notamment par les déceptions sur les résultats de fabricants de semi-conducteurs comme SK Hynix, reflète un reflux après l'emballement boursier lié à l'intelligence artificielle, dans un contexte de ralentissement plus large du marché des cryptomonnaies. Les autorités sud-coréennes ont annoncé des mesures supplémentaires pour stabiliser le marché et resserrer l'accès des particuliers aux ETF à effet de levier.",
+      "en": "South Korea's KOSPI stock index fell 23% over the course of July, its worst monthly performance on record, wiping out about 250 trillion won in value and triggering seven circuit breakers, according to Bloomberg and Al Jazeera. The drop, driven in part by disappointing results from chipmakers such as SK Hynix, reflects a pullback after an AI-driven stock rally, against a backdrop of a broader crypto market slowdown. South Korean authorities announced additional measures to stabilize the market and tighten retail investors' access to leveraged ETFs.",
+      "es": "El índice bursátil surcoreano KOSPI cayó un 23 % a lo largo de julio, su peor desempeño mensual registrado, borrando unos 250 billones de wones en valor y activando siete cortacircuitos, según Bloomberg y Al Jazeera. La caída, impulsada en parte por resultados decepcionantes de fabricantes de semiconductores como SK Hynix, refleja un retroceso tras el auge bursátil ligado a la inteligencia artificial, en un contexto de desaceleración más amplia del mercado de criptomonedas. Las autoridades surcoreanas anunciaron medidas adicionales para estabilizar el mercado y restringir el acceso minorista a los ETF apalancados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Le KOSPI accumule une chute de 23 % sur le mois, un record, après un nouveau plongeon porté par les déceptions du secteur des semi-conducteurs.",
+          "en": "The KOSPI accumulates a 23% drop for the month, a record, after a fresh slide driven by disappointments in the semiconductor sector.",
+          "es": "El KOSPI acumula una caída del 23 % en el mes, un récord, tras un nuevo desplome impulsado por decepciones en el sector de semiconductores."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      4.56,
+      7.7719
+    ],
+    "id": "nigeria-osun-violences-electorales",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🗳️",
+    "source": "Vanguard / The Nation / Tribune Online",
+    "place": {
+      "fr": "État d'Osun, Nigeria (dont Osogbo et Irepodun)",
+      "en": "Osun State, Nigeria (including Osogbo and Irepodun)",
+      "es": "Estado de Osun, Nigeria (incluidos Osogbo e Irepodun)"
+    },
+    "title": {
+      "fr": "Des violences électorales font des morts dans l'État d'Osun avant le scrutin du 15 août",
+      "en": "Election-related violence kills people in Osun State ahead of the August 15 vote",
+      "es": "La violencia electoral deja muertos en el estado de Osun antes de la votación del 15 de agosto"
+    },
+    "summary": {
+      "fr": "Dans l'État nigérian d'Osun, où une élection du gouverneur est prévue le 15 août 2026 entre le sortant Ademola Nurudeen Jackson Adeleke (Accord Party) et Bola Oyebamiji (All Progressives Congress), la presse locale (Vanguard, The Nation, Tribune Online) fait état d'au moins treize morts liés à des violences électorales depuis octobre 2025, dont un adolescent de 14 ans tué lors d'affrontements entre partisans rivaux à Irepodun. Le week-end du 26-27 juillet, des individus non identifiés ont attaqué un centre de collecte de cartes d'électeur (PVC) à Okuku, s'en prenant au personnel et emportant du matériel électoral, dont des dispositifs d'authentification biométrique (BVAS). La commission électorale (INEC) a prolongé au 31 juillet la période de collecte des cartes et assure que le scrutin ne sera pas déstabilisé. Un observatoire électoral soutenu par l'Union européenne attribue une partie des tensions à un différend non résolu sur le contrôle des collectivités locales.",
+      "en": "In Nigeria's Osun State, where a governorship election is set for August 15, 2026 between incumbent Ademola Nurudeen Jackson Adeleke (Accord Party) and Bola Oyebamiji (All Progressives Congress), local press (Vanguard, The Nation, Tribune Online) report at least thirteen deaths linked to election-related violence since October 2025, including a 14-year-old boy killed in clashes between rival supporters in Irepodun. Over the weekend of July 26-27, unidentified individuals attacked a Permanent Voter Card (PVC) collection center in Okuku, assaulting staff and making off with electoral materials including biometric authentication (BVAS) devices. The electoral commission (INEC) extended the card-collection period to July 31 and says the vote will not be derailed. An EU-backed election observation hub attributes part of the tension to an unresolved dispute over control of local government areas.",
+      "es": "En el estado nigeriano de Osun, donde una elección a gobernador está prevista para el 15 de agosto de 2026 entre el actual gobernador Ademola Nurudeen Jackson Adeleke (Accord Party) y Bola Oyebamiji (All Progressives Congress), la prensa local (Vanguard, The Nation, Tribune Online) informa de al menos trece muertos vinculados a la violencia electoral desde octubre de 2025, incluido un adolescente de 14 años muerto en enfrentamientos entre partidarios rivales en Irepodun. Durante el fin de semana del 26 y 27 de julio, individuos no identificados atacaron un centro de recogida de tarjetas de elector (PVC) en Okuku, agredieron al personal y se llevaron material electoral, incluidos dispositivos de autenticación biométrica (BVAS). La comisión electoral (INEC) prorrogó hasta el 31 de julio el plazo de recogida de tarjetas y asegura que la votación no se verá desestabilizada. Un observatorio electoral respaldado por la UE atribuye parte de la tensión a una disputa sin resolver sobre el control de los gobiernos locales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Octobre 2025 – juillet 2026",
+          "en": "October 2025 – July 2026",
+          "es": "Octubre de 2025 – julio de 2026"
+        },
+        "d": {
+          "fr": "Au moins treize morts sont recensées dans des violences liées à la campagne électorale, selon la presse nigériane.",
+          "en": "At least thirteen deaths are recorded in violence linked to the election campaign, according to Nigerian press.",
+          "es": "Se registran al menos trece muertos en la violencia vinculada a la campaña electoral, según la prensa nigeriana."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26-27/07/2026",
+          "en": "07/26-27/2026",
+          "es": "26-27/07/2026"
+        },
+        "d": {
+          "fr": "Un centre de collecte de cartes d'électeur est attaqué à Okuku ; l'INEC prolonge la période de collecte jusqu'au 31 juillet.",
+          "en": "A voter card collection center is attacked in Okuku; INEC extends the collection period to July 31.",
+          "es": "Se ataca un centro de recogida de tarjetas de elector en Okuku; la INEC prorroga el plazo de recogida hasta el 31 de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      46.6753,
+      24.7136
+    ],
+    "id": "arabie-saoudite-houthis-mer-rouge",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Al Jazeera / CNN",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Riyad, Arabie saoudite / mer Rouge",
+      "en": "Riyadh, Saudi Arabia / Red Sea",
+      "es": "Riad, Arabia Saudita / mar Rojo"
+    },
+    "title": {
+      "fr": "L'Arabie saoudite cherche une coalition internationale face aux attaques houthies en mer Rouge",
+      "en": "Saudi Arabia seeks international coalition against Houthi attacks in the Red Sea",
+      "es": "Arabia Saudita busca una coalición internacional frente a los ataques hutíes en el mar Rojo"
+    },
+    "summary": {
+      "fr": "Après l'annonce, le 20 juillet, par les rebelles houthis du Yémen d'un blocus maritime visant l'Arabie saoudite, que le mouvement accuse d'imposer un \"siège injuste\" au Yémen, Ryad a lancé des frappes le 24 juillet contre la ville houthie de Hodeïda et a affirmé, le 27 juillet, avoir intercepté des drones visant des installations pétrolières dans sa province orientale et à Ryad, attaques qu'elle attribue à des groupes soutenus par l'Iran. Selon Al Jazeera, l'Arabie saoudite cherche désormais à bâtir une coalition internationale pour protéger la navigation en mer Rouge. Selon CNN, le royaume, qui avait cherché à se tenir à l'écart de la reprise du conflit entre les États-Unis et l'Iran, se retrouve de fait entraîné dans l'engrenage régional aux côtés de l'Irak et du Yémen.",
+      "en": "After Yemen's Houthi rebels announced on July 20 a maritime blockade targeting Saudi Arabia, which the group accuses of imposing an \"unjust siege\" on Yemen, Riyadh launched strikes on July 24 against the Houthi-held city of Hodeidah and said on July 27 that it had intercepted drones targeting oil facilities in its Eastern Province and in Riyadh, attacks it attributes to Iran-backed groups. According to Al Jazeera, Saudi Arabia is now seeking to build an international coalition to protect Red Sea shipping. According to CNN, the kingdom, which had tried to stay out of the renewed conflict between the United States and Iran, finds itself effectively drawn into the regional spiral alongside Iraq and Yemen.",
+      "es": "Después de que los rebeldes hutíes de Yemen anunciaran el 20 de julio un bloqueo marítimo contra Arabia Saudita, a la que el grupo acusa de imponer un \"asedio injusto\" a Yemen, Riad lanzó ataques el 24 de julio contra la ciudad hutí de Hodeida y afirmó el 27 de julio haber interceptado drones dirigidos contra instalaciones petroleras en su provincia Oriental y en Riad, ataques que atribuye a grupos respaldados por Irán. Según Al Jazeera, Arabia Saudita busca ahora construir una coalición internacional para proteger la navegación en el mar Rojo. Según CNN, el reino, que había intentado mantenerse al margen de la reanudación del conflicto entre Estados Unidos e Irán, se ve de hecho arrastrado a la escalada regional junto a Irak y Yemen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Les Houthis annoncent un blocus maritime visant l'Arabie saoudite.",
+          "en": "The Houthis announce a maritime blockade targeting Saudi Arabia.",
+          "es": "Los hutíes anuncian un bloqueo marítimo contra Arabia Saudita."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "L'Arabie saoudite affirme avoir intercepté des drones visant des installations pétrolières, attribués à des groupes soutenus par l'Iran.",
+          "en": "Saudi Arabia says it intercepted drones targeting oil facilities, attributed to Iran-backed groups.",
+          "es": "Arabia Saudita afirma haber interceptado drones dirigidos contra instalaciones petroleras, atribuidos a grupos respaldados por Irán."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Ryad cherche à réunir une coalition internationale pour protéger le trafic maritime en mer Rouge, selon Al Jazeera.",
+          "en": "Riyadh seeks to assemble an international coalition to protect Red Sea shipping, according to Al Jazeera.",
+          "es": "Riad busca reunir una coalición internacional para proteger el tráfico marítimo en el mar Rojo, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.1278,
+      51.5074
+    ],
+    "id": "royaume-uni-canicule-juillet",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "UK Health Security Agency / cité par les médias britanniques",
+    "place": {
+      "fr": "Londres et sud-est de l'Angleterre, Royaume-Uni",
+      "en": "London and south-east England, United Kingdom",
+      "es": "Londres y el sureste de Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "Une quatrième vague de chaleur de l'été touche le Royaume-Uni, alerte sanitaire orange",
+      "en": "A fourth summer heatwave hits the UK, amber health alert issued",
+      "es": "Una cuarta ola de calor del verano golpea al Reino Unido, con alerta sanitaria ámbar"
+    },
+    "summary": {
+      "fr": "Une quatrième vague de chaleur de l'été a débuté le 28 juillet au Royaume-Uni, les températures atteignant 30°C à Londres avant de grimper entre 33 et 35°C le 29 juillet. L'Agence britannique de sécurité sanitaire (UK Health Security Agency) a émis une alerte chaleur-santé de niveau orange (\"amber\") pour Londres, les East Midlands, l'est de l'Angleterre et le sud-est de l'Angleterre, en vigueur du 29 au 30 juillet, avec des alertes de niveau jaune maintenues pour le Yorkshire and the Humber, les West Midlands et le sud-ouest. La sécheresse persistante a par ailleurs accru le risque d'incendies de végétation en Angleterre et au pays de Galles.",
+      "en": "A fourth summer heatwave began in the UK on July 28, with temperatures reaching 30°C in London before climbing to between 33°C and 35°C on July 29. The UK Health Security Agency issued an amber heat-health alert for London, the East Midlands, the East of England and South East England, in effect from July 29 to 30, with yellow-level alerts maintained for Yorkshire and the Humber, the West Midlands and the South West. The persistent drought has also heightened wildfire risk across England and Wales.",
+      "es": "Una cuarta ola de calor del verano comenzó en el Reino Unido el 28 de julio, con temperaturas que alcanzaron los 30°C en Londres antes de subir a entre 33°C y 35°C el 29 de julio. La Agencia de Seguridad Sanitaria del Reino Unido emitió una alerta sanitaria por calor de nivel ámbar para Londres, East Midlands, el este de Inglaterra y el sureste de Inglaterra, vigente del 29 al 30 de julio, con alertas de nivel amarillo mantenidas para Yorkshire and the Humber, West Midlands y el suroeste. La sequía persistente también ha aumentado el riesgo de incendios forestales en Inglaterra y Gales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Une quatrième vague de chaleur estivale débute au Royaume-Uni.",
+          "en": "A fourth summer heatwave begins in the UK.",
+          "es": "Comienza una cuarta ola de calor del verano en el Reino Unido."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29-30/07/2026",
+          "en": "07/29-30/2026",
+          "es": "29-30/07/2026"
+        },
+        "d": {
+          "fr": "Une alerte chaleur-santé de niveau orange est en vigueur pour Londres et le sud-est de l'Angleterre, températures entre 33 et 35°C.",
+          "en": "An amber heat-health alert is in effect for London and south-east England, with temperatures between 33 and 35°C.",
+          "es": "Una alerta sanitaria por calor de nivel ámbar está vigente para Londres y el sureste de Inglaterra, con temperaturas de entre 33 y 35°C."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -60.0261,
+      -3.119
+    ],
+    "id": "bresil-amazonie-deforestation-baisse",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌳",
+    "source": "Institut national de recherches spatiales (INPE) / Al Jazeera / Mongabay",
+    "place": {
+      "fr": "Amazonie légale, Brésil",
+      "en": "Legal Amazon region, Brazil",
+      "es": "Amazonia legal, Brasil"
+    },
+    "title": {
+      "fr": "La déforestation en Amazonie brésilienne tombe à son plus bas niveau en dix ans",
+      "en": "Deforestation in the Brazilian Amazon falls to its lowest level in ten years",
+      "es": "La deforestación en la Amazonia brasileña cae a su nivel más bajo en diez años"
+    },
+    "summary": {
+      "fr": "Selon les données satellites du système PRODES de l'Institut national de recherches spatiales (INPE), reprises par Al Jazeera et Mongabay, la surface déforestée en Amazonie brésilienne entre janvier et juin 2026 a atteint 1295 km², soit une baisse de 38 % par rapport à la même période en 2025 et le niveau le plus bas depuis 2016. Sur les douze mois précédant juillet 2025, la déforestation avait déjà reculé de 11 %, à 5796 km², son niveau le plus bas en onze ans. Si la tendance se maintient, 2026 pourrait constituer une année record de recul de la déforestation depuis le début des relevés, dans un contexte de renforcement des moyens de lutte contre les incendies et la coupe illégale sous le gouvernement de Luiz Inácio Lula da Silva.",
+      "en": "According to satellite data from the National Institute for Space Research's (INPE) PRODES system, cited by Al Jazeera and Mongabay, the area deforested in the Brazilian Amazon between January and June 2026 reached 1,295 km², a 38% decrease compared with the same period in 2025 and the lowest level since 2016. In the twelve months preceding July 2025, deforestation had already fallen 11%, to 5,796 km², its lowest level in eleven years. If the trend holds, 2026 could mark a record low for deforestation since record-keeping began, amid stepped-up efforts to fight fires and illegal logging under the government of Luiz Inácio Lula da Silva.",
+      "es": "Según los datos satelitales del sistema PRODES del Instituto Nacional de Investigaciones Espaciales (INPE), recogidos por Al Jazeera y Mongabay, la superficie deforestada en la Amazonia brasileña entre enero y junio de 2026 alcanzó 1295 km², una disminución del 38 % respecto al mismo período de 2025 y el nivel más bajo desde 2016. En los doce meses anteriores a julio de 2025, la deforestación ya había caído un 11 %, hasta 5796 km², su nivel más bajo en once años. Si la tendencia se mantiene, 2026 podría marcar un mínimo histórico de deforestación desde que existen registros, en un contexto de mayores esfuerzos contra los incendios y la tala ilegal bajo el gobierno de Luiz Inácio Lula da Silva."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Juillet 2026",
+          "en": "July 2026",
+          "es": "Julio de 2026"
+        },
+        "d": {
+          "fr": "L'INPE publie des données montrant une baisse de 38 % de la déforestation en Amazonie sur le premier semestre 2026 par rapport à 2025.",
+          "en": "INPE publishes data showing a 38% drop in Amazon deforestation in the first half of 2026 compared with 2025.",
+          "es": "El INPE publica datos que muestran una caída del 38 % en la deforestación de la Amazonia en el primer semestre de 2026 respecto a 2025."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -4.2518,
+      55.8642
+    ],
+    "id": "inde-commonwealth-chopra-javelot",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Business Standard / Olympics.com",
+    "place": {
+      "fr": "Glasgow, Écosse, Royaume-Uni",
+      "en": "Glasgow, Scotland, United Kingdom",
+      "es": "Glasgow, Escocia, Reino Unido"
+    },
+    "title": {
+      "fr": "Neeraj Chopra éliminé dès les qualifications du javelot aux Jeux du Commonwealth 2026",
+      "en": "Neeraj Chopra eliminated in javelin qualifying at the 2026 Commonwealth Games",
+      "es": "Neeraj Chopra queda eliminado en la clasificación de jabalina en los Juegos de la Commonwealth 2026"
+    },
+    "summary": {
+      "fr": "Lors des qualifications du lancer du javelot aux Jeux du Commonwealth de Glasgow, le 30 juillet, l'Indien Neeraj Chopra, double médaillé olympique et tenant du titre du Commonwealth (Gold Coast 2018), a réalisé un jet de 76,28 m avant un nouvel essai nul, ce qui l'a relégué à la quatrième place et a mis fin à sa participation à la compétition, selon Business Standard. Le Pakistanais Arshad Nadeem a dominé les qualifications avec un jet à 78,63 m. La finale se tiendra le 1er août.",
+      "en": "In the men's javelin qualifying round at the Glasgow Commonwealth Games on July 30, India's Neeraj Chopra, a two-time Olympic medallist and the 2018 Gold Coast Commonwealth champion, recorded a throw of 76.28 m before another foul attempt, which dropped him to fourth place and ended his participation in the competition, according to Business Standard. Pakistan's Arshad Nadeem topped qualifying with a throw of 78.63 m. The final will be held on August 1.",
+      "es": "En la ronda de clasificación de lanzamiento de jabalina de los Juegos de la Commonwealth de Glasgow, el 30 de julio, el indio Neeraj Chopra, dos veces medallista olímpico y campeón de la Commonwealth en Gold Coast 2018, registró un lanzamiento de 76,28 m antes de un nuevo intento nulo, lo que lo relegó al cuarto puesto y puso fin a su participación en la competición, según Business Standard. El paquistaní Arshad Nadeem lideró la clasificación con un lanzamiento de 78,63 m. La final se disputará el 1 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Neeraj Chopra termine quatrième des qualifications du javelot avec 76,28 m et ne se qualifie pas pour la finale ; Arshad Nadeem (Pakistan) mène avec 78,63 m.",
+          "en": "Neeraj Chopra finishes fourth in javelin qualifying with 76.28 m and fails to advance to the final; Arshad Nadeem (Pakistan) leads with 78.63 m.",
+          "es": "Neeraj Chopra termina cuarto en la clasificación de jabalina con 76,28 m y no avanza a la final; Arshad Nadeem (Pakistán) lidera con 78,63 m."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
     "priority": 1
   }
 ]
