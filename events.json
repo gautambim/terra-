@@ -456,6 +456,19 @@
           "en": "Authorities raise the toll to 39 dead and nine missing in the Guangxi region.",
           "es": "Las autoridades elevan el balance a 39 muertos y nueve desaparecidos en la región de Guangxi."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "Fin juillet 2026",
+          "en": "Late July 2026",
+          "es": "Finales de julio de 2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel reste inchangé à 39 morts selon les médias d'État chinois (Xinhua, Global Times, CGTN), qui font état d'opérations de déblaiement et de relogement en cours à Hengzhou et Guigang. Des habitants cités par des médias basés à l'étranger contestent ce bilan, sans que ces allégations n'aient été confirmées de façon indépendante.",
+          "en": "The official toll remains unchanged at 39 dead, according to Chinese state media (Xinhua, Global Times, CGTN), which report ongoing debris clearance and resettlement work in Hengzhou and Guigang. Residents cited by overseas-based outlets have disputed this toll, though these claims have not been independently confirmed.",
+          "es": "El balance oficial se mantiene sin cambios en 39 muertos, según medios estatales chinos (Xinhua, Global Times, CGTN), que informan de labores de retirada de escombros y realojamiento en curso en Hengzhou y Guigang. Algunos residentes citados por medios con sede en el extranjero cuestionan este balance, aunque estas afirmaciones no han sido confirmadas de forma independiente."
+        },
         "active": true
       }
     ],
@@ -499,6 +512,19 @@
           "fr": "Les autorités vénézuéliennes publient un bilan officiel proche de 3000 morts.",
           "en": "Venezuelan authorities publish an official toll of nearly 3,000 deaths.",
           "es": "Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Un mois après le séisme, le bilan dépasse 5000 morts (des estimations le situent entre 5000 et 5500) et plus de 16 700 blessés, selon Al Jazeera, Euronews et le Washington Times ; ce chiffre reste provisoire, des dizaines de milliers de personnes étant toujours portées disparues plutôt que formellement décédées. Les recherches de survivants ont cessé et les autorités sont passées à la phase de déblaiement et de reconstruction, près de 18 000 familles restant sans logement.",
+          "en": "One month after the earthquake, the toll has passed 5,000 (estimates range between 5,000 and 5,500) and more than 16,700 injured, according to Al Jazeera, Euronews and the Washington Times; the figure remains provisional, as tens of thousands of people are still listed as missing rather than confirmed dead. Search-and-rescue operations have ended and authorities have moved into the debris-clearing and reconstruction phase, with nearly 18,000 families still without housing.",
+          "es": "Un mes después del terremoto, el balance supera los 5000 muertos (las estimaciones oscilan entre 5000 y 5500) y más de 16 700 heridos, según Al Jazeera, Euronews y el Washington Times; la cifra sigue siendo provisional, ya que decenas de miles de personas continúan como desaparecidas y no como fallecidas confirmadas. Las labores de búsqueda de supervivientes han terminado y las autoridades han pasado a la fase de retirada de escombros y reconstrucción, con cerca de 18 000 familias aún sin vivienda."
         },
         "active": true
       }
@@ -734,6 +760,19 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Aucun nouveau cessez-le-feu n'est en vigueur : le blocus naval américain sur les ports iraniens, réinstauré le 14 juillet, se poursuit et le trafic commercial dans le détroit d'Ormuz reste fortement réduit, selon CNN et Al Jazeera. Le ministère iranien de la Santé fait état de 59 morts et 666 blessés depuis fin juin du fait des frappes américaines, un bilan émanant d'une seule partie et non vérifié de façon indépendante. Une frappe revendiquée par l'Iran contre une base aérienne au Koweït le 31 juillet n'a été confirmée ni par le Koweït ni par les États-Unis.",
+          "en": "No new ceasefire is in place: the US naval blockade on Iranian ports, reinstated on July 14, continues, and commercial traffic through the Strait of Hormuz remains sharply reduced, according to CNN and Al Jazeera. Iran's Health Ministry reports 59 killed and 666 wounded since late June from US strikes, a toll from a single party that has not been independently verified. A strike Iran claimed to have carried out against an air base in Kuwait on July 31 was confirmed by neither Kuwait nor the United States.",
+          "es": "No hay un nuevo alto el fuego vigente: el bloqueo naval estadounidense a los puertos iraníes, restablecido el 14 de julio, continúa, y el tráfico comercial por el estrecho de Ormuz sigue muy reducido, según CNN y Al Jazeera. El Ministerio de Salud iraní informa de 59 muertos y 666 heridos desde finales de junio a causa de los ataques estadounidenses, un balance proveniente de una sola de las partes y no verificado de forma independiente. Un ataque que Irán afirmó haber realizado contra una base aérea en Kuwait el 31 de julio no fue confirmado ni por Kuwait ni por Estados Unidos."
+        },
         "active": true
       }
     ],
@@ -829,5 +868,641 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "mondial2026-finale",
+    "coords": [-74.0745, 40.8135],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏆",
+    "source": "CBS News / Al Jazeera / PBS NewsHour",
+    "related": ["mondial2026-bresil-norvege"],
+    "place": {
+      "fr": "East Rutherford (MetLife Stadium), New Jersey, États-Unis",
+      "en": "East Rutherford (MetLife Stadium), New Jersey, United States",
+      "es": "East Rutherford (MetLife Stadium), Nueva Jersey, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'Espagne remporte la Coupe du monde 2026 face à l'Argentine",
+      "en": "Spain wins the 2026 World Cup, defeating Argentina",
+      "es": "España gana el Mundial 2026 al vencer a Argentina"
+    },
+    "summary": {
+      "fr": "L'Espagne a remporté son deuxième titre de championne du monde en battant l'Argentine 1-0 après prolongation, le 19 juillet 2026 au MetLife Stadium (New Jersey), grâce à un but de Ferran Torres à la 106e minute, selon CBS News, Al Jazeera et PBS NewsHour. Le gardien argentin Emiliano Martínez a réalisé un record de 11 arrêts en finale ; plusieurs médias indiquent qu'il s'agissait du dernier match de Coupe du monde de Lionel Messi.",
+      "en": "Spain won its second World Cup title, beating Argentina 1-0 after extra time on July 19, 2026 at MetLife Stadium (New Jersey), with substitute Ferran Torres scoring in the 106th minute, according to CBS News, Al Jazeera and PBS NewsHour. Argentine goalkeeper Emiliano Martínez set a World Cup final record with 11 saves; several outlets reported it was Lionel Messi's final World Cup appearance.",
+      "es": "España conquistó su segundo título mundial al vencer a Argentina 1-0 en la prórroga, el 19 de julio de 2026 en el MetLife Stadium (Nueva Jersey), gracias a un gol de Ferran Torres en el minuto 106, según CBS News, Al Jazeera y PBS NewsHour. El portero argentino Emiliano Martínez estableció un récord de 11 atajadas en una final; según varios medios, fue el último partido de Mundial de Lionel Messi."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "19/07/2026", "en": "19/07/2026", "es": "19/07/2026" },
+        "d": {
+          "fr": "L'Espagne bat l'Argentine 1-0 après prolongation en finale de la Coupe du monde 2026.",
+          "en": "Spain beats Argentina 1-0 after extra time in the 2026 World Cup final.",
+          "es": "España vence a Argentina 1-0 en la prórroga en la final del Mundial 2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "usa-tarifs-canada",
+    "coords": [-77.0369, 38.9072],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "NPR / CNBC / Al Jazeera",
+    "place": {
+      "fr": "Washington, D.C., États-Unis (impact principal sur le Canada)",
+      "en": "Washington, D.C., United States (main impact on Canada)",
+      "es": "Washington, D.C., Estados Unidos (impacto principal en Canadá)"
+    },
+    "title": {
+      "fr": "Les États-Unis imposent un nouveau tarif de 50% sur des produits canadiens",
+      "en": "United States imposes a new 50% tariff on Canadian goods",
+      "es": "Estados Unidos impone un nuevo arancel del 50% a productos canadienses"
+    },
+    "summary": {
+      "fr": "Le président Trump a invoqué la section 338 du Tariff Act de 1930 pour imposer un tarif additionnel de 50% sur de nombreuses importations canadiennes (vin, ciment, bâtons de hockey, etc.), y compris des produits auparavant protégés par l'accord USMCA, selon NPR, CNBC et Al Jazeera. La mesure, annoncée le 20-21 juillet et effective le 19 août 2026, toucherait près de 20 milliards de dollars d'importations annuelles ; l'énergie, la potasse, le poisson et les minéraux critiques en sont exemptés. Le premier ministre Mark Carney a indiqué que le Canada négocie tout en se disant prêt à répliquer.",
+      "en": "President Trump invoked Section 338 of the Tariff Act of 1930 to impose an additional 50% tariff on many Canadian imports (wine, cement, hockey sticks, etc.), including goods previously protected under USMCA, according to NPR, CNBC and Al Jazeera. The measure, announced July 20-21 and effective August 19, 2026, would affect nearly $20 billion in annual imports; energy, potash, fish and critical minerals are exempted. Prime Minister Mark Carney said Canada is negotiating while ready to respond.",
+      "es": "El presidente Trump invocó la Sección 338 de la Ley Arancelaria de 1930 para imponer un arancel adicional del 50% a numerosas importaciones canadienses (vino, cemento, palos de hockey, etc.), incluidos productos antes protegidos por el USMCA, según NPR, CNBC y Al Jazeera. La medida, anunciada el 20-21 de julio y vigente desde el 19 de agosto de 2026, afectaría a casi 20 000 millones de dólares en importaciones anuales; la energía, la potasa, el pescado y los minerales críticos quedan exentos. El primer ministro Mark Carney indicó que Canadá está negociando aunque listo para responder."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "21/07/2026", "en": "21/07/2026", "es": "21/07/2026" },
+        "d": {
+          "fr": "La Maison-Blanche annonce le nouveau tarif de 50% sur des importations canadiennes, selon NPR.",
+          "en": "The White House announces the new 50% tariff on Canadian imports, according to NPR.",
+          "es": "La Casa Blanca anuncia el nuevo arancel del 50% a las importaciones canadienses, según NPR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "fed-taux-juillet",
+    "coords": [-77.0369, 38.9072],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Réserve fédérale américaine / CNBC",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Fed maintient ses taux d'intérêt inchangés pour la 5e réunion consécutive",
+      "en": "The Fed holds interest rates steady for the 5th consecutive meeting",
+      "es": "La Fed mantiene sin cambios sus tipos de interés por 5ª reunión consecutiva"
+    },
+    "summary": {
+      "fr": "Le Comité fédéral de l'open market (FOMC) a voté par 9 voix contre 3 le maintien du taux directeur entre 3,50% et 3,75%, selon le communiqué officiel de la Réserve fédérale et CNBC. Trois présidents de banques régionales de la Fed (Hammack, Kashkari, Logan) s'y sont opposés, alors que l'inflation reste supérieure à l'objectif de 2% depuis plus de cinq ans. Les responsables invoquent une croissance économique solide malgré les incertitudes liées à la situation au Moyen-Orient.",
+      "en": "The Federal Open Market Committee (FOMC) voted 9-3 to hold the federal funds rate at 3.50%-3.75%, according to the Federal Reserve's official statement and CNBC. Three regional Fed presidents (Hammack, Kashkari, Logan) dissented, as inflation has remained above the 2% target for over five years. Officials cited solid economic growth despite uncertainty linked to the Middle East situation.",
+      "es": "El Comité Federal de Mercado Abierto (FOMC) votó 9 a 3 mantener la tasa de referencia entre 3,50% y 3,75%, según el comunicado oficial de la Reserva Federal y CNBC. Tres presidentes de bancos regionales de la Fed (Hammack, Kashkari, Logan) votaron en contra, mientras la inflación se mantiene por encima del objetivo del 2% desde hace más de cinco años. Los responsables citaron un crecimiento económico sólido pese a la incertidumbre vinculada a la situación en Oriente Medio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "29/07/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Le FOMC annonce le maintien des taux directeurs, effectif le 30 juillet.",
+          "en": "The FOMC announces rates will remain unchanged, effective July 30.",
+          "es": "El FOMC anuncia que mantiene las tasas sin cambios, con efecto el 30 de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "colorado-aspenacres-incendie",
+    "coords": [-104.9852, 38.0806],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Colorado Public Radio / Denver7 / PBS NewsHour",
+    "place": {
+      "fr": "Beulah, Rye et Colorado City (comtés de Custer, Pueblo et Huerfano), Colorado, États-Unis",
+      "en": "Beulah, Rye and Colorado City (Custer, Pueblo and Huerfano counties), Colorado, United States",
+      "es": "Beulah, Rye y Colorado City (condados de Custer, Pueblo y Huerfano), Colorado, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'incendie Aspen Acres, 7e plus grand de l'histoire du Colorado, entièrement évacué puis rouvert",
+      "en": "Aspen Acres fire, Colorado's 7th-largest on record, fully evacuated then reopened",
+      "es": "El incendio Aspen Acres, el 7º más grande en la historia de Colorado, totalmente evacuado y reabierto"
+    },
+    "summary": {
+      "fr": "L'incendie Aspen Acres, d'origine humaine, a brûlé environ 41 200 hectares et détruit plus de 850 structures, dont au moins 350 maisons, selon Colorado Public Radio, Denver7 et PBS NewsHour. Des milliers de personnes ont été évacuées de Colorado City, Beulah, Rye et San Isabel depuis son déclenchement le 29 juin ; le pavillon historique du parc de montagne de Pueblo, à Beulah, a été détruit. Tous les ordres d'évacuation ont été levés le 25 juillet.",
+      "en": "The human-caused Aspen Acres fire burned roughly 41,200 hectares and destroyed more than 850 structures, including at least 350 homes, according to Colorado Public Radio, Denver7 and PBS NewsHour. Thousands were evacuated from Colorado City, Beulah, Rye and San Isabel since it broke out on June 29; the historic lodge at Pueblo Mountain Park in Beulah was destroyed. All evacuation orders were lifted on July 25.",
+      "es": "El incendio Aspen Acres, de origen humano, quemó unas 41 200 hectáreas y destruyó más de 850 estructuras, entre ellas al menos 350 viviendas, según Colorado Public Radio, Denver7 y PBS NewsHour. Miles de personas fueron evacuadas de Colorado City, Beulah, Rye y San Isabel desde que se inició el 29 de junio; el histórico pabellón del parque de montaña de Pueblo, en Beulah, fue destruido. Todas las órdenes de evacuación se levantaron el 25 de julio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "25/07/2026", "en": "25/07/2026", "es": "25/07/2026" },
+        "d": {
+          "fr": "Les autorités du Colorado lèvent l'ensemble des ordres d'évacuation liés à l'incendie Aspen Acres.",
+          "en": "Colorado authorities lift all evacuation orders linked to the Aspen Acres fire.",
+          "es": "Las autoridades de Colorado levantan todas las órdenes de evacuación vinculadas al incendio Aspen Acres."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "mexique-sanctions-cjng",
+    "coords": [-103.3496, 20.6597],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "U.S. Treasury Department / Mexico News Daily",
+    "place": {
+      "fr": "Jalisco, Mexique (sanctions annoncées à Washington, D.C.)",
+      "en": "Jalisco, Mexico (sanctions announced in Washington, D.C.)",
+      "es": "Jalisco, México (sanciones anunciadas en Washington, D.C.)"
+    },
+    "title": {
+      "fr": "Washington sanctionne 39 personnes et 16 entreprises liées au cartel de Jalisco Nueva Generación",
+      "en": "Washington sanctions 39 individuals and 16 companies linked to the Jalisco New Generation cartel",
+      "es": "Washington sanciona a 39 personas y 16 empresas vinculadas al cártel de Jalisco Nueva Generación"
+    },
+    "summary": {
+      "fr": "Le bureau américain de contrôle des actifs étrangers (OFAC) a imposé son plus vaste train de sanctions jamais pris contre le cartel de Jalisco Nueva Generación (CJNG), visant 39 personnes (38 ressortissants mexicains et un binational) et 16 entreprises basées au Mexique, pour trafic de fentanyl et de cocaïne, vol de carburant et blanchiment d'argent, selon le département du Trésor américain et Mexico News Daily. Juan Carlos González, dit « El Pelón », est désigné comme le nouveau chef du cartel après la mort de son prédécesseur « El Mencho » en février 2026.",
+      "en": "The U.S. Office of Foreign Assets Control (OFAC) imposed its largest-ever sanctions package against the Jalisco New Generation Cartel (CJNG), targeting 39 individuals (38 Mexican nationals and one dual national) and 16 Mexico-based companies for fentanyl and cocaine trafficking, fuel theft and money laundering, according to the U.S. Treasury Department and Mexico News Daily. Juan Carlos González, known as \"El Pelón,\" is named as the cartel's new leader following the February 2026 death of his predecessor \"El Mencho.\"",
+      "es": "La Oficina de Control de Activos Extranjeros de EE. UU. (OFAC) impuso su mayor paquete de sanciones hasta la fecha contra el Cártel de Jalisco Nueva Generación (CJNG), dirigido a 39 personas (38 ciudadanos mexicanos y un binacional) y 16 empresas con sede en México, por tráfico de fentanilo y cocaína, robo de combustible y lavado de dinero, según el Departamento del Tesoro de EE. UU. y Mexico News Daily. Juan Carlos González, alias \"El Pelón\", es señalado como el nuevo líder del cártel tras la muerte de su predecesor \"El Mencho\" en febrero de 2026."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "23/07/2026", "en": "23/07/2026", "es": "23/07/2026" },
+        "d": {
+          "fr": "L'OFAC annonce les sanctions contre 39 personnes et 16 entreprises liées au CJNG.",
+          "en": "OFAC announces sanctions against 39 individuals and 16 companies linked to the CJNG.",
+          "es": "OFAC anuncia sanciones contra 39 personas y 16 empresas vinculadas al CJNG."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "bresil-tarifs-reaction",
+    "coords": [-47.8828, -15.7939],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Washington Post / MercoPress / Al Jazeera",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le président Lula qualifie d'« erreur stratégique » les nouveaux tarifs américains",
+      "en": "President Lula calls new US tariffs a \"strategic mistake\"",
+      "es": "El presidente Lula califica de \"error estratégico\" los nuevos aranceles de EE. UU."
+    },
+    "summary": {
+      "fr": "Les États-Unis ont imposé un tarif additionnel de 12,5% s'ajoutant à une taxe existante de 25% sur des produits brésiliens, portant certains droits de douane à 37,5% à compter du 22 juillet, selon le Washington Post et MercoPress. Le président Lula a qualifié cette décision d'« erreur stratégique » qui nuirait au partenariat entre les deux pays. Les exportations brésiliennes vers les États-Unis sont tombées à leur plus bas niveau depuis 1997, le commerce bilatéral ayant reculé de 12,8% sur un an.",
+      "en": "The United States imposed an additional 12.5% tariff on top of an existing 25% levy on Brazilian goods, pushing some duties to 37.5% effective July 22, according to the Washington Post and MercoPress. President Lula called the move a \"strategic mistake\" that would harm the two countries' partnership. Brazilian exports to the US have fallen to their lowest level since 1997, with bilateral trade down 12.8% year-on-year.",
+      "es": "Estados Unidos impuso un arancel adicional del 12,5% sobre un gravamen ya existente del 25% a productos brasileños, elevando algunos derechos al 37,5% a partir del 22 de julio, según el Washington Post y MercoPress. El presidente Lula calificó la medida de \"error estratégico\" que dañaría la relación entre ambos países. Las exportaciones brasileñas a Estados Unidos cayeron a su nivel más bajo desde 1997, con un comercio bilateral un 12,8% menor interanual."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "26/07/2026", "en": "26/07/2026", "es": "26/07/2026" },
+        "d": {
+          "fr": "Lula qualifie publiquement les nouveaux tarifs américains d'« erreur stratégique », selon le Washington Post.",
+          "en": "Lula publicly calls the new US tariffs a \"strategic mistake,\" according to the Washington Post.",
+          "es": "Lula califica públicamente los nuevos aranceles de EE. UU. de \"error estratégico\", según el Washington Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-avion-ganderkesee",
+    "coords": [8.55, 53.05],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Police allemande (DPA) / Malay Mail",
+    "place": {
+      "fr": "Ganderkesee, près d'Oldenbourg, Basse-Saxe, Allemagne",
+      "en": "Ganderkesee, near Oldenburg, Lower Saxony, Germany",
+      "es": "Ganderkesee, cerca de Oldemburgo, Baja Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "Un avion léger s'écrase sur une maison en Basse-Saxe, deux morts",
+      "en": "Light aircraft crashes into a house in Lower Saxony, two dead",
+      "es": "Una avioneta se estrella contra una casa en Baja Sajonia y deja dos muertos"
+    },
+    "summary": {
+      "fr": "Un petit avion privé s'est écrasé sur le toit d'une maison à Ganderkesee, en Basse-Saxe, selon la police allemande citée par la DPA et relayée par plusieurs médias. Les deux occupants de l'appareil, des hommes de 65 et 77 ans originaires de Brême, sont morts. Les habitants du voisinage ont été évacués le temps d'une longue opération de récupération de l'épave avant de pouvoir regagner leur domicile.",
+      "en": "A small private plane crashed into the roof of a house in Ganderkesee, Lower Saxony, according to German police cited by DPA and relayed by several outlets. The plane's two occupants, men aged 65 and 77 from Bremen, died. Nearby residents were evacuated during a lengthy wreckage-recovery operation before being allowed to return home.",
+      "es": "Una pequeña avioneta privada se estrelló contra el tejado de una casa en Ganderkesee, Baja Sajonia, según la policía alemana citada por DPA y recogida por varios medios. Los dos ocupantes de la aeronave, hombres de 65 y 77 años de Bremen, murieron. Los vecinos fueron evacuados durante una larga operación de retirada de los restos antes de poder regresar a sus hogares."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "25/07/2026", "en": "25/07/2026", "es": "25/07/2026" },
+        "d": {
+          "fr": "La police confirme la mort des deux occupants de l'avion après le crash sur une maison de Ganderkesee.",
+          "en": "Police confirm the deaths of the plane's two occupants after it crashed into a house in Ganderkesee.",
+          "es": "La policía confirma la muerte de los dos ocupantes de la avioneta tras estrellarse contra una casa en Ganderkesee."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "france-incendie-gironde",
+    "coords": [-1.15, 44.85],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CNN / NPR / France 24",
+    "place": {
+      "fr": "Gironde et Landes (villages de Le Porge et Lacanau), sud-ouest de la France",
+      "en": "Gironde and Landes departments (villages of Le Porge and Lacanau), southwest France",
+      "es": "Gironda y Landas (localidades de Le Porge y Lacanau), suroeste de Francia"
+    },
+    "title": {
+      "fr": "L'un des plus grands incendies de France depuis la Seconde Guerre mondiale force l'évacuation de 250 000 personnes",
+      "en": "One of France's largest wildfires since WWII forces 250,000 evacuations",
+      "es": "Uno de los mayores incendios de Francia desde la Segunda Guerra Mundial obliga a evacuar a 250 000 personas"
+    },
+    "summary": {
+      "fr": "Un incendie qualifié par plusieurs médias de plus grand feu de forêt en France depuis la Seconde Guerre mondiale a brûlé plus de 42 000 hectares en Gironde et dans les Landes au 27 juillet, générant de rares épisodes de pyrocumulonimbus, selon CNN, NPR et France 24. Environ 250 000 personnes ont été évacuées ; le village du Porge a perdu plus de 180 maisons. Un pompier volontaire est mort quand son camion-citerne a quitté la route. Plus de 160 personnes ont été interrogées pour suspicion d'incendie volontaire depuis le 6 juillet.",
+      "en": "A wildfire described by several outlets as France's largest since World War II burned more than 42,000 hectares in Gironde and Landes as of July 27, generating rare pyrocumulonimbus \"fire thunderstorm\" activity, according to CNN, NPR and France 24. About 250,000 people were evacuated; the village of Le Porge lost more than 180 houses. A volunteer firefighter died when his water tanker went off the road. More than 160 people have been questioned on suspicion of arson since July 6.",
+      "es": "Un incendio descrito por varios medios como el mayor de Francia desde la Segunda Guerra Mundial quemó más de 42 000 hectáreas en Gironda y Landas hasta el 27 de julio, generando raros episodios de pirocumulonimbo, según CNN, NPR y France 24. Unas 250 000 personas fueron evacuadas; la localidad de Le Porge perdió más de 180 viviendas. Un bombero voluntario murió cuando su camión cisterna se salió de la carretera. Más de 160 personas han sido interrogadas por sospecha de incendio provocado desde el 6 de julio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "27/07/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "Le feu atteint son ampleur maximale avec plus de 42 000 hectares brûlés, selon CNN.",
+          "en": "The fire reaches its peak extent with more than 42,000 hectares burned, according to CNN.",
+          "es": "El incendio alcanza su máxima extensión con más de 42 000 hectáreas quemadas, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "espagne-incendie-castellon-avila",
+    "coords": [-4.6976, 40.6567],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CNN / NPR / PBS NewsHour",
+    "place": {
+      "fr": "Région de Castellón et zone d'Ávila-Madrid, Espagne",
+      "en": "Castellón region and Ávila-Madrid area, Spain",
+      "es": "Región de Castellón y zona de Ávila-Madrid, España"
+    },
+    "title": {
+      "fr": "L'Espagne mobilise l'aide européenne face à une dizaine d'incendies pendant une canicule",
+      "en": "Spain calls in EU help as around ten wildfires burn during a heatwave",
+      "es": "España moviliza la ayuda europea ante una decena de incendios durante una ola de calor"
+    },
+    "summary": {
+      "fr": "L'Espagne a combattu une dizaine d'incendies actifs en pleine canicule sévère, selon CNN, NPR et PBS NewsHour. Un feu dans la région de Castellón a brûlé près de 10 000 hectares et forcé plus de 10 000 évacuations ; des incendies réunis dans la zone d'Ávila-Madrid, à l'ouest de la capitale, ont parcouru environ 15 000 hectares et ont été qualifiés par des responsables de « hors de portée des moyens de lutte ». Le pays a activé le mécanisme de protection civile de l'UE, recevant avions et personnels de Grèce, d'Italie, du Portugal et de Turquie ; les évacués ont commencé à rentrer chez eux le 29 juillet.",
+      "en": "Spain battled around ten active wildfires amid a severe heatwave, according to CNN, NPR and PBS NewsHour. A fire in the Castellón region burned nearly 10,000 hectares and forced more than 10,000 evacuations; combined fires in the Ávila-Madrid area west of the capital burned about 15,000 hectares and were called \"beyond firefighting capacity\" by officials. The country activated the EU Civil Protection Mechanism, receiving aircraft and personnel from Greece, Italy, Portugal and Turkey; evacuees began returning home on July 29.",
+      "es": "España combatió una decena de incendios activos en plena ola de calor severa, según CNN, NPR y PBS NewsHour. Un incendio en la región de Castellón quemó cerca de 10 000 hectáreas y obligó a más de 10 000 evacuaciones; incendios unidos en la zona de Ávila-Madrid, al oeste de la capital, arrasaron unas 15 000 hectáreas y fueron calificados por las autoridades como \"fuera de la capacidad de extinción\". El país activó el Mecanismo Europeo de Protección Civil, recibiendo aviones y personal de Grecia, Italia, Portugal y Turquía; los evacuados comenzaron a regresar a sus hogares el 29 de julio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "29/07/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Les premiers évacués commencent à rentrer chez eux alors que le Premier ministre Sánchez appelle à la prudence.",
+          "en": "The first evacuees begin returning home as Prime Minister Sánchez urges continued caution.",
+          "es": "Los primeros evacuados comienzan a regresar a casa mientras el presidente Sánchez pide prudencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "italie-genes-proces-verdict",
+    "coords": [8.9463, 44.4056],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 24 / Al Jazeera / CNN",
+    "place": {
+      "fr": "Gênes, Ligurie, Italie",
+      "en": "Genoa, Liguria, Italy",
+      "es": "Génova, Liguria, Italia"
+    },
+    "title": {
+      "fr": "Effondrement du pont Morandi : 32 condamnations, 12 ans de prison pour l'ex-PDG d'Autostrade",
+      "en": "Morandi bridge collapse: 32 convictions, 12-year sentence for ex-Autostrade CEO",
+      "es": "Derrumbe del puente Morandi: 32 condenas, 12 años de prisión para el exdirector de Autostrade"
+    },
+    "summary": {
+      "fr": "Un tribunal de Gênes a condamné 32 des 57 prévenus jugés pour l'effondrement du pont Morandi en 2018, qui avait fait 43 morts, selon France 24, Al Jazeera et CNN. L'ancien PDG d'Autostrade per l'Italia, Giovanni Castellucci, a été condamné à 12 ans de prison, le cadre Michele Donferri Mitelli à 11 ans, et l'ex-responsable ministériel Mauro Coletta à 5 ans. Le procès s'est étalé sur quatre ans et 284 audiences ; 25 prévenus ont été acquittés.",
+      "en": "A Genoa court convicted 32 of the 57 defendants tried over the 2018 Morandi bridge collapse, which killed 43 people, according to France 24, Al Jazeera and CNN. Former Autostrade per l'Italia CEO Giovanni Castellucci was sentenced to 12 years in prison, executive Michele Donferri Mitelli to 11 years, and former ministry official Mauro Coletta to 5 years. The trial ran four years across 284 hearings; 25 defendants were acquitted.",
+      "es": "Un tribunal de Génova condenó a 32 de los 57 acusados juzgados por el derrumbe del puente Morandi en 2018, que dejó 43 muertos, según France 24, Al Jazeera y CNN. El ex director ejecutivo de Autostrade per l'Italia, Giovanni Castellucci, fue condenado a 12 años de prisión; el directivo Michele Donferri Mitelli, a 11 años; y el ex funcionario ministerial Mauro Coletta, a 5 años. El juicio se extendió durante cuatro años en 284 audiencias; 25 acusados fueron absueltos."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "16/07/2026", "en": "16/07/2026", "es": "16/07/2026" },
+        "d": {
+          "fr": "Le tribunal de Gênes rend son verdict après quatre ans de procès.",
+          "en": "The Genoa court delivers its verdict after a four-year trial.",
+          "es": "El tribunal de Génova dicta su veredicto tras cuatro años de juicio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-frappes-kryvyirih",
+    "coords": [33.39, 47.91],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "AP / Al Jazeera / UPI",
+    "place": {
+      "fr": "Kryvyi Rih (région de Dnipropetrovsk) et Lviv, Ukraine",
+      "en": "Kryvyi Rih (Dnipropetrovsk region) and Lviv, Ukraine",
+      "es": "Kryvyi Rih (región de Dnipropetrovsk) y Leópolis, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe massive fait au moins 8 morts en Ukraine, un missile entre dans l'espace aérien polonais",
+      "en": "Massive Russian strike kills at least 8 in Ukraine, a missile enters Polish airspace",
+      "es": "Un masivo ataque ruso deja al menos 8 muertos en Ucrania, un misil entra en el espacio aéreo polaco"
+    },
+    "summary": {
+      "fr": "La Russie a lancé plus de 70 missiles et environ 280 drones dans la nuit du 29 au 30 juillet ; les autorités ukrainiennes font état d'au moins 8 morts, dont trois enfants, et de dizaines de blessés, avec un bilan de blessés à Lviv porté à 30, selon l'AP, Al Jazeera et l'UPI. Un missile aurait pénétré l'espace aérien polonais, poussant la Pologne à faire décoller des avions de chasse. Le ministère russe de la Défense affirme avoir visé des bases aériennes, usines d'armement et sites logistiques militaires ukrainiens ; l'Ukraine conteste et affirme que des zones civiles ont été touchées — les versions des deux parties sont rapportées sans que l'une ne soit privilégiée.",
+      "en": "Russia launched more than 70 missiles and about 280 drones overnight on July 29-30; Ukrainian officials report at least 8 civilian deaths, including three children, and dozens wounded, with injuries in Lviv rising to 30, according to AP, Al Jazeera and UPI. A missile reportedly crossed into Polish airspace, prompting Poland to scramble fighter jets. Russia's defense ministry said it targeted Ukrainian air bases, arms factories and military logistics sites; Ukraine disputes this and says civilian areas were hit — both parties' accounts are reported without endorsing either.",
+      "es": "Rusia lanzó más de 70 misiles y unos 280 drones durante la noche del 29 al 30 de julio; las autoridades ucranianas informan de al menos 8 muertos civiles, entre ellos tres niños, y decenas de heridos, con el número de heridos en Leópolis elevado a 30, según AP, Al Jazeera y UPI. Un misil habría entrado en el espacio aéreo polaco, lo que llevó a Polonia a hacer despegar cazas. El ministerio de Defensa ruso afirmó haber atacado bases aéreas, fábricas de armamento e instalaciones logísticas militares ucranianas; Ucrania lo desmiente y asegura que se alcanzaron zonas civiles — se recogen las versiones de ambas partes sin privilegiar ninguna."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "30/07/2026", "en": "30/07/2026", "es": "30/07/2026" },
+        "d": {
+          "fr": "Les autorités ukrainiennes annoncent un bilan d'au moins 8 morts après la frappe massive de la nuit.",
+          "en": "Ukrainian authorities announce a toll of at least 8 dead after the overnight mass strike.",
+          "es": "Las autoridades ucranianas anuncian un balance de al menos 8 muertos tras el masivo ataque nocturno."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "japon-seisme-kumamoto",
+    "coords": [130.5975, 32.5044],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Bloomberg / Washington Post / Al Jazeera / CBS News",
+    "place": {
+      "fr": "Préfecture de Kumamoto (villes de Yatsushiro et Kashima), Kyushu, Japon",
+      "en": "Kumamoto Prefecture (Yatsushiro and Kashima cities), Kyushu, Japan",
+      "es": "Prefectura de Kumamoto (ciudades de Yatsushiro y Kashima), Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,1 frappe Kumamoto au Japon, au moins 34 morts",
+      "en": "Magnitude 7.1 earthquake strikes Kumamoto, Japan, kills at least 34",
+      "es": "Un terremoto de magnitud 7,1 sacude Kumamoto, Japón, y deja al menos 34 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,1 (revu à 6,8 par l'USGS) a frappé la préfecture de Kumamoto, sur l'île de Kyushu, le 28 juillet vers 16h27 heure locale, déclenchant une alerte au tsunami ensuite levée, selon Bloomberg, le Washington Post et Al Jazeera. Le deuxième étage d'un centre commercial Aeon à Kashima s'est effondré, suivi d'une explosion probablement liée à une fuite de gaz ; une cheminée d'usine papetière s'est également effondrée à Yatsushiro, piégeant des ouvriers. Le bilan est passé d'environ 13-18 à au moins 34 morts au 31 juillet, avec plus de 129 blessés dans les préfectures de Kumamoto, Fukuoka, Kagoshima et Oita.",
+      "en": "A magnitude 7.1 earthquake (revised to 6.8 by USGS) struck Kumamoto Prefecture on Kyushu island on July 28 at around 4:27 PM local time, triggering a tsunami advisory that was later lifted, according to Bloomberg, the Washington Post and Al Jazeera. The second floor of an Aeon Mall in Kashima collapsed, followed by an explosion likely linked to a gas leak; a paper-factory chimney also collapsed in Yatsushiro, trapping workers. The death toll rose from an initial 13-18 to at least 34 by July 31, with more than 129 injured across Kumamoto, Fukuoka, Kagoshima and Oita prefectures.",
+      "es": "Un terremoto de magnitud 7,1 (revisado a 6,8 por el USGS) sacudió la prefectura de Kumamoto, en la isla de Kyushu, el 28 de julio hacia las 16:27 hora local, activando una alerta de tsunami luego levantada, según Bloomberg, Washington Post y Al Jazeera. El segundo piso de un centro comercial Aeon en Kashima se derrumbó, seguido de una explosión probablemente vinculada a una fuga de gas; una chimenea de una fábrica de papel también se derrumbó en Yatsushiro, atrapando a trabajadores. El balance pasó de unos 13-18 a al menos 34 muertos al 31 de julio, con más de 129 heridos en las prefecturas de Kumamoto, Fukuoka, Kagoshima y Oita."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "28/07/2026", "en": "28/07/2026", "es": "28/07/2026" },
+        "d": {
+          "fr": "Le séisme frappe Kumamoto, provoquant l'effondrement du centre commercial de Kashima.",
+          "en": "The earthquake strikes Kumamoto, causing the Kashima shopping mall to collapse.",
+          "es": "El terremoto sacude Kumamoto, provocando el derrumbe del centro comercial de Kashima."
+        },
+        "active": false
+      },
+      {
+        "t": { "fr": "31/07/2026", "en": "31/07/2026", "es": "31/07/2026" },
+        "d": {
+          "fr": "Le bilan est porté à au moins 34 morts et plus de 129 blessés.",
+          "en": "The toll is raised to at least 34 dead and more than 129 injured.",
+          "es": "El balance se eleva a al menos 34 muertos y más de 129 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "inde-inondations-mousson",
+    "coords": [74.093, 33.7714],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / Business Standard / The Week",
+    "place": {
+      "fr": "Districts de Poonch, Rajouri et Doda (Jammu-et-Cachemire), et États du Nagaland et de l'Assam, Inde",
+      "en": "Poonch, Rajouri and Doda districts (Jammu and Kashmir), and Nagaland and Assam states, India",
+      "es": "Distritos de Poonch, Rajouri y Doda (Jammu y Cachemira), y los estados de Nagaland y Assam, India"
+    },
+    "title": {
+      "fr": "Des crues et glissements de terrain liés à la mousson font plus de 25 morts dans le nord de l'Inde",
+      "en": "Monsoon floods and landslides kill more than 25 across northern India",
+      "es": "Inundaciones y deslizamientos de tierra del monzón dejan más de 25 muertos en el norte de India"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson ont provoqué des crues soudaines et des glissements de terrain ayant fait au moins 25 morts entre le 18 et le 21 juillet, dont une quinzaine dans les districts de Poonch, Rajouri et Doda au Jammu-et-Cachemire, neuf lors de glissements de terrain au Nagaland, et d'autres décès en Assam où le niveau du Brahmapoutre est monté, selon Al Jazeera, Business Standard et The Week. Plus de 57 000 personnes ont été déplacées ; les pèlerinages d'Amarnath, de Vaishno Devi et de Shiv Khori ont été suspendus sur alerte de l'agence météorologique indienne.",
+      "en": "Heavy monsoon rains caused flash floods and landslides that killed at least 25 people between July 18 and 21, including around 15 in the Poonch, Rajouri and Doda districts of Jammu and Kashmir, nine in landslides in Nagaland, and further deaths in Assam as the Brahmaputra river rose, according to Al Jazeera, Business Standard and The Week. More than 57,000 people were displaced; the Amarnath, Vaishno Devi and Shiv Khori pilgrimages were suspended on flash-flood warnings from India's weather agency.",
+      "es": "Fuertes lluvias monzónicas provocaron inundaciones repentinas y deslizamientos de tierra que dejaron al menos 25 muertos entre el 18 y el 21 de julio, unos 15 de ellos en los distritos de Poonch, Rajouri y Doda, en Jammu y Cachemira, nueve en deslizamientos en Nagaland, y más fallecidos en Assam por la crecida del río Brahmaputra, según Al Jazeera, Business Standard y The Week. Más de 57 000 personas fueron desplazadas; las peregrinaciones de Amarnath, Vaishno Devi y Shiv Khori fueron suspendidas por alertas de inundación repentina de la agencia meteorológica india."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "21/07/2026", "en": "21/07/2026", "es": "21/07/2026" },
+        "d": {
+          "fr": "Le bilan des inondations et glissements de terrain atteint au moins 25 morts dans le nord de l'Inde.",
+          "en": "The toll from floods and landslides reaches at least 25 dead across northern India.",
+          "es": "El balance de las inundaciones y deslizamientos alcanza al menos 25 muertos en el norte de India."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-incendies-secheresse",
+    "coords": [109.73, -6.91],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Jakarta Post / Xinhua",
+    "place": {
+      "fr": "Régence de Batang (village de Kedawung), Java central, Indonésie",
+      "en": "Batang Regency (Kedawung village), Central Java, Indonesia",
+      "es": "Regencia de Batang (aldea de Kedawung), Java Central, Indonesia"
+    },
+    "title": {
+      "fr": "Plus de 5000 foyers d'incendie recensés en Indonésie face à une saison sèche renforcée par El Niño",
+      "en": "Over 5,000 fire hotspots recorded in Indonesia as El Niño intensifies the dry season",
+      "es": "Más de 5000 focos de incendio registrados en Indonesia por una temporada seca reforzada por El Niño"
+    },
+    "summary": {
+      "fr": "L'Indonésie a recensé plus de 5000 foyers d'incendie actifs au 29 juillet, une hausse plus marquée que lors des précédentes années El Niño (2015, 2019, 2023), alors que la saison sèche s'intensifie, selon The Jakarta Post et Xinhua ; la régence de Purworejo, à Java central, n'a pas connu de pluie depuis 80 jours. Un agriculteur de 70 ans est mort pris au piège des flammes dans un champ de canne à sucre du village de Kedawung, dans la régence de Batang. L'agence météorologique indonésienne (BMKG) prévient que les conditions El Niño devraient persister jusqu'au début de 2027.",
+      "en": "Indonesia recorded more than 5,000 active fire hotspots as of July 29, a sharper increase than in previous El Niño years (2015, 2019, 2023), as the dry season intensifies, according to The Jakarta Post and Xinhua; Purworejo regency in Central Java has gone without rain for 80 days. A 70-year-old farmer died trapped by flames in a sugarcane field in Kedawung village, Batang Regency. Indonesia's weather agency (BMKG) warns El Niño conditions will persist into early 2027.",
+      "es": "Indonesia registró más de 5000 focos de incendio activos hasta el 29 de julio, un aumento más pronunciado que en anteriores años de El Niño (2015, 2019, 2023), a medida que se intensifica la temporada seca, según The Jakarta Post y Xinhua; la regencia de Purworejo, en Java Central, lleva 80 días sin lluvia. Un agricultor de 70 años murió atrapado por las llamas en un cañaveral de la aldea de Kedawung, regencia de Batang. La agencia meteorológica indonesia (BMKG) advierte que las condiciones de El Niño persistirán hasta principios de 2027."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "29/07/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Le nombre de foyers d'incendie actifs dépasse 5000 à l'échelle du pays, selon The Jakarta Post.",
+          "en": "The number of active fire hotspots exceeds 5,000 nationwide, according to The Jakarta Post.",
+          "es": "El número de focos de incendio activos supera los 5000 en todo el país, según The Jakarta Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 2
+  },
+  {
+    "id": "chine-tarifs-plafond",
+    "coords": [116.4074, 39.9042],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine affirme que Washington a accepté de plafonner à 20% les tarifs sur ses produits",
+      "en": "China says Washington agreed to cap tariffs on its goods at 20%",
+      "es": "China afirma que Washington aceptó limitar al 20% los aranceles a sus productos"
+    },
+    "summary": {
+      "fr": "Le ministère chinois du Commerce affirme que les États-Unis se sont engagés, lors de discussions commerciales bilatérales, à plafonner à 20% tout nouveau tarif « de remplacement » sur les produits chinois, après l'entrée en vigueur le 24 juillet d'un nouveau tarif américain de 12,5% lié à l'application de règles contre le travail forcé, selon Bloomberg. Cette information n'a pour l'instant été rapportée que par une seule agence et n'a pas été confirmée de façon indépendante par une autre source majeure.",
+      "en": "China's Commerce Ministry says the United States committed, during bilateral trade talks, to cap any further \"replacement\" tariff on Chinese goods at 20%, after a new US tariff of 12.5% tied to forced-labor import enforcement took effect on July 24, according to Bloomberg. This has so far been reported by only one wire service and has not been independently confirmed by another major source.",
+      "es": "El Ministerio de Comercio chino afirma que Estados Unidos se comprometió, durante conversaciones comerciales bilaterales, a limitar al 20% cualquier nuevo arancel \"de reemplazo\" sobre productos chinos, tras la entrada en vigor el 24 de julio de un nuevo arancel estadounidense del 12,5% ligado a la aplicación de normas contra el trabajo forzoso, según Bloomberg. Esta información, por ahora, solo ha sido reportada por una agencia y no ha sido confirmada de forma independiente por otra fuente importante."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "27/07/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "Le ministère chinois du Commerce annonce l'accord sur le plafonnement tarifaire, selon Bloomberg.",
+          "en": "China's Commerce Ministry announces the tariff-cap agreement, according to Bloomberg.",
+          "es": "El Ministerio de Comercio chino anuncia el acuerdo sobre el límite arancelario, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-zamfara-attaque",
+    "coords": [6.07, 12.57],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera (AFP) / Sahara Reporters",
+    "place": {
+      "fr": "District de Sauna, zone de Talata Mafara, État de Zamfara, Nigeria",
+      "en": "Sauna district, Talata Mafara area, Zamfara State, Nigeria",
+      "es": "Distrito de Sauna, zona de Talata Mafara, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés tuent plus de 20 personnes lors d'un raid dans l'État de Zamfara",
+      "en": "Gunmen kill more than 20 people in a raid in Zamfara State",
+      "es": "Hombres armados matan a más de 20 personas en un ataque en el estado de Zamfara"
+    },
+    "summary": {
+      "fr": "Des bandits armés ont attaqué des villages du district de Sauna, dans la zone de Talata Mafara (État de Zamfara, nord-ouest du Nigeria), pendant environ trois heures, tuant plus de 20 personnes, selon Al Jazeera citant l'AFP et Sahara Reporters. Des survivants accusent les forces de sécurité d'avoir fui les lieux. Le raid intervient dans un contexte de banditisme croissant dans le nord-ouest du pays, où plus de 20 personnes déplacées ont par ailleurs été enlevées dans l'État voisin de Sokoto à peu près au même moment.",
+      "en": "Armed bandits attacked villages in the Sauna district, Talata Mafara area of Zamfara State, northwest Nigeria, for about three hours, killing more than 20 people, according to Al Jazeera citing AFP and Sahara Reporters. Survivors accused security forces of fleeing the scene. The raid comes amid escalating banditry in northwest Nigeria, where more than 20 displaced people were separately reported abducted in neighboring Sokoto State around the same time.",
+      "es": "Bandidos armados atacaron aldeas del distrito de Sauna, en la zona de Talata Mafara (estado de Zamfara, noroeste de Nigeria), durante unas tres horas, matando a más de 20 personas, según Al Jazeera citando a AFP y Sahara Reporters. Sobrevivientes acusaron a las fuerzas de seguridad de haber huido del lugar. El ataque se produce en un contexto de creciente bandidaje en el noroeste del país, donde más de 20 desplazados fueron además reportados secuestrados en el vecino estado de Sokoto casi al mismo tiempo."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "23/07/2026", "en": "23/07/2026", "es": "23/07/2026" },
+        "d": {
+          "fr": "Des hommes armés attaquent des villages du district de Sauna pendant environ trois heures.",
+          "en": "Gunmen attack villages in the Sauna district for about three hours.",
+          "es": "Hombres armados atacan aldeas del distrito de Sauna durante unas tres horas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 3
+  },
+  {
+    "id": "egypte-damiette-frappe",
+    "coords": [31.8133, 31.4165],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / CNN / Euronews",
+    "related": ["iran-conflit-reprise"],
+    "place": {
+      "fr": "Port de Damiette, delta du Nil, Égypte",
+      "en": "Port of Damietta, Nile Delta, Egypt",
+      "es": "Puerto de Damietta, delta del Nilo, Egipto"
+    },
+    "title": {
+      "fr": "Une frappe de drone provoque un incendie sur deux navires gaziers au port de Damiette",
+      "en": "Drone strike sparks fire on two gas carriers at Damietta port",
+      "es": "Un ataque con dron provoca un incendio en dos buques gaseros en el puerto de Damietta"
+    },
+    "summary": {
+      "fr": "Un drone a frappé le 29 juillet le pétrolier-méthanier battant pavillon singapourien *Energos Winter* amarré au port égyptien de Damiette, provoquant un incendie qui s'est propagé à un second navire, le *Gaslog Salem*, selon Al Jazeera, CNN et Euronews. Les équipages ont été évacués et aucun blessé n'a été signalé. C'est la première fois que le conflit touche directement le territoire égyptien depuis son déclenchement. Le président américain Trump a évoqué un lien avec l'Iran, mais aucun groupe n'a revendiqué l'attaque et des analystes indépendants ont mis en doute cette attribution, qui reste donc non confirmée.",
+      "en": "A drone struck the Singapore-flagged LNG carrier *Energos Winter* docked at Egypt's Damietta port on July 29, igniting a fire that spread to a second vessel, the *Gaslog Salem*, according to Al Jazeera, CNN and Euronews. Crews were evacuated and no injuries were reported. It marks the first time the conflict has directly struck Egyptian territory since it began. US President Trump suggested a link to Iran, but no group has claimed the attack and independent analysts have questioned that attribution, which remains unconfirmed.",
+      "es": "Un dron atacó el 29 de julio al buque gasero de bandera singapurense *Energos Winter*, atracado en el puerto egipcio de Damietta, provocando un incendio que se propagó a una segunda embarcación, el *Gaslog Salem*, según Al Jazeera, CNN y Euronews. Las tripulaciones fueron evacuadas y no se reportaron heridos. Es la primera vez que el conflicto golpea directamente territorio egipcio desde su inicio. El presidente estadounidense Trump sugirió un vínculo con Irán, pero ningún grupo se ha atribuido el ataque y analistas independientes han cuestionado esa atribución, que sigue sin confirmarse."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "29/07/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Le gouvernement égyptien confirme qu'un incendie d'origine drone a touché deux navires au port de Damiette.",
+          "en": "The Egyptian government confirms a drone-caused fire hit two ships at Damietta port.",
+          "es": "El gobierno egipcio confirma que un incendio provocado por un dron alcanzó a dos buques en el puerto de Damietta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W31",
+    "priority": 3
   }
 ]
