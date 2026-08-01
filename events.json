@@ -734,10 +734,25 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "07/29/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Le conflit s'étend : le territoire égyptien est touché pour la première fois par une frappe de drone au port de Damiette (voir l'événement lié) ; l'origine exacte de la frappe reste disputée entre les parties.",
+          "en": "The conflict widens: Egyptian territory is hit for the first time by a drone strike at Damietta port (see related event); the exact origin of the strike remains disputed between the parties.",
+          "es": "El conflicto se amplía: el territorio egipcio es alcanzado por primera vez por un ataque con dron en el puerto de Damietta (véase el evento relacionado); el origen exacto del ataque sigue siendo disputado entre las partes."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "egypt-damietta-drone-strike"
+    ],
     "priority": 2
   },
   {
@@ -829,5 +844,1251 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "kumamoto-seisme-2026",
+    "coords": [
+      130.6667,
+      32.6833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚",
+    "source": "Japan Times, NPR, Al Jazeera, NHK, Nikkei Asia",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Uki et Yatsushiro (quartier de Kashima), préfecture de Kumamoto, île de Kyushu, Japon",
+      "en": "Uki and Yatsushiro (Kashima area), Kumamoto Prefecture, Kyushu island, Japan",
+      "es": "Uki y Yatsushiro (zona de Kashima), prefectura de Kumamoto, isla de Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,1 fait au moins 36 morts à Kumamoto, au Japon",
+      "en": "Magnitude 7.1 earthquake kills at least 36 in Kumamoto, Japan",
+      "es": "Un terremoto de magnitud 7,1 deja al menos 36 muertos en Kumamoto, Japón"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,1 a frappé la préfecture de Kumamoto, sur l'île de Kyushu, le 28 juillet 2026, atteignant le niveau maximal 7 sur l'échelle sismique japonaise près des villes d'Uki et de Hikawa. Le séisme a déclenché une alerte au tsunami et provoqué l'effondrement partiel d'un centre commercial Aeon dans le secteur de Kashima, à Yatsushiro, tandis que huit autres personnes sont mortes dans une usine de pâte à papier voisine. Au 1er août, le bilan atteignait 36 morts, avec plus de 260 000 habitants sous ordre d'évacuation et des milliers de sinistrés confrontés à des pénuries d'eau sous une chaleur estivale intense.",
+      "en": "A magnitude 7.1 earthquake struck Kumamoto Prefecture on Kyushu island on July 28, 2026, registering the maximum intensity of 7 on Japan's seismic scale near the cities of Uki and Hikawa. The quake triggered a tsunami advisory and caused an Aeon shopping mall to partially collapse in the Kashima area of Yatsushiro city, while eight more people died at a nearby paper mill. By August 1 the death toll had risen to 36, with over 260,000 residents under evacuation orders and thousands sheltering amid water shortages and intense summer heat.",
+      "es": "Un terremoto de magnitud 7,1 sacudió la prefectura de Kumamoto, en la isla de Kyushu, el 28 de julio de 2026, alcanzando el nivel máximo 7 en la escala sísmica japonesa cerca de las ciudades de Uki y Hikawa. El sismo provocó una alerta de tsunami y el derrumbe parcial de un centro comercial Aeon en la zona de Kashima, en la ciudad de Yatsushiro, mientras que otras ocho personas murieron en una fábrica de papel cercana. Para el 1 de agosto el número de muertos había subido a 36, con más de 260.000 residentes bajo orden de evacuación y miles de personas refugiadas en medio de escasez de agua y un calor estival intenso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026 — 16h27 (heure locale)",
+          "en": "28/07/2026 — 4:27 pm (local time)",
+          "es": "28/07/2026 — 16:27 (hora local)"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 (profondeur d'environ 16 km) frappe la région de Kumamoto, atteignant le niveau 7 à Uki et Hikawa ; une alerte au tsunami est émise et un centre commercial Aeon s'effondre partiellement à Kashima (Yatsushiro).",
+          "en": "A magnitude 7.1 earthquake (depth of about 16 km) strikes the Kumamoto region, reaching intensity 7 in Uki and Hikawa; a tsunami advisory is issued and an Aeon shopping mall partially collapses in Kashima (Yatsushiro).",
+          "es": "Un terremoto de magnitud 7,1 (profundidad de unos 16 km) golpea la región de Kumamoto, alcanzando la intensidad 7 en Uki y Hikawa; se emite una alerta de tsunami y un centro comercial Aeon se derrumba parcialmente en Kashima (Yatsushiro)."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint 34 morts et 123 blessés ; plus de 267 000 personnes restent sous ordre d'évacuation.",
+          "en": "The toll reaches 34 dead and 123 injured; more than 267,000 people remain under evacuation orders.",
+          "es": "El balance llega a 34 muertos y 123 heridos; más de 267.000 personas permanecen bajo orden de evacuación."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan grimpe à 36 morts alors que les rescapés affrontent une chaleur intense et des pénuries d'eau ; environ 9 228 personnes sont hébergées dans 229 abris.",
+          "en": "The death toll climbs to 36 as survivors face intense heat and water shortages; about 9,228 people are sheltering in 229 evacuation centers.",
+          "es": "El número de muertos sube a 36 mientras los supervivientes enfrentan calor intenso y escasez de agua; unas 9.228 personas se refugian en 229 centros de evacuación."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "typhon-noul-guangdong",
+    "coords": [
+      114.95,
+      22.75
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪",
+    "source": "Al Jazeera, CBC News, South China Morning Post, The Standard (HK)",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Pinghai, comté de Huidong, Huizhou, province du Guangdong, Chine (avec impacts à Hong Kong et au Fujian)",
+      "en": "Pinghai town, Huidong county, Huizhou, Guangdong province, China (with impacts in Hong Kong and Fujian)",
+      "es": "Localidad de Pinghai, condado de Huidong, Huizhou, provincia de Guangdong, China (con impactos en Hong Kong y Fujian)"
+    },
+    "title": {
+      "fr": "Le typhon Noul, tempête la plus puissante de l'année, fait au moins 10 morts dans le sud de la Chine",
+      "en": "Typhoon Noul, the year's strongest storm, kills at least 10 in southern China",
+      "es": "El tifón Noul, la tormenta más fuerte del año, deja al menos 10 muertos en el sur de China"
+    },
+    "summary": {
+      "fr": "Le typhon Noul a touché terre à Pinghai, dans le comté de Huidong (Huizhou, Guangdong), vers 3h50 le 26 juillet 2026, avec des vents atteignant 150 à 162 km/h, devenant le typhon le plus puissant à frapper la Chine cette année. La tempête a fait au moins 10 morts et entraîné l'évacuation de centaines de milliers de personnes dans le Guangdong, le Fujian et à Hong Kong ; les estimations d'évacués varient selon les sources, de près de 340 000 à plus de 900 000 personnes à mesure que le bilan était actualisé. Environ 1 800 vols ont été annulés.",
+      "en": "Typhoon Noul made landfall at Pinghai town in Huidong county (Huizhou, Guangdong) at around 3:50am on July 26, 2026, with winds of 150-162 km/h, becoming the strongest typhoon to hit China this year. The storm killed at least 10 people and triggered the evacuation of hundreds of thousands of people across Guangdong, Fujian and Hong Kong; evacuation figures varied between sources, ranging from roughly 340,000 to over 900,000 as counts were updated. Around 1,800 flights were grounded.",
+      "es": "El tifón Noul tocó tierra en Pinghai, condado de Huidong (Huizhou, Guangdong), hacia las 3:50 de la madrugada del 26 de julio de 2026, con vientos de 150 a 162 km/h, convirtiéndose en el tifón más fuerte que ha golpeado a China este año. La tormenta dejó al menos 10 muertos y obligó a evacuar a cientos de miles de personas en Guangdong, Fujian y Hong Kong; las cifras de evacuados varían según la fuente, entre unas 340.000 y más de 900.000 personas. Se cancelaron cerca de 1.800 vuelos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026 — 03h50 (heure locale)",
+          "en": "26/07/2026 — 3:50 am (local time)",
+          "es": "26/07/2026 — 3:50 (hora local)"
+        },
+        "d": {
+          "fr": "Le typhon Noul touche terre à Pinghai, dans le comté de Huidong (Huizhou, Guangdong), avec des vents proches de 150-162 km/h.",
+          "en": "Typhoon Noul makes landfall at Pinghai town, Huidong county (Huizhou, Guangdong), with winds near 150-162 km/h.",
+          "es": "El tifón Noul toca tierra en Pinghai, condado de Huidong (Huizhou, Guangdong), con vientos cercanos a 150-162 km/h."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26-27/07/2026",
+          "en": "26-27/07/2026",
+          "es": "26-27/07/2026"
+        },
+        "d": {
+          "fr": "Des centaines de milliers de personnes sont évacuées dans le Guangdong ; Hong Kong recense 21 blessés et annule environ 350 vols ; le bilan s'élève à au moins 10 morts.",
+          "en": "Hundreds of thousands are evacuated across Guangdong; Hong Kong reports 21 injured and cancels around 350 flights; the death toll rises to at least 10.",
+          "es": "Cientos de miles de personas son evacuadas en Guangdong; Hong Kong reporta 21 heridos y cancela unos 350 vuelos; el balance de muertos sube a al menos 10."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/07/2026 (suivi en cours)",
+          "en": "28/07/2026 (ongoing)",
+          "es": "28/07/2026 (seguimiento en curso)"
+        },
+        "d": {
+          "fr": "Les autorités débloquent 100 millions de yuans pour les secours alors que les alertes aux inondations se poursuivent dans l'intérieur du Guangdong et du Fujian.",
+          "en": "Authorities allocate 100 million yuan for disaster relief as flood warnings continue inland across Guangdong and Fujian.",
+          "es": "Las autoridades destinan 100 millones de yuanes a labores de socorro mientras continúan las alertas de inundación tierra adentro en Guangdong y Fujian."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "kospi-krach-juillet2026",
+    "coords": [
+      126.9245,
+      37.5219
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg, Al Jazeera, Korea Herald, Yonhap",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Séoul (Bourse de Séoul, quartier de Yeouido), Corée du Sud",
+      "en": "Seoul (Korea Exchange, Yeouido district), South Korea",
+      "es": "Seúl (Bolsa de Corea, distrito de Yeouido), Corea del Sur"
+    },
+    "title": {
+      "fr": "L'indice sud-coréen KOSPI subit un krach historique, son pire mois jamais enregistré",
+      "en": "South Korea's KOSPI suffers historic crash, its worst month on record",
+      "es": "El índice surcoreano KOSPI sufre un desplome histórico, su peor mes registrado"
+    },
+    "summary": {
+      "fr": "L'indice de référence sud-coréen KOSPI a plongé fortement en juillet 2026, chutant de près de 29 % à 33-34 % depuis son sommet de juin selon les sources, dans ce que plusieurs médias ont qualifié de pire mois jamais enregistré, dépassant les baisses de la crise financière asiatique de 1997 et de la crise mondiale de 2008. La déroute a été alimentée par des résultats décevants du fabricant de puces SK Hynix et par des informations selon lesquelles la Chine aurait commencé la production de masse d'équipements de lithographie à ultraviolets profonds (DUV), ravivant les craintes d'une concurrence chinoise dans les semi-conducteurs. Le gouvernement a tenu une réunion d'urgence le 29 juillet.",
+      "en": "South Korea's benchmark KOSPI index plunged sharply in July 2026, falling by roughly 29% to 33-34% from its June peak depending on the source, in what multiple outlets called its worst month on record, surpassing the declines of the 1997 Asian financial crisis and the 2008 global financial crisis. The rout was driven by disappointing earnings from chipmaker SK Hynix and reports that China had begun mass-producing deep ultraviolet (DUV) lithography equipment, reviving fears of Chinese competition in semiconductor manufacturing. The government held an emergency meeting on July 29.",
+      "es": "El índice de referencia surcoreano KOSPI se desplomó fuertemente en julio de 2026, cayendo entre un 29% y un 33-34% desde su máximo de junio según la fuente, en lo que varios medios calificaron como su peor mes registrado, superando las caídas de la crisis financiera asiática de 1997 y la crisis financiera mundial de 2008. El desplome fue impulsado por los decepcionantes resultados del fabricante de chips SK Hynix y por informes de que China había comenzado a producir en masa equipos de litografía ultravioleta profunda (DUV). El gobierno celebró una reunión de emergencia el 29 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28-29/07/2026",
+          "en": "28-29/07/2026",
+          "es": "28-29/07/2026"
+        },
+        "d": {
+          "fr": "Le KOSPI chute de près de 13 % en deux séances, déclenchant des coupe-circuits deux jours de suite et effaçant environ 864 500 milliards de wons de valeur boursière.",
+          "en": "The KOSPI plunges nearly 13% over two sessions, triggering circuit breakers on consecutive days and wiping out about 864.5 trillion won in market value.",
+          "es": "El KOSPI se desploma casi un 13% en dos sesiones, activando cortocircuitos en días consecutivos y borrando unos 864,5 billones de wones en valor de mercado."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/07/2026 — 18h00",
+          "en": "29/07/2026 — 6:00 pm",
+          "es": "29/07/2026 — 18:00"
+        },
+        "d": {
+          "fr": "Le ministre des Finances Koo Yun-cheol réunit en urgence le gouverneur de la Banque de Corée et les régulateurs financiers ; des restrictions renforcées sur les ETF à effet de levier sont annoncées.",
+          "en": "Finance Minister Koo Yun-cheol convenes an emergency meeting with the Bank of Korea governor and financial regulators; officials announce tighter curbs on leveraged ETFs.",
+          "es": "El ministro de Finanzas, Koo Yun-cheol, convoca una reunión de emergencia con el gobernador del Banco de Corea y los reguladores financieros; se anuncian restricciones más estrictas a los ETF apalancados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Juillet se termine comme le pire mois de l'histoire du KOSPI, avec des baisses rapportées allant d'environ 29 % à 33-34 % selon les sources.",
+          "en": "July closes as the KOSPI's worst month on record, with reported declines ranging from about 29% to 33-34% depending on the source.",
+          "es": "Julio cierra como el peor mes registrado para el KOSPI, con caídas reportadas de entre un 29% y un 33-34% según la fuente."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "espagne-ceuta-migrants",
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Reuters, ABC News, CNN, CBS News, El Diario",
+    "week": "2026-W31",
+    "priority": 2,
+    "related": [
+      "italie-schengen-espagne"
+    ],
+    "place": {
+      "fr": "Ceuta, Espagne",
+      "en": "Ceuta, Spain",
+      "es": "Ceuta, España"
+    },
+    "title": {
+      "fr": "Crise migratoire à Ceuta : au moins 57 morts après l'arrivée massive de migrants",
+      "en": "Ceuta migration crisis: at least 57 dead after mass migrant arrival",
+      "es": "Crisis migratoria en Ceuta: al menos 57 muertos tras la llegada masiva de migrantes"
+    },
+    "summary": {
+      "fr": "Environ 60 000 migrants ont franchi la frontière entre le Maroc et l'enclave espagnole de Ceuta entre le 29 et le 31 juillet 2026, l'une des plus importantes vagues jamais enregistrées. Au moins 57 personnes sont mortes, noyées ou écrasées en tentant d'escalader la digue soutenant la clôture frontalière. L'Espagne a déployé l'armée et la Guardia Civil ; le Premier ministre Pedro Sánchez a dénoncé une « violation de l'intégrité territoriale » du pays et évoqué des réseaux de passeurs. Vendredi soir, environ 48 300 personnes étaient déjà reparties, volontairement ou par expulsion, vers le Maroc.",
+      "en": "Around 60,000 migrants crossed from Morocco into the Spanish enclave of Ceuta between July 29 and 31, 2026, one of the largest surges on record. At least 57 people died, drowned or crushed while trying to climb the breakwater supporting the border fence. Spain deployed the army and Guardia Civil; Prime Minister Pedro Sánchez called it a \"violation of Spain's territorial integrity\" and pointed to trafficking networks. By Friday evening, about 48,300 people had already returned to Morocco, either voluntarily or through expulsion.",
+      "es": "Cerca de 60.000 migrantes cruzaron desde Marruecos hasta el enclave español de Ceuta entre el 29 y el 31 de julio de 2026, una de las mayores oleadas registradas. Al menos 57 personas murieron, ahogadas o aplastadas al intentar trepar el espigón que sostiene la valla fronteriza. España desplegó al Ejército y a la Guardia Civil; el presidente Pedro Sánchez calificó lo ocurrido de «violación de la integridad territorial» de España y señaló a mafias de tráfico de personas. En la tarde del viernes ya habían regresado a Marruecos unas 48.300 personas, de forma voluntaria o expulsadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29-30/07/2026",
+          "en": "29-30/07/2026",
+          "es": "29-30/07/2026"
+        },
+        "d": {
+          "fr": "Début de l'arrivée massive de migrants à la frontière de Ceuta depuis le Maroc ; premier bilan de plusieurs dizaines de morts.",
+          "en": "Mass migrant arrival begins at the Ceuta border from Morocco; initial toll of several dozen dead.",
+          "es": "Comienza la llegada masiva de migrantes a la frontera de Ceuta desde Marruecos; primer balance de varias decenas de muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "L'Espagne déploie l'armée ; le Premier ministre Pedro Sánchez se rend à Ceuta et dénonce une « violation de l'intégrité territoriale ».",
+          "en": "Spain deploys the army; PM Pedro Sánchez visits Ceuta and denounces a \"violation of territorial integrity\".",
+          "es": "España despliega al Ejército; el presidente Pedro Sánchez visita Ceuta y denuncia una «violación de la integridad territorial»."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel grimpe à 57 morts ; environ 48 300 des 60 000 migrants arrivés sont retournés au Maroc.",
+          "en": "Official toll rises to 57 dead; about 48,300 of the 60,000 migrants who arrived have returned to Morocco.",
+          "es": "El balance oficial sube a 57 muertos; unos 48.300 de los 60.000 migrantes llegados han regresado a Marruecos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "italie-schengen-espagne",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛂",
+    "source": "ANSA, Euronews, Il Giornale",
+    "week": "2026-W31",
+    "priority": 1,
+    "related": [
+      "espagne-ceuta-migrants"
+    ],
+    "place": {
+      "fr": "Rome, Italie",
+      "en": "Rome, Italy",
+      "es": "Roma, Italia"
+    },
+    "title": {
+      "fr": "L'Italie suspend Schengen avec l'Espagne après la crise migratoire de Ceuta",
+      "en": "Italy suspends Schengen agreement with Spain over Ceuta migration crisis",
+      "es": "Italia suspende Schengen con España tras la crisis migratoria de Ceuta"
+    },
+    "summary": {
+      "fr": "Le gouvernement de Giorgia Meloni a annoncé le 31 juillet 2026 la suspension temporaire de la libre circulation Schengen avec l'Espagne, rétablissant les contrôles aux frontières aériennes et maritimes entre les deux pays à compter du 1er août, pour une durée d'un mois renouvelable. Le vice-Premier ministre et ministre des Affaires étrangères Antonio Tajani a présenté la mesure comme « nécessaire » et « prévue par les traités », après l'afflux massif de migrants à Ceuta. Meloni a parlé d'une « mesure extraordinaire pour protéger la sécurité nationale ». Le Premier ministre espagnol Pedro Sánchez a répliqué que « la solidarité est facultative, le respect des traités européens ne l'est pas ».",
+      "en": "Giorgia Meloni's government announced on July 31, 2026 the temporary suspension of Schengen free movement with Spain, reinstating border controls on air and sea links between the two countries from August 1, for one renewable month. Deputy Prime Minister and Foreign Minister Antonio Tajani described the move as \"necessary\" and \"provided for by the treaties\", following the massive migrant influx into Ceuta. Meloni called it an \"extraordinary measure to protect national security\". Spanish PM Pedro Sánchez responded that \"solidarity is optional; respect for European treaties is not\".",
+      "es": "El Gobierno de Giorgia Meloni anunció el 31 de julio de 2026 la suspensión temporal de la libre circulación Schengen con España, restableciendo los controles fronterizos en las conexiones aéreas y marítimas entre ambos países a partir del 1 de agosto, durante un mes prorrogable. El viceprimer ministro y ministro de Asuntos Exteriores, Antonio Tajani, presentó la medida como «necesaria» y «prevista por los tratados», tras la afluencia masiva de migrantes a Ceuta. Meloni la calificó de «medida extraordinaria para proteger la seguridad nacional». El presidente español, Pedro Sánchez, respondió que «la solidaridad es optativa; el respeto a los tratados europeos no lo es»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Tajani se dit favorable à la fermeture de Schengen avec l'Espagne, invoquant des risques pour la sécurité.",
+          "en": "Tajani says he favors closing Schengen with Spain, citing security risks.",
+          "es": "Tajani se declara favorable al cierre de Schengen con España, alegando riesgos de seguridad."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026 (soir)",
+          "en": "31/07/2026 (evening)",
+          "es": "31/07/2026 (noche)"
+        },
+        "d": {
+          "fr": "Le gouvernement italien approuve la suspension temporaire de Schengen avec l'Espagne (frontières aériennes et maritimes), effective au 1er août pour un mois.",
+          "en": "The Italian government approves the temporary Schengen suspension with Spain (air and sea borders), effective August 1 for one month.",
+          "es": "El Gobierno italiano aprueba la suspensión temporal de Schengen con España (fronteras aéreas y marítimas), vigente desde el 1 de agosto durante un mes."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "berlin-csd-attaque",
+    "coords": [
+      13.376,
+      52.509
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "PBS News, Euronews, Al Jazeera, CBS News, Bloomberg",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Berlin (Tiergarten / Potsdamer Platz), Allemagne",
+      "en": "Berlin (Tiergarten / Potsdamer Platz), Germany",
+      "es": "Berlín (Tiergarten / Potsdamer Platz), Alemania"
+    },
+    "title": {
+      "fr": "Attaque mortelle à la camionnette lors de la Christopher Street Day à Berlin",
+      "en": "Deadly van attack at Berlin's Christopher Street Day Pride parade",
+      "es": "Ataque mortal con furgoneta en el desfile del Orgullo de Berlín (Christopher Street Day)"
+    },
+    "summary": {
+      "fr": "Le samedi 25 juillet 2026 vers 22h, un homme de 21 ans a lancé une camionnette dans la foule rassemblée pour la Christopher Street Day (marche des fiertés) près de la Potsdamer Platz, dans le Tiergarten de Berlin, avant de poursuivre son geste à l'arme blanche. Une femme est morte et 29 personnes ont été blessées, plusieurs grièvement. Le suspect, déjà connu des services de sécurité comme islamiste radicalisé ayant tenté de rejoindre le groupe État islamique, a été abattu par la police le lendemain à Spandau après avoir chargé des agents. Le chancelier Friedrich Merz a promis des « conséquences politiques » et fait face à des critiques sur les failles de surveillance ayant permis au suspect d'approcher l'événement.",
+      "en": "On the evening of Saturday, July 25, 2026, a 21-year-old man drove a van into the crowd at Berlin's Christopher Street Day Pride celebration near Potsdamer Platz in the Tiergarten, then continued the attack with a bladed weapon. One woman was killed and 29 people were injured, several critically. The suspect, already known to security services as a radicalized Islamist who had tried to join the Islamic State group, was shot dead by police the next day in Spandau after charging at officers. Chancellor Friedrich Merz vowed \"political consequences\" and faced criticism over security failures that allowed the suspect to approach the event.",
+      "es": "En la noche del sábado 25 de julio de 2026, un hombre de 21 años lanzó una furgoneta contra la multitud reunida en el Christopher Street Day (desfile del Orgullo) de Berlín, cerca de Potsdamer Platz, en el Tiergarten, y luego continuó el ataque con un arma blanca. Una mujer murió y 29 personas resultaron heridas, varias de gravedad. El sospechoso, ya conocido por los servicios de seguridad como islamista radicalizado que había intentado unirse al grupo Estado Islámico, fue abatido por la policía al día siguiente en Spandau tras cargar contra los agentes. El canciller Friedrich Merz prometió «consecuencias políticas» y enfrenta críticas por los fallos de seguridad que permitieron al sospechoso acercarse al evento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026 — 22h",
+          "en": "07/25/2026 — 10pm",
+          "es": "25/07/2026 — 22h"
+        },
+        "d": {
+          "fr": "Un homme fonce en camionnette dans la foule de la CSD près de la Potsdamer Platz, puis attaque au couteau : 1 morte, 29 blessés.",
+          "en": "A man drives a van into the CSD Pride crowd near Potsdamer Platz, then attacks with a blade: 1 dead, 29 injured.",
+          "es": "Un hombre embiste con una furgoneta a la multitud del CSD cerca de Potsdamer Platz y luego ataca con un arma blanca: 1 muerta, 29 heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "07/26/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Le suspect est abattu par la police à Spandau après avoir chargé des agents armé d'une lame.",
+          "en": "The suspect is shot dead by police in Spandau after charging at officers with a blade.",
+          "es": "El sospechoso es abatido por la policía en Spandau tras cargar contra los agentes con un arma blanca."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "07/27/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le chancelier Merz promet des conséquences politiques et fait face à des questions sur les failles de sécurité.",
+          "en": "Chancellor Merz vows political consequences and faces questions over security failures.",
+          "es": "El canciller Merz promete consecuencias políticas y enfrenta preguntas sobre los fallos de seguridad."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "gironde-landes-incendies",
+    "coords": [
+      -0.983,
+      44.919
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "France 24, Al Jazeera, Time, NPR, Préfecture de Gironde",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Saumos, Gironde, France",
+      "en": "Saumos, Gironde, France",
+      "es": "Saumos, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Incendies historiques en Gironde et dans les Landes : plus de 250 000 évacués",
+      "en": "Historic wildfires in Gironde and Landes force over 250,000 evacuations",
+      "es": "Incendios históricos en Gironda y Las Landas obligan a evacuar a más de 250.000 personas"
+    },
+    "summary": {
+      "fr": "Parti le 22 juillet 2026 de la commune de Saumos, au nord de Bordeaux, un feu de forêt s'est propagé à plus de 42 000 hectares dès le 27 juillet, l'un des plus vastes incendies connus en France depuis la Seconde Guerre mondiale, entraînant l'évacuation d'environ 220 000 personnes. Un second incendie, dans les Landes près de Biscarrosse, a brûlé environ 3 500 hectares supplémentaires et provoqué l'évacuation de plus de 30 000 personnes, portant le total régional à plus de 250 000 évacués. Plus de 240 bâtiments ont été détruits et environ 230 pompiers blessés, sans décès parmi la population. Le président Macron a qualifié la crise de « plus dure depuis la Seconde Guerre mondiale ». Le feu de Saumos a été fixé le soir du 27 juillet puis maîtrisé le 30 juillet.",
+      "en": "Starting July 22, 2026 in the commune of Saumos, north of Bordeaux, a wildfire spread to more than 42,000 hectares by July 27 — one of the largest fires France has seen since World War II — forcing the evacuation of around 220,000 people. A second fire in the Landes near Biscarrosse burned roughly 3,500 additional hectares and forced the evacuation of more than 30,000 people, bringing the regional evacuation total above 250,000. More than 240 buildings were destroyed and around 230 firefighters were injured, with no civilian deaths reported. President Macron called it the toughest crisis \"since the Second World War.\" The Saumos fire was declared \"fixed\" on the evening of July 27 and brought under control on July 30.",
+      "es": "Iniciado el 22 de julio de 2026 en el municipio de Saumos, al norte de Burdeos, un incendio forestal se extendió a más de 42.000 hectáreas para el 27 de julio, uno de los mayores incendios sufridos por Francia desde la Segunda Guerra Mundial, obligando a evacuar a unas 220.000 personas. Un segundo incendio en Las Landas, cerca de Biscarrosse, quemó unas 3.500 hectáreas adicionales y forzó la evacuación de más de 30.000 personas, elevando el total regional a más de 250.000 evacuados. Más de 240 edificios fueron destruidos y unos 230 bomberos resultaron heridos, sin víctimas mortales entre la población. El presidente Macron calificó la crisis como la más dura «desde la Segunda Guerra Mundial». El incendio de Saumos fue declarado «fijado» la noche del 27 de julio y controlado el 30 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/07/2026",
+          "en": "07/22/2026",
+          "es": "22/07/2026"
+        },
+        "d": {
+          "fr": "Départ de feu à Saumos, au nord de Bordeaux, dans le massif forestier de Gironde.",
+          "en": "Fire breaks out in Saumos, north of Bordeaux, in the Gironde forest massif.",
+          "es": "Se declara un incendio en Saumos, al norte de Burdeos, en el macizo forestal de Gironda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "07/27/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Le feu atteint 42 000 hectares brûlés et 220 000 personnes évacuées ; il est déclaré fixé le soir même.",
+          "en": "The fire reaches 42,000 hectares burned and 220,000 people evacuated; it is declared 'fixed' that evening.",
+          "es": "El fuego alcanza 42.000 hectáreas quemadas y 220.000 personas evacuadas; se declara «fijado» esa misma noche."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "L'incendie de Saumos est déclaré maîtrisé et les autorités autorisent le retour progressif des évacués.",
+          "en": "The Saumos fire is declared under control and authorities begin allowing evacuees to return home.",
+          "es": "El incendio de Saumos se declara controlado y las autoridades permiten el regreso progresivo de los evacuados."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "sizewell-suffolk-incendie",
+    "coords": [
+      1.62,
+      52.27
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ITV News Anglia, GB News, IBTimes UK",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Dunwich Heath, près de Leiston, Suffolk, Angleterre",
+      "en": "Dunwich Heath, near Leiston, Suffolk, England",
+      "es": "Dunwich Heath, cerca de Leiston, Suffolk, Inglaterra"
+    },
+    "title": {
+      "fr": "Un feu de lande près de la centrale nucléaire de Sizewell force des évacuations dans le Suffolk",
+      "en": "Heathland wildfire near Sizewell nuclear power station forces evacuations in Suffolk",
+      "es": "Un incendio de matorral cerca de la central nuclear de Sizewell obliga a evacuaciones en Suffolk"
+    },
+    "summary": {
+      "fr": "Un feu de lande s'est déclaré le mercredi 29 juillet 2026 en fin d'après-midi sur la lande de Dunwich Heath, près de Leiston, sur la côte du Suffolk. Il s'est étendu à environ 150 hectares en une journée, poussant les pompiers du Suffolk à déclarer un incident majeur le 30 juillet. Plus de 100 pompiers, 18 engins et un hélicoptère larguant de l'eau de mer ont combattu les flammes, qui se sont approchées à quelques kilomètres de la centrale nucléaire en activité de Sizewell B et du chantier de Sizewell C. Une cinquantaine de personnes ont été évacuées vers un centre d'accueil à Westleton. Les autorités et l'exploitant EDF ont indiqué que le feu ne menaçait pas les installations nucléaires, dont l'exploitation s'est poursuivie normalement.",
+      "en": "A heathland fire broke out on the evening of Wednesday, July 29, 2026, on Dunwich Heath near Leiston on the Suffolk coast. It spread to around 150 hectares within a day, prompting Suffolk Fire and Rescue Service to declare a major incident on July 30. More than 100 firefighters, 18 fire engines and a helicopter dropping seawater fought the blaze, which came within a few miles of the operating Sizewell B nuclear power station and the Sizewell C construction site. Around 50 people were evacuated to a rest centre in Westleton. Authorities and operator EDF said the fire was not threatening the nuclear facilities, which continued operating normally.",
+      "es": "Un incendio de matorral se declaró la tarde-noche del miércoles 29 de julio de 2026 en Dunwich Heath, cerca de Leiston, en la costa de Suffolk. Se extendió a unas 150 hectáreas en un día, lo que llevó al Servicio de Bomberos de Suffolk a declarar un incidente mayor el 30 de julio. Más de 100 bomberos, 18 camiones y un helicóptero que arrojaba agua de mar combatieron las llamas, que se acercaron a pocos kilómetros de la central nuclear en funcionamiento de Sizewell B y de las obras de Sizewell C. Unas 50 personas fueron evacuadas a un centro de acogida en Westleton. Las autoridades y la operadora EDF indicaron que el fuego no amenazaba las instalaciones nucleares, que siguieron funcionando con normalidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026 — 17h30",
+          "en": "07/29/2026 — 5:30pm",
+          "es": "29/07/2026 — 17:30"
+        },
+        "d": {
+          "fr": "Départ de feu sur la lande de Dunwich Heath, près de Leiston, signalé vers 17h30.",
+          "en": "Fire breaks out on Dunwich Heath near Leiston, reported around 5:30pm.",
+          "es": "Se declara un incendio en Dunwich Heath, cerca de Leiston, reportado hacia las 17:30."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Incident majeur déclaré : le feu couvre environ 150 hectares ; des centaines de personnes évacuées.",
+          "en": "Major incident declared: the fire covers about 150 hectares; hundreds evacuated.",
+          "es": "Se declara incidente mayor: el fuego cubre unas 150 hectáreas; cientos de personas evacuadas."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Le feu reste actif ; la centrale de Sizewell B est en alerte mais son exploitation n'est pas affectée.",
+          "en": "The fire remains active; Sizewell B power station is on alert but its operation is unaffected.",
+          "es": "El incendio sigue activo; la central de Sizewell B está en alerta pero su funcionamiento no se ve afectado."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "kyiv-frappe-01aout",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Al Jazeera, Kyiv Independent, Ukrainska Pravda, The Moscow Times, LIGA.net",
+    "week": "2026-W31",
+    "priority": 2,
+    "related": [
+      "pologne-missile-otan"
+    ],
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Frappe de missiles russes sur Kiev : au moins neuf morts",
+      "en": "Russian missile strike on Kyiv kills at least nine",
+      "es": "Ataque con misiles rusos en Kiev mata al menos a nueve personas"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 31 juillet au 1er août 2026, la Russie a frappé Kiev avec des missiles balistiques et des drones, selon les autorités ukrainiennes. Le maire Vitali Klitschko a fait état d'au moins neuf morts et de plus de 28 blessés, dont des enfants. Le district de Darnytskyi a été le plus touché (sept morts, quatorze blessés), tandis qu'un immeuble résidentiel s'est partiellement effondré dans le district de Chevtchenkivskyi, piégeant des habitants sous les décombres. Les autorités ukrainiennes attribuent l'attaque aux forces russes ; Moscou n'a pas commenté ce bilan dans l'immédiat.",
+      "en": "Overnight from July 31 to August 1, 2026, Russia struck Kyiv with ballistic missiles and drones, according to Ukrainian officials. Kyiv Mayor Vitali Klitschko reported at least nine people killed and more than 28 wounded, including children. The Darnytskyi district was hit hardest, with seven dead and fourteen injured, while a residential building partially collapsed in the Shevchenkivskyi district, trapping residents under rubble. Ukrainian officials attribute the attack to Russian forces; Moscow had not immediately commented on the toll.",
+      "es": "En la noche del 31 de julio al 1 de agosto de 2026, Rusia atacó Kiev con misiles balísticos y drones, según las autoridades ucranianas. El alcalde Vitali Klitschko informó de al menos nueve muertos y más de 28 heridos, incluidos niños. El distrito de Darnytskyi fue el más afectado, con siete muertos y catorce heridos, mientras que un edificio residencial se derrumbó parcialmente en el distrito de Shevchenkivskyi, atrapando a residentes bajo los escombros. Las autoridades ucranianas atribuyen el ataque a las fuerzas rusas; Moscú no comentó de inmediato sobre el balance."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026 — nuit",
+          "en": "08/01/2026 — overnight",
+          "es": "01/08/2026 — madrugada"
+        },
+        "d": {
+          "fr": "Attaque massive de missiles balistiques et de drones russes sur Kiev, selon les autorités ukrainiennes ; incendies et effondrements de bâtiments signalés dans plusieurs quartiers.",
+          "en": "Massive Russian ballistic missile and drone attack on Kyiv, Ukrainian officials say; fires and building collapses reported in several districts.",
+          "es": "Ataque masivo con misiles balísticos y drones rusos sobre Kiev, según las autoridades ucranianas; se reportan incendios y derrumbes de edificios en varios distritos."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "01/08/2026 — matin",
+          "en": "08/01/2026 — morning",
+          "es": "01/08/2026 — mañana"
+        },
+        "d": {
+          "fr": "Le bilan s'alourdit à au moins neuf morts et 28 blessés selon le maire Klitschko ; les recherches se poursuivent à Chevtchenkivskyi.",
+          "en": "Toll rises to at least nine dead and 28 wounded according to Mayor Klitschko; search operations continue in Shevchenkivskyi district.",
+          "es": "El balance sube a al menos nueve muertos y 28 heridos según el alcalde Klitschko; continúan las labores de búsqueda en el distrito de Shevchenkivskyi."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "pologne-missile-otan",
+    "coords": [
+      22.6525,
+      50.8536
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera, Reuters, déclaration OTAN/Rutte, The Moscow Times, Ukrainska Pravda, Notes from Poland",
+    "week": "2026-W31",
+    "priority": 2,
+    "related": [
+      "kyiv-frappe-01aout"
+    ],
+    "place": {
+      "fr": "Tarnawa-Kolonia, voïvodie de Lublin, Pologne (près de la frontière ukrainienne)",
+      "en": "Tarnawa-Kolonia, Lublin Voivodeship, Poland (near the Ukrainian border)",
+      "es": "Tarnawa-Kolonia, voivodato de Lublin, Polonia (cerca de la frontera con Ucrania)"
+    },
+    "title": {
+      "fr": "Un missile russe s'écrase en Pologne pendant une attaque massive contre l'Ukraine",
+      "en": "Russian missile crashes in Poland during massive attack on Ukraine",
+      "es": "Un misil ruso cae en Polonia durante un ataque masivo contra Ucrania"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 29 au 30 juillet 2026, la Russie a lancé environ 74 missiles et 284 drones contre l'Ukraine, tuant selon les autorités ukrainiennes au moins huit civils, dont des enfants, et en blessant plus de cinquante. Un engin, identifié par les autorités polonaises et l'OTAN comme un missile de croisière russe Kh-101, s'est écrasé dans un champ près du village de Tarnawa-Kolonia, dans le sud-est de la Pologne, à environ une centaine de kilomètres de la frontière ukrainienne, sans faire de victime. Le Premier ministre polonais Donald Tusk a convoqué l'ambassadeur russe en signe de protestation, et le secrétaire général de l'OTAN Mark Rutte a qualifié l'incident d'« acte irresponsable ». Le Kremlin a rejeté ces accusations et nié toute violation de l'espace aérien polonais.",
+      "en": "Overnight from July 29 to 30, 2026, Russia launched roughly 74 missiles and 284 drones at Ukraine, killing at least eight civilians, including children, and wounding more than fifty, Ukrainian officials said. An object identified by Polish authorities and NATO as a Russian Kh-101 cruise missile crashed into a field near the village of Tarnawa-Kolonia in southeastern Poland, roughly 100 km from the Ukrainian border, causing no casualties. Polish Prime Minister Donald Tusk summoned the Russian ambassador in protest, and NATO Secretary-General Mark Rutte called the incident a \"reckless act.\" The Kremlin rejected the accusations and denied any violation of Polish airspace.",
+      "es": "En la noche del 29 al 30 de julio de 2026, Rusia lanzó cerca de 74 misiles y 284 drones contra Ucrania, matando, según las autoridades ucranianas, al menos a ocho civiles, entre ellos niños, y dejando más de cincuenta heridos. Un artefacto identificado por las autoridades polacas y la OTAN como un misil de crucero ruso Kh-101 cayó en un campo cerca de la aldea de Tarnawa-Kolonia, en el sureste de Polonia, a unos 100 km de la frontera ucraniana, sin causar víctimas. El primer ministro polaco Donald Tusk convocó al embajador ruso en señal de protesta, y el secretario general de la OTAN, Mark Rutte, calificó el incidente de «acto imprudente». El Kremlin rechazó las acusaciones y negó cualquier violación de su espacio aéreo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Un missile s'écrase dans un champ près de Tarnawa-Kolonia pendant une attaque russe massive sur l'Ukraine ; l'OTAN fait décoller des chasseurs.",
+          "en": "A missile crashes in a field near Tarnawa-Kolonia during a massive Russian attack on Ukraine; NATO scrambles fighter jets.",
+          "es": "Un misil cae en un campo cerca de Tarnawa-Kolonia durante un ataque ruso masivo contra Ucrania; la OTAN despliega cazas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "La Pologne confirme qu'il s'agissait d'un missile russe Kh-101 et convoque l'ambassadeur russe ; le Kremlin dément toute violation de son espace aérien.",
+          "en": "Poland confirms it was a Russian Kh-101 missile and summons the Russian ambassador; the Kremlin denies any airspace violation.",
+          "es": "Polonia confirma que se trataba de un misil ruso Kh-101 y convoca al embajador ruso; el Kremlin niega cualquier violación de su espacio aéreo."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "us-seattle-bite-shooting",
+    "coords": [
+      -122.3493,
+      47.6205
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN, NBC News, ABC News, KOMO News, FOX13 Seattle",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Seattle Center, Seattle, Washington, États-Unis",
+      "en": "Seattle Center, Seattle, Washington, USA",
+      "es": "Seattle Center, Seattle, Washington, EE. UU."
+    },
+    "title": {
+      "fr": "Fusillade meurtrière au festival Bite of Seattle : 3 morts",
+      "en": "Deadly shooting at Bite of Seattle festival kills 3",
+      "es": "Tiroteo mortal en el festival Bite of Seattle deja 3 muertos"
+    },
+    "summary": {
+      "fr": "Une fusillade a éclaté vers 18h00 le dimanche 26 juillet 2026 près de l'Armory du Seattle Center, pendant le festival gastronomique Bite of Seattle, faisant 3 morts et au moins 4 blessés, dont un enfant de 2 ans. Un suspect de 15 ans a été interpellé sur place et inculpé, tandis qu'un autre tireur présumé, âgé de 19 ans, a été retrouvé mort. La police de Seattle recherche un possible troisième suspect et évoque une origine liée aux gangs.",
+      "en": "A shooting broke out around 6 p.m. on Sunday, July 26, 2026, near the Seattle Center Armory during the Bite of Seattle food festival, leaving 3 people dead and at least 4 wounded, including a 2-year-old. A 15-year-old suspect surrendered at the scene and was booked, while a second suspected shooter, 19, was found dead. Seattle police are searching for a possible third suspect and believe the shooting is gang-related.",
+      "es": "Un tiroteo estalló hacia las 18:00 horas del domingo 26 de julio de 2026 cerca del Armory del Seattle Center, durante el festival gastronómico Bite of Seattle, dejando 3 muertos y al menos 4 heridos, entre ellos un niño de 2 años. Un sospechoso de 15 años se entregó en el lugar y fue procesado, mientras que un segundo presunto tirador, de 19 años, fue hallado muerto. La policía de Seattle busca a un posible tercer sospechoso y cree que el tiroteo está relacionado con pandillas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026 — vers 18h00",
+          "en": "07/26/2026 — around 6:00 p.m.",
+          "es": "26/07/2026 — alrededor de las 18:00"
+        },
+        "d": {
+          "fr": "Coups de feu échangés entre au moins deux tireurs près de l'Armory du Seattle Center pendant le festival Bite of Seattle ; 3 morts et 4 blessés transportés au Harborview Medical Center.",
+          "en": "Gunfire exchanged between at least two shooters near the Seattle Center Armory during the Bite of Seattle festival; 3 people killed and 4 wounded, taken to Harborview Medical Center.",
+          "es": "Intercambio de disparos entre al menos dos tiradores cerca del Armory del Seattle Center durante el festival Bite of Seattle; 3 muertos y 4 heridos trasladados al Harborview Medical Center."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "07/27/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Un suspect de 15 ans est inculpé de violation des lois sur les armes et d'agression au premier degré ; la police poursuit ses recherches pour un troisième suspect potentiel et évoque une piste liée aux gangs.",
+          "en": "A 15-year-old suspect is booked on firearms and first-degree assault charges; police continue searching for a possible third suspect and cite a possible gang connection.",
+          "es": "Un sospechoso de 15 años es procesado por delitos de armas de fuego y agresión en primer grado; la policía continúa buscando a un posible tercer sospechoso y menciona una posible conexión con pandillas."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "canada-westjet-strike-lockout",
+    "coords": [
+      -114.0719,
+      51.0447
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "✈",
+    "source": "CBC News, CTV News, Global News",
+    "week": "2026-W31",
+    "priority": 1,
+    "place": {
+      "fr": "Calgary, Alberta, Canada (siège de WestJet)",
+      "en": "Calgary, Alberta, Canada (WestJet headquarters)",
+      "es": "Calgary, Alberta, Canadá (sede de WestJet)"
+    },
+    "title": {
+      "fr": "WestJet et ses agents de bord au bord de la grève : arrêt de travail possible dès le 2 août",
+      "en": "WestJet and flight attendants headed for shutdown: work stoppage possible from August 2",
+      "es": "WestJet y sus auxiliares de vuelo al borde de la huelga: posible paro laboral desde el 2 de agosto"
+    },
+    "summary": {
+      "fr": "Le syndicat SCFP (section locale 8125), qui représente environ 4 400 agents de bord de WestJet, a déposé un préavis de grève de 72 heures le 30 juillet 2026 ; la compagnie a répliqué par un préavis de lock-out de 72 heures le jour même. Un arrêt de travail pourrait débuter dès le 2 août 2026 à 2h01 (heure de l'Est) si aucune entente n'est conclue, ce qui affecterait la deuxième compagnie aérienne du Canada, qui opère plus de 600 vols et transporte plus de 70 000 passagers par jour. Le litige porte notamment sur la rémunération des tâches au sol, le syndicat affirmant que le système actuel laisse jusqu'à 35 heures de travail mensuel non payées.",
+      "en": "The union CUPE (Local 8125), representing roughly 4,400 WestJet flight attendants, filed a 72-hour strike notice on July 30, 2026; the airline responded with a 72-hour lockout notice the same day. A work stoppage could begin as early as August 2, 2026 at 2:01 a.m. Eastern if no deal is reached, affecting Canada's second-largest airline, which operates more than 600 flights and carries over 70,000 passengers a day. The dispute centers on pay for ground duties, with the union saying the current credit-hour system leaves up to 35 hours of monthly work unpaid.",
+      "es": "El sindicato CUPE (sección local 8125), que representa a unos 4.400 auxiliares de vuelo de WestJet, presentó un aviso de huelga de 72 horas el 30 de julio de 2026; la aerolínea respondió con un aviso de cierre patronal (lockout) de 72 horas ese mismo día. Un paro laboral podría comenzar tan pronto como el 2 de agosto de 2026 a las 2:01 a.m. (hora del Este) si no se llega a un acuerdo, lo que afectaría a la segunda aerolínea más grande de Canadá, que opera más de 600 vuelos y transporta a más de 70.000 pasajeros diarios. La disputa se centra en el pago de las tareas en tierra, ya que el sindicato afirma que el sistema actual de horas de crédito deja hasta 35 horas de trabajo mensual sin remunerar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Le SCFP-local 8125 dépose un préavis de grève de 72 heures ; WestJet répond par un préavis de lock-out de 72 heures.",
+          "en": "CUPE Local 8125 files a 72-hour strike notice; WestJet responds with a 72-hour lockout notice.",
+          "es": "CUPE sección local 8125 presenta un aviso de huelga de 72 horas; WestJet responde con un aviso de cierre patronal de 72 horas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Les négociations se poursuivent en continu ; WestJet commence à immobiliser des appareils et prépare un plan de réduction progressive des vols ; les passagers réservés entre le 30 juillet et le 4 août peuvent modifier ou annuler leur billet sans frais.",
+          "en": "Negotiations continue around the clock; WestJet begins parking aircraft and preparing a schedule wind-down plan; passengers booked between July 30 and August 4 can change or cancel without a fee.",
+          "es": "Las negociaciones continúan sin parar; WestJet comienza a estacionar aviones y prepara un plan de reducción progresiva de vuelos; los pasajeros con reservas entre el 30 de julio y el 4 de agosto pueden cambiar o cancelar sin costo."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "02/08/2026 — 2h01 (à venir)",
+          "en": "08/02/2026 — 2:01 a.m. (upcoming)",
+          "es": "02/08/2026 — 2:01 a.m. (próximo)"
+        },
+        "d": {
+          "fr": "Échéance à partir de laquelle une grève ou un lock-out pourrait débuter si aucun accord n'est trouvé d'ici là.",
+          "en": "Deadline after which a strike or lockout could begin if no agreement is reached by then.",
+          "es": "Plazo a partir del cual podría comenzar una huelga o un cierre patronal si no se alcanza un acuerdo antes de esa hora."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "captura-r1-cjng-2026",
+    "coords": [
+      -102.7422,
+      20.5563
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "El Universal, Proceso, CNN en Español, La Opinión",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Atotonilco el Alto, Jalisco — avec alerte de sécurité américaine pour l'État voisin du Michoacán, Mexique",
+      "en": "Atotonilco el Alto, Jalisco — with a U.S. security alert for the neighboring state of Michoacán, Mexico",
+      "es": "Atotonilco el Alto, Jalisco —con alerta de seguridad de EE. UU. para el vecino estado de Michoacán—, México"
+    },
+    "title": {
+      "fr": "Le Mexique capture « R1 », cerveau présumé de l'assassinat du maire d'Uruapan Carlos Manzo",
+      "en": "Mexico captures 'R1', suspected mastermind behind Uruapan mayor Carlos Manzo's murder",
+      "es": "México captura al 'R1', presunto autor intelectual del asesinato del alcalde de Uruapan Carlos Manzo"
+    },
+    "summary": {
+      "fr": "Le 31 juillet 2026, les forces de sécurité mexicaines ont arrêté Ramón Ángel « N », alias « El R1 », dans le quartier de Los Naranjos à Atotonilco el Alto, État de Jalisco. Il est présenté comme le chef d'une cellule liée au Cartel de Jalisco Nueva Generación (« Los Rs »), active au Michoacán et au Jalisco, et comme le présumé commanditaire de l'assassinat du maire d'Uruapan, Carlos Manzo. L'opération a déclenché un affrontement armé qui a paralysé le centre-ville d'Atotonilco el Alto pendant près de cinq heures, faisant un garde du corps mort. À la suite de cette capture, l'ambassade des États-Unis a émis une alerte de sécurité pour l'État du Michoacán, signalant des barrages routiers et une activité criminelle susceptible de s'aggraver.",
+      "en": "On July 31, 2026, Mexican security forces arrested Ramón Ángel 'N', alias 'El R1', in the Los Naranjos neighborhood of Atotonilco el Alto, Jalisco state. He is described as the leader of a Jalisco New Generation Cartel (CJNG)-linked cell known as 'Los Rs,' active in Michoacán and Jalisco, and as the suspected mastermind behind the assassination of Uruapan mayor Carlos Manzo. The operation triggered an armed confrontation that paralyzed downtown Atotonilco el Alto for nearly five hours, leaving one bodyguard dead. Following the capture, the U.S. Embassy issued a security alert for Michoacán state, citing road blockades and criminal activity with potential to escalate.",
+      "es": "El 31 de julio de 2026, fuerzas de seguridad mexicanas detuvieron a Ramón Ángel 'N', alias 'El R1', en la colonia Los Naranjos de Atotonilco el Alto, Jalisco. Se le señala como líder de una célula vinculada al Cártel Jalisco Nueva Generación (CJNG) conocida como 'Los Rs', activa en Michoacán y Jalisco, y como el presunto autor intelectual del asesinato del alcalde de Uruapan, Carlos Manzo. El operativo derivó en un enfrentamiento armado que paralizó el centro de Atotonilco el Alto durante casi cinco horas, dejando un escolta muerto. Tras la captura, la Embajada de Estados Unidos emitió una alerta de seguridad para el estado de Michoacán, advirtiendo sobre bloqueos carreteros y actividad delictiva con potencial de escalar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Arrestation de « R1 » à Atotonilco el Alto (Jalisco) ; affrontement armé de près de cinq heures, un garde du corps tué.",
+          "en": "'R1' is arrested in Atotonilco el Alto, Jalisco; nearly five-hour armed confrontation leaves one bodyguard dead.",
+          "es": "Detención de 'R1' en Atotonilco el Alto, Jalisco; enfrentamiento armado de casi cinco horas deja un escolta muerto."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "L'ambassade des États-Unis émet une alerte de sécurité pour l'État du Michoacán, citant barrages et risque d'escalade.",
+          "en": "The U.S. Embassy issues a security alert for Michoacán state, citing blockades and risk of escalation.",
+          "es": "La Embajada de Estados Unidos emite una alerta de seguridad para el estado de Michoacán, citando bloqueos y riesgo de escalada."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "rs-cheia-rio-dos-sinos-2026",
+    "coords": [
+      -51.1478,
+      -29.7605
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Agência Brasil, MetSul Meteorologia, Brasil de Fato",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "São Leopoldo et région métropolitaine de Porto Alegre, Rio Grande do Sul, Brésil",
+      "en": "São Leopoldo and Greater Porto Alegre, Rio Grande do Sul, Brazil",
+      "es": "São Leopoldo y la región metropolitana de Porto Alegre, Río Grande do Sul, Brasil"
+    },
+    "title": {
+      "fr": "Crues du Rio dos Sinos : des centaines de sinistrés dans le Rio Grande do Sul",
+      "en": "Rio dos Sinos floods leave hundreds displaced in Rio Grande do Sul",
+      "es": "Crecida del Rio dos Sinos deja a cientos de damnificados en Río Grande do Sul"
+    },
+    "summary": {
+      "fr": "Après un mois de juillet 2026 exceptionnellement pluvieux (jusqu'à 93% au-dessus de la moyenne historique selon certaines stations), plusieurs rivières de l'État du Rio Grande do Sul — dont le Rio dos Sinos, le Jacuí et l'Ibicuí — sont sorties de leur lit fin juillet. Agência Brasil recensait le 30 juillet plus de 59 000 personnes affectées dans l'État. Le nombre exact de personnes délogées de leur domicile varie selon les sources et les mises à jour (environ 400 à 1 100 personnes selon Metrópoles et Brasil de Fato, contre 779 abritées dans 14 centres de 11 municipalités selon un autre bilan de la Défense civile). À São Leopoldo, le Rio dos Sinos a dépassé 4,74 m, au-dessus du seuil d'inondation de 4,50 m. De nouvelles pluies fortes étaient prévues pour le 1er août.",
+      "en": "After an exceptionally wet July 2026 (up to 93% above the historical average at some stations), several rivers in Rio Grande do Sul state — including the Rio dos Sinos, Jacuí and Ibicuí — overflowed their banks in late July. Official agency Agência Brasil reported on July 30 that more than 59,000 people had been affected statewide. Exact counts of people displaced from their homes vary by source and by the time of the update (roughly 400 to 1,100 people per Metrópoles and Brasil de Fato, versus 779 sheltered in 14 shelters across 11 municipalities per another Civil Defense tally). In São Leopoldo, the Rio dos Sinos rose above 4.74 meters, over the 4.50-meter flood threshold. Fresh heavy rain was forecast for August 1.",
+      "es": "Tras un julio de 2026 excepcionalmente lluvioso (hasta un 93% por encima del promedio histórico en algunas estaciones), varios ríos del estado de Río Grande do Sul —entre ellos el Rio dos Sinos, el Jacuí y el Ibicuí— se desbordaron a finales de julio. La agencia oficial Agência Brasil informó el 30 de julio que más de 59.000 personas habían sido afectadas en todo el estado. Las cifras exactas de personas desplazadas de sus hogares varían según la fuente y el momento del reporte (entre 400 y 1.100 personas según Metrópoles y Brasil de Fato, frente a 779 albergadas en 14 refugios de 11 municipios según otro balance de la Defensa Civil). En São Leopoldo, el Rio dos Sinos superó los 4,74 metros, por encima del umbral de inundación de 4,50 metros. Se pronosticaban nuevas lluvias fuertes para el 1 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "07/27/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Alerte de fortes pluies pour le Sud du Brésil ; plusieurs rivières du Rio Grande do Sul déjà en situation d'inondation.",
+          "en": "Heavy rain alert issued for southern Brazil; several rivers in Rio Grande do Sul already above flood stage.",
+          "es": "Alerta de lluvias intensas para el sur de Brasil; varios ríos de Río Grande do Sul ya en situación de inundación."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Agência Brasil recense plus de 59 000 personnes affectées dans l'État ; six rivières au-dessus de la cote d'inondation.",
+          "en": "Agência Brasil reports more than 59,000 people affected statewide; six rivers above flood stage.",
+          "es": "Agência Brasil registra más de 59.000 personas afectadas en el estado; seis ríos por encima de la cota de inundación."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "08/01/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Nouvelles pancadas de pluie prévues, avec risque accru de crue du Rio dos Sinos dans le Grand Porto Alegre.",
+          "en": "Fresh downpours forecast, with heightened flood risk for the Rio dos Sinos in Greater Porto Alegre.",
+          "es": "Se prevén nuevos chubascos, con riesgo elevado de crecida del Rio dos Sinos en la región metropolitana de Porto Alegre."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "inde-kulgam-attaque-briqueterie",
+    "coords": [
+      75.0186,
+      33.6417
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "The Tribune, ThePrint, The Week",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Village de Kelam, district de Kulgam, Cachemire (Inde)",
+      "en": "Kelam village, Kulgam district, Kashmir (India)",
+      "es": "Aldea de Kelam, distrito de Kulgam, Cachemira (India)"
+    },
+    "title": {
+      "fr": "Attaque terroriste : deux ouvriers migrants tués au Cachemire",
+      "en": "Terror attack kills two migrant labourers in Indian Kashmir",
+      "es": "Ataque terrorista mata a dos trabajadores migrantes en Cachemira india"
+    },
+    "summary": {
+      "fr": "Le soir du 31 juillet 2026, des hommes armés non identifiés ont ouvert le feu sur des ouvriers non locaux dans une briqueterie du village de Kelam, près de la ville de Kulgam, au Jammu-et-Cachemire (localisation précise déduite du site de l'attaque). Deepak Ratray, 24 ans, est mort sur place, tandis que son collègue Bopinder, 28 ans, grièvement blessé, a succombé après son transfert à l'hôpital SKIMS de Srinagar, portant le bilan à deux morts. Les deux victimes, originaires du Chhattisgarh, étaient des ouvriers migrants. The Resistance Front (TRF), présenté comme une émanation du groupe Lashkar-e-Taiba, a revendiqué l'attaque. C'est la deuxième attaque visant des non-locaux dans la vallée en dix jours.",
+      "en": "On the evening of July 31, 2026, unidentified gunmen opened fire on non-local labourers at a brick kiln in Kelam village, near Kulgam town in Jammu and Kashmir (exact site deduced from the location of the attack). Deepak Ratray, 24, died at the scene, while his colleague Bopinder, 28, critically wounded, died after being transferred to SKIMS Hospital in Srinagar, raising the toll to two. Both victims were migrant workers from Chhattisgarh. The Resistance Front (TRF), described as a proxy of the Lashkar-e-Taiba group, claimed responsibility. It is the second attack targeting non-locals in the valley in ten days.",
+      "es": "En la noche del 31 de julio de 2026, hombres armados no identificados abrieron fuego contra trabajadores no locales en una ladrillera de la aldea de Kelam, cerca de la localidad de Kulgam, en Jammu y Cachemira (ubicación exacta deducida del lugar del ataque). Deepak Ratray, de 24 años, murió en el lugar, mientras que su compañero Bopinder, de 28 años, gravemente herido, falleció tras ser trasladado al hospital SKIMS de Srinagar, elevando el saldo a dos muertos. Ambas víctimas eran trabajadores migrantes originarios de Chhattisgarh. El grupo The Resistance Front (TRF), descrito como una fachada de Lashkar-e-Taiba, reivindicó el ataque. Es el segundo ataque contra no locales en el valle en diez días."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026 — soirée",
+          "en": "07/31/2026 — evening",
+          "es": "31/07/2026 — noche"
+        },
+        "d": {
+          "fr": "Des hommes armés ouvrent le feu sur des ouvriers migrants dans une briqueterie du village de Kelam, tuant Deepak Ratray sur le coup et blessant grièvement Bopinder.",
+          "en": "Gunmen open fire on migrant labourers at a brick kiln in Kelam village, killing Deepak Ratray on the spot and critically wounding Bopinder.",
+          "es": "Hombres armados abren fuego contra trabajadores migrantes en una ladrillera de la aldea de Kelam, matando a Deepak Ratray en el acto y hiriendo de gravedad a Bopinder."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "08/01/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Bopinder succombe à ses blessures à l'hôpital SKIMS de Srinagar, portant le bilan à deux morts ; le groupe TRF revendique l'attaque.",
+          "en": "Bopinder dies of his wounds at SKIMS Hospital in Srinagar, raising the death toll to two; the TRF claims responsibility for the attack.",
+          "es": "Bopinder muere a causa de sus heridas en el hospital SKIMS de Srinagar, elevando el saldo a dos muertos; el grupo TRF reivindica el ataque."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "indonesie-alerte-el-nino-points-chauds",
+    "coords": [
+      109.3425,
+      -0.0263
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "BMKG (agence officielle), The Jakarta Post, Antara News",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Kalimantan occidental (Pontianak), Indonésie — alerte de portée nationale",
+      "en": "West Kalimantan (Pontianak), Indonesia — nationwide warning",
+      "es": "Kalimantán Occidental (Pontianak), Indonesia — alerta de alcance nacional"
+    },
+    "title": {
+      "fr": "L'Indonésie détecte plus de 5 000 points chauds ; El Niño prévu jusqu'en 2027",
+      "en": "Indonesia detects over 5,000 fire hotspots as agency warns of prolonged El Niño into 2027",
+      "es": "Indonesia detecta más de 5.000 puntos de calor mientras se prevé un Niño prolongado hasta 2027"
+    },
+    "summary": {
+      "fr": "L'agence météorologique indonésienne BMKG a annoncé le 30 juillet 2026 avoir détecté 5 019 points chauds (feux de forêt et de tourbières) à l'échelle du pays depuis la mi-juillet, une progression plus rapide qu'aux mêmes périodes lors des grandes saisons d'incendies liées à El Niño de 2015, 2019 et 2023. Le Kalimantan occidental, la province de Riau (Sumatra) et la Papouasie du Sud concentrent le plus grand nombre de foyers. La BMKG prévoit que le risque d'incendies et de brume de fumée culminera entre août et septembre 2026, et anticipe la persistance du phénomène El Niño, avec un pic possible entre décembre 2026 et janvier 2027. L'institut singapourien SIIA a classé le risque de brume transfrontalière pour 2026 au niveau « rouge ».",
+      "en": "Indonesia's meteorological agency BMKG announced on July 30, 2026 that it had detected 5,019 fire hotspots (forest and peatland fires) nationwide since mid-July, a faster pace than at the same point during the major El Niño-driven fire seasons of 2015, 2019 and 2023. West Kalimantan, Riau province (Sumatra) and South Papua have the highest concentrations of hotspots. BMKG projects that fire and haze risk will peak between August and September 2026, and expects the current El Niño to persist, potentially peaking between December 2026 and January 2027. Singapore's SIIA think tank has rated the region's 2026 cross-border haze risk 'Red.'",
+      "es": "La agencia meteorológica indonesia BMKG anunció el 30 de julio de 2026 que había detectado 5.019 puntos de calor (incendios forestales y de turberas) en todo el país desde mediados de julio, un ritmo más rápido que en el mismo punto durante las grandes temporadas de incendios asociadas a El Niño de 2015, 2019 y 2023. Kalimantán Occidental, la provincia de Riau (Sumatra) y Papúa del Sur concentran el mayor número de focos. La BMKG prevé que el riesgo de incendios y neblina alcance su punto máximo entre agosto y septiembre de 2026, y anticipa que el fenómeno El Niño persista, con un posible pico entre diciembre de 2026 y enero de 2027. El instituto singapurense SIIA calificó el riesgo de neblina transfronteriza de 2026 como 'rojo'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "La BMKG annonce la détection de 5 019 points chauds et prévoit la persistance d'El Niño jusqu'au début de 2027.",
+          "en": "BMKG announces detection of 5,019 fire hotspots and forecasts El Niño will persist into early 2027.",
+          "es": "La BMKG anuncia la detección de 5.019 puntos de calor y prevé que El Niño persista hasta principios de 2027."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "nigeria-military-july-operations",
+    "coords": [
+      7.3986,
+      9.0765
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "Punch, News Agency of Nigeria (NAN), Daily Post, P.M. News",
+    "week": "2026-W31",
+    "priority": 3,
+    "place": {
+      "fr": "Abuja, Nigeria (opérations menées à l'échelle nationale)",
+      "en": "Abuja, Nigeria (nationwide operations)",
+      "es": "Abuya, Nigeria (operaciones en todo el país)"
+    },
+    "title": {
+      "fr": "L'armée nigériane annonce 393 otages libérés et 102 combattants tués lors des opérations de juillet",
+      "en": "Nigerian military reports 393 kidnap victims rescued, 102 fighters killed in July operations",
+      "es": "El ejército nigeriano informa del rescate de 393 secuestrados y la muerte de 102 combatientes en operaciones de julio"
+    },
+    "summary": {
+      "fr": "Lors du point de presse mensuel de l'état-major de la Défense à Abuja, le vendredi 31 juillet 2026, le directeur des opérations médiatiques de la Défense, le général de division Michael Onoja, a annoncé que les troupes avaient tué plus de 102 terroristes et autres éléments criminels, arrêté 345 suspects et libéré 393 otages à travers le pays au cours du mois de juillet — dont 191 victimes libérées dans les États de Kaduna, Katsina, Kebbi et Zamfara dans le cadre de l'opération Fansan Yamma. 57 insurgés et membres de leurs familles se sont par ailleurs rendus, et les troupes ont récupéré 59 armes à feu et 1 811 munitions. Certains médias, dont Punch, ont rapporté un chiffre légèrement supérieur de 397 otages libérés.",
+      "en": "At the Defence Headquarters' monthly briefing in Abuja on Friday, July 31, 2026, Director of Defence Media Operations Major General Michael Onoja said troops killed over 102 terrorists and other criminal elements, arrested 345 suspects, and rescued 393 kidnap victims nationwide during July — including 191 victims freed in Kaduna, Katsina, Kebbi and Zamfara states under Operation Fansan Yamma. A further 57 insurgents and family members surrendered, and troops recovered 59 firearms and 1,811 rounds of ammunition. Some outlets, including Punch, reported a slightly higher rescue figure of 397.",
+      "es": "En la rueda de prensa mensual del Cuartel General de la Defensa en Abuya, el viernes 31 de julio de 2026, el director de Operaciones Mediáticas de Defensa, el general de división Michael Onoja, informó que las tropas mataron a más de 102 terroristas y otros elementos criminales, arrestaron a 345 sospechosos y rescataron a 393 secuestrados en todo el país durante julio, entre ellos 191 víctimas liberadas en los estados de Kaduna, Katsina, Kebbi y Zamfara bajo la Operación Fansan Yamma. Otros 57 insurgentes y familiares se entregaron, y las tropas recuperaron 59 armas de fuego y 1.811 municiones. Algunos medios, como Punch, informaron una cifra ligeramente superior de 397 rescatados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "L'état-major de la Défense annonce le bilan des opérations de juillet lors du point de presse mensuel à Abuja.",
+          "en": "Defence Headquarters announces July operational results at monthly Abuja briefing.",
+          "es": "El Cuartel General de la Defensa anuncia los resultados operativos de julio en la rueda de prensa mensual en Abuya."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "egypt-damietta-drone-strike",
+    "coords": [
+      31.8133,
+      31.4165
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera, The National, Daily News Egypt, CNBC",
+    "week": "2026-W31",
+    "priority": 3,
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Damiette, Égypte",
+      "en": "Damietta, Egypt",
+      "es": "Damietta, Egipto"
+    },
+    "title": {
+      "fr": "Une frappe de drone déclenche un incendie sur deux navires au port de Damiette",
+      "en": "Drone strike sparks fire on two ships at Egypt's Damietta port",
+      "es": "Un ataque con dron provoca un incendio en dos buques en el puerto egipcio de Damietta"
+    },
+    "summary": {
+      "fr": "Une frappe de drone a provoqué un incendie à bord de deux navires — l'unité flottante de stockage et de regazéification Energos Winter et le méthanier GasLog Salem — au port de Damiette, sur la Méditerranée, le mercredi 29 juillet 2026. Aucune victime n'a été signalée ; les navires ont été déplacés au large et l'incendie a été maîtrisé. C'est la première fois que le territoire égyptien est directement touché dans le cadre du conflit élargi entre Israël, l'Iran et les États-Unis (voir l'événement lié). Aucun groupe n'a revendiqué l'attaque : l'Iran a nié toute implication et évoqué une possible opération « sous fausse bannière » israélienne, tandis que les autorités égyptiennes ont indiqué que les premières constatations pointaient vers un drone.",
+      "en": "A drone strike caused a fire aboard two vessels — the Energos Winter floating storage and regasification unit and the GasLog Salem LNG tanker — at Damietta port on the Mediterranean on Wednesday, July 29, 2026. No casualties were reported; the ships were moved offshore and the blaze was extinguished. It is the first time Egyptian territory has been directly hit amid the wider Israel-Iran-US conflict (see related event). No group has claimed responsibility: Iran denied involvement and suggested a possible Israeli 'false flag' operation, while Egyptian officials said preliminary findings point to a drone.",
+      "es": "Un ataque con dron provocó un incendio a bordo de dos buques —la unidad flotante de almacenamiento y regasificación Energos Winter y el metanero GasLog Salem— en el puerto de Damietta, en el Mediterráneo, el miércoles 29 de julio de 2026. No se reportaron víctimas; los buques fueron trasladados mar adentro y el incendio fue controlado. Es la primera vez que el territorio egipcio es alcanzado directamente en el marco del conflicto más amplio entre Israel, Irán y Estados Unidos (véase el evento relacionado). Ningún grupo se atribuyó el ataque: Irán negó su implicación y sugirió una posible operación de 'bandera falsa' israelí, mientras que funcionarios egipcios señalaron que los hallazgos preliminares apuntan a un dron."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "07/29/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drone déclenche un incendie sur deux navires (un méthanier et une unité flottante de stockage/regazéification de gaz) au port de Damiette.",
+          "en": "Drone strike sets fire to two ships (an LNG carrier and a floating gas storage/regasification unit) at Damietta port.",
+          "es": "Un ataque con dron incendia dos buques (un metanero y una unidad flotante de almacenamiento/regasificación de gas) en el puerto de Damietta."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Les autorités égyptiennes confirment qu'un drone est à l'origine de l'incendie ; l'Iran nie toute responsabilité et évoque une possible opération « sous fausse bannière » israélienne.",
+          "en": "Egyptian authorities confirm a drone caused the fire; Iran denies responsibility and points to a possible Israeli 'false flag'.",
+          "es": "Las autoridades egipcias confirman que un dron provocó el incendio; Irán niega su responsabilidad y sugiere una posible 'bandera falsa' israelí."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Le port de Damiette reprend son activité à pleine capacité après l'extinction des incendies.",
+          "en": "Damietta port resumes full operations after the fires are extinguished.",
+          "es": "El puerto de Damietta reanuda su plena actividad tras la extinción de los incendios."
+        },
+        "active": false
+      }
+    ]
+  },
+  {
+    "id": "gaza-hamas-disarmament-accord",
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🕊",
+    "source": "Al Jazeera, The Washington Post, Reuters",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Gaza, Territoires palestiniens",
+      "en": "Gaza, Palestinian Territories",
+      "es": "Gaza, Territorios palestinos"
+    },
+    "title": {
+      "fr": "Le « Board of Peace » annonce un accord sur le désarmement du Hamas à Gaza",
+      "en": "Board of Peace announces agreement on Hamas disarmament in Gaza",
+      "es": "El 'Board of Peace' anuncia un acuerdo sobre el desarme de Hamás en Gaza"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a annoncé le 30 juillet 2026 qu'un accord avait été conclu entre le Hamas et le « Board of Peace » dirigé par les États-Unis, prévoyant un désarmement progressif du mouvement palestinien et un retrait échelonné des forces israéliennes de la bande de Gaza. Selon Al Jazeera, la feuille de route en 15 points prévoit le transfert de l'administration civile et sécuritaire à un Comité national pour l'administration de Gaza, appuyé par une Force internationale de stabilisation encore à déployer. D'importants désaccords subsistent : un responsable israélien a déclaré à Reuters qu'aucun retrait n'aurait lieu avant un désarmement « réel » du Hamas, tandis que le négociateur du Hamas Ghazi Hamad a qualifié la feuille de route de cadre « difficile et douloureux ».",
+      "en": "US President Donald Trump announced on 30 July 2026 that a deal had been reached between Hamas and the US-led Board of Peace, providing for a phased disarmament of the Palestinian group and a gradual withdrawal of Israeli forces from the Gaza Strip. According to Al Jazeera, the 15-point roadmap envisions transferring civilian and security governance to a National Committee for the Administration of Gaza, backed by a yet-to-be-deployed International Stabilization Force. Major disagreements remain: an Israeli official told Reuters there would be no withdrawal until Hamas undergoes 'genuine' disarmament, while Hamas negotiator Ghazi Hamad called the roadmap a 'difficult and painful' framework.",
+      "es": "El presidente estadounidense Donald Trump anunció el 30 de julio de 2026 que se había alcanzado un acuerdo entre Hamás y el Board of Peace liderado por Estados Unidos, que prevé un desarme gradual del grupo palestino y una retirada escalonada de las fuerzas israelíes de la Franja de Gaza. Según Al Jazeera, la hoja de ruta de 15 puntos contempla transferir la administración civil y de seguridad a un Comité Nacional para la Administración de Gaza, respaldado por una Fuerza Internacional de Estabilización aún por desplegar. Persisten importantes desacuerdos: un funcionario israelí declaró a Reuters que no habrá retirada hasta que Hamás lleve a cabo un desarme 'genuino', mientras que el negociador de Hamás, Ghazi Hamad, calificó la hoja de ruta de marco 'difícil y doloroso'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Trump annonce un accord « historique » du Board of Peace sur le désarmement progressif du Hamas.",
+          "en": "Trump announces a 'historic' Board of Peace agreement on the phased disarmament of Hamas.",
+          "es": "Trump anuncia un acuerdo 'histórico' del Board of Peace sobre el desarme progresivo de Hamás."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "07/31/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Le Hamas confirme l'accord mais conditionne le désarmement à un retrait israélien complet et à la fin des opérations militaires.",
+          "en": "Hamas confirms the agreement but conditions disarmament on a full Israeli withdrawal and an end to military operations.",
+          "es": "Hamás confirma el acuerdo pero condiciona el desarme a una retirada israelí completa y al fin de las operaciones militares."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "iran-execution-isfahan-protesters",
+    "coords": [
+      51.668,
+      32.6546
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Amnesty International, France 24, Iran Human Rights",
+    "week": "2026-W31",
+    "priority": 2,
+    "place": {
+      "fr": "Ispahan, Iran",
+      "en": "Isfahan, Iran",
+      "es": "Isfahán, Irán"
+    },
+    "title": {
+      "fr": "Iran : deux manifestants exécutés publiquement à Ispahan",
+      "en": "Iran: two protesters publicly executed in Isfahan",
+      "es": "Irán: dos manifestantes ejecutados públicamente en Isfahán"
+    },
+    "summary": {
+      "fr": "Les autorités iraniennes ont exécuté publiquement le 28 juillet 2026 Amir Hossein Safari Hosseinabadi et Abolfazl Sepahi Badjani, condamnés à mort après un procès collectif jugé gravement inéquitable par des organisations de défense des droits humains, pour leur implication présumée dans la mort de quatre policiers lors des manifestations antigouvernementales de janvier 2026 à Ispahan. Amnesty International dénonce une campagne croissante d'exécutions visant des manifestants et prisonniers politiques ; plusieurs centaines de personnes rassemblées sur place ont scandé des slogans hostiles aux autorités avant d'être dispersées par la police anti-émeute.",
+      "en": "Iranian authorities publicly executed Amir Hossein Safari Hosseinabadi and Abolfazl Sepahi Badjani on 28 July 2026, after they were sentenced to death in a mass trial that human rights groups describe as grossly unfair, over the killing of four police officers during the January 2026 anti-government protests in Isfahan. Amnesty International says the executions are part of an escalating campaign of capital punishment against protesters and political prisoners; several hundred people who gathered at the scene reportedly chanted slogans against the authorities before riot police dispersed them.",
+      "es": "Las autoridades iraníes ejecutaron públicamente el 28 de julio de 2026 a Amir Hossein Safari Hosseinabadi y Abolfazl Sepahi Badjani, condenados a muerte tras un juicio colectivo que organizaciones de derechos humanos califican de gravemente injusto, por su presunta implicación en la muerte de cuatro policías durante las protestas antigubernamentales de enero de 2026 en Isfahán. Amnistía Internacional denuncia una campaña creciente de ejecuciones contra manifestantes y presos políticos; varios cientos de personas congregadas en el lugar corearon consignas contra las autoridades antes de ser dispersadas por la policía antidisturbios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "07/28/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Exécution publique de deux hommes condamnés pour la mort de policiers lors des manifestations de janvier 2026 ; rassemblement de protestation dispersé par la police anti-émeute.",
+          "en": "Public execution of two men convicted over the deaths of police officers during the January 2026 protests; a protest gathering at the scene was dispersed by riot police.",
+          "es": "Ejecución pública de dos hombres condenados por la muerte de policías durante las protestas de enero de 2026; una concentración de protesta en el lugar fue dispersada por la policía antidisturbios."
+        },
+        "active": true
+      }
+    ]
   }
 ]
