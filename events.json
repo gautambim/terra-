@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / Anadolu Agency / Washington Post",
+    "week": "2026-W31",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Fin juillet, le conflit s'est étendu à plusieurs pays du Golfe et au Liban, avec des tirs de missiles et de drones visant la Jordanie, l'Irak, le Koweït et l'Arabie saoudite, ainsi que des frappes israéliennes au Liban sud.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. By late July the conflict had spread to several Gulf countries and Lebanon, with missiles and drones aimed at Jordan, Iraq, Kuwait and Saudi Arabia, alongside Israeli strikes in southern Lebanon.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. A finales de julio, el conflicto se había extendido a varios países del Golfo y al Líbano, con misiles y drones dirigidos contra Jordania, Irak, Kuwait y Arabia Saudita, además de ataques israelíes en el sur del Líbano."
     },
     "timeline": [
       {
@@ -733,6 +733,71 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "L'Arabie saoudite dit avoir intercepté neuf drones visant Riyad et des installations pétrolières, attribués à des groupes soutenus par l'Iran.",
+          "en": "Saudi Arabia says it intercepted nine drones aimed at Riyadh and oil facilities, attributed to Iran-backed groups.",
+          "es": "Arabia Saudita dice haber interceptado nueve drones dirigidos contra Riad e instalaciones petroleras, atribuidos a grupos respaldados por Irán."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "La Jordanie dit avoir intercepté des missiles tirés depuis l'Iran ; les États-Unis et l'Arabie saoudite affirment avoir frappé des dizaines de sites liés aux Gardiens de la révolution en Irak.",
+          "en": "Jordan says it intercepted missiles fired from Iran; the US and Saudi Arabia say they struck dozens of Revolutionary Guard-linked sites in Iraq.",
+          "es": "Jordania dice haber interceptado misiles lanzados desde Irán; EE. UU. y Arabia Saudita afirman haber atacado docenas de sitios vinculados a la Guardia Revolucionaria en Irak."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29-30/07/2026",
+          "en": "07/29-30/2026",
+          "es": "29-30/07/2026"
+        },
+        "d": {
+          "fr": "Les forces américaines frappent des dizaines de cibles en Iran, dont l'île de Qeshm ; Téhéran affirme qu'une famille de trois personnes y a été tuée, un bilan non vérifié de façon indépendante.",
+          "en": "US forces strike dozens of targets across Iran, including Qeshm Island; Tehran says a family of three was killed there, a toll not independently verified.",
+          "es": "Las fuerzas estadounidenses atacan decenas de objetivos en Irán, incluida la isla de Qeshm; Teherán afirma que una familia de tres personas murió allí, un balance no verificado de forma independiente."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "07/30/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "L'Arabie saoudite annonce une coalition maritime de 14 pays pour protéger la navigation en mer Rouge, après un blocus houthi.",
+          "en": "Saudi Arabia announces a 14-nation maritime coalition to protect Red Sea shipping, following a Houthi blockade.",
+          "es": "Arabia Saudita anuncia una coalición marítima de 14 países para proteger la navegación en el mar Rojo, tras un bloqueo hutí."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30-31/07/2026",
+          "en": "07/30-31/2026",
+          "es": "30-31/07/2026"
+        },
+        "d": {
+          "fr": "Israël détruit un réseau de tunnels dans le sud du Liban ; la présidence et le premier ministre libanais dénoncent une violation du cessez-le-feu et de la souveraineté du pays.",
+          "en": "Israel destroys a tunnel network in southern Lebanon; Lebanon's presidency and prime minister condemn it as a ceasefire violation and breach of sovereignty.",
+          "es": "Israel destruye una red de túneles en el sur del Líbano; la presidencia y el primer ministro libaneses lo condenan como una violación del alto el fuego y de la soberanía."
         },
         "active": true
       }
@@ -824,10 +889,819 @@
           "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
           "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "L'Espagne remporte la finale face à l'Argentine 1-0 après prolongation, grâce à un but de Ferran Torres, décrochant son deuxième titre mondial, selon la FIFA et NPR.",
+          "en": "Spain wins the final against Argentina 1-0 in extra time, on a goal by Ferran Torres, claiming its second World Cup title, according to FIFA and NPR.",
+          "es": "España gana la final ante Argentina 1-0 en la prórroga, con un gol de Ferran Torres, y logra su segundo título mundial, según la FIFA y NPR."
+        },
         "active": true
       }
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "seattle-fusillade-festival",
+    "coords": [-122.3535, 47.6215],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / NBC News / Seattle Police Department",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Seattle Center (festival Bite of Seattle), Seattle, États-Unis",
+      "en": "Seattle Center (Bite of Seattle festival), Seattle, United States",
+      "es": "Seattle Center (festival Bite of Seattle), Seattle, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade lors d'un festival culinaire à Seattle fait trois morts",
+      "en": "Shooting at a food festival in Seattle kills three",
+      "es": "Un tiroteo en un festival gastronómico de Seattle deja tres muertos"
+    },
+    "summary": {
+      "fr": "Une fusillade a éclaté dimanche 26 juillet vers 18h lors du festival Bite of Seattle, au Seattle Center, selon la police de Seattle et CNN. Trois personnes sont mortes et au moins quatre autres ont été blessées, dont un enfant de deux ans. La police évoque un échange de tirs entre au moins deux groupes et une possible origine liée aux gangs ; un suspect de 15 ans a été arrêté sur place et un suspect de 19 ans a été tué, tandis qu'au moins une autre personne reste recherchée.",
+      "en": "A shooting broke out on Sunday, July 26 around 6 p.m. at the Bite of Seattle festival at Seattle Center, according to the Seattle Police Department and CNN. Three people were killed and at least four others were wounded, including a two-year-old boy. Police described an exchange of gunfire between at least two groups and said they believe it was gang-related; a 15-year-old suspect was arrested at the scene and a 19-year-old suspect was killed, while at least one other person remains at large.",
+      "es": "Un tiroteo estalló el domingo 26 de julio hacia las 18:00 durante el festival Bite of Seattle, en el Seattle Center, según la policía de Seattle y CNN. Tres personas murieron y al menos otras cuatro resultaron heridas, entre ellas un niño de dos años. La policía describió un intercambio de disparos entre al menos dos grupos y apunta a un posible origen relacionado con pandillas; un sospechoso de 15 años fue detenido en el lugar y otro de 19 años murió, mientras al menos otra persona sigue prófuga."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "26/07/2026, 18h00", "en": "07/26/2026, 6:00 PM", "es": "26/07/2026, 18:00" },
+        "d": {
+          "fr": "La police de Seattle rapporte trois morts et plusieurs blessés lors de la fusillade au Seattle Center.",
+          "en": "Seattle police report three dead and several injured in the Seattle Center shooting.",
+          "es": "La policía de Seattle informa de tres muertos y varios heridos en el tiroteo del Seattle Center."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "fed-taux-inchanges",
+    "coords": [-77.0455, 38.8919],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Réserve fédérale américaine / CNBC",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Washington D.C., États-Unis (siège de la Réserve fédérale)",
+      "en": "Washington, D.C., United States (Federal Reserve headquarters)",
+      "es": "Washington D. C., Estados Unidos (sede de la Reserva Federal)"
+    },
+    "title": {
+      "fr": "La Fed maintient ses taux, avec une rare dissidence à trois voix",
+      "en": "The Fed holds rates steady amid a rare three-way dissent",
+      "es": "La Fed mantiene sus tipos con una inusual disidencia de tres votos"
+    },
+    "summary": {
+      "fr": "Le Comité fédéral de l'open market de la Réserve fédérale américaine a voté le 29 juillet, par 9 voix contre 3, le maintien de son taux directeur entre 3,50 % et 3,75 %, pour la cinquième réunion consécutive sans changement, selon le communiqué officiel de la Fed et CNBC. Trois présidents de banques régionales ont voté en faveur d'une hausse, invoquant une inflation supérieure à l'objectif de 2 % depuis plus de cinq ans. La Fed a jugé l'activité économique solide mais l'inflation toujours élevée, en partie du fait de chocs sur les prix de l'énergie.",
+      "en": "The Federal Reserve's Federal Open Market Committee voted 9-3 on July 29 to hold its benchmark rate steady between 3.50% and 3.75%, the fifth consecutive meeting without a change, according to the Fed's official statement and CNBC. Three regional Fed presidents dissented in favor of a rate hike, citing inflation that has stayed above the 2% target for more than five years. The Fed said economic activity remains solid but inflation is still elevated, partly reflecting energy price shocks.",
+      "es": "El Comité Federal de Mercado Abierto de la Reserva Federal votó el 29 de julio, por 9 votos contra 3, mantener su tipo de interés de referencia entre 3,50 % y 3,75 %, la quinta reunión consecutiva sin cambios, según el comunicado oficial de la Fed y CNBC. Tres presidentes de bancos regionales votaron a favor de una subida, citando una inflación por encima del objetivo del 2 % desde hace más de cinco años. La Fed consideró que la actividad económica sigue siendo sólida pero la inflación continúa elevada, en parte por los precios de la energía."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "07/29/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "La Fed annonce le maintien de ses taux directeurs malgré la dissidence de trois présidents régionaux.",
+          "en": "The Fed announces it is holding rates steady despite dissent from three regional presidents.",
+          "es": "La Fed anuncia el mantenimiento de sus tipos pese a la disidencia de tres presidentes regionales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "toronto-consulat-fusillade",
+    "coords": [-79.3866, 43.6531],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Associated Press / CP24 / CBC News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Consulat général des États-Unis, Toronto, Canada",
+      "en": "U.S. Consulate General, Toronto, Canada",
+      "es": "Consulado General de EE. UU., Toronto, Canadá"
+    },
+    "title": {
+      "fr": "Des coups de feu tirés sur le consulat américain à Toronto, pour la deuxième fois cette année",
+      "en": "Shots fired at the U.S. consulate in Toronto, the second time this year",
+      "es": "Disparos contra el consulado de EE. UU. en Toronto, la segunda vez este año"
+    },
+    "summary": {
+      "fr": "Un tireur a fait feu au moins une fois sur le bâtiment du consulat général des États-Unis à Toronto vers 4h45 le 27 juillet, endommageant la façade, selon la police de Toronto et l'Associated Press. Aucun blessé n'a été signalé. Il s'agit de la deuxième fois cette année que le consulat est visé par des tirs, selon CBC News. La police a poursuivi une berline blanche sans plaques sur l'autoroute Don Valley Parkway avant d'abandonner la course pour des raisons de sécurité ; aucune arrestation n'avait été annoncée.",
+      "en": "A shooter fired at least one round at the U.S. Consulate General building in Toronto around 4:45 a.m. on July 27, damaging the facade, according to Toronto police and the Associated Press. No injuries were reported. It was the second time this year the consulate has been shot at, according to CBC News. Police pursued a white sedan with no license plates onto the Don Valley Parkway before ending the chase over safety concerns; no arrests had been announced.",
+      "es": "Un tirador disparó al menos una vez contra el edificio del Consulado General de Estados Unidos en Toronto hacia las 4:45 del 27 de julio, dañando la fachada, según la policía de Toronto y Associated Press. No se reportaron heridos. Es la segunda vez este año que el consulado recibe disparos, según CBC News. La policía persiguió un sedán blanco sin matrícula por la autopista Don Valley Parkway antes de abandonar la persecución por motivos de seguridad; no se había anunciado ninguna detención."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026, 04h45", "en": "07/27/2026, 4:45 AM", "es": "27/07/2026, 4:45" },
+        "d": {
+          "fr": "La police de Toronto confirme des coups de feu tirés sur le consulat américain.",
+          "en": "Toronto police confirm shots fired at the U.S. consulate.",
+          "es": "La policía de Toronto confirma disparos contra el consulado estadounidense."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "chine-typhon-noul",
+    "coords": [114.87, 22.62],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Al Jazeera / CBS News / The Standard (Hong Kong)",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Huidong (Huizhou), province du Guangdong, Chine",
+      "en": "Huidong (Huizhou), Guangdong Province, China",
+      "es": "Huidong (Huizhou), provincia de Cantón, China"
+    },
+    "title": {
+      "fr": "Le typhon Noul touche terre dans le Guangdong, près de 900 000 évacuations",
+      "en": "Typhoon Noul makes landfall in Guangdong, nearly 900,000 evacuated",
+      "es": "El tifón Noul toca tierra en Cantón, cerca de 900 000 evacuados"
+    },
+    "summary": {
+      "fr": "Le typhon Noul, le plus puissant à toucher cette zone côtière depuis une décennie, a touché terre à Pinghai, dans le district de Huidong (Huizhou, Guangdong), le dimanche 26 juillet vers 3h50 du matin, avec des vents soutenus atteignant 150 km/h, selon Al Jazeera. Le nombre de personnes évacuées a rapidement augmenté au fil de la journée, jusqu'à environ 900 000 en fin de journée selon les autorités locales citées par The Standard de Hong Kong. De nombreux vols ont été annulés et de fortes pluies faisaient craindre des inondations dans la province.",
+      "en": "Typhoon Noul, the most powerful storm to hit this coastal area in a decade, made landfall at Pinghai in Huidong district (Huizhou, Guangdong) on Sunday, July 26 around 3:50 a.m., with sustained winds reaching 150 km/h, according to Al Jazeera. The number of people evacuated rose quickly through the day, reaching about 900,000 by evening according to local authorities cited by Hong Kong's The Standard. Numerous flights were canceled and heavy rain raised flooding concerns across the province.",
+      "es": "El tifón Noul, la tormenta más potente en tocar esta zona costera en una década, tocó tierra en Pinghai, distrito de Huidong (Huizhou, Cantón), el domingo 26 de julio hacia las 3:50 de la madrugada, con vientos sostenidos de hasta 150 km/h, según Al Jazeera. El número de evacuados aumentó rápidamente a lo largo del día, hasta unos 900 000 al final de la jornada según las autoridades locales citadas por el diario hongkonés The Standard. Numerosos vuelos fueron cancelados y las fuertes lluvias hacían temer inundaciones en la provincia."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "26/07/2026", "en": "07/26/2026", "es": "26/07/2026" },
+        "d": {
+          "fr": "Le typhon Noul touche terre dans le Guangdong ; les autorités portent le nombre d'évacués à environ 900 000.",
+          "en": "Typhoon Noul makes landfall in Guangdong; authorities raise the evacuation count to about 900,000.",
+          "es": "El tifón Noul toca tierra en Cantón; las autoridades elevan el número de evacuados a unos 900 000."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-seisme-kumamoto",
+    "coords": [130.660, 32.687],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Agence météorologique du Japon / Al Jazeera / Japan Times",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Uto, préfecture de Kumamoto, Kyushu, Japon",
+      "en": "Uto, Kumamoto Prefecture, Kyushu, Japan",
+      "es": "Uto, prefectura de Kumamoto, Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,1 frappe le sud du Japon, au moins 36 morts",
+      "en": "Magnitude 7.1 earthquake strikes southern Japan, at least 36 dead",
+      "es": "Un terremoto de magnitud 7,1 golpea el sur de Japón, al menos 36 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,1 (échelle de l'Agence météorologique japonaise) a frappé la préfecture de Kumamoto, sur l'île de Kyushu, le 28 juillet vers 16h27, avec un épicentre situé près de la ville d'Uto, selon Al Jazeera. Une alerte au tsunami de faible ampleur a été émise puis levée environ 100 minutes plus tard. Le deuxième étage du centre commercial Aeon Mall de Kashima s'est effondré, suivi d'une explosion que l'entreprise attribue à une fuite de gaz ; sept corps y ont été retrouvés. La cheminée d'une usine du groupe Nippon Paper Industries s'est également effondrée à Yatsushiro, tuant neuf personnes. Le bilan officiel s'élevait à 36 morts au 1er août, selon un bilan relayé par l'agence Xinhua, avec plus de 9200 personnes encore dans des centres d'hébergement.",
+      "en": "A magnitude 7.1 earthquake (Japan Meteorological Agency scale) struck Kumamoto Prefecture on the island of Kyushu on July 28 around 4:27 p.m., with an epicenter near the city of Uto, according to Al Jazeera. A minor tsunami advisory was issued and lifted about 100 minutes later. The second floor of the Aeon Mall in Kashima collapsed, followed by an explosion the company attributes to a gas leak; seven bodies were recovered there. A smokestack at a Nippon Paper Industries plant also collapsed in Yatsushiro, killing nine people. The official toll stood at 36 dead as of August 1, according to a roundup relayed by China's Xinhua news agency, with more than 9,200 people still in shelters.",
+      "es": "Un terremoto de magnitud 7,1 (escala de la Agencia Meteorológica de Japón) sacudió la prefectura de Kumamoto, en la isla de Kyushu, el 28 de julio hacia las 16:27, con epicentro cerca de la ciudad de Uto, según Al Jazeera. Se emitió una alerta de tsunami de baja magnitud que fue levantada unos 100 minutos después. La segunda planta del centro comercial Aeon Mall de Kashima se derrumbó, seguida de una explosión que la empresa atribuye a una fuga de gas; allí se recuperaron siete cuerpos. También se derrumbó la chimenea de una planta de Nippon Paper Industries en Yatsushiro, matando a nueve personas. El balance oficial era de 36 muertos al 1 de agosto, según un resumen difundido por la agencia china Xinhua, con más de 9200 personas todavía en refugios."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "28/07/2026, 16h27", "en": "07/28/2026, 4:27 PM", "es": "28/07/2026, 16:27" },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 frappe Kumamoto ; un centre commercial s'effondre partiellement à Kashima et une explosion s'ensuit.",
+          "en": "A magnitude 7.1 earthquake strikes Kumamoto; a shopping mall partially collapses in Kashima followed by an explosion.",
+          "es": "Un terremoto de magnitud 7,1 golpea Kumamoto; un centro comercial se derrumba parcialmente en Kashima y le sigue una explosión."
+        },
+        "active": false
+      },
+      {
+        "t": { "fr": "01/08/2026", "en": "08/01/2026", "es": "01/08/2026" },
+        "d": {
+          "fr": "Le bilan officiel atteint 36 morts, avec plus de 9200 personnes encore évacuées, selon un bilan relayé par Xinhua.",
+          "en": "The official toll reaches 36 dead, with more than 9,200 people still evacuated, according to a roundup relayed by Xinhua.",
+          "es": "El balance oficial llega a 36 muertos, con más de 9200 personas todavía evacuadas, según un resumen difundido por Xinhua."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "berlin-attaque-pride",
+    "coords": [13.3501, 52.5145],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚐",
+    "source": "Al Jazeera / Washington Post / NPR / PBS News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Tiergarten, Berlin, Allemagne",
+      "en": "Tiergarten, Berlin, Germany",
+      "es": "Tiergarten, Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une camionnette fonce sur la foule lors de la Pride de Berlin, le suspect tué le lendemain",
+      "en": "Van rams Berlin Pride crowd, suspect killed by police the next day",
+      "es": "Una furgoneta embiste a la multitud en el Orgullo de Berlín; el sospechoso muere al día siguiente"
+    },
+    "summary": {
+      "fr": "Un homme de 21 ans a foncé avec une camionnette dans la foule rassemblée pour la Christopher Street Day (marche des fiertés) à Tiergarten, à Berlin, dans la soirée du 25 juillet, selon Al Jazeera et le Washington Post. Le bilan a évolué au fil des premiers comptes rendus : les dernières estimations font état d'une femme tuée et d'une trentaine de blessés, certains dans un état critique. Le suspect a pris la fuite à pied puis a été abattu par la police le lendemain à Spandau après avoir, selon la police, chargé des agents muni d'une arme blanche. Le ministre de l'Intérieur Alexander Dobrindt a évoqué un mobile islamiste probable ; selon CBS News, les procureurs ont indiqué que le suspect avait purgé une peine de prison pour tentative de rejoindre l'État islamique.",
+      "en": "A 21-year-old man drove a van into the crowd gathered for Christopher Street Day (Pride march) in Tiergarten, Berlin, on the evening of July 25, according to Al Jazeera and the Washington Post. The toll shifted across early reports; the latest figures cite one woman killed and around 30 injured, some critically. The suspect fled on foot and was shot dead by police the next day in Spandau after, police said, charging officers with a bladed weapon. Interior Minister Alexander Dobrindt said an Islamist motive appeared likely; according to CBS News, prosecutors said the suspect had previously served a prison sentence for attempting to join the Islamic State group.",
+      "es": "Un hombre de 21 años embistió con una furgoneta a la multitud reunida para el Christopher Street Day (marcha del Orgullo) en Tiergarten, Berlín, la noche del 25 de julio, según Al Jazeera y The Washington Post. El balance varió entre los primeros informes; las últimas cifras hablan de una mujer muerta y una treintena de heridos, algunos en estado crítico. El sospechoso huyó a pie y fue abatido por la policía al día siguiente en Spandau tras, según la policía, cargar contra los agentes con un arma blanca. El ministro del Interior, Alexander Dobrindt, señaló un probable móvil islamista; según CBS News, la fiscalía indicó que el sospechoso había cumplido una condena de prisión por intentar unirse al grupo Estado Islámico."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "25/07/2026", "en": "07/25/2026", "es": "25/07/2026" },
+        "d": {
+          "fr": "Une camionnette percute la foule lors de la marche des fiertés à Tiergarten ; un premier bilan fait état d'une morte et de plusieurs blessés.",
+          "en": "A van strikes the crowd during the Pride march in Tiergarten; an initial toll cites one dead and several injured.",
+          "es": "Una furgoneta embiste a la multitud durante la marcha del Orgullo en Tiergarten; un primer balance habla de una muerta y varios heridos."
+        },
+        "active": false
+      },
+      {
+        "t": { "fr": "26/07/2026", "en": "07/26/2026", "es": "26/07/2026" },
+        "d": {
+          "fr": "La police abat le suspect à Spandau après qu'il a, selon elle, chargé des agents avec une arme blanche.",
+          "en": "Police shoot the suspect dead in Spandau after he allegedly charged officers with a bladed weapon.",
+          "es": "La policía abate al sospechoso en Spandau tras, según ella, cargar contra agentes con un arma blanca."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "gironde-incendie-bordeaux",
+    "coords": [-0.9881, 44.9200],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NPR / OPB / CBC News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Saumos et le Médoc, Gironde, France",
+      "en": "Saumos and the Médoc, Gironde, France",
+      "es": "Saumos y el Médoc, Gironda, Francia"
+    },
+    "title": {
+      "fr": "Un feu de forêt en Gironde brûle 42 000 hectares et force l'évacuation de 220 000 personnes",
+      "en": "Gironde wildfire burns 42,000 hectares, forces evacuation of 220,000 people",
+      "es": "Un incendio forestal en Gironda quema 42 000 hectáreas y obliga a evacuar a 220 000 personas"
+    },
+    "summary": {
+      "fr": "Un incendie parti le 22 juillet à Saumos, en Gironde, s'est propagé à travers une forêt asséchée par la sécheresse en direction de Bordeaux, détruisant plus de 200 habitations et brûlant environ 42 000 hectares au 30 juillet, selon NPR. Les ordres d'évacuation ont concerné jusqu'à 220 000 personnes au plus fort de l'incendie. La préfète de Gironde, Sophie Brocas, a permis à environ 84 000 évacués de rentrer chez eux à partir de la nuit du 30 au 31 juillet, tandis que les pompiers continuaient de lutter contre quatre foyers actifs, selon NPR et l'OPB.",
+      "en": "A wildfire that started on July 22 in Saumos, Gironde, spread through drought-stricken forest toward Bordeaux, destroying more than 200 homes and burning about 42,000 hectares by July 30, according to NPR. Evacuation orders covered as many as 220,000 people at the fire's peak. Gironde prefect Sophie Brocas allowed about 84,000 evacuees to return home starting the night of July 30-31, while firefighters continued battling four active hotspots, according to NPR and OPB.",
+      "es": "Un incendio que comenzó el 22 de julio en Saumos, Gironda, se propagó por un bosque reseco por la sequía en dirección a Burdeos, destruyendo más de 200 viviendas y quemando unas 42 000 hectáreas hasta el 30 de julio, según NPR. Las órdenes de evacuación llegaron a afectar a 220 000 personas en el punto álgido del incendio. La prefecta de Gironda, Sophie Brocas, permitió que unos 84 000 evacuados regresaran a sus hogares a partir de la noche del 30 al 31 de julio, mientras los bomberos seguían combatiendo cuatro focos activos, según NPR y OPB."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "22/07/2026", "en": "07/22/2026", "es": "22/07/2026" },
+        "d": {
+          "fr": "Un incendie se déclare à Saumos, en Gironde, et commence à se propager vers Bordeaux.",
+          "en": "A wildfire breaks out in Saumos, Gironde, and begins spreading toward Bordeaux.",
+          "es": "Un incendio se declara en Saumos, Gironda, y comienza a propagarse hacia Burdeos."
+        },
+        "active": false
+      },
+      {
+        "t": { "fr": "30/07/2026", "en": "07/30/2026", "es": "30/07/2026" },
+        "d": {
+          "fr": "La préfecture autorise environ 84 000 évacués à rentrer chez eux alors que le feu a brûlé environ 42 000 hectares.",
+          "en": "The prefecture allows about 84,000 evacuees to return home as the fire has burned about 42,000 hectares.",
+          "es": "La prefectura autoriza a unos 84 000 evacuados a regresar a sus hogares mientras el fuego ha quemado unas 42 000 hectáreas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-bahrein-espionnage",
+    "coords": [-0.1257, 51.5010],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / Amnesty International",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Cour suprême du Royaume-Uni, Londres",
+      "en": "UK Supreme Court, London",
+      "es": "Tribunal Supremo del Reino Unido, Londres"
+    },
+    "title": {
+      "fr": "La Cour suprême britannique refuse à Bahreïn l'immunité dans une affaire de logiciel espion",
+      "en": "UK Supreme Court denies Bahrain immunity in spyware case",
+      "es": "El Tribunal Supremo británico niega la inmunidad a Baréin en un caso de software espía"
+    },
+    "summary": {
+      "fr": "La Cour suprême du Royaume-Uni a jugé le 27 juillet, par 3 voix contre 2, que le royaume de Bahreïn ne peut invoquer l'immunité des États pour bloquer une action en justice intentée par deux dissidents basés à Londres, Saeed Shehabi et Moosa Mohammed, qui affirment que des agents bahreïnis ont infecté leurs ordinateurs avec le logiciel espion FinSpy en 2011, selon Al Jazeera et Amnesty International. La décision ne porte que sur la question de l'immunité ; l'affaire retourne devant la Haute Cour pour être jugée sur le fond.",
+      "en": "The UK Supreme Court ruled 3-2 on July 27 that the Kingdom of Bahrain cannot invoke state immunity to block a lawsuit brought by two London-based dissidents, Saeed Shehabi and Moosa Mohammed, who allege Bahraini agents infected their computers with FinSpy spyware in 2011, according to Al Jazeera and Amnesty International. The ruling addressed only the immunity question; the case now returns to the High Court to be heard on its merits.",
+      "es": "El Tribunal Supremo del Reino Unido dictaminó el 27 de julio, por 3 votos contra 2, que el Reino de Baréin no puede invocar la inmunidad de Estado para bloquear una demanda presentada por dos disidentes residentes en Londres, Saeed Shehabi y Moosa Mohammed, quienes alegan que agentes bareiníes infectaron sus ordenadores con el software espía FinSpy en 2011, según Al Jazeera y Amnistía Internacional. El fallo solo aborda la cuestión de la inmunidad; el caso regresa ahora al Tribunal Superior para ser juzgado en cuanto al fondo."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "07/27/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "La Cour suprême britannique statue que Bahreïn ne peut invoquer l'immunité d'État dans cette affaire.",
+          "en": "The UK Supreme Court rules that Bahrain cannot invoke state immunity in this case.",
+          "es": "El Tribunal Supremo británico dictamina que Baréin no puede invocar la inmunidad de Estado en este caso."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "sicile-incendies-etna",
+    "coords": [14.9833, 37.6667],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "La Sicilia / France 24",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Ragalna, au pied de l'Etna, Sicile, Italie",
+      "en": "Ragalna, at the foot of Mount Etna, Sicily, Italy",
+      "es": "Ragalna, al pie del Etna, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "Des incendies menacent des habitations au pied de l'Etna, en Sicile",
+      "en": "Wildfires threaten homes at the foot of Mount Etna, Sicily",
+      "es": "Incendios amenazan viviendas al pie del Etna, en Sicilia"
+    },
+    "summary": {
+      "fr": "Un incendie attisé par le vent s'est déclaré le 27 juillet dans le secteur de Villaggio San Francesco, à Ragalna, et a progressé vers les zones habitées de Ragalna et Santa Maria di Licodia, au pied de l'Etna, selon La Sicilia. Des évacuations de précaution ont eu lieu et un hélicoptère bombardier d'eau a été mobilisé. Ces feux s'inscrivent dans une vague plus large touchant les provinces de Palerme, Catane et Agrigente ; un pompier de 59 ans est mort d'un malaise en luttant contre un incendie près de Caltanissetta le 22 juillet, selon France 24. Le gouvernement régional sicilien a débloqué une première aide de 25 millions d'euros le 28 juillet.",
+      "en": "A wind-driven fire broke out on July 27 in the Villaggio San Francesco area of Ragalna and advanced toward the inhabited areas of Ragalna and Santa Maria di Licodia, at the foot of Mount Etna, according to La Sicilia. Precautionary evacuations took place and a water-bombing helicopter was deployed. These fires are part of a wider wave affecting Palermo, Catania and Agrigento provinces; a 59-year-old firefighter died of a medical emergency while battling a blaze near Caltanissetta on July 22, according to France 24. Sicily's regional government approved an initial 25 million euro relief package on July 28.",
+      "es": "Un incendio avivado por el viento se declaró el 27 de julio en la zona de Villaggio San Francesco, en Ragalna, y avanzó hacia las zonas habitadas de Ragalna y Santa Maria di Licodia, al pie del Etna, según La Sicilia. Se realizaron evacuaciones preventivas y se movilizó un helicóptero cisterna. Estos incendios forman parte de una ola más amplia que afecta a las provincias de Palermo, Catania y Agrigento; un bombero de 59 años murió por una emergencia médica mientras combatía un incendio cerca de Caltanissetta el 22 de julio, según France 24. El gobierno regional de Sicilia aprobó una primera ayuda de 25 millones de euros el 28 de julio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "07/27/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "Un incendie menace les zones habitées de Ragalna et Santa Maria di Licodia, au pied de l'Etna.",
+          "en": "A fire threatens the inhabited areas of Ragalna and Santa Maria di Licodia, at the foot of Mount Etna.",
+          "es": "Un incendio amenaza las zonas habitadas de Ragalna y Santa Maria di Licodia, al pie del Etna."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "espagne-incendie-record-avila",
+    "coords": [-4.7864, 40.4136],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "France 24 / The Olive Press / Spaceflight Now",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Burgohondo, Sierra de Gredos, province d'Ávila, Espagne",
+      "en": "Burgohondo, Sierra de Gredos, Ávila province, Spain",
+      "es": "Burgohondo, Sierra de Gredos, provincia de Ávila, España"
+    },
+    "title": {
+      "fr": "Le plus grand incendie de l'histoire de l'Espagne se stabilise près de Madrid",
+      "en": "Spain's largest-ever wildfire stabilizes near Madrid",
+      "es": "El mayor incendio de la historia de España se estabiliza cerca de Madrid"
+    },
+    "summary": {
+      "fr": "Deux incendies dans les provinces d'Ávila et de Madrid ont fusionné vers le 24 juillet pour former ce qui est devenu le plus grand feu de forêt de l'histoire de l'Espagne, avec environ 50 000 hectares brûlés fin juillet et jusqu'à 100 000 personnes concernées par des évacuations, selon France 24 et The Olive Press. L'incendie a forcé la NASA à évacuer, par précaution, son complexe de communication spatiale lointaine près de Robledo de Chavela, sans dommage majeur constaté selon Spaceflight Now. Le premier ministre espagnol Pedro Sánchez avait déclaré l'urgence nationale pour les provinces d'Ávila, Madrid et Tolède ; il a annoncé la levée de cette urgence le 30 juillet après la stabilisation des feux.",
+      "en": "Two wildfires in the Ávila and Madrid provinces merged around July 24 to become what has become the largest wildfire in Spain's recorded history, burning about 50,000 hectares by late July and affecting up to 100,000 people with evacuation orders, according to France 24 and The Olive Press. The fire forced NASA to evacuate, as a precaution, its deep-space communications complex near Robledo de Chavela, with no major damage found according to Spaceflight Now. Spanish Prime Minister Pedro Sánchez had declared a national emergency for the Ávila, Madrid and Toledo provinces; he announced the emergency was lifted on July 30 after the fires stabilized.",
+      "es": "Dos incendios en las provincias de Ávila y Madrid se fusionaron hacia el 24 de julio para convertirse en el que se considera el mayor incendio forestal de la historia de España, con unas 50 000 hectáreas quemadas a finales de julio y hasta 100 000 personas afectadas por órdenes de evacuación, según France 24 y The Olive Press. El incendio obligó a la NASA a evacuar, por precaución, su complejo de comunicaciones de espacio profundo cerca de Robledo de Chavela, sin daños importantes según Spaceflight Now. El presidente del Gobierno español, Pedro Sánchez, había declarado la emergencia nacional para las provincias de Ávila, Madrid y Toledo; anunció el levantamiento de esa emergencia el 30 de julio tras la estabilización de los incendios."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "24/07/2026", "en": "07/24/2026", "es": "24/07/2026" },
+        "d": {
+          "fr": "Deux incendies fusionnent dans les provinces d'Ávila et de Madrid, devenant le plus grand feu de l'histoire espagnole.",
+          "en": "Two wildfires merge in the Ávila and Madrid provinces, becoming the largest fire in Spanish history.",
+          "es": "Dos incendios se fusionan en las provincias de Ávila y Madrid, convirtiéndose en el mayor de la historia española."
+        },
+        "active": false
+      },
+      {
+        "t": { "fr": "30/07/2026", "en": "07/30/2026", "es": "30/07/2026" },
+        "d": {
+          "fr": "Pedro Sánchez annonce la levée de l'urgence nationale après la stabilisation des incendies.",
+          "en": "Pedro Sánchez announces the national emergency has been lifted after the fires stabilized.",
+          "es": "Pedro Sánchez anuncia el levantamiento de la emergencia nacional tras la estabilización de los incendios."
+        },
+        "active": true
+      }
+    ],
+    "related": ["espagne-incendie"],
+    "priority": 1
+  },
+  {
+    "id": "coree-bourse-krach",
+    "coords": [126.9245, 37.5219],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Al Jazeera / Banque de Corée",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Yeouido (quartier financier), Séoul, Corée du Sud",
+      "en": "Yeouido (financial district), Seoul, South Korea",
+      "es": "Yeouido (distrito financiero), Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Le Kospi sud-coréen chute de 16 % en deux jours, une réunion d'urgence convoquée",
+      "en": "South Korea's Kospi plunges 16% in two days, emergency meeting called",
+      "es": "El Kospi surcoreano cae un 16 % en dos días; se convoca una reunión de emergencia"
+    },
+    "summary": {
+      "fr": "L'indice sud-coréen Kospi a chuté de 10,84 % le 28 juillet puis de 5,98 % supplémentaires le 29, une baisse cumulée d'environ 16 % qui a effacé près de 864 500 milliards de wons de capitalisation boursière, selon Bloomberg. C'est la première fois que le Kospi et le Kosdaq déclenchent un coupe-circuit deux jours de suite, selon la Bourse de Corée. Les principaux responsables économiques du pays, dont le ministre des Finances Koo Yun-cheol et le gouverneur de la Banque de Corée Shin Hyun-song, se sont réunis en urgence le 29 juillet et ont annoncé des mesures visant les ETF à effet de levier. Les analystes citent des résultats décevants du fabricant de puces SK Hynix comme déclencheur immédiat.",
+      "en": "South Korea's Kospi index fell 10.84% on July 28, then a further 5.98% on July 29, a combined drop of about 16% that erased roughly 864.5 trillion won in market value, according to Bloomberg. It was the first time the Kospi and Kosdaq have both triggered circuit breakers on two consecutive days, according to the Korea Exchange. The country's top economic officials, including Finance Minister Koo Yun-cheol and Bank of Korea Governor Shin Hyun-song, held an emergency meeting on July 29 and announced measures targeting leveraged ETFs. Analysts cited disappointing earnings from chipmaker SK Hynix as the immediate trigger.",
+      "es": "El índice surcoreano Kospi cayó un 10,84 % el 28 de julio y un 5,98 % adicional el 29, una caída acumulada de alrededor del 16 % que borró unos 864,5 billones de wones de capitalización bursátil, según Bloomberg. Es la primera vez que el Kospi y el Kosdaq activan un cortacircuitos dos días seguidos, según la Bolsa de Corea. Los principales responsables económicos del país, incluido el ministro de Finanzas Koo Yun-cheol y el gobernador del Banco de Corea Shin Hyun-song, celebraron una reunión de emergencia el 29 de julio y anunciaron medidas dirigidas a los ETF apalancados. Los analistas citan los decepcionantes resultados del fabricante de chips SK Hynix como el detonante inmediato."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "07/29/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Les autorités sud-coréennes tiennent une réunion d'urgence après une chute cumulée de 16 % du Kospi en deux jours.",
+          "en": "South Korean authorities hold an emergency meeting after a cumulative 16% drop in the Kospi over two days.",
+          "es": "Las autoridades surcoreanas celebran una reunión de emergencia tras una caída acumulada del 16 % del Kospi en dos días."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "mexique-r1-arrestation",
+    "coords": [-102.5083, 20.5500],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Infobae / CNN en Español / El Informador",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Atotonilco El Alto, Jalisco, Mexique",
+      "en": "Atotonilco El Alto, Jalisco, Mexico",
+      "es": "Atotonilco El Alto, Jalisco, México"
+    },
+    "title": {
+      "fr": "Arrestation au Mexique du chef présumé du CJNG accusé d'avoir commandité l'assassinat d'un maire",
+      "en": "Mexico arrests alleged CJNG cell leader accused of ordering mayor's assassination",
+      "es": "México captura al presunto líder del CJNG acusado de ordenar el asesinato de un alcalde"
+    },
+    "summary": {
+      "fr": "Ramón Ángel Álvarez Ayala, surnommé « El R1 », a été arrêté le 30 juillet à Atotonilco El Alto, dans l'État de Jalisco, par l'armée mexicaine et le secrétariat fédéral à la Sécurité, selon Infobae et CNN en Español. Les autorités le présentent comme le commanditaire présumé de l'assassinat, le 1er novembre 2025, du maire d'Uruapan Carlos Manzo, et comme un cadre du Cartel de Jalisco Nouvelle Génération (CJNG). L'ambassade et la DEA des États-Unis ont publiquement félicité les autorités mexicaines pour cette arrestation. Selon Infobae, 31 personnes ont désormais été interpellées dans le cadre de l'enquête sur ce meurtre.",
+      "en": "Ramón Ángel Álvarez Ayala, alias 'El R1,' was arrested on July 30 in Atotonilco El Alto, Jalisco, by the Mexican Army and the federal security secretariat, according to Infobae and CNN en Español. Authorities describe him as the alleged mastermind behind the November 1, 2025 assassination of Uruapan Mayor Carlos Manzo, and as a senior figure in the Jalisco New Generation Cartel (CJNG). The U.S. embassy and the DEA publicly congratulated Mexican authorities for the arrest. According to Infobae, 31 people have now been detained in connection with the murder investigation.",
+      "es": "Ramón Ángel Álvarez Ayala, alias 'El R1', fue detenido el 30 de julio en Atotonilco El Alto, Jalisco, por el Ejército mexicano y la Secretaría de Seguridad federal, según Infobae y CNN en Español. Las autoridades lo señalan como el presunto autor intelectual del asesinato, el 1 de noviembre de 2025, del alcalde de Uruapan Carlos Manzo, y como un operador de alto rango del Cártel de Jalisco Nueva Generación (CJNG). La embajada y la DEA de Estados Unidos felicitaron públicamente a las autoridades mexicanas por la detención. Según Infobae, ya son 31 las personas detenidas en el marco de la investigación de este homicidio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "30/07/2026", "en": "07/30/2026", "es": "30/07/2026" },
+        "d": {
+          "fr": "Les autorités mexicaines annoncent l'arrestation d'« El R1 », présenté comme le commanditaire de l'assassinat du maire d'Uruapan.",
+          "en": "Mexican authorities announce the arrest of 'El R1,' described as the mastermind behind the Uruapan mayor's assassination.",
+          "es": "Las autoridades mexicanas anuncian la detención de 'El R1', señalado como el autor intelectual del asesinato del alcalde de Uruapan."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "rio-avenida-brasil-fusillade",
+    "coords": [-43.257, -22.855],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN Brasil / Correio24horas / Brasil247",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Avenida Brasil (quartiers de Guadalupe et Ramos), Rio de Janeiro, Brésil",
+      "en": "Avenida Brasil (Guadalupe and Ramos neighborhoods), Rio de Janeiro, Brazil",
+      "es": "Avenida Brasil (barrios de Guadalupe y Ramos), Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Une course-poursuite et une fusillade sur l'Avenida Brasil font cinq morts à Rio",
+      "en": "Chase and shootout on Avenida Brasil leaves five dead in Rio",
+      "es": "Una persecución y tiroteo en la Avenida Brasil deja cinco muertos en Río"
+    },
+    "summary": {
+      "fr": "Une poursuite policière engagée après que des agents ont tenté d'arrêter deux véhicules suspects à Guadalupe a dégénéré en fusillade dans la nuit du 28 juillet, selon CNN Brasil et Correio24horas. Le véhicule des suspects s'est écrasé contre un mur de l'autoroute dans le quartier de Ramos, provoquant un intense échange de tirs avec les unités de police venues en renfort. Quatre suspects et un policier militaire sont morts sur place, et quatre autres personnes ont été blessées, selon des bilans concordants relayés par plusieurs médias brésiliens. La police affirme avoir saisi un important arsenal après avoir ratissé la zone.",
+      "en": "A police chase that began after officers tried to stop two suspicious vehicles in Guadalupe escalated into a shootout on the night of July 28, according to CNN Brasil and Correio24horas. The suspects' vehicle crashed into a highway wall in the Ramos neighborhood, triggering an intense exchange of gunfire with reinforcing police units. Four suspects and one military police officer died at the scene, and four more people were wounded, according to consistent figures relayed by several Brazilian outlets. Police say they seized a large weapons cache after sweeping the area.",
+      "es": "Una persecución policial iniciada tras un intento de detener dos vehículos sospechosos en Guadalupe derivó en un tiroteo en la noche del 28 de julio, según CNN Brasil y Correio24horas. El vehículo de los sospechosos chocó contra un muro de la autopista en el barrio de Ramos, lo que provocó un intenso intercambio de disparos con las unidades policiales que llegaron como refuerzo. Cuatro sospechosos y un policía militar murieron en el lugar, y otras cuatro personas resultaron heridas, según cifras coincidentes difundidas por varios medios brasileños. La policía asegura haber incautado un importante arsenal tras rastrear la zona."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "28/07/2026", "en": "07/28/2026", "es": "28/07/2026" },
+        "d": {
+          "fr": "Une fusillade sur l'Avenida Brasil fait cinq morts, dont un policier militaire, et quatre blessés.",
+          "en": "A shootout on Avenida Brasil leaves five dead, including one military police officer, and four wounded.",
+          "es": "Un tiroteo en la Avenida Brasil deja cinco muertos, entre ellos un policía militar, y cuatro heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "argentine-crue-rio-uruguay",
+    "coords": [-57.09, -29.70],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Perfil / El Once / Análisis Digital",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Paso de los Libres, province de Corrientes, Argentine",
+      "en": "Paso de los Libres, Corrientes Province, Argentina",
+      "es": "Paso de los Libres, provincia de Corrientes, Argentina"
+    },
+    "title": {
+      "fr": "La crue du fleuve Uruguay force des évacuations dans la province argentine de Corrientes",
+      "en": "Río Uruguay flooding forces evacuations in Argentina's Corrientes province",
+      "es": "La crecida del río Uruguay obliga a evacuar en la provincia argentina de Corrientes"
+    },
+    "summary": {
+      "fr": "La montée des eaux du fleuve Uruguay, alimentée par un épisode El Niño, a forcé des évacuations dans des localités riveraines de la province de Corrientes, selon Perfil et El Once. À Paso de los Libres, le fleuve a atteint 8,64 mètres, dépassant le seuil d'évacuation de 8,50 mètres, poussant des familles à rejoindre des centres d'assistance municipaux ; un passage fluvial local a été suspendu par précaution. Perfil fait état de plus de 500 personnes évacuées à l'échelle de la province en raison de la crue du fleuve et du débordement de plusieurs cours d'eau. Les autorités ont averti que le risque d'inondation pourrait s'intensifier en août et septembre en raison des conditions El Niño.",
+      "en": "Rising waters on the Río Uruguay, driven by an El Niño weather pattern, forced evacuations in riverside towns in Corrientes province, according to Perfil and El Once. In Paso de los Libres, the river reached 8.64 meters, above the 8.50-meter evacuation threshold, prompting families to move to municipal assistance centers; a local river crossing was suspended as a precaution. Perfil reported more than 500 people evacuated province-wide due to the river's rise and overflowing streams. Officials warned the flood risk could intensify in August and September amid El Niño conditions.",
+      "es": "La crecida del río Uruguay, impulsada por un patrón climático de El Niño, obligó a evacuar localidades ribereñas de la provincia de Corrientes, según Perfil y El Once. En Paso de los Libres, el río alcanzó 8,64 metros, por encima del umbral de evacuación de 8,50 metros, lo que llevó a familias a trasladarse a centros de asistencia municipales; se suspendió por precaución un paso fluvial local. Perfil informó de más de 500 personas evacuadas en toda la provincia debido a la crecida del río y al desborde de varios arroyos. Las autoridades advirtieron que el riesgo de inundación podría intensificarse en agosto y septiembre por las condiciones de El Niño."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "30/07/2026", "en": "07/30/2026", "es": "30/07/2026" },
+        "d": {
+          "fr": "Le fleuve Uruguay dépasse le seuil d'évacuation à Paso de los Libres ; plus de 500 personnes sont évacuées dans la province.",
+          "en": "The Río Uruguay exceeds the evacuation threshold in Paso de los Libres; more than 500 people are evacuated province-wide.",
+          "es": "El río Uruguay supera el umbral de evacuación en Paso de los Libres; más de 500 personas son evacuadas en toda la provincia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "inde-himachal-accident",
+    "coords": [75.9700, 32.5387],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "The Tribune / ETV Bharat / Deccan Herald",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Près de Dalhousie, district de Chamba, Himachal Pradesh, Inde",
+      "en": "Near Dalhousie, Chamba district, Himachal Pradesh, India",
+      "es": "Cerca de Dalhousie, distrito de Chamba, Himachal Pradesh, India"
+    },
+    "title": {
+      "fr": "Une famille de cinq personnes meurt après la chute de leur voiture dans un ravin en Himachal Pradesh",
+      "en": "Family of five dies after car plunges into gorge in Himachal Pradesh",
+      "es": "Una familia de cinco personas muere tras la caída de su coche a un barranco en Himachal Pradesh"
+    },
+    "summary": {
+      "fr": "Une voiture transportant cinq membres d'une même famille a fait une chute d'environ 400 mètres dans un ravin sur la route nationale 154A, près de Dalhousie, dans le district de Chamba, après que le conducteur a semble-t-il perdu le contrôle du véhicule sous une pluie de mousson battante, selon The Tribune et ETV Bharat. Les cinq occupants, dont un nourrisson de trois mois, sont morts sur le coup, selon la police locale. La famille rentrait de l'hôpital PGI de Chandigarh où l'enfant recevait des soins. Le centre météorologique de l'Himachal Pradesh avait émis des alertes aux crues éclair pour sept districts, dont Chamba, au moment de l'accident.",
+      "en": "A car carrying five members of the same family plunged roughly 400 meters into a gorge on National Highway 154A near Dalhousie, in Chamba district, after the driver apparently lost control in heavy monsoon rain, according to The Tribune and ETV Bharat. All five occupants, including a three-month-old infant, died at the scene, according to local police. The family was returning from PGI Hospital in Chandigarh, where the infant had been receiving treatment. The Himachal Pradesh Meteorological Centre had issued flash-flood warnings for seven districts, including Chamba, at the time of the accident.",
+      "es": "Un coche que transportaba a cinco miembros de una misma familia cayó unos 400 metros a un barranco en la carretera nacional 154A, cerca de Dalhousie, en el distrito de Chamba, después de que el conductor aparentemente perdiera el control del vehículo bajo una fuerte lluvia monzónica, según The Tribune y ETV Bharat. Los cinco ocupantes, entre ellos un bebé de tres meses, murieron en el acto, según la policía local. La familia regresaba del hospital PGI de Chandigarh, donde el bebé recibía tratamiento. El Centro Meteorológico de Himachal Pradesh había emitido alertas de crecidas repentinas para siete distritos, incluido Chamba, en el momento del accidente."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "07/27/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "Une voiture tombe dans un ravin près de Dalhousie, tuant les cinq membres d'une même famille.",
+          "en": "A car falls into a gorge near Dalhousie, killing all five members of one family.",
+          "es": "Un coche cae a un barranco cerca de Dalhousie, matando a los cinco miembros de una misma familia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "indonesie-lewotobi-eruption",
+    "coords": [122.7750, -8.5423],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "PVMBG (Indonésie) / VolcanoDiscovery / PBS News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Mont Lewotobi Laki-laki, île de Florès, Indonésie",
+      "en": "Mount Lewotobi Laki-laki, Flores Island, Indonesia",
+      "es": "Monte Lewotobi Laki-laki, isla de Flores, Indonesia"
+    },
+    "title": {
+      "fr": "Le volcan indonésien Lewotobi Laki-laki continue son éruption, alerte de niveau 3 maintenue",
+      "en": "Indonesia's Lewotobi Laki-laki volcano continues erupting, alert level 3 maintained",
+      "es": "El volcán indonesio Lewotobi Laki-laki continúa en erupción, se mantiene la alerta de nivel 3"
+    },
+    "summary": {
+      "fr": "Le volcan Lewotobi Laki-laki, sur l'île de Florès, est resté en éruption continue tout au long du mois de juillet, avec des panaches de cendres grises s'élevant quotidiennement de 200 à 1600 mètres au-dessus du sommet, selon l'agence indonésienne de volcanologie (PVMBG) citée par VolcanoDiscovery. L'alerte de niveau 3 (« veille ») reste en vigueur, avec une zone d'exclusion de 5 kilomètres autour du cratère. Selon PBS News, cette éruption a déjà provoqué par le passé des évacuations et des annulations de vols dans la région, dans un contexte d'activité volcanique simultanée touchant plusieurs volcans indonésiens ce mois-ci.",
+      "en": "Mount Lewotobi Laki-laki, on Flores Island, has remained in continuous eruption throughout July, with gray ash plumes rising daily 200 to 1,600 meters above the summit, according to Indonesia's volcanology agency (PVMBG) as cited by VolcanoDiscovery. A level-3 ('standby') alert remains in force, with a 5-kilometer exclusion zone around the crater. According to PBS News, the eruption has previously forced evacuations and flight cancellations in the region, amid simultaneous volcanic activity affecting several Indonesian volcanoes this month.",
+      "es": "El monte Lewotobi Laki-laki, en la isla de Flores, se ha mantenido en erupción continua durante todo julio, con columnas de ceniza gris que se elevan a diario entre 200 y 1600 metros sobre la cima, según la agencia indonesia de vulcanología (PVMBG) citada por VolcanoDiscovery. Se mantiene la alerta de nivel 3 ('en espera'), con una zona de exclusión de 5 kilómetros alrededor del cráter. Según PBS News, la erupción ya ha provocado en el pasado evacuaciones y cancelaciones de vuelos en la región, en un contexto de actividad volcánica simultánea que afecta a varios volcanes indonesios este mes."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "31/07/2026", "en": "07/31/2026", "es": "31/07/2026" },
+        "d": {
+          "fr": "Le PVMBG maintient l'alerte de niveau 3 alors que le volcan continue d'émettre des panaches de cendres.",
+          "en": "PVMBG maintains the level-3 alert as the volcano continues emitting ash plumes.",
+          "es": "El PVMBG mantiene la alerta de nivel 3 mientras el volcán sigue emitiendo columnas de ceniza."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "pakistan-inondations-mousson",
+    "coords": [71.5249, 34.0151],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "NDMA (Pakistan) / Al Jazeera / Dawn",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Ensemble du Pakistan, province la plus touchée : Khyber Pakhtunkhwa (référence : Peshawar)",
+      "en": "Nationwide Pakistan, hardest-hit province: Khyber Pakhtunkhwa (reference: Peshawar)",
+      "es": "Todo Pakistán, provincia más afectada: Khyber Pakhtunkhwa (referencia: Peshawar)"
+    },
+    "title": {
+      "fr": "Les inondations de mousson font plus de 100 morts au Pakistan",
+      "en": "Monsoon flooding kills more than 100 in Pakistan",
+      "es": "Las inundaciones monzónicas dejan más de 100 muertos en Pakistán"
+    },
+    "summary": {
+      "fr": "Les pluies de mousson qui frappent le Pakistan depuis fin juin ont fait au moins 107 à 122 morts et plus de 340 blessés à l'échelle nationale, selon l'Autorité nationale de gestion des catastrophes (NDMA) citée par Al Jazeera et Dawn. La province de Khyber Pakhtunkhwa enregistre le bilan le plus lourd, suivie du Pendjab, de l'Azad Cachemire, du Baloutchistan, du Sind et du Gilgit-Baltistan. De nombreuses victimes sont mortes lors de l'effondrement de maisons ou de toits sous des pluies intenses, selon Dawn. Le gouvernement fédéral a activé son centre national des opérations d'urgence à Islamabad, alors que de nouvelles pluies étaient prévues jusqu'au 5 août.",
+      "en": "Monsoon rains that have battered Pakistan since late June have killed at least 107 to 122 people and injured more than 340 nationwide, according to the National Disaster Management Authority (NDMA) cited by Al Jazeera and Dawn. Khyber Pakhtunkhwa province recorded the highest toll, followed by Punjab, Azad Kashmir, Balochistan, Sindh and Gilgit-Baltistan. Many victims died when homes or roofs collapsed under heavy rain, according to Dawn. The federal government activated its National Emergency Operations Centre in Islamabad, as more rain was forecast through August 5.",
+      "es": "Las lluvias monzónicas que azotan Pakistán desde finales de junio han dejado al menos entre 107 y 122 muertos y más de 340 heridos en todo el país, según la Autoridad Nacional de Gestión de Desastres (NDMA), citada por Al Jazeera y Dawn. La provincia de Khyber Pakhtunkhwa registra el balance más alto, seguida de Punjab, Azad Cachemira, Baluchistán, Sindh y Gilgit-Baltistán. Muchas víctimas murieron por el colapso de viviendas o techos bajo lluvias intensas, según Dawn. El gobierno federal activó su Centro Nacional de Operaciones de Emergencia en Islamabad, mientras se preveían más lluvias hasta el 5 de agosto."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "27/07/2026", "en": "07/27/2026", "es": "27/07/2026" },
+        "d": {
+          "fr": "La NDMA porte le bilan des inondations de mousson à plus de 100 morts à l'échelle nationale.",
+          "en": "The NDMA raises the monsoon flooding toll to more than 100 dead nationwide.",
+          "es": "La NDMA eleva el balance de las inundaciones monzónicas a más de 100 muertos en todo el país."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "nigeria-alerte-inondations",
+    "coords": [9.8442, 10.3158],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Agence hydrologique du Nigeria (NIHSA) / Guardian Nigeria / Vanguard",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Bauchi et 16 autres États du Nigeria",
+      "en": "Bauchi and 16 other Nigerian states",
+      "es": "Bauchi y otros 16 estados de Nigeria"
+    },
+    "title": {
+      "fr": "L'agence hydrologique nigériane ordonne des évacuations dans 17 États face à la montée des eaux",
+      "en": "Nigeria's hydrological agency orders evacuations in 17 states as river levels rise",
+      "es": "La agencia hidrológica de Nigeria ordena evacuaciones en 17 estados ante la subida de los ríos"
+    },
+    "summary": {
+      "fr": "L'Agence nigériane des services hydrologiques (NIHSA) a émis une alerte d'inondation de niveau moyen pour 17 États après que les niveaux de plusieurs cours d'eau ont dépassé les seuils de vigilance, selon le Guardian Nigeria et Vanguard. Le directeur général de la NIHSA, Umar Mohammed, a appelé les habitants et éleveurs des zones vulnérables à se déplacer vers des abris en hauteur désignés. L'État de Bauchi est identifié comme le plus exposé, avec 1841 communautés, 145 écoles et 101 établissements de santé à risque ; l'État d'Imo signale 415 communautés et 423 écoles menacées. La NIHSA a réitéré ses appels à l'évacuation le 31 juillet.",
+      "en": "Nigeria's Hydrological Services Agency (NIHSA) issued a medium-risk flood advisory for 17 states after river levels at several monitoring stations exceeded warning thresholds, according to Guardian Nigeria and Vanguard. NIHSA Director-General Umar Mohammed called on residents and livestock owners in vulnerable communities to relocate to designated high-ground shelters. Bauchi State was identified as the most exposed, with 1,841 communities, 145 schools and 101 health facilities at risk; Imo State reported 415 communities and 423 schools threatened. NIHSA reiterated its evacuation calls on July 31.",
+      "es": "La Agencia de Servicios Hidrológicos de Nigeria (NIHSA) emitió una alerta de inundación de riesgo medio para 17 estados después de que los niveles de varios ríos superaran los umbrales de vigilancia, según Guardian Nigeria y Vanguard. El director general de la NIHSA, Umar Mohammed, pidió a los residentes y ganaderos de las comunidades vulnerables que se trasladaran a refugios designados en zonas altas. El estado de Bauchi fue identificado como el más expuesto, con 1841 comunidades, 145 escuelas y 101 centros de salud en riesgo; el estado de Imo reportó 415 comunidades y 423 escuelas amenazadas. La NIHSA reiteró sus llamados a la evacuación el 31 de julio."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "31/07/2026", "en": "07/31/2026", "es": "31/07/2026" },
+        "d": {
+          "fr": "La NIHSA réitère son appel à l'évacuation dans 17 États face à la montée des niveaux des cours d'eau.",
+          "en": "NIHSA reiterates its evacuation call in 17 states as river levels continue to rise.",
+          "es": "La NIHSA reitera su llamado a la evacuación en 17 estados ante la subida de los niveles de los ríos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "egypte-damiette-attaque-drone",
+    "coords": [31.8133, 31.4165],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "MENA (Égypte) / Al Jazeera / CNBC",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Port de Damiette, Égypte",
+      "en": "Damietta Port, Egypt",
+      "es": "Puerto de Damieta, Egipto"
+    },
+    "title": {
+      "fr": "Une attaque de drone provoque un incendie sur deux navires gaziers au port égyptien de Damiette",
+      "en": "Drone attack sparks fire on two gas vessels at Egypt's Damietta port",
+      "es": "Un ataque con dron provoca un incendio en dos buques gaseros en el puerto egipcio de Damieta"
+    },
+    "summary": {
+      "fr": "Une attaque de drone a provoqué un incendie à bord de deux navires — dont une unité flottante de stockage et de regazéification exploitée par Wilhelmsen Ship Management — au port de Damiette, le 29 juillet, selon l'agence de presse officielle égyptienne MENA et Al Jazeera. Aucune victime n'a été signalée. La société de sécurité maritime Ambrey a confirmé qu'un des navires avait été touché par un drone. Le mouvement houthi a nié avoir visé un navire à Damiette, et aucun groupe n'a revendiqué l'attaque, selon CNBC. Le président égyptien Abdel Fattah al-Sissi a qualifié l'incident de première attaque par drone visant l'Égypte depuis le début du conflit régional plus large et a appelé à la désescalade.",
+      "en": "A drone attack sparked a fire aboard two vessels — including a floating storage and regasification unit operated by Wilhelmsen Ship Management — at Damietta Port on July 29, according to Egypt's official MENA news agency and Al Jazeera. No casualties were reported. Maritime security firm Ambrey confirmed one of the vessels was struck by a drone. The Houthi movement denied targeting any vessel at Damietta, and no group claimed responsibility for the attack, according to CNBC. Egyptian President Abdel Fattah el-Sisi called it the first drone attack to target Egypt since the outbreak of the wider regional conflict and called for de-escalation.",
+      "es": "Un ataque con dron provocó un incendio a bordo de dos buques —entre ellos una unidad flotante de almacenamiento y regasificación operada por Wilhelmsen Ship Management— en el puerto de Damieta, el 29 de julio, según la agencia oficial egipcia MENA y Al Jazeera. No se reportaron víctimas. La empresa de seguridad marítima Ambrey confirmó que uno de los buques fue alcanzado por un dron. El movimiento hutí negó haber apuntado a ningún buque en Damieta, y ningún grupo se atribuyó el ataque, según CNBC. El presidente egipcio Abdel Fattah al-Sisi calificó el hecho como el primer ataque con dron dirigido contra Egipto desde el estallido del conflicto regional más amplio y pidió una desescalada."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "29/07/2026", "en": "07/29/2026", "es": "29/07/2026" },
+        "d": {
+          "fr": "Un incendie se déclare sur deux navires gaziers à Damiette après une attaque de drone, sans faire de victime.",
+          "en": "A fire breaks out on two gas vessels in Damietta after a drone attack, with no casualties reported.",
+          "es": "Se declara un incendio en dos buques gaseros en Damieta tras un ataque con dron, sin víctimas reportadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "afrique-sud-cape-flats-fusillades",
+    "coords": [18.6928, -34.0333],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Eyewitness News (EWN) / SABC News",
+    "week": "2026-W31",
+    "place": {
+      "fr": "Khayelitsha, Gugulethu et Manenberg (Cape Flats), Le Cap, Afrique du Sud",
+      "en": "Khayelitsha, Gugulethu and Manenberg (Cape Flats), Cape Town, South Africa",
+      "es": "Khayelitsha, Gugulethu y Manenberg (Cape Flats), Ciudad del Cabo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Une vague de fusillades fait dix morts dans les townships du Cape Flats, au Cap",
+      "en": "Wave of shootings kills ten in Cape Town's Cape Flats townships",
+      "es": "Una ola de tiroteos deja diez muertos en los townships de Cape Flats, Ciudad del Cabo"
+    },
+    "summary": {
+      "fr": "Trois hommes ont été abattus le 26 juillet lorsque deux hommes armés ont ouvert le feu sur une maison du secteur Site B, à Khayelitsha, selon Eyewitness News, qui a lancé un avis de recherche pour les suspects en fuite à bord d'une Hyundai blanche. Selon la SABC, sept autres personnes ont été tuées dans deux fusillades distinctes survenues dans les 24 heures suivantes sur le Cape Flats : quatre hommes et une femme à Gugulethu, et deux hommes à Manenberg, où une femme âgée a également été blessée. La commissaire provinciale par intérim du Cap-Occidental a demandé aux enquêteurs de suivre toutes les pistes ; aucune arrestation n'avait été annoncée.",
+      "en": "Three men were shot dead on July 26 when two armed men opened fire on a house in the Site B area of Khayelitsha, according to Eyewitness News, which reported a manhunt launched for the suspects who fled in a white Hyundai. According to SABC News, seven more people were killed in two separate shootings within the following 24 hours on the Cape Flats: four men and one woman in Gugulethu, and two men in Manenberg, where an elderly woman was also wounded. The Western Cape's acting provincial police commissioner directed detectives to pursue all leads; no arrests had been announced.",
+      "es": "Tres hombres fueron abatidos el 26 de julio cuando dos hombres armados abrieron fuego contra una casa en la zona de Site B, en Khayelitsha, según Eyewitness News, que informó de una búsqueda lanzada para los sospechosos, huidos en un Hyundai blanco. Según SABC News, otras siete personas murieron en dos tiroteos distintos ocurridos en las siguientes 24 horas en Cape Flats: cuatro hombres y una mujer en Gugulethu, y dos hombres en Manenberg, donde también resultó herida una mujer de edad avanzada. La comisionada provincial interina del Cabo Occidental pidió a los investigadores seguir todas las pistas; no se había anunciado ninguna detención."
+    },
+    "timeline": [
+      {
+        "t": { "fr": "26/07/2026", "en": "07/26/2026", "es": "26/07/2026" },
+        "d": {
+          "fr": "Une série de fusillades sur le Cape Flats fait dix morts en 24 heures.",
+          "en": "A series of shootings on the Cape Flats leaves ten dead within 24 hours.",
+          "es": "Una serie de tiroteos en Cape Flats deja diez muertos en 24 horas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
