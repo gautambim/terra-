@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / CNBC",
+    "week": "2026-W32",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Les forces américaines maintiennent le blocus naval imposé à l'Iran (35 navires redirigés, deux immobilisés, deux arraisonnés, selon l'US Central Command). Donald Trump annonce l'annulation d'une frappe majeure, affirmant que Téhéran a demandé une trêve avant des négociations devant débuter le 3 août pour rouvrir le détroit d'Ormuz.",
+          "en": "US forces maintain the naval blockade imposed on Iran (35 vessels redirected, two disabled, two boarded, according to US Central Command). Donald Trump announced the cancellation of a major strike, saying Tehran had asked for a pause ahead of negotiations set to begin on August 3 to reopen the Strait of Hormuz.",
+          "es": "Las fuerzas estadounidenses mantienen el bloqueo naval impuesto a Irán (35 buques redirigidos, dos inmovilizados, dos abordados, según el Mando Central de EE. UU.). Donald Trump anunció la cancelación de un ataque de gran envergadura, afirmando que Teherán había pedido una tregua antes de negociaciones que debían comenzar el 3 de agosto para reabrir el estrecho de Ormuz."
         },
         "active": true
       }
@@ -828,6 +841,628 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "kyiv-frappe-aout",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / NPR / Al Jazeera",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de missiles russes sur Kyiv fait au moins 9 morts",
+      "en": "Russian missile strike on Kyiv kills at least 9",
+      "es": "Un ataque con misiles rusos sobre Kiev deja al menos 9 muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 1er août, la Russie a frappé la capitale ukrainienne avec des missiles balistiques et des drones, touchant cinq arrondissements de la ville. Au moins neuf personnes sont mortes et une trentaine ont été blessées, dont des enfants, selon les autorités ukrainiennes citées par le Kyiv Independent et NPR. Il s'agit de la deuxième attaque majeure sur l'Ukraine en 48 heures.",
+      "en": "On the night of August 1, Russia struck the Ukrainian capital with ballistic missiles and drones, hitting five districts of the city. At least nine people died and about thirty were wounded, including children, according to Ukrainian authorities cited by the Kyiv Independent and NPR. It was the second major attack on Ukraine in 48 hours.",
+      "es": "En la noche del 1 de agosto, Rusia atacó la capital ucraniana con misiles balísticos y drones, alcanzando cinco distritos de la ciudad. Al menos nueve personas murieron y una treintena resultaron heridas, incluidos niños, según las autoridades ucranianas citadas por Kyiv Independent y NPR. Fue el segundo gran ataque contra Ucrania en 48 horas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Des missiles balistiques russes frappent Kyiv, faisant au moins 9 morts et une trentaine de blessés.",
+          "en": "Russian ballistic missiles strike Kyiv, killing at least 9 and wounding about thirty.",
+          "es": "Misiles balísticos rusos atacan Kiev, dejando al menos 9 muertos y una treintena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-frappes-raffineries-russie",
+    "coords": [
+      55.9721,
+      54.7388
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Kyiv Independent / Militarnyi / SBU",
+    "related": [
+      "kyiv-frappe-aout"
+    ],
+    "place": {
+      "fr": "Oufa, république de Bachkirie, Russie",
+      "en": "Ufa, Republic of Bashkortostan, Russia",
+      "es": "Ufá, República de Baskortostán, Rusia"
+    },
+    "title": {
+      "fr": "Des drones ukrainiens frappent trois raffineries russes à Oufa",
+      "en": "Ukrainian drones strike three Russian refineries in Ufa",
+      "es": "Drones ucranianos atacan tres refinerías rusas en Ufá"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 1er août, les services de sécurité ukrainiens (SBU) affirment avoir frappé avec des drones à longue portée trois raffineries du complexe pétrolier d'Oufa, à près de 1600 km de la frontière ukrainienne, provoquant plusieurs incendies. Kyiv affirme que ces installations, parmi les plus grandes de Russie, fournissent du carburant à l'armée russe. Moscou reconnaît des frappes de drones mais affirme en avoir intercepté la grande majorité.",
+      "en": "On the night of August 1, Ukraine's security service (SBU) said it struck three refineries of the Ufa oil complex with long-range drones, nearly 1,600 km from the Ukrainian border, sparking several fires. Kyiv says the facilities, among Russia's largest, supply fuel to the Russian military. Moscow acknowledged drone strikes but said it intercepted the vast majority of them.",
+      "es": "En la noche del 1 de agosto, el servicio de seguridad de Ucrania (SBU) afirmó haber atacado con drones de largo alcance tres refinerías del complejo petrolero de Ufá, a casi 1600 km de la frontera ucraniana, provocando varios incendios. Kiev sostiene que estas instalaciones, entre las mayores de Rusia, abastecen de combustible al ejército ruso. Moscú reconoció los ataques con drones, pero afirmó haber interceptado la gran mayoría."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens visent les raffineries Bashneft-Oufaneftekhim, Bashneft-Novoil et Bashneft-UNPZ, provoquant des incendies, selon le SBU.",
+          "en": "Ukrainian drones target the Bashneft-Ufaneftekhim, Bashneft-Novoil and Bashneft-UNPZ refineries, sparking fires, according to the SBU.",
+          "es": "Drones ucranianos atacan las refinerías Bashneft-Ufaneftekhim, Bashneft-Novoil y Bashneft-UNPZ, provocando incendios, según el SBU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "ceuta-crise-migratoire",
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CNN / Euronews / US News",
+    "place": {
+      "fr": "Ceuta, enclave espagnole au Maroc",
+      "en": "Ceuta, Spanish enclave in Morocco",
+      "es": "Ceuta, enclave español en Marruecos"
+    },
+    "title": {
+      "fr": "Au moins 67 morts dans une vague massive de traversées vers Ceuta",
+      "en": "At least 67 dead in a massive wave of crossings into Ceuta",
+      "es": "Al menos 67 muertos en una oleada masiva de cruces hacia Ceuta"
+    },
+    "summary": {
+      "fr": "Depuis le 30 juillet, entre 50 000 et 60 000 personnes ont tenté de rejoindre à la nage ou en franchissant une digue l'enclave espagnole de Ceuta depuis le Maroc, selon les autorités espagnoles citées par CNN et Euronews. Madrid fait état d'au moins 67 morts, noyés ou tués dans un mouvement de foule. Plus de 48 000 personnes sont reparties vers le Maroc en 48 heures et l'Espagne a installé une barrière flottante de 500 mètres en mer.",
+      "en": "Since July 30, an estimated 50,000 to 60,000 people have tried to reach the Spanish enclave of Ceuta from Morocco by swimming or crossing a breakwater, according to Spanish authorities cited by CNN and Euronews. Madrid reports at least 67 deaths, from drowning or a crowd crush. More than 48,000 people returned to Morocco within 48 hours, and Spain has installed a 500-metre floating barrier at sea.",
+      "es": "Desde el 30 de julio, entre 50 000 y 60 000 personas intentaron llegar a nado o cruzando un espigón al enclave español de Ceuta desde Marruecos, según las autoridades españolas citadas por CNN y Euronews. Madrid informa de al menos 67 muertos, por ahogamiento o en una estampida. Más de 48 000 personas regresaron a Marruecos en 48 horas y España instaló una barrera flotante de 500 metros en el mar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "L'Espagne annonce un bilan de 67 morts et l'installation d'une barrière flottante après le reflux partiel de la vague de traversées.",
+          "en": "Spain announces a toll of 67 dead and the installation of a floating barrier after the wave of crossings partially recedes.",
+          "es": "España anuncia un balance de 67 muertos y la instalación de una barrera flotante tras el reflujo parcial de la oleada de cruces."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-ferry-incendie",
+    "coords": [
+      113.95,
+      -6.95
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "The Jakarta Post / Gulf News / BASARNAS",
+    "place": {
+      "fr": "Détroit de Madura, au large de Sumenep, Indonésie",
+      "en": "Madura Strait, off Sumenep, Indonesia",
+      "es": "Estrecho de Madura, frente a Sumenep, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry prend feu au large de Madura, plusieurs morts et disparus",
+      "en": "Ferry catches fire off Madura, several dead and missing",
+      "es": "Un ferry se incendia frente a Madura, varios muertos y desaparecidos"
+    },
+    "summary": {
+      "fr": "Le Mutiara Sentosa 2, qui reliait Surabaya à Makassar avec environ 271 personnes à bord, a pris feu le 2 août au large de l'île de Madura. Selon l'agence indonésienne de recherche et de sauvetage (BASARNAS) citée par le Jakarta Post, au moins 5 personnes sont mortes, 41 sont portées disparues et environ 225 ont été secourues ; les opérations se poursuivent. Des bilans antérieurs, cités par d'autres médias, faisaient état de chiffres différents, le nombre exact de passagers restant incertain.",
+      "en": "The Mutiara Sentosa 2, sailing from Surabaya to Makassar with about 271 people aboard, caught fire on August 2 off Madura Island. According to Indonesia's search and rescue agency (BASARNAS), cited by the Jakarta Post, at least 5 people died, 41 are missing and around 225 have been rescued; operations are ongoing. Earlier tolls cited by other outlets gave different figures, as the exact number of passengers remains uncertain.",
+      "es": "El Mutiara Sentosa 2, que cubría la ruta de Surabaya a Makassar con unas 271 personas a bordo, se incendió el 2 de agosto frente a la isla de Madura. Según la agencia indonesia de búsqueda y rescate (BASARNAS), citada por el Jakarta Post, al menos 5 personas murieron, 41 están desaparecidas y unas 225 fueron rescatadas; las operaciones continúan. Balances anteriores citados por otros medios daban cifras distintas, ya que el número exacto de pasajeros sigue siendo incierto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry Mutiara Sentosa 2 prend feu dans le détroit de Madura ; BASARNAS fait état de 5 morts, 41 disparus et environ 225 rescapés.",
+          "en": "The ferry Mutiara Sentosa 2 catches fire in the Madura Strait; BASARNAS reports 5 dead, 41 missing and around 225 rescued.",
+          "es": "El ferry Mutiara Sentosa 2 se incendia en el estrecho de Madura; BASARNAS informa de 5 muertos, 41 desaparecidos y unos 225 rescatados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-katsina-bandits",
+    "coords": [
+      7.65,
+      11.97
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Vanguard / ThisDay / Daily Post Nigeria",
+    "place": {
+      "fr": "Zone de gouvernement local de Bakori, État de Katsina, Nigeria",
+      "en": "Bakori Local Government Area, Katsina State, Nigeria",
+      "es": "Área de gobierno local de Bakori, estado de Katsina, Nigeria"
+    },
+    "title": {
+      "fr": "Le chef de gang Idi Abasu Aiki et une soixantaine de bandits tués au Nigeria",
+      "en": "Gang leader Idi Abasu Aiki and about 60 bandits killed in Nigeria",
+      "es": "El cabecilla Idi Abasu Aiki y unos 60 bandidos mueren en Nigeria"
+    },
+    "summary": {
+      "fr": "Selon plusieurs médias nigérians (Vanguard, ThisDay, Daily Post), les services de renseignement (DSS) et des groupes d'autodéfense villageois ont déjoué une attaque d'environ 200 bandits armés contre le village de Guga, dans la zone de Bakori (État de Katsina), le 2 août. Le chef de gang Idi Abasu Aiki et une soixantaine de ses hommes ont été tués ; quatre chasseurs des milices locales ont également péri.",
+      "en": "According to several Nigerian outlets (Vanguard, ThisDay, Daily Post), the Department of State Services (DSS) and local vigilante hunters foiled an attack by around 200 armed bandits on Guga village, in Bakori local government area (Katsina State), on August 2. Gang leader Idi Abasu Aiki and about sixty of his men were killed; four hunters from the local militia also died.",
+      "es": "Según varios medios nigerianos (Vanguard, ThisDay, Daily Post), el Servicio de Seguridad del Estado (DSS) y cazadores de milicias locales frustraron un ataque de unos 200 bandidos armados contra la aldea de Guga, en el área de Bakori (estado de Katsina), el 2 de agosto. El cabecilla Idi Abasu Aiki y unos sesenta de sus hombres murieron; cuatro cazadores de las milicias locales también fallecieron."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Une opération conjointe DSS-milices déjoue une attaque de bandits à Guga ; le chef de gang et une soixantaine d'hommes sont tués.",
+          "en": "A joint DSS-vigilante operation foils a bandit attack in Guga; the gang leader and about sixty men are killed.",
+          "es": "Una operación conjunta del DSS y milicias frustra un ataque de bandidos en Guga; el cabecilla y unos sesenta hombres mueren."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "id": "coree-canicule-record",
+    "coords": [
+      129.0403,
+      35.3384
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Korea Herald / Korea JoongAng Daily / KMA",
+    "place": {
+      "fr": "Yangsan, province du Gyeongsang du Sud, Corée du Sud",
+      "en": "Yangsan, South Gyeongsang Province, South Korea",
+      "es": "Yangsan, provincia de Gyeongsang del Sur, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud bat son record de chaleur absolu, au moins 14 morts",
+      "en": "South Korea breaks its all-time heat record, at least 14 dead",
+      "es": "Corea del Sur bate su récord absoluto de calor, al menos 14 muertos"
+    },
+    "summary": {
+      "fr": "La ville de Yangsan a enregistré 42,5°C le 2 août, la température la plus élevée jamais mesurée en Corée du Sud depuis le début des relevés il y a 122 ans, selon l'agence météorologique coréenne (KMA) citée par le Korea Herald. Le pays a comptabilisé près de 1900 cas de malaises liés à la chaleur depuis mi-mai, dont au moins 14 décès possiblement liés à la canicule, et les autorités ont relevé leur niveau d'alerte.",
+      "en": "The city of Yangsan recorded 42.5°C on August 2, the highest temperature ever measured in South Korea since records began 122 years ago, according to the Korea Meteorological Administration (KMA), cited by the Korea Herald. The country has recorded nearly 1,900 heat-related illness cases since mid-May, including at least 14 possible heat-related deaths, and authorities raised their alert level.",
+      "es": "La ciudad de Yangsan registró 42,5°C el 2 de agosto, la temperatura más alta jamás medida en Corea del Sur desde que comenzaron los registros hace 122 años, según la Administración Meteorológica de Corea (KMA), citada por el Korea Herald. El país ha contabilizado casi 1900 casos de enfermedades relacionadas con el calor desde mediados de mayo, incluidas al menos 14 posibles muertes vinculadas a la ola de calor, y las autoridades elevaron su nivel de alerta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Yangsan atteint 42,5°C, un record national ; le bilan cumulé s'élève à au moins 14 décès possiblement liés à la chaleur.",
+          "en": "Yangsan reaches 42.5°C, a national record; the cumulative toll stands at least 14 possible heat-related deaths.",
+          "es": "Yangsan alcanza 42,5°C, un récord nacional; el balance acumulado asciende a al menos 14 posibles muertes por el calor."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "australie-grippe-aviaire",
+    "coords": [
+      139.6667,
+      -36.95
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🐦",
+    "source": "SBS News",
+    "place": {
+      "fr": "Cape Jaffa, Australie-Méridionale, Australie",
+      "en": "Cape Jaffa, South Australia, Australia",
+      "es": "Cape Jaffa, Australia Meridional, Australia"
+    },
+    "title": {
+      "fr": "L'Australie confirme son premier épisode de mortalité massive lié à la grippe aviaire H5",
+      "en": "Australia confirms its first mass mortality event linked to H5 bird flu",
+      "es": "Australia confirma su primer episodio de mortalidad masiva por gripe aviar H5"
+    },
+    "summary": {
+      "fr": "Les autorités australiennes ont confirmé un premier épisode de mortalité massive dû à la souche H5 de la grippe aviaire, selon SBS News. Des équipes de surveillance ont recensé près de 84 sternes huppées mortes au large de Cape Jaffa, en Australie-Méridionale, portant à 74 le nombre de cas confirmés du virus dans le pays.",
+      "en": "Australian authorities confirmed a first mass mortality event caused by the H5 strain of bird flu, according to SBS News. Surveillance teams recorded around 84 dead greater crested terns off Cape Jaffa, South Australia, bringing the number of confirmed cases of the virus in the country to 74.",
+      "es": "Las autoridades australianas confirmaron un primer episodio de mortalidad masiva causado por la cepa H5 de la gripe aviar, según SBS News. Equipos de vigilancia registraron cerca de 84 charranes moñudos muertos frente a Cape Jaffa, Australia Meridional, elevando a 74 los casos confirmados del virus en el país."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Des équipes aériennes repèrent près de 84 sternes mortes au large de Cape Jaffa, premier épisode de mortalité massive H5 du pays.",
+          "en": "Aerial survey teams spot around 84 dead terns off Cape Jaffa, the country's first H5 mass mortality event.",
+          "es": "Equipos de vigilancia aérea detectan cerca de 84 charranes muertos frente a Cape Jaffa, primer episodio de mortalidad masiva H5 del país."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "japon-nikkei-record",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Reuters / Investing.com",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Nikkei atteint un record après la hausse des taux de la Banque du Japon",
+      "en": "The Nikkei hits a record high after the Bank of Japan's rate hike",
+      "es": "El Nikkei alcanza un récord tras la subida de tipos del Banco de Japón"
+    },
+    "summary": {
+      "fr": "L'indice Nikkei 225 a atteint un nouveau record, dépassant les 69 000 points, après que la Banque du Japon a relevé son taux directeur à 1%, son niveau le plus élevé depuis 1995. Un membre du conseil de la banque centrale, Naoki Tamura, a indiqué que le taux devrait progressivement se rapprocher d'un niveau neutre autour de 2%.",
+      "en": "The Nikkei 225 index hit a new record, surpassing 69,000 points, after the Bank of Japan raised its policy rate to 1%, its highest level since 1995. Central bank board member Naoki Tamura said the rate should gradually move toward a neutral level of around 2%.",
+      "es": "El índice Nikkei 225 alcanzó un nuevo récord, superando los 69 000 puntos, después de que el Banco de Japón elevara su tipo de interés de referencia al 1%, su nivel más alto desde 1995. El miembro del consejo del banco central, Naoki Tamura, indicó que el tipo debería acercarse gradualmente a un nivel neutral en torno al 2%."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le Nikkei 225 clôture au-dessus de 69 000 points, un record, après la décision de la Banque du Japon de maintenir son taux à 1%.",
+          "en": "The Nikkei 225 closes above 69,000 points, a record, after the Bank of Japan's decision to hold its rate at 1%.",
+          "es": "El Nikkei 225 cierra por encima de los 69 000 puntos, un récord, tras la decisión del Banco de Japón de mantener su tipo en el 1%."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "chine-politique-monetaire",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Xinhua / People's Daily",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La banque centrale chinoise maintient une politique monétaire modérément accommodante",
+      "en": "China's central bank maintains a moderately loose monetary policy",
+      "es": "El banco central chino mantiene una política monetaria moderadamente laxa"
+    },
+    "summary": {
+      "fr": "À l'issue de sa conférence de travail de mi-année, la Banque populaire de Chine (PBOC) a annoncé qu'elle maintiendrait une politique monétaire modérément accommodante pour le second semestre 2026, selon Xinhua. L'institution promet de renforcer les ajustements contracycliques et d'assurer une liquidité suffisante pour soutenir l'économie réelle.",
+      "en": "Following its mid-year work conference, the People's Bank of China (PBOC) announced it would maintain a moderately loose monetary policy for the second half of 2026, according to Xinhua. The institution pledged to intensify counter-cyclical adjustments and ensure sufficient liquidity to support the real economy.",
+      "es": "Tras su conferencia de trabajo de mitad de año, el Banco Popular de China (PBOC) anunció que mantendrá una política monetaria moderadamente laxa durante el segundo semestre de 2026, según Xinhua. La institución se comprometió a intensificar los ajustes contracíclicos y garantizar liquidez suficiente para apoyar la economía real."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "La PBOC annonce le maintien d'une politique monétaire modérément accommodante pour le second semestre 2026.",
+          "en": "The PBOC announces it will maintain a moderately loose monetary policy for the second half of 2026.",
+          "es": "El PBOC anuncia que mantendrá una política monetaria moderadamente laxa para el segundo semestre de 2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-croissance",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "L'économie allemande accélère plus que prévu au deuxième trimestre",
+      "en": "Germany's economy grows faster than expected in the second quarter",
+      "es": "La economía alemana crece más de lo previsto en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "La production allemande a progressé plus que prévu au deuxième trimestre 2026, après un premier trimestre déjà meilleur qu'anticipé, selon Bloomberg. Les indicateurs d'activité et de confiance des entreprises se sont également améliorés, alimentant l'espoir d'une reprise économique après plusieurs années de stagnation.",
+      "en": "German output grew more than expected in the second quarter of 2026, after a first quarter that had already beaten forecasts, according to Bloomberg. Business activity and confidence indicators also improved, fueling hopes of an economic revival after several years of stagnation.",
+      "es": "La producción alemana creció más de lo previsto en el segundo trimestre de 2026, tras un primer trimestre que ya había superado las expectativas, según Bloomberg. Los indicadores de actividad y confianza empresarial también mejoraron, alimentando la esperanza de una recuperación económica tras varios años de estancamiento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte une croissance du PIB allemand supérieure aux attentes au deuxième trimestre.",
+          "en": "Bloomberg reports German GDP growth above expectations in the second quarter.",
+          "es": "Bloomberg informa de un crecimiento del PIB alemán superior a lo previsto en el segundo trimestre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "jeux-commonwealth-cloture",
+    "coords": [
+      -4.2518,
+      55.8642
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥇",
+    "source": "Olympics.com / ESPN",
+    "place": {
+      "fr": "Glasgow, Écosse, Royaume-Uni",
+      "en": "Glasgow, Scotland, United Kingdom",
+      "es": "Glasgow, Escocia, Reino Unido"
+    },
+    "title": {
+      "fr": "Les Jeux du Commonwealth 2026 s'achèvent à Glasgow",
+      "en": "The 2026 Commonwealth Games conclude in Glasgow",
+      "es": "Los Juegos de la Mancomunidad 2026 concluyen en Glasgow"
+    },
+    "summary": {
+      "fr": "Les Jeux du Commonwealth 2026, qui se sont tenus à Glasgow du 23 juillet au 2 août, se sont achevés par une cérémonie de clôture. L'Inde termine à la quatrième place du tableau des médailles avec 39 médailles (13 or, 17 argent, 9 bronze), selon Olympics.com et ESPN.",
+      "en": "The 2026 Commonwealth Games, held in Glasgow from July 23 to August 2, concluded with a closing ceremony. India finished fourth in the medal table with 39 medals (13 gold, 17 silver, 9 bronze), according to Olympics.com and ESPN.",
+      "es": "Los Juegos de la Mancomunidad 2026, celebrados en Glasgow del 23 de julio al 2 de agosto, concluyeron con una ceremonia de clausura. India terminó cuarta en el medallero con 39 medallas (13 oro, 17 plata, 9 bronce), según Olympics.com y ESPN."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Cérémonie de clôture des Jeux du Commonwealth à Glasgow ; l'Inde termine 4e avec 39 médailles.",
+          "en": "Closing ceremony of the Commonwealth Games in Glasgow; India finishes 4th with 39 medals.",
+          "es": "Ceremonia de clausura de los Juegos de la Mancomunidad en Glasgow; India termina 4.ª con 39 medallas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "egypte-seisme",
+    "coords": [
+      32.6,
+      30.3
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "Times of Israel / BNO News / GFZ",
+    "place": {
+      "fr": "Région de Suez, Égypte",
+      "en": "Suez region, Egypt",
+      "es": "Región de Suez, Egipto"
+    },
+    "title": {
+      "fr": "Un séisme modéré près de Suez ressenti jusqu'en Israël",
+      "en": "A moderate earthquake near Suez felt as far as Israel",
+      "es": "Un terremoto moderado cerca de Suez se siente hasta en Israel"
+    },
+    "summary": {
+      "fr": "Un séisme d'une magnitude estimée entre 5,3 et 5,6 selon les instituts sismologiques a frappé le 3 août vers 3h du matin une zone à environ 41 km au nord de Suez, en Égypte, à une profondeur de 10 km. Les secousses ont été ressenties jusqu'au Caire et dans le sud et le centre d'Israël. Le Croissant-Rouge égyptien a activé son plan d'urgence, mais aucune victime ni dégât n'a été signalé à ce stade.",
+      "en": "An earthquake estimated between magnitude 5.3 and 5.6 by seismological institutes struck an area about 41 km north of Suez, Egypt, at around 3 a.m. on August 3, at a depth of 10 km. The tremors were felt as far as Cairo and in southern and central Israel. The Egyptian Red Crescent activated its emergency plan, but no casualties or damage have been reported so far.",
+      "es": "Un terremoto de magnitud estimada entre 5,3 y 5,6 según los institutos sismológicos sacudió el 3 de agosto hacia las 3 de la madrugada una zona a unos 41 km al norte de Suez, Egipto, a una profundidad de 10 km. Las sacudidas se sintieron hasta El Cairo y en el sur y centro de Israel. La Media Luna Roja egipcia activó su plan de emergencia, pero hasta el momento no se han reportado víctimas ni daños."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 5,3 à 5,6 est enregistré près de Suez ; aucune victime n'est signalée.",
+          "en": "An earthquake of magnitude 5.3 to 5.6 is recorded near Suez; no casualties are reported.",
+          "es": "Se registra un terremoto de magnitud 5,3 a 5,6 cerca de Suez; no se reportan víctimas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "bresil-interception-avion",
+    "coords": [
+      -54.7592,
+      -18.5013
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Rio Times / CNN Brasil",
+    "place": {
+      "fr": "Mato Grosso do Sul, Brésil (environ 200 km au nord de Campo Grande)",
+      "en": "Mato Grosso do Sul, Brazil (about 200 km north of Campo Grande)",
+      "es": "Mato Grosso do Sul, Brasil (a unos 200 km al norte de Campo Grande)"
+    },
+    "title": {
+      "fr": "L'armée de l'air brésilienne force l'atterrissage d'un avion suspect venu de Bolivie",
+      "en": "Brazil's air force forces a suspicious plane from Bolivia to land",
+      "es": "La fuerza aérea brasileña obliga a aterrizar a un avión sospechoso procedente de Bolivia"
+    },
+    "summary": {
+      "fr": "Deux chasseurs A-29 Super Tucano de la force aérienne brésilienne (FAB) ont intercepté le 31 juillet un petit avion entré dans l'espace aérien du Mato Grosso do Sul depuis la Bolivie sans plan de vol ni contact avec le contrôle aérien, selon le Rio Times et CNN Brasil. Après des tirs de sommation, l'appareil a effectué un atterrissage forcé sur une piste improvisée ; il a été retrouvé abandonné, sans occupants ni cargaison illicite.",
+      "en": "Two A-29 Super Tucano fighters from the Brazilian Air Force (FAB) intercepted a small plane on July 31 that had entered Mato Grosso do Sul airspace from Bolivia without a flight plan or contact with air traffic control, according to the Rio Times and CNN Brasil. After warning shots, the aircraft made a forced landing on an improvised airstrip; it was found abandoned, with no occupants or illicit cargo.",
+      "es": "Dos cazas A-29 Super Tucano de la Fuerza Aérea Brasileña (FAB) interceptaron el 31 de julio una pequeña aeronave que había entrado en el espacio aéreo de Mato Grosso do Sul desde Bolivia sin plan de vuelo ni contacto con el control aéreo, según Rio Times y CNN Brasil. Tras disparos de advertencia, la aeronave realizó un aterrizaje forzoso en una pista improvisada; fue hallada abandonada, sin ocupantes ni carga ilícita."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "La FAB force l'atterrissage d'un avion suspect venu de Bolivie ; l'appareil est retrouvé abandonné, sans occupants.",
+          "en": "The FAB forces a suspicious plane from Bolivia to land; the aircraft is found abandoned, with no occupants.",
+          "es": "La FAB obliga a aterrizar a un avión sospechoso procedente de Bolivia; la aeronave es hallada abandonada, sin ocupantes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "usa-fema-immigration-ruling",
+    "coords": [
+      -71.4128,
+      41.824
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "ABC News / PBS NewsHour",
+    "place": {
+      "fr": "Providence, Rhode Island, États-Unis",
+      "en": "Providence, Rhode Island, United States",
+      "es": "Providence, Rhode Island, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un juge fédéral invalide la condition migratoire imposée aux aides fédérales aux sinistrés",
+      "en": "A federal judge strikes down immigration condition on federal disaster aid",
+      "es": "Un juez federal anula la condición migratoria impuesta a las ayudas federales por desastres"
+    },
+    "summary": {
+      "fr": "Un juge fédéral du Rhode Island a annulé une directive de l'administration Trump qui conditionnait l'octroi d'aides fédérales aux sinistrés à la coopération des États avec les autorités de l'immigration, selon ABC News et PBS. La plainte avait été déposée par une vingtaine d'États et le district de Columbia. Cette décision s'inscrit dans une série de contentieux similaires portant sur des financements fédéraux liés aux catastrophes.",
+      "en": "A federal judge in Rhode Island struck down a Trump administration directive that made federal disaster aid conditional on states cooperating with immigration authorities, according to ABC News and PBS. The lawsuit had been filed by about twenty states and the District of Columbia. The ruling is part of a series of similar disputes over federal disaster-related funding.",
+      "es": "Un juez federal de Rhode Island anuló una directiva de la administración Trump que condicionaba la entrega de ayudas federales para desastres a la cooperación de los estados con las autoridades de inmigración, según ABC News y PBS. La demanda había sido presentada por una veintena de estados y el Distrito de Columbia. El fallo se suma a una serie de litigios similares sobre financiamiento federal relacionado con catástrofes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Un juge fédéral invalide la directive liant l'aide fédérale aux sinistrés à la coopération sur l'immigration.",
+          "en": "A federal judge strikes down the directive tying federal disaster aid to immigration cooperation.",
+          "es": "Un juez federal anula la directiva que vincula la ayuda federal para desastres a la cooperación migratoria."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
     "priority": 1
   }
 ]
