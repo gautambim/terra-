@@ -829,5 +829,931 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "usa-cyberattaque-eau-minnesota",
+    "coords": [
+      -93.1697,
+      45.7266
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🖥️",
+    "source": "FBI / EPA (avis conjoint de cybersécurité)",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Braham, Minnesota, États-Unis (avis conjoint concernant plus de 30 installations dans 7 États)",
+      "en": "Braham, Minnesota, United States (joint advisory covering 30+ facilities across 7 states)",
+      "es": "Braham, Minnesota, Estados Unidos (aviso conjunto sobre más de 30 instalaciones en 7 estados)"
+    },
+    "title": {
+      "fr": "Une cyberattaque présumée liée à l'Iran perturbe des réseaux d'eau américains",
+      "en": "Suspected Iran-linked cyberattack disrupts US water utilities",
+      "es": "Un ciberataque presuntamente vinculado a Irán perturba redes de agua estadounidenses"
+    },
+    "summary": {
+      "fr": "Le FBI et l'Agence de protection de l'environnement (EPA) ont publié un avis conjoint le 1er août signalant que des acteurs malveillants ont accédé à distance à des automates programmables connectés à Internet dans plus de 30 installations d'eau du Minnesota entre le 26 et le 27 juillet, dont celle de Braham, provoquant des coupures de surveillance et de contrôle à distance. Les autorités américaines soupçonnent des pirates liés à l'Iran, une attribution qui pourrait évoluer ; rien n'indique que l'eau potable ait été contaminée.",
+      "en": "The FBI and the Environmental Protection Agency (EPA) issued a joint advisory on August 1 stating that malicious actors remotely accessed internet-facing programmable logic controllers at more than 30 Minnesota water facilities, including one in Braham, between July 26 and 27, disrupting remote monitoring and control. US authorities suspect Iran-linked hackers, though the attribution could change; there is no indication drinking water was contaminated.",
+      "es": "El FBI y la Agencia de Protección Ambiental (EPA) emitieron un aviso conjunto el 1 de agosto indicando que actores maliciosos accedieron de forma remota a controladores lógicos programables conectados a internet en más de 30 instalaciones de agua de Minnesota, incluida la de Braham, entre el 26 y el 27 de julio, provocando cortes en la supervisión y el control remotos. Las autoridades estadounidenses sospechan de piratas informáticos vinculados a Irán, una atribución que podría cambiar; no hay indicios de que el agua potable haya sido contaminada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le FBI et l'EPA publient un avis conjoint confirmant la cyberattaque sur les réseaux d'eau du Minnesota.",
+          "en": "The FBI and EPA publish a joint advisory confirming the cyberattack on Minnesota's water systems.",
+          "es": "El FBI y la EPA publican un aviso conjunto que confirma el ciberataque a las redes de agua de Minnesota."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "usa-tarifs-canada",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Maison-Blanche (fact sheet officiel)",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Washington impose des surtaxes de 50 % sur les produits laitiers, l'alcool et les voitures canadiens",
+      "en": "Washington imposes 50% tariffs on Canadian dairy, alcohol and cars",
+      "es": "Washington impone aranceles del 50 % a los lácteos, el alcohol y los automóviles canadienses"
+    },
+    "summary": {
+      "fr": "Le président Donald Trump a signé le 20 juillet trois décrets, en vertu de la section 338 du Tariff Act de 1930, imposant une surtaxe additionnelle de 50 % sur les produits laitiers, les boissons alcoolisées, les véhicules et d'autres produits canadiens, pour un montant estimé entre 16 et 20 milliards de dollars d'importations. La Maison-Blanche invoque des pratiques jugées discriminatoires du Canada envers les exportations américaines. La mesure entre en vigueur le 19 août à 0h01, heure de l'Est.",
+      "en": "President Donald Trump signed three proclamations on July 20 under Section 338 of the Tariff Act of 1930, imposing an additional 50% tariff on Canadian dairy products, alcoholic beverages, vehicles and other goods, covering an estimated $16-20 billion in imports. The White House cites what it calls discriminatory Canadian practices toward US exports. The measure takes effect at 12:01 a.m. ET on August 19.",
+      "es": "El presidente Donald Trump firmó el 20 de julio tres proclamas, en virtud de la Sección 338 de la Ley Arancelaria de 1930, que imponen un arancel adicional del 50 % sobre productos lácteos, bebidas alcohólicas, vehículos y otros productos canadienses, por un valor estimado de entre 16 000 y 20 000 millones de dólares en importaciones. La Casa Blanca alega prácticas que considera discriminatorias por parte de Canadá hacia las exportaciones estadounidenses. La medida entra en vigor a las 00:01 hora del Este del 19 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Donald Trump signe les décrets imposant des surtaxes de 50 % sur plusieurs catégories de produits canadiens, selon la Maison-Blanche.",
+          "en": "Donald Trump signs the proclamations imposing 50% tariffs on several categories of Canadian goods, according to the White House.",
+          "es": "Donald Trump firma las proclamas que imponen aranceles del 50 % a varias categorías de productos canadienses, según la Casa Blanca."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "usa-mlb-echange-skubal",
+    "coords": [
+      -118.24,
+      34.0739
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚾",
+    "source": "MLB.com",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Los Angeles, Californie, États-Unis",
+      "en": "Los Angeles, California, United States",
+      "es": "Los Ángeles, California, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les Dodgers acquièrent le lanceur vedette Tarik Skubal avant la date limite des échanges en MLB",
+      "en": "Dodgers acquire star pitcher Tarik Skubal ahead of MLB trade deadline",
+      "es": "Los Dodgers adquieren al lanzador estrella Tarik Skubal antes de la fecha límite de canjes de la MLB"
+    },
+    "summary": {
+      "fr": "Les Dodgers de Los Angeles ont acquis Tarik Skubal, double lauréat du Cy Young de la Ligue américaine, en provenance des Tigers de Détroit, en échange de l'ailier Zyhir Hope et des lanceurs droitiers River Ryan et Brady Smith, selon MLB.com. Il s'agit de l'une des transactions majeures de la date limite des échanges 2026, qui a vu près de 50 transactions être conclues à travers la ligue le 3 août.",
+      "en": "The Los Angeles Dodgers acquired two-time AL Cy Young Award winner Tarik Skubal from the Detroit Tigers, sending outfielder Zyhir Hope and right-handers River Ryan and Brady Smith to Detroit, according to MLB.com. It is one of the biggest deals of the 2026 trade deadline period, which saw nearly 50 trades completed league-wide by August 3.",
+      "es": "Los Dodgers de Los Ángeles adquirieron a Tarik Skubal, dos veces ganador del premio Cy Young de la Liga Americana, procedente de los Tigers de Detroit, a cambio del jardinero Zyhir Hope y los lanzadores derechos River Ryan y Brady Smith, según MLB.com. Se trata de uno de los mayores canjes del periodo de la fecha límite de 2026, que registró casi 50 transacciones en toda la liga hasta el 3 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "MLB.com confirme l'échange de Tarik Skubal vers les Dodgers avant la date limite des échanges.",
+          "en": "MLB.com confirms the trade sending Tarik Skubal to the Dodgers ahead of the trade deadline.",
+          "es": "MLB.com confirma el canje de Tarik Skubal a los Dodgers antes de la fecha límite de transacciones."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "canada-feu-bradley-creek",
+    "coords": [
+      -119.35,
+      50.35
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CBC News",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Extrémité nord-ouest du lac Okanagan, près de Vernon, Colombie-Britannique, Canada",
+      "en": "Northwest end of Okanagan Lake, near Vernon, British Columbia, Canada",
+      "es": "Extremo noroeste del lago Okanagan, cerca de Vernon, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "L'incendie de Bradley Creek force l'évacuation de milliers de personnes en Colombie-Britannique",
+      "en": "Bradley Creek wildfire forces evacuation of thousands in British Columbia",
+      "es": "El incendio de Bradley Creek obliga a evacuar a miles de personas en Columbia Británica"
+    },
+    "summary": {
+      "fr": "L'incendie de forêt hors de contrôle de Bradley Creek a plus que doublé de superficie durant le week-end pour atteindre environ 26 km², selon CBC News, entraînant des ordres d'évacuation pour la réserve principale de la Bande indienne d'Okanagan, le canton de Spallumcheen et la Première Nation Splatsin. Les évacués ont été dirigés vers des centres d'accueil à Vernon et West Kelowna. Au 3 août, l'incendie ne montrait pas de progression majeure mais des milliers de personnes restaient déplacées.",
+      "en": "The out-of-control Bradley Creek wildfire more than doubled in size over the weekend to roughly 26 square kilometers, according to CBC News, prompting evacuation orders for the Okanagan Indian Band's main reserve, the township of Spallumcheen and the Splatsin First Nation. Evacuees were directed to reception centers in Vernon and West Kelowna. As of August 3, the fire showed no major further growth but thousands remained displaced.",
+      "es": "El incendio forestal fuera de control de Bradley Creek más que duplicó su tamaño durante el fin de semana hasta alcanzar unos 26 km², según CBC News, lo que provocó órdenes de evacuación para la reserva principal de la Banda India de Okanagan, el municipio de Spallumcheen y la Primera Nación Splatsin. Los evacuados fueron enviados a centros de acogida en Vernon y West Kelowna. Hasta el 3 de agosto, el incendio no mostraba un avance importante, pero miles de personas seguían desplazadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "CBC News rapporte que des milliers de résidents restent évacués alors que l'incendie de Bradley Creek se stabilise.",
+          "en": "CBC News reports thousands of residents remain evacuated as the Bradley Creek wildfire stabilizes.",
+          "es": "CBC News informa de que miles de residentes siguen evacuados mientras el incendio de Bradley Creek se estabiliza."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-seisme-kumamoto",
+    "coords": [
+      130.66,
+      32.68
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "The Japan Times / NHK",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Préfecture de Kumamoto, Kyushu, Japon (épicentre près d'Uto ; sites les plus touchés : Kashima-machi et Yatsushiro)",
+      "en": "Kumamoto Prefecture, Kyushu, Japan (epicenter near Uto; hardest-hit sites: Kashima-machi and Yatsushiro)",
+      "es": "Prefectura de Kumamoto, Kyushu, Japón (epicentro cerca de Uto; lugares más afectados: Kashima-machi y Yatsushiro)"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,1 fait au moins 38 morts dans la préfecture de Kumamoto",
+      "en": "Magnitude 7.1 earthquake kills at least 38 in Kumamoto Prefecture",
+      "es": "Un terremoto de magnitud 7,1 deja al menos 38 muertos en la prefectura de Kumamoto"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,1 (Mww 6,8 selon l'USGS) a frappé la préfecture de Kumamoto le 28 juillet à 16h27, heure locale, provoquant l'effondrement partiel du centre commercial Aeon Mall de Kashima-machi après une explosion liée à une fuite de gaz, ainsi que l'effondrement d'une cheminée à l'usine Nippon Paper Industries de Yatsushiro, piégeant 11 ouvriers. Le bilan, encore susceptible d'évoluer, atteignait 38 morts au 3 août selon plusieurs médias japonais et internationaux, dont 9 des 11 ouvriers piégés.",
+      "en": "A magnitude 7.1 earthquake (Mww 6.8 per USGS) struck Kumamoto Prefecture on July 28 at 4:27 p.m. local time, triggering a gas-leak explosion that partially collapsed the Aeon Mall in Kashima-machi and a chimney collapse that trapped 11 workers at the Nippon Paper Industries mill in Yatsushiro. The death toll, still subject to revision, reached 38 by August 3 according to multiple Japanese and international outlets, including 9 of the 11 trapped mill workers.",
+      "es": "Un terremoto de magnitud 7,1 (Mww 6,8 según el USGS) sacudió la prefectura de Kumamoto el 28 de julio a las 16:27 hora local, provocando el derrumbe parcial del centro comercial Aeon Mall de Kashima-machi tras una explosión por fuga de gas, así como el colapso de una chimenea en la fábrica de Nippon Paper Industries en Yatsushiro, que atrapó a 11 trabajadores. El balance, aún susceptible de cambiar, alcanzaba los 38 muertos el 3 de agosto según varios medios japoneses e internacionales, incluidos 9 de los 11 trabajadores atrapados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 frappe la préfecture de Kumamoto, provoquant l'effondrement partiel d'un centre commercial et d'une usine.",
+          "en": "A magnitude 7.1 earthquake strikes Kumamoto Prefecture, causing the partial collapse of a shopping mall and a factory.",
+          "es": "Un terremoto de magnitud 7,1 sacude la prefectura de Kumamoto, provocando el derrumbe parcial de un centro comercial y una fábrica."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 38 morts, selon plusieurs médias japonais citant les autorités locales.",
+          "en": "The official death toll reaches 38, according to multiple Japanese outlets citing local authorities.",
+          "es": "El balance oficial alcanza los 38 muertos, según varios medios japoneses que citan a las autoridades locales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-dolphin",
+    "coords": [
+      127.6809,
+      26.2124
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Weathernews / News On Japan",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Okinawa et îles Amami, sud-ouest du Japon",
+      "en": "Okinawa and the Amami Islands, southwestern Japan",
+      "es": "Okinawa e islas Amami, suroeste de Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin se dirige vers Okinawa avec des vents violents attendus",
+      "en": "Typhoon Dolphin heads toward Okinawa with violent winds expected",
+      "es": "El tifón Dolphin se dirige hacia Okinawa con vientos violentos previstos"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin, très puissant avec une pression centrale de 945 hPa et des vents soutenus de 85 nœuds (rafales à 120 nœuds), se dirigeait le 3-4 août vers l'ouest-nord-ouest près des îles Ogasawara, selon Weathernews. Les prévisionnistes s'attendent à ce qu'il approche l'île principale d'Okinawa et les îles Amami vers le 7 août, avec des vents soutenus proches de 40 m/s, des rafales à 60 m/s, de fortes pluies et des vagues importantes.",
+      "en": "Very strong Typhoon Dolphin, with a central pressure of 945 hPa and sustained winds of 85 knots (gusts to 120 knots), was tracking west-northwest near the Ogasawara Islands on August 3-4, according to Weathernews. Forecasters expect it to approach Okinawa's main island and the Amami Islands around August 7, with sustained winds near 40 m/s, gusts up to 60 m/s, heavy rain and high waves.",
+      "es": "El muy potente tifón Dolphin, con una presión central de 945 hPa y vientos sostenidos de 85 nudos (ráfagas de hasta 120 nudos), avanzaba el 3-4 de agosto hacia el oeste-noroeste cerca de las islas Ogasawara, según Weathernews. Los meteorólogos esperan que se acerque a la isla principal de Okinawa y a las islas Amami hacia el 7 de agosto, con vientos sostenidos cercanos a 40 m/s, ráfagas de hasta 60 m/s, fuertes lluvias y oleaje elevado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Weathernews suit la trajectoire du typhon Dolphin, dont l'approche d'Okinawa est prévue vers le 7 août.",
+          "en": "Weathernews tracks Typhoon Dolphin's path, with its approach to Okinawa forecast around August 7.",
+          "es": "Weathernews sigue la trayectoria del tifón Dolphin, cuya aproximación a Okinawa se prevé hacia el 7 de agosto."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-inondations-jammu-cachemire",
+    "coords": [
+      74.0913,
+      33.7735
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / Down To Earth",
+    "week": "2026-W32",
+    "place": {
+      "fr": "District de Poonch (village de Loran Dumilan), Jammu-et-Cachemire, Inde",
+      "en": "Poonch district (Loran Dumilan village), Jammu and Kashmir, India",
+      "es": "Distrito de Poonch (aldea de Loran Dumilan), Jammu y Cachemira, India"
+    },
+    "title": {
+      "fr": "Des inondations et glissements de terrain font au moins 25 morts dans le nord de l'Inde",
+      "en": "Floods and landslides kill at least 25 in northern India",
+      "es": "Inundaciones y deslizamientos de tierra dejan al menos 25 muertos en el norte de la India"
+    },
+    "summary": {
+      "fr": "Des pluies de mousson torrentielles ont provoqué des inondations et des glissements de terrain dans les districts frontaliers du Jammu-et-Cachemire les 19 et 20 juillet. Un glissement de terrain a enseveli une maison à Loran Dumilan, dans le district de Poonch, tuant sept membres d'une même famille, dont deux enfants. Le bilan pour le Jammu-et-Cachemire s'élevait à 27 morts selon Down To Earth, tandis qu'Al Jazeera évoquait au moins 25 morts en incluant des glissements de terrain survenus dans le Nagaland lors du même épisode pluvieux ; le pèlerinage de l'Amarnath Yatra a été suspendu.",
+      "en": "Torrential monsoon rain triggered floods and landslides across Jammu and Kashmir's border districts on July 19-20. A landslide buried a house in Loran Dumilan village, Poonch district, killing seven members of one family, including two children. The Jammu and Kashmir toll reached 27 according to Down To Earth, while Al Jazeera cited at least 25 dead when including landslides in Nagaland during the same rain system; the Amarnath Yatra pilgrimage was suspended.",
+      "es": "Las lluvias monzónicas torrenciales provocaron inundaciones y deslizamientos de tierra en los distritos fronterizos de Jammu y Cachemira los días 19 y 20 de julio. Un deslizamiento de tierra sepultó una vivienda en la aldea de Loran Dumilan, distrito de Poonch, matando a siete miembros de una misma familia, incluidos dos niños. El balance en Jammu y Cachemira ascendió a 27 muertos según Down To Earth, mientras que Al Jazeera citó al menos 25 muertos al incluir deslizamientos en Nagaland durante el mismo episodio de lluvias; se suspendió la peregrinación de Amarnath Yatra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/07/2026",
+          "en": "20/07/2026",
+          "es": "20/07/2026"
+        },
+        "d": {
+          "fr": "Un glissement de terrain fait sept morts au sein d'une même famille à Loran Dumilan, dans le district de Poonch.",
+          "en": "A landslide kills seven members of one family in Loran Dumilan, Poonch district.",
+          "es": "Un deslizamiento de tierra mata a siete miembros de una misma familia en Loran Dumilan, distrito de Poonch."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "chine-crue-gansu",
+    "coords": [
+      104.9333,
+      35.1167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Xinhua",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Site touristique de Shuangshimen, comté de Weiyuan, ville de Dingxi, province du Gansu, Chine",
+      "en": "Shuangshimen Scenic Area, Weiyuan County, Dingxi City, Gansu Province, China",
+      "es": "Área turística de Shuangshimen, condado de Weiyuan, ciudad de Dingxi, provincia de Gansu, China"
+    },
+    "title": {
+      "fr": "Le bilan d'une crue soudaine dans un site touristique du Gansu grimpe à 25 morts",
+      "en": "Death toll from flash flood at Gansu tourist site rises to 25",
+      "es": "El balance de una riada repentina en un sitio turístico de Gansu sube a 25 muertos"
+    },
+    "summary": {
+      "fr": "Une crue soudaine a frappé le 26 juillet le site touristique de Shuangshimen, une zone de montagne prisée des campeurs, dans le comté de Weiyuan (province du Gansu). L'agence de presse officielle Xinhua avait d'abord fait état de 10 morts et 23 blessés ; le bilan a depuis été révisé à la hausse pour atteindre 25 morts au début du mois d'août. Cent soixante-quatorze personnes ont été secourues et la Commission nationale de prévention des catastrophes a ordonné une enquête sur la gestion de l'événement.",
+      "en": "A flash flood struck the Shuangshimen Scenic Area, a mountain spot popular with day campers, in Weiyuan County (Gansu Province) on July 26. State news agency Xinhua initially reported 10 dead and 23 injured; the toll has since been revised upward to 25 dead by early August. A total of 174 people were rescued, and China's national disaster-prevention commission ordered an investigation into the response.",
+      "es": "Una riada repentina golpeó el 26 de julio el área turística de Shuangshimen, una zona de montaña popular entre los campistas, en el condado de Weiyuan (provincia de Gansu). La agencia de noticias estatal Xinhua informó inicialmente de 10 muertos y 23 heridos; el balance se ha revisado posteriormente al alza hasta 25 muertos a principios de agosto. Un total de 174 personas fueron rescatadas, y la Comisión Nacional de Prevención de Desastres ordenó una investigación sobre la gestión del suceso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Xinhua fait état de 10 morts et 23 blessés après une crue soudaine à Shuangshimen.",
+          "en": "Xinhua reports 10 dead and 23 injured after a flash flood at Shuangshimen.",
+          "es": "Xinhua informa de 10 muertos y 23 heridos tras una riada repentina en Shuangshimen."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel est révisé à 25 morts, selon les médias d'État chinois.",
+          "en": "The official toll is revised to 25 dead, according to Chinese state media.",
+          "es": "El balance oficial se revisa a 25 muertos, según los medios estatales chinos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coree-sud-exportations-record",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Yonhap / Ministère du Commerce, de l'Industrie et de l'Énergie",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud enregistre son deuxième meilleur mois d'exportations, portée par les semi-conducteurs",
+      "en": "South Korea posts second-best export month on record, driven by semiconductors",
+      "es": "Corea del Sur registra su segundo mejor mes de exportaciones, impulsado por los semiconductores"
+    },
+    "summary": {
+      "fr": "Les exportations sud-coréennes ont atteint 98,89 milliards de dollars en juillet 2026, leur deuxième meilleur total mensuel jamais enregistré, en hausse de 63 % sur un an, portées par une envolée de 179 % des exportations de semi-conducteurs à 41 milliards de dollars, sur fond de forte demande de puces pour centres de données d'intelligence artificielle, selon le ministère du Commerce, de l'Industrie et de l'Énergie. L'excédent commercial a atteint 30,32 milliards de dollars, un deuxième mois consécutif au-dessus de 30 milliards.",
+      "en": "South Korea's exports hit $98.89 billion in July 2026, the second-highest monthly total on record, up 63% year-on-year, driven by a 179% surge in semiconductor exports to $41 billion amid strong demand for AI data-center chips, according to the Ministry of Trade, Industry and Energy. The trade surplus reached $30.32 billion, a second straight month above $30 billion.",
+      "es": "Las exportaciones surcoreanas alcanzaron los 98 890 millones de dólares en julio de 2026, su segundo mejor total mensual registrado, un 63 % más interanual, impulsadas por un aumento del 179 % en las exportaciones de semiconductores hasta los 41 000 millones de dólares, en medio de una fuerte demanda de chips para centros de datos de inteligencia artificial, según el Ministerio de Comercio, Industria y Energía. El superávit comercial alcanzó los 30 320 millones de dólares, el segundo mes consecutivo por encima de los 30 000 millones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère du Commerce publie les données de juillet confirmant un excédent commercial de 30,32 milliards de dollars.",
+          "en": "The Ministry of Trade releases July data confirming a $30.32 billion trade surplus.",
+          "es": "El Ministerio de Comercio publica los datos de julio que confirman un superávit comercial de 30 320 millones de dólares."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "russie-attentat-moscou",
+    "coords": [
+      37.5772,
+      55.7605
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Comité national antiterroriste russe / Al Jazeera",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Place Kudrinskaïa, centre de Moscou, Russie",
+      "en": "Kudrinskaya Square, central Moscow, Russia",
+      "es": "Plaza Kudrinskaya, centro de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Un attentat à l'explosif près d'un restaurant fait trois morts à Moscou",
+      "en": "Bombing near a Moscow restaurant kills three",
+      "es": "Un atentado con explosivos cerca de un restaurante deja tres muertos en Moscú"
+    },
+    "summary": {
+      "fr": "Un engin explosif artisanal dissimulé dans un paquet cadeau a explosé le 1er août vers 20h10 devant le restaurant Balzi Rossi, place Kudrinskaïa, à Moscou, alors qu'une femme le transportant avait été interceptée par un agent de sécurité. Le Comité national antiterroriste russe a confirmé trois morts — la personne ayant transporté l'engin, l'agent de sécurité et un client du restaurant — et au moins 21 blessés. Des médias russes ont évoqué, sans confirmation officielle, l'hypothèse que la cible aurait pu être un haut gradé militaire russe présent sur place.",
+      "en": "A homemade explosive device hidden in a gift box detonated on August 1 at around 8:10 p.m. outside the Balzi Rossi restaurant on Kudrinskaya Square in Moscow, after a woman carrying it was stopped by a security guard. Russia's National Anti-Terrorism Committee confirmed three dead — the person carrying the device, the security guard, and a restaurant patron — and at least 21 injured. Russian media have speculated, without official confirmation, that the target may have been a senior Russian military officer present at the venue.",
+      "es": "Un artefacto explosivo casero oculto en una caja de regalo detonó el 1 de agosto hacia las 20:10 frente al restaurante Balzi Rossi, en la plaza Kudrinskaya de Moscú, después de que un guardia de seguridad interceptara a la mujer que lo transportaba. El Comité Nacional Antiterrorista ruso confirmó tres muertos —la persona que transportaba el artefacto, el guardia de seguridad y un cliente del restaurante— y al menos 21 heridos. Medios rusos han especulado, sin confirmación oficial, con que el objetivo pudiera haber sido un alto mando militar ruso presente en el lugar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026, 20h10",
+          "en": "01/08/2026, 8:10 PM",
+          "es": "01/08/2026, 20:10"
+        },
+        "d": {
+          "fr": "Le Comité national antiterroriste confirme trois morts et au moins 21 blessés dans l'explosion près du restaurant Balzi Rossi.",
+          "en": "Russia's National Anti-Terrorism Committee confirms three dead and at least 21 injured in the explosion near the Balzi Rossi restaurant.",
+          "es": "El Comité Nacional Antiterrorista confirma tres muertos y al menos 21 heridos en la explosión cerca del restaurante Balzi Rossi."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "ukraine-frappe-krivyi-rih",
+    "coords": [
+      33.65,
+      47.635
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / administration militaire régionale de Dnipropetrovsk",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Chyroké, oblast de Dnipropetrovsk, Ukraine (à environ 30 km au sud de Kryvyi Rih)",
+      "en": "Shyroke, Dnipropetrovsk Oblast, Ukraine (about 30 km south of Kryvyi Rih)",
+      "es": "Shyroke, óblast de Dnipropetrovsk, Ucrania (a unos 30 km al sur de Kryvyi Rih)"
+    },
+    "title": {
+      "fr": "Une frappe russe sur une station-service près de Kryvyi Rih tue trois personnes, dont un enfant",
+      "en": "Russian strike on a gas station near Kryvyi Rih kills three, including a child",
+      "es": "Un ataque ruso contra una gasolinera cerca de Kryvyi Rih mata a tres personas, entre ellas un niño"
+    },
+    "summary": {
+      "fr": "Un drone Shahed à propulsion à réaction a frappé le 3 août vers 12h55 une station-service en bordure de route près de Chyroké, dans l'oblast de Dnipropetrovsk, selon l'administration militaire régionale. L'attaque a tué un homme de 41 ans, une femme de 40 ans et un garçon de 8 ans — rapporté comme étant le fils d'un secouriste — et blessé au moins six autres personnes, dont une grièvement.",
+      "en": "A jet-powered Shahed drone struck a roadside gas station near Shyroke, in Dnipropetrovsk Oblast, on August 3 at around 12:55 p.m., according to the regional military administration. The strike killed a 41-year-old man, a 40-year-old woman and an 8-year-old boy — reported to be the son of a rescue worker — and injured at least six others, one seriously.",
+      "es": "Un dron Shahed de propulsión a reacción golpeó el 3 de agosto hacia las 12:55 una gasolinera junto a una carretera cerca de Shyroke, en el óblast de Dnipropetrovsk, según la administración militar regional. El ataque mató a un hombre de 41 años, una mujer de 40 y un niño de 8 años —descrito como hijo de un socorrista— e hirió al menos a otras seis personas, una de ellas de gravedad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026, 12h55",
+          "en": "03/08/2026, 12:55 PM",
+          "es": "03/08/2026, 12:55"
+        },
+        "d": {
+          "fr": "L'administration militaire de Dnipropetrovsk confirme trois morts, dont un enfant, dans la frappe sur la station-service.",
+          "en": "The Dnipropetrovsk military administration confirms three dead, including a child, in the strike on the gas station.",
+          "es": "La administración militar de Dnipropetrovsk confirma tres muertos, entre ellos un niño, en el ataque contra la gasolinera."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "france-triple-meurtre-normandie",
+    "coords": [
+      -1.4483,
+      49.0464
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 3 Régions Normandie / parquet de Coutances",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Coutances, Manche, Normandie, France (faits survenus près de Pretoria, Afrique du Sud)",
+      "en": "Coutances, Manche, Normandy, France (underlying killings occurred near Pretoria, South Africa)",
+      "es": "Coutances, Mancha, Normandía, Francia (los hechos ocurrieron cerca de Pretoria, Sudáfrica)"
+    },
+    "title": {
+      "fr": "La mère du principal suspect du triple meurtre d'une famille normande mise en détention",
+      "en": "Mother of chief suspect in triple murder of a Normandy family placed in detention",
+      "es": "La madre del principal sospechoso del triple asesinato de una familia normanda, en prisión preventiva"
+    },
+    "summary": {
+      "fr": "Trois Français originaires de la région d'Avranches — Katia Nguyen, gérante d'un Burger King, sa mère et son compagnon Mathieu Hadjaz — ont été retrouvés morts près de Pretoria, en Afrique du Sud, le 11 juillet, tués par de multiples coups portés avec une arme contondante. L'ex-mari de Katia Nguyen, principal suspect, et sa mère ont été arrêtés au Luxembourg ; la mère a été extradée vers la France et placée en détention provisoire par le parquet de Coutances le 31 juillet. Une fillette de 7 ans, enlevée selon les enquêteurs à l'aéroport de Johannesburg, a été retrouvée au Luxembourg et rapatriée en France le 22 juillet.",
+      "en": "Three French nationals from the Avranches area — Katia Nguyen, a Burger King manager, her mother, and her partner Mathieu Hadjaz — were found dead near Pretoria, South Africa, on July 11, killed by multiple blows with a blunt weapon. Katia Nguyen's ex-husband, the chief suspect, and his mother were arrested in Luxembourg; the mother was extradited to France and placed in pre-trial detention by the Coutances prosecutor's office on July 31. A 7-year-old girl, reportedly abducted at Johannesburg airport, was found in Luxembourg and repatriated to France on July 22.",
+      "es": "Tres ciudadanos franceses de la región de Avranches —Katia Nguyen, gerente de un Burger King, su madre y su pareja, Mathieu Hadjaz— fueron hallados muertos cerca de Pretoria, Sudáfrica, el 11 de julio, tras recibir múltiples golpes con un arma contundente. El exmarido de Katia Nguyen, principal sospechoso, y su madre fueron arrestados en Luxemburgo; la madre fue extraditada a Francia y quedó en prisión preventiva por orden de la fiscalía de Coutances el 31 de julio. Una niña de 7 años, presuntamente secuestrada en el aeropuerto de Johannesburgo, fue hallada en Luxemburgo y repatriada a Francia el 22 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "La mère du principal suspect est extradée du Luxembourg et placée en détention provisoire par le parquet de Coutances.",
+          "en": "The chief suspect's mother is extradited from Luxembourg and placed in pre-trial detention by the Coutances prosecutor's office.",
+          "es": "La madre del principal sospechoso es extraditada desde Luxemburgo y queda en prisión preventiva por orden de la fiscalía de Coutances."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "allemagne-pib-t2",
+    "coords": [
+      8.2412,
+      50.0782
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Destatis (Office fédéral de la statistique)",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Wiesbaden, Allemagne (siège de Destatis)",
+      "en": "Wiesbaden, Germany (Destatis headquarters)",
+      "es": "Wiesbaden, Alemania (sede de Destatis)"
+    },
+    "title": {
+      "fr": "L'économie allemande renoue avec la croissance au deuxième trimestre 2026",
+      "en": "German economy returns to growth in the second quarter of 2026",
+      "es": "La economía alemana vuelve a crecer en el segundo trimestre de 2026"
+    },
+    "summary": {
+      "fr": "Le produit intérieur brut allemand a progressé de 0,2 % au deuxième trimestre 2026 par rapport au trimestre précédent (données corrigées des variations saisonnières et de calendrier), et de 0,9 % sur un an, selon l'Office fédéral de la statistique (Destatis). Cette hausse fait suite à une croissance de 0,4 % au premier trimestre, révisée à la hausse. Les exportations ont progressé sur le trimestre tandis que l'investissement reculait et que la consommation des ménages progressait prudemment. Les résultats détaillés sont attendus le 25 août.",
+      "en": "Germany's GDP rose 0.2% quarter-on-quarter in the second quarter of 2026 (price-, seasonally- and calendar-adjusted), and was 0.9% higher year-on-year, according to the Federal Statistical Office (Destatis). This followed an upwardly revised 0.4% increase in the first quarter. Exports rose over the quarter while investment declined and household consumption grew cautiously. Full detailed results are due August 25.",
+      "es": "El producto interior bruto de Alemania creció un 0,2 % en el segundo trimestre de 2026 respecto al trimestre anterior (datos ajustados estacionalmente y por calendario), y un 0,9 % interanual, según la Oficina Federal de Estadística (Destatis). Este aumento sigue a un crecimiento del 0,4 % en el primer trimestre, revisado al alza. Las exportaciones aumentaron durante el trimestre, mientras que la inversión disminuyó y el consumo de los hogares creció con cautela. Los resultados detallados completos se esperan para el 25 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Destatis publie les premières estimations du PIB du deuxième trimestre, confirmant une croissance de 0,2 %.",
+          "en": "Destatis publishes first estimates of second-quarter GDP, confirming 0.2% growth.",
+          "es": "Destatis publica las primeras estimaciones del PIB del segundo trimestre, confirmando un crecimiento del 0,2 %."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-cloture-jeux-commonwealth",
+    "coords": [
+      -4.2518,
+      55.8642
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Olympics.com / BBC Sport",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Salle The Hydro, Glasgow, Écosse, Royaume-Uni",
+      "en": "The Hydro arena, Glasgow, Scotland, United Kingdom",
+      "es": "Pabellón The Hydro, Glasgow, Escocia, Reino Unido"
+    },
+    "title": {
+      "fr": "Les Jeux du Commonwealth 2026 s'achèvent à Glasgow",
+      "en": "2026 Commonwealth Games conclude in Glasgow",
+      "es": "Los Juegos de la Commonwealth 2026 concluyen en Glasgow"
+    },
+    "summary": {
+      "fr": "La 23e édition des Jeux du Commonwealth s'est achevée le 2 août par une cérémonie de clôture à la salle The Hydro de Glasgow, avec un passage de relais vers Ahmedabad, en Inde, hôte des Jeux de 2030. L'Australie a terminé en tête du tableau des médailles avec 171 médailles, devant l'Angleterre (110) et le Canada (62), selon les résultats officiels publiés par Olympics.com.",
+      "en": "The 23rd Commonwealth Games concluded on August 2 with a closing ceremony at Glasgow's Hydro arena, including a handover segment to Ahmedabad, India, host of the 2030 Games. Australia topped the final medal table with 171 medals, ahead of England (110) and Canada (62), according to official results published by Olympics.com.",
+      "es": "La 23.ª edición de los Juegos de la Commonwealth concluyó el 2 de agosto con una ceremonia de clausura en el pabellón The Hydro de Glasgow, que incluyó el traspaso simbólico a Ahmedabad, India, sede de los Juegos de 2030. Australia terminó en lo más alto del medallero con 171 medallas, por delante de Inglaterra (110) y Canadá (62), según los resultados oficiales publicados por Olympics.com."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Cérémonie de clôture des Jeux du Commonwealth à Glasgow ; l'Australie termine en tête du tableau des médailles.",
+          "en": "Closing ceremony of the Commonwealth Games in Glasgow; Australia finishes atop the medal table.",
+          "es": "Ceremonia de clausura de los Juegos de la Commonwealth en Glasgow; Australia termina en lo más alto del medallero."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "colombie-voiture-piegee-cucuta",
+    "coords": [
+      -72.5078,
+      7.8891
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "CNN en Español / Infobae",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Quartier Tasajero, près du marché de Cenabastos, Cúcuta, Norte de Santander, Colombie",
+      "en": "Tasajero neighborhood, near the Cenabastos market, Cúcuta, Norte de Santander, Colombia",
+      "es": "Barrio Tasajero, cerca del mercado de Cenabastos, Cúcuta, Norte de Santander, Colombia"
+    },
+    "title": {
+      "fr": "Une voiture piégée blesse au moins 11 personnes devant un commissariat de Cúcuta",
+      "en": "Car bomb injures at least 11 outside a police station in Cúcuta",
+      "es": "Un coche bomba deja al menos 11 heridos frente a un comando de policía en Cúcuta"
+    },
+    "summary": {
+      "fr": "Un véhicule chargé d'explosifs a explosé le 1er août peu après 4h00 du matin devant un poste de commandement de la police dans le quartier de Tasajero, à Cúcuta, blessant au moins 11 personnes — 8 policiers et 3 civils — et causant d'importants dégâts matériels et des incendies, selon plusieurs médias colombiens. Des engins explosifs secondaires auraient été lancés vers des passants après la déflagration principale. L'attaque survient une semaine avant l'investiture présidentielle du 7 août et dans un contexte de vague de violence que les autorités qualifient de la plus grave en Colombie depuis dix ans.",
+      "en": "A vehicle loaded with explosives detonated on August 1 shortly after 4:00 a.m. in front of a police command post in the Tasajero neighborhood of Cúcuta, injuring at least 11 people — 8 police officers and 3 civilians — and causing significant material damage and fires, according to several Colombian outlets. Secondary explosive devices were reportedly thrown at bystanders after the main blast. The attack came one week before the August 7 presidential inauguration, amid what authorities describe as the worst wave of violence in Colombia in a decade.",
+      "es": "Un vehículo cargado con explosivos detonó el 1 de agosto poco después de las 4:00 de la madrugada frente a un comando de policía en el barrio Tasajero, en Cúcuta, dejando al menos 11 heridos —8 policías y 3 civiles— y provocando importantes daños materiales e incendios, según varios medios colombianos. Se habrían lanzado artefactos explosivos secundarios contra transeúntes tras la detonación principal. El ataque se produjo una semana antes de la toma de posesión presidencial del 7 de agosto, en medio de lo que las autoridades describen como la peor ola de violencia en Colombia en una década."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026, 4h00",
+          "en": "01/08/2026, 4:00 AM",
+          "es": "01/08/2026, 4:00"
+        },
+        "d": {
+          "fr": "Une voiture piégée explose devant un commissariat de Cúcuta, blessant au moins 11 personnes.",
+          "en": "A car bomb explodes outside a Cúcuta police station, injuring at least 11 people.",
+          "es": "Un coche bomba explota frente a un comando de policía de Cúcuta, dejando al menos 11 heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "mexique-capture-chef-cartel-michoacan",
+    "coords": [
+      -102.4894,
+      19.5936
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "SEDENA / La Razón de México",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Imbarácuaro, municipalité de Los Reyes de Salgado, Michoacán, Mexique",
+      "en": "Imbarácuaro, municipality of Los Reyes de Salgado, Michoacán, Mexico",
+      "es": "Imbarácuaro, municipio de Los Reyes de Salgado, Michoacán, México"
+    },
+    "title": {
+      "fr": "L'armée mexicaine capture un chef de cartel, déclenchant des barrages et incendies de véhicules",
+      "en": "Mexican army captures cartel leader, triggering roadblocks and vehicle arsons",
+      "es": "El Ejército mexicano captura a un líder de cártel y desata bloqueos e incendios de vehículos"
+    },
+    "summary": {
+      "fr": "L'armée mexicaine (SEDENA) a capturé le 1er août à Imbarácuaro Alfonso « N », alias « Poncho » ou « La Quiringua », présenté comme le chef du Cártel de Los Reyes, ainsi que deux complices. Les autorités américaines avaient offert une récompense de 5 millions de dollars pour sa capture ; il faisait l'objet d'un mandat d'arrêt pour enlèvement et émeute. En représailles, des membres du cartel ont dressé des barrages routiers et incendié des véhicules en six points de quatre municipalités du Michoacán le jour même ; les routes ont ensuite été dégagées. L'ambassade des États-Unis a réitéré sa recommandation de niveau 4 « Ne pas voyager » pour le Michoacán.",
+      "en": "The Mexican Army (SEDENA) captured Alfonso 'N,' alias 'Poncho' or 'La Quiringua,' described as the leader of the Cártel de Los Reyes, along with two associates, in Imbarácuaro on August 1. US authorities had offered a $5 million reward for his capture; he faced an arrest warrant for kidnapping and rioting. In retaliation, cartel members set up highway blockades and burned vehicles at six points across four Michoacán municipalities the same day; the roads were later cleared. The US Embassy reiterated its Level 4 'Do Not Travel' advisory for Michoacán.",
+      "es": "El Ejército mexicano (SEDENA) capturó el 1 de agosto en Imbarácuaro a Alfonso 'N', alias 'Poncho' o 'La Quiringua', señalado como líder del Cártel de Los Reyes, junto con dos cómplices. Las autoridades estadounidenses habían ofrecido una recompensa de 5 millones de dólares por su captura; tenía una orden de aprehensión por secuestro y motín. En represalia, miembros del cártel instalaron bloqueos carreteros e incendiaron vehículos en seis puntos de cuatro municipios de Michoacán ese mismo día; las vías fueron despejadas posteriormente. La Embajada de Estados Unidos reiteró su alerta de nivel 4, 'No viajar', para Michoacán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "SEDENA annonce la capture d'Alfonso « N » à Imbarácuaro ; des barrages et incendies de véhicules éclatent en représailles dans quatre municipalités.",
+          "en": "SEDENA announces the capture of Alfonso 'N' in Imbarácuaro; roadblocks and vehicle arsons break out in retaliation across four municipalities.",
+          "es": "SEDENA anuncia la captura de Alfonso 'N' en Imbarácuaro; estallan bloqueos e incendios de vehículos en represalia en cuatro municipios."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-operation-mapinguari",
+    "coords": [
+      -64.6431,
+      -8.7519
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "⛏️",
+    "source": "Polícia Federal (gov.br)",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Parc national de Mapinguari, à la frontière des États du Rondônia et de l'Amazonas, Brésil",
+      "en": "Mapinguari National Park, on the Rondônia–Amazonas border, Brazil",
+      "es": "Parque Nacional Mapinguari, en la frontera entre los estados de Rondônia y Amazonas, Brasil"
+    },
+    "title": {
+      "fr": "La police fédérale démantèle un site d'extraction illégale d'or dans le parc national de Mapinguari",
+      "en": "Federal police dismantle illegal gold-mining site inside Mapinguari National Park",
+      "es": "La policía federal desmantela un sitio de minería ilegal de oro en el Parque Nacional Mapinguari"
+    },
+    "summary": {
+      "fr": "La police fédérale brésilienne et l'institut Chico Mendes (ICMBio) ont mené, du 28 juillet au 1er août, l'opération « Caraíba IV » contre l'extraction illégale d'or et de cassitérite, l'exploitation forestière illégale et l'invasion de terres à l'intérieur du parc national de Mapinguari. L'opération a permis de détruire deux excavatrices hydrauliques, un tracteur agricole, 15 moteurs fixes, trois générateurs, 23 campements et plus de 10 000 litres de carburant, pour une perte estimée à environ 1,44 million de reais pour les organisations criminelles concernées, selon le site officiel gov.br.",
+      "en": "Brazil's Federal Police and the Chico Mendes Institute (ICMBio) carried out 'Operation Caraíba IV' from July 28 to August 1 against illegal gold and cassiterite mining, illegal logging and land invasion inside Mapinguari National Park. The operation destroyed two hydraulic excavators, an agricultural tractor, 15 stationary engines, three generators, 23 camps and more than 10,000 liters of fuel, for an estimated loss of about R$1.44 million to the criminal organizations involved, according to the official gov.br website.",
+      "es": "La Policía Federal de Brasil y el Instituto Chico Mendes (ICMBio) llevaron a cabo, del 28 de julio al 1 de agosto, la 'Operación Caraíba IV' contra la extracción ilegal de oro y casiterita, la tala ilegal y la invasión de tierras dentro del Parque Nacional Mapinguari. La operación destruyó dos excavadoras hidráulicas, un tractor agrícola, 15 motores fijos, tres generadores, 23 campamentos y más de 10 000 litros de combustible, con una pérdida estimada de unos 1,44 millones de reales para las organizaciones criminales implicadas, según el sitio oficial gov.br."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "La Police fédérale annonce le bilan de l'opération Caraíba IV menée dans le parc national de Mapinguari.",
+          "en": "Federal Police announce the results of Operation Caraíba IV carried out in Mapinguari National Park.",
+          "es": "La Policía Federal anuncia el balance de la Operación Caraíba IV realizada en el Parque Nacional Mapinguari."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "nigeria-attaques-sokoto",
+    "coords": [
+      5.65,
+      13.28
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Premium Times Nigeria",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Villages de Lajinge (zone de Sabon Birni) et de Gandi/Maikujera (zone de Rabah), État de Sokoto, nord-ouest du Nigeria",
+      "en": "Lajinge village (Sabon Birni area) and Gandi/Maikujera villages (Rabah area), Sokoto State, northwestern Nigeria",
+      "es": "Aldea de Lajinge (zona de Sabon Birni) y aldeas de Gandi/Maikujera (zona de Rabah), estado de Sokoto, noroeste de Nigeria"
+    },
+    "title": {
+      "fr": "Au moins 16 morts dans des attaques de bandits armés contre des villages de l'État de Sokoto",
+      "en": "At least 16 dead in armed bandit attacks on villages in Sokoto State",
+      "es": "Al menos 16 muertos en ataques de bandidos armados contra aldeas del estado de Sokoto"
+    },
+    "summary": {
+      "fr": "Des bandits armés ont attaqué au moins trois localités de l'État de Sokoto entre le soir du vendredi 31 juillet et le dimanche 2 août, tuant au moins 16 personnes — 12 à Lajinge et quatre à Gandi/Maikujera —, en blessant au moins trois autres et en enlevant un nombre non précisé d'habitants, selon Premium Times Nigeria, qui précise que ces chiffres ne sont pas encore vérifiés de façon indépendante. Les assaillants ont également volé du bétail, de l'argent, du carburant et des téléphones, poussant des familles à fuir. Ces attaques s'inscrivent dans une vague de violences de bandits qui frappe l'État de Sokoto depuis plusieurs semaines.",
+      "en": "Armed bandits attacked at least three communities in Sokoto State between the evening of Friday, July 31, and Sunday, August 2, killing at least 16 people — 12 in Lajinge and four in Gandi/Maikujera — injuring at least three others, and abducting an unspecified number of residents, according to Premium Times Nigeria, which notes the figures have not yet been independently verified. Attackers also rustled livestock and stole cash, fuel and phones, forcing families to flee. The attacks are part of an ongoing wave of bandit violence that has hit Sokoto State over recent weeks.",
+      "es": "Bandidos armados atacaron al menos tres localidades del estado de Sokoto entre la noche del viernes 31 de julio y el domingo 2 de agosto, matando al menos a 16 personas —12 en Lajinge y cuatro en Gandi/Maikujera—, hiriendo al menos a otras tres y secuestrando a un número no precisado de residentes, según Premium Times Nigeria, que señala que las cifras aún no han sido verificadas de forma independiente. Los atacantes también robaron ganado, dinero, combustible y teléfonos, obligando a familias enteras a huir. Los ataques forman parte de una ola de violencia de bandidos que golpea el estado de Sokoto desde hace varias semanas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Premium Times Nigeria fait état d'au moins 16 morts après une série d'attaques de bandits dans l'État de Sokoto.",
+          "en": "Premium Times Nigeria reports at least 16 dead after a series of bandit attacks in Sokoto State.",
+          "es": "Premium Times Nigeria informa de al menos 16 muertos tras una serie de ataques de bandidos en el estado de Sokoto."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "indonesie-incendie-ferry-madura",
+    "coords": [
+      113.9,
+      -6.9
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera",
+    "week": "2026-W32",
+    "place": {
+      "fr": "Eaux au large de la régence de Sumenep, détroit de Madura, Indonésie",
+      "en": "Waters off Sumenep regency, Madura Strait, Indonesia",
+      "es": "Aguas frente a la regencia de Sumenep, estrecho de Madura, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry prend feu au large de Madura : au moins 5 morts et 41 disparus",
+      "en": "Ferry catches fire off Madura Island: at least 5 dead, 41 missing",
+      "es": "Un ferry se incendia frente a Madura: al menos 5 muertos y 41 desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry Mutiara Sentosa 2, qui transportait 232 passagers et 39 membres d'équipage (271 personnes) sur la liaison Surabaya-Makassar, a pris feu le 2 août entre 6h00 et 7h00 du matin dans les eaux de la régence de Sumenep, près de l'île de Madura. Au moins 5 personnes sont mortes, environ 225 ont été secourues et 41 restaient portées disparues selon les derniers bilans ; certains passagers ont sauté à la mer pour échapper aux flammes. Une opération de recherche et de sauvetage de plusieurs jours, mobilisant navires des garde-côtes, bateaux civils et un hélicoptère, était en cours ; la cause de l'incendie fait l'objet d'une enquête, un survivant évoquant un départ de feu depuis un camion sur le pont véhicules.",
+      "en": "The ferry Mutiara Sentosa 2, carrying 232 passengers and 39 crew (271 people total) on the Surabaya-Makassar route, caught fire on August 2 between approximately 6:00 and 7:00 a.m. in waters off Sumenep regency, near Madura Island. At least 5 people were confirmed dead, around 225 were rescued, and 41 remained missing according to the latest reports; some passengers jumped into the sea to escape the flames. A multi-day search-and-rescue operation involving coast guard vessels, civilian ships and a helicopter was underway; the cause remains under investigation, with one survivor suggesting the fire may have started from a truck on the vehicle deck.",
+      "es": "El ferry Mutiara Sentosa 2, que transportaba a 232 pasajeros y 39 tripulantes (271 personas en total) en la ruta Surabaya-Makassar, se incendió el 2 de agosto entre las 6:00 y las 7:00 de la mañana en aguas de la regencia de Sumenep, cerca de la isla de Madura. Al menos 5 personas murieron, unas 225 fueron rescatadas y 41 seguían desaparecidas según los últimos balances; algunos pasajeros saltaron al mar para escapar de las llamas. Una operación de búsqueda y rescate de varios días, con buques de guardacostas, embarcaciones civiles y un helicóptero, estaba en marcha; la causa del incendio está bajo investigación, y un superviviente sugirió que el fuego pudo originarse en un camión de la cubierta de vehículos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry Mutiara Sentosa 2 prend feu au large de Madura ; au moins 5 morts et 41 disparus selon les autorités.",
+          "en": "The ferry Mutiara Sentosa 2 catches fire off Madura; at least 5 dead and 41 missing according to authorities.",
+          "es": "El ferry Mutiara Sentosa 2 se incendia frente a Madura; al menos 5 muertos y 41 desaparecidos según las autoridades."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "espagne-incendie-vall-uixo",
+    "coords": [
+      -0.2333,
+      39.8167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Euronews",
+    "week": "2026-W32",
+    "place": {
+      "fr": "La Vall d'Uixó, province de Castellón, Communauté valencienne, Espagne",
+      "en": "La Vall d'Uixó, Castellón province, Valencian Community, Spain",
+      "es": "La Vall d'Uixó, provincia de Castellón, Comunidad Valenciana, España"
+    },
+    "title": {
+      "fr": "Un incendie près de La Vall d'Uixó a brûlé plus de 9 500 hectares et évacué 16 000 personnes",
+      "en": "Wildfire near La Vall d'Uixó burns over 9,500 hectares, forces evacuation of 16,000",
+      "es": "Un incendio cerca de La Vall d'Uixó arrasa más de 9500 hectáreas y obliga a evacuar a 16 000 personas"
+    },
+    "summary": {
+      "fr": "Un important incendie, dont l'origine criminelle est soupçonnée, s'est déclaré vers le 25 juillet près de La Vall d'Uixó, dans la province de Castellón, brûlant 9 568 hectares et entraînant l'évacuation d'environ 16 000 habitants de plusieurs communes, selon Euronews. Après sept jours de lutte, le feu a été déclaré stabilisé début août et l'ensemble des évacués ont pu regagner leur domicile. L'Espagne a enregistré 186 544 hectares brûlés au niveau national entre le 1er janvier et le 2 août, selon le ministère espagnol de la Transition écologique.",
+      "en": "A major wildfire, suspected to have been deliberately started, broke out around July 25 near La Vall d'Uixó, in Castellón province, burning 9,568 hectares and forcing the evacuation of about 16,000 residents across several municipalities, according to Euronews. After seven days of firefighting, the blaze was declared stabilized in early August and all evacuated residents were able to return home. Spain recorded 186,544 hectares burned nationwide between January 1 and August 2, according to the Spanish Ministry for Ecological Transition.",
+      "es": "Un gran incendio, cuyo origen se sospecha intencionado, se declaró hacia el 25 de julio cerca de La Vall d'Uixó, en la provincia de Castellón, arrasando 9568 hectáreas y obligando a evacuar a unos 16 000 residentes de varios municipios, según Euronews. Tras siete días de lucha contra el fuego, el incendio se declaró estabilizado a principios de agosto y todos los evacuados pudieron regresar a sus hogares. España registró 186 544 hectáreas quemadas a nivel nacional entre el 1 de enero y el 2 de agosto, según el Ministerio español para la Transición Ecológica."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités déclarent l'incendie de La Vall d'Uixó stabilisé après sept jours et le retour de l'ensemble des évacués.",
+          "en": "Authorities declare the La Vall d'Uixó wildfire stabilized after seven days, with all evacuees able to return home.",
+          "es": "Las autoridades declaran estabilizado el incendio de La Vall d'Uixó tras siete días, con el regreso de todos los evacuados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
   }
 ]
