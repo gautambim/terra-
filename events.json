@@ -829,5 +829,1015 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "spokane-incendies-volontaires",
+    "coords": [
+      -117.426,
+      47.6588
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CNN / CBS News / NPR",
+    "priority": 1,
+    "place": {
+      "fr": "Spokane, État de Washington, États-Unis",
+      "en": "Spokane, Washington, United States",
+      "es": "Spokane, Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Spokane : un homme inculpé d'incendie volontaire après trois feux ayant détruit des centaines de bâtiments",
+      "en": "Spokane: man charged with arson after three fires destroy hundreds of buildings",
+      "es": "Spokane: un hombre acusado de incendio provocado tras tres fuegos que destruyeron cientos de edificios"
+    },
+    "summary": {
+      "fr": "Trois incendies, dont le plus important appelé Old Trails Fire, ont ravagé plus de 4 000 hectares autour de Spokane, deuxième ville de l'État de Washington, détruisant au moins 700 bâtiments et forçant l'évacuation d'environ 67 000 personnes. Aaron F. Farinacci, 37 ans, déjà condamné pour homicide en Arizona, a été arrêté le 3 août et inculpé d'incendie volontaire au premier degré en lien avec le sinistre le plus étendu, selon CNN, CBS News et NPR. Aucun mort ni blessé n'a été recensé à ce stade.",
+      "en": "Three wildfires, the largest known as the Old Trails Fire, have burned more than 4,000 hectares (over 10,000 acres) around Spokane, Washington's second-largest city, destroying at least 700 buildings and forcing roughly 67,000 people to evacuate. Aaron F. Farinacci, 37, previously convicted of manslaughter in Arizona, was arrested on August 3 and charged with first-degree arson in connection with the largest blaze, according to CNN, CBS News and NPR. No deaths or injuries have been reported so far.",
+      "es": "Tres incendios forestales, el mayor de ellos conocido como Old Trails Fire, han arrasado más de 4.000 hectáreas en los alrededores de Spokane, la segunda ciudad de Washington, destruyendo al menos 700 edificios y obligando a evacuar a unas 67.000 personas. Aaron F. Farinacci, de 37 años, condenado previamente por homicidio en Arizona, fue detenido el 3 de agosto y acusado de incendio provocado en primer grado en relación con el mayor de los fuegos, según CNN, CBS News y NPR. Hasta ahora no se han registrado muertos ni heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Arrestation d'Aaron F. Farinacci, inculpé d'incendie volontaire au premier degré pour le Old Trails Fire, selon CNN.",
+          "en": "Aaron F. Farinacci is arrested and charged with first-degree arson over the Old Trails Fire, according to CNN.",
+          "es": "Aaron F. Farinacci es detenido y acusado de incendio provocado en primer grado por el Old Trails Fire, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "usa-etats-proces-droits-douane",
+    "coords": [
+      -74.006,
+      40.7128
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "CNBC / Al Jazeera / TIME",
+    "priority": 1,
+    "place": {
+      "fr": "Cour du commerce international des États-Unis, New York, États-Unis",
+      "en": "U.S. Court of International Trade, New York, United States",
+      "es": "Tribunal de Comercio Internacional de Estados Unidos, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Vingt-cinq États américains attaquent en justice les nouveaux droits de douane de l'administration Trump",
+      "en": "Twenty-five U.S. states sue Trump administration over new tariffs",
+      "es": "Veinticinco estados de EE. UU. demandan a la administración Trump por los nuevos aranceles"
+    },
+    "summary": {
+      "fr": "Une coalition de 25 États américains a déposé plainte le 3 août devant la Cour du commerce international des États-Unis, contestant la légalité de nouveaux droits de douane de 10 à 12,5 % imposés le 23 juillet à plus de 80 pays. Les États affirment que l'administration invoque à tort la section 301 du Trade Act pour reproduire des tarifs déjà invalidés en février par la Cour suprême, qui avait jugé que la loi IEEPA ne les autorisait pas, selon CNBC, Al Jazeera et TIME. Il s'agit de la troisième poursuite multi-États contre la politique tarifaire de l'administration.",
+      "en": "A coalition of 25 U.S. states filed suit on August 3 at the U.S. Court of International Trade, challenging the legality of new 10-12.5% tariffs imposed on July 23 on goods from more than 80 countries. The states argue the administration is misusing Section 301 of the Trade Act to replace tariffs already struck down in February by the Supreme Court, which ruled the IEEPA law did not authorize them, according to CNBC, Al Jazeera and TIME. It is the third multistate lawsuit against the administration's tariff policy.",
+      "es": "Una coalición de 25 estados de EE. UU. presentó una demanda el 3 de agosto ante el Tribunal de Comercio Internacional de Estados Unidos, impugnando la legalidad de los nuevos aranceles de entre el 10 % y el 12,5 % impuestos el 23 de julio a más de 80 países. Los estados sostienen que la administración utiliza indebidamente la Sección 301 de la Ley de Comercio para reemplazar aranceles ya anulados en febrero por el Tribunal Supremo, que dictaminó que la ley IEEPA no los autorizaba, según CNBC, Al Jazeera y TIME. Es la tercera demanda multiestatal contra la política arancelaria de la administración."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Dépôt de la plainte par la coalition de 25 États devant la Cour du commerce international.",
+          "en": "The 25-state coalition files suit at the U.S. Court of International Trade.",
+          "es": "La coalición de 25 estados presenta la demanda ante el Tribunal de Comercio Internacional."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "mlb-deadline-2026",
+    "coords": [
+      -73.9857,
+      40.7484
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚾",
+    "source": "MLB.com / ESPN",
+    "priority": 1,
+    "place": {
+      "fr": "Ligue majeure de baseball, États-Unis",
+      "en": "Major League Baseball, United States",
+      "es": "Grandes Ligas de Béisbol, Estados Unidos"
+    },
+    "title": {
+      "fr": "Date limite des transferts en MLB : Tarik Skubal envoyé aux Dodgers, près de 50 échanges conclus",
+      "en": "MLB trade deadline: Tarik Skubal traded to the Dodgers as nearly 50 deals go through",
+      "es": "Fecha límite de traspasos de la MLB: Tarik Skubal es traspasado a los Dodgers en casi 50 operaciones"
+    },
+    "summary": {
+      "fr": "La date limite des transferts de la Ligue majeure de baseball, fixée au 3 août à 18h (heure de l'Est), a donné lieu à près de 50 échanges de joueurs entre équipes, selon MLB.com et ESPN. Le lanceur Tarik Skubal a rejoint les Dodgers de Los Angeles, tandis que Kevin Gausman a été échangé des Blue Jays de Toronto aux Cubs de Chicago et Casey Mize des Tigers de Détroit aux Padres de San Diego.",
+      "en": "Major League Baseball's trade deadline, set for 6 p.m. Eastern on August 3, saw nearly 50 player trades go through, according to MLB.com and ESPN. Pitcher Tarik Skubal was sent to the Los Angeles Dodgers, while Kevin Gausman moved from the Toronto Blue Jays to the Chicago Cubs and Casey Mize from the Detroit Tigers to the San Diego Padres.",
+      "es": "La fecha límite de traspasos de las Grandes Ligas de Béisbol, fijada para las 18:00 (hora del Este) del 3 de agosto, dejó cerca de 50 operaciones entre equipos, según MLB.com y ESPN. El lanzador Tarik Skubal fue traspasado a los Dodgers de Los Ángeles, mientras que Kevin Gausman pasó de los Blue Jays de Toronto a los Cubs de Chicago y Casey Mize de los Tigers de Detroit a los Padres de San Diego."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Clôture de la date limite des transferts à 18h, heure de l'Est.",
+          "en": "The trade deadline closes at 6 p.m. Eastern.",
+          "es": "Cierra la fecha límite de traspasos a las 18:00, hora del Este."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "canada-feu-bradley-creek",
+    "coords": [
+      -119.35,
+      50.1
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News",
+    "priority": 1,
+    "place": {
+      "fr": "Lac Okanagan, Colombie-Britannique, Canada",
+      "en": "Okanagan Lake, British Columbia, Canada",
+      "es": "Lago Okanagan, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Colombie-Britannique : le feu de forêt Bradley Creek force plusieurs évacuations près du lac Okanagan",
+      "en": "British Columbia: Bradley Creek wildfire forces evacuations near Okanagan Lake",
+      "es": "Columbia Británica: el incendio forestal Bradley Creek obliga a evacuar zonas cerca del lago Okanagan"
+    },
+    "summary": {
+      "fr": "Déclenché par l'activité humaine le 31 juillet, l'incendie de Bradley Creek s'étendait sur 2 603 hectares au 4 août près du lac Okanagan, dans le sud de la Colombie-Britannique, selon CBC News. Quatre ordres d'évacuation et cinq alertes touchent plusieurs municipalités et communautés des Premières Nations ; le service des feux de forêt de la province a demandé aux habitants d'éviter le lac dans la zone du sinistre. Il s'inscrit dans une saison des feux particulièrement active au Canada, avec environ 800 incendies actifs recensés début août.",
+      "en": "Ignited by human activity on July 31, the Bradley Creek wildfire covered 2,603 hectares as of August 4 near Okanagan Lake in southern British Columbia, according to CBC News. Four evacuation orders and five evacuation alerts affect several municipalities and First Nations communities; the BC Wildfire Service has told residents to avoid the lake in the fire zone. It is part of a particularly active wildfire season in Canada, with roughly 800 active fires recorded in early August.",
+      "es": "Provocado por actividad humana el 31 de julio, el incendio forestal de Bradley Creek cubría 2.603 hectáreas al 4 de agosto cerca del lago Okanagan, en el sur de Columbia Británica, según CBC News. Cuatro órdenes de evacuación y cinco alertas afectan a varios municipios y comunidades de Primeras Naciones; el Servicio de Incendios Forestales de la provincia pidió a los residentes evitar el lago en la zona afectada. Forma parte de una temporada de incendios especialmente activa en Canadá, con unos 800 fuegos activos registrados a principios de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie atteint 2 603 hectares ; quatre ordres d'évacuation et cinq alertes restent en vigueur.",
+          "en": "The fire reaches 2,603 hectares; four evacuation orders and five alerts remain in effect.",
+          "es": "El incendio alcanza 2.603 hectáreas; siguen vigentes cuatro órdenes de evacuación y cinco alertas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "mexique-arrestation-el-r1",
+    "coords": [
+      -102.5058,
+      20.5525
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🚔",
+    "source": "Autorités mexicaines / Fox News / ABC7",
+    "priority": 2,
+    "place": {
+      "fr": "Atotonilco el Alto, État de Jalisco, Mexique",
+      "en": "Atotonilco el Alto, Jalisco, Mexico",
+      "es": "Atotonilco el Alto, Jalisco, México"
+    },
+    "title": {
+      "fr": "Mexique : arrestation d'un chef présumé du CJNG lié à l'assassinat d'un maire et au meurtre d'une influenceuse",
+      "en": "Mexico: alleged CJNG cell leader arrested over mayor's assassination and influencer's murder",
+      "es": "México: detienen a presunto líder del CJNG vinculado al asesinato de un alcalde y a la muerte de una influencer"
+    },
+    "summary": {
+      "fr": "Ramón Ángel Álvarez Ayala, alias « El R-1 », présenté par les autorités mexicaines comme le chef de la cellule « Los Rs », affiliée au Cartel de Jalisco Nouvelle Génération (CJNG), a été capturé le 30 juillet lors d'une opération conjointe à Atotonilco el Alto, dans l'État de Jalisco, selon les autorités et repris par Fox News et ABC7. Il est accusé d'avoir commandité l'assassinat en novembre 2025 du maire d'Uruapan Carlos Manzo, ainsi que d'être lié au meurtre filmé en direct de l'influenceuse Valeria Márquez en mai 2025. Il est détenu à la prison de haute sécurité de l'Altiplano dans l'attente de son procès fédéral.",
+      "en": "Ramón Ángel Álvarez Ayala, alias 'El R-1,' described by Mexican authorities as the leader of the 'Los Rs' cell affiliated with the Jalisco New Generation Cartel (CJNG), was captured on July 30 in a joint operation in Atotonilco el Alto, Jalisco state, according to officials, as reported by Fox News and ABC7. He is accused of ordering the November 2025 assassination of Uruapan Mayor Carlos Manzo and of being linked to the livestreamed May 2025 murder of influencer Valeria Márquez. He is being held at the Altiplano maximum-security prison pending federal trial.",
+      "es": "Ramón Ángel Álvarez Ayala, alias 'El R-1', señalado por las autoridades mexicanas como líder de la célula 'Los Rs', afiliada al Cártel de Jalisco Nueva Generación (CJNG), fue capturado el 30 de julio en un operativo conjunto en Atotonilco el Alto, estado de Jalisco, según las autoridades, según informaron Fox News y ABC7. Se le acusa de haber ordenado el asesinato en noviembre de 2025 del alcalde de Uruapan, Carlos Manzo, y de estar vinculado al asesinato transmitido en vivo de la influencer Valeria Márquez en mayo de 2025. Permanece recluido en el penal de máxima seguridad del Altiplano a la espera de su juicio federal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Capture de Ramón Ángel Álvarez Ayala lors d'une opération conjointe à Atotonilco el Alto.",
+          "en": "Ramón Ángel Álvarez Ayala is captured in a joint operation in Atotonilco el Alto.",
+          "es": "Ramón Ángel Álvarez Ayala es capturado en un operativo conjunto en Atotonilco el Alto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "ukraine-frappe-shyroke",
+    "coords": [
+      33.4708,
+      47.6975
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Al Jazeera",
+    "priority": 2,
+    "place": {
+      "fr": "Chyroké, district de Kryvyi Rih, région de Dnipropetrovsk, Ukraine",
+      "en": "Shyroke, Kryvyi Rih district, Dnipropetrovsk Oblast, Ukraine",
+      "es": "Shyroke, distrito de Kryvyi Rih, óblast de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : un drone russe tue trois personnes, dont un enfant, dans une station-service",
+      "en": "Ukraine: Russian drone kills three, including a child, at a gas station",
+      "es": "Ucrania: un dron ruso mata a tres personas, entre ellas un niño, en una gasolinera"
+    },
+    "summary": {
+      "fr": "Un drone Shahed à réaction a frappé une station-service à Chyroké, dans la région de Dnipropetrovsk, le 3 août, tuant trois personnes — un homme de 41 ans, une femme de 40 ans et un garçon de 8 ans, fils d'un secouriste également tué — et en blessant six autres, selon le Kyiv Independent et Al Jazeera. L'attaque s'inscrit dans une intensification des frappes russes à longue portée, la Russie ayant tiré environ 381 missiles en juillet, un rythme record depuis le début de la guerre.",
+      "en": "A jet-powered Shahed drone hit a gas station in Shyroke, Dnipropetrovsk Oblast, on August 3, killing three people — a 41-year-old man, a 40-year-old woman, and an 8-year-old boy, the son of a rescue worker who also died — and injuring six others, according to the Kyiv Independent and Al Jazeera. The strike is part of an intensification of long-range Russian attacks; Russia fired approximately 381 missiles in July, a wartime record pace.",
+      "es": "Un dron Shahed a reacción impactó una gasolinera en Shyroke, óblast de Dnipropetrovsk, el 3 de agosto, matando a tres personas —un hombre de 41 años, una mujer de 40 y un niño de 8, hijo de un socorrista que también murió— y dejando seis heridos, según el Kyiv Independent y Al Jazeera. El ataque se produce en medio de una intensificación de los bombardeos rusos de largo alcance; Rusia lanzó unos 381 misiles en julio, un ritmo récord desde el inicio de la guerra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Frappe de drone sur une station-service à Chyroké, faisant trois morts et six blessés.",
+          "en": "Drone strike hits a gas station in Shyroke, killing three and injuring six.",
+          "es": "Un ataque con dron impacta una gasolinera en Shyroke, matando a tres y dejando seis heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "russie-attentat-restaurant-moscou",
+    "coords": [
+      37.5763,
+      55.7601
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "CNN / Al Jazeera / The Moscow Times",
+    "priority": 2,
+    "place": {
+      "fr": "Restaurant Balzi Rossi, place Koudrinskaïa, Moscou, Russie",
+      "en": "Balzi Rossi restaurant, Kudrinskaya Square, Moscow, Russia",
+      "es": "Restaurante Balzi Rossi, plaza Kudrínskaya, Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Moscou : un attentat à la bombe dans un restaurant fait trois morts et une vingtaine de blessés",
+      "en": "Moscow: bomb attack at restaurant kills three, injures around twenty",
+      "es": "Moscú: un atentado con bomba en un restaurante deja tres muertos y una veintena de heridos"
+    },
+    "summary": {
+      "fr": "Une bombe artisanale, selon les enquêteurs transportée par une femme se faisant passer pour une livreuse, a explosé le 1er août au soir dans le restaurant Balzi Rossi, place Koudrinskaïa, dans le centre de Moscou, tuant trois personnes — la porteuse présumée de l'engin, un agent de sécurité et un client — et blessant au moins 21 autres, selon CNN, Al Jazeera et The Moscow Times. Le maire de Moscou Sergueï Sobianine a qualifié l'attaque d'« acte terroriste brutal ». Certaines sources évoquent un possible lien avec la guerre en Ukraine, sans confirmation officielle à ce stade.",
+      "en": "A homemade bomb, allegedly carried in by a woman posing as a delivery courier, exploded on the evening of August 1 at the Balzi Rossi restaurant on Kudrinskaya Square in central Moscow, killing three people — the alleged bomb carrier, a security guard, and a customer — and injuring at least 21 others, according to CNN, Al Jazeera and The Moscow Times. Moscow Mayor Sergei Sobyanin called it a 'brutal terrorist act.' Some reports suggest a possible link to the war in Ukraine, though this has not been officially confirmed.",
+      "es": "Una bomba casera, presuntamente introducida por una mujer que se hacía pasar por repartidora, estalló la noche del 1 de agosto en el restaurante Balzi Rossi, en la plaza Kudrínskaya, en el centro de Moscú, matando a tres personas —la presunta portadora del artefacto, un guardia de seguridad y un cliente— y dejando al menos 21 heridos, según CNN, Al Jazeera y The Moscow Times. El alcalde de Moscú, Serguéi Sobianin, calificó el hecho de 'acto terrorista brutal'. Algunas informaciones sugieren un posible vínculo con la guerra en Ucrania, aunque no ha sido confirmado oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Explosion au restaurant Balzi Rossi, faisant trois morts et une vingtaine de blessés.",
+          "en": "Explosion at the Balzi Rossi restaurant kills three and injures around twenty.",
+          "es": "Explosión en el restaurante Balzi Rossi deja tres muertos y una veintena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "italie-accident-bus-rieti",
+    "coords": [
+      12.82,
+      42.53
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "Xinhua / The Local Italy",
+    "priority": 1,
+    "place": {
+      "fr": "Colli sul Velino, province de Rieti, Italie",
+      "en": "Colli sul Velino, Rieti province, Italy",
+      "es": "Colli sul Velino, provincia de Rieti, Italia"
+    },
+    "title": {
+      "fr": "Italie : six morts dans une collision entre un bus et plusieurs véhicules près de Rieti",
+      "en": "Italy: six dead in collision between a bus and several vehicles near Rieti",
+      "es": "Italia: seis muertos en una colisión entre un autobús y varios vehículos cerca de Rieti"
+    },
+    "summary": {
+      "fr": "Un camping-car aurait franchi la ligne médiane et percuté de plein fouet un autobus sur la route SS79, près de Colli sul Velino, dans la province de Rieti, le 3 août, provoquant un accident impliquant également plusieurs voitures, selon Xinhua et The Local Italy. Six personnes sont mortes et, selon les sources, entre 26 et 30 ont été blessées, dont plusieurs grièvement. L'accident survient en pleine vague de chaleur, alors que 25 des 27 grandes villes italiennes étaient placées en alerte maximale ce jour-là.",
+      "en": "A camper van reportedly crossed the center line and collided head-on with a bus on the SS79 road near Colli sul Velino, in Rieti province, on August 3, in a crash that also involved several cars, according to Xinhua and The Local Italy. Six people died and, depending on the source, between 26 and 30 were injured, several critically. The crash occurred during a severe heatwave, with 25 of Italy's 27 major cities under the highest heat alert that day.",
+      "es": "Una autocaravana habría invadido el carril contrario y colisionado de frente con un autobús en la carretera SS79, cerca de Colli sul Velino, en la provincia de Rieti, el 3 de agosto, en un accidente que también involucró a varios coches, según Xinhua y The Local Italy. Seis personas murieron y, según la fuente, entre 26 y 30 resultaron heridas, varias de gravedad. El accidente ocurrió en plena ola de calor, con 25 de las 27 grandes ciudades italianas en alerta máxima ese día."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Collision frontale sur la SS79 impliquant un bus, un camping-car et plusieurs voitures.",
+          "en": "Head-on collision on the SS79 involving a bus, a camper van and several cars.",
+          "es": "Colisión frontal en la SS79 que involucra a un autobús, una autocaravana y varios coches."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "france-incendie-var-gros-bessillon",
+    "coords": [
+      6.1,
+      43.47
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Franceinfo / Connexion France",
+    "priority": 1,
+    "place": {
+      "fr": "Massif du Gros Bessillon, Var, France",
+      "en": "Gros Bessillon massif, Var, France",
+      "es": "Macizo del Gros Bessillon, Var, Francia"
+    },
+    "title": {
+      "fr": "Var : l'incendie du Gros Bessillon repart et force l'évacuation de 2 500 habitants",
+      "en": "Var: Gros Bessillon wildfire flares up again, forcing 2,500 residents to evacuate",
+      "es": "Var: el incendio de Gros Bessillon se reactiva y obliga a evacuar a 2.500 habitantes"
+    },
+    "summary": {
+      "fr": "Parti le 21 juillet, l'incendie du massif du Gros Bessillon, dans le Var, est reparti fin juillet sous l'effet du mistral et a brûlé plus de 6 000 hectares au total, détruisant une quarantaine de maisons dans les communes de Correns, Montfort-sur-Argens, Carcès et Cotignac, selon Franceinfo et Connexion France. Environ 2 500 habitants ont été évacués et 1 500 pompiers étaient mobilisés début août. Aucun décès n'a été signalé. Plus de 117 000 hectares ont brûlé en France depuis le début de l'année, l'une des pires saisons enregistrées.",
+      "en": "Ignited on July 21, the wildfire on the Gros Bessillon massif in the Var department flared up again in late July, driven by mistral winds, and has burned more than 6,000 hectares in total, destroying about 40 homes in the communes of Correns, Montfort-sur-Argens, Carcès and Cotignac, according to Franceinfo and Connexion France. Around 2,500 residents were evacuated and 1,500 firefighters were deployed in early August. No deaths have been reported. More than 117,000 hectares have burned in France since the start of the year, one of the worst seasons on record.",
+      "es": "Iniciado el 21 de julio, el incendio en el macizo del Gros Bessillon, en el departamento de Var, se reactivó a finales de julio impulsado por el viento de mistral y ha quemado más de 6.000 hectáreas en total, destruyendo unas 40 viviendas en los municipios de Correns, Montfort-sur-Argens, Carcès y Cotignac, según Franceinfo y Connexion France. Unos 2.500 residentes fueron evacuados y 1.500 bomberos se desplegaron a principios de agosto. No se han reportado muertes. Más de 117.000 hectáreas han ardido en Francia desde comienzos de año, una de las peores temporadas registradas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/07/2026",
+          "en": "21/07/2026",
+          "es": "21/07/2026"
+        },
+        "d": {
+          "fr": "Départ de feu sur le massif du Gros Bessillon.",
+          "en": "Fire breaks out on the Gros Bessillon massif.",
+          "es": "Se declara el incendio en el macizo del Gros Bessillon."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Reprise du feu sous l'effet du mistral ; 2 500 habitants évacués, 1 500 pompiers mobilisés.",
+          "en": "Fire flares up again driven by mistral winds; 2,500 residents evacuated, 1,500 firefighters deployed.",
+          "es": "El fuego se reactiva impulsado por el mistral; 2.500 residentes evacuados, 1.500 bomberos desplegados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "espagne-incendie-vall-duixo-controle",
+    "coords": [
+      -0.2333,
+      39.8167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "El Español / Castellón Plaza",
+    "priority": 2,
+    "place": {
+      "fr": "Vall d'Uixó, province de Castellón, Espagne",
+      "en": "Vall d'Uixó, Castellón province, Spain",
+      "es": "Vall d'Uixó, provincia de Castellón, España"
+    },
+    "title": {
+      "fr": "Espagne : l'incendie de la Vall d'Uixó, qui a brûlé plus de 9 500 hectares, déclaré maîtrisé",
+      "en": "Spain: Vall d'Uixó wildfire, which burned over 9,500 hectares, declared under control",
+      "es": "España: el incendio de la Vall d'Uixó, que quemó más de 9.500 hectáreas, se declara controlado"
+    },
+    "summary": {
+      "fr": "Déclenché le 25 juillet près de la Vall d'Uixó, dans la province de Castellón, l'incendie a brûlé 9 568 hectares en une semaine avant d'être stabilisé le 31 juillet puis déclaré totalement maîtrisé le 5 août, selon El Español et Castellón Plaza. Il avait entraîné l'évacuation de plusieurs milliers d'habitants ; aucun décès n'a été rapporté en lien avec ce foyer. L'Espagne a enregistré 186 544 hectares brûlés depuis le 1er janvier, dans un contexte d'urgence incendie touchant aussi la France et la Grèce.",
+      "en": "Ignited on July 25 near Vall d'Uixó, in Castellón province, the fire burned 9,568 hectares in a week before being stabilized on July 31 and declared fully under control on August 5, according to El Español and Castellón Plaza. It had forced thousands of residents to evacuate; no deaths have been reported in connection with this fire. Spain has recorded 186,544 hectares burned since January 1, amid a wildfire emergency also affecting France and Greece.",
+      "es": "Iniciado el 25 de julio cerca de la Vall d'Uixó, en la provincia de Castellón, el incendio quemó 9.568 hectáreas en una semana antes de estabilizarse el 31 de julio y declararse totalmente controlado el 5 de agosto, según El Español y Castellón Plaza. Había obligado a evacuar a miles de vecinos; no se han reportado muertes vinculadas a este incendio. España ha registrado 186.544 hectáreas quemadas desde el 1 de enero, en un contexto de emergencia por incendios que afecta también a Francia y Grecia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/07/2026",
+          "en": "25/07/2026",
+          "es": "25/07/2026"
+        },
+        "d": {
+          "fr": "Départ de l'incendie près de la Vall d'Uixó.",
+          "en": "The fire breaks out near Vall d'Uixó.",
+          "es": "Se declara el incendio cerca de la Vall d'Uixó."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie, qui a brûlé 9 568 hectares, est déclaré totalement maîtrisé.",
+          "en": "The fire, which burned 9,568 hectares, is declared fully under control.",
+          "es": "El incendio, que quemó 9.568 hectáreas, se declara totalmente controlado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "allemagne-suno-gema-ia",
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Variety / Music Week",
+    "priority": 1,
+    "place": {
+      "fr": "Tribunal régional de Munich, Bavière, Allemagne",
+      "en": "Munich Regional Court, Bavaria, Germany",
+      "es": "Tribunal Regional de Múnich, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "Allemagne : la justice de Munich condamne l'IA musicale Suno pour violation de droits d'auteur",
+      "en": "Germany: Munich court rules AI music generator Suno infringed copyright",
+      "es": "Alemania: la justicia de Múnich condena a la IA musical Suno por infracción de derechos de autor"
+    },
+    "summary": {
+      "fr": "Le tribunal régional de Munich a jugé le 31 juillet que le générateur de musique par intelligence artificielle Suno avait enfreint le droit d'auteur en entraînant ses systèmes sur des œuvres du répertoire de la société allemande de gestion collective GEMA et en les reproduisant en Europe, selon Variety et Music Week. Le montant des dommages et intérêts n'était pas encore fixé au moment du jugement. Cette décision est considérée comme l'une des premières grandes jurisprudences européennes sur la responsabilité des IA entraînées sur des œuvres protégées.",
+      "en": "The Munich Regional Court ruled on July 31 that AI music generator Suno had infringed copyright by training its systems on works from the repertoire of German royalty collection society GEMA and reproducing them in Europe, according to Variety and Music Week. Damages had not yet been determined at the time of the ruling. The decision is regarded as one of the first major European rulings on liability for AI systems trained on copyrighted works.",
+      "es": "El Tribunal Regional de Múnich dictaminó el 31 de julio que el generador musical de inteligencia artificial Suno había infringido derechos de autor al entrenar sus sistemas con obras del repertorio de la sociedad alemana de gestión colectiva GEMA y reproducirlas en Europa, según Variety y Music Week. El monto de la indemnización aún no se había determinado en el momento del fallo. La decisión se considera una de las primeras grandes sentencias europeas sobre la responsabilidad de las IA entrenadas con obras protegidas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Le tribunal régional de Munich juge Suno coupable de violation de droits d'auteur.",
+          "en": "The Munich Regional Court rules Suno guilty of copyright infringement.",
+          "es": "El Tribunal Regional de Múnich declara a Suno culpable de infracción de derechos de autor."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "royaume-uni-boe-taux",
+    "coords": [
+      -0.0895,
+      51.5142
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Bank of England / Bloomberg",
+    "priority": 1,
+    "place": {
+      "fr": "Banque d'Angleterre, Londres, Royaume-Uni",
+      "en": "Bank of England, London, United Kingdom",
+      "es": "Banco de Inglaterra, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Royaume-Uni : la Banque d'Angleterre maintient son taux directeur à 3,75 % malgré des divisions internes",
+      "en": "United Kingdom: Bank of England holds rate at 3.75% amid internal divisions",
+      "es": "Reino Unido: el Banco de Inglaterra mantiene su tipo de interés en el 3,75 % pese a divisiones internas"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque d'Angleterre a voté le 30 juillet, par six voix contre trois, le maintien de son taux directeur à 3,75 % pour la cinquième réunion consécutive, selon la banque centrale et Bloomberg. Trois membres, dont l'économiste en chef Huw Pill, souhaitaient le relever à 4 % face au risque inflationniste lié à la hausse des prix de l'énergie dans le contexte du conflit au Moyen-Orient. L'inflation britannique était retombée à 2,6 % en juin, plus vite que prévu. La prochaine décision est attendue le 17 septembre.",
+      "en": "The Bank of England's Monetary Policy Committee voted 6-3 on July 30 to hold its benchmark rate at 3.75% for a fifth consecutive meeting, according to the central bank and Bloomberg. Three members, including chief economist Huw Pill, favored raising it to 4% over inflation risk linked to rising energy prices amid the Middle East conflict. UK inflation had fallen to 2.6% in June, faster than expected. The next decision is due September 17.",
+      "es": "El Comité de Política Monetaria del Banco de Inglaterra votó el 30 de julio, por seis votos contra tres, mantener su tipo de interés de referencia en el 3,75 % por quinta reunión consecutiva, según el banco central y Bloomberg. Tres miembros, entre ellos el economista jefe Huw Pill, defendían subirlo al 4 % ante el riesgo inflacionario vinculado al alza de los precios de la energía en el contexto del conflicto en Oriente Medio. La inflación británica había caído al 2,6 % en junio, más rápido de lo previsto. La próxima decisión está prevista para el 17 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026",
+          "en": "30/07/2026",
+          "es": "30/07/2026"
+        },
+        "d": {
+          "fr": "Le comité de politique monétaire vote 6 contre 3 le maintien du taux à 3,75 %.",
+          "en": "The Monetary Policy Committee votes 6-3 to hold the rate at 3.75%.",
+          "es": "El Comité de Política Monetaria vota 6 contra 3 mantener el tipo en el 3,75 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "chine-inondations-gansu",
+    "coords": [
+      104.9997,
+      35.1667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Xinhua / South China Morning Post",
+    "priority": 1,
+    "place": {
+      "fr": "District de Weiyuan, ville de Dingxi, province du Gansu, Chine",
+      "en": "Weiyuan County, Dingxi City, Gansu Province, China",
+      "es": "Distrito de Weiyuan, ciudad de Dingxi, provincia de Gansu, China"
+    },
+    "title": {
+      "fr": "Chine : le bilan des inondations dans le Gansu grimpe à 25 morts",
+      "en": "China: Gansu flood death toll rises to 25",
+      "es": "China: el balance de las inundaciones en Gansu asciende a 25 muertos"
+    },
+    "summary": {
+      "fr": "Des crues soudaines survenues le 26 juillet ont frappé la zone touristique de Shuangshimen, dans le district de Weiyuan (ville de Dingxi, province du Gansu), faisant 25 morts et 23 blessés selon un bilan actualisé début août, rapportent le South China Morning Post et Hong Kong Free Press, citant les médias d'État chinois. La Commission nationale de prévention et de réduction des catastrophes a ordonné au gouvernement provincial du Gansu d'enquêter et de renforcer ses mesures d'urgence face au risque persistant de glissements de terrain.",
+      "en": "Flash floods on July 26 struck the Shuangshimen scenic area in Weiyuan County (Dingxi City, Gansu Province), leaving 25 dead and 23 injured according to an updated toll in early August, the South China Morning Post and Hong Kong Free Press report, citing Chinese state media. China's National Commission for Disaster Prevention, Reduction and Relief ordered the Gansu provincial government to investigate and strengthen emergency-response measures amid continued landslide risk.",
+      "es": "Unas inundaciones repentinas ocurridas el 26 de julio azotaron la zona turística de Shuangshimen, en el distrito de Weiyuan (ciudad de Dingxi, provincia de Gansu), dejando 25 muertos y 23 heridos según un balance actualizado a principios de agosto, según South China Morning Post y Hong Kong Free Press, citando a medios estatales chinos. La Comisión Nacional de Prevención y Reducción de Desastres ordenó al gobierno provincial de Gansu investigar y reforzar las medidas de emergencia ante el riesgo persistente de deslizamientos de tierra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/07/2026",
+          "en": "26/07/2026",
+          "es": "26/07/2026"
+        },
+        "d": {
+          "fr": "Des crues soudaines frappent la zone touristique de Shuangshimen.",
+          "en": "Flash floods strike the Shuangshimen scenic area.",
+          "es": "Inundaciones repentinas azotan la zona turística de Shuangshimen."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan est réévalué à 25 morts et 23 blessés ; enquête ordonnée par les autorités nationales.",
+          "en": "The toll is revised to 25 dead and 23 injured; national authorities order an investigation.",
+          "es": "El balance se actualiza a 25 muertos y 23 heridos; las autoridades nacionales ordenan una investigación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "inde-inondations-mousson",
+    "coords": [
+      91.7362,
+      26.1445
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "AFP / Arab News",
+    "priority": 2,
+    "place": {
+      "fr": "Assam, nord-est de l'Inde (bilan national)",
+      "en": "Assam, northeastern India (nationwide toll)",
+      "es": "Assam, noreste de India (balance nacional)"
+    },
+    "title": {
+      "fr": "Inde : les inondations de mousson ont fait plus de 100 morts depuis juillet",
+      "en": "India: monsoon floods and landslides have killed more than 100 since July",
+      "es": "India: las inundaciones del monzón han dejado más de 100 muertos desde julio"
+    },
+    "summary": {
+      "fr": "Plus de 100 personnes sont mortes en Inde depuis juillet dans des inondations et glissements de terrain liés à la mousson, selon des responsables cités par l'AFP début août. L'Assam, dans le nord-est du pays, est le plus touché avec au moins 87 morts et plus de 10 000 personnes accueillies dans plus de 300 centres de secours après que des rivières sont sorties de leur lit. Le Jammu-et-Cachemire déplore au moins 31 morts, et le Kerala a été frappé le 1er août par des pluies torrentielles dépassant 300 mm en une journée. Des scientifiques cités par l'AFP attribuent en partie l'intensification de la mousson au changement climatique.",
+      "en": "More than 100 people have died in India since July in monsoon-related flooding and landslides, according to officials cited by AFP in early August. Assam, in the northeast, is worst affected with at least 87 deaths and more than 10,000 people sheltering in over 300 relief camps after rivers overflowed their banks. Jammu and Kashmir has recorded at least 31 deaths, and Kerala was hit on August 1 by torrential rain exceeding 300mm in a single day. Scientists cited by AFP partly attribute the increasingly erratic monsoon behavior to climate change.",
+      "es": "Más de 100 personas han muerto en India desde julio por inundaciones y deslizamientos de tierra relacionados con el monzón, según funcionarios citados por AFP a principios de agosto. Assam, en el noreste, es la región más afectada, con al menos 87 muertos y más de 10.000 personas refugiadas en más de 300 campamentos de ayuda tras el desbordamiento de ríos. Jammu y Cachemira lamenta al menos 31 muertos, y Kerala fue golpeado el 1 de agosto por lluvias torrenciales que superaron los 300 mm en un solo día. Científicos citados por AFP atribuyen en parte el comportamiento cada vez más errático del monzón al cambio climático."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le Kerala est frappé par des pluies torrentielles dépassant 300 mm en une journée.",
+          "en": "Kerala is hit by torrential rain exceeding 300mm in a single day.",
+          "es": "Kerala es golpeado por lluvias torrenciales que superan los 300 mm en un solo día."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "indonesie-incendie-ferry-madura",
+    "coords": [
+      113.9,
+      -6.85
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / Basarnas",
+    "priority": 2,
+    "place": {
+      "fr": "Détroit de Madura, au large de Sumenep, Java oriental, Indonésie",
+      "en": "Madura Strait, off Sumenep, East Java, Indonesia",
+      "es": "Estrecho de Madura, frente a Sumenep, Java Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Indonésie : cinq morts dans l'incendie d'un ferry au large de l'île de Madura",
+      "en": "Indonesia: five dead after ferry catches fire off Madura island",
+      "es": "Indonesia: cinco muertos tras el incendio de un ferry frente a la isla de Madura"
+    },
+    "summary": {
+      "fr": "Le ferry Mutiara Sentosa 2, qui reliait Surabaya (Java oriental) à Makassar (Sulawesi du Sud) avec 271 personnes à bord, a pris feu le 2 août au large de Sumenep, provoquant des explosions qui ont poussé des passagers à sauter à l'eau, selon Al Jazeera et l'agence nationale indonésienne de recherche et sauvetage (Basarnas). Cinq personnes sont mortes ; les 232 passagers et membres d'équipage survivants avaient tous été localisés au 4 août, mettant fin aux craintes initiales de dizaines de disparus.",
+      "en": "The ferry Mutiara Sentosa 2, sailing from Surabaya (East Java) to Makassar (South Sulawesi) with 271 people on board, caught fire on August 2 off Sumenep, triggering explosions that sent passengers jumping overboard, according to Al Jazeera and Indonesia's national search and rescue agency (Basarnas). Five people died; all 232 surviving passengers and crew had been accounted for by August 4, ending initial fears of dozens missing.",
+      "es": "El ferry Mutiara Sentosa 2, que viajaba de Surabaya (Java Oriental) a Makassar (Sulawesi del Sur) con 271 personas a bordo, se incendió el 2 de agosto frente a Sumenep, provocando explosiones que llevaron a los pasajeros a saltar por la borda, según Al Jazeera y la agencia nacional de búsqueda y rescate de Indonesia (Basarnas). Cinco personas murieron; los 232 pasajeros y tripulantes sobrevivientes fueron localizados en su totalidad antes del 4 de agosto, poniendo fin a los temores iniciales de decenas de desaparecidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry Mutiara Sentosa 2 prend feu au large de Sumenep ; des passagers sautent à l'eau.",
+          "en": "The ferry Mutiara Sentosa 2 catches fire off Sumenep; passengers jump overboard.",
+          "es": "El ferry Mutiara Sentosa 2 se incendia frente a Sumenep; los pasajeros saltan por la borda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Basarnas confirme que les 232 survivants ont tous été localisés ; le bilan reste fixé à cinq morts.",
+          "en": "Basarnas confirms all 232 survivors have been accounted for; the toll remains at five dead.",
+          "es": "Basarnas confirma que los 232 sobrevivientes fueron localizados en su totalidad; el balance sigue en cinco muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "japon-intervention-yen",
+    "coords": [
+      139.7671,
+      35.6812
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "Bloomberg / The Japan Times",
+    "priority": 1,
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Japon : Tokyo et Washington confirment une intervention conjointe pour soutenir le yen",
+      "en": "Japan: Tokyo and Washington confirm joint intervention to support the yen",
+      "es": "Japón: Tokio y Washington confirman una intervención conjunta para apoyar el yen"
+    },
+    "summary": {
+      "fr": "Le Japon et les États-Unis ont confirmé le 3 août être intervenus conjointement sur le marché des changes pour freiner la faiblesse du yen face au dollar, selon Bloomberg et le Japan Times. Les données de la Banque du Japon suggèrent une intervention d'environ 5 330 milliards de yens (environ 34 milliards de dollars) le 31 juillet, un record mensuel pour ce cycle d'intervention. Tokyo et Washington ont indiqué être prêts à intervenir de nouveau si la faiblesse jugée excessive du yen persistait.",
+      "en": "Japan and the United States confirmed on August 3 that they had jointly intervened in the currency market to curb the yen's weakness against the dollar, according to Bloomberg and the Japan Times. Bank of Japan data point to an intervention of roughly 5.33 trillion yen (about $34 billion) on July 31, a monthly record for this round of intervention. Tokyo and Washington said they stood ready to intervene again if the yen's weakness, which they described as excessive, persisted.",
+      "es": "Japón y Estados Unidos confirmaron el 3 de agosto haber intervenido conjuntamente en el mercado de divisas para frenar la debilidad del yen frente al dólar, según Bloomberg y The Japan Times. Datos del Banco de Japón apuntan a una intervención de unos 5,33 billones de yenes (unos 34.000 millones de dólares) el 31 de julio, un récord mensual para esta ronda de intervención. Tokio y Washington indicaron que están dispuestos a intervenir de nuevo si persiste la debilidad del yen, que calificaron de excesiva."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Tokyo et Washington confirment publiquement leur intervention conjointe sur le yen.",
+          "en": "Tokyo and Washington publicly confirm their joint intervention on the yen.",
+          "es": "Tokio y Washington confirman públicamente su intervención conjunta sobre el yen."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "coree-du-sud-record-chaleur",
+    "coords": [
+      129.0403,
+      35.335
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Administration météorologique coréenne / Al Jazeera",
+    "priority": 2,
+    "place": {
+      "fr": "Yangsan, province du Gyeongsang du Sud, Corée du Sud",
+      "en": "Yangsan, South Gyeongsang Province, South Korea",
+      "es": "Yangsan, provincia de Gyeongsang del Sur, Corea del Sur"
+    },
+    "title": {
+      "fr": "Corée du Sud : un record national de chaleur battu à 42,5 °C à Yangsan",
+      "en": "South Korea: national heat record broken at 42.5°C in Yangsan",
+      "es": "Corea del Sur: se bate el récord nacional de calor con 42,5 °C en Yangsan"
+    },
+    "summary": {
+      "fr": "La température a atteint 42,5 °C le 2 août à Yangsan, dans la province du Gyeongsang du Sud, le record le plus élevé jamais enregistré en Corée du Sud depuis le début des observations météorologiques modernes en 1904, selon l'Administration météorologique coréenne relayée par Al Jazeera. Plus de vingt localités étaient placées sous une nouvelle catégorie d'alerte « canicule extrême » et le gouvernement a activé un dispositif d'urgence de niveau 2, au terme de cinq jours consécutifs au-dessus de 40 °C.",
+      "en": "Temperatures reached 42.5°C on August 2 in Yangsan, South Gyeongsang Province - the highest ever recorded in South Korea since modern weather observations began in 1904 - according to the Korea Meteorological Administration, reported by Al Jazeera. More than twenty localities were placed under a newly introduced 'emergency heatwave' alert category, and the government activated a Level 2 emergency response after five consecutive days above 40°C.",
+      "es": "Las temperaturas alcanzaron los 42,5 °C el 2 de agosto en Yangsan, provincia de Gyeongsang del Sur, el récord más alto registrado en Corea del Sur desde el inicio de las observaciones meteorológicas modernas en 1904, según la Administración Meteorológica de Corea, recogido por Al Jazeera. Más de veinte localidades quedaron bajo una nueva categoría de alerta de 'ola de calor extrema', y el gobierno activó una respuesta de emergencia de nivel 2 tras cinco días consecutivos por encima de los 40 °C."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "La température atteint 42,5 °C à Yangsan, un record national.",
+          "en": "Temperature reaches 42.5°C in Yangsan, a national record.",
+          "es": "La temperatura alcanza los 42,5 °C en Yangsan, un récord nacional."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "iran-execution-manifestant",
+    "coords": [
+      54.9764,
+      36.4166
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "RFE/RL / HRANA",
+    "priority": 2,
+    "place": {
+      "fr": "Prison de Shahroud, province de Semnan, Iran",
+      "en": "Shahroud Prison, Semnan Province, Iran",
+      "es": "Prisión de Shahroud, provincia de Semnan, Irán"
+    },
+    "title": {
+      "fr": "Iran : exécution d'un jeune manifestant arrêté lors des manifestations de janvier",
+      "en": "Iran: young protester arrested during January demonstrations is executed",
+      "es": "Irán: ejecutan a un joven manifestante detenido durante las protestas de enero"
+    },
+    "summary": {
+      "fr": "Arvin Kheirkhah(an), arrêté lors des manifestations antigouvernementales de janvier 2026, a été exécuté le 1er août à la prison de Shahroud, dans la province de Semnan, après avoir été reconnu coupable de « moharebeh » (guerre contre Dieu) par un tribunal révolutionnaire, selon RFE/RL et l'organisation de défense des droits humains HRANA. Les sources divergent sur son âge exact — 19 ou 20 ans selon les organes consultés. Sa famille, rassemblée devant la prison pour tenter d'empêcher l'exécution, n'aurait pas obtenu la restitution du corps, selon HRANA.",
+      "en": "Arvin Kheirkhah(an), arrested during the January 2026 anti-government protests, was executed on August 1 at Shahroud Prison in Semnan Province after being convicted of 'moharebeh' (waging war against God) by a Revolutionary Court, according to RFE/RL and the human rights monitor HRANA. Sources differ on his exact age - reported as either 19 or 20 depending on the outlet. His family, who had gathered outside the prison in an attempt to stop the execution, reportedly had not been given his body back, according to HRANA.",
+      "es": "Arvin Kheirkhah(an), detenido durante las protestas antigubernamentales de enero de 2026, fue ejecutado el 1 de agosto en la prisión de Shahroud, provincia de Semnan, tras ser declarado culpable de 'moharebeh' (guerra contra Dios) por un tribunal revolucionario, según RFE/RL y la organización de derechos humanos HRANA. Las fuentes difieren sobre su edad exacta: 19 o 20 años según el medio consultado. Su familia, que se congregó frente a la prisión en un intento de detener la ejecución, no habría recibido el cuerpo, según HRANA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Exécution d'Arvin Kheirkhah(an) à la prison de Shahroud.",
+          "en": "Arvin Kheirkhah(an) is executed at Shahroud Prison.",
+          "es": "Arvin Kheirkhah(an) es ejecutado en la prisión de Shahroud."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "nigeria-attaque-kaduna",
+    "coords": [
+      8.35,
+      10.3
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "TheCable / Punch Nigeria",
+    "priority": 3,
+    "place": {
+      "fr": "Village de Naridon, zone de gouvernement local de Kauru, État de Kaduna, Nigeria",
+      "en": "Naridon village, Kauru Local Government Area, Kaduna State, Nigeria",
+      "es": "Aldea de Naridon, área de gobierno local de Kauru, estado de Kaduna, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : au moins 30 morts dans une attaque nocturne contre un village de l'État de Kaduna",
+      "en": "Nigeria: at least 30 killed in night attack on village in Kaduna State",
+      "es": "Nigeria: al menos 30 muertos en un ataque nocturno a una aldea del estado de Kaduna"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué le village de Naridon, dans la zone de gouvernement local de Kauru (État de Kaduna), dans la nuit du 26 au 27 juillet, ouvrant le feu sur les habitants et incendiant des maisons, selon TheCable et Punch Nigeria. Au moins 30 personnes ont été tuées, en majorité des femmes, des enfants et des personnes âgées ; les sources divergent sur le nombre exact d'enfants et l'appartenance religieuse des victimes. Aucun groupe n'a revendiqué l'attaque. Le département d'État américain a condamné les violences le 1er août et appelé le gouvernement nigérian à agir contre l'insécurité dans la « Middle Belt ».",
+      "en": "Gunmen attacked Naridon village, in Kauru Local Government Area (Kaduna State), on the night of July 26-27, opening fire on residents and setting homes ablaze, according to TheCable and Punch Nigeria. At least 30 people were killed, mostly women, children and the elderly; sources differ on the exact number of children and the victims' religious affiliation. No group has claimed responsibility. The US State Department condemned the violence on August 1 and urged the Nigerian government to act against insecurity in the 'Middle Belt.'",
+      "es": "Hombres armados atacaron la aldea de Naridon, en el área de gobierno local de Kauru (estado de Kaduna), en la noche del 26 al 27 de julio, disparando contra los residentes e incendiando viviendas, según TheCable y Punch Nigeria. Al menos 30 personas murieron, en su mayoría mujeres, niños y ancianos; las fuentes difieren sobre el número exacto de niños y la afiliación religiosa de las víctimas. Ningún grupo se ha atribuido el ataque. El Departamento de Estado de EE. UU. condenó la violencia el 1 de agosto e instó al gobierno nigeriano a actuar contra la inseguridad en el 'Cinturón Medio'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "27/07/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent le village de Naridon dans la nuit, tuant au moins 30 personnes.",
+          "en": "Gunmen attack Naridon village overnight, killing at least 30 people.",
+          "es": "Hombres armados atacan la aldea de Naridon durante la noche, matando al menos a 30 personas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Le département d'État américain condamne l'attaque et appelle à agir contre l'insécurité régionale.",
+          "en": "The US State Department condemns the attack and calls for action against regional insecurity.",
+          "es": "El Departamento de Estado de EE. UU. condena el ataque y pide actuar contra la inseguridad regional."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "gaza-annonce-desarmement-hamas",
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "NPR / NBC News / CNN",
+    "priority": 1,
+    "place": {
+      "fr": "Bande de Gaza / Washington, États-Unis",
+      "en": "Gaza Strip / Washington, D.C., United States",
+      "es": "Franja de Gaza / Washington D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Le président Trump annonce un accord sur le désarmement du Hamas, contesté par les parties",
+      "en": "President Trump announces Hamas disarmament deal, disputed by the parties involved",
+      "es": "El presidente Trump anuncia un acuerdo sobre el desarme de Hamás, cuestionado por las partes"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a annoncé le 31 juillet depuis Washington que son « Board of Peace » était parvenu à un accord prévoyant le désarmement du Hamas, environ neuf mois après le cessez-le-feu négocié par les États-Unis en octobre 2025, selon NPR, NBC News et CNN. Ni le Hamas ni Israël n'ont confirmé les termes exacts de cet accord. Un responsable du Hamas a déclaré qu'un retrait israélien de Gaza devait précéder tout désarmement, et a lié la question à une future souveraineté palestinienne, non mentionnée par M. Trump et rejetée par Israël. De son côté, le premier ministre Benjamin Netanyahou a affirmé qu'Israël ne se retirerait pas « de ses lignes actuelles » tant que le Hamas ne serait pas « entièrement désarmé ». Le Qatar, l'Égypte et la Turquie ont appelé conjointement à la protection des civils et à l'application du cessez-le-feu.",
+      "en": "US President Donald Trump announced from Washington on July 31 that his 'Board of Peace' had reached a deal for Hamas to disarm, roughly nine months after the US-brokered October 2025 ceasefire, according to NPR, NBC News and CNN. Neither Hamas nor Israel confirmed the exact terms of the deal. A Hamas official said an Israeli withdrawal from Gaza must come first, and tied disarmament to future Palestinian statehood, which Trump did not mention and which Israel rejects. Prime Minister Benjamin Netanyahu said for his part that Israel would not withdraw 'from our current lines' until Hamas is 'completely disarmed.' Qatar, Egypt and Türkiye jointly called for the protection of civilians and implementation of the ceasefire.",
+      "es": "El presidente estadounidense Donald Trump anunció el 31 de julio desde Washington que su 'Consejo de Paz' había alcanzado un acuerdo para el desarme de Hamás, unos nueve meses después del alto el fuego negociado por Estados Unidos en octubre de 2025, según NPR, NBC News y CNN. Ni Hamás ni Israel confirmaron los términos exactos del acuerdo. Un responsable de Hamás afirmó que una retirada israelí de Gaza debía preceder a cualquier desarme, y vinculó la cuestión a una futura estatalidad palestina, que Trump no mencionó y que Israel rechaza. Por su parte, el primer ministro Benjamín Netanyahu declaró que Israel no se retirará 'de sus líneas actuales' hasta que Hamás esté 'completamente desarmado'. Catar, Egipto y Turquía pidieron conjuntamente proteger a los civiles y aplicar el alto el fuego."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Donald Trump annonce depuis Washington un accord sur le désarmement du Hamas ; Israël et le Hamas expriment des positions divergentes.",
+          "en": "Donald Trump announces a Hamas disarmament deal from Washington; Israel and Hamas voice differing positions.",
+          "es": "Donald Trump anuncia desde Washington un acuerdo sobre el desarme de Hamás; Israel y Hamás expresan posturas divergentes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
+  },
+  {
+    "id": "bresil-taux-selic",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Reuters (sondage) / Rio Times",
+    "priority": 2,
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : la banque centrale devrait abaisser son taux directeur à 14 % ce mercredi",
+      "en": "Brazil: central bank expected to cut key rate to 14% on Wednesday",
+      "es": "Brasil: se espera que el banco central baje su tasa de referencia al 14 % este miércoles"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire (Copom) de la Banque centrale du Brésil se réunissait le 5 août pour statuer sur son taux directeur Selic, avec une décision attendue en soirée après la clôture des marchés. Selon un sondage Reuters cité par Rio Times, 38 des 42 analystes interrogés anticipaient une baisse d'un quart de point, de 14,25 % à 14,00 %, ce qui constituerait la quatrième baisse consécutive du cycle d'assouplissement entamé en mars. Le résultat définitif n'était pas encore connu au moment de la rédaction de cet article.",
+      "en": "The Central Bank of Brazil's monetary policy committee (Copom) was meeting on August 5 to decide on its Selic benchmark rate, with a decision expected in the evening after markets close. According to a Reuters poll cited by Rio Times, 38 of 42 analysts surveyed expected a quarter-point cut, from 14.25% to 14.00%, which would mark the fourth consecutive reduction in the easing cycle that began in March. The final outcome was not yet known at the time of writing.",
+      "es": "El comité de política monetaria (Copom) del Banco Central de Brasil se reunía el 5 de agosto para decidir sobre su tasa de referencia Selic, con una decisión esperada por la noche tras el cierre de los mercados. Según una encuesta de Reuters citada por Rio Times, 38 de los 42 analistas consultados esperaban un recorte de un cuarto de punto, del 14,25 % al 14,00 %, lo que marcaría la cuarta reducción consecutiva del ciclo de flexibilización iniciado en marzo. El resultado definitivo no se conocía aún al momento de escribir esta nota."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le Copom se réunit ; une baisse du taux Selic à 14 % est largement anticipée par les analystes.",
+          "en": "Copom meets; a cut in the Selic rate to 14% is widely expected by analysts.",
+          "es": "El Copom se reúne; los analistas esperan mayoritariamente un recorte de la Selic al 14 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "related": []
   }
 ]
