@@ -184,7 +184,7 @@
     "severe": true,
     "category": "securite",
     "icon": "💥",
-    "source": "Le Temps",
+    "source": "Le Temps / Interfax-Ukraine / Ukrainian Shipping Magazine",
     "place": {
       "fr": "Odessa, Ukraine",
       "en": "Odesa, Ukraine",
@@ -196,9 +196,9 @@
       "es": "Un ataque ruso al puerto de Odesa deja al menos 3 muertos"
     },
     "summary": {
-      "fr": "Des attaques russes sur un navire civil dans le port de la région d'Odessa et sur deux autres bateaux en mer Noire ont fait au moins trois morts le 15 juillet, selon les autorités ukrainiennes.",
-      "en": "Russian attacks on a civilian ship in the port of the Odesa region and on two other vessels in the Black Sea killed at least three people on July 15, according to Ukrainian authorities.",
-      "es": "Ataques rusos contra un buque civil en el puerto de la región de Odesa y contra otras dos embarcaciones en el mar Negro dejaron al menos tres muertos el 15 de julio, según las autoridades ucranianas."
+      "fr": "Des attaques russes sur un navire civil dans le port de la région d'Odessa et sur deux autres bateaux en mer Noire ont fait au moins trois morts le 15 juillet, selon les autorités ukrainiennes. Le 5 août, une nouvelle frappe russe a touché le cargo civil Mera Queen près d'Odessa, tuant un marin ukrainien, selon Interfax-Ukraine ; les attaques russes contre les infrastructures portuaires et les navires civils dans la région se poursuivent quasi quotidiennement depuis plus d'un mois.",
+      "en": "Russian attacks on a civilian ship in the port of the Odesa region and on two other vessels in the Black Sea killed at least three people on July 15, according to Ukrainian authorities. On August 5, a new Russian strike hit the civilian cargo ship Mera Queen near Odesa, killing a Ukrainian sailor, according to Interfax-Ukraine; Russian attacks on port infrastructure and civilian vessels in the region have continued on a near-daily basis for more than a month.",
+      "es": "Ataques rusos contra un buque civil en el puerto de la región de Odesa y contra otras dos embarcaciones en el mar Negro dejaron al menos tres muertos el 15 de julio, según las autoridades ucranianas. El 5 de agosto, un nuevo ataque ruso alcanzó el buque de carga civil Mera Queen cerca de Odesa, matando a un marinero ucraniano, según Interfax-Ucrania; los ataques rusos contra la infraestructura portuaria y los buques civiles de la región continúan de forma casi diaria desde hace más de un mes."
     },
     "timeline": [
       {
@@ -212,10 +212,23 @@
           "en": "Ukrainian authorities report at least 3 deaths after Russian strikes on civilian ships near Odesa.",
           "es": "Las autoridades ucranianas informan de al menos 3 muertos tras ataques rusos contra buques civiles cerca de Odesa."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe russe touche le cargo civil Mera Queen près d'Odessa, tuant un marin ukrainien, selon Interfax-Ukraine ; la Russie affirme de son côté avoir visé des infrastructures portuaires à Odessa et Mykolaïv.",
+          "en": "A Russian strike hits the civilian cargo ship Mera Queen near Odesa, killing a Ukrainian sailor, according to Interfax-Ukraine; Russia says it targeted port infrastructure in Odesa and Mykolaiv.",
+          "es": "Un ataque ruso alcanza el buque de carga civil Mera Queen cerca de Odesa, matando a un marinero ucraniano, según Interfax-Ucrania; Rusia afirma haber atacado infraestructura portuaria en Odesa y Mykolaiv."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W32",
     "priority": 2
   },
   {
@@ -235,14 +248,14 @@
       "es": "Garrucha (Almería), España"
     },
     "title": {
-      "fr": "Le bilan d'un incendie dans le sud de l'Espagne s'alourdit à 13 morts",
-      "en": "Death toll from wildfire in southern Spain rises to 13",
-      "es": "El balance de un incendio en el sur de España se eleva a 13 muertos"
+      "fr": "Le bilan de l'incendie du sud de l'Espagne atteint 14 morts, les familles rejoignent la procédure judiciaire",
+      "en": "Death toll from wildfire in southern Spain reaches 14 as families join legal proceedings",
+      "es": "El balance del incendio en el sur de España llega a 14 muertos y las familias se suman al proceso judicial"
     },
     "summary": {
-      "fr": "Le bilan d'un incendie survenu dans le sud de l'Espagne s'est alourdi à 13 morts après le décès d'une Britannique de 93 ans hospitalisée à Almería, selon le gouvernement régional d'Andalousie.",
-      "en": "The death toll from a wildfire in southern Spain has risen to 13 after the death of a 93-year-old British woman hospitalized in Almería, according to the Andalusian regional government.",
-      "es": "El balance de un incendio ocurrido en el sur de España se elevó a 13 muertos tras el fallecimiento de una británica de 93 años hospitalizada en Almería, según el gobierno regional de Andalucía."
+      "fr": "Le bilan d'un incendie survenu dans le sud de l'Espagne s'est alourdi à 13 morts après le décès d'une Britannique de 93 ans hospitalisée à Almería, selon le gouvernement régional d'Andalousie. Un quatorzième décès a été enregistré fin juillet. Le 5 août, le tribunal de Vera a convoqué les familles des 14 victimes pour qu'elles se constituent parties civiles dans l'enquête pénale, une audience étant prévue le 7 août ; la piste d'un poteau électrique tombé au bord d'une route reste privilégiée par la Guardia Civil, sans confirmation officielle de la cause.",
+      "en": "The death toll from a wildfire in southern Spain has risen to 13 after the death of a 93-year-old British woman hospitalized in Almería, according to the Andalusian regional government. A fourteenth death was recorded in late July. On August 5, the Vera court summoned the families of the 14 victims to join the criminal investigation as private prosecutors, with a hearing set for August 7; a fallen roadside electrical pole remains the leading hypothesis for the fire's cause according to the Guardia Civil, though this has not been officially confirmed.",
+      "es": "El balance de un incendio ocurrido en el sur de España se elevó a 13 muertos tras el fallecimiento de una británica de 93 años hospitalizada en Almería, según el gobierno regional de Andalucía. Se registró un decimocuarto fallecimiento a finales de julio. El 5 de agosto, el juzgado de Vera citó a las familias de las 14 víctimas para que se personaran como acusación particular en la investigación penal, con una audiencia prevista para el 7 de agosto; la hipótesis de un poste eléctrico caído junto a una carretera sigue siendo la principal para la Guardia Civil, sin confirmación oficial de la causa."
     },
     "timeline": [
       {
@@ -256,10 +269,23 @@
           "en": "The Andalusian regional government announces the death of another victim, bringing the toll to 13.",
           "es": "El gobierno regional de Andalucía anuncia el fallecimiento de una nueva víctima, elevando el balance a 13 muertos."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Vera convoque les familles des 14 victimes pour qu'elles se constituent parties civiles dans l'enquête pénale sur l'origine de l'incendie, selon Moncloa.com.",
+          "en": "The Vera court summons the families of the 14 victims to join the criminal investigation into the fire's origin as private prosecutors, according to Moncloa.com.",
+          "es": "El juzgado de Vera cita a las familias de las 14 víctimas para que se personen como acusación particular en la investigación penal sobre el origen del incendio, según Moncloa.com."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W32",
     "priority": 2
   },
   {
@@ -479,14 +505,14 @@
       "es": "Norte de Venezuela (región de Caracas)"
     },
     "title": {
-      "fr": "Un double séisme dans le nord du Venezuela fait près de 3000 morts",
-      "en": "Double earthquake in northern Venezuela kills nearly 3,000",
-      "es": "Un doble terremoto en el norte de Venezuela deja casi 3000 muertos"
+      "fr": "Le bilan du séisme au Venezuela dépasse les 6000 morts, selon un bilan gouvernemental",
+      "en": "Venezuela earthquake death toll passes 6,000, according to a government count",
+      "es": "El balance del terremoto en Venezuela supera los 6000 muertos, según un recuento gubernamental"
     },
     "summary": {
-      "fr": "Un double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres.",
-      "en": "A double earthquake that devastated northern Venezuela has killed nearly 3,000 people, according to official figures. International rescue teams are gradually winding down the search for survivors in the rubble.",
-      "es": "Un doble terremoto que devastó el norte de Venezuela dejó casi 3000 muertos, según cifras oficiales. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros."
+      "fr": "Un double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres. Le 3 août, le président de l'Assemblée nationale, Jorge Rodríguez, a annoncé un bilan actualisé de 6125 morts et environ 61 000 personnes prises en charge à l'hôpital, selon Al Jazeera. Ce chiffre, très supérieur au bilan précédent, émane des autorités vénézuéliennes elles-mêmes et n'a pas pu être vérifié de manière indépendante.",
+      "en": "A double earthquake that devastated northern Venezuela has killed nearly 3,000 people, according to official figures. International rescue teams are gradually winding down the search for survivors in the rubble. On August 3, National Assembly President Jorge Rodríguez announced an updated toll of 6,125 deaths and around 61,000 people treated in hospitals, according to Al Jazeera. This figure, far higher than the earlier count, comes from Venezuelan authorities themselves and could not be independently verified.",
+      "es": "Un doble terremoto que devastó el norte de Venezuela dejó casi 3000 muertos, según cifras oficiales. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros. El 3 de agosto, el presidente de la Asamblea Nacional, Jorge Rodríguez, anunció un balance actualizado de 6125 muertos y unas 61 000 personas atendidas en hospitales, según Al Jazeera. Esta cifra, muy superior al balance anterior, proviene de las propias autoridades venezolanas y no pudo ser verificada de forma independiente."
     },
     "timeline": [
       {
@@ -500,10 +526,23 @@
           "en": "Venezuelan authorities publish an official toll of nearly 3,000 deaths.",
           "es": "Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement vénézuélien annonce un bilan actualisé de 6125 morts, un chiffre non confirmé de façon indépendante, selon Al Jazeera.",
+          "en": "The Venezuelan government announces an updated toll of 6,125 deaths, a figure not independently confirmed, according to Al Jazeera.",
+          "es": "El gobierno venezolano anuncia un balance actualizado de 6125 muertos, una cifra no confirmada de forma independiente, según Al Jazeera."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W32",
     "priority": 3
   },
   {
@@ -693,7 +732,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W32",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +744,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban. Le 5 août, l'Iran a annoncé être parvenu à un accord avec Oman sur un itinéraire de navigation à travers le détroit d'Ormuz, sous réserve de la levée du blocus naval américain ; cet accord préliminaire n'implique pas encore de réouverture effective, selon Bloomberg et Al Jazeera.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon. On August 5, Iran announced it had reached an agreement with Oman on a shipping route through the Strait of Hormuz, contingent on the US lifting its naval blockade; this preliminary agreement does not yet mean the strait has effectively reopened, according to Bloomberg and Al Jazeera.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano. El 5 de agosto, Irán anunció haber llegado a un acuerdo con Omán sobre una ruta de navegación a través del estrecho de Ormuz, condicionado al levantamiento del bloqueo naval estadounidense; este acuerdo preliminar no implica todavía una reapertura efectiva, según Bloomberg y Al Jazeera."
     },
     "timeline": [
       {
@@ -733,6 +772,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "L'Iran annonce un accord avec Oman sur les coordonnées d'un « corridor central » de navigation dans le détroit d'Ormuz, sous contrôle conjoint irano-omanais ; Téhéran conditionne toute réouverture à la levée du blocus naval américain. Le même jour, les Houthis du Yémen revendiquent une frappe de missile balistique contre un pétrolier saoudien au large de Yanbu, sans confirmation saoudienne, selon Bloomberg, Al Jazeera et CNN.",
+          "en": "Iran announces an agreement with Oman on the coordinates of a 'middle corridor' shipping route through the Strait of Hormuz, under joint Iranian-Omani control; Tehran makes any reopening contingent on the US lifting its naval blockade. The same day, Yemen's Houthis claim a ballistic-missile strike on a Saudi oil tanker off Yanbu, unconfirmed by Saudi authorities, according to Bloomberg, Al Jazeera and CNN.",
+          "es": "Irán anuncia un acuerdo con Omán sobre las coordenadas de un «corredor central» de navegación en el estrecho de Ormuz, bajo control conjunto irano-omaní; Teherán condiciona cualquier reapertura al levantamiento del bloqueo naval estadounidense. El mismo día, los hutíes de Yemen reivindican un ataque con misil balístico contra un petrolero saudí frente a Yanbu, sin confirmación saudí, según Bloomberg, Al Jazeera y CNN."
         },
         "active": true
       }
@@ -828,6 +880,845 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -114.4609,
+      42.5629
+    ],
+    "id": "idaho-fusillade-innout",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ABC News / CBS News / Al Jazeera / Idaho Capital Sun",
+    "place": {
+      "fr": "Twin Falls, Idaho, États-Unis",
+      "en": "Twin Falls, Idaho, United States",
+      "es": "Twin Falls, Idaho, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade devant un restaurant fait 3 morts à Twin Falls, dans l'Idaho",
+      "en": "A shooting outside a restaurant kills 3 in Twin Falls, Idaho",
+      "es": "Un tiroteo frente a un restaurante deja 3 muertos en Twin Falls, Idaho"
+    },
+    "summary": {
+      "fr": "Un homme de 24 ans, identifié comme Chad Williams, a ouvert le feu samedi 1er août devant un restaurant In-N-Out Burger à Twin Falls, dans l'Idaho, tuant trois personnes — dont un employé de l'établissement — et en blessant sept autres, selon ABC News, CBS News et Al Jazeera. Un passant armé, un policier hors service, a riposté et mis le tireur en fuite ; Williams est mort peu après d'une blessure par arme à feu que les autorités jugent autoinfligée. Le FBI a ouvert une ligne d'appel pour recueillir des informations ; le mobile de l'attaque reste sous enquête.",
+      "en": "A 24-year-old man identified as Chad Williams opened fire on Saturday, August 1 outside an In-N-Out Burger restaurant in Twin Falls, Idaho, killing three people — including a restaurant employee — and wounding seven others, according to ABC News, CBS News and Al Jazeera. An armed bystander, an off-duty police officer, returned fire and drove the shooter from the scene; Williams died shortly after from a gunshot wound authorities believe was self-inflicted. The FBI opened a tip line to gather information; the motive for the attack remains under investigation.",
+      "es": "Un hombre de 24 años, identificado como Chad Williams, abrió fuego el sábado 1 de agosto frente a un restaurante In-N-Out Burger en Twin Falls, Idaho, matando a tres personas —entre ellas un empleado del local— y dejando siete heridos, según ABC News, CBS News y Al Jazeera. Un transeúnte armado, un policía fuera de servicio, respondió a los disparos y obligó al tirador a huir; Williams murió poco después de una herida de bala que las autoridades consideran autoinfligida. El FBI abrió una línea telefónica para recabar información; el móvil del ataque sigue bajo investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Un homme ouvre le feu devant un restaurant In-N-Out à Twin Falls, faisant 3 morts et 7 blessés avant de mourir d'une blessure jugée autoinfligée, selon ABC News et CBS News.",
+          "en": "A man opens fire outside an In-N-Out restaurant in Twin Falls, killing 3 and wounding 7 before dying of a wound believed to be self-inflicted, according to ABC News and CBS News.",
+          "es": "Un hombre abre fuego frente a un restaurante In-N-Out en Twin Falls, matando a 3 personas y dejando 7 heridas antes de morir de una herida que se cree autoinfligida, según ABC News y CBS News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -117.4967,
+      47.7186
+    ],
+    "id": "spokane-incendie-urbain",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Spokesman-Review / NBC News / NPR",
+    "place": {
+      "fr": "Spokane (quartier d'Indian Trail), État de Washington, États-Unis",
+      "en": "Spokane (Indian Trail neighborhood), Washington State, United States",
+      "es": "Spokane (barrio de Indian Trail), estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'incendie « Old Trails » devient le plus destructeur de l'histoire de l'État de Washington",
+      "en": "The 'Old Trails' fire becomes the most destructive in Washington state history",
+      "es": "El incendio «Old Trails» se convierte en el más destructivo de la historia del estado de Washington"
+    },
+    "summary": {
+      "fr": "Parti samedi 1er août, l'incendie « Old Trails » a franchi la rivière Spokane et brûlé une zone urbaine de la ville de Spokane, dans l'État de Washington, détruisant selon les estimations officielles entre 700 et plus de 1000 structures et forçant l'évacuation d'environ 65 000 personnes, selon le Spokesman-Review et NBC News. Aucun décès n'était confirmé au 3 août malgré des craintes initiales. Un homme de 37 ans a été arrêté lundi 3 août, soupçonné d'avoir allumé le feu à environ 6 km du point de départ.",
+      "en": "Ignited on Saturday, August 1, the 'Old Trails' fire jumped the Spokane River and burned through an urban area of the city of Spokane, Washington, destroying an estimated 700 to over 1,000 structures according to officials and forcing the evacuation of roughly 65,000 people, according to the Spokesman-Review and NBC News. No deaths had been confirmed as of August 3 despite initial fears. A 37-year-old man was arrested Monday, August 3, on suspicion of starting the fire about 4 miles (6 km) from where it began.",
+      "es": "Iniciado el sábado 1 de agosto, el incendio «Old Trails» cruzó el río Spokane y arrasó una zona urbana de la ciudad de Spokane, en el estado de Washington, destruyendo, según estimaciones oficiales, entre 700 y más de 1000 estructuras y obligando a evacuar a unas 65 000 personas, según el Spokesman-Review y NBC News. Ninguna muerte había sido confirmada hasta el 3 de agosto pese a los temores iniciales. Un hombre de 37 años fue arrestado el lunes 3 de agosto, sospechoso de haber provocado el fuego a unos 6 km del punto de origen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Un homme de 37 ans est arrêté, soupçonné d'avoir allumé l'incendie ; le bilan des structures détruites est réévalué entre 700 et plus de 1000, selon des sources officielles citées par le Spokesman-Review et NBC News.",
+          "en": "A 37-year-old man is arrested on suspicion of starting the fire; the toll of destroyed structures is revised to between 700 and over 1,000, according to official sources cited by the Spokesman-Review and NBC News.",
+          "es": "Un hombre de 37 años es arrestado, sospechoso de haber provocado el incendio; el balance de estructuras destruidas se revisa entre 700 y más de 1000, según fuentes oficiales citadas por el Spokesman-Review y NBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -119.35,
+      50.27
+    ],
+    "id": "canada-cb-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / EmergencyInfoBC",
+    "place": {
+      "fr": "Vallée de l'Okanagan (près de Vernon), Colombie-Britannique, Canada",
+      "en": "Okanagan Valley (near Vernon), British Columbia, Canada",
+      "es": "Valle de Okanagan (cerca de Vernon), Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "L'incendie de Bradley Creek double de taille et force de nouvelles évacuations en Colombie-Britannique",
+      "en": "The Bradley Creek wildfire doubles in size, forcing new evacuations in British Columbia",
+      "es": "El incendio de Bradley Creek duplica su tamaño y obliga a nuevas evacuaciones en Columbia Británica"
+    },
+    "summary": {
+      "fr": "L'incendie hors de contrôle de Bradley Creek, détecté le 31 juillet près du lac Okanagan, a plus que doublé de superficie pour atteindre environ 26 km² durant le week-end du 1er-2 août, selon CBC News. Des ordres d'évacuation obligatoire ont été émis pour la réserve principale de la Bande indienne d'Okanagan, la Première Nation de Splatsin et le canton de Spallumcheen. Le Canada comptait début août entre 800 et 900 feux de forêt actifs sur son territoire, selon les autorités provinciales.",
+      "en": "The out-of-control Bradley Creek wildfire, detected on July 31 near Okanagan Lake, more than doubled in size to roughly 26 km² over the August 1–2 weekend, according to CBC News. Mandatory evacuation orders were issued for the Okanagan Indian Band's main reserve, the Splatsin First Nation and the Township of Spallumcheen. Canada had between 800 and 900 active wildfires nationwide in early August, according to provincial authorities.",
+      "es": "El incendio fuera de control de Bradley Creek, detectado el 31 de julio cerca del lago Okanagan, más que duplicó su superficie hasta unos 26 km² durante el fin de semana del 1 y 2 de agosto, según CBC News. Se emitieron órdenes de evacuación obligatoria para la reserva principal de la Banda Indígena de Okanagan, la Primera Nación Splatsin y el municipio de Spallumcheen. Canadá contaba a principios de agosto con entre 800 y 900 incendios forestales activos en su territorio, según las autoridades provinciales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie de Bradley Creek double de superficie en un week-end, entraînant des ordres d'évacuation obligatoire pour plusieurs communautés, selon CBC News.",
+          "en": "The Bradley Creek wildfire doubles in size over a weekend, prompting mandatory evacuation orders for several communities, according to CBC News.",
+          "es": "El incendio de Bradley Creek duplica su superficie en un fin de semana, provocando órdenes de evacuación obligatoria para varias comunidades, según CBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -107.394,
+      24.8091
+    ],
+    "id": "mexique-influenceur-tue",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎥",
+    "source": "Reuters / NBC News / CNN",
+    "place": {
+      "fr": "Culiacán, État de Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa State, Mexico",
+      "es": "Culiacán, estado de Sinaloa, México"
+    },
+    "title": {
+      "fr": "Un influenceur mexicain tué par balles en direct lors d'un live sur les réseaux sociaux",
+      "en": "A Mexican influencer is shot dead on camera during a livestream",
+      "es": "Un influenciador mexicano muere baleado en directo durante una transmisión en vivo"
+    },
+    "summary": {
+      "fr": "L'influenceur César Gastélum, suivi par près de 600 000 personnes sur TikTok, a été abattu mardi 4 août alors qu'il diffusait en direct devant un restaurant de Culiacán, selon des images vérifiées par Reuters. Deux individus à moto, casqués, se sont approchés avant que l'un d'eux ne tire directement sur lui. Le cabinet fédéral de sécurité mexicain examine un possible lien avec des publications de la victime évoquant une faction d'un groupe criminel ; l'affaire s'inscrit dans une série d'au moins six créateurs de contenu tués dans un contexte de rivalité entre factions du cartel de Sinaloa, selon Reuters.",
+      "en": "Influencer César Gastélum, followed by nearly 600,000 people on TikTok, was shot dead on Tuesday, August 4 while livestreaming outside a restaurant in Culiacán, according to footage verified by Reuters. Two helmeted individuals on a motorcycle approached before one of them fired directly at him. Mexico's federal security cabinet is examining a possible link to posts by the victim referencing a faction of a criminal group; the case is part of a string of at least six content creators killed amid rivalry between factions of the Sinaloa cartel, according to Reuters.",
+      "es": "El influenciador César Gastélum, seguido por casi 600 000 personas en TikTok, fue asesinado a tiros el martes 4 de agosto mientras transmitía en vivo frente a un restaurante de Culiacán, según imágenes verificadas por Reuters. Dos personas en moto, con casco, se acercaron antes de que una de ellas le disparara directamente. El gabinete federal de seguridad de México examina un posible vínculo con publicaciones de la víctima sobre una facción de un grupo criminal; el caso se suma a una serie de al menos seis creadores de contenido asesinados en un contexto de rivalidad entre facciones del cártel de Sinaloa, según Reuters."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "César Gastélum est abattu en direct devant un restaurant de Culiacán par deux individus à moto, selon des images vérifiées par Reuters.",
+          "en": "César Gastélum is shot dead on camera outside a restaurant in Culiacán by two individuals on a motorcycle, according to footage verified by Reuters.",
+          "es": "César Gastélum es asesinado en directo frente a un restaurante de Culiacán por dos personas en moto, según imágenes verificadas por Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      130.85,
+      32.77
+    ],
+    "id": "japon-kumamoto-explosion-centre-commercial",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The Japan Times / NBC News",
+    "place": {
+      "fr": "Aeon Mall Kumamoto, Kashima-machi, préfecture de Kumamoto, Japon",
+      "en": "Aeon Mall Kumamoto, Kashima-machi, Kumamoto Prefecture, Japan",
+      "es": "Aeon Mall Kumamoto, Kashima-machi, prefectura de Kumamoto, Japón"
+    },
+    "title": {
+      "fr": "Kumamoto : des employées avaient été renvoyées dans le centre commercial avant l'explosion mortelle",
+      "en": "Kumamoto: employees were ordered back into the mall before the deadly explosion",
+      "es": "Kumamoto: empleadas habían sido enviadas de vuelta al centro comercial antes de la explosión mortal"
+    },
+    "summary": {
+      "fr": "Après le séisme de magnitude 6,8-7,1 qui a frappé la préfecture de Kumamoto le 28 juillet 2026 (au moins 38 morts), une explosion liée à une fuite de gaz a ravagé l'Aeon Mall Kumamoto alors qu'environ 3000 clients avaient déjà évacué ; douze employés sont morts. Le 2 puis le 4 août, des responsables de l'entreprise ont confirmé que des employées avaient reçu l'ordre de retourner dans le bâtiment après avoir évacué, notamment pour mettre les recettes en sécurité dans un coffre, selon le Japan Times et NBC News.",
+      "en": "Following the magnitude 6.8–7.1 earthquake that struck Kumamoto Prefecture on July 28, 2026 (at least 38 dead), a gas-leak explosion tore through the Aeon Mall Kumamoto after roughly 3,000 shoppers had already evacuated; twelve employees died. On August 2 and again on August 4, company executives confirmed that some female employees had been ordered back into the building after evacuating, in part to secure sales proceeds in a safe, according to the Japan Times and NBC News.",
+      "es": "Tras el terremoto de magnitud 6,8-7,1 que sacudió la prefectura de Kumamoto el 28 de julio de 2026 (al menos 38 muertos), una explosión por fuga de gas devastó el Aeon Mall Kumamoto después de que unos 3000 clientes ya hubieran evacuado; doce empleados murieron. El 2 y luego el 4 de agosto, directivos de la empresa confirmaron que algunas empleadas habían recibido la orden de regresar al edificio tras haber evacuado, entre otras razones para guardar la recaudación en una caja fuerte, según el Japan Times y NBC News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Le Japan Times précise qu'au total cinq employés évacués avaient été renvoyés dans le bâtiment avant l'explosion, qui a fait douze morts au total parmi le personnel.",
+          "en": "The Japan Times reports that a total of five evacuated employees had been sent back into the building before the explosion, which killed twelve staff members in total.",
+          "es": "El Japan Times precisa que un total de cinco empleados evacuados habían sido enviados de vuelta al edificio antes de la explosión, que causó doce muertos en total entre el personal."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      131.23,
+      25.83
+    ],
+    "id": "japon-typhon-dolphin",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Agence météorologique du Japon / News On Japan",
+    "place": {
+      "fr": "Îles Daito et Okinawa, Japon",
+      "en": "Daito Islands and Okinawa, Japan",
+      "es": "Islas Daito y Okinawa, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin approche des îles Daito et d'Okinawa avec des rafales dépassant 40 m/s",
+      "en": "Typhoon Dolphin approaches the Daito Islands and Okinawa with gusts exceeding 40 m/s",
+      "es": "El tifón Dolphin se acerca a las islas Daito y Okinawa con ráfagas superiores a 40 m/s"
+    },
+    "summary": {
+      "fr": "Le typhon n°13, baptisé Dolphin et décrit comme large et puissant, se trouvait à environ 350 km à l'est de l'île de Minami-Daito à 5h du matin le 6 août, selon l'Agence météorologique du Japon relayée par News On Japan. Des rafales dépassant 20 m/s étaient déjà enregistrées sur les îles Daito, avec un risque de rafales supérieures à 40-50 m/s attendu sur la région d'Amami et l'île principale d'Okinawa d'ici le 6-7 août. Un risque accru de glissements de terrain est aussi signalé dans la préfecture de Kumamoto, encore fragilisée par le séisme de juillet.",
+      "en": "Typhoon No. 13, named Dolphin and described as large and powerful, was about 350 km east of Minami-Daito Island at 5 a.m. on August 6, according to the Japan Meteorological Agency as relayed by News On Japan. Gusts exceeding 20 m/s were already being recorded on the Daito Islands, with gusts potentially exceeding 40–50 m/s expected to spread to the Amami region and Okinawa's main island by August 6–7. An elevated landslide risk was also flagged for Kumamoto Prefecture, still weakened by July's earthquake.",
+      "es": "El tifón n.º 13, bautizado Dolphin y descrito como grande y potente, se encontraba a unos 350 km al este de la isla Minami-Daito a las 5 de la madrugada del 6 de agosto, según la Agencia Meteorológica de Japón, citada por News On Japan. Ya se registraban ráfagas superiores a 20 m/s en las islas Daito, con riesgo de ráfagas de más de 40-50 m/s previstas para la región de Amami y la isla principal de Okinawa hacia el 6-7 de agosto. También se advirtió un mayor riesgo de deslizamientos de tierra en la prefectura de Kumamoto, aún fragilizada por el terremoto de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "06/08/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dolphin se rapproche des îles Daito avec des rafales dépassant déjà 20 m/s, selon l'Agence météorologique du Japon.",
+          "en": "Typhoon Dolphin approaches the Daito Islands with gusts already exceeding 20 m/s, according to the Japan Meteorological Agency.",
+          "es": "El tifón Dolphin se acerca a las islas Daito con ráfagas que ya superan los 20 m/s, según la Agencia Meteorológica de Japón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      129.04,
+      35.34
+    ],
+    "id": "coree-sud-canicule",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Agence de contrôle des maladies de Corée (KDCA) / Reuters",
+    "place": {
+      "fr": "Corée du Sud (température record enregistrée à Yangsan)",
+      "en": "South Korea (record temperature recorded in Yangsan)",
+      "es": "Corea del Sur (temperatura récord registrada en Yangsan)"
+    },
+    "title": {
+      "fr": "Le président sud-coréen déclare une « catastrophe nationale » après une vague de chaleur record",
+      "en": "South Korea's president declares a 'national disaster' after a record heatwave",
+      "es": "El presidente surcoreano declara «catástrofe nacional» tras una ola de calor récord"
+    },
+    "summary": {
+      "fr": "Une vague de chaleur a fait au moins 19 morts en Corée du Sud au 4 août, selon l'Agence de contrôle des maladies (KDCA), dont 13 personnes de plus de 80 ans ; un bilan plus élevé de 21 morts a circulé dans certains médias sans confirmation officielle. La ville de Yangsan a enregistré 42,5°C dimanche 2 août, un record en 122 ans de mesures. Le président Lee Jae-myung a déclaré l'état de catastrophe nationale le 4 août et ordonné des mesures d'urgence. La Ligue coréenne de baseball a suspendu tous ses matchs jusqu'au 6 août après le malaise cardiaque d'un spectateur.",
+      "en": "A heatwave killed at least 19 people in South Korea as of August 4, according to the Korea Disease Control and Prevention Agency (KDCA), 13 of them aged 80 or older; a higher toll of 21 circulated in some media without official confirmation. The city of Yangsan recorded 42.5°C on Sunday, August 2 — a record in 122 years of measurements. President Lee Jae-myung declared a national disaster on August 4 and ordered emergency measures. The Korea Baseball Organization suspended all games through August 6 after a fan suffered cardiac arrest.",
+      "es": "Una ola de calor dejó al menos 19 muertos en Corea del Sur hasta el 4 de agosto, según la Agencia de Control y Prevención de Enfermedades (KDCA), 13 de ellos mayores de 80 años; un balance más alto de 21 circuló en algunos medios sin confirmación oficial. La ciudad de Yangsan registró 42,5°C el domingo 2 de agosto, un récord en 122 años de mediciones. El presidente Lee Jae-myung declaró el estado de catástrofe nacional el 4 de agosto y ordenó medidas de emergencia. La Liga de Béisbol de Corea suspendió todos los partidos hasta el 6 de agosto tras el paro cardíaco de un aficionado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Le président Lee Jae-myung déclare l'état de catastrophe nationale face à la canicule, alors que le bilan officiel atteint 19 morts, selon la KDCA.",
+          "en": "President Lee Jae-myung declares a national disaster over the heatwave as the official toll reaches 19 deaths, according to the KDCA.",
+          "es": "El presidente Lee Jae-myung declara el estado de catástrofe nacional por la ola de calor, mientras el balance oficial alcanza los 19 muertos, según la KDCA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      107.49,
+      31.19
+    ],
+    "id": "chine-dazhou-corruption",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "China.org.cn / Caixin Global",
+    "place": {
+      "fr": "Tribunal populaire intermédiaire de Dazhou, province du Sichuan, Chine",
+      "en": "Intermediate People's Court of Dazhou, Sichuan Province, China",
+      "es": "Tribunal Popular Intermedio de Dazhou, provincia de Sichuan, China"
+    },
+    "title": {
+      "fr": "Un ex-haut responsable chinois de l'industrie de défense condamné à 10 ans de prison pour corruption",
+      "en": "Former Chinese defense-industry official sentenced to 10 years for bribery",
+      "es": "Un exalto funcionario chino de la industria de defensa es condenado a 10 años de prisión por soborno"
+    },
+    "summary": {
+      "fr": "Zhang Jianhua, ancien directeur adjoint de l'Administration d'État chinoise pour la science, la technologie et l'industrie de défense nationale, a été condamné le 5 août à 10 ans de prison et à une amende de 3,8 millions de yuans (environ 560 000 dollars) pour corruption, selon les médias officiels chinois relayés par Caixin Global. Le tribunal a établi qu'entre 2008 et 2025, il avait facilité des approbations administratives et des opérations d'investissement en échange de plus de 43,38 millions de yuans en argent et en biens.",
+      "en": "Zhang Jianhua, former deputy head of China's State Administration of Science, Technology and Industry for National Defense, was sentenced on August 5 to 10 years in prison and fined 3.8 million yuan (about $560,000) for bribery, according to official Chinese media relayed by Caixin Global. The court found that between 2008 and 2025 he had facilitated administrative approvals and investment deals in exchange for more than 43.38 million yuan in money and valuables.",
+      "es": "Zhang Jianhua, exsubdirector de la Administración Estatal china de Ciencia, Tecnología e Industria para la Defensa Nacional, fue condenado el 5 de agosto a 10 años de prisión y a una multa de 3,8 millones de yuanes (unos 560 000 dólares) por soborno, según medios oficiales chinos citados por Caixin Global. El tribunal determinó que entre 2008 y 2025 facilitó aprobaciones administrativas y operaciones de inversión a cambio de más de 43,38 millones de yuanes en dinero y bienes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Zhang Jianhua est condamné à 10 ans de prison pour corruption par le tribunal de Dazhou, selon les médias officiels chinois.",
+          "en": "Zhang Jianhua is sentenced to 10 years in prison for bribery by the Dazhou court, according to official Chinese media.",
+          "es": "Zhang Jianhua es condenado a 10 años de prisión por soborno por el tribunal de Dazhou, según medios oficiales chinos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      114.0,
+      -7.0
+    ],
+    "id": "indonesie-incendie-ferry",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / NPR / Agence SAR indonésienne",
+    "place": {
+      "fr": "Détroit de Madura, au large de Sumenep, Java oriental, Indonésie",
+      "en": "Madura Strait, off Sumenep, East Java, Indonesia",
+      "es": "Estrecho de Madura, frente a Sumenep, Java Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry indonésien prend feu en mer : au moins 5 morts et des dizaines de disparus",
+      "en": "Indonesian ferry catches fire at sea: at least 5 dead and dozens missing",
+      "es": "Un ferry indonesio se incendia en el mar: al menos 5 muertos y decenas de desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry KM Mutiara Sentosa 2, qui reliait Surabaya à Makassar avec 271 personnes et 181 véhicules à bord, a pris feu dimanche 2 août au large de l'île de Madura, dans l'est de Java, selon l'agence indonésienne de recherche et sauvetage citée par Al Jazeera et NPR. Sur 238 personnes signalées bloquées à bord, 233 ont été évacuées ; au moins 5 décès ont été confirmés et jusqu'à 41 personnes ont été portées disparues au plus fort des opérations de recherche. Le navire n'a pas coulé ; neuf bâtiments ont participé aux secours.",
+      "en": "The ferry KM Mutiara Sentosa 2, sailing from Surabaya to Makassar with 271 people and 181 vehicles aboard, caught fire on Sunday, August 2 off Madura Island in East Java, according to Indonesia's search-and-rescue agency cited by Al Jazeera and NPR. Of 238 people reported trapped aboard, 233 were evacuated; at least 5 deaths were confirmed and up to 41 people were reported missing at the peak of search operations. The ship did not sink; nine vessels took part in the rescue.",
+      "es": "El ferry KM Mutiara Sentosa 2, que cubría la ruta Surabaya-Makassar con 271 personas y 181 vehículos a bordo, se incendió el domingo 2 de agosto frente a la isla de Madura, en Java Oriental, según la agencia indonesia de búsqueda y rescate citada por Al Jazeera y NPR. De las 238 personas reportadas atrapadas a bordo, 233 fueron evacuadas; se confirmaron al menos 5 muertes y hasta 41 personas fueron dadas por desaparecidas en el punto álgido de las operaciones de búsqueda. El barco no llegó a hundirse; nueve embarcaciones participaron en el rescate."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry Mutiara Sentosa 2 prend feu au large de Madura ; 233 des 238 personnes signalées bloquées sont évacuées, au moins 5 morts sont confirmés, selon l'agence SAR indonésienne.",
+          "en": "The ferry Mutiara Sentosa 2 catches fire off Madura; 233 of the 238 people reported trapped are evacuated, at least 5 deaths are confirmed, according to Indonesia's SAR agency.",
+          "es": "El ferry Mutiara Sentosa 2 se incendia frente a Madura; 233 de las 238 personas reportadas atrapadas son evacuadas, se confirman al menos 5 muertes, según la agencia SAR de Indonesia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "id": "inde-turbulence-air-india",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "DGCA / Outlook India / Fox News",
+    "place": {
+      "fr": "Vol Air India AI2379 (Phuket–Delhi), atterri à Delhi, Inde",
+      "en": "Air India flight AI2379 (Phuket–Delhi), landed in Delhi, India",
+      "es": "Vuelo AI2379 de Air India (Phuket–Delhi), aterrizado en Delhi, India"
+    },
+    "title": {
+      "fr": "17 blessés après de fortes turbulences sur un vol Air India entre la Thaïlande et l'Inde",
+      "en": "17 injured after severe turbulence on an Air India flight from Thailand to India",
+      "es": "17 heridos tras fuertes turbulencias en un vuelo de Air India entre Tailandia e India"
+    },
+    "summary": {
+      "fr": "Un Airbus A320neo d'Air India assurant la liaison Phuket-Delhi avec 137 passagers et 8 membres d'équipage a rencontré de fortes turbulences en air clair mardi 4 août, perdant brutalement environ 90 mètres d'altitude, selon Outlook India et Fox News. Dix-sept personnes — 13 passagers et 4 membres d'équipage — ont été blessées en heurtant le plafond de la cabine ; l'appareil a atterri sans encombre à Delhi. La Direction générale de l'aviation civile (DGCA) a ouvert une enquête sur les conditions météorologiques et les procédures d'équipage.",
+      "en": "An Air India Airbus A320neo flying from Phuket to Delhi with 137 passengers and 8 crew encountered severe clear-air turbulence on Tuesday, August 4, suddenly losing about 90 meters of altitude, according to Outlook India and Fox News. Seventeen people — 13 passengers and 4 crew members — were injured after being thrown into the cabin ceiling; the aircraft landed safely in Delhi. India's Directorate General of Civil Aviation (DGCA) opened an investigation into weather conditions and crew procedures.",
+      "es": "Un Airbus A320neo de Air India que cubría la ruta Phuket-Delhi con 137 pasajeros y 8 tripulantes sufrió fuertes turbulencias en aire despejado el martes 4 de agosto, perdiendo bruscamente unos 90 metros de altitud, según Outlook India y Fox News. Diecisiete personas —13 pasajeros y 4 tripulantes— resultaron heridas al golpearse contra el techo de la cabina; el avión aterrizó sin incidentes en Delhi. La Dirección General de Aviación Civil (DGCA) de la India abrió una investigación sobre las condiciones meteorológicas y los procedimientos de la tripulación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Un vol Air India Phuket-Delhi rencontre de fortes turbulences, faisant 17 blessés avant d'atterrir sans encombre à Delhi, selon la DGCA.",
+          "en": "An Air India Phuket-Delhi flight hits severe turbulence, injuring 17 before landing safely in Delhi, according to the DGCA.",
+          "es": "Un vuelo de Air India entre Phuket y Delhi sufre fuertes turbulencias, dejando 17 heridos antes de aterrizar sin incidentes en Delhi, según la DGCA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      67.86,
+      26.42
+    ],
+    "id": "pakistan-indus-crue",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Dawn / The Nation / Pakistan Observer",
+    "place": {
+      "fr": "Sehwan, district de Jamshoro, province du Sind, Pakistan",
+      "en": "Sehwan, Jamshoro District, Sindh Province, Pakistan",
+      "es": "Sehwan, distrito de Jamshoro, provincia de Sindh, Pakistán"
+    },
+    "title": {
+      "fr": "Alerte aux crues le long de l'Indus après des lâchers d'eau depuis l'Inde",
+      "en": "Flood alert along the Indus River after water releases from India",
+      "es": "Alerta de inundación a lo largo del río Indo tras liberaciones de agua desde India"
+    },
+    "summary": {
+      "fr": "Le Pakistan a émis de nouvelles alertes aux crues début août après onze lâchers consécutifs d'environ 90 000 cusecs depuis le barrage de Salal, en Inde, selon Dawn et le Pakistan Observer. Le barrage de Sukkur a enregistré le débit entrant le plus élevé du bassin (369 534 cusecs, crue modérée), tandis que des villages en zone basse près de Sehwan, dans le district de Jamshoro, ont été submergés. L'administration du district a placé la zone en alerte élevée et préparé des évacuations.",
+      "en": "Pakistan issued fresh flood alerts in early August after eleven consecutive releases of roughly 90,000 cusecs from the Salal Dam in India, according to Dawn and the Pakistan Observer. The Sukkur Barrage recorded the basin's highest inflow (369,534 cusecs, moderate flooding), while low-lying villages near Sehwan in Jamshoro District were submerged. The district administration placed the area on high alert and prepared evacuations.",
+      "es": "Pakistán emitió nuevas alertas de inundación a principios de agosto tras once liberaciones consecutivas de unos 90 000 cusecs desde la represa de Salal, en India, según Dawn y Pakistan Observer. La barrera de Sukkur registró el mayor caudal de entrada de la cuenca (369 534 cusecs, inundación moderada), mientras que aldeas de zonas bajas cerca de Sehwan, en el distrito de Jamshoro, quedaron sumergidas. La administración del distrito puso la zona en alerta alta y preparó evacuaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Des villages près de Sehwan sont submergés alors que le barrage de Sukkur enregistre le débit entrant le plus élevé du bassin de l'Indus, selon Dawn.",
+          "en": "Villages near Sehwan are submerged as the Sukkur Barrage records the highest inflow in the Indus basin, according to Dawn.",
+          "es": "Aldeas cerca de Sehwan quedan sumergidas mientras la barrera de Sukkur registra el mayor caudal de entrada de la cuenca del Indo, según Dawn."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "id": "bresil-tarif-douanier-usa",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "CNN Brasil / JOTA / Agência Brasil",
+    "place": {
+      "fr": "Brasília, Brésil (portée nationale)",
+      "en": "Brasília, Brazil (nationwide effect)",
+      "es": "Brasilia, Brasil (alcance nacional)"
+    },
+    "title": {
+      "fr": "Un nouveau tarif douanier américain de 50 % entre en vigueur sur une partie des exportations brésiliennes",
+      "en": "A new 50% US tariff takes effect on part of Brazil's exports",
+      "es": "Entra en vigor un nuevo arancel estadounidense del 50 % sobre parte de las exportaciones brasileñas"
+    },
+    "summary": {
+      "fr": "Un tarif douanier américain de 50 % sur une partie des exportations brésiliennes est entré en vigueur le 6 août, après un report depuis le 1er août, selon CNN Brasil, JOTA et Agência Brasil. La mesure touche environ 36 % des produits brésiliens vendus aux États-Unis — dont le café, les fruits et la viande — soit environ 4 % du total des exportations du Brésil ; le jus d'orange, les carburants, les minerais, les engrais et les avions civils en sont exemptés. Cette décision fait suite à une ordonnance américaine de juillet dans un contexte de tensions liées aux poursuites visant l'ex-président Jair Bolsonaro.",
+      "en": "A 50% US tariff on part of Brazil's exports took effect on August 6, after being postponed from August 1, according to CNN Brasil, JOTA and Agência Brasil. The measure covers roughly 36% of Brazilian goods sold to the United States — including coffee, fruit and meat — about 4% of Brazil's total exports; orange juice, fuels, ores, fertilizers and civil aircraft are exempt. The move follows a US executive order in July amid tensions linked to the prosecution of former president Jair Bolsonaro.",
+      "es": "Un arancel estadounidense del 50 % sobre parte de las exportaciones brasileñas entró en vigor el 6 de agosto, tras haber sido postergado desde el 1 de agosto, según CNN Brasil, JOTA y Agência Brasil. La medida afecta a cerca del 36 % de los productos brasileños vendidos a Estados Unidos —entre ellos café, fruta y carne—, alrededor del 4 % del total de las exportaciones de Brasil; el jugo de naranja, los combustibles, los minerales, los fertilizantes y los aviones civiles quedan exentos. La decisión sigue a una orden ejecutiva estadounidense de julio en un contexto de tensiones vinculadas al proceso judicial contra el expresidente Jair Bolsonaro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "06/08/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le tarif douanier américain de 50 % entre en vigueur sur environ 36 % des exportations brésiliennes vers les États-Unis, selon CNN Brasil.",
+          "en": "The 50% US tariff takes effect on roughly 36% of Brazilian exports to the United States, according to CNN Brasil.",
+          "es": "El arancel estadounidense del 50 % entra en vigor sobre cerca del 36 % de las exportaciones brasileñas a Estados Unidos, según CNN Brasil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -72.5079,
+      7.8891
+    ],
+    "id": "colombie-cucuta-attentat",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN en Español / Infobae / El Tiempo",
+    "place": {
+      "fr": "Cúcuta, département de Norte de Santander, Colombie",
+      "en": "Cúcuta, Norte de Santander Department, Colombia",
+      "es": "Cúcuta, departamento de Norte de Santander, Colombia"
+    },
+    "title": {
+      "fr": "Une voiture piégée explose près d'un commissariat à Cúcuta, faisant au moins 11 blessés",
+      "en": "A car bomb explodes near a police command post in Cúcuta, injuring at least 11",
+      "es": "Un carro bomba estalla cerca de un comando de policía en Cúcuta y deja al menos 11 heridos"
+    },
+    "summary": {
+      "fr": "Un véhicule piégé a explosé aux alentours de 3h20 le 1er août près du commandement de la police de Norte de Santander, à Cúcuta, suivi d'autres engins explosifs, selon CNN en Español et Infobae. Huit policiers et trois civils ont été blessés, un chien policier a été tué. Le ministre colombien de la Défense, Pedro Arnulfo Sánchez, a attribué l'attaque à l'ELN. L'attentat survient six jours avant l'investiture présidentielle d'Abelardo de la Espriella, prévue le 7 août.",
+      "en": "A car bomb exploded around 3:20 a.m. on August 1 near the Norte de Santander police command in Cúcuta, followed by other explosive devices, according to CNN en Español and Infobae. Eight police officers and three civilians were injured, and a police dog was killed. Colombia's Defense Minister, Pedro Arnulfo Sánchez, attributed the attack to the ELN. The bombing came six days before the presidential inauguration of Abelardo de la Espriella, scheduled for August 7.",
+      "es": "Un vehículo cargado con explosivos estalló hacia las 3:20 a.m. del 1 de agosto cerca del comando de policía de Norte de Santander, en Cúcuta, seguido de otros artefactos explosivos, según CNN en Español e Infobae. Ocho policías y tres civiles resultaron heridos, y un perro policía murió. El ministro de Defensa colombiano, Pedro Arnulfo Sánchez, atribuyó el ataque al ELN. El atentado ocurrió seis días antes de la toma de posesión presidencial de Abelardo de la Espriella, prevista para el 7 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Une voiture piégée explose près du commandement de la police à Cúcuta, faisant au moins 11 blessés ; le ministre de la Défense attribue l'attaque à l'ELN.",
+          "en": "A car bomb explodes near the police command in Cúcuta, injuring at least 11; the Defense Minister attributes the attack to the ELN.",
+          "es": "Un carro bomba estalla cerca del comando de policía en Cúcuta, dejando al menos 11 heridos; el ministro de Defensa atribuye el ataque al ELN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "coords": [
+      4.51,
+      9.88
+    ],
+    "id": "nigeria-liberation-otages",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "Al Jazeera / Punch / Présidence du Nigeria",
+    "place": {
+      "fr": "Parc national du lac Kainji (New Bussa), État du Niger, et État de Kwara, Nigeria",
+      "en": "Kainji Lake National Park (New Bussa), Niger State, and Kwara State, Nigeria",
+      "es": "Parque Nacional del Lago Kainji (New Bussa), estado de Niger, y estado de Kwara, Nigeria"
+    },
+    "title": {
+      "fr": "Le Nigeria annonce la plus vaste opération de libération d'otages de son histoire",
+      "en": "Nigeria announces the largest hostage-rescue operation in its history",
+      "es": "Nigeria anuncia la mayor operación de liberación de rehenes de su historia"
+    },
+    "summary": {
+      "fr": "Une opération conjointe des forces armées, des services de renseignement et de la police nigérianes a permis de libérer 308 personnes enlevées lors d'attaques distinctes de bandits armés — 145 dans la forêt du parc national du lac Kainji, dans l'État du Niger, et 163 dans la communauté de Woro, dans l'État de Kwara — selon Al Jazeera et la présidence citée par Punch. Le président Bola Tinubu a qualifié l'opération, annoncée les 5 et 6 août, de plus importante libération d'otages en une seule journée de l'histoire du pays, et a demandé un renforcement des systèmes d'alerte précoce.",
+      "en": "A joint operation by Nigeria's armed forces, intelligence services and police secured the release of 308 people abducted in separate bandit attacks — 145 from the forest of Kainji Lake National Park in Niger State and 163 from the Woro community in Kwara State — according to Al Jazeera and the presidency as cited by Punch. President Bola Tinubu described the operation, announced August 5–6, as the largest single-day hostage rescue in the country's history, and called for stronger early-warning systems.",
+      "es": "Una operación conjunta de las fuerzas armadas, los servicios de inteligencia y la policía de Nigeria logró la liberación de 308 personas secuestradas en ataques distintos de bandidos armados —145 en el bosque del Parque Nacional del Lago Kainji, en el estado de Niger, y 163 en la comunidad de Woro, en el estado de Kwara—, según Al Jazeera y la presidencia citada por Punch. El presidente Bola Tinubu calificó la operación, anunciada el 5 y 6 de agosto, como el mayor rescate de rehenes en un solo día en la historia del país, y pidió reforzar los sistemas de alerta temprana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités nigérianes annoncent la libération de 308 otages lors d'une opération conjointe qualifiée d'historique par le président Tinubu.",
+          "en": "Nigerian authorities announce the release of 308 hostages in a joint operation described as historic by President Tinubu.",
+          "es": "Las autoridades nigerianas anuncian la liberación de 308 rehenes en una operación conjunta calificada de histórica por el presidente Tinubu."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "coords": [
+      35.4,
+      33.2
+    ],
+    "id": "liban-frappes-israeliennes",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / L'Orient Today / Naharnet",
+    "place": {
+      "fr": "Tibnin et Majdal Zoun, sud du Liban",
+      "en": "Tibnin and Majdal Zoun, southern Lebanon",
+      "es": "Tibnin y Majdal Zoun, sur del Líbano"
+    },
+    "title": {
+      "fr": "Israël frappe le sud du Liban après un engin explosif qui a tué deux de ses soldats",
+      "en": "Israel strikes southern Lebanon after an explosive device kills two of its soldiers",
+      "es": "Israel ataca el sur del Líbano tras un artefacto explosivo que mató a dos de sus soldados"
+    },
+    "summary": {
+      "fr": "Un engin explosif dissimulé dans un bâtiment piégé a tué deux réservistes de l'armée israélienne à Majdal Zoun, dans le sud du Liban, le 5 août, selon l'armée israélienne citée par Al Jazeera. Qualifiant l'explosion de « violation flagrante » du cessez-le-feu, Israël a mené en représailles des frappes sur plusieurs localités du sud du Liban, dont une sur un lieu de prière dans un cimetière à Tibnin, qui a tué un homme et blessé douze autres personnes selon le ministère libanais de la Santé. L'incident survient alors que des négociateurs libanais et israéliens tiennent des pourparlers à Rome sur un retrait israélien et le désarmement du Hezbollah.",
+      "en": "An explosive device concealed in a booby-trapped building killed two Israeli army reservists in Majdal Zoun, southern Lebanon, on August 5, according to the Israeli military cited by Al Jazeera. Calling the blast a 'blatant violation' of the ceasefire, Israel carried out retaliatory strikes on several locations in southern Lebanon, including one on a cemetery prayer hall in Tibnin that killed one man and wounded twelve others, according to Lebanon's Health Ministry. The incident came as Lebanese and Israeli negotiators held talks in Rome on an Israeli withdrawal and Hezbollah disarmament.",
+      "es": "Un artefacto explosivo oculto en un edificio trampa mató a dos reservistas del ejército israelí en Majdal Zoun, sur del Líbano, el 5 de agosto, según el ejército israelí citado por Al Jazeera. Calificando la explosión de «violación flagrante» del alto el fuego, Israel llevó a cabo ataques de represalia en varias localidades del sur del Líbano, entre ellos uno contra una sala de oración de un cementerio en Tibnin que mató a un hombre y dejó doce heridos, según el Ministerio de Salud libanés. El incidente ocurrió mientras negociadores libaneses e israelíes mantenían conversaciones en Roma sobre una retirada israelí y el desarme de Hezbolá."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Un engin explosif tue deux réservistes israéliens à Majdal Zoun ; Israël riposte par des frappes sur le sud du Liban, dont une à Tibnin qui fait un mort, selon Al Jazeera.",
+          "en": "An explosive device kills two Israeli reservists in Majdal Zoun; Israel retaliates with strikes on southern Lebanon, including one on Tibnin that kills one person, according to Al Jazeera.",
+          "es": "Un artefacto explosivo mata a dos reservistas israelíes en Majdal Zoun; Israel responde con ataques en el sur del Líbano, incluido uno en Tibnin que deja un muerto, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3,
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "coords": [
+      13.85,
+      45.62
+    ],
+    "id": "italie-trieste-incendie-carso",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ANSA",
+    "place": {
+      "fr": "Plateau du Karst, entre Padriciano et Gropada, Trieste, Italie",
+      "en": "Karst plateau, between Padriciano and Gropada, Trieste, Italy",
+      "es": "Meseta del Karst, entre Padriciano y Gropada, Trieste, Italia"
+    },
+    "title": {
+      "fr": "Un incendie sur le Karst triestin menace des habitations avant d'être maîtrisé",
+      "en": "A fire on the Trieste Karst threatens homes before being brought under control",
+      "es": "Un incendio en el Karst de Trieste amenaza viviendas antes de ser controlado"
+    },
+    "summary": {
+      "fr": "Un feu de végétation s'est déclaré samedi 1er août vers 16h sur le plateau du Karst triestin, entre les hameaux de Padriciano et Gropada, selon l'agence ANSA. Les flammes se sont approchées à quelques dizaines de mètres d'habitations ; une maison de retraite a été placée en alerte d'évacuation et un épais nuage de fumée a recouvert la ville de Trieste le lendemain matin. Après deux jours de lutte par les pompiers, le corps forestier et la protection civile, l'incendie a été déclaré éteint le 3 août, sans décès ni blessé signalé.",
+      "en": "A vegetation fire broke out on Saturday, August 1 around 4 p.m. on the Trieste Karst plateau, between the hamlets of Padriciano and Gropada, according to the ANSA news agency. The flames came within tens of meters of homes; a nursing home was put on evacuation alert and a thick cloud of smoke blanketed the city of Trieste the following morning. After two days of firefighting by fire crews, the forestry corps and civil protection, the fire was declared extinguished on August 3, with no deaths or injuries reported.",
+      "es": "Un incendio de vegetación se declaró el sábado 1 de agosto hacia las 16h en la meseta del Karst de Trieste, entre las localidades de Padriciano y Gropada, según la agencia ANSA. Las llamas se acercaron a pocas decenas de metros de viviendas; una residencia de ancianos fue puesta en alerta de evacuación y una densa nube de humo cubrió la ciudad de Trieste a la mañana siguiente. Tras dos días de lucha por parte de bomberos, el cuerpo forestal y la protección civil, el incendio fue declarado extinguido el 3 de agosto, sin muertos ni heridos reportados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie du Karst triestin est déclaré éteint après deux jours de lutte, sans décès ni blessé, selon ANSA.",
+          "en": "The Trieste Karst fire is declared extinguished after two days of firefighting, with no deaths or injuries, according to ANSA.",
+          "es": "El incendio del Karst de Trieste es declarado extinguido tras dos días de lucha, sin muertos ni heridos, según ANSA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      37.5763,
+      55.7597
+    ],
+    "id": "russie-moscou-explosion",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "TASS / CNN / Al Jazeera",
+    "place": {
+      "fr": "Place Koudrinskaïa, Moscou, Russie",
+      "en": "Kudrinskaya Square, Moscow, Russia",
+      "es": "Plaza Kudrinskaya, Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une explosion près d'un restaurant à Moscou fait au moins 3 morts",
+      "en": "An explosion near a restaurant in Moscow kills at least 3",
+      "es": "Una explosión cerca de un restaurante en Moscú deja al menos 3 muertos"
+    },
+    "summary": {
+      "fr": "Une explosion s'est produite vers 20h10 le 1er août près de l'entrée d'un restaurant situé au pied d'une tour de la place Koudrinskaïa, dans le centre de Moscou, lors d'un banquet privé, selon l'agence russe TASS. Une femme portant un engin explosif improvisé dissimulé dans un coffret cadeau aurait été interceptée par un agent de sécurité avant que l'appareil n'explose près de l'entrée. Au moins 3 personnes sont mortes, dont la femme, et le nombre de blessés varie selon les sources entre 15 et 21. Le maire de Moscou a qualifié l'incident d'attentat terroriste ; une hypothèse évoquée par des sources non officielles, selon laquelle la cible visée aurait été un officier militaire russe présent sur place, n'a pas été confirmée.",
+      "en": "An explosion occurred around 8:10 p.m. on August 1 near the entrance of a restaurant at the foot of a tower on Kudrinskaya Square in central Moscow, during a private banquet, according to Russia's TASS news agency. A woman carrying an improvised explosive device concealed in a gift box was reportedly intercepted by a security guard before the device detonated near the entrance. At least 3 people died, including the woman, and the number of injured ranges from 15 to 21 depending on the source. Moscow's mayor called the incident a terrorist attack; an unofficial theory that the intended target was a Russian military officer present at the venue has not been confirmed.",
+      "es": "Una explosión se produjo hacia las 20:10 del 1 de agosto cerca de la entrada de un restaurante situado en la base de una torre en la plaza Kudrinskaya, en el centro de Moscú, durante un banquete privado, según la agencia rusa TASS. Una mujer que portaba un artefacto explosivo improvisado oculto en una caja de regalo habría sido interceptada por un guardia de seguridad antes de que el dispositivo detonara cerca de la entrada. Al menos 3 personas murieron, entre ellas la mujer, y el número de heridos varía según la fuente entre 15 y 21. El alcalde de Moscú calificó el incidente de atentado terrorista; una hipótesis no oficial según la cual el objetivo habría sido un oficial militar ruso presente en el lugar no ha sido confirmada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Une explosion près d'un restaurant de la place Koudrinskaïa fait au moins 3 morts et jusqu'à 21 blessés selon les sources ; le maire de Moscou parle d'attentat terroriste, selon TASS.",
+          "en": "An explosion near a restaurant on Kudrinskaya Square kills at least 3 and injures up to 21 depending on the source; Moscow's mayor calls it a terrorist attack, according to TASS.",
+          "es": "Una explosión cerca de un restaurante en la plaza Kudrinskaya deja al menos 3 muertos y hasta 21 heridos según las fuentes; el alcalde de Moscú habla de atentado terrorista, según TASS."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      7.268,
+      43.701
+    ],
+    "id": "france-proces-pormanove",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 24 / franceinfo / CNews",
+    "place": {
+      "fr": "Tribunal correctionnel de Nice, France",
+      "en": "Nice criminal court, France",
+      "es": "Tribunal correccional de Niza, Francia"
+    },
+    "title": {
+      "fr": "Mort de Jean Pormanove : les streamers Naruto et Safine condamnés à de la prison avec sursis",
+      "en": "Death of Jean Pormanove: streamers Naruto and Safine sentenced to suspended prison terms",
+      "es": "Muerte de Jean Pormanove: los streamers Naruto y Safine son condenados a prisión condicional"
+    },
+    "summary": {
+      "fr": "Le tribunal correctionnel de Nice a condamné les streamers Owen Cenazandotti, dit « Naruto » (27 ans), et Safine Hamadi, dit « Safine » (24 ans), pour des violences et humiliations infligées à Raphaël Graven, alias « Jean Pormanove », mort en août 2025 lors d'une diffusion en direct, ainsi qu'à un autre streamer, selon France 24 et franceinfo. Naruto a été condamné à deux ans de prison avec sursis et 15 000 euros d'amende, Safine à dix-huit mois avec sursis et 5 000 euros d'amende ; les deux hommes ont aussi écopé d'une interdiction numérique de six mois. Ils étaient poursuivis pour violences en réunion, abus de faiblesse, diffusion d'images violentes et incitation à la haine.",
+      "en": "The Nice criminal court sentenced streamers Owen Cenazandotti, known as 'Naruto' (27), and Safine Hamadi, known as 'Safine' (24), over violence and humiliation inflicted on Raphaël Graven, known as 'Jean Pormanove,' who died in August 2025 during a livestream, as well as on another streamer, according to France 24 and franceinfo. Naruto received two years of suspended prison and a €15,000 fine, Safine eighteen months suspended and a €5,000 fine; both men also received a six-month digital ban. They had been prosecuted for group violence, abuse of a vulnerable person, distribution of violent footage and incitement to hatred.",
+      "es": "El tribunal correccional de Niza condenó a los streamers Owen Cenazandotti, alias «Naruto» (27 años), y Safine Hamadi, alias «Safine» (24 años), por violencia y humillaciones infligidas a Raphaël Graven, conocido como «Jean Pormanove», fallecido en agosto de 2025 durante una transmisión en directo, así como a otro streamer, según France 24 y franceinfo. Naruto recibió dos años de prisión condicional y una multa de 15 000 euros, Safine dieciocho meses condicionales y una multa de 5000 euros; ambos también recibieron una prohibición digital de seis meses. Eran juzgados por violencia en grupo, abuso de una persona vulnerable, difusión de imágenes violentas e incitación al odio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Naruto et Safine sont condamnés à de la prison avec sursis et une interdiction numérique de six mois par le tribunal de Nice, selon France 24.",
+          "en": "Naruto and Safine are sentenced to suspended prison terms and a six-month digital ban by the Nice court, according to France 24.",
+          "es": "Naruto y Safine son condenados a prisión condicional y a una prohibición digital de seis meses por el tribunal de Niza, según France 24."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -2.596,
+      51.454
+    ],
+    "id": "royaume-uni-bristol-condamnation",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "BBC / Avon and Somerset Police",
+    "place": {
+      "fr": "Cour d'assises de Bristol, Angleterre, Royaume-Uni",
+      "en": "Bristol Crown Court, England, United Kingdom",
+      "es": "Tribunal de la Corona de Bristol, Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "Un homme condamné à perpétuité pour le meurtre au sabre du compagnon de son ex-partenaire",
+      "en": "A man sentenced to life for the sword murder of his ex-partner's boyfriend",
+      "es": "Un hombre condenado a cadena perpetua por el asesinato con espada de la pareja de su exnovia"
+    },
+    "summary": {
+      "fr": "Michael Bretton, 41 ans, a été reconnu coupable à l'unanimité par un jury de la Cour d'assises de Bristol, vendredi 31 juillet, du meurtre du routier Craig Hurcombe, 39 ans, tué d'un coup mortel porté avec une épée de type sabre, selon la BBC et la police d'Avon et Somerset. Le meurtre, commis le jour du Nouvel An sur le lieu de travail de la victime à Gurney Slade, dans le Somerset, faisait suite à une période de surveillance de Bretton envers son ex-compagne et son nouveau petit ami. Il a été condamné à la prison à vie, avec une peine incompressible de 29 ans et demi.",
+      "en": "Michael Bretton, 41, was unanimously found guilty by a jury at Bristol Crown Court on Friday, July 31, of murdering lorry driver Craig Hurcombe, 39, who died from a single fatal wound inflicted with a samurai-style sword, according to the BBC and Avon and Somerset Police. The murder, committed on New Year's Day at the victim's workplace in Gurney Slade, Somerset, followed a period in which Bretton had been monitoring his ex-partner and her new boyfriend. He was sentenced to life imprisonment with a minimum term of 29.5 years.",
+      "es": "Michael Bretton, de 41 años, fue declarado culpable por unanimidad por un jurado del Tribunal de la Corona de Bristol el viernes 31 de julio del asesinato del camionero Craig Hurcombe, de 39 años, quien murió por una única herida mortal infligida con una espada tipo samurái, según la BBC y la policía de Avon y Somerset. El asesinato, cometido el día de Año Nuevo en el lugar de trabajo de la víctima en Gurney Slade, Somerset, se produjo tras un período en que Bretton había estado vigilando a su exnovia y a su nueva pareja. Fue condenado a cadena perpetua con un mínimo de 29 años y medio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Michael Bretton est reconnu coupable du meurtre de Craig Hurcombe et condamné à la prison à vie avec une peine incompressible de 29 ans et demi, selon la BBC.",
+          "en": "Michael Bretton is found guilty of murdering Craig Hurcombe and sentenced to life imprisonment with a minimum term of 29.5 years, according to the BBC.",
+          "es": "Michael Bretton es declarado culpable del asesinato de Craig Hurcombe y condenado a cadena perpetua con un mínimo de 29 años y medio, según la BBC."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
     "priority": 1
   }
 ]
