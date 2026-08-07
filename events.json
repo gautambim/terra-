@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W32",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05-06/08/2026",
+          "en": "08/05-06/2026",
+          "es": "05-06/08/2026"
+        },
+        "d": {
+          "fr": "L'Iran et Oman annoncent un accord de principe sur un cadre de navigation commerciale dans le détroit d'Ormuz, avec un centre conjoint de coordination du trafic maritime ; Téhéran précise qu'un accord technique avec Mascate ne suffira pas à rouvrir pleinement le détroit tant que d'autres conditions posées à Washington ne seront pas remplies.",
+          "en": "Iran and Oman announce an agreement in principle on a framework for commercial shipping through the Strait of Hormuz, with a joint maritime traffic coordination center; Tehran says a technical agreement with Muscat alone will not fully reopen the strait until further conditions set for Washington are met.",
+          "es": "Irán y Omán anuncian un acuerdo de principio sobre un marco de navegación comercial en el estrecho de Ormuz, con un centro conjunto de coordinación del tráfico marítimo; Teherán señala que un acuerdo técnico con Mascate por sí solo no reabrirá plenamente el estrecho hasta que se cumplan otras condiciones planteadas a Washington."
         },
         "active": true
       }
@@ -829,5 +842,927 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -79.2681,
+      36.4623
+    ],
+    "id": "caswell-county-fusillade",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ABC11 / WRAL / NBC News",
+    "place": {
+      "fr": "Prospect Hill, comté de Caswell, Caroline du Nord, États-Unis",
+      "en": "Prospect Hill, Caswell County, North Carolina, United States",
+      "es": "Prospect Hill, condado de Caswell, Carolina del Norte, Estados Unidos"
+    },
+    "title": {
+      "fr": "Trois morts dans une fusillade familiale en Caroline du Nord",
+      "en": "Three dead in family shooting in North Carolina",
+      "es": "Tres muertos en un tiroteo familiar en Carolina del Norte"
+    },
+    "summary": {
+      "fr": "Les adjoints du shérif du comté de Caswell, appelés vers 8h le 5 août, ont découvert quatre adultes d'une même famille abattus dans une maison de Prospect Hill. Trois d'entre eux, dont le tireur, sont morts ; une quatrième victime a été hospitalisée. Selon les autorités, le drame découle d'un différend familial et ne représente pas de danger pour le public.",
+      "en": "Caswell County deputies, called around 8 a.m. on August 5, found four adults from the same family shot at a home in Prospect Hill. Three of them, including the shooter, died; a fourth victim was hospitalized. Authorities said the incident stemmed from a family dispute and poses no threat to the wider public.",
+      "es": "Los agentes del sheriff del condado de Caswell, alertados hacia las 8h del 5 de agosto, encontraron a cuatro adultos de la misma familia baleados en una vivienda de Prospect Hill. Tres de ellos, incluido el tirador, murieron; una cuarta víctima fue hospitalizada. Según las autoridades, el hecho se originó en una disputa familiar y no representa peligro para el público."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Des tirs font trois morts dans une maison de Prospect Hill ; le SBI de Caroline du Nord assiste l'enquête.",
+          "en": "Shots leave three dead at a home in Prospect Hill; North Carolina's SBI is assisting the investigation.",
+          "es": "Los disparos dejan tres muertos en una vivienda de Prospect Hill; la SBI de Carolina del Norte asiste en la investigación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -79.3832,
+      43.6532
+    ],
+    "id": "toronto-consulat-arrestations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Police de Toronto / CBC News / Al Jazeera",
+    "place": {
+      "fr": "Toronto, Ontario, Canada",
+      "en": "Toronto, Ontario, Canada",
+      "es": "Toronto, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Deux arrestations après une fusillade visant le consulat américain à Toronto",
+      "en": "Two arrests after shooting targeting the US Consulate in Toronto",
+      "es": "Dos detenciones tras un tiroteo contra el consulado de EE. UU. en Toronto"
+    },
+    "summary": {
+      "fr": "La police de Toronto a annoncé le 6 août l'arrestation d'un homme de 19 ans et d'un adolescent de 15 ans en lien avec des coups de feu tirés le 27 juillet contre le bâtiment du consulat des États-Unis, sans faire de blessé. Il s'agissait du deuxième incident de tir visant le consulat en cinq mois. La police relie les suspects à un réseau plus vaste où des tirs, incendies et homicides seraient commandités en ligne contre rémunération.",
+      "en": "Toronto police announced on August 6 the arrest of a 19-year-old man and a 15-year-old boy in connection with gunfire on July 27 that struck the US Consulate building, causing no injuries. It was the second shooting incident targeting the consulate in five months. Police say the suspects are linked to a wider network in which shootings, arsons and homicides are allegedly commissioned online for payment.",
+      "es": "La policía de Toronto anunció el 6 de agosto la detención de un hombre de 19 años y un adolescente de 15 en relación con disparos efectuados el 27 de julio contra el edificio del consulado de EE. UU., sin causar heridos. Fue el segundo incidente de este tipo contra el consulado en cinco meses. La policía vincula a los sospechosos con una red más amplia en la que presuntamente se encargarían en línea, a cambio de pago, tiroteos, incendios y homicidios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/07/2026",
+          "en": "07/27/2026",
+          "es": "27/07/2026"
+        },
+        "d": {
+          "fr": "Des coups de feu touchent le bâtiment du consulat américain à Toronto, sans faire de blessé.",
+          "en": "Gunfire strikes the US Consulate building in Toronto, causing no injuries.",
+          "es": "Disparos alcanzan el edificio del consulado estadounidense en Toronto, sin causar heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "La police annonce l'arrestation de deux suspects, âgés de 19 et 15 ans, liés à un réseau de violences commanditées en ligne.",
+          "en": "Police announce the arrest of two suspects, aged 19 and 15, linked to a network of online-commissioned violence.",
+          "es": "La policía anuncia la detención de dos sospechosos, de 19 y 15 años, vinculados a una red de violencia encargada en línea."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -119.272,
+      50.267
+    ],
+    "id": "colombie-britannique-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "EmergencyInfoBC / CBC News / Global News",
+    "place": {
+      "fr": "Région de Vernon et West Kelowna, Colombie-Britannique, Canada",
+      "en": "Vernon and West Kelowna area, British Columbia, Canada",
+      "es": "Región de Vernon y West Kelowna, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Des incendies de forêt détruisent plus de 200 maisons près de Vernon, en Colombie-Britannique",
+      "en": "Wildfires destroy over 200 homes near Vernon, British Columbia",
+      "es": "Incendios forestales destruyen más de 200 viviendas cerca de Vernon, Columbia Británica"
+    },
+    "summary": {
+      "fr": "L'incendie hors de contrôle de Bradley Creek, à l'ouest de Vernon, a détruit au moins 200 maisons et poussé plus de 1 400 personnes à s'inscrire auprès des services d'urgence. Environ 8 000 personnes sont sous ordre d'évacuation dans l'intérieur de la Colombie-Britannique et 7 100 autres en alerte, après qu'un front froid a apporté des vents violents début août. Un second incendie, Quilpituk Creek, près de Fintry, a déplacé plus de 2 200 personnes supplémentaires.",
+      "en": "The out-of-control Bradley Creek wildfire west of Vernon has destroyed at least 200 homes and prompted more than 1,400 people to register for emergency support. About 8,000 people are under evacuation order across the B.C. Interior and 7,100 more under alert, after a cold front brought high winds in early August. A second fire, Quilpituk Creek near Fintry, has displaced over 2,200 additional residents.",
+      "es": "El incendio fuera de control de Bradley Creek, al oeste de Vernon, ha destruido al menos 200 viviendas y ha llevado a más de 1.400 personas a registrarse para recibir ayuda de emergencia. Unas 8.000 personas están bajo orden de evacuación en el interior de Columbia Británica y otras 7.100 en alerta, tras un frente frío que trajo vientos fuertes a principios de agosto. Un segundo incendio, Quilpituk Creek, cerca de Fintry, ha desplazado a más de 2.200 residentes adicionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03-05/08/2026",
+          "en": "08/03-05/2026",
+          "es": "03-05/08/2026"
+        },
+        "d": {
+          "fr": "Les incendies Bradley Creek et Quilpituk Creek s'intensifient sous l'effet de vents violents, forçant des milliers d'évacuations.",
+          "en": "The Bradley Creek and Quilpituk Creek fires intensify amid high winds, forcing thousands of evacuations.",
+          "es": "Los incendios Bradley Creek y Quilpituk Creek se intensifican por vientos fuertes, forzando miles de evacuaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -81.3789,
+      40.7989
+    ],
+    "id": "nfl-hall-of-fame-game-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏈",
+    "source": "NFL.com / NBC Sports",
+    "place": {
+      "fr": "Canton, Ohio, États-Unis",
+      "en": "Canton, Ohio, United States",
+      "es": "Canton, Ohio, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les Panthers de la Caroline battent les Cardinals au match du Hall of Fame de la NFL",
+      "en": "Carolina Panthers beat Cardinals in NFL Hall of Fame Game",
+      "es": "Los Panthers de Carolina vencen a los Cardinals en el partido del Salón de la Fama de la NFL"
+    },
+    "summary": {
+      "fr": "Le quart-arrière recrue Haynes King a couru pour le touchdown de la victoire à deux secondes de la fin, donnant aux Panthers de la Caroline une victoire 33-30 sur les Cardinals de l'Arizona lors du match d'ouverture du pré-saison NFL 2026 au Pro Football Hall of Fame.",
+      "en": "Rookie quarterback Haynes King scrambled in for the winning touchdown with two seconds left, giving the Carolina Panthers a 33-30 win over the Arizona Cardinals in the NFL's 2026 preseason opener at the Pro Football Hall of Fame.",
+      "es": "El quarterback novato Haynes King corrió para el touchdown de la victoria a dos segundos del final, dando a los Panthers de Carolina un triunfo por 33-30 sobre los Cardinals de Arizona en el partido de apertura de la pretemporada 2026 de la NFL en el Salón de la Fama."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Carolina bat l'Arizona 33-30 lors du match du Hall of Fame, ouvrant la pré-saison NFL 2026.",
+          "en": "Carolina beats Arizona 33-30 in the Hall of Fame Game, opening the 2026 NFL preseason.",
+          "es": "Carolina vence a Arizona 33-30 en el partido del Salón de la Fama, iniciando la pretemporada 2026 de la NFL."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      107.468,
+      31.2094
+    ],
+    "id": "chine-zhang-jianhua-corruption",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Xinhua / Caixin Global / South China Morning Post",
+    "place": {
+      "fr": "Dazhou, province du Sichuan, Chine",
+      "en": "Dazhou, Sichuan Province, China",
+      "es": "Dazhou, provincia de Sichuan, China"
+    },
+    "title": {
+      "fr": "Un ex-responsable chinois de l'industrie de défense condamné à 10 ans pour corruption",
+      "en": "Former Chinese defense-industry official sentenced to 10 years for bribery",
+      "es": "Exfuncionario chino de la industria de defensa condenado a 10 años por soborno"
+    },
+    "summary": {
+      "fr": "Le tribunal populaire intermédiaire de Dazhou a condamné Zhang Jianhua, ancien chef adjoint de l'Administration d'État pour la science, la technologie et l'industrie de défense nationale, à 10 ans de prison et à des amendes totalisant 3,8 millions de yuans, pour avoir accepté plus de 43 millions de yuans (environ 6,3 millions de dollars) de pots-de-vin entre 2008 et 2025.",
+      "en": "The Dazhou Intermediate People's Court sentenced Zhang Jianhua, former deputy head of China's State Administration of Science, Technology and Industry for National Defence, to 10 years in prison and fines totaling 3.8 million yuan, for accepting over 43 million yuan (about $6.3 million) in bribes between 2008 and 2025.",
+      "es": "El Tribunal Popular Intermedio de Dazhou condenó a Zhang Jianhua, exsubdirector de la Administración Estatal de Ciencia, Tecnología e Industria para la Defensa Nacional de China, a 10 años de prisión y multas por un total de 3,8 millones de yuanes, por aceptar más de 43 millones de yuanes (unos 6,3 millones de dólares) en sobornos entre 2008 y 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le verdict est annoncé ; la couverture provient en partie de médias affiliés à l'État, corroborée par Caixin et SCMP.",
+          "en": "The verdict is announced; coverage partly comes from state-affiliated media, corroborated by Caixin and SCMP.",
+          "es": "Se anuncia el veredicto; la cobertura proviene en parte de medios afiliados al Estado, corroborada por Caixin y SCMP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      7.7649,
+      50.085
+    ],
+    "id": "allemagne-rhin-etiage",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🌊",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Kaub, Rhénanie-Palatinat, Allemagne",
+      "en": "Kaub, Rhineland-Palatinate, Germany",
+      "es": "Kaub, Renania-Palatinado, Alemania"
+    },
+    "title": {
+      "fr": "Le Rhin atteint son niveau le plus bas jamais enregistré, perturbant l'économie allemande",
+      "en": "Rhine River hits record low, disrupting German economy",
+      "es": "El Rin alcanza su nivel más bajo registrado, con impacto en la economía alemana"
+    },
+    "summary": {
+      "fr": "Le niveau du Rhin à la station de mesure de Kaub, point de passage clé pour le fret vers le sud de l'Allemagne et la Suisse, est tombé autour de 21-25 cm début août, le plus bas depuis le début des mesures en 1880. À ce niveau, les navires ne peuvent transporter qu'environ 20 % de leur cargaison habituelle, et les surtaxes de fret ont grimpé à environ 1 000 € par conteneur depuis juin. Le ministre allemand des Transports a tenu des réunions de crise le 6 août.",
+      "en": "The Rhine's water level at the Kaub gauge, a key chokepoint for freight to southern Germany and Switzerland, fell to around 21-25 centimeters in early August, the lowest since records began in 1880. At this level vessels can carry only about 20% of normal cargo, and freight surcharges have risen to roughly €1,000 per container since June. Germany's transport minister held crisis talks on August 6.",
+      "es": "El nivel del Rin en la estación de medición de Kaub, un punto clave para el transporte de mercancías hacia el sur de Alemania y Suiza, cayó a entre 21 y 25 cm a principios de agosto, el más bajo desde que comenzaron los registros en 1880. A ese nivel, los buques solo pueden transportar cerca del 20% de su carga habitual, y los recargos de flete han subido a unos 1.000 € por contenedor desde junio. El ministro alemán de Transporte mantuvo reuniones de crisis el 6 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04-06/08/2026",
+          "en": "08/04-06/2026",
+          "es": "04-06/08/2026"
+        },
+        "d": {
+          "fr": "Le niveau du Rhin à Kaub atteint un plancher record, menaçant la logistique et l'économie allemandes.",
+          "en": "The Rhine's level at Kaub hits a record low, threatening German logistics and the economy.",
+          "es": "El nivel del Rin en Kaub alcanza un mínimo histórico, amenazando la logística y la economía alemanas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.5975,
+      32.5049
+    ],
+    "id": "japon-kumamoto-consequences",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "The Japan Times / NPR / Al Jazeera",
+    "place": {
+      "fr": "Préfecture de Kumamoto, Japon (Kashima et Yatsushiro)",
+      "en": "Kumamoto Prefecture, Japan (Kashima and Yatsushiro)",
+      "es": "Prefectura de Kumamoto, Japón (Kashima y Yatsushiro)"
+    },
+    "title": {
+      "fr": "Séisme de Kumamoto : une explosion de gaz et l'effondrement d'une cheminée font 16 morts",
+      "en": "Kumamoto earthquake: gas explosion and chimney collapse leave 16 dead",
+      "es": "Terremoto de Kumamoto: una explosión de gas y el colapso de una chimenea dejan 16 muertos"
+    },
+    "summary": {
+      "fr": "Après le séisme de magnitude 7,1 qui a frappé Kumamoto le 28 juillet (au moins 38 morts, plus de 120 blessés), deux incidents secondaires meurtriers ont été confirmés : une explosion de gaz dans un centre commercial Aeon à Kashima a tué 7 personnes, et l'effondrement d'une cheminée en béton de 80 mètres dans une usine Nippon Paper Industries à Yatsushiro en a tué 9. Le 6 août, le ministère japonais du Commerce a ordonné des inspections nationales des équipements au gaz, une fuite étant jugée « hautement probable » à l'origine de l'explosion.",
+      "en": "Following the magnitude-7.1 earthquake that struck Kumamoto on July 28 (at least 38 dead, over 120 injured), two deadly secondary incidents were confirmed: a gas explosion at an Aeon Mall in Kashima killed 7 people, and the collapse of an 80-meter concrete chimney at a Nippon Paper Industries plant in Yatsushiro killed 9. On August 6, Japan's trade ministry ordered nationwide inspections of gas equipment, after investigators found a gas leak was 'highly likely' the cause of the explosion.",
+      "es": "Tras el terremoto de magnitud 7,1 que sacudió Kumamoto el 28 de julio (al menos 38 muertos, más de 120 heridos), se confirmaron dos incidentes secundarios mortales: una explosión de gas en un centro comercial Aeon en Kashima mató a 7 personas, y el colapso de una chimenea de hormigón de 80 metros en una planta de Nippon Paper Industries en Yatsushiro mató a 9. El 6 de agosto, el ministerio de Comercio japonés ordenó inspecciones nacionales de equipos de gas, tras determinarse que una fuga era 'muy probablemente' la causa de la explosión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "07/28/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 frappe Kumamoto, faisant au moins 38 morts.",
+          "en": "A magnitude-7.1 earthquake strikes Kumamoto, killing at least 38.",
+          "es": "Un terremoto de magnitud 7,1 sacude Kumamoto, dejando al menos 38 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan des incidents secondaires (explosion de gaz, effondrement de cheminée) atteint 16 morts ; des inspections nationales sont ordonnées.",
+          "en": "The toll from secondary incidents (gas explosion, chimney collapse) reaches 16 dead; nationwide inspections are ordered.",
+          "es": "El balance de los incidentes secundarios (explosión de gas, colapso de chimenea) llega a 16 muertos; se ordenan inspecciones nacionales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1231,
+      51.5142
+    ],
+    "id": "londres-covent-garden-attaque",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Metropolitan Police / ITV News London",
+    "place": {
+      "fr": "Covent Garden, Londres, Royaume-Uni",
+      "en": "Covent Garden, London, United Kingdom",
+      "es": "Covent Garden, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Une femme inculpée après quatre hommes poignardés à Covent Garden",
+      "en": "Woman charged after four men stabbed in Covent Garden",
+      "es": "Una mujer imputada tras el apuñalamiento de cuatro hombres en Covent Garden"
+    },
+    "summary": {
+      "fr": "La police a été appelée vers 12h30 le 5 août pour une attaque au couteau sur Endell Street, à Covent Garden, un quartier touristique très fréquenté. Quatre hommes âgés de 34, 39, 42 et 56 ans ont été poignardés et hospitalisés ; leurs blessures ne mettaient pas leur vie en danger et tous ont depuis quitté l'hôpital. Stella Gollovena, 47 ans, a été inculpée de quatre chefs de coups et blessures volontaires avec intention et de possession d'une arme offensive.",
+      "en": "Police were called around 12:30 p.m. on August 5 to a stabbing on Endell Street in Covent Garden, a busy tourist area. Four men aged 34, 39, 42 and 56 were stabbed and hospitalized; their injuries were not life-threatening and all have since been discharged. Stella Gollovena, 47, was charged with four counts of wounding with intent and possession of an offensive weapon.",
+      "es": "La policía fue alertada hacia las 12:30h del 5 de agosto por un apuñalamiento en Endell Street, en Covent Garden, una zona turística muy concurrida. Cuatro hombres de 34, 39, 42 y 56 años fueron apuñalados y hospitalizados; sus heridas no ponían en peligro su vida y todos ya recibieron el alta. Stella Gollovena, de 47 años, fue imputada por cuatro cargos de lesiones con intención y posesión de un arma ofensiva."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05-06/08/2026",
+          "en": "08/05-06/2026",
+          "es": "05-06/08/2026"
+        },
+        "d": {
+          "fr": "Quatre hommes sont poignardés à Covent Garden ; une suspecte est arrêtée puis inculpée.",
+          "en": "Four men are stabbed in Covent Garden; a suspect is arrested and then charged.",
+          "es": "Cuatro hombres son apuñalados en Covent Garden; una sospechosa es detenida y luego imputada."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "kyiv-frappe-massive",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / NPR / Washington Post / RFE/RL",
+    "place": {
+      "fr": "Kyiv et région de Kyiv, Ukraine (Brovary notamment)",
+      "en": "Kyiv and Kyiv Oblast, Ukraine (notably Brovary)",
+      "es": "Kiev y región de Kiev, Ucrania (especialmente Brovary)"
+    },
+    "title": {
+      "fr": "Une frappe massive de missiles et drones russes fait au moins 17 morts près de Kyiv",
+      "en": "Massive Russian missile and drone barrage kills at least 17 near Kyiv",
+      "es": "Un ataque masivo de misiles y drones rusos deja al menos 17 muertos cerca de Kiev"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 5 août, la Russie a lancé environ 24 missiles balistiques, plusieurs missiles hypersoniques et 115 drones sur Kyiv et sa région, selon les autorités ukrainiennes. Le bilan s'élève à au moins 17 morts et une quarantaine de blessés, la ville de Brovary étant particulièrement touchée. Le président Zelensky a indiqué que les frappes ont visé une brasserie, un entrepôt de matériaux de construction et un centre de tri postal ; la défense antiaérienne ukrainienne n'aurait intercepté aucun des missiles balistiques. La Russie n'a pas publié de bilan indépendant sur les cibles visées.",
+      "en": "Overnight into August 5, Russia launched about 24 ballistic missiles, several hypersonic missiles and 115 drones at Kyiv and the surrounding region, according to Ukrainian authorities. The toll reached at least 17 dead and roughly 44 wounded, with the town of Brovary especially hard-hit. President Zelensky said the strikes hit a brewery, a construction-materials warehouse and a mail-sorting facility; Ukraine's air defenses reportedly did not intercept any of the ballistic missiles. Russia has not issued an independent public accounting of the targets.",
+      "es": "Durante la noche del 5 de agosto, Rusia lanzó unos 24 misiles balísticos, varios misiles hipersónicos y 115 drones contra Kiev y su región, según las autoridades ucranianas. El balance asciende a al menos 17 muertos y unos 44 heridos, con la localidad de Brovary especialmente afectada. El presidente Zelenski indicó que los ataques alcanzaron una cervecería, un almacén de materiales de construcción y un centro de clasificación postal; la defensa antiaérea ucraniana no habría interceptado ninguno de los misiles balísticos. Rusia no ha publicado un balance independiente sobre los objetivos alcanzados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe massive de missiles et de drones russes touche Kyiv et sa région, faisant au moins 17 morts.",
+          "en": "A massive Russian missile and drone barrage hits Kyiv and the surrounding region, killing at least 17.",
+          "es": "Un ataque masivo de misiles y drones rusos golpea Kiev y su región, dejando al menos 17 muertos."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.4089,
+      42.1401
+    ],
+    "id": "espagne-aragon-incendies",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Moncloa.com / El Diario Aragón / El Español",
+    "place": {
+      "fr": "Province de Huesca, Aragon, Espagne",
+      "en": "Huesca province, Aragon, Spain",
+      "es": "Provincia de Huesca, Aragón, España"
+    },
+    "title": {
+      "fr": "Des incendies déclenchés par la foudre embrasent la province de Huesca, en Aragon",
+      "en": "Lightning-sparked wildfires burn across Huesca province, Aragon",
+      "es": "Incendios provocados por rayos arrasan la provincia de Huesca, en Aragón"
+    },
+    "summary": {
+      "fr": "Un orage de foudre sèche a déclenché une vingtaine de foyers dans la province de Huesca à partir du 2-3 août. Au 6 août, le service d'urgence aragonais Infoar avait maîtrisé les incendies de Loporzano et Nueno mais combattait encore des feux actifs à Viu (environ 20 hectares, en haute montagne) et La Cabezonada, dans le district de Sobrarbe/La Fueva. Cet épisode s'inscrit dans une saison des incendies 2026 qui a déjà brûlé plus de 220 000 hectares en Espagne, bien au-dessus de la moyenne des 20 dernières années.",
+      "en": "A dry lightning storm ignited roughly twenty fire fronts across Huesca province starting August 2-3. By August 6, Aragon's Infoar emergency service had brought the Loporzano and Nueno fires under control but was still fighting active blazes at Viu (about 20 hectares, high-altitude terrain) and La Cabezonada, in the Sobrarbe/La Fueva district. This is part of Spain's 2026 wildfire season, which has already burned over 220,000 hectares, well above the 20-year average.",
+      "es": "Una tormenta de rayos secos provocó unos veinte frentes de fuego en la provincia de Huesca a partir del 2-3 de agosto. Al 6 de agosto, el servicio de emergencias aragonés Infoar había controlado los incendios de Loporzano y Nueno, pero seguía luchando contra fuegos activos en Viu (unas 20 hectáreas, en alta montaña) y La Cabezonada, en la comarca de Sobrarbe/La Fueva. Este episodio forma parte de una temporada de incendios 2026 que ya ha quemado más de 220.000 hectáreas en España, muy por encima de la media de los últimos 20 años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03-06/08/2026",
+          "en": "08/03-06/2026",
+          "es": "03-06/08/2026"
+        },
+        "d": {
+          "fr": "Une vingtaine de feux se déclarent dans la province de Huesca après un orage de foudre sèche ; plusieurs restent actifs.",
+          "en": "About twenty fires break out across Huesca province after a dry lightning storm; several remain active.",
+          "es": "Una veintena de incendios se declaran en la provincia de Huesca tras una tormenta de rayos secos; varios siguen activos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      127.0568,
+      37.6542
+    ],
+    "id": "coree-seoul-canicule",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "The Korea Herald",
+    "place": {
+      "fr": "Nowon-gu, Séoul, Corée du Sud",
+      "en": "Nowon-gu, Seoul, South Korea",
+      "es": "Nowon-gu, Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Séoul enregistre 40°C pour la première fois en huit ans, en pleine canicule meurtrière",
+      "en": "Seoul records first 40°C reading in eight years amid deadly heat wave",
+      "es": "Seúl registra 40°C por primera vez en ocho años en medio de una ola de calor mortal"
+    },
+    "summary": {
+      "fr": "Une station météo automatique de Nowon-gu, à Séoul, a enregistré 40,2°C le 7 août, la première lecture supérieure à 40°C dans la capitale depuis août 2018 (la station officielle a mesuré 38°C). La canicule a fait grimper le bilan des morts liées à la chaleur à 21 selon le Korea Herald au 6 août, alors que le nombre cumulé de cas de malaise atteignait 2 665 dans tout le pays. Les autorités ont déployé des mesures de rafraîchissement, dont des drones et des camions d'eau glacée.",
+      "en": "An automatic weather station in Nowon-gu, Seoul, recorded 40.2°C on August 7 — the first reading above 40°C in the capital since August 2018 (the official station reading was 38°C). The heat wave has pushed the death toll to 21 as of August 6, according to the Korea Herald, as cumulative heat-illness cases reached 2,665 nationwide. Authorities have deployed cooling measures including drones and chilled-water trucks.",
+      "es": "Una estación meteorológica automática en Nowon-gu, Seúl, registró 40,2°C el 7 de agosto, la primera lectura superior a 40°C en la capital desde agosto de 2018 (la estación oficial midió 38°C). La ola de calor ha elevado el número de muertos a 21 según el Korea Herald al 6 de agosto, mientras los casos acumulados de enfermedades por calor alcanzaban 2.665 en todo el país. Las autoridades han desplegado medidas de refrigeración, incluidos drones y camiones de agua fría."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06-07/08/2026",
+          "en": "08/06-07/2026",
+          "es": "06-07/08/2026"
+        },
+        "d": {
+          "fr": "Séoul atteint 40,2°C, un record depuis 2018, tandis que le bilan de la canicule s'alourdit dans tout le pays.",
+          "en": "Seoul reaches 40.2°C, a record since 2018, as the heat wave's toll rises nationwide.",
+          "es": "Seúl alcanza los 40,2°C, un récord desde 2018, mientras el balance de la ola de calor aumenta en todo el país."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      72.8264,
+      18.9322
+    ],
+    "id": "inde-rbi-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Business Standard / Forbes India",
+    "place": {
+      "fr": "Mumbai, Maharashtra, Inde",
+      "en": "Mumbai, Maharashtra, India",
+      "es": "Bombay, Maharashtra, India"
+    },
+    "title": {
+      "fr": "La banque centrale indienne maintient ses taux et révise ses prévisions d'inflation",
+      "en": "India's central bank holds interest rates, trims inflation forecast",
+      "es": "El banco central de la India mantiene los tipos de interés y revisa su previsión de inflación"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Reserve Bank of India, dirigé par le gouverneur Sanjay Malhotra, a maintenu son taux directeur inchangé à 5,25 % lors de sa réunion d'août et conservé une orientation « neutre ». Le comité a relevé sa prévision de croissance du PIB pour l'exercice 2026-27 à 6,7 % (contre 6,6 %) et abaissé sa projection d'inflation à 5 % (contre 5,1 %), citant la baisse des prix du pétrole brut.",
+      "en": "The Reserve Bank of India's Monetary Policy Committee, led by Governor Sanjay Malhotra, kept the benchmark repo rate unchanged at 5.25% at its August review and retained a 'neutral' stance. The committee raised its FY27 GDP growth forecast to 6.7% (from 6.6%) and lowered its inflation projection to 5% (from 5.1%), citing softer crude oil prices.",
+      "es": "El Comité de Política Monetaria del Banco de la Reserva de la India, liderado por el gobernador Sanjay Malhotra, mantuvo sin cambios la tasa repo de referencia en 5,25% en su revisión de agosto y conservó una postura 'neutral'. El comité elevó su previsión de crecimiento del PIB para el ejercicio 2026-27 a 6,7% (desde 6,6%) y redujo su proyección de inflación a 5% (desde 5,1%), citando la moderación de los precios del petróleo crudo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05-06/08/2026",
+          "en": "08/05-06/2026",
+          "es": "05-06/08/2026"
+        },
+        "d": {
+          "fr": "La RBI maintient son taux directeur à 5,25 % et révise ses prévisions de croissance et d'inflation.",
+          "en": "The RBI holds its repo rate at 5.25% and revises its growth and inflation forecasts.",
+          "es": "El RBI mantiene su tasa repo en 5,25% y revisa sus previsiones de crecimiento e inflación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      113.8703,
+      -7.0137
+    ],
+    "id": "indonesie-ferry-incendie",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "NPR / Al Jazeera / Antara News",
+    "place": {
+      "fr": "Au large de l'île de Madura, près de Sumenep, Est de Java, Indonésie",
+      "en": "Off Madura Island, near Sumenep, East Java, Indonesia",
+      "es": "Frente a la isla de Madura, cerca de Sumenep, Java Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Un incendie sur un ferry au large de Madura fait 5 morts et des dizaines de disparus",
+      "en": "Ferry fire off Madura Island leaves 5 dead, dozens missing",
+      "es": "Un incendio en un ferry frente a Madura deja 5 muertos y decenas de desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry de passagers KMP Mutiara Sentosa II, transportant 232 passagers et 39 membres d'équipage, a pris feu le 2 août dans les eaux au large de Sumenep, sur la route Surabaya-Makassar. Au moins 5 personnes sont mortes et 41 restaient portées disparues selon les premiers bilans, tandis que 225 personnes ont été secourues. Le 5 août, le ministre indonésien des Transports a annoncé un examen complet des normes de sécurité des ferries et des procédures d'urgence.",
+      "en": "The passenger ferry KMP Mutiara Sentosa II, carrying 232 passengers and 39 crew, caught fire on August 2 in waters off Sumenep, on the Surabaya-Makassar route. At least 5 people died and 41 remained missing according to initial reports, while 225 were rescued. On August 5, Indonesia's Transport Minister announced a comprehensive review of ferry safety standards and emergency procedures.",
+      "es": "El ferry de pasajeros KMP Mutiara Sentosa II, con 232 pasajeros y 39 tripulantes, se incendió el 2 de agosto en aguas frente a Sumenep, en la ruta Surabaya-Makassar. Al menos 5 personas murieron y 41 seguían desaparecidas según los primeros informes, mientras que 225 fueron rescatadas. El 5 de agosto, el ministro de Transporte de Indonesia anunció una revisión integral de las normas de seguridad de los ferris y los procedimientos de emergencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "08/02/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry KMP Mutiara Sentosa II prend feu au large de Madura ; 225 personnes sont secourues, 5 morts et 41 disparus recensés.",
+          "en": "The ferry KMP Mutiara Sentosa II catches fire off Madura; 225 people are rescued, with 5 dead and 41 missing.",
+          "es": "El ferry KMP Mutiara Sentosa II se incendia frente a Madura; se rescata a 225 personas, con 5 muertos y 41 desaparecidos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement indonésien annonce un examen complet des normes de sécurité des ferries.",
+          "en": "The Indonesian government announces a comprehensive review of ferry safety standards.",
+          "es": "El gobierno indonesio anuncia una revisión integral de las normas de seguridad de los ferris."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -99.539,
+      18.3444
+    ],
+    "id": "mexique-ayotzinapa-aguirre",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Excélsior / Reforma / CNN en Español",
+    "place": {
+      "fr": "Iguala, Guerrero, Mexique (arrestation dans l'État de Mexico)",
+      "en": "Iguala, Guerrero, Mexico (detained in the State of Mexico)",
+      "es": "Iguala, Guerrero, México (detenido en el Estado de México)"
+    },
+    "title": {
+      "fr": "L'ex-gouverneur du Guerrero Ángel Aguirre détenu dans l'affaire Ayotzinapa",
+      "en": "Former Guerrero governor Ángel Aguirre detained over Ayotzinapa case",
+      "es": "Detienen al exgobernador de Guerrero Ángel Aguirre por el caso Ayotzinapa"
+    },
+    "summary": {
+      "fr": "Le parquet fédéral mexicain (FGR) a arrêté le 6 août Ángel Aguirre Rivero, 70 ans, gouverneur du Guerrero au moment de la disparition de 43 étudiants en 2014, pour dissimulation présumée de vidéos de la nuit du 26 septembre 2014 près du palais de justice d'Iguala. La procureure générale Ernestina Godoy a déclaré que de nouveaux témoignages indiquaient que ces enregistrements existaient et auraient été retirés après les faits.",
+      "en": "Mexico's federal prosecutor's office (FGR) detained 70-year-old Ángel Aguirre Rivero, governor of Guerrero at the time of the 2014 disappearance of 43 students, on August 6, over alleged concealment of video footage from the night of September 26, 2014, near the Iguala courthouse. Attorney General Ernestina Godoy said new testimony indicated the recordings existed and were removed after the events.",
+      "es": "La Fiscalía General de la República de México (FGR) detuvo el 6 de agosto a Ángel Aguirre Rivero, de 70 años, gobernador de Guerrero en el momento de la desaparición de 43 estudiantes en 2014, por el presunto ocultamiento de videos de la noche del 26 de septiembre de 2014 cerca del palacio de justicia de Iguala. La fiscal general Ernestina Godoy declaró que nuevos testimonios indicaban que esas grabaciones existían y habrían sido retiradas tras los hechos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Ángel Aguirre est arrêté dans le cadre d'une nouvelle approche d'enquête sur l'affaire Ayotzinapa.",
+          "en": "Ángel Aguirre is arrested as part of a new investigative approach to the Ayotzinapa case.",
+          "es": "Ángel Aguirre es detenido como parte de un nuevo enfoque de investigación del caso Ayotzinapa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -102.0537,
+      19.42
+    ],
+    "id": "mexique-avocat-inspections",
+    "status": "confirme",
+    "severe": true,
+    "category": "economie",
+    "icon": "🥑",
+    "source": "Reuters / CNN / U.S. News",
+    "place": {
+      "fr": "Michoacán, Mexique",
+      "en": "Michoacán, Mexico",
+      "es": "Michoacán, México"
+    },
+    "title": {
+      "fr": "Les États-Unis suspendent les inspections d'avocats au Michoacán après une menace sécuritaire",
+      "en": "United States suspends avocado inspections in Michoacán over security threat",
+      "es": "Estados Unidos suspende las inspecciones de aguacate en Michoacán tras una amenaza de seguridad"
+    },
+    "summary": {
+      "fr": "Les autorités américaines ont suspendu le 5 août les inspections d'exportation d'avocats au Michoacán après une alerte sécuritaire visant des inspecteurs américains, la troisième suspension de ce type ces dernières années. Le gouverneur du Michoacán, Alfredo Ramírez Bedolla, a qualifié la mesure de préventive, dans un contexte d'enquêtes pour extorsion ayant mené à 50 arrestations cette année. Le Mexique a déployé environ 1 500 militaires supplémentaires dans l'État et demandé des discussions urgentes pour reprendre les inspections.",
+      "en": "US authorities suspended avocado export inspections in Michoacán on August 5 following a security alert targeting American inspectors, the third such suspension in recent years. Michoacán Governor Alfredo Ramírez Bedolla called the move preventive, amid extortion investigations that have led to 50 arrests this year. Mexico deployed roughly 1,500 additional troops to the state and requested urgent talks to resume inspections.",
+      "es": "Las autoridades estadounidenses suspendieron el 5 de agosto las inspecciones de exportación de aguacate en Michoacán tras una alerta de seguridad dirigida a inspectores estadounidenses, la tercera suspensión de este tipo en los últimos años. El gobernador de Michoacán, Alfredo Ramírez Bedolla, calificó la medida de preventiva, en medio de investigaciones por extorsión que han llevado a 50 detenciones este año. México desplegó unos 1.500 militares adicionales en el estado y solicitó conversaciones urgentes para reanudar las inspecciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05-06/08/2026",
+          "en": "08/05-06/2026",
+          "es": "05-06/08/2026"
+        },
+        "d": {
+          "fr": "Washington suspend les inspections d'avocats au Michoacán ; le Mexique renforce sa présence militaire dans l'État.",
+          "en": "Washington suspends avocado inspections in Michoacán; Mexico strengthens its military presence in the state.",
+          "es": "Washington suspende las inspecciones de aguacate en Michoacán; México refuerza su presencia militar en el estado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "id": "bresil-selic-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La banque centrale du Brésil abaisse son taux directeur à 14 % pour la quatrième fois de suite",
+      "en": "Brazil's central bank cuts Selic rate to 14% in fourth consecutive reduction",
+      "es": "El banco central de Brasil recorta la tasa Selic a 14% por cuarta vez consecutiva"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire (Copom) de la banque centrale brésilienne, dirigé par Gabriel Galípolo, a abaissé à l'unanimité le taux directeur Selic de 25 points de base à 14 % le 5 août, une quatrième baisse consécutive portant l'assouplissement cumulé depuis mars à 100 points de base. Le comité a évoqué un ralentissement progressif de l'activité économique et une décélération de l'inflation, tout en notant que les pressions sur les prix restent au-dessus de la cible.",
+      "en": "The Brazilian central bank's monetary policy committee (Copom), led by Gabriel Galípolo, unanimously cut the benchmark Selic rate by 25 basis points to 14% on August 5, a fourth consecutive cut bringing cumulative easing since March to 100 basis points. The committee cited gradually moderating economic activity and decelerating inflation, while noting price pressures remain above target.",
+      "es": "El comité de política monetaria (Copom) del banco central de Brasil, liderado por Gabriel Galípolo, recortó por unanimidad la tasa Selic de referencia en 25 puntos básicos hasta el 14% el 5 de agosto, un cuarto recorte consecutivo que eleva el relajamiento acumulado desde marzo a 100 puntos básicos. El comité citó una moderación gradual de la actividad económica y una desaceleración de la inflación, aunque señaló que las presiones de precios siguen por encima del objetivo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le Copom abaisse le taux Selic à 14 %, quatrième baisse consécutive depuis mars.",
+          "en": "Copom cuts the Selic rate to 14%, a fourth consecutive cut since March.",
+          "es": "El Copom recorta la tasa Selic al 14%, cuarto recorte consecutivo desde marzo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      4.6167,
+      9.8667
+    ],
+    "id": "nigeria-otages-liberes",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "Al Jazeera / Washington Post / Vanguard",
+    "place": {
+      "fr": "Zone du parc national du lac Kainji, États de Niger et Kwara, Nigeria",
+      "en": "Kainji Lake National Park area, Niger and Kwara States, Nigeria",
+      "es": "Zona del parque nacional del lago Kainji, estados de Níger y Kwara, Nigeria"
+    },
+    "title": {
+      "fr": "308 otages libérés au Nigeria lors de la plus vaste opération de sauvetage du pays",
+      "en": "308 kidnap victims freed in Nigeria's largest single-day rescue",
+      "es": "308 rehenes liberados en Nigeria en el mayor rescate en un solo día del país"
+    },
+    "summary": {
+      "fr": "L'armée nigériane, le Centre national de lutte contre le terrorisme, les services de renseignement intérieur (DSS) et la police ont libéré conjointement 308 victimes d'enlèvement détenues dans un repaire forestier près du parc national du lac Kainji, à la frontière des États de Niger et Kwara. Parmi elles, 163 avaient été enlevées à Woro, dans l'État de Kwara, lors d'une attaque en février, et au moins 145 lors d'incidents distincts dans l'État de Niger. La présidence a qualifié l'opération de plus vaste sauvetage réalisé en une seule journée dans le pays.",
+      "en": "Nigeria's military, the National Counter-Terrorism Centre, the Department of State Services and police jointly freed 308 kidnap victims held in a forest hideout near Kainji Lake National Park, on the border of Niger and Kwara States. Of those rescued, 163 had been abducted from Woro in Kwara State during a February attack and at least 145 from separate incidents in Niger State. The presidency described it as the country's largest single-day rescue operation.",
+      "es": "El ejército de Nigeria, el Centro Nacional de Lucha contra el Terrorismo, el Departamento de Servicios de Seguridad (DSS) y la policía liberaron conjuntamente a 308 víctimas de secuestro retenidas en un escondite forestal cerca del parque nacional del lago Kainji, en la frontera de los estados de Níger y Kwara. De los rescatados, 163 habían sido secuestrados en Woro, estado de Kwara, durante un ataque en febrero, y al menos 145 en incidentes distintos en el estado de Níger. La presidencia calificó la operación como el mayor rescate en un solo día del país."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Les forces de sécurité nigérianes annoncent la libération de 308 otages près du lac Kainji.",
+          "en": "Nigerian security forces announce the release of 308 hostages near Lake Kainji.",
+          "es": "Las fuerzas de seguridad nigerianas anuncian la liberación de 308 rehenes cerca del lago Kainji."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "coords": [
+      32.35,
+      30.3
+    ],
+    "id": "egypte-suez-seisme",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "The National / Egypt Today / The New Arab",
+    "place": {
+      "fr": "Région de Suez, gouvernorat d'Ismaïlia, Égypte",
+      "en": "Suez area, Ismailia Governorate, Egypt",
+      "es": "Zona de Suez, gobernación de Ismailía, Egipto"
+    },
+    "title": {
+      "fr": "Un séisme près de Suez ressenti dans toute l'Égypte et les pays voisins",
+      "en": "Earthquake near Suez felt across Egypt and neighboring countries",
+      "es": "Un terremoto cerca de Suez se siente en todo Egipto y países vecinos"
+    },
+    "summary": {
+      "fr": "Un séisme a frappé vers 3h du matin le 3 août à environ 40 km au nord de Suez, suivi de cinq répliques. Les magnitudes rapportées varient légèrement selon les agences, de 5,0 (USGS) à 5,6 selon des sources régionales, le Centre de recherche allemand en géosciences évoquant 5,4 à environ 10 km de profondeur. Le Croissant-Rouge égyptien a activé ses protocoles d'urgence ; la plupart des sources ne font état d'aucun mort ni dégât structurel majeur, bien que le Times of Israel ait mentionné au moins un blessé en Égypte.",
+      "en": "An earthquake struck around 3 a.m. on August 3 about 40 km north of Suez, followed by five aftershocks. Reported magnitudes vary slightly by agency, from 5.0 (USGS) to 5.6 according to regional sources, with Germany's GFZ geosciences center citing 5.4 at a depth of about 10 km. Egypt's Red Crescent activated emergency protocols; most sources report no deaths or major structural damage, though the Times of Israel noted at least one injury in Egypt.",
+      "es": "Un terremoto sacudió hacia las 3h de la madrugada del 3 de agosto, a unos 40 km al norte de Suez, seguido de cinco réplicas. Las magnitudes reportadas varían ligeramente según la agencia, de 5,0 (USGS) a 5,6 según fuentes regionales, mientras el centro alemán de geociencias GFZ citó 5,4 a unos 10 km de profundidad. La Media Luna Roja egipcia activó sus protocolos de emergencia; la mayoría de las fuentes no reportan muertos ni daños estructurales importantes, aunque el Times of Israel mencionó al menos un herido en Egipto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "08/03/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude estimée entre 5,0 et 5,6 frappe près de Suez et est ressenti au Caire, à Gaza, en Jordanie, au Liban et en Israël.",
+          "en": "An earthquake estimated at magnitude 5.0 to 5.6 strikes near Suez and is felt in Cairo, Gaza, Jordan, Lebanon and Israel.",
+          "es": "Un terremoto de magnitud estimada entre 5,0 y 5,6 sacude cerca de Suez y se siente en El Cairo, Gaza, Jordania, Líbano e Israel."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "id": "gaza-frappes-aout",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera (sourced to Palestinian health officials)",
+    "place": {
+      "fr": "Ville de Gaza, al-Qarara et Deir el-Balah, bande de Gaza",
+      "en": "Gaza City, al-Qarara and Deir el-Balah, Gaza Strip",
+      "es": "Ciudad de Gaza, al-Qarara y Deir al-Balah, Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes dans la bande de Gaza font au moins 19 morts palestiniens",
+      "en": "Israeli strikes across Gaza Strip kill at least 19 Palestinians",
+      "es": "Ataques israelíes en la Franja de Gaza dejan al menos 19 muertos palestinos"
+    },
+    "summary": {
+      "fr": "Selon les autorités sanitaires palestiniennes, des frappes israéliennes ont fait au moins 19 morts le 3 août dans plusieurs zones de Gaza, dont des membres d'une même famille dans des immeubles résidentiels de Gaza-ville et de Deir el-Balah, ainsi que des personnes dans une tente de déplacés du quartier de Remal. Ce bilan intervient alors que le président américain Donald Trump promeut une nouvelle initiative de paix pour l'enclave. L'armée israélienne n'a pas publié de décompte détaillé correspondant et affirme généralement viser des combattants et infrastructures militaires. Les chiffres de victimes à Gaza proviennent du ministère de la Santé, dirigé par le Hamas, et ne peuvent être vérifiés de façon indépendante.",
+      "en": "According to Palestinian health officials, Israeli strikes killed at least 19 people on August 3 across several areas of Gaza, including members of the same family in residential buildings in Gaza City and Deir el-Balah, and people in a displacement tent in the Remal neighborhood. The toll came as US President Donald Trump promoted a new peace initiative for the enclave. Israel's military has not issued a matching detailed breakdown and generally states its operations target militants and military infrastructure. Casualty figures in Gaza are supplied by the Hamas-run Health Ministry and cannot be independently verified.",
+      "es": "Según las autoridades sanitarias palestinas, ataques israelíes mataron a al menos 19 personas el 3 de agosto en varias zonas de Gaza, incluidos miembros de una misma familia en edificios residenciales de Ciudad de Gaza y Deir al-Balah, y personas en una tienda de desplazados en el barrio de Remal. El balance se produjo mientras el presidente estadounidense Donald Trump promovía una nueva iniciativa de paz para el enclave. El ejército israelí no ha publicado un desglose detallado equivalente y generalmente afirma que sus operaciones apuntan a combatientes e infraestructura militar. Las cifras de víctimas en Gaza provienen del Ministerio de Salud, dirigido por Hamás, y no pueden verificarse de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "08/03/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Des frappes israéliennes touchent plusieurs zones de Gaza, faisant au moins 19 morts selon les autorités sanitaires locales.",
+          "en": "Israeli strikes hit several areas of Gaza, killing at least 19 according to local health officials.",
+          "es": "Ataques israelíes golpean varias zonas de Gaza, dejando al menos 19 muertos según las autoridades sanitarias locales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "coords": [
+      34.7913,
+      31.2518
+    ],
+    "id": "israel-colon-inculpation",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Post / CNN / RTE",
+    "place": {
+      "fr": "Tribunal de district de Beer-Sheva, Israël (affaire liée à Massafer Yatta, Cisjordanie)",
+      "en": "Beersheba District Court, Israel (case tied to Masafer Yatta, West Bank)",
+      "es": "Tribunal de distrito de Beerseba, Israel (caso vinculado a Masafer Yatta, Cisjordania)"
+    },
+    "title": {
+      "fr": "Un colon inculpé en Israël pour l'homicide d'un militant palestinien en 2025",
+      "en": "Israeli settler indicted over 2025 killing of Palestinian activist",
+      "es": "Colono israelí acusado por el homicidio de un activista palestino en 2025"
+    },
+    "summary": {
+      "fr": "Le parquet israélien a inculpé le 6 août le colon Yinon Levi d'homicide par imprudence (peine maximale de 12 ans), d'intrusion armée et de dégradation malveillante de biens, en lien avec la mort en juillet 2025 d'Odeh Hathaleen, militant palestinien de 31 ans connu pour son opposition aux violences de colons et apparu dans le film « No Other Land ». Selon l'organisation israélienne de défense des droits B'Tselem, il s'agit de la première inculpation d'un Israélien pour le meurtre d'un Palestinien en Cisjordanie depuis les attaques du 7 octobre 2023.",
+      "en": "Israeli prosecutors indicted settler Yinon Levi on August 6 on charges of reckless manslaughter (maximum 12 years), armed trespassing and malicious property damage, over the July 2025 killing of Odeh Hathaleen, a 31-year-old Palestinian activist known for opposing settler violence and featured in the film 'No Other Land.' According to Israeli rights group B'Tselem, this is the first indictment of an Israeli for killing a Palestinian in the West Bank since the October 7, 2023 attacks.",
+      "es": "La fiscalía israelí acusó el 6 de agosto al colono Yinon Levi de homicidio imprudente (pena máxima de 12 años), allanamiento armado y daños maliciosos a la propiedad, en relación con la muerte en julio de 2025 de Odeh Hathaleen, activista palestino de 31 años conocido por oponerse a la violencia de los colonos y que apareció en la película 'No Other Land'. Según la organización israelí de derechos humanos B'Tselem, se trata de la primera acusación contra un israelí por matar a un palestino en Cisjordania desde los ataques del 7 de octubre de 2023."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le parquet israélien inculpe Yinon Levi pour la mort d'Odeh Hathaleen en juillet 2025.",
+          "en": "Israeli prosecutors indict Yinon Levi over the July 2025 death of Odeh Hathaleen.",
+          "es": "La fiscalía israelí acusa a Yinon Levi por la muerte de Odeh Hathaleen en julio de 2025."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
   }
 ]
