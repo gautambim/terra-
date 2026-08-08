@@ -829,5 +829,973 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "usa-spokane-incendies",
+    "coords": [
+      -117.5936,
+      47.6465
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CNN / NBC News / Al Jazeera / The Spokesman-Review",
+    "place": {
+      "fr": "Comté de Spokane (secteur d'Airway Heights), État de Washington, États-Unis",
+      "en": "Spokane County (Airway Heights area), Washington State, United States",
+      "es": "Condado de Spokane (zona de Airway Heights), estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Des incendies volontaires ravagent la région de Spokane, dans l'État de Washington",
+      "en": "Arson-linked wildfires devastate the Spokane area in Washington State",
+      "es": "Incendios provocados arrasan la zona de Spokane, en el estado de Washington"
+    },
+    "summary": {
+      "fr": "Trois incendies déclenchés le week-end du 1er-2 août 2026 ont détruit entre 700 et plus de 1 000 structures et forcé l'évacuation d'environ 60 000 à 67 000 personnes dans la région de Spokane. Un habitant de 37 ans, Aaron F. Farinacci, a été inculpé pour avoir volontairement déclenché l'incendie Old Trails.",
+      "en": "Three wildfires that broke out over the weekend of August 1-2, 2026 destroyed an estimated 700 to over 1,000 structures and forced roughly 60,000 to 67,000 evacuations in the Spokane area. A 37-year-old resident, Aaron F. Farinacci, was charged with arson for starting the Old Trails Fire.",
+      "es": "Tres incendios que estallaron el fin de semana del 1 y 2 de agosto de 2026 destruyeron entre 700 y más de 1.000 estructuras y obligaron a evacuar a entre 60.000 y 67.000 personas en la zona de Spokane. Un residente de 37 años, Aaron F. Farinacci, fue acusado de provocar intencionadamente el incendio Old Trails."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026 — mise à jour du confinement",
+          "en": "08/07/2026 — containment update",
+          "es": "07/08/2026 — actualización de la contención"
+        },
+        "d": {
+          "fr": "Les autorités du comté de Spokane font état d'un confinement de 23 à 37 % selon les foyers, alors que l'ampleur des dégâts continue d'être évaluée.",
+          "en": "Spokane County officials report containment ranging from 23% to 37% depending on the fire, as the scale of the damage continues to be assessed.",
+          "es": "Las autoridades del condado de Spokane informan de una contención de entre el 23 % y el 37 % según el foco, mientras continúa la evaluación de los daños."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "usa-emploi-juillet",
+    "coords": [
+      -77.0068,
+      38.8973
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "CNN Business / CNBC / NBC News",
+    "place": {
+      "fr": "Washington, D.C., États-Unis (Bureau of Labor Statistics)",
+      "en": "Washington, D.C., United States (Bureau of Labor Statistics)",
+      "es": "Washington, D.C., Estados Unidos (Oficina de Estadísticas Laborales)"
+    },
+    "title": {
+      "fr": "Les États-Unis perdent des emplois de façon inattendue en juillet",
+      "en": "US economy unexpectedly sheds jobs in July",
+      "es": "La economía de EE. UU. pierde empleos de forma inesperada en julio"
+    },
+    "summary": {
+      "fr": "Le Bureau of Labor Statistics a annoncé le 7 août 2026 une perte inattendue de 23 000 emplois en juillet, alors que les analystes prévoyaient une hausse. Les chiffres de mai et juin ont aussi été révisés nettement à la baisse, tandis que le taux de chômage recule légèrement à 4,1 %.",
+      "en": "The Bureau of Labor Statistics announced on August 7, 2026 an unexpected loss of 23,000 jobs in July, versus analyst forecasts of solid gains. May and June figures were also revised sharply downward, while the unemployment rate ticked down slightly to 4.1%.",
+      "es": "La Oficina de Estadísticas Laborales anunció el 7 de agosto de 2026 una pérdida inesperada de 23.000 empleos en julio, frente a las previsiones de los analistas de un aumento sólido. Las cifras de mayo y junio también fueron revisadas fuertemente a la baja, mientras la tasa de desempleo bajó levemente al 4,1 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "08/07/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Publication du rapport mensuel sur l'emploi par le Bureau of Labor Statistics.",
+          "en": "Release of the monthly jobs report by the Bureau of Labor Statistics.",
+          "es": "Publicación del informe mensual de empleo por la Oficina de Estadísticas Laborales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "canada-ontario-incendies",
+    "coords": [
+      -90.35,
+      48.85
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / The Weather Network",
+    "place": {
+      "fr": "Secteur du lac des Mille Lacs, nord-ouest de l'Ontario, Canada",
+      "en": "Lac des Mille Lacs area, northwestern Ontario, Canada",
+      "es": "Zona del lago des Mille Lacs, noroeste de Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Des feux de forêt hors de contrôle forcent l'évacuation de plusieurs Premières Nations dans le nord-ouest de l'Ontario",
+      "en": "Out-of-control wildfires force evacuation of several First Nations in northwestern Ontario",
+      "es": "Incendios forestales fuera de control obligan a evacuar a varias Primeras Naciones en el noroeste de Ontario"
+    },
+    "summary": {
+      "fr": "L'incendie Fort Frances 14, hors de contrôle, a dépassé 55 000 hectares début août, entraînant un ordre d'évacuation obligatoire pour plusieurs communautés, dont les Premières Nations de Lac La Croix, Collins, Whitesand et Lac des Mille Lacs. Plus de 113 feux étaient actifs dans le nord-ouest de la province.",
+      "en": "The out-of-control Fort Frances 14 fire surpassed 55,000 hectares in early August, triggering a mandatory evacuation order for several communities, including the Lac La Croix, Collins, Whitesand and Lac des Mille Lacs First Nations. More than 113 fires were active in the northwestern part of the province.",
+      "es": "El incendio Fort Frances 14, fuera de control, superó las 55.000 hectáreas a principios de agosto, lo que provocó una orden de evacuación obligatoria para varias comunidades, incluidas las Primeras Naciones de Lac La Croix, Collins, Whitesand y Lac des Mille Lacs. Más de 113 incendios estaban activos en el noroeste de la provincia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "08/07/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "CBC News rapporte l'élargissement de la zone d'urgence entre la route 17 et la route 11.",
+          "en": "CBC News reports the emergency area expanding between Highway 17 and Highway 11.",
+          "es": "CBC News informa de la ampliación de la zona de emergencia entre la carretera 17 y la carretera 11."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "chine-sichuan-seisme",
+    "coords": [
+      104.52,
+      28.44
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "CCTV / China Earthquake Networks Centre (via agences)",
+    "place": {
+      "fr": "District de Gao, ville de Yibin, province du Sichuan, Chine",
+      "en": "Gao County, Yibin City, Sichuan Province, China",
+      "es": "Distrito de Gao, ciudad de Yibin, provincia de Sichuan, China"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 4,9 fait un mort dans le Sichuan",
+      "en": "Magnitude-4.9 earthquake kills one in Sichuan",
+      "es": "Un terremoto de magnitud 4,9 deja un muerto en Sichuan"
+    },
+    "summary": {
+      "fr": "Un séisme peu profond de magnitude 4,9 a frappé le district de Gao, dans la ville de Yibin, le 7 août 2026 vers 13h heure locale. Une personne est décédée, écrasée par un mur en fuyant son domicile, et six autres ont été légèrement blessées, selon le Centre chinois des réseaux sismologiques.",
+      "en": "A shallow magnitude-4.9 earthquake struck Gao County, in Yibin City, on August 7, 2026 around 1 p.m. local time. One person died after being crushed by a collapsing wall while fleeing their home, and six others were slightly injured, according to the China Earthquake Networks Centre.",
+      "es": "Un terremoto superficial de magnitud 4,9 sacudió el distrito de Gao, en la ciudad de Yibin, el 7 de agosto de 2026 hacia las 13:00 hora local. Una persona murió aplastada por un muro que se derrumbó mientras huía de su vivienda, y otras seis resultaron levemente heridas, según el Centro de Redes Sismológicas de China."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026, vers 13h00",
+          "en": "08/07/2026, around 1:00 PM",
+          "es": "07/08/2026, hacia las 13:00"
+        },
+        "d": {
+          "fr": "Les autorités locales confirment un mort et six blessés légers et déploient les secours.",
+          "en": "Local authorities confirm one death and six minor injuries and deploy emergency response teams.",
+          "es": "Las autoridades locales confirman un muerto y seis heridos leves y despliegan a los equipos de emergencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-dolphin",
+    "coords": [
+      127.68,
+      26.21
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪️",
+    "source": "Reuters / Rappler / Washington Times",
+    "place": {
+      "fr": "Préfecture d'Okinawa (région de Naha), Japon",
+      "en": "Okinawa Prefecture (Naha area), Japan",
+      "es": "Prefectura de Okinawa (zona de Naha), Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin frappe Okinawa, blesse six personnes et coupe l'électricité à des dizaines de milliers de foyers",
+      "en": "Typhoon Dolphin strikes Okinawa, injuring six and cutting power to tens of thousands",
+      "es": "El tifón Dolphin golpea Okinawa, hiere a seis personas y corta la electricidad a decenas de miles de hogares"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin a touché Okinawa et Kagoshima les 7 et 8 août 2026, blessant six personnes — pour la plupart des personnes âgées tombées sous l'effet des vents violents — et privant d'électricité plus de 50 000 bâtiments. L'aéroport principal de Naha a fermé et plus de 500 vols ont été annulés.",
+      "en": "Typhoon Dolphin hit Okinawa and Kagoshima on August 7-8, 2026, injuring six people — mostly elderly residents who fell in the violent winds — and cutting power to more than 50,000 buildings. Naha's main airport closed and more than 500 flights were cancelled.",
+      "es": "El tifón Dolphin golpeó Okinawa y Kagoshima los días 7 y 8 de agosto de 2026, hiriendo a seis personas —en su mayoría ancianos que cayeron por los fuertes vientos— y dejando sin electricidad a más de 50.000 edificios. El principal aeropuerto de Naha cerró y se cancelaron más de 500 vuelos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités font état d'évacuations massives et de la suspension des opérations dans neuf usines Toyota du sud du Japon.",
+          "en": "Authorities report mass evacuations and the suspension of operations at nine Toyota factories in southern Japan.",
+          "es": "Las autoridades informan de evacuaciones masivas y la suspensión de operaciones en nueve fábricas de Toyota en el sur de Japón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "japon-intervention-yen",
+    "coords": [
+      139.65,
+      35.68
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "CNBC / NPR",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Japon et les États-Unis confirment une rare intervention conjointe pour soutenir le yen",
+      "en": "Japan and the US confirm a rare joint intervention to support the yen",
+      "es": "Japón y Estados Unidos confirman una rara intervención conjunta para apoyar el yen"
+    },
+    "summary": {
+      "fr": "Face à une chute du yen vers des plus bas de 40 ans, le ministère japonais des Finances a mené, en coordination avec le Trésor américain, une intervention d'achat de yens — la première opération conjointe de ce type depuis 2011. La ministre des Finances Satsuki Katayama a confirmé l'opération le 3 août 2026.",
+      "en": "Facing a slide of the yen toward 40-year lows, Japan's Ministry of Finance, coordinated with the US Treasury, carried out a yen-buying intervention — the first such joint operation since 2011. Finance Minister Satsuki Katayama confirmed the move on August 3, 2026.",
+      "es": "Ante una caída del yen hacia mínimos de 40 años, el Ministerio de Finanzas de Japón, en coordinación con el Tesoro de EE. UU., llevó a cabo una intervención de compra de yenes, la primera operación conjunta de este tipo desde 2011. La ministra de Finanzas, Satsuki Katayama, confirmó la operación el 3 de agosto de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "08/03/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Le dollar recule d'environ 1 % face au yen après la confirmation officielle de l'intervention.",
+          "en": "The dollar falls roughly 1% against the yen following official confirmation of the intervention.",
+          "es": "El dólar cae aproximadamente un 1 % frente al yen tras la confirmación oficial de la intervención."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-drone-leipzig",
+    "coords": [
+      12.2364,
+      51.4239
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛸💣",
+    "source": "Al Jazeera / CNN / NPR",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Schkeuditz, Saxe, Allemagne",
+      "en": "Leipzig/Halle Airport, Schkeuditz, Saxony, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Schkeuditz, Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "Un drone chargé d'explosifs découvert près de l'aéroport de Leipzig/Halle",
+      "en": "Explosive-laden drone found near Leipzig/Halle Airport",
+      "es": "Hallan un dron cargado de explosivos cerca del aeropuerto de Leipzig/Halle"
+    },
+    "summary": {
+      "fr": "Un drone équipé d'environ 800 grammes d'explosif et d'un détonateur a été retrouvé dans la nuit du 4 au 5 août 2026 près de la piste sud de l'aéroport de Leipzig/Halle, à proximité d'un avion-cargo ukrainien. Le ministre de l'Intérieur Alexander Dobrindt a évoqué un possible « scénario d'attaque hybride »; un défaut du détonateur aurait empêché l'explosion.",
+      "en": "A drone equipped with roughly 800 grams of explosive material and a detonator was found overnight on August 4-5, 2026 near the airport's south runway, close to a Ukrainian cargo plane. Interior Minister Alexander Dobrindt described it as a possible 'hybrid attack scenario'; a faulty detonator apparently prevented it from going off.",
+      "es": "Un dron equipado con unos 800 gramos de explosivo y un detonador fue hallado en la noche del 4 al 5 de agosto de 2026 cerca de la pista sur del aeropuerto de Leipzig/Halle, cerca de un avión de carga ucraniano. El ministro del Interior, Alexander Dobrindt, habló de un posible 'escenario de ataque híbrido'; un fallo en el detonador habría impedido la explosión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "L'aéroport, brièvement perturbé, reprend un fonctionnement normal tandis que l'enquête se poursuit.",
+          "en": "The airport, briefly disrupted, resumes normal operations as the investigation continues.",
+          "es": "El aeropuerto, brevemente afectado, reanuda su funcionamiento normal mientras continúa la investigación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "france-marseille-incendie",
+    "coords": [
+      5.435,
+      43.239
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "France 3 Régions / ici.fr",
+    "place": {
+      "fr": "Quartier de la Valmante, 9e arrondissement, Marseille, France",
+      "en": "Valmante neighborhood, 9th arrondissement, Marseille, France",
+      "es": "Barrio de la Valmante, distrito 9, Marsella, Francia"
+    },
+    "title": {
+      "fr": "Un homme meurt dans l'incendie d'un immeuble de vingt étages à Marseille",
+      "en": "Man dies in fire at a twenty-story building in Marseille",
+      "es": "Un hombre muere en el incendio de un edificio de veinte plantas en Marsella"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré le 4 août 2026 vers 16h30 au cinquième étage d'un immeuble de vingt étages à Marseille. Un homme d'une cinquantaine d'années a été retrouvé en arrêt cardiaque et n'a pas pu être réanimé. Une centaine de pompiers sont intervenus pendant environ dix heures; une plainte a été déposée pour enquêter sur une possible origine criminelle.",
+      "en": "A fire broke out on August 4, 2026 around 4:30 p.m. on the fifth floor of a twenty-story building in Marseille. A man in his fifties was found in cardiac arrest and could not be revived. About 100 firefighters battled the blaze for roughly ten hours; a complaint was filed to investigate a possible criminal origin.",
+      "es": "Un incendio se declaró el 4 de agosto de 2026 hacia las 16:30 en el quinto piso de un edificio de veinte plantas en Marsella. Un hombre de unos cincuenta años fue hallado en parada cardiaca y no pudo ser reanimado. Un centenar de bomberos combatieron el fuego durante unas diez horas; se presentó una denuncia para investigar un posible origen criminal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026, 16h30",
+          "en": "08/04/2026, 4:30 PM",
+          "es": "04/08/2026, 16:30"
+        },
+        "d": {
+          "fr": "France 3 et ici.fr rapportent la mort d'un homme et les dégâts causés à trois appartements voisins.",
+          "en": "France 3 and ici.fr report the death of a man and damage caused to three neighboring apartments.",
+          "es": "France 3 e ici.fr informan de la muerte de un hombre y de los daños causados en tres apartamentos vecinos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "france-tdf-femmes-ventoux",
+    "coords": [
+      5.2783,
+      44.1741
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴‍♀️",
+    "source": "The Washington Post / Cyclingnews",
+    "place": {
+      "fr": "Mont Ventoux, Vaucluse, France",
+      "en": "Mont Ventoux, Vaucluse, France",
+      "es": "Mont Ventoux, Vaucluse, Francia"
+    },
+    "title": {
+      "fr": "Kasia Niewiadoma-Phinney s'impose au sommet du Mont Ventoux et prend le maillot jaune",
+      "en": "Kasia Niewiadoma-Phinney wins atop Mont Ventoux and takes the yellow jersey",
+      "es": "Kasia Niewiadoma-Phinney gana en la cima del Mont Ventoux y toma el maillot amarillo"
+    },
+    "summary": {
+      "fr": "La coureuse polonaise Kasia Niewiadoma-Phinney a attaqué à environ 9,7 km de l'arrivée lors de la 7e étape du Tour de France Femmes, le 7 août 2026, s'imposant en solitaire au sommet du Mont Ventoux avec 1 min 16 s d'avance sur Demi Vollering. Elle s'empare du maillot jaune avec 15 secondes d'avance au classement général.",
+      "en": "Polish rider Kasia Niewiadoma-Phinney attacked roughly 9.7 km from the finish during stage 7 of the Tour de France Femmes on August 7, 2026, soloing to victory atop Mont Ventoux 1:16 ahead of Demi Vollering. She took the yellow jersey with a 15-second lead in the overall standings.",
+      "es": "La ciclista polaca Kasia Niewiadoma-Phinney atacó a unos 9,7 km de la meta en la etapa 7 del Tour de Francia femenino, el 7 de agosto de 2026, y se impuso en solitario en la cima del Mont Ventoux con 1 min 16 s de ventaja sobre Demi Vollering. Se hizo con el maillot amarillo con 15 segundos de ventaja en la general."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "08/07/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Il s'agit de la première victoire d'étape individuelle de Niewiadoma-Phinney sur le Tour de France Femmes, qui doit s'achever le 9 août à Nice.",
+          "en": "It is Niewiadoma-Phinney's first individual stage win at the Tour de France Femmes, which is set to conclude on August 9 in Nice.",
+          "es": "Es la primera victoria de etapa individual de Niewiadoma-Phinney en el Tour de Francia femenino, que concluirá el 9 de agosto en Niza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-covent-garden",
+    "coords": [
+      -0.1246,
+      51.515
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "CNN / NBC News / ITV News London",
+    "place": {
+      "fr": "Endell Street, Covent Garden, Londres, Royaume-Uni",
+      "en": "Endell Street, Covent Garden, London, United Kingdom",
+      "es": "Endell Street, Covent Garden, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Quatre hommes poignardés à Covent Garden, à Londres",
+      "en": "Four men stabbed in Covent Garden, London",
+      "es": "Cuatro hombres apuñalados en Covent Garden, Londres"
+    },
+    "summary": {
+      "fr": "Quatre hommes âgés de 34 à 52 ans ont été poignardés le 5 août 2026 avant midi sur Endell Street, dans le quartier de Covent Garden. Une femme de 47 ans a été arrêtée pour détention d'une arme et agression. La police métropolitaine indique que l'incident semble isolé et lié à des problèmes de santé mentale plutôt qu'au terrorisme.",
+      "en": "Four men aged 34 to 52 were stabbed on August 5, 2026 before noon on Endell Street, in the Covent Garden area. A 47-year-old woman was arrested on suspicion of possessing a weapon and assault. The Metropolitan Police say the incident appears isolated and related to mental health rather than terrorism.",
+      "es": "Cuatro hombres de entre 34 y 52 años fueron apuñalados el 5 de agosto de 2026 antes del mediodía en Endell Street, en la zona de Covent Garden. Una mujer de 47 años fue detenida por posesión de un arma y agresión. La Policía Metropolitana indica que el incidente parece aislado y relacionado con problemas de salud mental, no con el terrorismo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Deux des victimes sont hospitalisées avec des blessures sans pronostic vital engagé, les deux autres sont sorties de l'hôpital.",
+          "en": "Two of the victims are hospitalized with non-life-threatening injuries, while the other two have been discharged.",
+          "es": "Dos de las víctimas están hospitalizadas con heridas sin riesgo vital, mientras que las otras dos ya han sido dadas de alta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "italie-pise-seisme",
+    "coords": [
+      10.35,
+      43.68
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "ANSA / Protezione Civile / INGV",
+    "place": {
+      "fr": "À environ 5-7 km au sud-ouest de Pise, Toscane, Italie",
+      "en": "About 5-7 km southwest of Pisa, Tuscany, Italy",
+      "es": "A unos 5-7 km al suroeste de Pisa, Toscana, Italia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 4,3 secoue la région de Pise sans faire de blessés",
+      "en": "Magnitude-4.3 earthquake shakes the Pisa region with no injuries reported",
+      "es": "Un terremoto de magnitud 4,3 sacude la región de Pisa sin causar heridos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 4,3 (4,1 selon l'INGV) a frappé la province de Pise le 4 août 2026 vers 10h15, suivi de répliques dans la journée. Aucun blessé ni dégât structurel n'a été signalé, y compris pour la Tour penchée; la circulation ferroviaire a été brièvement suspendue par précaution.",
+      "en": "A magnitude-4.3 earthquake (4.1 per INGV) struck Pisa province on August 4, 2026 around 10:15 a.m., followed by aftershocks later in the day. No injuries or structural damage were reported, including to the Leaning Tower; rail service was briefly suspended as a precaution.",
+      "es": "Un terremoto de magnitud 4,3 (4,1 según el INGV) sacudió la provincia de Pisa el 4 de agosto de 2026 hacia las 10:15, seguido de réplicas durante el día. No se reportaron heridos ni daños estructurales, tampoco en la Torre inclinada; el servicio ferroviario se suspendió brevemente por precaución."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026, 10h15",
+          "en": "08/04/2026, 10:15 AM",
+          "es": "04/08/2026, 10:15"
+        },
+        "d": {
+          "fr": "La Protection civile italienne et l'INGV confirment l'absence de dégâts significatifs.",
+          "en": "Italy's Civil Protection department and INGV confirm no significant damage.",
+          "es": "La Protección Civil italiana y el INGV confirman que no hay daños significativos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "inde-kerala-inondations",
+    "coords": [
+      76.7273,
+      9.8965
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Gulf News / The Watchers",
+    "place": {
+      "fr": "District d'Idukki (secteur de Thodupuzha), Kerala, Inde",
+      "en": "Idukki district (Thodupuzha area), Kerala, India",
+      "es": "Distrito de Idukki (zona de Thodupuzha), Kerala, India"
+    },
+    "title": {
+      "fr": "Les inondations et glissements de terrain font au moins 26 morts au Kerala",
+      "en": "Floods and landslides kill at least 26 in Kerala",
+      "es": "Las inundaciones y deslizamientos de tierra dejan al menos 26 muertos en Kerala"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson provoquent depuis le 1er août 2026 des glissements de terrain et des crues éclair dans les districts montagneux du Kerala. Le bilan atteint au moins 26 morts, 4 disparus et 11 blessés au 6-7 août, avec plus de 11 000 personnes déplacées dans des camps de secours.",
+      "en": "Heavy monsoon rain has triggered landslides and flash floods since August 1, 2026 across Kerala's hill districts. The toll reached at least 26 dead, 4 missing and 11 injured by August 6-7, with more than 11,000 people displaced into relief camps.",
+      "es": "Las intensas lluvias monzónicas provocan desde el 1 de agosto de 2026 deslizamientos de tierra e inundaciones repentinas en los distritos montañosos de Kerala. El balance alcanza al menos 26 muertos, 4 desaparecidos y 11 heridos hasta el 6-7 de agosto, con más de 11.000 personas desplazadas a campamentos de ayuda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le chef du gouvernement du Kerala, V.D. Satheesan, annonce une compensation aux familles des victimes alors que douze districts restent en alerte orange.",
+          "en": "Kerala Chief Minister V.D. Satheesan announces compensation for victims' families as twelve districts remain on orange alert.",
+          "es": "El jefe de Gobierno de Kerala, V.D. Satheesan, anuncia una compensación para las familias de las víctimas mientras doce distritos permanecen en alerta naranja."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "inde-rbi-taux",
+    "coords": [
+      72.8353,
+      18.9331
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Forbes India / IndiaInfoline",
+    "place": {
+      "fr": "Mumbai, Inde (siège de la Reserve Bank of India)",
+      "en": "Mumbai, India (Reserve Bank of India headquarters)",
+      "es": "Bombay, India (sede del Banco de la Reserva de la India)"
+    },
+    "title": {
+      "fr": "La Banque centrale indienne maintient son taux directeur et relève ses prévisions de croissance",
+      "en": "India's central bank holds rates steady and raises growth forecast",
+      "es": "El banco central de la India mantiene su tasa de interés y eleva su previsión de crecimiento"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Reserve Bank of India a maintenu, le 5 août 2026, son taux directeur à 5,25 %, tout en relevant sa prévision de croissance pour l'exercice 2026-2027 à 6,7 % et en abaissant sa prévision d'inflation à 5 %.",
+      "en": "The Reserve Bank of India's Monetary Policy Committee kept its repo rate unchanged at 5.25% on August 5, 2026, while raising its FY2026-27 growth forecast to 6.7% and cutting its inflation forecast to 5%.",
+      "es": "El Comité de Política Monetaria del Banco de la Reserva de la India mantuvo el 5 de agosto de 2026 su tasa de interés en el 5,25 %, al tiempo que elevó su previsión de crecimiento para el ejercicio 2026-2027 al 6,7 % y redujo su previsión de inflación al 5 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur Sanjay Malhotra évoque des tensions géopolitiques et la volatilité de la mousson pour justifier une pause; la prochaine réunion est prévue du 5 au 7 octobre.",
+          "en": "Governor Sanjay Malhotra cites geopolitical tensions and monsoon volatility as reasons for the pause; the next meeting is set for October 5-7.",
+          "es": "El gobernador Sanjay Malhotra cita las tensiones geopolíticas y la volatilidad del monzón como motivos de la pausa; la próxima reunión está prevista para el 5-7 de octubre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-ferry-incendie",
+    "coords": [
+      114.3,
+      -6.73
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / NPR / The Washington Post",
+    "place": {
+      "fr": "Mer de Java, au large de l'île de Sapudi, régence de Sumenep, Indonésie",
+      "en": "Java Sea, off Sapudi Island, Sumenep Regency, Indonesia",
+      "es": "Mar de Java, frente a la isla de Sapudi, regencia de Sumenep, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry prend feu en mer de Java, au moins cinq morts et des dizaines de disparus",
+      "en": "Ferry catches fire in the Java Sea, at least five dead and dozens missing",
+      "es": "Un ferri se incendia en el mar de Java, con al menos cinco muertos y decenas de desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry Mutiara Sentosa 2, qui reliait Surabaya à Makassar avec 271 personnes à bord, a pris feu le 2 août 2026 au petit matin, forçant des passagers à sauter à l'eau. L'agence indonésienne de recherche et de sauvetage (Basarnas) a secouru 227 à 229 personnes et récupéré cinq corps; le nombre exact de disparus restait incertain en raison d'écarts dans le manifeste.",
+      "en": "The Mutiara Sentosa 2 ferry, sailing from Surabaya to Makassar with 271 people aboard, caught fire in the early morning of August 2, 2026, forcing passengers to jump overboard. Indonesia's search and rescue agency (Basarnas) rescued 227 to 229 people and recovered five bodies; the exact number missing remained uncertain due to discrepancies in the passenger manifest.",
+      "es": "El ferri Mutiara Sentosa 2, que viajaba de Surabaya a Makassar con 271 personas a bordo, se incendió en la madrugada del 2 de agosto de 2026, obligando a los pasajeros a saltar al mar. La agencia indonesia de búsqueda y rescate (Basarnas) rescató entre 227 y 229 personas y recuperó cinco cuerpos; el número exacto de desaparecidos seguía siendo incierto por discrepancias en el manifiesto de pasajeros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026, vers 6h-7h",
+          "en": "08/02/2026, around 6-7 AM",
+          "es": "02/08/2026, hacia las 6:00-7:00"
+        },
+        "d": {
+          "fr": "Une enquête de sécurité est ouverte; l'incendie serait parti du pont inférieur des véhicules, peut-être depuis un camion.",
+          "en": "A safety inquiry was opened; the fire is believed to have started on the lower vehicle deck, possibly from a truck.",
+          "es": "Se abrió una investigación de seguridad; se cree que el incendio se originó en la cubierta inferior de vehículos, posiblemente en un camión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "bresil-tempete-tornade",
+    "coords": [
+      -51.4608,
+      -29.6889
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪️",
+    "source": "Terra / ClicRDC / O Tempo",
+    "place": {
+      "fr": "Montenegro (RS-124), Rio Grande do Sul, Brésil",
+      "en": "Montenegro (RS-124 highway), Rio Grande do Sul, Brazil",
+      "es": "Montenegro (carretera RS-124), Rio Grande do Sul, Brasil"
+    },
+    "title": {
+      "fr": "Une tempête violente et une tornade font un mort et coupent l'électricité dans le Rio Grande do Sul",
+      "en": "Severe storm and tornado kill one and cut power across Rio Grande do Sul",
+      "es": "Una tormenta violenta y un tornado dejan un muerto y cortan la electricidad en Rio Grande do Sul"
+    },
+    "summary": {
+      "fr": "Un système orageux avec des vents atteignant 120 km/h a frappé le Rio Grande do Sul le 6 août 2026, provoquant une tornade près de Pedro Osório. Un motard est mort écrasé par un arbre sur la route RS-124 à Montenegro, cinq autres personnes ont été blessées et plus de 1 800 ont été déplacées; l'électricité a été coupée pour plus de 280 000 points de raccordement.",
+      "en": "A storm system with winds reaching 120 km/h struck Rio Grande do Sul on August 6, 2026, spawning a tornado near Pedro Osório. A motorcyclist died after a tree fell on him on the RS-124 highway in Montenegro, five other people were injured and more than 1,800 were displaced; power was cut to over 280,000 connection points.",
+      "es": "Un sistema de tormentas con vientos de hasta 120 km/h golpeó Rio Grande do Sul el 6 de agosto de 2026, generando un tornado cerca de Pedro Osório. Un motociclista murió al caerle un árbol encima en la carretera RS-124, en Montenegro; otras cinco personas resultaron heridas y más de 1.800 fueron desplazadas; la electricidad se cortó en más de 280.000 puntos de conexión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "La Défense civile de l'État (CMDEC) confirme la tornade et des rafales record à Porto Alegre et Canoas.",
+          "en": "The state Civil Defense agency (CMDEC) confirms the tornado and record wind gusts in Porto Alegre and Canoas.",
+          "es": "La Defensa Civil del estado (CMDEC) confirma el tornado y ráfagas récord en Porto Alegre y Canoas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "russie-drone-entrepot-moscou",
+    "coords": [
+      37.4602,
+      55.1477
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Bloomberg / The Moscow Times / Euronews",
+    "place": {
+      "fr": "Zone industrielle de Novosselki, district de Tchekhov, région de Moscou, Russie",
+      "en": "Novoselki industrial zone, Chekhov district, Moscow region, Russia",
+      "es": "Zona industrial de Novoselki, distrito de Chéjov, región de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une attaque de drone fait cinq morts dans un entrepôt de la région de Moscou",
+      "en": "Drone strike kills five at a warehouse in the Moscow region",
+      "es": "Un ataque con dron deja cinco muertos en un almacén de la región de Moscú"
+    },
+    "summary": {
+      "fr": "Selon le gouverneur régional Andreï Vorobiov, un drone a frappé un entrepôt de la zone industrielle de Novosselki, dans le district de Tchekhov, tuant cinq personnes et en blessant dix, dans la nuit du 3 au 4 août 2026. Kiev n'a pas commenté publiquement cette frappe précise; l'Ukraine affirme cibler des sites qu'elle estime liés à la logistique militaire russe.",
+      "en": "According to regional governor Andrei Vorobyov, a drone struck a warehouse in the Novoselki industrial zone, Chekhov district, killing five people and injuring ten overnight on August 3-4, 2026. Kyiv did not publicly comment on this specific strike; Ukraine says it targets sites it considers linked to Russian military logistics.",
+      "es": "Según el gobernador regional Andréi Vorobiov, un dron impactó en un almacén de la zona industrial de Novoselki, distrito de Chéjov, matando a cinco personas y dejando diez heridos durante la noche del 3 al 4 de agosto de 2026. Kiev no comentó públicamente este ataque en particular; Ucrania afirma atacar instalaciones que considera vinculadas a la logística militar rusa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026 (nuit)",
+          "en": "08/04/2026 (overnight)",
+          "es": "04/08/2026 (noche)"
+        },
+        "d": {
+          "fr": "Deux autres entrepôts, dont un site du géant du e-commerce Wildberries dans la région de Tver, ont également été visés la même nuit selon les autorités russes.",
+          "en": "Two other warehouses, including a site belonging to e-commerce giant Wildberries in the Tver region, were also targeted the same night, according to Russian authorities.",
+          "es": "Otros dos almacenes, incluido uno del gigante del comercio electrónico Wildberries en la región de Tver, también fueron alcanzados esa misma noche, según las autoridades rusas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-kyiv-frappe",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "UN News",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe attribuée à la Russie fait au moins 17 morts à Kyiv, la plus meurtrière de l'année sur la capitale",
+      "en": "Strike attributed to Russia kills at least 17 in Kyiv, the deadliest of the year on the capital",
+      "es": "Un ataque atribuido a Rusia deja al menos 17 muertos en Kiev, el más mortífero del año en la capital"
+    },
+    "summary": {
+      "fr": "Une vague de missiles et de drones s'est abattue sur Kyiv dans la nuit du 4 au 5 août 2026, tuant au moins 17 personnes et endommageant des infrastructures civiles, selon les autorités ukrainiennes. Le secrétaire général de l'ONU, António Guterres, a qualifié l'attaque de « violation manifeste » du droit international humanitaire, tout en relevant la hausse des pertes civiles causées par les frappes des deux camps.",
+      "en": "A wave of missiles and drones struck Kyiv overnight on August 4-5, 2026, killing at least 17 people and damaging civilian infrastructure, according to Ukrainian authorities. UN Secretary-General António Guterres called the attack 'a clear violation' of international humanitarian law, while also noting rising civilian casualties from strikes by both sides.",
+      "es": "Una oleada de misiles y drones cayó sobre Kiev durante la noche del 4 al 5 de agosto de 2026, matando al menos a 17 personas y dañando infraestructuras civiles, según las autoridades ucranianas. El secretario general de la ONU, António Guterres, calificó el ataque de 'clara violación' del derecho internacional humanitario, al tiempo que señaló el aumento de las víctimas civiles causadas por los ataques de ambos bandos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "L'ONU publie une déclaration condamnant l'attaque comme la plus meurtrière subie par Kyiv depuis le début de l'année.",
+          "en": "The UN issues a statement condemning the attack as the deadliest suffered by Kyiv since the start of the year.",
+          "es": "La ONU emite una declaración condenando el ataque como el más mortífero sufrido por Kiev desde principios de año."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "egypte-canal-suez-revenus",
+    "coords": [
+      32.2723,
+      30.6043
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "The Middle East Observer / Financial Afrik",
+    "place": {
+      "fr": "Autorité du canal de Suez, Ismaïlia, Égypte",
+      "en": "Suez Canal Authority, Ismailia, Egypt",
+      "es": "Autoridad del Canal de Suez, Ismailía, Egipto"
+    },
+    "title": {
+      "fr": "Les revenus du canal de Suez progressent de 13 % au deuxième trimestre, signe de reprise",
+      "en": "Suez Canal revenues rise 13% in the second quarter, signaling recovery",
+      "es": "Los ingresos del Canal de Suez suben un 13 % en el segundo trimestre, señal de recuperación"
+    },
+    "summary": {
+      "fr": "L'Autorité du canal de Suez a annoncé début août 2026 des revenus d'environ 1,26 milliard de dollars au deuxième trimestre, en hausse de 13 % par rapport au premier trimestre, portés par le trafic pétrolier et le retour progressif du fret en mer Rouge après les perturbations liées au conflit à Gaza et aux attaques houthies. Le trafic reste toutefois inférieur aux niveaux d'avant-crise.",
+      "en": "The Suez Canal Authority announced in early August 2026 revenues of about $1.26 billion for the second quarter, up 13% from the first quarter, driven by oil tanker traffic and the gradual return of Red Sea cargo shipping following disruptions linked to the Gaza conflict and Houthi attacks. Traffic nonetheless remains below pre-crisis levels.",
+      "es": "La Autoridad del Canal de Suez anunció a principios de agosto de 2026 unos ingresos de aproximadamente 1.260 millones de dólares en el segundo trimestre, un 13 % más que en el primer trimestre, impulsados por el tráfico de petroleros y el regreso gradual de la carga por el mar Rojo tras las perturbaciones vinculadas al conflicto en Gaza y los ataques hutíes. El tráfico, no obstante, sigue por debajo de los niveles previos a la crisis."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités égyptiennes tablent sur une poursuite de la croissance vers 8 milliards de dollars de revenus pour l'exercice 2026-2027 si la sécurité régionale se maintient.",
+          "en": "Egyptian authorities project continued growth toward $8 billion in revenue for fiscal year 2026-2027 if regional security holds.",
+          "es": "Las autoridades egipcias prevén que el crecimiento continúe hacia los 8.000 millones de dólares de ingresos para el ejercicio 2026-2027 si se mantiene la seguridad regional."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-sokoto-attaque",
+    "coords": [
+      6.1483,
+      13.5947
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Premium Times Nigeria",
+    "place": {
+      "fr": "Lajinge, zone de gouvernement local de Sabon Birni, État de Sokoto, Nigeria",
+      "en": "Lajinge, Sabon Birni Local Government Area, Sokoto State, Nigeria",
+      "es": "Lajinge, área de gobierno local de Sabon Birni, estado de Sokoto, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés tuent au moins douze personnes dans des villages de l'État de Sokoto",
+      "en": "Gunmen kill at least twelve in villages in Sokoto State",
+      "es": "Hombres armados matan al menos a doce personas en aldeas del estado de Sokoto"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué le village de Lajinge et au moins deux autres communautés de la zone de Sabon Birni dans la nuit du 1er au 2 août 2026, tuant au moins douze personnes, dont six membres d'une même famille brûlés vifs dans leur maison incendiée. Des femmes et des enfants ont été enlevés. Premium Times précise ne pas avoir pu vérifier de façon indépendante l'ensemble des chiffres, qui varient selon les sources entre 12 et 21 morts.",
+      "en": "Gunmen attacked Lajinge village and at least two other communities in the Sabon Birni area overnight on August 1-2, 2026, killing at least twelve people, including six members of one family burned alive when their house was set on fire. Women and children were abducted. Premium Times notes it could not independently verify all figures, which vary by source between 12 and 21 deaths.",
+      "es": "Hombres armados atacaron la aldea de Lajinge y al menos otras dos comunidades de la zona de Sabon Birni durante la noche del 1 al 2 de agosto de 2026, matando al menos a doce personas, entre ellas seis miembros de una misma familia quemados vivos al incendiarse su vivienda. Mujeres y niños fueron secuestrados. Premium Times señala que no pudo verificar de forma independiente todas las cifras, que según la fuente varían entre 12 y 21 muertos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Nuit du 01-02/08/2026",
+          "en": "Overnight 08/01-02/2026",
+          "es": "Noche del 01-02/08/2026"
+        },
+        "d": {
+          "fr": "Premium Times rapporte l'attaque et l'enlèvement de femmes et d'enfants, sans pouvoir confirmer de façon indépendante le bilan complet.",
+          "en": "Premium Times reports the attack and the abduction of women and children, without being able to independently confirm the full toll.",
+          "es": "Premium Times informa del ataque y del secuestro de mujeres y niños, sin poder confirmar de forma independiente el balance completo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "id": "coree-kospi-chute",
+    "coords": [
+      126.9245,
+      37.5219
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "KED Global / Korea JoongAng Daily",
+    "place": {
+      "fr": "Bourse de Corée, quartier de Yeouido, Séoul, Corée du Sud",
+      "en": "Korea Exchange, Yeouido district, Seoul, South Korea",
+      "es": "Bolsa de Corea, distrito de Yeouido, Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Bourse de Séoul chute de 4,6 % dans le sillage d'un dégagement mondial sur les valeurs technologiques",
+      "en": "Seoul stock market drops 4.6% amid a global tech-stock selloff",
+      "es": "La Bolsa de Seúl cae un 4,6 % en medio de una venta masiva mundial de valores tecnológicos"
+    },
+    "summary": {
+      "fr": "L'indice KOSPI a chuté de près de 4,6 % le 6 août 2026, sa plus forte baisse récente, entraîné par un dégagement mondial sur les valeurs liées à l'intelligence artificielle. Samsung Electronics a perdu environ 6,3 % et SK Hynix plus de 10 %; les investisseurs étrangers ont vendu pour environ 3 330 milliards de wons (2,3 milliards de dollars), déclenchant un coupe-circuit de cinq minutes.",
+      "en": "The KOSPI index fell nearly 4.6% on August 6, 2026, its steepest recent drop, driven by a global selloff in AI-related stocks. Samsung Electronics lost about 6.3% and SK Hynix more than 10%; foreign investors sold roughly 3.33 trillion won ($2.3 billion), triggering a five-minute circuit breaker.",
+      "es": "El índice KOSPI cayó casi un 4,6 % el 6 de agosto de 2026, su mayor descenso reciente, arrastrado por una venta masiva mundial de valores relacionados con la inteligencia artificial. Samsung Electronics perdió cerca de un 6,3 % y SK Hynix más del 10 %; los inversores extranjeros vendieron unos 3,33 billones de wones (2.300 millones de dólares), lo que activó un cortacircuitos de cinco minutos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Les craintes portant sur la rentabilité des investissements liés à l'IA déclenchent un repli généralisé des valeurs technologiques asiatiques.",
+          "en": "Concerns over the profitability of AI-related investment spending trigger a broad pullback in Asian tech stocks.",
+          "es": "Las dudas sobre la rentabilidad de las inversiones ligadas a la IA desencadenan un retroceso generalizado de los valores tecnológicos asiáticos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "australie-trafic-epouse",
+    "coords": [
+      151.073,
+      -33.9165
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🚨",
+    "source": "Police fédérale australienne (AFP) / Mirage News",
+    "place": {
+      "fr": "Lakemba, Sydney, Nouvelle-Galles du Sud, Australie",
+      "en": "Lakemba, Sydney, New South Wales, Australia",
+      "es": "Lakemba, Sídney, Nueva Gales del Sur, Australia"
+    },
+    "title": {
+      "fr": "Un homme de Sydney inculpé pour avoir organisé le déplacement forcé de son épouse vers le Myanmar",
+      "en": "Sydney man charged over allegedly trafficking his wife to Myanmar",
+      "es": "Un hombre de Sídney es acusado de organizar el traslado forzado de su esposa a Myanmar"
+    },
+    "summary": {
+      "fr": "La police fédérale australienne (AFP) a inculpé le 5 août 2026 un homme de 30 ans résidant à Lakemba, à Sydney, pour avoir organisé le départ de son épouse de 23 ans vers le Myanmar en décembre 2025, puis retiré sa demande de visa de conjoint, la laissant bloquée à l'étranger. La femme est depuis rentrée en Australie et bénéficie d'un accompagnement de l'AFP et de la Croix-Rouge. L'accusation est passible d'une peine maximale de douze ans de prison.",
+      "en": "The Australian Federal Police (AFP) charged a 30-year-old Lakemba, Sydney resident on August 5, 2026 with arranging for his 23-year-old wife to be sent to Myanmar in December 2025, then withdrawing her spousal visa application, leaving her stranded abroad. The woman has since returned to Australia and is receiving support from the AFP and the Red Cross. The charge carries a maximum 12-year prison sentence.",
+      "es": "La Policía Federal Australiana (AFP) acusó el 5 de agosto de 2026 a un hombre de 30 años residente en Lakemba, Sídney, de organizar el traslado de su esposa de 23 años a Myanmar en diciembre de 2025 y retirar después su solicitud de visado de cónyuge, dejándola varada en el extranjero. La mujer ya ha regresado a Australia y recibe apoyo de la AFP y de la Cruz Roja. El cargo conlleva una pena máxima de doce años de prisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "L'homme doit comparaître devant le tribunal de Downing Centre, à Sydney, le 28 août 2026.",
+          "en": "The man is scheduled to appear at Downing Centre Local Court in Sydney on August 28, 2026.",
+          "es": "El hombre debe comparecer ante el tribunal de Downing Centre, en Sídney, el 28 de agosto de 2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "bresil-buzzi-justice",
+    "coords": [
+      -47.8919,
+      -15.7975
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "CartaCapital / Correio Braziliense / CNN Brasil",
+    "place": {
+      "fr": "Cour supérieure de justice (STJ), Brasília, DF, Brésil",
+      "en": "Superior Court of Justice (STJ), Brasília, DF, Brazil",
+      "es": "Tribunal Superior de Justicia (STJ), Brasilia, DF, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne destitue un ministre de la Cour supérieure pour harcèlement sexuel",
+      "en": "Brazilian court strips a Superior Court minister of his post over sexual harassment",
+      "es": "La justicia brasileña destituye a un ministro del Tribunal Superior por acoso sexual"
+    },
+    "summary": {
+      "fr": "Le Tribunal supérieur de justice (STJ) a voté à l'unanimité, le 6 août 2026, la destitution du ministre Marco Buzzi pour harcèlement sexuel envers deux femmes, une décision inédite pour un ministre en exercice de cette juridiction. Les faits reprochés concernent un incident survenu à Balneário Camboriú en janvier 2026 et des accusations d'une ancienne collaboratrice portant sur la période 2023-2025.",
+      "en": "The Superior Court of Justice (STJ) voted unanimously on August 6, 2026 to strip Minister Marco Buzzi of his post over sexual harassment allegations from two women, an unprecedented decision for a sitting minister of that court. The allegations concern an incident in Balneário Camboriú in January 2026 and accusations from a former staff member covering 2023-2025.",
+      "es": "El Tribunal Superior de Justicia (STJ) votó por unanimidad el 6 de agosto de 2026 destituir al ministro Marco Buzzi por acoso sexual contra dos mujeres, una decisión inédita para un ministro en ejercicio de ese tribunal. Los hechos denunciados se refieren a un incidente ocurrido en Balneário Camboriú en enero de 2026 y a acusaciones de una exempleada relativas al período 2023-2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Les avocats de Marco Buzzi indiquent examiner un recours devant le Tribunal fédéral suprême (STF), seule instance d'appel possible.",
+          "en": "Marco Buzzi's lawyers say they are evaluating an appeal to the Federal Supreme Court (STF), the only possible venue for appeal.",
+          "es": "Los abogados de Marco Buzzi indican que están evaluando un recurso ante el Tribunal Supremo Federal (STF), única instancia de apelación posible."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
   }
 ]
