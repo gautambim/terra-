@@ -829,5 +829,891 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "usa-idaho-innout-shooting",
+    "coords": [
+      -114.4609,
+      42.5629
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CBS News / Associated Press",
+    "place": {
+      "fr": "Twin Falls, Idaho, États-Unis",
+      "en": "Twin Falls, Idaho, United States",
+      "es": "Twin Falls, Idaho, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade près d'un restaurant In-N-Out à Twin Falls : trois morts",
+      "en": "Shooting near an In-N-Out restaurant in Twin Falls kills three",
+      "es": "Tiroteo cerca de un restaurante In-N-Out en Twin Falls deja tres muertos"
+    },
+    "summary": {
+      "fr": "Un homme armé a ouvert le feu le 1er août près d'un restaurant In-N-Out Burger récemment ouvert à Twin Falls, dans l'Idaho, tuant trois personnes — dont un employé de l'établissement — et en blessant sept autres, selon la police locale et CBS News. Le tireur, identifié comme étant Chad Williams, 24 ans, a été mis en fuite par un passant armé et un policier hors service avant d'être retrouvé mort d'une blessure par balle auto-infligée près d'un sentier de randonnée. Le mobile de l'attaque reste inconnu.",
+      "en": "A gunman opened fire on August 1 near a recently opened In-N-Out Burger restaurant in Twin Falls, Idaho, killing three people — including a restaurant employee — and wounding seven others, according to local police and CBS News. The shooter, identified as 24-year-old Chad Williams, was driven off by an armed bystander and an off-duty state trooper before later being found dead of a self-inflicted gunshot wound near a canyon walking trail. The motive for the attack remains unknown.",
+      "es": "Un hombre armado abrió fuego el 1 de agosto cerca de un restaurante In-N-Out Burger recién inaugurado en Twin Falls, Idaho, matando a tres personas —entre ellas un empleado del local— y hiriendo a otras siete, según la policía local y CBS News. El tirador, identificado como Chad Williams, de 24 años, fue puesto en fuga por un transeúnte armado y un agente estatal fuera de servicio, y más tarde fue hallado muerto por una herida de bala autoinfligida cerca de un sendero de un cañón. El móvil del ataque sigue sin conocerse."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026 — matinée",
+          "en": "08/01/2026 — morning",
+          "es": "01/08/2026 — mañana"
+        },
+        "d": {
+          "fr": "CBS News et la police de Twin Falls rapportent la fusillade près du restaurant In-N-Out, faisant trois morts et sept blessés.",
+          "en": "CBS News and Twin Falls police report the shooting near the In-N-Out restaurant, leaving three dead and seven injured.",
+          "es": "CBS News y la policía de Twin Falls informan del tiroteo cerca del restaurante In-N-Out, que deja tres muertos y siete heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "usa-water-plc-cyberattack",
+    "coords": [
+      -93.265,
+      44.9778
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🖥️",
+    "source": "FBI / EPA",
+    "place": {
+      "fr": "Plusieurs États américains (Minnesota notamment)",
+      "en": "Multiple U.S. states (notably Minnesota)",
+      "es": "Varios estados de EE. UU. (especialmente Minnesota)"
+    },
+    "title": {
+      "fr": "Le FBI et l'EPA alertent sur des cyberattaques visant des réseaux d'eau dans au moins sept États",
+      "en": "FBI and EPA warn of cyberattacks targeting water systems in at least seven states",
+      "es": "El FBI y la EPA alertan de ciberataques contra redes de agua en al menos siete estados"
+    },
+    "summary": {
+      "fr": "Le FBI et l'Agence de protection de l'environnement (EPA) ont averti fin juillet que des acteurs malveillants accédaient à distance à des automates programmables (PLC) de marque Rockwell Automation/Allen-Bradley utilisés par des réseaux d'eau et d'eaux usées dans au moins sept États américains, modifiant mots de passe et adresses IP pour en bloquer l'accès aux opérateurs. Plus de 30 systèmes d'eau du Minnesota ont été touchés fin juillet, avec des pertes de surveillance et des risques de surpression signalés. Des chercheurs en sécurité évoquent un possible lien avec des acteurs iraniens, sans confirmation officielle.",
+      "en": "The FBI and the Environmental Protection Agency warned in late July that malicious actors were remotely accessing Rockwell Automation/Allen-Bradley programmable logic controllers used by water and wastewater utilities in at least seven U.S. states, changing passwords and IP addresses to lock operators out. More than 30 Minnesota water systems were affected in late July, with reported loss of monitoring and pressure-related risks. Security researchers have raised the possibility of a link to Iranian-linked actors, without official confirmation.",
+      "es": "El FBI y la Agencia de Protección Ambiental (EPA) advirtieron a finales de julio que actores maliciosos accedían de forma remota a controladores lógicos programables (PLC) de Rockwell Automation/Allen-Bradley utilizados por redes de agua y aguas residuales en al menos siete estados de EE. UU., cambiando contraseñas y direcciones IP para bloquear el acceso a los operadores. Más de 30 sistemas de agua de Minnesota se vieron afectados a finales de julio, con pérdida de monitorización y riesgos de presión señalados. Investigadores de seguridad plantean un posible vínculo con actores iraníes, sin confirmación oficial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026 — alerte publique",
+          "en": "07/30/2026 — public advisory",
+          "es": "30/07/2026 — alerta pública"
+        },
+        "d": {
+          "fr": "Le FBI et l'EPA publient un avis conjoint sur des intrusions visant des automates de réseaux d'eau dans au moins sept États.",
+          "en": "The FBI and EPA issue a joint advisory on intrusions targeting water-system controllers in at least seven states.",
+          "es": "El FBI y la EPA publican un aviso conjunto sobre intrusiones en controladores de redes de agua en al menos siete estados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "canada-bc-wildfires-summerland",
+    "coords": [
+      -119.6733,
+      49.6003
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CBC News",
+    "place": {
+      "fr": "Summerland et Peachland, Colombie-Britannique, Canada",
+      "en": "Summerland and Peachland, British Columbia, Canada",
+      "es": "Summerland y Peachland, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Un incendie de forêt force l'évacuation de plus de 20 000 personnes en Colombie-Britannique",
+      "en": "Wildfire forces over 20,000 people to evacuate in British Columbia",
+      "es": "Un incendio forestal obliga a evacuar a más de 20 000 personas en Columbia Británica"
+    },
+    "summary": {
+      "fr": "L'incendie « Bald Range », qui progresse rapidement, a entraîné le 8 août l'évacuation complète de la localité de Summerland (environ 12 000 habitants) ainsi que d'environ 8 000 résidents de Peachland, dans la vallée de l'Okanagan, selon CBC News. La province a déclaré l'état d'urgence le même jour, alors que plus de 900 feux brûlaient à travers le Canada, dont plus de 120 en Colombie-Britannique, et que près de 22 000 personnes étaient sous ordre d'évacuation dans la province.",
+      "en": "The fast-moving Bald Range wildfire led on August 8 to the full evacuation of Summerland (population roughly 12,000) and about 8,000 residents of nearby Peachland, in the Okanagan Valley, according to CBC News. The province declared a state of emergency the same day, as more than 900 fires burned across Canada — over 120 of them in British Columbia — with nearly 22,000 people under evacuation orders province-wide.",
+      "es": "El incendio de rápido avance «Bald Range» provocó el 8 de agosto la evacuación completa de Summerland (unos 12 000 habitantes) y de cerca de 8000 residentes de la vecina Peachland, en el valle de Okanagan, según CBC News. La provincia declaró el estado de emergencia ese mismo día, mientras más de 900 incendios ardían en Canadá —más de 120 de ellos en Columbia Británica— y cerca de 22 000 personas se encontraban bajo orden de evacuación en toda la provincia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "CBC News rapporte l'évacuation complète de Summerland et d'une partie de Peachland face à l'incendie Bald Range ; la Colombie-Britannique déclare l'état d'urgence.",
+          "en": "CBC News reports the full evacuation of Summerland and part of Peachland due to the Bald Range fire; British Columbia declares a state of emergency.",
+          "es": "CBC News informa de la evacuación completa de Summerland y parte de Peachland debido al incendio Bald Range; Columbia Británica declara el estado de emergencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "mexico-avocado-export-suspension",
+    "coords": [
+      -102.0584,
+      19.4168
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🥑",
+    "source": "CNN / The Washington Post",
+    "place": {
+      "fr": "État du Michoacán, Mexique",
+      "en": "Michoacán state, Mexico",
+      "es": "Estado de Michoacán, México"
+    },
+    "title": {
+      "fr": "Washington suspend les inspections sanitaires des avocats mexicains au Michoacán",
+      "en": "US suspends phytosanitary inspections of Mexican avocados in Michoacán",
+      "es": "Washington suspende las inspecciones sanitarias de aguacates mexicanos en Michoacán"
+    },
+    "summary": {
+      "fr": "Les autorités américaines ont suspendu début août les inspections phytosanitaires de l'USDA dans l'État du Michoacán, principal bassin de production d'avocats du Mexique, invoquant des menaces à la sécurité des inspecteurs, selon CNN et le Washington Post. La mesure interrompt de facto les exportations vers les États-Unis, qui importent plus de 80 % de leurs avocats du Mexique. La présidente Claudia Sheinbaum a déployé environ 1 500 militaires et gardes nationaux pour sécuriser les sites d'emballage et les axes de transport ; il s'agit de la troisième suspension de ce type en quatre ans.",
+      "en": "US authorities suspended USDA phytosanitary inspections in Michoacán, Mexico's top avocado-producing state, in early August, citing security threats to inspectors, according to CNN and The Washington Post. The move effectively halts exports to the United States, which imports more than 80% of its avocados from Mexico. President Claudia Sheinbaum deployed roughly 1,500 military and National Guard personnel to secure packing facilities and transport routes; it is the third such suspension in four years.",
+      "es": "Las autoridades estadounidenses suspendieron a principios de agosto las inspecciones fitosanitarias del USDA en Michoacán, el principal estado productor de aguacate de México, citando amenazas a la seguridad de los inspectores, según CNN y The Washington Post. La medida detiene de facto las exportaciones a Estados Unidos, que importa más del 80 % de su aguacate de México. La presidenta Claudia Sheinbaum desplegó cerca de 1500 militares y guardias nacionales para asegurar los centros de empaque y las rutas de transporte; es la tercera suspensión de este tipo en cuatro años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026 – 05/08/2026",
+          "en": "08/04/2026 – 08/05/2026",
+          "es": "04/08/2026 – 05/08/2026"
+        },
+        "d": {
+          "fr": "CNN et le Washington Post rapportent la suspension des inspections USDA au Michoacán et le déploiement de renforts militaires mexicains.",
+          "en": "CNN and The Washington Post report the suspension of USDA inspections in Michoacán and the deployment of Mexican military reinforcements.",
+          "es": "CNN y The Washington Post informan de la suspensión de las inspecciones del USDA en Michoacán y del despliegue de refuerzos militares mexicanos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "china-typhoon-dolphin",
+    "coords": [
+      120.2,
+      27.32
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "Xinhua / Global Times",
+    "place": {
+      "fr": "Côte du Zhejiang et du Fujian, Chine",
+      "en": "Zhejiang–Fujian coast, China",
+      "es": "Costa de Zhejiang y Fujian, China"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin approche des côtes de l'est de la Chine",
+      "en": "Typhoon Dolphin approaches China's eastern coast",
+      "es": "El tifón Dolphin se aproxima a la costa este de China"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin, treizième tempête nommée de la saison Pacifique 2026, s'est dirigé début août vers la côte orientale de la Chine après avoir touché Okinawa, au Japon, selon Xinhua et Global Times. Le Zhejiang a relevé son alerte au niveau maximal, suspendu les activités portuaires et annulé 162 liaisons de ferry ; de fortes pluies et des rafales pouvant atteindre 110 km/h étaient attendues jusqu'au 12 août sur les zones côtières, y compris Shanghai.",
+      "en": "Typhoon Dolphin, the 13th named storm of the 2026 Pacific season, tracked toward China's eastern coast in early August after passing Okinawa, Japan, according to Xinhua and Global Times. Zhejiang province raised its coastal typhoon alert to the highest level, halted port operations and cancelled 162 passenger ferry routes; heavy rain and gusts of up to 110 km/h were forecast through August 12 across coastal areas, including Shanghai.",
+      "es": "El tifón Dolphin, la decimotercera tormenta con nombre de la temporada del Pacífico de 2026, se dirigió a principios de agosto hacia la costa este de China tras pasar por Okinawa, Japón, según Xinhua y Global Times. La provincia de Zhejiang elevó su alerta costera por tifón al nivel máximo, detuvo las operaciones portuarias y canceló 162 rutas de transbordadores de pasajeros; se pronosticaban fuertes lluvias y ráfagas de hasta 110 km/h hasta el 12 de agosto en las zonas costeras, incluida Shanghái."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026 – 10/08/2026",
+          "en": "08/06/2026 – 08/10/2026",
+          "es": "06/08/2026 – 10/08/2026"
+        },
+        "d": {
+          "fr": "Xinhua rapporte le renforcement de l'alerte typhon au Zhejiang et la suspension des liaisons de ferry face à l'approche de Dolphin.",
+          "en": "Xinhua reports the upgraded typhoon alert in Zhejiang and the suspension of ferry routes as Dolphin approaches.",
+          "es": "Xinhua informa de la alerta por tifón elevada en Zhejiang y la suspensión de rutas de transbordadores ante la llegada de Dolphin."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1,
+    "related": [
+      "japan-typhoon-dolphin"
+    ]
+  },
+  {
+    "id": "japan-typhoon-dolphin",
+    "coords": [
+      127.6809,
+      26.2124
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "AP / Japan Times",
+    "place": {
+      "fr": "Naha, Okinawa, Japon",
+      "en": "Naha, Okinawa, Japan",
+      "es": "Naha, Okinawa, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin frappe Okinawa, blesse plusieurs personnes et paralyse l'aéroport de Naha",
+      "en": "Typhoon Dolphin hits Okinawa, injures several people and shuts down Naha airport",
+      "es": "El tifón Dolphin golpea Okinawa, hiere a varias personas y paraliza el aeropuerto de Naha"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin est passé près du nord-ouest d'Okinawa les 7 et 8 août avec des vents atteignant 144 km/h, blessant au moins cinq personnes, selon l'AP et le Japan Times. L'aéroport de Naha a fermé, entraînant l'annulation de tous les vols, et des dizaines de milliers de foyers ont été privés d'électricité. Toyota a suspendu la production dans neuf usines du sud du Japon en raison des perturbations de transport.",
+      "en": "Typhoon Dolphin passed near northwestern Okinawa on August 7–8 with winds reaching 144 km/h, injuring at least five people, according to AP and the Japan Times. Naha Airport closed, cancelling all flights, and tens of thousands of homes lost power. Toyota suspended production at nine factories in southern Japan due to transport disruptions.",
+      "es": "El tifón Dolphin pasó cerca del noroeste de Okinawa los días 7 y 8 de agosto con vientos de hasta 144 km/h, hiriendo al menos a cinco personas, según AP y Japan Times. El aeropuerto de Naha cerró, lo que provocó la cancelación de todos los vuelos, y decenas de miles de hogares se quedaron sin electricidad. Toyota suspendió la producción en nueve fábricas del sur de Japón debido a las interrupciones en el transporte."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026 – 08/08/2026",
+          "en": "08/07/2026 – 08/08/2026",
+          "es": "07/08/2026 – 08/08/2026"
+        },
+        "d": {
+          "fr": "L'AP et le Japan Times rapportent la fermeture de l'aéroport de Naha et au moins cinq blessés au passage du typhon Dolphin.",
+          "en": "AP and the Japan Times report the closure of Naha Airport and at least five injuries as Typhoon Dolphin passes.",
+          "es": "AP y Japan Times informan del cierre del aeropuerto de Naha y de al menos cinco heridos al paso del tifón Dolphin."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1,
+    "related": [
+      "china-typhoon-dolphin"
+    ]
+  },
+  {
+    "id": "india-kerala-floods",
+    "coords": [
+      76.97,
+      9.85
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Al Jazeera / Onmanorama",
+    "place": {
+      "fr": "Kerala (districts d'Idukki, Kottayam, Ernakulam, Malappuram...) et Karnataka, Inde",
+      "en": "Kerala (Idukki, Kottayam, Ernakulam, Malappuram and other districts) and Karnataka, India",
+      "es": "Kerala (distritos de Idukki, Kottayam, Ernakulam, Malappuram, entre otros) y Karnataka, India"
+    },
+    "title": {
+      "fr": "Des pluies de mousson provoquent des inondations et glissements de terrain meurtriers au Kerala",
+      "en": "Monsoon rains trigger deadly floods and landslides in Kerala",
+      "es": "Las lluvias monzónicas provocan inundaciones y deslizamientos de tierra mortales en Kerala"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson tombées dans la nuit du 31 juillet au 1er août ont provoqué des inondations et des glissements de terrain dans plusieurs districts du Kerala, faisant au moins 15 morts et 7 disparus au 3 août selon les autorités locales et Al Jazeera — un bilan qui a évolué au fil des heures. Près de 5 800 personnes ont été déplacées vers 209 centres d'hébergement. Un glissement de terrain distinct a tué trois membres d'une même famille dans le district voisin de Shivamogga, au Karnataka.",
+      "en": "Heavy monsoon rain overnight from July 31 to August 1 triggered floods and landslides across several districts of Kerala, leaving at least 15 dead and 7 missing as of August 3, according to local authorities and Al Jazeera — a toll that shifted as the situation developed. Nearly 5,800 people were moved to 209 relief camps. A separate landslide killed three members of one family in the neighboring district of Shivamogga, Karnataka.",
+      "es": "Las intensas lluvias monzónicas caídas en la noche del 31 de julio al 1 de agosto provocaron inundaciones y deslizamientos de tierra en varios distritos de Kerala, dejando al menos 15 muertos y 7 desaparecidos hasta el 3 de agosto, según las autoridades locales y Al Jazeera —un balance que fue variando con el paso de las horas—. Cerca de 5800 personas fueron trasladadas a 209 centros de acogida. Un deslizamiento de tierra independiente mató a tres integrantes de una misma familia en el vecino distrito de Shivamogga, en Karnataka."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026 – 03/08/2026",
+          "en": "08/01/2026 – 08/03/2026",
+          "es": "01/08/2026 – 03/08/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera et la presse indienne rapportent un bilan de 15 morts et 7 disparus après des inondations et glissements de terrain au Kerala.",
+          "en": "Al Jazeera and Indian outlets report 15 dead and 7 missing after floods and landslides in Kerala.",
+          "es": "Al Jazeera y medios indios informan de 15 muertos y 7 desaparecidos tras las inundaciones y deslizamientos de tierra en Kerala."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "skorea-yangsan-heat-record",
+    "coords": [
+      129.0403,
+      35.335
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Korea Meteorological Administration / Korea Times",
+    "place": {
+      "fr": "Yangsan, province du Gyeongsang du Sud, Corée du Sud",
+      "en": "Yangsan, South Gyeongsang Province, South Korea",
+      "es": "Yangsan, provincia de Gyeongsang del Sur, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud enregistre sa température la plus élevée jamais mesurée",
+      "en": "South Korea records its highest-ever temperature",
+      "es": "Corea del Sur registra su temperatura más alta jamás medida"
+    },
+    "summary": {
+      "fr": "L'Administration météorologique coréenne a enregistré 42,5 °C à Yangsan le 2 août, la température la plus élevée jamais relevée dans le pays depuis le début des mesures officielles il y a 122 ans, selon le Korea Times. Il s'agit de la cinquième journée consécutive à plus de 40 °C dans cette ville nichée dans une cuvette montagneuse près de Busan. Le gouvernement a relevé son niveau d'alerte canicule et demandé la mobilisation des ministères face à la sécheresse.",
+      "en": "The Korea Meteorological Administration recorded 42.5°C in Yangsan on August 2 — the highest temperature ever measured in the country since official records began 122 years ago, according to the Korea Times. It marked the fifth consecutive day above 40°C in the city, which sits in a heat-trapping mountain basin near Busan. The government raised its heatwave alert level and called for ministries to mobilize resources against the accompanying drought.",
+      "es": "La Administración Meteorológica de Corea registró 42,5 °C en Yangsan el 2 de agosto, la temperatura más alta jamás medida en el país desde que comenzaron los registros oficiales hace 122 años, según Korea Times. Fue el quinto día consecutivo por encima de los 40 °C en esta ciudad situada en una cuenca montañosa cercana a Busan. El gobierno elevó su nivel de alerta por ola de calor y pidió la movilización de los ministerios ante la sequía asociada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026, 13h26",
+          "en": "08/02/2026, 1:26 PM",
+          "es": "02/08/2026, 13:26"
+        },
+        "d": {
+          "fr": "La KMA confirme un record national de 42,5 °C à Yangsan, dépassant le précédent record établi deux jours plus tôt au même endroit.",
+          "en": "The KMA confirms a national record of 42.5°C in Yangsan, surpassing the previous record set two days earlier at the same location.",
+          "es": "La KMA confirma un récord nacional de 42,5 °C en Yangsan, superando el récord anterior establecido dos días antes en el mismo lugar."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "brazil-amazon-deforestation-low",
+    "coords": [
+      -60.0217,
+      -3.119
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌳",
+    "source": "INPE / Mongabay",
+    "place": {
+      "fr": "Amazonie légale, Brésil",
+      "en": "Brazilian Legal Amazon, Brazil",
+      "es": "Amazonia legal, Brasil"
+    },
+    "title": {
+      "fr": "La déforestation en Amazonie brésilienne tombe à son niveau le plus bas depuis 2013",
+      "en": "Amazon deforestation falls to its lowest level since 2013",
+      "es": "La deforestación en la Amazonia brasileña cae a su nivel más bajo desde 2013"
+    },
+    "summary": {
+      "fr": "Le système satellitaire DETER de l'Institut national brésilien de recherche spatiale (INPE) a enregistré 2 874 km² d'alertes de déforestation pour la période août 2025–juillet 2026, soit le niveau le plus bas depuis 2013 et une baisse de 36 % par rapport à l'année précédente, selon Mongabay. Ce recul coïncide avec un renforcement des contrôles environnementaux sous la présidence de Lula, mais des scientifiques avertissent que l'Amazonie reste vulnérable aux incendies et à la sécheresse, un phénomène El Niño intense étant attendu au second semestre 2026.",
+      "en": "The DETER satellite monitoring system of Brazil's National Institute for Space Research (INPE) recorded 2,874 km² of deforestation alerts for the August 2025–July 2026 period, the lowest level since 2013 and a 36% drop from the previous year, according to Mongabay. The decline coincides with strengthened environmental enforcement under President Lula, though scientists warn the Amazon remains vulnerable to fire and drought, with a strong El Niño event forecast for the second half of 2026.",
+      "es": "El sistema de monitoreo satelital DETER del Instituto Nacional de Investigaciones Espaciales de Brasil (INPE) registró 2874 km² de alertas de deforestación para el período agosto de 2025–julio de 2026, el nivel más bajo desde 2013 y una caída del 36 % respecto al año anterior, según Mongabay. El descenso coincide con un mayor control ambiental bajo la presidencia de Lula, aunque los científicos advierten que la Amazonia sigue siendo vulnerable a los incendios y la sequía, con un fuerte fenómeno de El Niño previsto para la segunda mitad de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "début août 2026 — publication des données",
+          "en": "early August 2026 — data published",
+          "es": "principios de agosto de 2026 — publicación de datos"
+        },
+        "d": {
+          "fr": "Mongabay rapporte les données de l'INPE montrant le niveau de déforestation le plus bas en Amazonie depuis 2013.",
+          "en": "Mongabay reports INPE data showing the lowest Amazon deforestation level since 2013.",
+          "es": "Mongabay informa de los datos del INPE que muestran el nivel de deforestación más bajo en la Amazonia desde 2013."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "brazil-bolsonaro-fathers-day-visit-denied",
+    "coords": [
+      -47.8828,
+      -15.7939
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "UPI / Al Jazeera",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasília, Brasil"
+    },
+    "title": {
+      "fr": "La Cour suprême refuse une visite familiale à Jair Bolsonaro pour la fête des Pères",
+      "en": "Supreme Court denies Bolsonaro a Father's Day family visit",
+      "es": "El Supremo niega a Bolsonaro una visita familiar por el Día del Padre"
+    },
+    "summary": {
+      "fr": "La Cour suprême brésilienne a rejeté le 8 août une demande de la défense de l'ancien président Jair Bolsonaro visant à autoriser une visite « humanitaire » de ses fils à l'occasion de la fête des Pères, selon UPI. Bolsonaro est assigné à résidence à Brasília depuis mars 2026, purgeant une peine de 27 ans pour tentative de coup d'État, et fait l'objet de restrictions renforcées depuis juillet après une violation des conditions de son assignation.",
+      "en": "Brazil's Supreme Court rejected a request from former president Jair Bolsonaro's defense team on August 8 to allow a 'humanitarian' Father's Day visit from his sons, according to UPI. Bolsonaro has been under house arrest in Brasília since March 2026, serving a 27-year sentence for attempting a coup, and has faced tightened restrictions since July after breaching the terms of his house arrest.",
+      "es": "El Supremo Tribunal de Brasil rechazó el 8 de agosto una solicitud de la defensa del expresidente Jair Bolsonaro para permitir una visita «humanitaria» de sus hijos con motivo del Día del Padre, según UPI. Bolsonaro se encuentra bajo arresto domiciliario en Brasília desde marzo de 2026, cumpliendo una condena de 27 años por intento de golpe de Estado, y enfrenta restricciones reforzadas desde julio tras incumplir las condiciones de su arresto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "UPI rapporte le rejet par la Cour suprême de la demande de visite familiale pour la fête des Pères.",
+          "en": "UPI reports the Supreme Court's denial of the Father's Day family visit request.",
+          "es": "UPI informa del rechazo por parte del Supremo de la solicitud de visita familiar por el Día del Padre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "argentina-property-bill-protests",
+    "coords": [
+      -58.3816,
+      -34.6037
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "economie",
+    "icon": "✊",
+    "source": "MercoPress / France 24",
+    "place": {
+      "fr": "Buenos Aires, Argentine",
+      "en": "Buenos Aires, Argentina",
+      "es": "Buenos Aires, Argentina"
+    },
+    "title": {
+      "fr": "Le Sénat argentin adopte une loi controversée sur la propriété privée, des heurts éclatent",
+      "en": "Argentine Senate passes contested private-property bill amid clashes",
+      "es": "El Senado argentino aprueba una polémica ley de propiedad privada entre disturbios"
+    },
+    "summary": {
+      "fr": "Le Sénat argentin a adopté le 7 août, par 37 voix contre 33, une loi sur « l'inviolabilité de la propriété privée » portée par le ministre de la Déréglementation Federico Sturzenegger, après le retrait de deux chapitres contestés, selon MercoPress. Le texte accélère les procédures d'expulsion et restreint les conditions d'expropriation par l'État. Des milliers de manifestants ont protesté devant le Sénat ; la police a utilisé gaz lacrymogènes, balles en caoutchouc et canons à eau, faisant plusieurs blessés dont un policier et un manifestant grièvement atteint à l'œil, selon France 24.",
+      "en": "Argentina's Senate passed a 'private property inviolability' bill on August 7 by a vote of 37–33, championed by Deregulation Minister Federico Sturzenegger, after two contested chapters were withdrawn, according to MercoPress. The law speeds up eviction procedures and tightens conditions for state expropriation. Thousands protested outside the Senate; police used tear gas, rubber bullets and water cannon, injuring several people including a police officer and a protester who suffered a serious eye injury, according to France 24.",
+      "es": "El Senado argentino aprobó el 7 de agosto, por 37 votos contra 33, una ley de «inviolabilidad de la propiedad privada» impulsada por el ministro de Desregulación, Federico Sturzenegger, tras retirar dos capítulos polémicos, según MercoPress. La norma acelera los procedimientos de desalojo y restringe las condiciones para la expropiación estatal. Miles de manifestantes protestaron frente al Senado; la policía empleó gases lacrimógenos, balas de goma y camiones hidrantes, dejando varios heridos, entre ellos un policía y un manifestante con una grave lesión ocular, según France 24."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "08/07/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "MercoPress et France 24 rapportent l'adoption de la loi au Sénat et les affrontements entre police et manifestants.",
+          "en": "MercoPress and France 24 report the Senate's passage of the bill and clashes between police and protesters.",
+          "es": "MercoPress y France 24 informan de la aprobación de la ley en el Senado y de los enfrentamientos entre la policía y los manifestantes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "russia-ukraine-dnipro-strikes",
+    "coords": [
+      35.0462,
+      48.4647
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Kyiv Independent",
+    "place": {
+      "fr": "Oblast de Dnipropetrovsk, Ukraine (frappes réciproques en Russie)",
+      "en": "Dnipropetrovsk Oblast, Ukraine (with reciprocal strikes in Russia)",
+      "es": "Óblast de Dnipropetrovsk, Ucrania (con ataques recíprocos en Rusia)"
+    },
+    "title": {
+      "fr": "Nouvelle escalade de frappes entre la Russie et l'Ukraine début août",
+      "en": "Renewed escalation of strikes between Russia and Ukraine in early August",
+      "es": "Nueva escalada de ataques entre Rusia y Ucrania a principios de agosto"
+    },
+    "summary": {
+      "fr": "Des frappes russes par drones, artillerie et bombes aériennes ont visé la région de Dnipropetrovsk à de multiples reprises début août, faisant plusieurs morts selon les autorités régionales ukrainiennes citées par Al Jazeera et le Kyiv Independent — les bilans variant d'un jour et d'une source à l'autre. Dans le même temps, l'Ukraine a frappé des entrepôts logistiques du groupe russe de e-commerce Wildberries, que Kyiv accuse de soutenir l'effort de guerre russe, une accusation que Moscou et l'entreprise rejettent.",
+      "en": "Russian drone, artillery and aerial-bomb strikes hit the Dnipropetrovsk region repeatedly in early August, killing several people according to Ukrainian regional officials cited by Al Jazeera and the Kyiv Independent — with tolls varying by day and by source. At the same time, Ukraine struck logistics warehouses belonging to Russian e-commerce company Wildberries, which Kyiv accuses of supporting Russia's war effort, a claim Moscow and the company deny.",
+      "es": "Ataques rusos con drones, artillería y bombas aéreas alcanzaron repetidamente la región de Dnipropetrovsk a principios de agosto, causando varias muertes según las autoridades regionales ucranianas citadas por Al Jazeera y Kyiv Independent —con cifras que varían según el día y la fuente—. Al mismo tiempo, Ucrania atacó almacenes logísticos de la empresa rusa de comercio electrónico Wildberries, a la que Kiev acusa de apoyar el esfuerzo bélico ruso, una acusación que Moscú y la empresa niegan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026 – 08/08/2026",
+          "en": "08/06/2026 – 08/08/2026",
+          "es": "06/08/2026 – 08/08/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera et le Kyiv Independent rapportent des frappes russes quasi quotidiennes sur Dnipropetrovsk et des frappes ukrainiennes sur des entrepôts Wildberries en Russie.",
+          "en": "Al Jazeera and the Kyiv Independent report near-daily Russian strikes on Dnipropetrovsk and Ukrainian strikes on Wildberries warehouses in Russia.",
+          "es": "Al Jazeera y Kyiv Independent informan de ataques rusos casi diarios sobre Dnipropetrovsk y ataques ucranianos contra almacenes de Wildberries en Rusia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "poland-russian-missile-incursion",
+    "coords": [
+      22.6525,
+      50.8536
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Al Jazeera / Kyiv Independent",
+    "place": {
+      "fr": "Tarnawa-Kolonia, gmina Turobin, voïvodie de Lublin, Pologne",
+      "en": "Tarnawa-Kolonia, Turobin municipality, Lublin Voivodeship, Poland",
+      "es": "Tarnawa-Kolonia, municipio de Turobin, voivodato de Lublin, Polonia"
+    },
+    "title": {
+      "fr": "Un missile russe s'écrase en territoire polonais lors d'une frappe massive sur l'Ukraine",
+      "en": "Russian missile crashes onto Polish territory during a mass strike on Ukraine",
+      "es": "Un misil ruso cae en territorio polaco durante un ataque masivo contra Ucrania"
+    },
+    "summary": {
+      "fr": "Un missile de croisière russe Kh-101 a pénétré l'espace aérien polonais et s'est écrasé dans un champ près de Tarnawa-Kolonia, à environ 90 km de la frontière ukrainienne, dans la nuit du 29 au 30 juillet, lors d'une frappe russe massive sur l'Ukraine impliquant 74 missiles et 284 drones, selon Al Jazeera. Aucune victime n'a été signalée. La Pologne a convoqué l'ambassadeur russe en protestation, et le Premier ministre Donald Tusk a évoqué l'envoi de systèmes Patriot supplémentaires à l'Ukraine ; les retombées diplomatiques se sont poursuivies début août.",
+      "en": "A Russian Kh-101 cruise missile crossed into Polish airspace and crashed in a field near Tarnawa-Kolonia, about 90 km from the Ukrainian border, on the night of July 29–30, during a mass Russian strike on Ukraine involving 74 missiles and 284 drones, according to Al Jazeera. No casualties were reported. Poland summoned the Russian ambassador in protest, and Prime Minister Donald Tusk raised the possibility of sending additional Patriot air-defense systems to Ukraine; the diplomatic fallout continued into early August.",
+      "es": "Un misil de crucero ruso Kh-101 entró en el espacio aéreo polaco y cayó en un campo cerca de Tarnawa-Kolonia, a unos 90 km de la frontera ucraniana, en la noche del 29 al 30 de julio, durante un ataque masivo ruso contra Ucrania que incluyó 74 misiles y 284 drones, según Al Jazeera. No se reportaron víctimas. Polonia convocó al embajador ruso en señal de protesta, y el primer ministro Donald Tusk planteó el envío de sistemas Patriot adicionales a Ucrania; las repercusiones diplomáticas continuaron a principios de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026 – 30/07/2026",
+          "en": "07/29/2026 – 07/30/2026",
+          "es": "29/07/2026 – 30/07/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera rapporte la chute d'un missile russe en Pologne et la convocation de l'ambassadeur russe par Varsovie.",
+          "en": "Al Jazeera reports the crash of a Russian missile in Poland and Warsaw's summoning of the Russian ambassador.",
+          "es": "Al Jazeera informa de la caída de un misil ruso en Polonia y la convocatoria del embajador ruso por parte de Varsovia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "spain-ceuta-migrant-crossing",
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛶",
+    "source": "Euronews / Al Jazeera",
+    "place": {
+      "fr": "Ceuta, Espagne",
+      "en": "Ceuta, Spain",
+      "es": "Ceuta, España"
+    },
+    "title": {
+      "fr": "Au moins 67 morts lors d'un afflux migratoire massif vers Ceuta",
+      "en": "At least 67 dead in a massive migrant surge into Ceuta",
+      "es": "Al menos 67 muertos en una masiva llegada de migrantes a Ceuta"
+    },
+    "summary": {
+      "fr": "Environ 60 000 personnes ont tenté de rejoindre l'enclave espagnole de Ceuta depuis le Maroc en l'espace de deux jours fin juillet, la plus importante vague de ce type jamais enregistrée dans la ville, selon Euronews. Les autorités espagnoles ont fait état d'un bilan grimpant à 67 morts par noyade ou dans des mouvements de foule à la digue frontalière ; la quasi-totalité des migrants étaient repartis vers le Maroc dès le 1er août. L'Union européenne a tenu une réunion d'urgence et accordé 114 millions d'euros d'aide supplémentaire à l'Espagne.",
+      "en": "About 60,000 people attempted to reach the Spanish enclave of Ceuta from Morocco over two days in late July, the largest such surge ever recorded in the city, according to Euronews. Spanish authorities reported a death toll climbing to 67 from drowning and crowd crushes at the border breakwater; nearly all migrants had returned to Morocco by August 1. The European Union held an emergency meeting and granted Spain an additional €114 million in aid.",
+      "es": "Cerca de 60 000 personas intentaron llegar al enclave español de Ceuta desde Marruecos en apenas dos días a finales de julio, la mayor oleada de este tipo jamás registrada en la ciudad, según Euronews. Las autoridades españolas informaron de un balance que subió a 67 muertos por ahogamiento y aglomeraciones en el espigón fronterizo; casi todos los migrantes habían regresado a Marruecos el 1 de agosto. La Unión Europea celebró una reunión de emergencia y concedió a España 114 millones de euros adicionales en ayuda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/07/2026 – 01/08/2026",
+          "en": "07/30/2026 – 08/01/2026",
+          "es": "30/07/2026 – 01/08/2026"
+        },
+        "d": {
+          "fr": "Euronews et Al Jazeera rapportent un bilan de 67 morts lors de la vague migratoire vers Ceuta et le retour de la plupart des migrants vers le Maroc.",
+          "en": "Euronews and Al Jazeera report a death toll of 67 during the migrant surge into Ceuta and the return of most migrants to Morocco.",
+          "es": "Euronews y Al Jazeera informan de un balance de 67 muertos durante la oleada migratoria hacia Ceuta y el regreso de la mayoría de los migrantes a Marruecos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
+  },
+  {
+    "id": "uk-covent-garden-stabbing",
+    "coords": [
+      -0.1246,
+      51.5155
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Metropolitan Police / CNN",
+    "place": {
+      "fr": "Covent Garden, Londres, Royaume-Uni",
+      "en": "Covent Garden, London, United Kingdom",
+      "es": "Covent Garden, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Quatre hommes poignardés à Covent Garden, une femme inculpée",
+      "en": "Four men stabbed in Covent Garden, woman charged",
+      "es": "Cuatro hombres apuñalados en Covent Garden, mujer imputada"
+    },
+    "summary": {
+      "fr": "Quatre hommes ont été poignardés le 5 août sur Endell Street, à Covent Garden, dans le centre de Londres, selon la police métropolitaine. Une femme de 47 ans a été arrêtée sur place puis inculpée pour possession d'une arme et voies de fait ; des ciseaux ont été retrouvés sur les lieux. La police indique que les premiers éléments orientent vers un épisode lié à la santé mentale plutôt que vers un acte terroriste.",
+      "en": "Four men were stabbed on August 5 on Endell Street in Covent Garden, central London, according to the Metropolitan Police. A 47-year-old woman was arrested at the scene and later charged with possession of an offensive weapon and assault; scissors were recovered at the site. Police say early indications point to a mental-health-related incident rather than terrorism.",
+      "es": "Cuatro hombres fueron apuñalados el 5 de agosto en Endell Street, en Covent Garden, en el centro de Londres, según la Policía Metropolitana. Una mujer de 47 años fue detenida en el lugar y posteriormente acusada de posesión de un arma ofensiva y agresión; se recuperaron unas tijeras en el sitio. La policía indica que los primeros indicios apuntan a un incidente relacionado con la salud mental y no a un acto terrorista."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "08/05/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "La police métropolitaine confirme l'agression et l'inculpation d'une femme de 47 ans pour possession d'arme et voies de fait.",
+          "en": "The Metropolitan Police confirms the attack and the charging of a 47-year-old woman for weapon possession and assault.",
+          "es": "La Policía Metropolitana confirma la agresión y la imputación de una mujer de 47 años por posesión de arma y agresión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "germany-rhine-drought-economy",
+    "coords": [
+      6.7623,
+      51.4344
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Corridor du Rhin (port de Duisbourg), Allemagne",
+      "en": "Rhine River corridor (Duisburg port), Germany",
+      "es": "Corredor del Rin (puerto de Duisburgo), Alemania"
+    },
+    "title": {
+      "fr": "La sécheresse sur le Rhin menace le fret fluvial allemand",
+      "en": "Drought on the Rhine threatens German river freight",
+      "es": "La sequía en el Rin amenaza el transporte fluvial alemán"
+    },
+    "summary": {
+      "fr": "Le niveau extrêmement bas du Rhin, qui achemine environ 80 % du fret fluvial allemand, a contraint les navires à réduire leur chargement à environ un tiers de la normale au port de Duisbourg début août, selon Bloomberg. Les coûts de fret sur l'axe Rotterdam–Karlsruhe ont triplé depuis juin. Le ministre des Transports Steffen Bilger a tenu une réunion de crise le 6 août avec les acteurs du secteur ; des analystes estiment que la sécheresse pourrait amputer le PIB allemand de 0,1 à 0,2 point au troisième trimestre.",
+      "en": "Extremely low water levels on the Rhine — which carries about 80% of Germany's river freight — forced ships to cut loading capacity to roughly a third of normal at the port of Duisburg in early August, according to Bloomberg. Freight costs on the Rotterdam–Karlsruhe route have tripled since June. Transport Minister Steffen Bilger held emergency talks with industry on August 6; analysts estimate the drought could shave 0.1 to 0.2 percentage points off German GDP in the third quarter.",
+      "es": "El nivel extremadamente bajo del Rin —que transporta cerca del 80 % del flete fluvial alemán— obligó a los barcos a reducir su carga a aproximadamente un tercio de lo normal en el puerto de Duisburgo a principios de agosto, según Bloomberg. Los costos de flete en la ruta Róterdam–Karlsruhe se han triplicado desde junio. El ministro de Transporte, Steffen Bilger, mantuvo conversaciones de emergencia con el sector el 6 de agosto; los analistas estiman que la sequía podría restar entre 0,1 y 0,2 puntos porcentuales al PIB alemán en el tercer trimestre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026 – 07/08/2026",
+          "en": "08/06/2026 – 08/07/2026",
+          "es": "06/08/2026 – 07/08/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte les discussions de crise sur le niveau du Rhin et leur impact sur le fret et l'économie allemande.",
+          "en": "Bloomberg reports crisis talks over Rhine water levels and their impact on freight and the German economy.",
+          "es": "Bloomberg informa de las conversaciones de crisis sobre el nivel del Rin y su impacto en el flete y la economía alemana."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "italy-heatwave-red-alert",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Euronews / AP",
+    "place": {
+      "fr": "Italie (27 grandes villes)",
+      "en": "Italy (27 major cities)",
+      "es": "Italia (27 grandes ciudades)"
+    },
+    "title": {
+      "fr": "Les 27 grandes villes italiennes placées en alerte canicule maximale",
+      "en": "All 27 major Italian cities placed on maximum heat alert",
+      "es": "Las 27 grandes ciudades italianas, en alerta máxima por calor"
+    },
+    "summary": {
+      "fr": "Pour la première fois en 2026, les 27 grandes villes surveillées par le système national d'alerte sanitaire canicule ont été placées simultanément en alerte rouge de niveau 3 le 6 août, lors de la quatrième vague de chaleur de l'année, selon Euronews et l'AP. Les températures ont atteint 40 °C dans certaines régions, avec des prévisions annonçant une persistance de la chaleur pendant au moins dix jours ; les autorités ont recommandé d'éviter l'exposition au soleil entre 11h et 18h.",
+      "en": "For the first time in 2026, all 27 major cities monitored under Italy's national heat-health warning system were placed simultaneously on maximum Level 3 red alert on August 6, during the country's fourth heatwave of the year, according to Euronews and AP. Temperatures reached 40°C in some areas, with forecasts predicting the heat would persist for at least ten more days; authorities advised avoiding sun exposure between 11 a.m. and 6 p.m.",
+      "es": "Por primera vez en 2026, las 27 grandes ciudades monitoreadas por el sistema nacional de alerta sanitaria por calor de Italia fueron colocadas simultáneamente en alerta roja de nivel 3 el 6 de agosto, durante la cuarta ola de calor del año, según Euronews y AP. Las temperaturas alcanzaron los 40 °C en algunas zonas, con previsiones que anunciaban que el calor persistiría al menos diez días más; las autoridades recomendaron evitar la exposición al sol entre las 11:00 y las 18:00."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "08/06/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Euronews et l'AP rapportent le placement simultané des 27 grandes villes italiennes en alerte rouge canicule.",
+          "en": "Euronews and AP report the simultaneous placement of all 27 major Italian cities on red heat alert.",
+          "es": "Euronews y AP informan de la colocación simultánea de las 27 grandes ciudades italianas en alerta roja por calor."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "france-drome-wildfire",
+    "coords": [
+      5.3667,
+      44.75
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Local France",
+    "place": {
+      "fr": "Die, Drôme, France",
+      "en": "Die, Drôme, France",
+      "es": "Die, Drôme, Francia"
+    },
+    "title": {
+      "fr": "Un incendie de forêt près de Die a déjà brûlé plus de 3 700 hectares",
+      "en": "A wildfire near Die has burned more than 3,700 hectares",
+      "es": "Un incendio forestal cerca de Die ya ha quemado más de 3700 hectáreas"
+    },
+    "summary": {
+      "fr": "Un incendie de forêt qui couve depuis fin juillet près de Die, dans la Drôme, avait brûlé plus de 3 700 hectares début août, avec entre 325 et 480 pompiers encore mobilisés les 6 et 7 août, selon The Local France. Six départements du sud de la France, dont l'Aude, le Var, le Vaucluse et les Bouches-du-Rhône, restaient en alerte rouge feu de forêt dans le cadre de la vague de chaleur européenne de l'été 2026.",
+      "en": "A wildfire that has been smoldering since late July near Die, in the Drôme department, had burned more than 3,700 hectares by early August, with between 325 and 480 firefighters still deployed on August 6–7, according to The Local France. Six southern French départements, including Aude, Var, Vaucluse and Bouches-du-Rhône, remained on red wildfire alert as part of the 2026 European summer heatwave.",
+      "es": "Un incendio forestal que arde desde finales de julio cerca de Die, en el departamento de Drôme, había quemado más de 3700 hectáreas a principios de agosto, con entre 325 y 480 bomberos aún desplegados los días 6 y 7 de agosto, según The Local France. Seis departamentos del sur de Francia, incluidos Aude, Var, Vaucluse y Bocas del Ródano, permanecían en alerta roja por incendio forestal en el marco de la ola de calor europea del verano de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026 – 07/08/2026",
+          "en": "08/06/2026 – 08/07/2026",
+          "es": "06/08/2026 – 07/08/2026"
+        },
+        "d": {
+          "fr": "The Local France rapporte plus de 3 700 hectares brûlés près de Die et la mobilisation de centaines de pompiers.",
+          "en": "The Local France reports more than 3,700 hectares burned near Die and hundreds of firefighters deployed.",
+          "es": "The Local France informa de más de 3700 hectáreas quemadas cerca de Die y el despliegue de cientos de bomberos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-ondo-farmers-kidnapping",
+    "coords": [
+      4.9,
+      7.1333
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Premium Times / Vanguard",
+    "place": {
+      "fr": "Communauté de Parubber, zone d'Ile-Oluji/Okeigbo, État d'Ondo, Nigeria",
+      "en": "Parubber community, Ile-Oluji/Okeigbo area, Ondo State, Nigeria",
+      "es": "Comunidad de Parubber, zona de Ile-Oluji/Okeigbo, estado de Ondo, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent deux agriculteurs dans l'État d'Ondo et exigent une rançon",
+      "en": "Gunmen kidnap two farmers in Ondo State, demand ransom",
+      "es": "Hombres armados secuestran a dos agricultores en el estado de Ondo y exigen rescate"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont enlevé le 3 août deux agriculteurs — un homme identifié comme Adetan Adebanjo Gbemi et une femme non identifiée — alors qu'ils travaillaient dans des champs près de la communauté de Parubber, dans l'État d'Ondo, avant de les emmener dans une forêt voisine, selon Premium Times et Vanguard. Les ravisseurs réclament une rançon de 100 millions de nairas (environ 65 000 dollars). Une opération conjointe de la police, de l'escouade anti-enlèvements, du corps de sécurité Amotekun et de chasseurs locaux a été lancée pour retrouver les victimes.",
+      "en": "Gunmen abducted two farmers — one identified as Adetan Adebanjo Gbemi and an unidentified woman — on August 3 while they worked on farmland near the Parubber community in Ondo State, before taking them into a nearby forest, according to Premium Times and Vanguard. The kidnappers are demanding a ransom of ₦100 million (about $65,000). A joint operation involving police, the anti-kidnapping squad, the Amotekun security corps and local hunters has been launched to locate the victims.",
+      "es": "Hombres armados secuestraron el 3 de agosto a dos agricultores —uno identificado como Adetan Adebanjo Gbemi y una mujer no identificada— mientras trabajaban en tierras de cultivo cerca de la comunidad de Parubber, en el estado de Ondo, antes de llevárselos a un bosque cercano, según Premium Times y Vanguard. Los secuestradores exigen un rescate de 100 millones de nairas (unos 65 000 dólares). Se ha lanzado una operación conjunta de policía, el escuadrón antisecuestros, el cuerpo de seguridad Amotekun y cazadores locales para localizar a las víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "08/03/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Premium Times et Vanguard rapportent l'enlèvement de deux agriculteurs près de Parubber et la demande de rançon de 100 millions de nairas.",
+          "en": "Premium Times and Vanguard report the kidnapping of two farmers near Parubber and the ₦100 million ransom demand.",
+          "es": "Premium Times y Vanguard informan del secuestro de dos agricultores cerca de Parubber y la exigencia de rescate de 100 millones de nairas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 3
+  },
+  {
+    "id": "israel-palestine-gaza-strikes-august",
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Reuters",
+    "place": {
+      "fr": "Bande de Gaza (Gaza, Deir al-Balah, Khan Younès)",
+      "en": "Gaza Strip (Gaza City, Deir al-Balah, Khan Younis)",
+      "es": "Franja de Gaza (Ciudad de Gaza, Deir al-Balah, Jan Yunis)"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes se poursuivent à Gaza malgré un cadre annoncé pour le désarmement du Hamas",
+      "en": "Israeli strikes continue in Gaza despite an announced Hamas disarmament framework",
+      "es": "Los ataques israelíes continúan en Gaza pese a un marco anunciado para el desarme de Hamás"
+    },
+    "summary": {
+      "fr": "Des frappes aériennes israéliennes ont touché plusieurs zones de la bande de Gaza début août, malgré un cadre annoncé fin juillet par les États-Unis pour une deuxième phase de désarmement du Hamas, selon Al Jazeera. Les bilans quotidiens rapportés varient selon les sources et les jours, allant de 9 à environ 19 morts. Le Hamas affirme ne pas vouloir appliquer l'accord de désarmement tant qu'Israël n'aura pas cessé ses attaques et retiré ses troupes ; des responsables israéliens indiquent qu'un retrait n'interviendra qu'après le désarmement complet du mouvement — un désaccord rapporté ici sans prendre parti.",
+      "en": "Israeli airstrikes hit multiple areas of the Gaza Strip in early August, despite a framework announced by the United States in late July for a second phase of Hamas disarmament, according to Al Jazeera. Reported daily death tolls vary by source and by day, ranging from about 9 to 19. Hamas says it will not implement the disarmament agreement until Israel halts its attacks and withdraws troops; Israeli officials say a withdrawal will only follow the group's full disarmament — a disagreement reported here without taking sides.",
+      "es": "Ataques aéreos israelíes alcanzaron varias zonas de la Franja de Gaza a principios de agosto, pese a un marco anunciado por Estados Unidos a finales de julio para una segunda fase de desarme de Hamás, según Al Jazeera. Las cifras diarias de víctimas reportadas varían según la fuente y el día, entre unas 9 y 19 muertes. Hamás afirma que no aplicará el acuerdo de desarme hasta que Israel detenga sus ataques y retire sus tropas; funcionarios israelíes indican que una retirada solo se producirá tras el desarme completo del grupo —un desacuerdo que se recoge aquí sin tomar partido—."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026 – 04/08/2026",
+          "en": "08/01/2026 – 08/04/2026",
+          "es": "01/08/2026 – 04/08/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera rapporte des frappes israéliennes quasi quotidiennes sur Gaza et le désaccord entre les parties sur la mise en œuvre de l'accord de désarmement.",
+          "en": "Al Jazeera reports near-daily Israeli strikes on Gaza and the disagreement between the parties over implementing the disarmament deal.",
+          "es": "Al Jazeera informa de ataques israelíes casi diarios sobre Gaza y del desacuerdo entre las partes sobre la aplicación del acuerdo de desarme."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W32",
+    "priority": 2
   }
 ]
