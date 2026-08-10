@@ -472,21 +472,21 @@
     "severe": true,
     "category": "securite",
     "icon": "🏚️",
-    "source": "La Presse",
+    "source": "Al Jazeera / CNN / The Boston Globe",
     "place": {
       "fr": "Nord du Venezuela (région de Caracas)",
       "en": "Northern Venezuela (Caracas region)",
       "es": "Norte de Venezuela (región de Caracas)"
     },
     "title": {
-      "fr": "Un double séisme dans le nord du Venezuela fait près de 3000 morts",
-      "en": "Double earthquake in northern Venezuela kills nearly 3,000",
-      "es": "Un doble terremoto en el norte de Venezuela deja casi 3000 muertos"
+      "fr": "Le bilan du séisme au Venezuela grimpe à plus de 6100 morts",
+      "en": "Venezuela earthquake death toll climbs above 6,100",
+      "es": "El balance del terremoto en Venezuela supera los 6100 muertos"
     },
     "summary": {
-      "fr": "Un double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels. Les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres.",
-      "en": "A double earthquake that devastated northern Venezuela has killed nearly 3,000 people, according to official figures. International rescue teams are gradually winding down the search for survivors in the rubble.",
-      "es": "Un doble terremoto que devastó el norte de Venezuela dejó casi 3000 muertos, según cifras oficiales. Los equipos internacionales de rescate reducen progresivamente la búsqueda de supervivientes entre los escombros."
+      "fr": "Le bilan officiel du double séisme qui a dévasté le nord du Venezuela le 24 juin a atteint 6125 morts au 3-4 août, selon le président de l'Assemblée nationale Jorge Rodríguez, un chiffre rapporté par Al Jazeera, CNN et The Boston Globe — soit environ le double du bilan communiqué début juillet. Environ 61 000 personnes ont été soignées en hôpital et seuls 16,5 % des décombres avaient été déblayés début août. La vice-présidente Delcy Rodríguez a rejeté les estimations évoquant un bilan encore plus élevé, dénonçant des « laboratoires médiatiques »; ces estimations plus hautes n'ont pas été confirmées de manière indépendante.",
+      "en": "The official death toll from the double earthquake that devastated northern Venezuela on June 24 reached 6,125 as of August 3-4, according to National Assembly President Jorge Rodríguez, a figure reported by Al Jazeera, CNN and The Boston Globe — roughly double the toll reported in early July. About 61,000 people have been treated in hospitals, and only 16.5% of rubble had been cleared as of early August. Vice President Delcy Rodríguez has rejected estimates suggesting an even higher toll, blaming 'media laboratories'; those higher estimates have not been independently confirmed.",
+      "es": "El balance oficial del doble terremoto que devastó el norte de Venezuela el 24 de junio alcanzó los 6125 muertos hasta el 3-4 de agosto, según el presidente de la Asamblea Nacional, Jorge Rodríguez, una cifra recogida por Al Jazeera, CNN y The Boston Globe, aproximadamente el doble del balance reportado a principios de julio. Unas 61.000 personas han sido atendidas en hospitales, y solo el 16,5 % de los escombros había sido retirado a principios de agosto. La vicepresidenta Delcy Rodríguez ha rechazado las estimaciones que apuntan a un balance aún mayor, culpando a «laboratorios mediáticos»; esas estimaciones más altas no han sido confirmadas de forma independiente."
     },
     "timeline": [
       {
@@ -500,10 +500,23 @@
           "en": "Venezuelan authorities publish an official toll of nearly 3,000 deaths.",
           "es": "Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/08/2026 – 04/08/2026",
+          "en": "03/08/2026 – 04/08/2026",
+          "es": "03/08/2026 – 04/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel du séisme est révisé à 6125 morts; la vice-présidente Delcy Rodríguez conteste les estimations évoquant un chiffre plus élevé.",
+          "en": "The official earthquake death toll is revised to 6,125; Vice President Delcy Rodríguez disputes estimates suggesting a higher figure.",
+          "es": "El balance oficial del terremoto se revisa a 6125 muertos; la vicepresidenta Delcy Rodríguez rechaza las estimaciones que apuntan a una cifra mayor."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W33",
     "priority": 3
   },
   {
@@ -692,22 +705,22 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "Al Jazeera / CNN",
+    "week": "2026-W33",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
       "es": "Teherán, Irán"
     },
     "title": {
-      "fr": "Le conflit entre les États-Unis, Israël et l'Iran reprend après le cessez-le-feu d'avril",
-      "en": "Conflict between the United States, Israel and Iran resumes after the April ceasefire",
-      "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
+      "fr": "Le détroit d'Ormuz au cœur de l'impasse entre l'Iran, Israël et les États-Unis",
+      "en": "Strait of Hormuz at the center of the standoff between Iran, Israel and the United States",
+      "es": "El estrecho de Ormuz, en el centro del bloqueo entre Irán, Israel y Estados Unidos"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après la reprise des frappes le 7 juillet, le conflit s'est concentré début août sur le détroit d'Ormuz, où l'Iran continue de cibler des navires marchands, dont une attaque le 8-9 août contre un pétrolier lié à la compagnie pétrolière d'Abou Dabi, selon Al Jazeera et CNN. Le Conseil suprême de sécurité nationale iranien affirme que le détroit ne sera pas rouvert tant que les États-Unis ne cesseront pas leurs frappes, ne retireront pas leurs forces de la région et ne lèveront pas les sanctions; le président Trump a déclaré le 9 août que Washington ne « négocie qu'à moitié » et mise sur la pression économique.",
+      "en": "After strikes resumed on July 7, the conflict centered in early August on the Strait of Hormuz, where Iran has continued targeting merchant vessels, including an August 8-9 attack on a tanker linked to Abu Dhabi's national oil company, according to Al Jazeera and CNN. Iran's Supreme National Security Council says the strait will not reopen until the US halts its strikes, withdraws forces from the region and lifts sanctions; President Trump said on August 9 that Washington is only 'semi-negotiating' and is relying on economic pressure instead.",
+      "es": "Tras la reanudación de los ataques el 7 de julio, el conflicto se centró a principios de agosto en el estrecho de Ormuz, donde Irán ha seguido atacando buques mercantes, entre ellos un ataque el 8-9 de agosto contra un petrolero vinculado a la petrolera estatal de Abu Dabi, según Al Jazeera y CNN. El Consejo Supremo de Seguridad Nacional de Irán afirma que el estrecho no se reabrirá hasta que Estados Unidos cese sus ataques, retire sus fuerzas de la región y levante las sanciones; el presidente Trump declaró el 9 de agosto que Washington solo está «semi-negociando» y que apuesta por la presión económica."
     },
     "timeline": [
       {
@@ -733,6 +746,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/08/2026 – 09/08/2026",
+          "en": "08/08/2026 – 09/08/2026",
+          "es": "08/08/2026 – 09/08/2026"
+        },
+        "d": {
+          "fr": "L'Iran attaque un pétrolier lié aux Émirats arabes unis dans le détroit d'Ormuz; Téhéran pose des conditions à la réouverture du détroit, Washington dit privilégier la pression économique.",
+          "en": "Iran attacks a tanker linked to the United Arab Emirates in the Strait of Hormuz; Tehran sets conditions for reopening the strait, Washington says it is favoring economic pressure.",
+          "es": "Irán ataca un petrolero vinculado a los Emiratos Árabes Unidos en el estrecho de Ormuz; Teherán pone condiciones para la reapertura del estrecho, Washington dice que prioriza la presión económica."
         },
         "active": true
       }
@@ -829,5 +855,1020 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -114.4609,
+      42.5629
+    ],
+    "id": "twinfalls-fusillade",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ABC News / NBC News / CNN",
+    "place": {
+      "fr": "Twin Falls, Idaho, États-Unis",
+      "en": "Twin Falls, Idaho, United States",
+      "es": "Twin Falls, Idaho, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade dans l'Idaho fait trois morts avant le suicide du tireur",
+      "en": "Shooting in Idaho kills three before gunman takes his own life",
+      "es": "Un tiroteo en Idaho deja tres muertos antes de que el atacante se suicide"
+    },
+    "summary": {
+      "fr": "Un homme de 24 ans a ouvert le feu près d'un restaurant In-N-Out Burger récemment ouvert à Twin Falls le 1er août, tuant trois personnes et en blessant sept autres, selon ABC News, NBC News et CNN. Le tireur a été retrouvé mort par balle près d'un sentier de canyon après avoir fui les lieux; le mobile n'a pas été confirmé publiquement.",
+      "en": "A 24-year-old man opened fire near a recently opened In-N-Out Burger in Twin Falls on August 1, killing three people and wounding seven others, according to ABC News, NBC News and CNN. The gunman was found dead of a self-inflicted gunshot wound near a canyon trail after fleeing the scene; a motive has not been publicly confirmed.",
+      "es": "Un hombre de 24 años abrió fuego cerca de un restaurante In-N-Out Burger recién inaugurado en Twin Falls el 1 de agosto, matando a tres personas e hiriendo a otras siete, según ABC News, NBC News y CNN. El atacante fue hallado muerto por un disparo autoinfligido cerca de un sendero de cañón tras huir del lugar; el móvil no ha sido confirmado públicamente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Trois personnes sont tuées et sept blessées par un tireur près d'un restaurant à Twin Falls; le suspect est retrouvé mort peu après.",
+          "en": "Three people are killed and seven wounded by a gunman near a restaurant in Twin Falls; the suspect is found dead shortly after.",
+          "es": "Tres personas mueren y siete resultan heridas por un atacante cerca de un restaurante en Twin Falls; el sospechoso es hallado muerto poco después."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -117.5928,
+      47.6437
+    ],
+    "id": "spokane-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NBC News / The Washington Post / Spokane County",
+    "place": {
+      "fr": "Comté de Spokane, État de Washington, États-Unis",
+      "en": "Spokane County, Washington State, United States",
+      "es": "Condado de Spokane, estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Des incendies volontaires ravagent la région de Spokane, dans l'État de Washington",
+      "en": "Arson-linked wildfires devastate the Spokane area in Washington State",
+      "es": "Incendios de origen intencionado devastan la región de Spokane, en el estado de Washington"
+    },
+    "summary": {
+      "fr": "Trois incendies rapides — dont le feu Old Trails, le plus destructeur — ont forcé l'évacuation d'environ 65 000 à 67 000 personnes autour de Spokane début août, détruisant ou endommageant plus de 900 bâtiments selon les autorités du comté, NBC News et le Washington Post. Un homme de 37 ans, Aaron F. Farinacci, a été arrêté le 3 août et inculpé d'incendie volontaire au premier degré en lien avec le feu Old Trails.",
+      "en": "Three fast-moving wildfires — including the Old Trails Fire, the most destructive — forced the evacuation of roughly 65,000 to 67,000 people around Spokane in early August, damaging or destroying more than 900 structures according to county officials, NBC News and The Washington Post. A 37-year-old man, Aaron F. Farinacci, was arrested on August 3 and charged with first-degree arson in connection with the Old Trails Fire.",
+      "es": "Tres incendios de rápida propagación —entre ellos el incendio Old Trails, el más destructivo— obligaron a evacuar a entre 65.000 y 67.000 personas cerca de Spokane a principios de agosto, dañando o destruyendo más de 900 edificaciones según las autoridades del condado, NBC News y The Washington Post. Un hombre de 37 años, Aaron F. Farinacci, fue detenido el 3 de agosto y acusado de incendio provocado en primer grado en relación con el incendio Old Trails."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026 – 07/08/2026",
+          "en": "01/08/2026 – 07/08/2026",
+          "es": "01/08/2026 – 07/08/2026"
+        },
+        "d": {
+          "fr": "Trois incendies se propagent rapidement autour de Spokane, entraînant l'évacuation de dizaines de milliers de personnes et la destruction de plus de 900 bâtiments; un suspect est arrêté pour incendie volontaire.",
+          "en": "Three wildfires spread rapidly around Spokane, forcing tens of thousands to evacuate and destroying more than 900 buildings; a suspect is arrested on arson charges.",
+          "es": "Tres incendios se propagan rápidamente cerca de Spokane, obligando a evacuar a decenas de miles de personas y destruyendo más de 900 edificios; un sospechoso es detenido por incendio provocado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -119.6772,
+      49.6008
+    ],
+    "id": "colombie-britannique-incendie",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / The Globe and Mail / GRC",
+    "place": {
+      "fr": "Summerland et Peachland, Colombie-Britannique, Canada",
+      "en": "Summerland and Peachland, British Columbia, Canada",
+      "es": "Summerland y Peachland, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "La Colombie-Britannique déclare l'état d'urgence face aux feux de forêt, un décès signalé",
+      "en": "British Columbia declares state of emergency over wildfires as one death is reported",
+      "es": "Columbia Británica declara el estado de emergencia por los incendios forestales; se reporta una muerte"
+    },
+    "summary": {
+      "fr": "Le premier ministre David Eby a déclaré l'état d'urgence provincial le 8 août alors que plus de 100 feux de forêt brûlaient en Colombie-Britannique, dont le feu de Bald Range qui a doublé de superficie en une nuit près de Summerland, selon CBC News et le Globe and Mail. La police montée (GRC) a confirmé la mort d'une femme de 80 ans lors de l'évacuation du secteur de Meadow Valley, un décès qu'elle attribue à l'incendie.",
+      "en": "Premier David Eby declared a provincial state of emergency on August 8 as more than 100 wildfires burned across British Columbia, including the Bald Range Fire, which doubled in size overnight near Summerland, according to CBC News and The Globe and Mail. The RCMP confirmed the death of an 80-year-old woman while evacuating the Meadow Valley area, a death it attributes to the wildfire.",
+      "es": "El primer ministro David Eby declaró el estado de emergencia provincial el 8 de agosto mientras más de 100 incendios forestales ardían en Columbia Británica, entre ellos el incendio de Bald Range, que duplicó su superficie en una noche cerca de Summerland, según CBC News y The Globe and Mail. La policía montada (RCMP) confirmó la muerte de una mujer de 80 años durante la evacuación de la zona de Meadow Valley, un fallecimiento que atribuye al incendio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "L'état d'urgence est déclaré en Colombie-Britannique; plus de 20 000 personnes sont évacuées et une femme de 80 ans meurt en fuyant l'incendie de Bald Range.",
+          "en": "A state of emergency is declared in British Columbia; more than 20,000 people are evacuated and an 80-year-old woman dies fleeing the Bald Range Fire.",
+          "es": "Se declara el estado de emergencia en Columbia Británica; más de 20.000 personas son evacuadas y una mujer de 80 años muere al huir del incendio de Bald Range."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -99.1332,
+      19.4326
+    ],
+    "id": "mexique-ayotzinapa-arrestation",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Times / Univision",
+    "place": {
+      "fr": "Mexico, Mexique (affaire liée à Iguala, État de Guerrero)",
+      "en": "Mexico City, Mexico (case linked to Iguala, Guerrero state)",
+      "es": "Ciudad de México, México (caso vinculado a Iguala, estado de Guerrero)"
+    },
+    "title": {
+      "fr": "L'ex-gouverneur du Guerrero arrêté pour dissimulation présumée dans l'affaire Ayotzinapa",
+      "en": "Former Guerrero governor arrested over alleged cover-up in the Ayotzinapa case",
+      "es": "Exgobernador de Guerrero detenido por presunto encubrimiento en el caso Ayotzinapa"
+    },
+    "summary": {
+      "fr": "L'ancien gouverneur du Guerrero Ángel Aguirre a été arrêté début août et écroué à la prison fédérale de l'Altiplano, accusé par la procureure Ernestina Godoy d'avoir dissimulé des preuves liées à la disparition de 43 étudiants d'Ayotzinapa en 2014, selon Washington Times et Univision. Aguirre, qui dirigeait l'État au moment des faits, avait démissionné un mois après la disparition.",
+      "en": "Former Guerrero governor Ángel Aguirre was arrested in early August and jailed at the Altiplano federal prison, accused by Attorney General Ernestina Godoy of concealing evidence linked to the 2014 disappearance of 43 Ayotzinapa students, according to the Washington Times and Univision. Aguirre, who led the state at the time, resigned one month after the disappearance.",
+      "es": "El exgobernador de Guerrero Ángel Aguirre fue detenido a principios de agosto e ingresado en el penal federal del Altiplano, acusado por la fiscal Ernestina Godoy de ocultar pruebas relacionadas con la desaparición en 2014 de 43 estudiantes de Ayotzinapa, según Washington Times y Univision. Aguirre, quien gobernaba el estado en ese momento, había renunciado un mes después de la desaparición."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "06/08/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Ángel Aguirre est arrêté et incarcéré, accusé d'avoir couvert la dissimulation de preuves dans l'affaire des 43 disparus d'Ayotzinapa.",
+          "en": "Ángel Aguirre is arrested and jailed, accused of covering up the concealment of evidence in the case of the 43 missing Ayotzinapa students.",
+          "es": "Ángel Aguirre es detenido y encarcelado, acusado de encubrir la ocultación de pruebas en el caso de los 43 desaparecidos de Ayotzinapa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -43.2569,
+      -22.9676
+    ],
+    "id": "rio-crash-helicoptere",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚁",
+    "source": "Al Jazeera / The Rio Times",
+    "place": {
+      "fr": "Parc national de Tijuca, Rio de Janeiro, Brésil",
+      "en": "Tijuca National Park, Rio de Janeiro, Brazil",
+      "es": "Parque Nacional de Tijuca, Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Un hélicoptère s'écrase dans la forêt de Tijuca à Rio, quatre morts",
+      "en": "Helicopter crashes in Rio's Tijuca forest, killing four",
+      "es": "Un helicóptero se estrella en el bosque de Tijuca en Río y deja cuatro muertos"
+    },
+    "summary": {
+      "fr": "Un hélicoptère Robinson R44 exploité par la société Voos Rio Panorâmico s'est écrasé le 8 août près du belvédère de Vista Chinesa, tuant le pilote et trois touristes colombiennes venues fêter les 15 ans d'une adolescente, selon Al Jazeera et The Rio Times. La police civile et l'organisme brésilien d'enquête aéronautique (Cenipa) ont ouvert des enquêtes sur les causes de l'accident.",
+      "en": "A Robinson R44 helicopter operated by Voos Rio Panorâmico crashed on August 8 near the Vista Chinesa lookout, killing the pilot and three Colombian tourists who had come to celebrate a teenager's 15th birthday, according to Al Jazeera and The Rio Times. Brazil's Civil Police and aviation investigator Cenipa have opened inquiries into the cause of the crash.",
+      "es": "Un helicóptero Robinson R44 operado por la empresa Voos Rio Panorâmico se estrelló el 8 de agosto cerca del mirador de Vista Chinesa, matando al piloto y a tres turistas colombianas que habían viajado para celebrar los 15 años de una adolescente, según Al Jazeera y The Rio Times. La Policía Civil y el organismo brasileño de investigación aeronáutica (Cenipa) abrieron investigaciones sobre la causa del accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Un hélicoptère touristique s'écrase près de Vista Chinesa, tuant les quatre personnes à bord.",
+          "en": "A tourist helicopter crashes near Vista Chinesa, killing all four people aboard.",
+          "es": "Un helicóptero turístico se estrella cerca de Vista Chinesa y mueren las cuatro personas a bordo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      121.2333,
+      28.1333
+    ],
+    "id": "chine-typhon-dolphin",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Associated Press / Euronews",
+    "place": {
+      "fr": "Yuhuan, province du Zhejiang, Chine (également Wenzhou, Taizhou et Shanghai)",
+      "en": "Yuhuan, Zhejiang province, China (also affecting Wenzhou, Taizhou and Shanghai)",
+      "es": "Yuhuan, provincia de Zhejiang, China (también afecta a Wenzhou, Taizhou y Shanghái)"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin force l'évacuation de plus d'un million de personnes en Chine",
+      "en": "Typhoon Dolphin forces the evacuation of more than a million people in China",
+      "es": "El tifón Dolphin obliga a evacuar a más de un millón de personas en China"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin, la tempête la plus puissante de l'année en Chine avec des vents soutenus de 151 km/h, a touché terre près de Yuhuan le 9 août, selon l'Associated Press et Euronews. Plus d'un million de personnes ont été évacuées le long de la côte est, dont environ 900 000 à Wenzhou; aucun décès n'a été confirmé par les autorités chinoises, qui recherchent toutefois un garçon de 9 ans emporté par la mer à Wenling.",
+      "en": "Typhoon Dolphin, China's most powerful storm of the year with sustained winds of 151 km/h, made landfall near Yuhuan on August 9, according to the Associated Press and Euronews. More than a million people were evacuated along the east coast, including about 900,000 in Wenzhou; no deaths have been confirmed by Chinese authorities, who are nonetheless searching for a 9-year-old boy swept into the sea in Wenling.",
+      "es": "El tifón Dolphin, la tormenta más potente del año en China con vientos sostenidos de 151 km/h, tocó tierra cerca de Yuhuan el 9 de agosto, según Associated Press y Euronews. Más de un millón de personas fueron evacuadas a lo largo de la costa este, unas 900.000 solo en Wenzhou; las autoridades chinas no han confirmado ninguna muerte, aunque buscan a un niño de 9 años arrastrado por el mar en Wenling."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dolphin touche terre dans le Zhejiang; plus d'un million de personnes sont évacuées le long de la côte est chinoise.",
+          "en": "Typhoon Dolphin makes landfall in Zhejiang; more than a million people are evacuated along China's east coast.",
+          "es": "El tifón Dolphin toca tierra en Zhejiang; más de un millón de personas son evacuadas a lo largo de la costa este de China."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      107.468,
+      31.209
+    ],
+    "id": "chine-corruption-zhang",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Xinhua",
+    "place": {
+      "fr": "Dazhou, province du Sichuan, Chine",
+      "en": "Dazhou, Sichuan province, China",
+      "es": "Dazhou, provincia de Sichuan, China"
+    },
+    "title": {
+      "fr": "Un ancien régulateur chinois de l'armement condamné à 10 ans de prison pour corruption",
+      "en": "Former Chinese defense-technology regulator sentenced to 10 years for corruption",
+      "es": "Exregulador chino de tecnología de defensa condenado a 10 años de prisión por corrupción"
+    },
+    "summary": {
+      "fr": "Zhang Jianhua, ancien numéro deux de l'Administration d'État pour la science, la technologie et l'industrie de défense, a été condamné le 5 août à 10 ans de prison et à une amende de 3,8 millions de yuans par un tribunal de Dazhou, selon l'agence officielle Xinhua. Les procureurs l'accusent d'avoir accepté plus de 43 millions de yuans (environ 6 millions de dollars) de pots-de-vin entre 2008 et 2025 en échange de faveurs administratives.",
+      "en": "Zhang Jianhua, former deputy head of the State Administration of Science, Technology and Industry for National Defense, was sentenced on August 5 to 10 years in prison and fined 3.8 million yuan by a court in Dazhou, according to the official Xinhua news agency. Prosecutors accuse him of accepting more than 43 million yuan (about $6 million) in bribes between 2008 and 2025 in exchange for administrative favors.",
+      "es": "Zhang Jianhua, exsubdirector de la Administración Estatal de Ciencia, Tecnología e Industria para la Defensa Nacional, fue condenado el 5 de agosto a 10 años de prisión y a una multa de 3,8 millones de yuanes por un tribunal de Dazhou, según la agencia oficial Xinhua. Los fiscales lo acusan de haber aceptado más de 43 millones de yuanes (unos 6 millones de dólares) en sobornos entre 2008 y 2025 a cambio de favores administrativos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Zhang Jianhua est condamné à 10 ans de prison pour corruption par un tribunal du Sichuan.",
+          "en": "Zhang Jianhua is sentenced to 10 years in prison for corruption by a court in Sichuan.",
+          "es": "Zhang Jianhua es condenado a 10 años de prisión por corrupción por un tribunal de Sichuan."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      94.636,
+      26.985
+    ],
+    "id": "inde-assam-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ANI / India TV News / DRIMS",
+    "place": {
+      "fr": "Sivasagar et autres districts de l'État d'Assam, Inde",
+      "en": "Sivasagar and other districts of Assam state, India",
+      "es": "Sivasagar y otros distritos del estado de Assam, India"
+    },
+    "title": {
+      "fr": "Le bilan des inondations en Assam, en Inde, atteint 100 morts",
+      "en": "Flood death toll in Assam, India, reaches 100",
+      "es": "El balance de las inundaciones en Assam, India, alcanza los 100 muertos"
+    },
+    "summary": {
+      "fr": "Les inondations de mousson qui frappent l'Assam depuis juillet ont fait 100 morts au 10 août, dont 18 enfants, selon le système officiel de gestion des catastrophes de l'État (DRIMS) relayé par ANI et India TV News. Environ 140 000 personnes restent affectées dans une dizaine de districts, le plus touché étant Sivasagar avec 49 décès; 17 198 hectares de cultures ont été submergés.",
+      "en": "Monsoon flooding that has struck Assam since July has killed 100 people as of August 10, including 18 children, according to the state's official disaster management system (DRIMS) as reported by ANI and India TV News. Roughly 140,000 people remain affected across about ten districts, with Sivasagar the hardest hit at 49 deaths; 17,198 hectares of cropland have been submerged.",
+      "es": "Las inundaciones monzónicas que golpean Assam desde julio han causado 100 muertos hasta el 10 de agosto, entre ellos 18 menores, según el sistema oficial de gestión de desastres del estado (DRIMS), citado por ANI y India TV News. Unas 140.000 personas siguen afectadas en una decena de distritos, el más golpeado es Sivasagar con 49 muertes; 17.198 hectáreas de cultivos quedaron sumergidas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel des inondations en Assam atteint 100 morts depuis le début de la mousson.",
+          "en": "The official flood death toll in Assam reaches 100 since the start of the monsoon.",
+          "es": "El balance oficial de las inundaciones en Assam alcanza los 100 muertos desde el inicio del monzón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "id": "inde-rbi-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Forbes India / Trading Economics",
+    "place": {
+      "fr": "New Delhi, Inde (siège de la Reserve Bank of India)",
+      "en": "New Delhi, India (Reserve Bank of India headquarters)",
+      "es": "Nueva Delhi, India (sede del Reserve Bank of India)"
+    },
+    "title": {
+      "fr": "La banque centrale indienne maintient ses taux et relève ses prévisions de croissance",
+      "en": "India's central bank holds rates steady and raises its growth forecast",
+      "es": "El banco central de India mantiene los tipos de interés y eleva su previsión de crecimiento"
+    },
+    "summary": {
+      "fr": "La Reserve Bank of India a maintenu à l'unanimité son taux directeur à 5,25 % le 5 août, tout en relevant sa prévision de croissance pour l'exercice 2027 à 6,7 % et en abaissant sa prévision d'inflation à 5 %, selon Forbes India et Trading Economics. La banque a cité les incertitudes géopolitiques, notamment au Moyen-Orient, pour justifier sa position prudente.",
+      "en": "The Reserve Bank of India unanimously held its benchmark rate at 5.25% on August 5, while raising its FY27 growth forecast to 6.7% and lowering its inflation forecast to 5%, according to Forbes India and Trading Economics. The bank cited geopolitical uncertainties, including in the Middle East, for its cautious stance.",
+      "es": "El Reserve Bank of India mantuvo por unanimidad su tasa de referencia en el 5,25 % el 5 de agosto, a la vez que elevó su previsión de crecimiento para el ejercicio 2027 al 6,7 % y redujo su previsión de inflación al 5 %, según Forbes India y Trading Economics. El banco citó las incertidumbres geopolíticas, incluida la de Oriente Medio, para justificar su postura prudente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "La RBI maintient son taux directeur à 5,25 % et révise ses prévisions économiques.",
+          "en": "The RBI holds its benchmark rate at 5.25% and revises its economic forecasts.",
+          "es": "El RBI mantiene su tasa de referencia en el 5,25 % y revisa sus previsiones económicas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      130.7079,
+      32.8032
+    ],
+    "id": "japon-kumamoto-bilan",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Japan Times / NPR",
+    "place": {
+      "fr": "Préfecture de Kumamoto, île de Kyushu, Japon",
+      "en": "Kumamoto Prefecture, Kyushu, Japan",
+      "es": "Prefectura de Kumamoto, Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Le bilan du séisme de Kumamoto, au Japon, grimpe à 39 morts",
+      "en": "Kumamoto earthquake death toll in Japan climbs to 39",
+      "es": "El balance del terremoto de Kumamoto, en Japón, sube a 39 muertos"
+    },
+    "summary": {
+      "fr": "Le séisme de magnitude 7,1 survenu le 28 juillet dans la préfecture de Kumamoto a fait 39 morts au 8 août, selon les autorités préfectorales relayées par le Japan Times et NPR. Plus de 6 500 personnes restent hébergées dans des centres d'évacuation, sur un bilan total de 205 victimes dans la préfecture.",
+      "en": "The magnitude-7.1 earthquake that struck Kumamoto Prefecture on July 28 has killed 39 people as of August 8, according to prefectural authorities cited by the Japan Times and NPR. More than 6,500 people remain in evacuation shelters, out of a total of 205 casualties in the prefecture.",
+      "es": "El terremoto de magnitud 7,1 que sacudió la prefectura de Kumamoto el 28 de julio ha dejado 39 muertos hasta el 8 de agosto, según las autoridades prefecturales citadas por Japan Times y NPR. Más de 6.500 personas permanecen en refugios de evacuación, de un total de 205 víctimas en la prefectura."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel du séisme de Kumamoto du 28 juillet atteint 39 morts.",
+          "en": "The official death toll from the July 28 Kumamoto earthquake reaches 39.",
+          "es": "El balance oficial del terremoto de Kumamoto del 28 de julio alcanza los 39 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      139.6503,
+      35.6762
+    ],
+    "id": "japon-taxe-alimentation",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Japan Times / Bloomberg",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Japon approuve une baisse drastique de la taxe sur l'alimentation",
+      "en": "Japan approves a sharp cut to its food consumption tax",
+      "es": "Japón aprueba un fuerte recorte del impuesto sobre los alimentos"
+    },
+    "summary": {
+      "fr": "Le gouvernement de la première ministre Sanae Takaichi a approuvé le 5 août une baisse temporaire de la taxe à la consommation sur les aliments, de 8 % à 1 % pendant deux ans à partir d'avril 2027, une première depuis l'introduction de cette taxe en 1989, selon le Japan Times et Bloomberg. La mesure, encore soumise à l'approbation du Parlement, devrait entraîner un manque à gagner budgétaire estimé à 10 000 milliards de yens.",
+      "en": "Prime Minister Sanae Takaichi's government approved on August 5 a temporary cut to the consumption tax on food, from 8% to 1% for two years starting in April 2027 — the first such cut since the tax was introduced in 1989, according to the Japan Times and Bloomberg. The measure, still subject to parliamentary approval, is expected to create an estimated 10 trillion yen revenue shortfall.",
+      "es": "El gobierno de la primera ministra Sanae Takaichi aprobó el 5 de agosto una reducción temporal del impuesto al consumo sobre los alimentos, del 8 % al 1 % durante dos años a partir de abril de 2027, la primera desde que se introdujo ese impuesto en 1989, según Japan Times y Bloomberg. La medida, aún sujeta a la aprobación parlamentaria, generaría un déficit presupuestario estimado en 10 billones de yenes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le Cabinet japonais approuve la baisse de la taxe sur l'alimentation de 8 % à 1 %.",
+          "en": "Japan's Cabinet approves cutting the food consumption tax from 8% to 1%.",
+          "es": "El Gabinete japonés aprueba la reducción del impuesto sobre los alimentos del 8 % al 1 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "id": "indonesie-croissance-pib",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Antara News / Trading Economics (BPS)",
+    "place": {
+      "fr": "Jakarta, Indonésie (agence statistique BPS)",
+      "en": "Jakarta, Indonesia (Statistics Indonesia, BPS)",
+      "es": "Yakarta, Indonesia (agencia de estadística BPS)"
+    },
+    "title": {
+      "fr": "L'économie indonésienne croît de 5,29 % au deuxième trimestre",
+      "en": "Indonesia's economy grows 5.29% in the second quarter",
+      "es": "La economía de Indonesia crece un 5,29 % en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "Le produit intérieur brut de l'Indonésie a progressé de 5,29 % sur un an au deuxième trimestre 2026, selon les données officielles de l'agence Statistics Indonesia (BPS) publiées le 5 août et relayées par Antara News et Trading Economics — un résultat supérieur aux attentes du marché mais en ralentissement par rapport aux 5,61 % du premier trimestre. La consommation des ménages et le secteur manufacturier ont porté l'essentiel de la croissance.",
+      "en": "Indonesia's gross domestic product grew 5.29% year-on-year in the second quarter of 2026, according to official data from Statistics Indonesia (BPS) released August 5 and reported by Antara News and Trading Economics — beating market expectations but slowing from 5.61% growth in the first quarter. Household consumption and manufacturing drove most of the growth.",
+      "es": "El producto interno bruto de Indonesia creció un 5,29 % interanual en el segundo trimestre de 2026, según datos oficiales de la agencia Statistics Indonesia (BPS) publicados el 5 de agosto y recogidos por Antara News y Trading Economics, un resultado superior a lo esperado por el mercado pero inferior al 5,61 % del primer trimestre. El consumo de los hogares y el sector manufacturero impulsaron la mayor parte del crecimiento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Les données officielles confirment une croissance du PIB indonésien de 5,29 % au deuxième trimestre.",
+          "en": "Official data confirm Indonesia's GDP grew 5.29% in the second quarter.",
+          "es": "Los datos oficiales confirman que el PIB de Indonesia creció un 5,29 % en el segundo trimestre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      32.5498,
+      29.9668
+    ],
+    "id": "egypte-seisme-suez",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "The National / Al Jazeera",
+    "place": {
+      "fr": "Environ 40 km au nord de la ville de Suez, gouvernorat de Suez, Égypte",
+      "en": "About 40 km north of Suez city, Suez Governorate, Egypt",
+      "es": "Unos 40 km al norte de la ciudad de Suez, gobernación de Suez, Egipto"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,6 ressenti près de Suez, en Égypte",
+      "en": "Magnitude 5.6 earthquake felt near Suez, Egypt",
+      "es": "Un terremoto de magnitud 5,6 se siente cerca de Suez, en Egipto"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 5,6 a frappé la région environ 40 km au nord de Suez vers 3h du matin le 3 août, suivi d'au moins cinq répliques, selon The National et Al Jazeera. Les secousses ont été ressenties jusqu'au Caire, à Alexandrie et dans plusieurs pays voisins; le ministère égyptien de la Santé a fait état d'un seul blessé, sans dégât majeur signalé.",
+      "en": "A magnitude-5.6 earthquake struck the area roughly 40 km north of Suez at about 3 a.m. on August 3, followed by at least five aftershocks, according to The National and Al Jazeera. Tremors were felt as far as Cairo, Alexandria and several neighboring countries; Egypt's health ministry reported a single injury, with no major damage reported.",
+      "es": "Un terremoto de magnitud 5,6 sacudió la zona situada unos 40 km al norte de Suez hacia las 3 de la madrugada del 3 de agosto, seguido de al menos cinco réplicas, según The National y Al Jazeera. Las sacudidas se sintieron hasta El Cairo, Alejandría y varios países vecinos; el ministerio egipcio de Salud informó de un solo herido, sin daños importantes reportados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 5,6 est ressenti dans une grande partie de l'Égypte et des pays voisins; un blessé est signalé.",
+          "en": "A magnitude-5.6 earthquake is felt across much of Egypt and neighboring countries; one injury is reported.",
+          "es": "Un terremoto de magnitud 5,6 se siente en gran parte de Egipto y países vecinos; se reporta un herido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "coords": [
+      12.2367,
+      51.4239
+    ],
+    "id": "allemagne-drone-leipzig",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / NPR",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Saxe, Allemagne",
+      "en": "Leipzig/Halle Airport, Saxony, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "Un drone piégé découvert près d'une piste de l'aéroport de Leipzig, en Allemagne",
+      "en": "Explosive-laden drone found near a runway at Leipzig airport in Germany",
+      "es": "Se halla un dron cargado de explosivos cerca de una pista del aeropuerto de Leipzig, en Alemania"
+    },
+    "summary": {
+      "fr": "Un drone chargé d'explosifs a été découvert début août dans une zone de fret sécurisée près de la piste sud de l'aéroport de Leipzig/Halle, entraînant une brève suspension du trafic et l'intervention d'un robot de déminage, selon CNN et NPR. Le ministre allemand de l'Intérieur Alexander Dobrindt a évoqué un « nouveau scénario de menace » et une « guerre hybride quotidienne »; l'ambassade de Russie à Berlin a rejeté toute implication, qualifiant l'incident de « provocation fabriquée ».",
+      "en": "A drone loaded with explosives was discovered in early August in a secure cargo area near the southern runway of Leipzig/Halle Airport, briefly suspending flight operations and prompting a bomb-disposal robot response, according to CNN and NPR. German Interior Minister Alexander Dobrindt described it as a 'new threat scenario' amid 'daily hybrid warfare'; Russia's embassy in Berlin denied any involvement, calling the incident a 'fabricated provocation.'",
+      "es": "Un dron cargado de explosivos fue hallado a principios de agosto en una zona de carga segura cerca de la pista sur del aeropuerto de Leipzig/Halle, lo que suspendió brevemente las operaciones y llevó a intervenir a un robot antibombas, según CNN y NPR. El ministro alemán del Interior, Alexander Dobrindt, habló de un «nuevo escenario de amenaza» en medio de una «guerra híbrida diaria»; la embajada rusa en Berlín negó cualquier implicación y calificó el incidente de «provocación fabricada»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Un drone piégé est découvert près de l'aéroport de Leipzig; le gouvernement allemand évoque une menace hybride, la Russie dément toute implication.",
+          "en": "An explosive-laden drone is found near Leipzig airport; the German government cites a hybrid threat, Russia denies any involvement.",
+          "es": "Se halla un dron cargado de explosivos cerca del aeropuerto de Leipzig; el gobierno alemán habla de una amenaza híbrida, Rusia niega cualquier implicación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      4.8924,
+      44.9334
+    ],
+    "id": "france-valence-fusillade",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "France Info / AFP",
+    "place": {
+      "fr": "Quartier du Polygone, Valence, Drôme, France",
+      "en": "Polygone neighborhood, Valence, Drôme, France",
+      "es": "Barrio de Polygone, Valence, Drôme, Francia"
+    },
+    "title": {
+      "fr": "Une fusillade à l'arme de guerre blesse six jeunes à Valence",
+      "en": "Assault rifle attack wounds six young people in Valence, France",
+      "es": "Un tiroteo con fusil de asalto hiere a seis jóvenes en Valence, Francia"
+    },
+    "summary": {
+      "fr": "Un individu masqué a ouvert le feu à l'arme d'assaut sur un groupe d'une trentaine de personnes dans le quartier du Polygone à Valence, dans la soirée du 5 août, blessant six jeunes âgés de 15 à 22 ans, dont deux dans un état d'urgence absolue, selon France Info et l'AFP. Un véhicule calciné, probablement utilisé pour la fuite, a été retrouvé à plusieurs kilomètres; le ou les auteurs restaient recherchés.",
+      "en": "A masked individual opened fire with an assault rifle on a group of about 30 people in Valence's Polygone neighborhood on the evening of August 5, wounding six young people aged 15 to 22, two of them in absolute life-threatening condition, according to France Info and AFP. A burned-out vehicle, believed to have been used in the getaway, was found several kilometers away; the perpetrator or perpetrators remained at large.",
+      "es": "Un individuo enmascarado abrió fuego con un fusil de asalto contra un grupo de unas 30 personas en el barrio de Polygone de Valence, en la noche del 5 de agosto, hiriendo a seis jóvenes de entre 15 y 22 años, dos de ellos en estado de extrema gravedad, según France Info y AFP. Un vehículo calcinado, presuntamente usado en la huida, fue hallado a varios kilómetros; el autor o los autores seguían siendo buscados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Six jeunes sont blessés par balle lors d'une fusillade à Valence; les auteurs prennent la fuite.",
+          "en": "Six young people are shot and wounded in a shooting in Valence; the attackers flee.",
+          "es": "Seis jóvenes resultan heridos de bala en un tiroteo en Valence; los atacantes huyen."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.124,
+      51.5117
+    ],
+    "id": "royaume-uni-covent-garden",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Police métropolitaine / ABC News / ITV News",
+    "place": {
+      "fr": "Covent Garden, Londres, Royaume-Uni",
+      "en": "Covent Garden, London, United Kingdom",
+      "es": "Covent Garden, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Une femme poignarde quatre hommes en plein jour à Covent Garden, à Londres",
+      "en": "Woman stabs four men in broad daylight in London's Covent Garden",
+      "es": "Una mujer apuñala a cuatro hombres en pleno día en Covent Garden, Londres"
+    },
+    "summary": {
+      "fr": "Quatre hommes âgés de 34 à 52 ans ont été poignardés vers 12h30 le 5 août dans le quartier touristique de Covent Garden, selon la police métropolitaine relayée par ABC News et ITV News. Une femme de 47 ans a été arrêtée sur place et inculpée; la police évoque un incident « lié à la santé mentale » plutôt qu'un acte terroriste.",
+      "en": "Four men aged 34 to 52 were stabbed at around 12:30 p.m. on August 5 in the Covent Garden tourist district, according to the Metropolitan Police as reported by ABC News and ITV News. A 47-year-old woman was arrested at the scene and charged; police described it as a 'mental health-related' incident rather than an act of terrorism.",
+      "es": "Cuatro hombres de entre 34 y 52 años fueron apuñalados hacia las 12:30 del 5 de agosto en el distrito turístico de Covent Garden, según la Policía Metropolitana, citada por ABC News e ITV News. Una mujer de 47 años fue detenida en el lugar y acusada; la policía calificó el incidente como «relacionado con la salud mental» y no como un acto terrorista."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Quatre hommes sont poignardés à Covent Garden; une suspecte est arrêtée sur place.",
+          "en": "Four men are stabbed in Covent Garden; a suspect is arrested at the scene.",
+          "es": "Cuatro hombres son apuñalados en Covent Garden; una sospechosa es detenida en el lugar."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      12.7359,
+      42.5478
+    ],
+    "id": "italie-terni-collision-bus",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "ANSA",
+    "place": {
+      "fr": "Route SS79 Terni–Rieti, entre Colli sul Velino et Piediluco, Ombrie, Italie",
+      "en": "SS79 Terni–Rieti road, between Colli sul Velino and Piediluco, Umbria, Italy",
+      "es": "Carretera SS79 Terni–Rieti, entre Colli sul Velino y Piediluco, Umbría, Italia"
+    },
+    "title": {
+      "fr": "Une collision frontale entre un bus et un camping-car fait six morts en Italie",
+      "en": "Head-on collision between a bus and a camper van kills six in Italy",
+      "es": "Una colisión frontal entre un autobús y una autocaravana deja seis muertos en Italia"
+    },
+    "summary": {
+      "fr": "Un camping-car a franchi la ligne médiane par forte pluie et percuté frontalement un bus de tourisme se rendant aux cascades des Marmore le soir du 2 août, provoquant un carambolage impliquant trois autres véhicules, selon l'agence de presse italienne ANSA. Six personnes sont mortes et une trentaine ont été blessées, dont plusieurs grièvement, transportées vers des hôpitaux de Terni et de Rome.",
+      "en": "A camper van crossed the center line in heavy rain and collided head-on with a tour bus heading to the Marmore Falls on the evening of August 2, triggering a pileup involving three other vehicles, according to Italian news agency ANSA. Six people died and about 30 were injured, several critically, and were taken to hospitals in Terni and Rome.",
+      "es": "Una autocaravana invadió el carril contrario bajo fuerte lluvia y colisionó frontalmente con un autobús turístico que se dirigía a las cascadas de Marmore, en la noche del 2 de agosto, provocando un choque en cadena que involucró a otros tres vehículos, según la agencia de noticias italiana ANSA. Seis personas murieron y una treintena resultaron heridas, varias de gravedad, trasladadas a hospitales de Terni y Roma."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Un carambolage entre un bus et plusieurs véhicules fait six morts sur la route Terni–Rieti.",
+          "en": "A pileup between a bus and several vehicles kills six on the Terni–Rieti road.",
+          "es": "Un choque en cadena entre un autobús y varios vehículos deja seis muertos en la carretera Terni–Rieti."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-kyiv-frappes-aout",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / The Washington Post",
+    "place": {
+      "fr": "Kyiv et région de Kyiv, Ukraine",
+      "en": "Kyiv and Kyiv Oblast, Ukraine",
+      "es": "Kiev y óblast de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie mène sa plus lourde frappe de missiles sur Kyiv depuis des semaines",
+      "en": "Russia carries out its heaviest missile barrage on Kyiv in weeks",
+      "es": "Rusia lanza su ataque con misiles más intenso sobre Kiev en semanas"
+    },
+    "summary": {
+      "fr": "La Russie a tiré 35 missiles, dont 27 balistiques, et 185 drones sur Kyiv et sa région dans la nuit du 1er août, selon CNN et le Washington Post; un seul missile balistique a été intercepté. Le président Volodymyr Zelensky a déclaré que l'Ukraine ne disposait plus d'intercepteurs pour ses systèmes Patriot, en partie du fait de livraisons redirigées vers des alliés du Golfe pendant le conflit Iran-Israël-États-Unis. Le bilan communiqué varie selon les sources entre neuf et dix morts, avec des dizaines de blessés dont quatre enfants.",
+      "en": "Russia fired 35 missiles, 27 of them ballistic, and 185 drones at Kyiv and the surrounding region overnight on August 1, according to CNN and the Washington Post; only one ballistic missile was intercepted. President Volodymyr Zelensky said Ukraine had run out of interceptors for its Patriot air-defense systems, partly because supplies had been redirected to Gulf allies during the Iran-Israel-US conflict. Reported tolls vary between nine and ten dead, with dozens injured including four children.",
+      "es": "Rusia lanzó 35 misiles, 27 de ellos balísticos, y 185 drones contra Kiev y la región circundante durante la noche del 1 de agosto, según CNN y The Washington Post; solo un misil balístico fue interceptado. El presidente Volodímir Zelenski afirmó que Ucrania se había quedado sin interceptores para sus sistemas Patriot, en parte porque los suministros se habían redirigido a aliados del Golfo durante el conflicto entre Irán, Israel y Estados Unidos. Los balances difieren entre nueve y diez muertos, según la fuente, con decenas de heridos, entre ellos cuatro menores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe massive de missiles et de drones russes touche Kyiv; l'Ukraine dit manquer d'intercepteurs Patriot.",
+          "en": "A massive Russian missile and drone strike hits Kyiv; Ukraine says it is out of Patriot interceptors.",
+          "es": "Un ataque masivo de misiles y drones rusos golpea Kiev; Ucrania afirma haberse quedado sin interceptores Patriot."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.7233,
+      46.4825
+    ],
+    "id": "ukraine-odessa-frappe-portuaire",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Associated Press / Al Jazeera",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Odessa et Tchornomorsk, Ukraine; également Kharkiv",
+      "en": "Odesa and Chornomorsk, Ukraine; also Kharkiv",
+      "es": "Odesa y Chornomorsk, Ucrania; también Járkiv"
+    },
+    "title": {
+      "fr": "La Russie frappe de nouveau le port d'Odessa; un immeuble touché à Kharkiv la même nuit",
+      "en": "Russia strikes Odesa's port again; an apartment building hit in Kharkiv the same night",
+      "es": "Rusia vuelve a atacar el puerto de Odesa; un edificio de viviendas es alcanzado en Járkiv la misma noche"
+    },
+    "summary": {
+      "fr": "La Russie a tiré des missiles balistiques, antinavires et anti-radar ainsi que plus de 200 drones sur Odessa dans la nuit du 8 au 9 août, endommageant les infrastructures portuaires et énergétiques, selon l'Associated Press et Al Jazeera. Le président Zelensky a accusé Moscou de viser la sécurité alimentaire mondiale en frappant ce port céréalier; le ministère russe de la Défense a affirmé avoir visé des dépôts de carburant utilisés par l'armée ukrainienne. La même nuit, une frappe a touché un immeuble résidentiel du quartier de Saltivka à Kharkiv, faisant trois morts et 37 blessés selon les autorités locales.",
+      "en": "Russia fired ballistic, anti-ship and anti-radar missiles along with more than 200 drones at Odesa overnight on August 8-9, damaging port and energy infrastructure, according to the Associated Press and Al Jazeera. President Zelensky accused Moscow of targeting global food security by striking the grain-export port; Russia's defense ministry said it had targeted fuel depots used by the Ukrainian military. The same night, a strike hit a residential building in Kharkiv's Saltivskyi district, killing three and wounding 37 according to local authorities.",
+      "es": "Rusia lanzó misiles balísticos, antibuque y antirradar, además de más de 200 drones, contra Odesa durante la noche del 8 al 9 de agosto, dañando infraestructuras portuarias y energéticas, según Associated Press y Al Jazeera. El presidente Zelenski acusó a Moscú de atentar contra la seguridad alimentaria mundial al atacar ese puerto exportador de grano; el ministerio de Defensa ruso afirmó haber alcanzado depósitos de combustible usados por el ejército ucraniano. La misma noche, un ataque alcanzó un edificio residencial en el distrito de Saltivka de Járkiv, matando a tres personas y dejando 37 heridas según las autoridades locales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Une nouvelle frappe russe endommage le port d'Odessa; un immeuble est touché à Kharkiv la même nuit, faisant trois morts.",
+          "en": "A new Russian strike damages Odesa's port; an apartment building is hit in Kharkiv the same night, killing three.",
+          "es": "Un nuevo ataque ruso daña el puerto de Odesa; un edificio de viviendas es alcanzado en Járkiv la misma noche y mueren tres personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      37.4602,
+      55.1477
+    ],
+    "id": "russie-chekhov-frappe-drone",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Bloomberg / Euronews",
+    "place": {
+      "fr": "District de Tchekhov, oblast de Moscou, Russie",
+      "en": "Chekhov district, Moscow Oblast, Russia",
+      "es": "Distrito de Chekhov, óblast de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une frappe de drone ukrainien fait cinq morts dans la région de Moscou",
+      "en": "Ukrainian drone strike kills five in the Moscow region",
+      "es": "Un ataque con drones ucranianos deja cinco muertos en la región de Moscú"
+    },
+    "summary": {
+      "fr": "Une frappe de drone ukrainien a touché une zone industrielle du district de Tchekhov, au sud de Moscou, dans la nuit du 4 août, tuant cinq personnes et en blessant au moins dix, selon le gouverneur régional Andreï Vorobiov cité par Bloomberg et Euronews. L'attaque a provoqué des incendies et endommagé un bâtiment administratif et un poste électrique; le média indépendant Astra a rapporté que des entrepôts du groupe Wildberries figuraient parmi les cibles touchées.",
+      "en": "A Ukrainian drone strike hit an industrial area in Chekhov district, south of Moscow, overnight on August 4, killing five people and wounding at least ten, according to regional governor Andrey Vorobyov as cited by Bloomberg and Euronews. The attack sparked fires and damaged an administrative building and an electrical substation; independent outlet Astra reported that warehouses belonging to the Wildberries retail group were among the sites hit.",
+      "es": "Un ataque con drones ucranianos alcanzó una zona industrial del distrito de Chekhov, al sur de Moscú, durante la noche del 4 de agosto, matando a cinco personas y dejando al menos diez heridas, según el gobernador regional Andréi Vorobiov, citado por Bloomberg y Euronews. El ataque provocó incendios y dañó un edificio administrativo y una subestación eléctrica; el medio independiente Astra informó de que almacenes del grupo minorista Wildberries se encontraban entre los objetivos alcanzados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drone ukrainien tue cinq personnes dans une zone industrielle du district de Tchekhov, au sud de Moscou.",
+          "en": "A Ukrainian drone strike kills five people in an industrial area of Chekhov district, south of Moscow.",
+          "es": "Un ataque con drones ucranianos mata a cinco personas en una zona industrial del distrito de Chekhov, al sur de Moscú."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "id": "espagne-ceuta-traversee",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Al Jazeera / Euronews",
+    "place": {
+      "fr": "Ceuta, ville autonome espagnole en Afrique du Nord",
+      "en": "Ceuta, Spanish autonomous city in North Africa",
+      "es": "Ceuta, ciudad autónoma española en el norte de África"
+    },
+    "title": {
+      "fr": "Le bilan d'une traversée migratoire massive vers Ceuta s'alourdit, l'UE réagit",
+      "en": "Death toll from a mass migrant crossing into Ceuta rises, EU responds",
+      "es": "El balance de una travesía migratoria masiva hacia Ceuta se agrava, la UE reacciona"
+    },
+    "summary": {
+      "fr": "Environ 60 000 personnes ont franchi la frontière entre le Maroc et l'enclave espagnole de Ceuta fin juillet, en nageant ou en franchissant la digue, dans ce qui est décrit comme la plus importante traversée jamais enregistrée dans ce territoire, selon Al Jazeera et Euronews. Le bilan des décès, encore incertain, a été rapporté de façon croissante par différentes sources : 72 selon un premier bilan, puis 88, puis 100 selon le président de Ceuta devant le Parlement européen le 6 août; les ministres de l'Intérieur de l'UE se sont réunis en urgence le 4 août. La plupart des personnes ayant traversé sont depuis retournées au Maroc.",
+      "en": "About 60,000 people crossed from Morocco into the Spanish enclave of Ceuta in late July, swimming or scaling the border breakwater, in what is described as the largest such crossing ever recorded there, according to Al Jazeera and Euronews. The death toll remains uncertain and has been reported at rising figures by different sources: 72 in an initial count, then 88, then 100 according to Ceuta's local government president speaking before the European Parliament on August 6; EU interior ministers held an emergency meeting on August 4. Most of those who crossed have since returned to Morocco.",
+      "es": "Unas 60.000 personas cruzaron desde Marruecos hasta el enclave español de Ceuta a finales de julio, nadando o sorteando el espigón fronterizo, en lo que se describe como la mayor travesía jamás registrada en ese territorio, según Al Jazeera y Euronews. El balance de muertos sigue siendo incierto y ha sido reportado con cifras crecientes según la fuente: 72 en un primer recuento, luego 88, y después 100 según el presidente del gobierno local de Ceuta ante el Parlamento Europeo el 6 de agosto; los ministros del Interior de la UE celebraron una reunión de urgencia el 4 de agosto. La mayoría de quienes cruzaron ya han regresado a Marruecos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026 – 06/08/2026",
+          "en": "29/07/2026 – 06/08/2026",
+          "es": "29/07/2026 – 06/08/2026"
+        },
+        "d": {
+          "fr": "Environ 60 000 personnes traversent vers Ceuta; le bilan des morts, rapporté différemment selon les sources, atteint au moins 100 selon les autorités locales.",
+          "en": "About 60,000 people cross into Ceuta; the death toll, reported differently across sources, reaches at least 100 according to local authorities.",
+          "es": "Unas 60.000 personas cruzan hacia Ceuta; el balance de muertos, reportado de forma distinta según la fuente, alcanza al menos 100 según las autoridades locales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -4.2518,
+      55.8642
+    ],
+    "id": "australie-commonwealth-games",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "ESPN / Olympics.com",
+    "place": {
+      "fr": "Glasgow, Écosse, Royaume-Uni",
+      "en": "Glasgow, Scotland, United Kingdom",
+      "es": "Glasgow, Escocia, Reino Unido"
+    },
+    "title": {
+      "fr": "L'Australie termine en tête du tableau des médailles aux Jeux du Commonwealth 2026",
+      "en": "Australia tops the medal table at the 2026 Commonwealth Games",
+      "es": "Australia termina primera en el medallero de los Juegos de la Commonwealth 2026"
+    },
+    "summary": {
+      "fr": "L'Australie a terminé première du tableau des médailles des Jeux du Commonwealth de Glasgow, qui se sont achevés le 2 août, avec 70 médailles d'or et 171 médailles au total, devant l'Angleterre (110) et le Canada (62), selon ESPN et Olympics.com. Rose Davies a remporté le 5000 m et le 10000 m, et Louise Hoskins, 76 ans, est devenue la plus âgée championne des Jeux du Commonwealth grâce à l'or en para-pétanque sur gazon.",
+      "en": "Australia finished first on the medal table at the Glasgow Commonwealth Games, which concluded on August 2, with 70 gold medals and 171 medals overall, ahead of England (110) and Canada (62), according to ESPN and Olympics.com. Rose Davies won both the 5,000m and 10,000m, and 76-year-old Louise Hoskins became the oldest Commonwealth Games gold medallist with a win in para-lawn bowls.",
+      "es": "Australia terminó primera en el medallero de los Juegos de la Commonwealth de Glasgow, que concluyeron el 2 de agosto, con 70 medallas de oro y 171 en total, por delante de Inglaterra (110) y Canadá (62), según ESPN y Olympics.com. Rose Davies ganó los 5000 m y los 10000 m, y Louise Hoskins, de 76 años, se convirtió en la campeona más veterana de los Juegos de la Commonwealth al ganar el oro en para-bochas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Les Jeux du Commonwealth de Glasgow s'achèvent, l'Australie termine en tête du tableau des médailles.",
+          "en": "The Glasgow Commonwealth Games conclude, with Australia topping the medal table.",
+          "es": "Los Juegos de la Commonwealth de Glasgow concluyen, con Australia a la cabeza del medallero."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      8.592,
+      12.0022
+    ],
+    "id": "nigeria-kano-effondrement",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Punch Nigeria / Daily Post / Channels Television",
+    "place": {
+      "fr": "Quartier de Dan Dishe, zone de gouvernement local de Fagge, ville de Kano, Nigeria",
+      "en": "Dan Dishe area, Fagge Local Government Area, Kano city, Nigeria",
+      "es": "Zona de Dan Dishe, área de gobierno local de Fagge, ciudad de Kano, Nigeria"
+    },
+    "title": {
+      "fr": "Un immeuble s'effondre à Kano, au Nigeria; le bilan humain reste incertain",
+      "en": "Building collapses in Kano, Nigeria; human toll remains uncertain",
+      "es": "Un edificio se derrumba en Kano, Nigeria; el balance humano sigue siendo incierto"
+    },
+    "summary": {
+      "fr": "Un immeuble résidentiel s'est effondré tôt le 8 août dans le quartier de Dan Dishe, à Kano, selon plusieurs médias nigérians dont Punch, Daily Post et Channels Television. La plupart des titres rapportent que 16 personnes ont été secourues vivantes, dont plusieurs enfants retrouvés inconscients, sans faire état de décès, tandis que The Sun Nigeria évoque trois enfants morts et 13 rescapés — un bilan humain qui reste donc incertain et diversement rapporté selon les sources.",
+      "en": "A residential building collapsed early on August 8 in the Dan Dishe area of Kano, according to several Nigerian outlets including Punch, Daily Post and Channels Television. Most outlets report that 16 people were rescued alive, including several children found unconscious, with no deaths reported, while The Sun Nigeria reported three children dead and 13 survivors — leaving the human toll uncertain and reported differently across sources.",
+      "es": "Un edificio residencial se derrumbó temprano el 8 de agosto en la zona de Dan Dishe, en Kano, según varios medios nigerianos, entre ellos Punch, Daily Post y Channels Television. La mayoría de los medios informan de que 16 personas fueron rescatadas con vida, entre ellas varios menores hallados inconscientes, sin reportar muertes, mientras que The Sun Nigeria informó de tres menores fallecidos y 13 supervivientes, por lo que el balance humano sigue siendo incierto y se reporta de forma distinta según la fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Un immeuble s'effondre à Kano; les secours évacuent au moins 13 survivants, le bilan humain exact reste disputé entre les sources.",
+          "en": "A building collapses in Kano; rescuers pull out at least 13 survivors, with the exact human toll disputed between sources.",
+          "es": "Un edificio se derrumba en Kano; los equipos de rescate sacan al menos a 13 supervivientes, y el balance humano exacto sigue siendo disputado entre las fuentes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
   }
 ]
