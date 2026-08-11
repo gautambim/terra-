@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W33",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Donald Trump affirme que la marine américaine a désormais le contrôle total du détroit d'Ormuz après l'avoir déminé, et réclame des réparations à l'Iran ; Téhéran exige en retour la levée du blocus naval, la fin des sanctions et une indemnisation pour les dommages subis, selon CNBC et PBS NewsHour.",
+          "en": "Donald Trump says the US Navy now has full control of the Strait of Hormuz after clearing it of mines, and is demanding reparations from Iran; Tehran in turn demands the lifting of the naval blockade, an end to sanctions and compensation for damages, according to CNBC and PBS NewsHour.",
+          "es": "Donald Trump afirma que la Marina estadounidense tiene ahora el control total del estrecho de Ormuz tras despejarlo de minas, y exige reparaciones a Irán; Teherán, por su parte, exige el levantamiento del bloqueo naval, el fin de las sanciones y una compensación por los daños, según CNBC y PBS NewsHour."
         },
         "active": true
       }
@@ -823,6 +836,741 @@
           "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
           "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
           "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "colombia-seisme",
+    "coords": [
+      -76.2667,
+      4.9667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "CNN / CBS News",
+    "week": "2026-W33",
+    "place": {
+      "fr": "San José del Palmar, département du Chocó, Colombie",
+      "en": "San José del Palmar, Chocó Department, Colombia",
+      "es": "San José del Palmar, departamento del Chocó, Colombia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,4 fait au moins 132 morts en Colombie",
+      "en": "Magnitude 7.4 earthquake kills at least 132 in Colombia",
+      "es": "Un terremoto de magnitud 7,4 deja al menos 132 muertos en Colombia"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,4, dont l'épicentre se situait près de San José del Palmar dans le département du Chocó, a frappé l'ouest de la Colombie le 10 août, faisant au moins 132 morts et plus de 570 blessés selon l'Association colombienne des capitales, et provoquant l'effondrement de bâtiments à Cali, Manizales, Pereira et Quibdó, selon CNN et CBS News.",
+      "en": "A magnitude 7.4 earthquake centered near San José del Palmar in Chocó Department struck western Colombia on August 10, killing at least 132 people and injuring more than 570, according to the Colombian Association of Capital Cities, and collapsing buildings in Cali, Manizales, Pereira and Quibdó, according to CNN and CBS News.",
+      "es": "Un terremoto de magnitud 7,4 con epicentro cerca de San José del Palmar, en el departamento del Chocó, sacudió el oeste de Colombia el 10 de agosto, dejando al menos 132 muertos y más de 570 heridos según la Asociación Colombiana de Ciudades Capitales, y provocando el colapso de edificios en Cali, Manizales, Pereira y Quibdó, según CNN y CBS News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement colombien déclare l'état de catastrophe nationale et déploie l'armée pour les opérations de secours, selon CBS News.",
+          "en": "The Colombian government declares a national disaster and deploys the army for rescue operations, according to CBS News.",
+          "es": "El gobierno colombiano declara el estado de catástrofe nacional y despliega al ejército para las labores de rescate, según CBS News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "ukraine-frappes-dnipropetrovsk",
+    "coords": [
+      33.3918,
+      47.9105
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Ukrinform / Kyiv Post",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Kryvyi Rih et région de Dnipropetrovsk, Ukraine",
+      "en": "Kryvyi Rih and Dnipropetrovsk region, Ukraine",
+      "es": "Kryvi Rih y la región de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "De nouvelles frappes russes visent la région de Dnipropetrovsk, en Ukraine",
+      "en": "New Russian strikes target Ukraine's Dnipropetrovsk region",
+      "es": "Nuevos ataques rusos alcanzan la región ucraniana de Dnipropetrovsk"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 10 août, les forces russes ont frappé la région de Dnipropetrovsk, dont le district de Kryvyi Rih, avec un missile, plusieurs munitions rôdeuses Banderol et plus d'une centaine de drones, selon Ukrinform et le Kyiv Post ; les bilans humains varient selon les sources consultées. La même semaine, la Russie a fait état d'une attaque de drones ukrainiens dans la région de Moscou ayant fait des morts, selon l'agence TASS. Cet échange de frappes s'inscrit dans la poursuite du conflit qui avait déjà touché le port d'Odessa en juillet.",
+      "en": "On the night of August 10, Russian forces struck the Dnipropetrovsk region, including the Kryvyi Rih district, with a missile, several Banderol loitering munitions and more than a hundred drones, according to Ukrinform and the Kyiv Post; casualty figures vary between sources. That same week, Russia reported a Ukrainian drone attack on the Moscow region that it said caused fatalities, according to the TASS news agency. The exchange follows the continuing conflict that had already struck the port of Odesa in July.",
+      "es": "En la noche del 10 de agosto, las fuerzas rusas atacaron la región de Dnipropetrovsk, incluido el distrito de Kryvi Rih, con un misil, varias municiones merodeadoras Banderol y más de un centenar de drones, según Ukrinform y el Kyiv Post; las cifras de víctimas varían según la fuente. Esa misma semana, Rusia informó de un ataque con drones ucranianos en la región de Moscú que, según la agencia TASS, causó muertos. El intercambio se produce en el marco del conflicto que ya había alcanzado el puerto de Odesa en julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Des frappes russes touchent la région de Dnipropetrovsk avec des drones, des munitions rôdeuses et un missile, selon Ukrinform.",
+          "en": "Russian strikes hit the Dnipropetrovsk region with drones, loitering munitions and a missile, according to Ukrinform.",
+          "es": "Ataques rusos alcanzan la región de Dnipropetrovsk con drones, municiones merodeadoras y un misil, según Ukrinform."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "usa-blanche-confirmation",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛️",
+    "source": "NPR / NBC News",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Le Sénat confirme Todd Blanche au poste de ministre de la Justice des États-Unis",
+      "en": "Senate confirms Todd Blanche as US Attorney General",
+      "es": "El Senado confirma a Todd Blanche como fiscal general de Estados Unidos"
+    },
+    "summary": {
+      "fr": "Le Sénat américain a confirmé le 8 août, par 50 voix contre 49, la nomination de Todd Blanche, ancien avocat personnel de Donald Trump, au poste de ministre de la Justice (Attorney General), selon NPR et NBC News. Seules les sénatrices républicaines Susan Collins et Lisa Murkowski ont voté contre, aux côtés de l'ensemble des démocrates, au terme d'un vote tenu après 4 heures du matin.",
+      "en": "The US Senate confirmed Todd Blanche, Donald Trump's former personal lawyer, as Attorney General on August 8 by a vote of 50-49, according to NPR and NBC News. Only Republican Senators Susan Collins and Lisa Murkowski voted against him, joining all Democrats, in a vote held after 4 a.m.",
+      "es": "El Senado de Estados Unidos confirmó el 8 de agosto, por 50 votos a favor y 49 en contra, el nombramiento de Todd Blanche, exabogado personal de Donald Trump, como fiscal general, según NPR y NBC News. Solo las senadoras republicanas Susan Collins y Lisa Murkowski votaron en contra, junto con todos los demócratas, en una votación celebrada después de las 4 de la madrugada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Le Sénat confirme Todd Blanche par 50 voix contre 49, selon NPR.",
+          "en": "The Senate confirms Todd Blanche by a vote of 50-49, according to NPR.",
+          "es": "El Senado confirma a Todd Blanche por 50 votos a favor y 49 en contra, según NPR."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "usa-incendies-ouest",
+    "coords": [
+      -117.426,
+      47.6588
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "NPR / National Interagency Fire Center",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Nord-ouest des États-Unis (Washington, Idaho, Montana, Colorado)",
+      "en": "Northwestern United States (Washington, Idaho, Montana, Colorado)",
+      "es": "Noroeste de Estados Unidos (Washington, Idaho, Montana, Colorado)"
+    },
+    "title": {
+      "fr": "Les États-Unis atteignent le niveau d'alerte maximal face à une saison des feux de forêt intense",
+      "en": "United States reaches highest wildfire alert level amid intense fire season",
+      "es": "Estados Unidos alcanza el nivel máximo de alerta ante una intensa temporada de incendios forestales"
+    },
+    "summary": {
+      "fr": "Le Centre national interagences de lutte contre les incendies (NIFC) a placé le pays au niveau de préparation 5, le plus élevé, alors que plus de 94 grands feux étaient actifs à travers les États-Unis, notamment dans les États de Washington, de l'Idaho, du Montana et du Colorado, selon NPR. Environ 60 000 personnes ont été évacuées dans la région de Spokane, dans l'État de Washington, et un opérateur de bulldozer est mort en combattant un incendie dans l'Oregon.",
+      "en": "The National Interagency Fire Center (NIFC) placed the country at Preparedness Level 5, the highest level, with more than 94 large fires active across the United States, notably in Washington, Idaho, Montana and Colorado, according to NPR. About 60,000 people were evacuated in the Spokane, Washington area, and a bulldozer operator died battling a fire in Oregon.",
+      "es": "El Centro Nacional Interinstitucional de Incendios (NIFC) situó al país en el nivel de preparación 5, el más alto, con más de 94 grandes incendios activos en Estados Unidos, especialmente en los estados de Washington, Idaho, Montana y Colorado, según NPR. Alrededor de 60.000 personas fueron evacuadas en la zona de Spokane, en el estado de Washington, y un operador de bulldozer murió combatiendo un incendio en Oregón."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le NIFC relève le niveau national de préparation au niveau 5, le maximum, selon NPR.",
+          "en": "The NIFC raises the national preparedness level to 5, the maximum, according to NPR.",
+          "es": "El NIFC eleva el nivel nacional de preparación al nivel 5, el máximo, según NPR."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-seisme-kumamoto",
+    "coords": [
+      130.7079,
+      32.8032
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "NPR / Xinhua",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Préfecture de Kumamoto, Japon",
+      "en": "Kumamoto Prefecture, Japan",
+      "es": "Prefectura de Kumamoto, Japón"
+    },
+    "title": {
+      "fr": "Le bilan du séisme de Kumamoto s'alourdit à 39 morts au Japon",
+      "en": "Kumamoto earthquake death toll rises to 39 in Japan",
+      "es": "El balance del terremoto de Kumamoto sube a 39 muertos en Japón"
+    },
+    "summary": {
+      "fr": "Le bilan du séisme de magnitude 7,1 qui a frappé la préfecture de Kumamoto, dans le sud du Japon, le 28 juillet, est passé à 39 morts, dont 36 directement causés par le séisme, selon les autorités locales citées par l'agence Xinhua et NPR. Plus de 800 des 4 500 habitations de la ville de Hikawa, l'une des plus touchées, ont été détruites ou endommagées.",
+      "en": "The death toll from the magnitude 7.1 earthquake that struck Kumamoto Prefecture in southern Japan on July 28 has risen to 39, including 36 deaths directly caused by the quake, according to local authorities cited by Xinhua and NPR. More than 800 of the 4,500 homes in Hikawa, one of the hardest-hit towns, were destroyed or damaged.",
+      "es": "El balance del terremoto de magnitud 7,1 que sacudió la prefectura de Kumamoto, en el sur de Japón, el 28 de julio, subió a 39 muertos, 36 de ellos causados directamente por el sismo, según las autoridades locales citadas por Xinhua y NPR. Más de 800 de las 4.500 viviendas de la localidad de Hikawa, una de las más afectadas, quedaron destruidas o dañadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 frappe la préfecture de Kumamoto, dans le sud du Japon.",
+          "en": "A magnitude 7.1 earthquake strikes Kumamoto Prefecture in southern Japan.",
+          "es": "Un terremoto de magnitud 7,1 sacude la prefectura de Kumamoto, en el sur de Japón."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 39 morts, selon les autorités locales citées par Xinhua.",
+          "en": "The official toll reaches 39 deaths, according to local authorities cited by Xinhua.",
+          "es": "El balance oficial alcanza los 39 muertos, según las autoridades locales citadas por Xinhua."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "philippines-chine-scarborough",
+    "coords": [
+      117.75,
+      15.15
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / CNN",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Récif de Scarborough (Bajo de Masinloc), mer de Chine méridionale",
+      "en": "Scarborough Shoal (Bajo de Masinloc), South China Sea",
+      "es": "Bajo de Masinloc (arrecife Scarborough), mar de la China Meridional"
+    },
+    "title": {
+      "fr": "Manille accuse les garde-côtes chinois d'avoir visé ses navires au canon à eau près du récif de Scarborough",
+      "en": "Manila accuses Chinese coast guard of firing water cannon at its ships near Scarborough Shoal",
+      "es": "Manila acusa a la guardia costera china de disparar cañones de agua contra sus barcos cerca del arrecife Scarborough"
+    },
+    "summary": {
+      "fr": "Les garde-côtes philippins ont accusé leurs homologues chinois d'avoir visé au canon à eau, pour un deuxième jour consécutif fin juillet, des navires philippins près du récif de Scarborough, en mer de Chine méridionale, selon Al Jazeera et CNN. Manille évoque des manœuvres dangereuses et un risque de collision ; Pékin affirme avoir appliqué des « mesures de contrôle » légales contre des navires philippins opérant selon elle illégalement dans la zone. Les deux versions n'ont pas pu être vérifiées de façon indépendante.",
+      "en": "Philippine coast guard officials accused their Chinese counterparts of firing water cannon at Philippine vessels near Scarborough Shoal in the South China Sea for a second straight day in late July, according to Al Jazeera and CNN. Manila described dangerous manoeuvres and a risk of collision; Beijing said it had applied lawful \"control measures\" against Philippine vessels it says were operating illegally in the area. Neither account could be independently verified.",
+      "es": "Funcionarios de la guardia costera filipina acusaron a sus homólogos chinos de disparar cañones de agua contra embarcaciones filipinas cerca del arrecife Scarborough, en el mar de la China Meridional, por segundo día consecutivo a finales de julio, según Al Jazeera y CNN. Manila denunció maniobras peligrosas y riesgo de colisión; Pekín afirmó haber aplicado \"medidas de control\" legales contra embarcaciones filipinas que, según su versión, operaban ilegalmente en la zona. Ninguna de las dos versiones pudo verificarse de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/07/2026",
+          "en": "24/07/2026",
+          "es": "24/07/2026"
+        },
+        "d": {
+          "fr": "Un navire des garde-côtes chinois tire un canon à eau à environ sept mètres d'un bateau de pêche philippin, selon CNN.",
+          "en": "A Chinese coast guard vessel fires water cannon from about seven metres from a Philippine fishing boat, according to CNN.",
+          "es": "Un buque de la guardia costera china dispara un cañón de agua desde unos siete metros de un barco pesquero filipino, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "allemagne-drone-leipzig",
+    "coords": [
+      12.2245,
+      51.4239
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Time",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Allemagne",
+      "en": "Leipzig/Halle Airport, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Alemania"
+    },
+    "title": {
+      "fr": "Un drone piégé découvert près d'un avion-cargo ukrainien à l'aéroport de Leipzig/Halle",
+      "en": "Explosive-laden drone found near Ukrainian cargo plane at Leipzig/Halle Airport",
+      "es": "Hallan un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle"
+    },
+    "summary": {
+      "fr": "Un drone chargé d'explosifs, dont du Semtex et du PETN, a été découvert dans la nuit du 5 août dans une zone de fret sécurisée près de la piste sud de l'aéroport de Leipzig/Halle, plaque tournante logistique de l'OTAN, à proximité d'un avion-cargo ukrainien, selon Time. Le dispositif a été désamorcé sans faire de victime. Le Conseil de sécurité nationale allemand, réuni le 7 août sous la direction du chancelier Friedrich Merz, a été saisi de l'incident, et le parquet fédéral enquête pour attaque visant les infrastructures de transport. Selon des services de renseignement américains cités par Time, l'appareil serait vraisemblablement lié au gouvernement russe ; cette attribution n'a pas été confirmée officiellement par l'Allemagne.",
+      "en": "A drone loaded with explosives, including Semtex and PETN, was found on the night of August 5 in a secure cargo area near the southern runway of Leipzig/Halle Airport, a NATO logistics hub, close to a Ukrainian cargo plane, according to Time. The device was defused without casualties. Germany's National Security Council, convened on August 7 under Chancellor Friedrich Merz, was briefed on the incident, and federal prosecutors are investigating it as an attack on transport infrastructure. According to US intelligence cited by Time, the drone likely belongs to the Russian government; this attribution has not been officially confirmed by Germany.",
+      "es": "Un dron cargado de explosivos, entre ellos Semtex y PETN, fue hallado en la noche del 5 de agosto en una zona de carga segura cerca de la pista sur del aeropuerto de Leipzig/Halle, un centro logístico de la OTAN, cerca de un avión de carga ucraniano, según Time. El artefacto fue desactivado sin causar víctimas. El Consejo de Seguridad Nacional alemán, reunido el 7 de agosto bajo la dirección del canciller Friedrich Merz, fue informado del incidente, y la fiscalía federal investiga el caso como un ataque contra infraestructuras de transporte. Según fuentes de inteligencia estadounidenses citadas por Time, el dron pertenecería probablemente al gobierno ruso; esta atribución no ha sido confirmada oficialmente por Alemania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Un drone piégé est découvert et désamorcé près de la piste sud de l'aéroport, selon Time.",
+          "en": "An explosive-laden drone is found and defused near the airport's southern runway, according to Time.",
+          "es": "Un dron con explosivos es hallado y desactivado cerca de la pista sur del aeropuerto, según Time."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nigeria-osun-piratage",
+    "coords": [
+      4.5667,
+      7.7667
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Naija News",
+    "week": "2026-W33",
+    "place": {
+      "fr": "État d'Osun, Nigeria",
+      "en": "Osun State, Nigeria",
+      "es": "Estado de Osun, Nigeria"
+    },
+    "title": {
+      "fr": "Accusations de piratage informatique avant le scrutin du gouverneur de l'État d'Osun, au Nigeria",
+      "en": "Hacking accusations ahead of Osun State governorship election in Nigeria",
+      "es": "Acusaciones de pirateo informático antes de las elecciones a gobernador del estado de Osun, en Nigeria"
+    },
+    "summary": {
+      "fr": "À l'approche du scrutin du 15 août pour l'élection du gouverneur de l'État d'Osun, le parti Accord a accusé le parti au pouvoir, l'APC (All Progressives Congress), d'avoir fait appel à des pirates informatiques pour manipuler le système numérique de la Commission électorale nationale indépendante (INEC), selon Naija News. L'APC n'a pas répondu publiquement à ces accusations, qui n'ont pas été vérifiées de façon indépendante.",
+      "en": "Ahead of the August 15 vote for governor of Osun State, the Accord Party accused the ruling All Progressives Congress (APC) of bringing in hackers to manipulate the Independent National Electoral Commission's (INEC) digital system, according to Naija News. The APC has not publicly responded to the accusations, which have not been independently verified.",
+      "es": "De cara a la votación del 15 de agosto para elegir gobernador del estado de Osun, el partido Accord acusó al partido gobernante, el APC (Congreso de Todos los Progresistas), de haber contratado piratas informáticos para manipular el sistema digital de la Comisión Electoral Nacional Independiente (INEC), según Naija News. El APC no ha respondido públicamente a estas acusaciones, que no han sido verificadas de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "04/08/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Le parti Accord accuse l'APC d'avoir recouru à des pirates informatiques pour influencer le scrutin, selon Naija News.",
+          "en": "The Accord Party accuses the APC of using hackers to influence the vote, according to Naija News.",
+          "es": "El partido Accord acusa al APC de recurrir a piratas informáticos para influir en la votación, según Naija News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "egypte-mine-sukari",
+    "coords": [
+      34.7333,
+      24.6167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏️",
+    "source": "AFP / The National",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Mine d'or de Sukari, désert Oriental, Égypte",
+      "en": "Sukari gold mine, Eastern Desert, Egypt",
+      "es": "Mina de oro de Sukari, desierto Oriental, Egipto"
+    },
+    "title": {
+      "fr": "Un ouvrier tué et cinq blessés dans un éboulement à la mine d'or de Sukari, en Égypte",
+      "en": "One worker killed, five injured in rockfall at Egypt's Sukari gold mine",
+      "es": "Un trabajador muere y cinco resultan heridos en un desprendimiento en la mina de oro de Sukari, en Egipto"
+    },
+    "summary": {
+      "fr": "Un éboulement survenu le 9 août dans une galerie souterraine de la mine d'or de Sukari, la plus grande d'Égypte, a tué un ouvrier identifié comme Abdelrahman Nabil Mahmoud et blessé cinq autres personnes, transportées à l'hôpital de la ville balnéaire de Marsa Alam, selon l'AFP et The National. Le ministre du Pétrole, Karim Badawy, a ordonné la formation d'une commission d'enquête et la suspension de l'exploitation dans la zone concernée.",
+      "en": "A rockfall on August 9 in an underground tunnel at the Sukari gold mine, Egypt's largest, killed a worker identified as Abdelrahman Nabil Mahmoud and injured five others, who were taken to hospital in the Red Sea resort town of Marsa Alam, according to AFP and The National. Petroleum Minister Karim Badawy ordered the formation of an investigative committee and suspended operations in the affected area.",
+      "es": "Un desprendimiento de rocas ocurrido el 9 de agosto en un túnel subterráneo de la mina de oro de Sukari, la más grande de Egipto, mató a un trabajador identificado como Abdelrahman Nabil Mahmoud e hirió a otros cinco, trasladados a un hospital de la localidad turística de Marsa Alam, según la AFP y The National. El ministro de Petróleo, Karim Badawy, ordenó la formación de una comisión de investigación y suspendió las operaciones en la zona afectada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Un éboulement dans une galerie souterraine fait un mort et cinq blessés, selon l'AFP.",
+          "en": "A rockfall in an underground tunnel kills one and injures five, according to AFP.",
+          "es": "Un desprendimiento en un túnel subterráneo deja un muerto y cinco heridos, según la AFP."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "indonesie-incendies-bromo",
+    "coords": [
+      112.953,
+      -7.9425
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Associated Press / Manila Times",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Parc national de Bromo Tengger Semeru, Java oriental, Indonésie",
+      "en": "Bromo Tengger Semeru National Park, East Java, Indonesia",
+      "es": "Parque nacional de Bromo Tengger Semeru, Java Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "L'Indonésie ferme l'accès au mont Bromo face à la propagation d'incendies de forêt",
+      "en": "Indonesia closes access to Mount Bromo as wildfires spread",
+      "es": "Indonesia cierra el acceso al monte Bromo ante la propagación de incendios forestales"
+    },
+    "summary": {
+      "fr": "Les autorités indonésiennes ont déployé hélicoptères, pompiers et personnel de secours pour combattre des incendies de forêt qui se propagent à travers l'archipel, notamment dans le parc national du mont Bromo, à Java oriental, dont l'accès touristique a été fermé indéfiniment, selon l'Associated Press et le Manila Times.",
+      "en": "Indonesian authorities deployed helicopters, hundreds of firefighters and disaster personnel to battle wildfires spreading across the archipelago, including in Mount Bromo's national park in East Java, where tourist access has been closed indefinitely, according to the Associated Press and the Manila Times.",
+      "es": "Las autoridades indonesias desplegaron helicópteros, cientos de bomberos y personal de emergencia para combatir los incendios forestales que se propagan por el archipiélago, entre ellos en el parque nacional del monte Bromo, en Java Oriental, cuyo acceso turístico ha sido cerrado indefinidamente, según Associated Press y el Manila Times."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités ferment indéfiniment l'accès touristique au mont Bromo en raison des incendies, selon l'AP.",
+          "en": "Authorities indefinitely close tourist access to Mount Bromo because of the fires, according to AP.",
+          "es": "Las autoridades cierran indefinidamente el acceso turístico al monte Bromo debido a los incendios, según AP."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "italie-etna-eruption",
+    "coords": [
+      14.9934,
+      37.751
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Al Jazeera",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Volcan Etna, Sicile, Italie",
+      "en": "Mount Etna, Sicily, Italy",
+      "es": "Volcán Etna, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "L'Etna entre en éruption et perturbe le trafic aérien en Sicile",
+      "en": "Mount Etna erupts, disrupting air traffic in Sicily",
+      "es": "El Etna entra en erupción y altera el tráfico aéreo en Sicilia"
+    },
+    "summary": {
+      "fr": "L'Etna, l'un des volcans les plus actifs au monde, a craché fumée et cendres lors d'une nouvelle éruption, entraînant la suspension des arrivées à l'aéroport voisin de Catane, en Sicile, après la fermeture de l'espace aérien correspondant au panache de cendres, selon Al Jazeera.",
+      "en": "Mount Etna, one of the world's most active volcanoes, belched smoke and ash in a new eruption, forcing the suspension of arrivals at the nearby Catania airport in Sicily after the airspace corresponding to the ash cloud was closed, according to Al Jazeera.",
+      "es": "El Etna, uno de los volcanes más activos del mundo, expulsó humo y ceniza en una nueva erupción, lo que obligó a suspender las llegadas al cercano aeropuerto de Catania, en Sicilia, tras el cierre del espacio aéreo correspondiente a la nube de ceniza, según Al Jazeera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "L'espace aérien au-dessus de Catane est fermé en raison du panache de cendres de l'Etna, selon Al Jazeera.",
+          "en": "Airspace above Catania is closed because of Etna's ash plume, according to Al Jazeera.",
+          "es": "El espacio aéreo sobre Catania se cierra debido a la nube de ceniza del Etna, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coreedusud-sous-marin",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "⚓",
+    "source": "UPI",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud prépare une loi pour accélérer le développement de sous-marins à propulsion nucléaire",
+      "en": "South Korea to introduce legislation accelerating nuclear-powered submarine development",
+      "es": "Corea del Sur prepara una ley para acelerar el desarrollo de submarinos de propulsión nuclear"
+    },
+    "summary": {
+      "fr": "Le ministère sud-coréen de la Défense a annoncé le 29 juillet qu'il présenterait une loi visant à accélérer le développement de sous-marins à propulsion nucléaire indigènes, tout en réaffirmant que Séoul ne cherche pas à développer ou posséder d'armes nucléaires, selon UPI. L'annonce intervient alors que le nouveau conseiller à la sécurité nationale sud-coréen, Wi Sung-lac, a rencontré début août la nouvelle ambassadrice américaine, Michelle Steel.",
+      "en": "South Korea's Ministry of National Defense announced on July 29 that it would introduce legislation to accelerate the development of indigenous nuclear-powered submarines, while reaffirming that Seoul does not seek to develop or possess nuclear weapons, according to UPI. The announcement came as South Korea's new National Security Adviser, Wi Sung-lac, met in early August with newly arrived US Ambassador Michelle Steel.",
+      "es": "El Ministerio de Defensa de Corea del Sur anunció el 29 de julio que presentará una ley para acelerar el desarrollo de submarinos de propulsión nuclear de fabricación nacional, reafirmando al mismo tiempo que Seúl no busca desarrollar ni poseer armas nucleares, según UPI. El anuncio se produjo mientras el nuevo asesor de seguridad nacional surcoreano, Wi Sung-lac, se reunía a principios de agosto con la nueva embajadora estadounidense, Michelle Steel."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/07/2026",
+          "en": "29/07/2026",
+          "es": "29/07/2026"
+        },
+        "d": {
+          "fr": "Le ministère de la Défense annonce une loi pour accélérer le programme de sous-marins nucléaires, selon UPI.",
+          "en": "The Ministry of Defense announces legislation to accelerate the nuclear submarine program, according to UPI.",
+          "es": "El Ministerio de Defensa anuncia una ley para acelerar el programa de submarinos nucleares, según UPI."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-banque-centrale",
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Banco Central do Brasil",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La Banque centrale du Brésil prévoit un taux Selic à 13,75 % en fin d'année",
+      "en": "Brazil's Central Bank projects Selic rate at 13.75% by year-end",
+      "es": "El Banco Central de Brasil proyecta una tasa Selic del 13,75 % a fin de año"
+    },
+    "summary": {
+      "fr": "Le rapport Focus de la Banque centrale du Brésil, publié le 10 août, prévoit une inflation (IPCA) de 5,02 % et un taux directeur Selic à 13,75 % d'ici la fin de 2026. L'institution étudie par ailleurs une interconnexion du système de paiement instantané Pix avec ceux d'autres pays, afin de réduire les coûts de transaction.",
+      "en": "Brazil's Central Bank Focus report, released on August 10, projects inflation (IPCA) at 5.02% and the benchmark Selic rate at 13.75% by the end of 2026. The institution is also studying linking its instant payment system, Pix, with those of other countries to lower transaction costs.",
+      "es": "El informe Focus del Banco Central de Brasil, publicado el 10 de agosto, proyecta una inflación (IPCA) del 5,02 % y una tasa de referencia Selic del 13,75 % para fines de 2026. La institución también estudia interconectar su sistema de pagos instantáneos Pix con los de otros países para reducir los costos de transacción."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale publie le rapport Focus avec ses prévisions d'inflation et de taux directeur.",
+          "en": "The Central Bank releases the Focus report with its inflation and interest rate projections.",
+          "es": "El Banco Central publica el informe Focus con sus proyecciones de inflación y tasa de interés."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "chine-commerce-exterieur",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CGTN / CNBC",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Le commerce extérieur chinois dépasse les 30 000 milliards de yuans sur sept mois",
+      "en": "China's foreign trade tops 30 trillion yuan over seven months",
+      "es": "El comercio exterior chino supera los 30 billones de yuanes en siete meses"
+    },
+    "summary": {
+      "fr": "Le commerce extérieur de marchandises de la Chine a atteint 30 130 milliards de yuans (environ 4 460 milliards de dollars) sur les sept premiers mois de 2026, en hausse de 17,3 % sur un an, selon des données douanières citées par CGTN et CNBC. Les exportations, tirées notamment par les produits liés à l'intelligence artificielle, ont progressé de 14 %, tandis que la croissance du PIB chinois au deuxième trimestre est retombée à 4,3 %, son rythme le plus faible depuis fin 2022.",
+      "en": "China's foreign goods trade reached 30.13 trillion yuan (about $4.46 trillion) in the first seven months of 2026, up 17.3% year-on-year, according to customs data cited by CGTN and CNBC. Exports, driven in part by AI-related shipments, grew 14%, while China's second-quarter GDP growth slowed to 4.3%, its weakest pace since late 2022.",
+      "es": "El comercio exterior de bienes de China alcanzó los 30,13 billones de yuanes (unos 4,46 billones de dólares) en los primeros siete meses de 2026, un 17,3 % más interanual, según datos aduaneros citados por CGTN y CNBC. Las exportaciones, impulsadas en parte por los envíos vinculados a la inteligencia artificial, crecieron un 14 %, mientras que el crecimiento del PIB chino en el segundo trimestre se desaceleró al 4,3 %, su ritmo más débil desde finales de 2022."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "07/08/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités douanières publient les chiffres du commerce extérieur pour les sept premiers mois de l'année.",
+          "en": "Customs authorities release foreign trade figures for the first seven months of the year.",
+          "es": "Las autoridades aduaneras publican las cifras de comercio exterior de los primeros siete meses del año."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-jharkhand-protestation",
+    "coords": [
+      85.3096,
+      23.3441
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Bloomberg / Al Jazeera",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Ranchi, État du Jharkhand, Inde",
+      "en": "Ranchi, Jharkhand state, India",
+      "es": "Ranchi, estado de Jharkhand, India"
+    },
+    "title": {
+      "fr": "Des manifestants étudiants affrontent la police à Ranchi après des accusations de fraude aux examens",
+      "en": "Student protesters clash with police in Ranchi over alleged exam fraud",
+      "es": "Estudiantes manifestantes se enfrentan a la policía en Ranchi tras acusaciones de fraude en exámenes"
+    },
+    "summary": {
+      "fr": "Des manifestations étudiantes se poursuivent dans l'État du Jharkhand, dans l'est de l'Inde, après des accusations d'irrégularités, dont des fuites de sujets, dans les concours de la fonction publique, selon Bloomberg et Al Jazeera. Le 10 août, des manifestants ont marché vers l'Assemblée législative à Ranchi et forcé des barrières, la police répondant par des canons à eau et des matraques. Au moins six manifestants, dont le meneur étudiant Devendra Nath Mahto, poursuivaient une grève de la faim illimitée.",
+      "en": "Student protests continue in the eastern Indian state of Jharkhand over alleged irregularities, including leaked exam questions, in state civil service recruitment tests, according to Bloomberg and Al Jazeera. On August 10, protesters marched toward the state legislative assembly in Ranchi and knocked down barricades, with police responding with water cannon and batons. At least six protesters, including student leader Devendra Nath Mahto, were on an indefinite hunger strike.",
+      "es": "Las protestas estudiantiles continúan en el estado indio oriental de Jharkhand por presuntas irregularidades, incluidas filtraciones de preguntas de examen, en las pruebas de contratación para la función pública estatal, según Bloomberg y Al Jazeera. El 10 de agosto, los manifestantes marcharon hacia la asamblea legislativa estatal en Ranchi y derribaron barricadas, mientras la policía respondía con cañones de agua y porras. Al menos seis manifestantes, entre ellos el líder estudiantil Devendra Nath Mahto, mantenían una huelga de hambre indefinida."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Des manifestants marchent vers l'Assemblée législative de Ranchi ; la police riposte au canon à eau, selon Al Jazeera.",
+          "en": "Protesters march toward the Ranchi legislative assembly; police respond with water cannon, according to Al Jazeera.",
+          "es": "Los manifestantes marchan hacia la asamblea legislativa de Ranchi; la policía responde con cañones de agua, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "france-gandrange-incendie",
+    "coords": [
+      6.1667,
+      49.2667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "franceinfo",
+    "week": "2026-W33",
+    "place": {
+      "fr": "Gandrange, Moselle, France",
+      "en": "Gandrange, Moselle, France",
+      "es": "Gandrange, Mosela, Francia"
+    },
+    "title": {
+      "fr": "Incendie d'un entrepôt classé Seveso en Moselle : 30 000 habitants brièvement confinés",
+      "en": "Fire at Seveso-classified warehouse in Moselle briefly confines 30,000 residents",
+      "es": "Incendio en un almacén clasificado Seveso en Mosela obliga a confinar brevemente a 30.000 habitantes"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré le 2 août dans un entrepôt de 500 m² classé Seveso seuil bas, sur l'ancien site industriel d'ArcelorMittal à Gandrange, en Moselle, entraînant par précaution le confinement d'environ 30 000 habitants dans six communes voisines, selon franceinfo. L'alerte a été levée en fin d'après-midi après l'intervention des pompiers, l'air n'ayant finalement pas été jugé toxique.",
+      "en": "A fire broke out on August 2 in a 500-square-metre warehouse classified as low-threshold Seveso, on the former ArcelorMittal industrial site in Gandrange, Moselle, prompting the precautionary confinement of about 30,000 residents across six neighbouring communes, according to franceinfo. The alert was lifted in the late afternoon after firefighters completed their operation, with the air ultimately not judged to be toxic.",
+      "es": "Un incendio se declaró el 2 de agosto en un almacén de 500 metros cuadrados clasificado como Seveso de umbral bajo, en el antiguo sitio industrial de ArcelorMittal en Gandrange, Mosela, lo que obligó a confinar por precaución a unos 30.000 habitantes de seis municipios vecinos, según franceinfo. La alerta se levantó a última hora de la tarde tras la intervención de los bomberos, ya que finalmente el aire no se consideró tóxico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/08/2026",
+          "en": "02/08/2026",
+          "es": "02/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités lèvent le confinement de 30 000 habitants en fin de journée après l'incendie, selon franceinfo.",
+          "en": "Authorities lift the confinement of 30,000 residents by the end of the day after the fire, according to franceinfo.",
+          "es": "Las autoridades levantan el confinamiento de 30.000 habitantes al final del día tras el incendio, según franceinfo."
         },
         "active": true
       }
