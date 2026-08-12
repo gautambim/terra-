@@ -829,5 +829,918 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "bc-incendie-summerland",
+    "coords": [
+      -119.65,
+      49.6
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CBC News / GRC",
+    "related": [],
+    "place": {
+      "fr": "Summerland (vallée de l'Okanagan), Colombie-Britannique, Canada",
+      "en": "Summerland (Okanagan Valley), British Columbia, Canada",
+      "es": "Summerland (valle de Okanagan), Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Un feu de forêt hors de contrôle force l'évacuation de plus de 20 000 personnes en Colombie-Britannique",
+      "en": "Out-of-control wildfire forces evacuation of more than 20,000 people in British Columbia",
+      "es": "Un incendio forestal fuera de control obliga a evacuar a más de 20.000 personas en Columbia Británica"
+    },
+    "summary": {
+      "fr": "L'incendie « Bald Range », signalé le 7 août près de Summerland, a brûlé plus de 17 800 hectares avec un comportement extrême, forçant l'évacuation d'environ 20 000 à 22 000 personnes à Summerland et Peachland. La Gendarmerie royale du Canada a confirmé la mort d'une femme de 80 ans alors qu'elle tentait de fuir la zone ; le bureau du coroner de la Colombie-Britannique enquête pour établir un lien avec l'incendie. Plus de 50 personnes ont été évacuées par hélicoptère.",
+      "en": "The 'Bald Range' wildfire, reported on August 7 near Summerland, has burned more than 17,800 hectares with extreme fire behavior, forcing the evacuation of roughly 20,000 to 22,000 people from Summerland and Peachland. The Royal Canadian Mounted Police confirmed an 80-year-old woman died while trying to flee the area; the BC Coroners Service is investigating whether her death is linked to the fire. More than 50 people were airlifted to safety.",
+      "es": "El incendio «Bald Range», notificado el 7 de agosto cerca de Summerland, ha quemado más de 17.800 hectáreas con un comportamiento extremo, obligando a evacuar entre 20.000 y 22.000 personas de Summerland y Peachland. La Policía Montada de Canadá confirmó la muerte de una mujer de 80 años mientras intentaba huir de la zona; la Oficina del Forense de Columbia Británica investiga si su muerte está relacionada con el incendio. Más de 50 personas fueron evacuadas en helicóptero."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "07/08/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie « Bald Range » est signalé près de Summerland, en Colombie-Britannique.",
+          "en": "The 'Bald Range' wildfire is reported near Summerland, British Columbia.",
+          "es": "Se notifica el incendio «Bald Range» cerca de Summerland, Columbia Británica."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "La GRC confirme la mort d'une femme de 80 ans ; environ 20 000 à 22 000 personnes sont évacuées et des renforts arrivent.",
+          "en": "The RCMP confirms the death of an 80-year-old woman; roughly 20,000 to 22,000 people are evacuated and reinforcements arrive.",
+          "es": "La Policía Montada confirma la muerte de una mujer de 80 años; se evacúan entre 20.000 y 22.000 personas y llegan refuerzos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "usa-emploi-juillet",
+    "coords": [
+      -77.04,
+      38.9
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bureau of Labor Statistics / CNBC",
+    "related": [],
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Les États-Unis perdent des emplois en juillet, un net recul inattendu",
+      "en": "United States sheds jobs in July in a sharp, unexpected reversal",
+      "es": "Estados Unidos pierde empleos en julio en un brusco giro inesperado"
+    },
+    "summary": {
+      "fr": "Le Bureau of Labor Statistics a annoncé le 7 août que les employeurs américains ont supprimé 23 000 emplois non agricoles en juillet, alors que les économistes attendaient une hausse d'environ 83 000. Le taux de chômage a légèrement reculé à 4,1 %, mais les analystes l'attribuent à une contraction de la population active plutôt qu'à un marché du travail solide. Les chiffres de mai et juin ont aussi été révisés à la baisse de 103 000 emplois au total.",
+      "en": "The Bureau of Labor Statistics announced on August 7 that US employers cut 23,000 nonfarm jobs in July, versus economist expectations of roughly 83,000 in gains. The unemployment rate edged down to 4.1%, but analysts attribute this to a shrinking labor force rather than underlying strength. May and June figures were also revised down by a combined 103,000 jobs.",
+      "es": "La Oficina de Estadísticas Laborales (BLS) anunció el 7 de agosto que los empleadores estadounidenses eliminaron 23.000 empleos no agrícolas en julio, frente a una previsión de los economistas de un aumento de unos 83.000. La tasa de desempleo bajó ligeramente al 4,1 %, pero los analistas lo atribuyen a una reducción de la población activa y no a la fortaleza del mercado laboral. Las cifras de mayo y junio también se revisaron a la baja en un total de 103.000 empleos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "07/08/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Le BLS publie le rapport sur l'emploi de juillet, révélant une baisse inattendue.",
+          "en": "The BLS releases the July jobs report, showing an unexpected decline.",
+          "es": "La BLS publica el informe de empleo de julio, que muestra una caída inesperada."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "usa-dhs-outrage-tribunal",
+    "coords": [
+      -118.24,
+      34.05
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Law & Crime / U.S. News & World Report",
+    "related": [],
+    "place": {
+      "fr": "Los Angeles, Californie, États-Unis",
+      "en": "Los Angeles, California, United States",
+      "es": "Los Ángeles, California, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une juge fédérale reconnaît le département de la Sécurité intérieure coupable d'outrage",
+      "en": "Federal judge holds DHS in contempt over Los Angeles immigration-raid records",
+      "es": "Una jueza federal declara al Departamento de Seguridad Nacional en desacato"
+    },
+    "summary": {
+      "fr": "La juge fédérale Maame Ewusi-Mensah Frimpong a reconnu le département de la Sécurité intérieure (DHS) coupable d'outrage civil pour avoir refusé de communiquer les données forensiques des téléphones d'agents impliqués dans des rafles migratoires menées à Los Angeles en 2025, imposant une amende de 500 dollars par jour jusqu'à obtention des documents. La plainte, portée par l'ACLU et Public Counsel, allègue que les agents ciblaient des personnes en fonction de leur apparence raciale. Le ministère de la Justice a annoncé qu'il contesterait la décision.",
+      "en": "Federal judge Maame Ewusi-Mensah Frimpong held the Department of Homeland Security in civil contempt for refusing to hand over forensic data from agents' phones tied to 2025 immigration raids in Los Angeles, imposing a $500-a-day fine until the records are produced. The lawsuit, brought by the ACLU and Public Counsel, alleges agents targeted people based on perceived race. The Justice Department said it would appeal the ruling.",
+      "es": "La jueza federal Maame Ewusi-Mensah Frimpong declaró al Departamento de Seguridad Nacional (DHS) en desacato civil por negarse a entregar datos forenses de los teléfonos de agentes vinculados a las redadas migratorias de 2025 en Los Ángeles, imponiendo una multa de 500 dólares diarios hasta que se entreguen los registros. La demanda, presentada por la ACLU y Public Counsel, alega que los agentes actuaban según la apariencia racial de las personas. El Departamento de Justicia anunció que apelará el fallo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "L'ordonnance d'outrage est rendue publique ; le DOJ annonce qu'il la contestera.",
+          "en": "The contempt order is unsealed; the DOJ says it will fight the ruling.",
+          "es": "Se hace pública la orden de desacato; el DOJ anuncia que la impugnará."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-chanhom",
+    "coords": [
+      140.45,
+      36.34
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "The Japan Times / Agence météorologique du Japon",
+    "related": [],
+    "place": {
+      "fr": "Préfecture d'Ibaraki, Japon",
+      "en": "Ibaraki Prefecture, Japan",
+      "es": "Prefectura de Ibaraki, Japón"
+    },
+    "title": {
+      "fr": "La tempête tropicale sévère Chan-hom touche terre près de Tokyo, une première depuis 1951",
+      "en": "Severe tropical storm Chan-hom makes landfall near Tokyo, a first since 1951",
+      "es": "La tormenta tropical severa Chan-hom toca tierra cerca de Tokio, algo inédito desde 1951"
+    },
+    "summary": {
+      "fr": "La tempête tropicale sévère Chan-hom a touché terre dans la préfecture d'Ibaraki le 11 août, avec des vents soutenus de 25 m/s et des rafales à 35 m/s, selon l'Agence météorologique japonaise. Il s'agit du premier atterrissage d'un système de ce type enregistré dans cette préfecture depuis le début des relevés en 1951, la tempête ayant suivi une trajectoire inhabituelle d'est en ouest. Environ cinq personnes ont été légèrement blessées et des milliers de foyers ont perdu l'électricité.",
+      "en": "Severe tropical storm Chan-hom made landfall in Ibaraki Prefecture on August 11, with sustained winds of 25 m/s and gusts to 35 m/s, according to the Japan Meteorological Agency. It is the first landfall of its kind recorded in the prefecture since records began in 1951, after the storm took an unusual east-to-west track. About five people suffered minor injuries and thousands of homes lost power.",
+      "es": "La tormenta tropical severa Chan-hom tocó tierra en la prefectura de Ibaraki el 11 de agosto, con vientos sostenidos de 25 m/s y rachas de 35 m/s, según la Agencia Meteorológica de Japón. Es el primer aterrizaje de este tipo registrado en la prefectura desde que comenzaron los registros en 1951, tras seguir la tormenta una trayectoria inusual de este a oeste. Unas cinco personas sufrieron heridas leves y miles de hogares se quedaron sin electricidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Chan-hom touche terre dans la préfecture d'Ibaraki ; blessés légers et coupures de courant signalés.",
+          "en": "Chan-hom makes landfall in Ibaraki Prefecture; minor injuries and power outages reported.",
+          "es": "Chan-hom toca tierra en la prefectura de Ibaraki; se reportan heridos leves y cortes de electricidad."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "chine-sichuan-inondations",
+    "coords": [
+      104.07,
+      30.57
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "CGTN / Xinhua (médias d'État chinois)",
+    "related": [],
+    "place": {
+      "fr": "Province du Sichuan, Chine (Chengdu, Deyang, Ya'an et régions voisines)",
+      "en": "Sichuan Province, China (Chengdu, Deyang, Ya'an and surrounding areas)",
+      "es": "Provincia de Sichuan, China (Chengdu, Deyang, Ya'an y alrededores)"
+    },
+    "title": {
+      "fr": "Des inondations sévères provoquent l'évacuation de dizaines de milliers de personnes au Sichuan",
+      "en": "Severe flooding forces evacuation of tens of thousands in Sichuan",
+      "es": "Inundaciones severas obligan a evacuar a decenas de miles de personas en Sichuan"
+    },
+    "summary": {
+      "fr": "Les autorités du Sichuan ont relevé leur alerte pluie au niveau orange et activé une réponse d'urgence de niveau III après que 31 cours d'eau ont dépassé les seuils d'alerte, entraînant le déplacement d'environ 40 000 personnes ces derniers jours. Des médias d'État chinois font état de morts et de disparus dans la région de Ya'an, mais ces bilans, qui proviennent uniquement de sources officielles chinoises, n'ont pas pu être vérifiés de façon indépendante à ce stade — TERRA les mentionne donc avec prudence.",
+      "en": "Sichuan authorities raised their rain alert to orange and activated a Level III emergency response after 31 rivers exceeded warning levels, leading to the relocation of roughly 40,000 people in recent days. Chinese state media report deaths and missing people in the Ya'an area, but these figures, which come solely from official Chinese sources, could not be independently verified at this stage — TERRA is reporting them with caution.",
+      "es": "Las autoridades de Sichuan elevaron su alerta por lluvias a naranja y activaron una respuesta de emergencia de nivel III después de que 31 ríos superaran los niveles de alerta, lo que obligó a reubicar a unas 40.000 personas en los últimos días. Los medios estatales chinos informan de muertos y desaparecidos en la zona de Ya'an, pero estas cifras, que proceden únicamente de fuentes oficiales chinas, no han podido verificarse de forma independiente por el momento — TERRA las recoge con cautela."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le Sichuan relève son alerte pluie au niveau orange et évacue environ 40 000 personnes.",
+          "en": "Sichuan raises its rain alert to orange and evacuates roughly 40,000 people.",
+          "es": "Sichuan eleva su alerta por lluvias a naranja y evacúa a unas 40.000 personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "chine-exportations-juillet",
+    "coords": [
+      116.41,
+      39.9
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Administration générale des douanes chinoises",
+    "related": [],
+    "place": {
+      "fr": "Pékin, Chine (données nationales)",
+      "en": "Beijing, China (national data)",
+      "es": "Pekín, China (datos nacionales)"
+    },
+    "title": {
+      "fr": "Les exportations chinoises bondissent en juillet, portées par la demande de puces liées à l'IA",
+      "en": "China's exports surge in July, driven by AI-chip demand",
+      "es": "Las exportaciones chinas se disparan en julio impulsadas por la demanda de chips de IA"
+    },
+    "summary": {
+      "fr": "Selon les douanes chinoises, les exportations ont augmenté de 23,9 % sur un an en juillet, à 397,85 milliards de dollars, portées par les semiconducteurs et les technologies liées à l'intelligence artificielle, ainsi que par des expéditions anticipées avant d'éventuels nouveaux droits de douane américains. L'excédent commercial s'est élargi à 112,5 milliards de dollars, contre 97,7 milliards un an plus tôt.",
+      "en": "According to Chinese customs data, exports rose 23.9% year-on-year in July to $397.85 billion, driven by semiconductors and AI-related technology as well as manufacturers front-loading shipments ahead of possible new US tariffs. The trade surplus widened to $112.5 billion, up from $97.7 billion a year earlier.",
+      "es": "Según los datos de aduanas chinos, las exportaciones aumentaron un 23,9 % interanual en julio, hasta 397.850 millones de dólares, impulsadas por los semiconductores y la tecnología relacionada con la inteligencia artificial, además del adelanto de envíos ante posibles nuevos aranceles estadounidenses. El superávit comercial se amplió a 112.500 millones de dólares, frente a los 97.700 millones del año anterior."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "07/08/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Les douanes chinoises publient les données commerciales de juillet, en forte hausse.",
+          "en": "Chinese customs releases July trade data, showing a sharp increase.",
+          "es": "Las aduanas chinas publican los datos comerciales de julio, con un fuerte aumento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "coree-cour-supreme-gyeongui",
+    "coords": [
+      126.92,
+      37.56
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Korea Times",
+    "related": [],
+    "place": {
+      "fr": "Séoul (arrondissement de Mapo), Corée du Sud",
+      "en": "Seoul (Mapo District), South Korea",
+      "es": "Seúl (distrito de Mapo), Corea del Sur"
+    },
+    "title": {
+      "fr": "La Cour suprême sud-coréenne ordonne à Séoul de payer 29,6 millions de dollars pour le parc Gyeongui Line",
+      "en": "South Korea's Supreme Court orders Seoul to pay $29.6 million over Gyeongui Line park",
+      "es": "El Tribunal Supremo surcoreano ordena a Seúl pagar 29,6 millones de dólares por el parque Gyeongui Line"
+    },
+    "summary": {
+      "fr": "La Cour suprême de Corée du Sud a confirmé le 12 août que la municipalité de Séoul doit verser 42,1 milliards de wons (environ 29,6 millions de dollars) à l'opérateur ferroviaire public Korea National Railway pour l'usage non autorisé, entre novembre 2020 et mai 2023, du terrain situé sous le parc linéaire Gyeongui Line. La cour a jugé que la ville n'avait aucun droit à une occupation gratuite de ce terrain, confirmant une décision d'appel qui avait annulé une première victoire de la ville en première instance.",
+      "en": "South Korea's Supreme Court finalized a ruling on August 12 that the Seoul city government must pay 42.1 billion won (about $29.6 million) to state-run Korea National Railway for unauthorized use, between November 2020 and May 2023, of land beneath the Gyeongui Line linear park. The court held the city had no right to free occupation of the land, upholding an appellate ruling that had reversed an earlier lower-court win for the city.",
+      "es": "El Tribunal Supremo de Corea del Sur confirmó el 12 de agosto que el gobierno municipal de Seúl debe pagar 42.100 millones de wones (unos 29,6 millones de dólares) a la operadora ferroviaria estatal Korea National Railway por el uso no autorizado, entre noviembre de 2020 y mayo de 2023, del terreno bajo el parque lineal Gyeongui Line. El tribunal determinó que la ciudad no tenía derecho a ocupar el terreno de forma gratuita, confirmando un fallo de apelación que había revocado una primera victoria de la ciudad en primera instancia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême confirme le jugement en appel condamnant Séoul à payer.",
+          "en": "The Supreme Court upholds the appellate ruling ordering Seoul to pay.",
+          "es": "El Tribunal Supremo confirma el fallo de apelación que condena a Seúl a pagar."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "inde-kerala-inondations",
+    "coords": [
+      76.6,
+      9.6
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / presse régionale du Kerala",
+    "related": [],
+    "place": {
+      "fr": "État du Kerala, Inde",
+      "en": "Kerala state, India",
+      "es": "Estado de Kerala, India"
+    },
+    "title": {
+      "fr": "Des inondations et glissements de terrain font au moins 26 morts au Kerala",
+      "en": "Floods and landslides kill at least 26 in Kerala",
+      "es": "Inundaciones y deslizamientos de tierra dejan al menos 26 muertos en Kerala"
+    },
+    "summary": {
+      "fr": "Les crues de mousson et des glissements de terrain ont fait au moins 26 morts, 11 blessés et 4 disparus au Kerala, selon le chef du gouvernement de l'État V.D. Satheesan ; plus de 27 000 personnes se trouvent dans 462 camps de secours. À l'échelle nationale, les inondations de mousson ont fait plus de 100 morts depuis juillet, notamment en Assam et au Jammu-et-Cachemire, selon Al Jazeera. Le bilan exact varie légèrement selon les sources et les mises à jour.",
+      "en": "Monsoon flooding and landslides have killed at least 26 people, injured 11 and left 4 missing in Kerala, according to state chief minister V.D. Satheesan; more than 27,000 people are in 462 relief camps. Nationwide, monsoon floods have killed more than 100 people since July, notably in Assam and Jammu and Kashmir, according to Al Jazeera. The exact toll varies slightly between sources and updates.",
+      "es": "Las inundaciones monzónicas y los deslizamientos de tierra han dejado al menos 26 muertos, 11 heridos y 4 desaparecidos en Kerala, según el jefe de gobierno estatal V.D. Satheesan; más de 27.000 personas se encuentran en 462 campamentos de socorro. A nivel nacional, las inundaciones monzónicas han matado a más de 100 personas desde julio, especialmente en Assam y Jammu y Cachemira, según Al Jazeera. El balance exacto varía ligeramente según la fuente y la actualización."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement du Kerala annonce un bilan de 26 morts et une aide aux familles endeuillées.",
+          "en": "The Kerala government announces a toll of 26 dead and aid for bereaved families.",
+          "es": "El gobierno de Kerala anuncia un balance de 26 muertos y ayuda para las familias afectadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "inde-rajgarh-noyade",
+    "coords": [
+      76.7,
+      23.85
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "ANI",
+    "related": [],
+    "place": {
+      "fr": "Padana, district de Rajgarh, Madhya Pradesh, Inde",
+      "en": "Padana, Rajgarh district, Madhya Pradesh, India",
+      "es": "Padana, distrito de Rajgarh, Madhya Pradesh, India"
+    },
+    "title": {
+      "fr": "Neuf membres d'une même famille meurent noyés après la crue d'un ruisseau en Inde",
+      "en": "Nine members of one family drown after stream flash flood in India",
+      "es": "Nueve miembros de una misma familia mueren ahogados tras la crecida de un arroyo en India"
+    },
+    "summary": {
+      "fr": "Neuf membres d'une même famille, dont trois femmes et trois enfants, se sont noyés le 10 août lorsque leur véhicule a été emporté par les eaux en crue du ruisseau Jhiri en traversant un ponceau inondé près de Padana, dans le district de Rajgarh. Des habitants avaient averti le conducteur de ne pas s'engager ; deux occupants ont pu rejoindre la rive à la nage. Le chef du gouvernement du Madhya Pradesh, Mohan Yadav, a annoncé une indemnisation de 400 000 roupies par famille endeuillée.",
+      "en": "Nine members of one family, including three women and three children, drowned on August 10 when their vehicle was swept away by the flooded Jhiri stream while crossing a flooded culvert near Padana, in Rajgarh district. Local residents had warned the driver not to attempt the crossing; two occupants managed to swim to safety. Madhya Pradesh chief minister Mohan Yadav announced compensation of 400,000 rupees per bereaved family.",
+      "es": "Nueve miembros de una misma familia, entre ellos tres mujeres y tres niños, murieron ahogados el 10 de agosto cuando su vehículo fue arrastrado por la crecida del arroyo Jhiri al cruzar una alcantarilla inundada cerca de Padana, en el distrito de Rajgarh. Vecinos de la zona habían advertido al conductor de no intentar el cruce; dos ocupantes lograron nadar hasta la orilla. El jefe de gobierno de Madhya Pradesh, Mohan Yadav, anunció una compensación de 400.000 rupias por familia afectada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le véhicule est emporté par la crue ; neuf membres d'une même famille meurent noyés.",
+          "en": "The vehicle is swept away by the flood; nine members of one family drown.",
+          "es": "El vehículo es arrastrado por la crecida; nueve miembros de una misma familia mueren ahogados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-ferry-incendie",
+    "coords": [
+      115.85,
+      -8.53
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Associated Press / Antara",
+    "related": [],
+    "place": {
+      "fr": "Détroit de Lombok, entre Bali et Lombok, Indonésie",
+      "en": "Lombok Strait, between Bali and Lombok, Indonesia",
+      "es": "Estrecho de Lombok, entre Bali y Lombok, Indonesia"
+    },
+    "title": {
+      "fr": "Un incendie sur un ferry entre Bali et Lombok fait au moins un mort",
+      "en": "Fire aboard ferry between Bali and Lombok leaves at least one dead",
+      "es": "Un incendio en un ferri entre Bali y Lombok deja al menos un muerto"
+    },
+    "summary": {
+      "fr": "Le ferry Putri Yasmin a pris feu tôt le 12 août alors qu'il naviguait de Bali vers Lombok par une mer agitée, avec des vagues atteignant 4 mètres. L'agence Associated Press rapporte 172 personnes secourues et le corps d'une passagère de 19 ans retrouvé, tandis que l'agence indonésienne Antara avait initialement fait état de 106 personnes évacuées — un écart probablement dû à un bilan intermédiaire avant la fin de l'opération. La marine indonésienne a participé aux secours avec des navires et un hélicoptère.",
+      "en": "The ferry Putri Yasmin caught fire early on August 12 while sailing from Bali to Lombok in rough seas, with waves up to 4 meters. The Associated Press reports 172 people rescued and the body of a 19-year-old passenger recovered, while Indonesia's Antara news agency initially reported 106 people evacuated — a discrepancy likely reflecting an interim count before the operation concluded. The Indonesian navy took part in the rescue with vessels and a helicopter.",
+      "es": "El ferri Putri Yasmin se incendió en la madrugada del 12 de agosto mientras navegaba de Bali a Lombok con mar agitado, con olas de hasta 4 metros. La agencia Associated Press informa de 172 personas rescatadas y el hallazgo del cuerpo de una pasajera de 19 años, mientras que la agencia indonesia Antara había informado inicialmente de 106 personas evacuadas, una discrepancia que probablemente refleja un recuento provisional antes de que concluyera la operación. La marina indonesia participó en el rescate con embarcaciones y un helicóptero."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le ferry prend feu en mer ; 172 personnes secourues, un décès confirmé.",
+          "en": "The ferry catches fire at sea; 172 people rescued, one death confirmed.",
+          "es": "El ferri se incendia en el mar; 172 personas rescatadas, un muerto confirmado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-makarim-appel",
+    "coords": [
+      106.85,
+      -6.21
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "VOI.id / Al Jazeera",
+    "related": [],
+    "place": {
+      "fr": "Jakarta, Indonésie (Haute Cour de Jakarta)",
+      "en": "Jakarta, Indonesia (Jakarta High Court)",
+      "es": "Yakarta, Indonesia (Tribunal Superior de Yakarta)"
+    },
+    "title": {
+      "fr": "L'ancien ministre Nadiem Makarim fait appel de sa condamnation à 10 ans de prison pour corruption",
+      "en": "Former minister Nadiem Makarim appeals 10-year corruption sentence",
+      "es": "El exministro Nadiem Makarim apela su condena a 10 años de prisión por corrupción"
+    },
+    "summary": {
+      "fr": "Le procès en appel de Nadiem Makarim, cofondateur de Gojek et ancien ministre de l'Éducation, s'est ouvert le 5 août devant la Haute Cour de Jakarta. Il conteste sa condamnation à dix ans de prison prononcée en juin pour abus de pouvoir dans un scandale d'achat d'ordinateurs portables (Chromebooks) pendant la pandémie de Covid-19, tandis que le parquet fait lui aussi appel pour demander une peine plus lourde.",
+      "en": "The appeal trial of Nadiem Makarim, Gojek co-founder and former education minister, opened on August 5 at the Jakarta High Court. He is challenging his 10-year prison sentence, handed down in June for abuse of authority in a Chromebook procurement scandal during the Covid-19 pandemic, while prosecutors have also appealed seeking a harsher sentence.",
+      "es": "El juicio de apelación de Nadiem Makarim, cofundador de Gojek y exministro de Educación, comenzó el 5 de agosto en el Tribunal Superior de Yakarta. Impugna su condena a diez años de prisión, dictada en junio por abuso de poder en un escándalo de compra de portátiles (Chromebooks) durante la pandemia de covid-19, mientras que la fiscalía también apeló para pedir una pena más severa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Le procès en appel s'ouvre à la Haute Cour de Jakarta.",
+          "en": "The appeal trial opens at the Jakarta High Court.",
+          "es": "Comienza el juicio de apelación en el Tribunal Superior de Yakarta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "mexique-michoacan-elx1",
+    "coords": [
+      -102.05,
+      19.42
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "La Opinión / El Financiero",
+    "related": [],
+    "place": {
+      "fr": "Uruapan et Ziracuaretiro, Michoacán, Mexique",
+      "en": "Uruapan and Ziracuaretiro, Michoacán, Mexico",
+      "es": "Uruapan y Ziracuaretiro, Michoacán, México"
+    },
+    "title": {
+      "fr": "Le Mexique arrête un chef présumé d'un réseau d'extorsion visant les producteurs d'avocats",
+      "en": "Mexico arrests alleged leader of extortion network targeting avocado growers",
+      "es": "México detiene a un presunto líder de una red de extorsión contra productores de aguacate"
+    },
+    "summary": {
+      "fr": "Les forces fédérales mexicaines ont arrêté le 11 août Cristian Maximiliano « N », alias « El X1 », ainsi que onze autres personnes, lors d'une opération coordonnée visant une cellule d'extorsion liée aux Caballeros Templarios qui rançonnait des producteurs d'avocats et de citrons verts. Armes, véhicules, un brouilleur de signal et de l'argent liquide ont été saisis. Les autorités relient cette arrestation au « Plan Michoacán », qui a permis environ 950 interpellations liées à l'extorsion depuis novembre 2025.",
+      "en": "Mexican federal forces arrested Cristian Maximiliano 'N,' alias 'El X1,' along with eleven others on August 11 in a coordinated operation targeting an extortion cell linked to Los Caballeros Templarios that preyed on avocado and lime growers. Weapons, vehicles, a signal jammer and cash were seized. Authorities tied the arrest to 'Plan Michoacán,' which has logged around 950 extortion-related detentions since November 2025.",
+      "es": "Fuerzas federales mexicanas detuvieron el 11 de agosto a Cristian Maximiliano «N», alias «El X1», junto con otras once personas, en un operativo coordinado contra una célula de extorsión vinculada a los Caballeros Templarios que atacaba a productores de aguacate y limón. Se incautaron armas, vehículos, un inhibidor de señal y dinero en efectivo. Las autoridades vincularon la detención al «Plan Michoacán», que ha registrado unas 950 detenciones relacionadas con extorsión desde noviembre de 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Une opération coordonnée aboutit à l'arrestation d'« El X1 » et onze autres suspects.",
+          "en": "A coordinated operation leads to the arrest of 'El X1' and eleven other suspects.",
+          "es": "Un operativo coordinado culmina con la detención de «El X1» y otros once sospechosos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "bresil-eua-omc-tarifs",
+    "coords": [
+      -47.88,
+      -15.79
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Jornal do Comércio / Gazeta do Povo",
+    "related": [],
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Les États-Unis acceptent des consultations à l'OMC sur les droits de douane visant le Brésil",
+      "en": "United States agrees to WTO consultations over tariffs on Brazil",
+      "es": "Estados Unidos acepta consultas en la OMC sobre los aranceles a Brasil"
+    },
+    "summary": {
+      "fr": "L'administration américaine a accepté la demande du Brésil d'ouvrir des consultations formelles à l'Organisation mondiale du commerce contestant des droits de douane pouvant atteindre 37,5 % sur des produits brésiliens, combinant un tarif de 25 % spécifique au pays et un tarif de 12,5 % lié à des accusations de travail forcé. Il s'agit de la première étape procédurale d'un différend à l'OMC ; la Chine a par ailleurs demandé à se joindre à la procédure brésilienne.",
+      "en": "The US administration agreed to Brazil's request to open formal World Trade Organization consultations challenging tariffs of up to 37.5% on Brazilian goods, combining a 25% country-specific tariff and a 12.5% tariff tied to forced-labor allegations. This is the first procedural step in a WTO dispute; China has also asked to join Brazil's case.",
+      "es": "La administración estadounidense aceptó la solicitud de Brasil de abrir consultas formales en la Organización Mundial del Comercio para impugnar aranceles de hasta el 37,5 % sobre productos brasileños, que combinan un arancel del 25 % específico para el país y otro del 12,5 % vinculado a acusaciones de trabajo forzoso. Se trata del primer paso procesal de una disputa en la OMC; China también ha pedido sumarse al caso de Brasil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Washington accepte la demande de consultations formelles du Brésil à l'OMC.",
+          "en": "Washington accepts Brazil's request for formal WTO consultations.",
+          "es": "Washington acepta la solicitud de Brasil de consultas formales en la OMC."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "bresil-flamengo-vitoria",
+    "coords": [
+      -43.23,
+      -22.91
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "FFERJ / VAVEL Brasil",
+    "related": [],
+    "place": {
+      "fr": "Stade Maracanã, Rio de Janeiro, Brésil",
+      "en": "Maracanã Stadium, Rio de Janeiro, Brazil",
+      "es": "Estadio Maracaná, Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Flamengo bat Vitória et se rapproche du leader Palmeiras en Série A",
+      "en": "Flamengo beats Vitória to close gap on league leader Palmeiras",
+      "es": "Flamengo vence a Vitória y se acerca al líder Palmeiras en el Brasileirão"
+    },
+    "summary": {
+      "fr": "Flamengo a battu Vitória 2-0 au Maracanã le 9 août, lors de la 22e journée du Championnat brésilien Série A, avec des buts d'Erick Pulgar et Bruno Henrique. Le leader Palmeiras ayant fait match nul 0-0 contre l'Internacional le même week-end, l'écart au classement s'est resserré, relançant la course au titre.",
+      "en": "Flamengo beat Vitória 2-0 at the Maracanã on August 9, in round 22 of the Brazilian Série A championship, with goals from Erick Pulgar and Bruno Henrique. League leader Palmeiras drew 0-0 with Internacional the same weekend, narrowing the points gap and tightening the title race.",
+      "es": "Flamengo venció 2-0 a Vitória en el Maracaná el 9 de agosto, en la fecha 22 del Campeonato Brasileño Serie A, con goles de Erick Pulgar y Bruno Henrique. El líder Palmeiras empató 0-0 con Internacional el mismo fin de semana, lo que redujo la diferencia de puntos y reavivó la lucha por el título."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Flamengo bat Vitória 2-0 au Maracanã.",
+          "en": "Flamengo beats Vitória 2-0 at the Maracanã.",
+          "es": "Flamengo vence 2-0 a Vitória en el Maracaná."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-zaporijjia-kyiv-frappes",
+    "coords": [
+      35.14,
+      47.84
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters / Al Jazeera / Kyiv Independent",
+    "related": [],
+    "place": {
+      "fr": "Zaporijjia et Kyiv, Ukraine",
+      "en": "Zaporizhzhia and Kyiv, Ukraine",
+      "es": "Zaporiyia y Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Des frappes russes sur Zaporijjia et Kyiv font plusieurs morts, les bilans divergent selon les sources",
+      "en": "Russian strikes on Zaporizhzhia and Kyiv kill several people, tolls vary by source",
+      "es": "Ataques rusos contra Zaporiyia y Kiev dejan varios muertos, los balances varían según la fuente"
+    },
+    "summary": {
+      "fr": "La Russie a mené dans la nuit du 10 au 11 août une série de frappes de missiles et de drones sur l'aciérie Zaporizhstal, à Zaporijjia, ainsi que sur des infrastructures logistiques à Kyiv, provoquant l'arrêt de l'usine et des incendies dans la capitale. Le ministère russe de la Défense affirme avoir visé des installations « liées à l'effort militaire » ; les autorités ukrainiennes évoquent l'usage de missiles nord-coréens. Le bilan humain diverge fortement selon les sources : Reuters évoque cinq morts, le Kyiv Independent et US News sept, quand Al Jazeera fait état de douze morts — TERRA ne retient aucun de ces chiffres comme définitif et présente chaque source sans trancher.",
+      "en": "Russia carried out a series of missile and drone strikes overnight on August 10-11 on the Zaporizhstal steel plant in Zaporizhzhia and on logistics infrastructure in Kyiv, halting the plant and sparking fires in the capital. Russia's Defense Ministry says it targeted facilities 'related to the military effort'; Ukrainian officials say North Korean-made missiles were used. Casualty figures vary widely by source: Reuters reports five dead, the Kyiv Independent and US News report seven, while Al Jazeera reports twelve — TERRA does not treat any of these figures as final and presents each source without adjudicating.",
+      "es": "Rusia llevó a cabo en la noche del 10 al 11 de agosto una serie de ataques con misiles y drones contra la acería Zaporizhstal, en Zaporiyia, y contra infraestructura logística en Kiev, provocando la paralización de la planta e incendios en la capital. El Ministerio de Defensa ruso afirma haber atacado instalaciones «vinculadas al esfuerzo militar»; las autoridades ucranianas señalan el uso de misiles de fabricación norcoreana. El balance de víctimas varía mucho según la fuente: Reuters informa de cinco muertos, Kyiv Independent y US News de siete, mientras que Al Jazeera reporta doce — TERRA no considera definitiva ninguna de estas cifras y presenta cada fuente sin tomar partido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Frappes russes sur l'aciérie Zaporizhstal et sur Kyiv ; bilans humains divergents selon les sources.",
+          "en": "Russian strikes hit the Zaporizhstal steel plant and Kyiv; casualty tolls vary by source.",
+          "es": "Ataques rusos golpean la acería Zaporizhstal y Kiev; los balances de víctimas varían según la fuente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "espagne-huelva-incendie",
+    "coords": [
+      -6.65,
+      37.67
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Euronews / The Local Spain",
+    "related": [],
+    "place": {
+      "fr": "Province de Huelva (Zalamea la Real, Niebla, Valverde del Camino), Espagne",
+      "en": "Huelva province (Zalamea la Real, Niebla, Valverde del Camino), Spain",
+      "es": "Provincia de Huelva (Zalamea la Real, Niebla, Valverde del Camino), España"
+    },
+    "title": {
+      "fr": "Un incendie majeur dans la province de Huelva a déjà brûlé environ 20 000 hectares",
+      "en": "Major wildfire in Huelva province has burned around 20,000 hectares",
+      "es": "Un incendio importante en la provincia de Huelva ya ha quemado unas 20.000 hectáreas"
+    },
+    "summary": {
+      "fr": "Un incendie déclaré début août dans la province andalouse de Huelva a forcé l'évacuation d'environ 800 personnes et brûlé environ 20 000 hectares, selon Euronews. Plus de 600 pompiers et 26 aéronefs combattent le feu, qualifié « d'extrêmement difficile et dangereux » par la ministre régionale des urgences, sans perspective de confinement au 11 août. La saison des incendies 2026 en Espagne est particulièrement sévère, avec plus de 256 000 hectares brûlés au niveau national, soit 170 % au-dessus de la moyenne des vingt dernières années.",
+      "en": "A wildfire that broke out in early August in Spain's Andalusian province of Huelva has forced the evacuation of around 800 people and burned roughly 20,000 hectares, according to Euronews. More than 600 firefighters and 26 aircraft are battling the blaze, described as 'extremely difficult and dangerous' by the regional emergencies minister, with no containment in sight as of August 11. Spain's 2026 fire season has been particularly severe, with more than 256,000 hectares burned nationwide, 170% above the 20-year average.",
+      "es": "Un incendio declarado a principios de agosto en la provincia andaluza de Huelva ha obligado a evacuar a unas 800 personas y ha quemado unas 20.000 hectáreas, según Euronews. Más de 600 bomberos y 26 medios aéreos combaten el fuego, calificado de «extremadamente difícil y peligroso» por la consejera regional de emergencias, sin perspectivas de control a fecha del 11 de agosto. La temporada de incendios de 2026 en España está siendo especialmente grave, con más de 256.000 hectáreas quemadas a nivel nacional, un 170 % por encima de la media de los últimos veinte años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie reste actif, environ 800 personnes évacuées et 20 000 hectares brûlés.",
+          "en": "The fire remains active, around 800 people evacuated and 20,000 hectares burned.",
+          "es": "El incendio sigue activo, unas 800 personas evacuadas y 20.000 hectáreas quemadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-inflation-juillet",
+    "coords": [
+      8.24,
+      50.08
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Destatis / Eurostat",
+    "related": [],
+    "place": {
+      "fr": "Wiesbaden, Allemagne (siège de Destatis)",
+      "en": "Wiesbaden, Germany (Destatis headquarters)",
+      "es": "Wiesbaden, Alemania (sede de Destatis)"
+    },
+    "title": {
+      "fr": "L'inflation allemande grimpe à 2,8 % en juillet, tirée par l'énergie",
+      "en": "German inflation rises to 2.8% in July, driven by energy",
+      "es": "La inflación alemana sube al 2,8 % en julio, impulsada por la energía"
+    },
+    "summary": {
+      "fr": "L'Office fédéral allemand de la statistique (Destatis) a confirmé le 12 août que l'indice des prix à la consommation a progressé de 2,8 % sur un an en juillet, son plus haut niveau depuis avril, contre 2,3 % en juin. Cette accélération s'explique par une hausse de 8,3 % des prix de l'énergie dans un contexte de tensions renouvelées au Moyen-Orient, tandis que l'inflation sous-jacente (hors alimentation et énergie) a légèrement reculé à 2,4 %.",
+      "en": "Germany's Federal Statistical Office (Destatis) confirmed on August 12 that consumer prices rose 2.8% year-on-year in July, the highest reading since April, up from 2.3% in June. The acceleration was driven by an 8.3% jump in energy prices amid renewed Middle East tensions, while core inflation (excluding food and energy) eased slightly to 2.4%.",
+      "es": "La Oficina Federal de Estadística de Alemania (Destatis) confirmó el 12 de agosto que los precios al consumidor subieron un 2,8 % interanual en julio, el nivel más alto desde abril, frente al 2,3 % de junio. La aceleración se debió a un aumento del 8,3 % en los precios de la energía en un contexto de tensiones renovadas en Oriente Medio, mientras que la inflación subyacente (sin alimentos ni energía) bajó ligeramente al 2,4 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Destatis confirme le chiffre définitif de l'inflation de juillet.",
+          "en": "Destatis confirms the final July inflation figure.",
+          "es": "Destatis confirma la cifra definitiva de inflación de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "france-gironde-incendies",
+    "coords": [
+      -1.2,
+      44.98
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Connexion France / The Local France",
+    "related": [],
+    "place": {
+      "fr": "Gironde (Lacanau, Captieux), France",
+      "en": "Gironde department (Lacanau, Captieux), France",
+      "es": "Gironde (Lacanau, Captieux), Francia"
+    },
+    "title": {
+      "fr": "La foudre déclenche une dizaine de nouveaux feux de forêt en Gironde",
+      "en": "Lightning sparks around ten new wildfires in Gironde",
+      "es": "Los rayos provocan una decena de nuevos incendios forestales en Gironde"
+    },
+    "summary": {
+      "fr": "Plus de 500 impacts de foudre ont frappé le département de la Gironde dans la nuit du 9 au 10 août, déclenchant une dizaine de nouveaux départs de feu, dans un contexte où la France comptait environ 24 incendies actifs et 37 départements en vigilance feux de forêt. Une maison a été détruite par un incendie d'origine électrique à Lacanau, sans faire de blessé, et un feu au camp militaire de Captieux a brûlé environ 20 hectares, sa progression étant compliquée par la présence possible de munitions non explosées.",
+      "en": "More than 500 lightning strikes hit the Gironde department overnight on August 9-10, sparking around ten new wildfires, as France counted roughly 24 active fires and 37 departments under wildfire-risk alert. A house was destroyed by a lightning-caused fire in Lacanau, with no injuries reported, and a fire at the Captieux military camp burned about 20 hectares, complicated by the possible presence of unexploded ordnance.",
+      "es": "Más de 500 rayos impactaron en el departamento de Gironde durante la noche del 9 al 10 de agosto, provocando una decena de nuevos incendios, en un contexto en el que Francia contaba con unos 24 incendios activos y 37 departamentos en alerta por riesgo de incendio forestal. Una vivienda fue destruida por un incendio de origen eléctrico en Lacanau, sin heridos, y un fuego en el campamento militar de Captieux quemó unas 20 hectáreas, con una propagación complicada por la posible presencia de munición sin explotar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Des orages déclenchent une dizaine de feux ; une maison détruite à Lacanau.",
+          "en": "Thunderstorms spark around ten fires; a house is destroyed in Lacanau.",
+          "es": "Las tormentas provocan una decena de incendios; una vivienda es destruida en Lacanau."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-zamfara-otages-liberes",
+    "coords": [
+      6.6,
+      12.6
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "The Washington Post / Vanguard",
+    "related": [],
+    "place": {
+      "fr": "Zone de gouvernement local de Kaura Namoda, État de Zamfara, Nigeria",
+      "en": "Kaura Namoda LGA, Zamfara State, Nigeria",
+      "es": "Área de gobierno local de Kaura Namoda, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "L'armée nigériane libère 33 otages enlevés dans l'État de Zamfara",
+      "en": "Nigerian army frees 33 hostages kidnapped in Zamfara State",
+      "es": "El ejército nigeriano libera a 33 rehenes secuestrados en el estado de Zamfara"
+    },
+    "summary": {
+      "fr": "Des troupes nigérianes de l'opération Fansan Yamma ont libéré 33 personnes, dont un chef local et ses enfants, enlevées par des hommes armés alors qu'elles voyageaient dans l'État de Zamfara, selon le Washington Post et le journal nigérian Vanguard. Lors d'une opération distincte, les mêmes troupes ont arrêté deux membres présumés du groupe Lakurawa, de nationalité nigérienne. Certains captifs n'ont pas pu être récupérés, les ravisseurs ayant fui en traversant une rivière.",
+      "en": "Nigerian troops from Operation Fansan Yamma freed 33 people, including a local leader and his children, who had been kidnapped by armed men while traveling through Zamfara State, according to the Washington Post and Nigeria's Vanguard newspaper. In a separate operation, the same troops arrested two suspected members of the Lakurawa group, both Niger Republic nationals. Some captives were not recovered after the attackers fled across a river.",
+      "es": "Tropas nigerianas de la Operación Fansan Yamma liberaron a 33 personas, entre ellas un líder local y sus hijos, secuestradas por hombres armados mientras viajaban por el estado de Zamfara, según el Washington Post y el diario nigeriano Vanguard. En una operación separada, las mismas tropas detuvieron a dos presuntos miembros del grupo Lakurawa, ambos de nacionalidad nigerina. Algunos cautivos no pudieron ser rescatados porque los secuestradores huyeron cruzando un río."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "L'armée nigériane libère 33 otages et arrête deux suspects du groupe Lakurawa.",
+          "en": "The Nigerian army frees 33 hostages and arrests two suspected Lakurawa members.",
+          "es": "El ejército nigeriano libera a 33 rehenes y detiene a dos presuntos miembros de Lakurawa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "id": "afriquesud-capetown-fusillades",
+    "coords": [
+      18.69,
+      -34.02
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "EWN / TimesLIVE",
+    "related": [],
+    "place": {
+      "fr": "Khayelitsha, Langa et Gugulethu, Le Cap, Afrique du Sud",
+      "en": "Khayelitsha, Langa and Gugulethu, Cape Town, South Africa",
+      "es": "Khayelitsha, Langa y Gugulethu, Ciudad del Cabo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Onze personnes tuées dans trois fusillades distinctes au Cap en une seule nuit",
+      "en": "Eleven people killed in three separate shootings in Cape Town in one night",
+      "es": "Once personas mueren en tres tiroteos distintos en Ciudad del Cabo en una sola noche"
+    },
+    "summary": {
+      "fr": "Onze personnes ont été tuées dans la nuit du 8 au 9 août lors de trois fusillades apparemment sans lien entre elles dans des townships du Cap : trois hommes à Khayelitsha, cinq personnes à Langa et trois personnes à Gugulethu, où deux autres ont été blessées. Aucune arrestation n'a été annoncée à ce stade et la police propose des récompenses allant jusqu'à 100 000 rands par affaire pour toute information menant à des arrestations.",
+      "en": "Eleven people were killed overnight on August 8-9 in three apparently unrelated shootings in Cape Town townships: three men in Khayelitsha, five people in Langa, and three people in Gugulethu, where two others were wounded. No arrests have been announced so far, and police are offering rewards of up to 100,000 rand per case for information leading to arrests.",
+      "es": "Once personas murieron durante la noche del 8 al 9 de agosto en tres tiroteos aparentemente sin relación entre sí en distintos asentamientos de Ciudad del Cabo: tres hombres en Khayelitsha, cinco personas en Langa y tres personas en Gugulethu, donde otras dos resultaron heridas. Hasta el momento no se han anunciado detenciones, y la policía ofrece recompensas de hasta 100.000 rands por caso a cambio de información que conduzca a arrestos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Trois fusillades distinctes font onze morts dans des townships du Cap.",
+          "en": "Three separate shootings leave eleven dead in Cape Town townships.",
+          "es": "Tres tiroteos distintos dejan once muertos en asentamientos de Ciudad del Cabo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
   }
 ]
