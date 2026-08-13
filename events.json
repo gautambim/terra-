@@ -829,5 +829,908 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "japon-kumamoto-bilan",
+    "coords": [
+      130.7079,
+      32.8032
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Kyodo News / CNN / USGS",
+    "place": {
+      "fr": "Préfecture de Kumamoto, Kyushu, Japon",
+      "en": "Kumamoto Prefecture, Kyushu, Japan",
+      "es": "Prefectura de Kumamoto, Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Le bilan du séisme de Kumamoto grimpe à 39 morts, aggravé par la canicule",
+      "en": "Kumamoto earthquake death toll rises to 39 amid summer heat",
+      "es": "El balance del terremoto de Kumamoto sube a 39 muertos en plena ola de calor"
+    },
+    "summary": {
+      "fr": "Le bilan du séisme de magnitude 6,8 qui a frappé la préfecture de Kumamoto le 28 juillet 2026 est passé à 39 morts au 8 août, selon les autorités locales, avec plus de 200 blessés. La plupart des victimes sont mortes lors du séisme initial, mais au moins un décès supplémentaire est attribué à un coup de chaleur chez des sinistrés confrontés à des coupures d'eau et d'électricité en pleine canicule. Les autorités n'excluent pas une hausse du bilan.",
+      "en": "The death toll from the magnitude 6.8 earthquake that struck Kumamoto Prefecture on July 28, 2026 rose to 39 as of August 8, according to local authorities, with more than 200 people injured. Most victims died in the initial quake, while at least one additional death has been linked to heatstroke among displaced residents coping with damaged water and power infrastructure during extreme summer heat. Officials say the toll could still rise.",
+      "es": "El balance del terremoto de magnitud 6,8 que sacudió la prefectura de Kumamoto el 28 de julio de 2026 subió a 39 muertos al 8 de agosto, según las autoridades locales, con más de 200 heridos. La mayoría de las víctimas murieron durante el sismo inicial, pero al menos una muerte adicional se atribuye a un golpe de calor entre desplazados que enfrentan cortes de agua y electricidad en plena ola de calor. Las autoridades no descartan que el balance siga aumentando."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 6,8 frappe la préfecture de Kumamoto, sur l'île de Kyushu, causant d'importants dégâts dont une explosion dans un centre commercial à Kashima et l'effondrement d'une cheminée d'usine à Yatsushiro.",
+          "en": "A magnitude 6.8 earthquake strikes Kumamoto Prefecture on the island of Kyushu, causing major damage including an explosion at a shopping mall in Kashima and a chimney collapse at a paper mill in Yatsushiro.",
+          "es": "Un terremoto de magnitud 6,8 sacude la prefectura de Kumamoto, en la isla de Kyushu, causando graves daños, entre ellos una explosión en un centro comercial en Kashima y el derrumbe de una chimenea industrial en Yatsushiro."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités annoncent que le bilan est passé à 39 morts, dont un décès lié à un coup de chaleur consécutif aux dégâts sur les infrastructures ; elles n'excluent pas une nouvelle hausse.",
+          "en": "Authorities report the death toll has risen to 39, including a death linked to heatstroke amid the post-quake heat and infrastructure damage; officials warn the figure may still increase.",
+          "es": "Las autoridades informan que el balance ha subido a 39 muertos, incluida una muerte por golpe de calor vinculada a los daños en la infraestructura tras el sismo; no descartan que la cifra siga aumentando."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "japon-nagareyama-poignardage",
+    "coords": [
+      139.9027,
+      35.8564
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Japan Today / Newswire.lk",
+    "place": {
+      "fr": "Nagareyama, préfecture de Chiba, Japon",
+      "en": "Nagareyama, Chiba Prefecture, Japan",
+      "es": "Nagareyama, prefectura de Chiba, Japón"
+    },
+    "title": {
+      "fr": "Un étudiant sri-lankais mortellement poignardé par un compatriote à Chiba",
+      "en": "Sri Lankan student fatally stabbed by compatriot in Chiba",
+      "es": "Un estudiante de Sri Lanka muere apuñalado por un compatriota en Chiba"
+    },
+    "summary": {
+      "fr": "Un étudiant sri-lankais de 18 ans a été arrêté pour meurtre après avoir mortellement poignardé un compatriote de 21 ans dans une résidence étudiante partagée à Nagareyama, préfecture de Chiba, le 11 août. La victime a été hospitalisée avant de succomber à ses blessures. Selon la presse japonaise, le suspect aurait déclaré à la police avoir agi après avoir été provoqué par des insultes ; les circonstances exactes restent en cours d'établissement.",
+      "en": "An 18-year-old Sri Lankan international student was arrested on suspicion of murder after fatally stabbing a 21-year-old compatriot at a shared student residence in Nagareyama, Chiba Prefecture, on August 11. The victim was hospitalized but later died of his injuries. According to Japanese media, the suspect told police he had been provoked by insults before the attack; the exact circumstances remain under investigation.",
+      "es": "Un estudiante de Sri Lanka de 18 años fue arrestado por presunto asesinato tras apuñalar mortalmente a un compatriota de 21 años en una residencia estudiantil compartida en Nagareyama, prefectura de Chiba, el 11 de agosto. La víctima fue hospitalizada y murió posteriormente por sus heridas. Según medios japoneses, el sospechoso declaró a la policía haber actuado tras ser provocado con insultos; las circunstancias exactas siguen bajo investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "La police japonaise arrête le suspect de 18 ans après le décès de son compatriote de 21 ans, poignardé dans leur résidence commune à Nagareyama.",
+          "en": "Japanese police arrest the 18-year-old suspect after the fatal stabbing of his 21-year-old compatriot at their shared residence in Nagareyama.",
+          "es": "La policía japonesa arresta al sospechoso de 18 años tras la muerte de su compatriota de 21 años, apuñalado en su residencia compartida en Nagareyama."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-bromo-incendie",
+    "coords": [
+      112.953,
+      -7.9425
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Al Jazeera / Mongabay",
+    "place": {
+      "fr": "Parc national de Bromo Tengger Semeru, Java oriental, Indonésie",
+      "en": "Bromo Tengger Semeru National Park, East Java, Indonesia",
+      "es": "Parque nacional de Bromo Tengger Semeru, Java Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Un incendie force la fermeture du parc national du mont Bromo en Indonésie",
+      "en": "Wildfire forces closure of Indonesia's Mount Bromo national park",
+      "es": "Un incendio obliga a cerrar el parque nacional del monte Bromo en Indonesia"
+    },
+    "summary": {
+      "fr": "Un incendie qui se propage rapidement, probablement d'origine humaine, a ravagé près de 900 hectares de savane et de forêt dans le parc national de Bromo Tengger Semeru, à Java oriental, depuis son déclenchement vers le 3 août. Les autorités ont fermé au public la zone touristique très fréquentée du mont Bromo le 8 août, alors que le feu continuait de s'étendre, mobilisant des centaines de pompiers, de militaires et des hélicoptères bombardiers d'eau dans un terrain accidenté. Aucune victime n'a été signalée.",
+      "en": "A fast-moving wildfire, suspected to be human-caused, has burned nearly 900 hectares of savanna and forest in Indonesia's Bromo Tengger Semeru National Park in East Java since it broke out around August 3. Authorities closed the popular Mount Bromo tourist area to visitors on August 8 as the blaze continued to expand, deploying hundreds of firefighters, soldiers and water-bombing helicopters against the fire in steep terrain. No casualties have been reported.",
+      "es": "Un incendio de rápida propagación, presuntamente de origen humano, ha arrasado casi 900 hectáreas de sabana y bosque en el parque nacional de Bromo Tengger Semeru, en Java Oriental, desde que se inició hacia el 3 de agosto. Las autoridades cerraron al público la popular zona turística del monte Bromo el 8 de agosto mientras el fuego seguía extendiéndose, movilizando a cientos de bomberos, militares y helicópteros con agua en un terreno escarpado. No se han reportado víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie a désormais ravagé environ 899 hectares, contre environ 176 hectares quelques jours plus tôt, alors que des centaines d'agents et des moyens aériens luttent contre les flammes.",
+          "en": "The fire has burned approximately 899 hectares, up from about 176 hectares days earlier, as hundreds of personnel and aircraft battle the blaze.",
+          "es": "El incendio ha arrasado ya unas 899 hectáreas, frente a las aproximadamente 176 hectáreas de días antes, mientras cientos de efectivos y medios aéreos combaten las llamas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "coree-nord-missile",
+    "coords": [
+      127.4358,
+      39.15
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Bloomberg / Al Jazeera",
+    "place": {
+      "fr": "Région de Wonsan, Corée du Nord",
+      "en": "Wonsan area, North Korea",
+      "es": "Zona de Wonsan, Corea del Norte"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire un missile balistique avant des exercices américano-sud-coréens",
+      "en": "North Korea fires ballistic missile ahead of US-South Korea drills",
+      "es": "Corea del Norte lanza un misil balístico antes de maniobras conjuntas de EE.UU. y Corea del Sur"
+    },
+    "summary": {
+      "fr": "La Corée du Nord a tiré le 11 août un missile balistique depuis la région de Wonsan, qui a parcouru environ 690 km et atteint une altitude d'environ 90 km avant de retomber dans la mer de l'Est, selon l'état-major sud-coréen et le ministère japonais de la Défense. L'engin n'est pas tombé dans la zone économique exclusive du Japon. Ce tir, le deuxième de Pyongyang en moins d'une semaine, précède de peu le début de l'exercice militaire conjoint annuel Ulchi Freedom Shield entre la Corée du Sud et les États-Unis.",
+      "en": "North Korea fired a ballistic missile from the Wonsan area on August 11 that flew about 690 km and reached an altitude of roughly 90 km before falling into the East Sea, according to South Korea's Joint Chiefs of Staff and Japan's defense ministry. It did not land in Japan's exclusive economic zone. The launch, Pyongyang's second in under a week, came just before the start of the annual Ulchi Freedom Shield joint military exercise between South Korea and the United States.",
+      "es": "Corea del Norte lanzó el 11 de agosto un misil balístico desde la zona de Wonsan que recorrió unos 690 km y alcanzó una altitud aproximada de 90 km antes de caer en el mar del Este, según el Estado Mayor Conjunto surcoreano y el Ministerio de Defensa japonés. El proyectil no cayó dentro de la zona económica exclusiva de Japón. El lanzamiento, el segundo de Pionyang en menos de una semana, se produjo poco antes del inicio del ejercicio militar conjunto anual Ulchi Freedom Shield entre Corea del Sur y Estados Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "L'armée sud-coréenne confirme le tir et ses données de trajectoire, précisant qu'il s'agit du 11e essai de missile balistique présumé de la Corée du Nord en 2026.",
+          "en": "South Korea's military confirms the missile launch and its flight data, noting it is North Korea's 11th suspected ballistic missile test of 2026.",
+          "es": "El ejército surcoreano confirma el lanzamiento y sus datos de trayectoria, precisando que se trata de la undécima prueba de misil balístico presuntamente realizada por Corea del Norte en 2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "inde-tejpal-condamnation",
+    "coords": [
+      73.8278,
+      15.4909
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / Onmanorama",
+    "place": {
+      "fr": "Goa, Inde (chambre de Goa de la Haute Cour de Bombay)",
+      "en": "Goa, India (Bombay High Court's Goa bench)",
+      "es": "Goa, India (sala de Goa del Tribunal Superior de Bombay)"
+    },
+    "title": {
+      "fr": "L'ex-journaliste Tarun Tejpal condamné à 10 ans de prison pour viol",
+      "en": "Former journalist Tarun Tejpal convicted, sentenced to 10 years for rape",
+      "es": "El experiodista Tarun Tejpal, condenado a 10 años de cárcel por violación"
+    },
+    "summary": {
+      "fr": "La chambre de Goa de la Haute Cour de Bombay a infirmé un acquittement prononcé en 2021 et condamné Tarun Tejpal, 62 ans, ancien rédacteur en chef du magazine Tehelka, à 10 ans de prison pour le viol d'une collègue dans l'ascenseur d'un hôtel lors d'un événement d'entreprise en 2013. La cour a critiqué les tentatives de la défense de discréditer la plaignante en s'appuyant sur sa vie privée. Tejpal doit se rendre à la justice sous quatre semaines et a annoncé son intention de se pourvoir devant la Cour suprême indienne.",
+      "en": "The Goa bench of the Bombay High Court overturned a 2021 acquittal and convicted Tarun Tejpal, 62, former editor of Tehelka magazine, of raping a female colleague in a hotel elevator during a 2013 company event, sentencing him to 10 years in prison. The court criticized attempts by the defense to discredit the complainant based on her personal life. Tejpal was ordered to surrender within four weeks and has said he will appeal to India's Supreme Court.",
+      "es": "La sala de Goa del Tribunal Superior de Bombay revocó una absolución de 2021 y condenó a Tarun Tejpal, de 62 años, exeditor de la revista Tehelka, a 10 años de prisión por violar a una colega en el ascensor de un hotel durante un evento de la empresa en 2013. El tribunal criticó los intentos de la defensa de desacreditar a la denunciante basándose en su vida personal. Tejpal debe entregarse a la justicia en un plazo de cuatro semanas y ha anunciado que apelará ante la Corte Suprema de la India."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "La chambre de Goa de la Haute Cour de Bombay rend son verdict et sa peine, ordonnant à Tejpal de se rendre sous quatre semaines ; il annonce faire appel.",
+          "en": "The Goa bench of the Bombay High Court delivers its verdict and sentence, ordering Tejpal to surrender within four weeks; he says he will appeal.",
+          "es": "La sala de Goa del Tribunal Superior de Bombay dicta su veredicto y condena, ordenando a Tejpal entregarse en un plazo de cuatro semanas; él anuncia que apelará."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "chine-fuites-anticorruption",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🕵️",
+    "source": "Bloomberg / Japan Times",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Un marché clandestin de renseignements se développe autour des purges anticorruption en Chine",
+      "en": "Underground market emerges for tips on China's anti-corruption purges",
+      "es": "Surge un mercado clandestino de información sobre las purgas anticorrupción en China"
+    },
+    "summary": {
+      "fr": "Bloomberg a rapporté, en citant le magazine Banyuetan, affilié à l'agence Xinhua, qu'un marché clandestin s'est développé sur l'internet chinois, étroitement contrôlé, proposant des informations présumées sur les prochains responsables susceptibles d'être visés par la campagne anticorruption du président Xi Jinping, l'accès à certains groupes de discussion coûtant jusqu'à 399 yuans (environ 59 dollars). Les autorités peineraient à démanteler ces groupes, la simple diffusion de la biographie publique d'un responsable ne constituant pas nécessairement une fuite de secrets d'État. L'organe anticorruption chinois affirme avoir sanctionné 183 000 personnes au premier trimestre 2026, dont 56 cadres de rang provincial ou ministériel.",
+      "en": "Bloomberg reported, citing the Xinhua-affiliated magazine Banyuetan, that an underground market has emerged on China's tightly controlled internet selling purported tips on which officials might next be targeted in President Xi Jinping's anti-corruption campaign, with access to some tip-sharing chat groups costing up to 399 yuan (about $59). Authorities are reportedly struggling to shut the groups down, since sharing a public official's biography may not legally qualify as leaking state secrets. China's anti-graft body says it penalized 183,000 people in the first quarter of 2026, including 56 provincial or ministerial-level officials.",
+      "es": "Bloomberg informó, citando a la revista Banyuetan, afiliada a la agencia Xinhua, que ha surgido un mercado clandestino en el internet chino, estrechamente controlado, que vende supuestos datos sobre qué funcionarios podrían ser el próximo objetivo de la campaña anticorrupción del presidente Xi Jinping; el acceso a algunos grupos de chat llega a costar hasta 399 yuanes (unos 59 dólares). Las autoridades tendrían dificultades para cerrar estos grupos, ya que compartir la biografía pública de un funcionario podría no constituir legalmente una filtración de secretos de Estado. El organismo anticorrupción chino afirma haber sancionado a 183.000 personas en el primer trimestre de 2026, entre ellas 56 cargos de nivel provincial o ministerial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "L'article de Bloomberg est repris par plusieurs médias internationaux, soulignant la difficulté des autorités chinoises à encadrer ces marchés informels d'information liés à la campagne anticorruption.",
+          "en": "Bloomberg's report is picked up by multiple international outlets, highlighting the difficulty Chinese authorities face in policing informal information markets around the anti-corruption campaign.",
+          "es": "El artículo de Bloomberg es retomado por varios medios internacionales, que subrayan la dificultad de las autoridades chinas para controlar estos mercados informales de información en torno a la campaña anticorrupción."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-leipzig-drone",
+    "coords": [
+      12.2416,
+      51.4324
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "CNN / Washington Post",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Saxe, Allemagne",
+      "en": "Leipzig/Halle Airport, Saxony, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "Un drone piégé découvert sur le tarmac de l'aéroport de Leipzig/Halle",
+      "en": "Explosive-laden drone found on Leipzig/Halle Airport tarmac",
+      "es": "Hallan un dron cargado de explosivos en la pista del aeropuerto de Leipzig/Halle"
+    },
+    "summary": {
+      "fr": "Un petit drone quadricoptère chargé d'explosifs a été découvert dans la nuit du 4 au 5 août sur le tarmac sécurisé de l'aéroport de Leipzig/Halle, à proximité d'avions-cargos ukrainiens stationnés ; son détonateur n'aurait pas fonctionné, et un chauffeur de bus a neutralisé l'engin plus de quatre heures après son atterrissage. Le parquet fédéral allemand a repris l'enquête, envisageant une possible attaque contre des infrastructures de transport, sans qu'aucun suspect n'ait été identifié. Le 12 août, le gouvernement allemand a annoncé son intention d'élargir les pouvoirs de ses services de renseignement, face à ce que le ministre de l'Intérieur a qualifié de « guerre hybride quotidienne ».",
+      "en": "A small quadcopter drone carrying an explosive charge was found on the secured apron at Leipzig/Halle Airport on the night of August 4-5, close to parked Ukrainian cargo freighters; its detonator reportedly failed to fire, and a bus driver disabled the device more than four hours after it landed. German federal prosecutors took over the investigation as a possible attack on transport infrastructure, and no suspect has been named. On August 12, the German government announced plans to expand the powers of its intelligence services in response to what the interior minister called 'daily hybrid warfare.'",
+      "es": "Un pequeño dron cuadricóptero cargado con explosivos fue hallado en la noche del 4 al 5 de agosto en la plataforma de seguridad del aeropuerto de Leipzig/Halle, cerca de aviones de carga ucranianos estacionados; su detonador presuntamente no llegó a activarse, y un conductor de autobús desactivó el aparato más de cuatro horas después de que aterrizara. La fiscalía federal alemana asumió la investigación como un posible ataque contra infraestructuras de transporte, sin que se haya identificado a ningún sospechoso. El 12 de agosto, el gobierno alemán anunció planes para ampliar las facultades de sus servicios de inteligencia, en respuesta a lo que el ministro del Interior calificó de «guerra híbrida diaria»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement allemand annonce son intention d'élargir les pouvoirs des services de renseignement BND et BfV, invoquant une série d'attaques hybrides visant des infrastructures.",
+          "en": "The German government announces plans to expand the powers of the BND and BfV intelligence services, citing a pattern of hybrid attacks on infrastructure.",
+          "es": "El gobierno alemán anuncia planes para ampliar las facultades de los servicios de inteligencia BND y BfV, citando un patrón de ataques híbridos contra infraestructuras."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-levy-condamnation",
+    "coords": [
+      -0.0922,
+      51.5155
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "ITV News / Metropolitan Police",
+    "place": {
+      "fr": "Old Bailey, Londres, Royaume-Uni",
+      "en": "Old Bailey, London, United Kingdom",
+      "es": "Old Bailey, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Simon Levy condamné à la perpétuité incompressible pour double meurtre et viol",
+      "en": "Simon Levy given whole-life sentence for double murder and rape",
+      "es": "Simon Levy recibe cadena perpetua íntegra por doble asesinato y violación"
+    },
+    "summary": {
+      "fr": "Simon Levy, 40 ans, a été condamné le 12 août à l'Old Bailey de Londres à la perpétuité incompressible, la peine la plus lourde possible au Royaume-Uni, après avoir été reconnu coupable des meurtres de Carmenza Valencia-Trujillo et Sheryl Wilkins à Tottenham, au nord de Londres, en 2025, ainsi que du viol et de l'étranglement d'une troisième femme. Levy était alors en liberté sous caution et sous surveillance de la police métropolitaine, ce qui a valu des excuses de la police pour les manquements ayant permis qu'il reste libre.",
+      "en": "Simon Levy, 40, was sentenced to a whole-life order at London's Old Bailey on August 12, the UK's toughest possible sentence, after being convicted of murdering Carmenza Valencia-Trujillo and Sheryl Wilkins in Tottenham, north London, in 2025, as well as raping and strangling a third woman. Levy was on bail and under Metropolitan Police monitoring at the time of the killings, prompting apologies from police over failures that left him free.",
+      "es": "Simon Levy, de 40 años, fue condenado el 12 de agosto en el tribunal de Old Bailey de Londres a cadena perpetua íntegra, la pena más severa posible en el Reino Unido, tras ser declarado culpable de los asesinatos de Carmenza Valencia-Trujillo y Sheryl Wilkins en Tottenham, al norte de Londres, en 2025, así como de la violación y estrangulamiento de una tercera mujer. Levy se encontraba en libertad bajo fianza y bajo vigilancia de la policía metropolitana en el momento de los crímenes, lo que motivó disculpas policiales por los fallos que le permitieron seguir libre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le juge Mark Lucraft KC prononce la perpétuité incompressible à l'issue d'un procès de cinq semaines pendant lequel Levy n'a présenté aucune défense.",
+          "en": "Judge Mark Lucraft KC hands down the whole-life order after a five-week trial in which Levy did not mount a defence.",
+          "es": "El juez Mark Lucraft KC dicta la cadena perpetua íntegra al término de un juicio de cinco semanas en el que Levy no presentó defensa alguna."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "italie-ranucci-attentat-arrestation",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "💣",
+    "source": "ANSA / CBS News",
+    "place": {
+      "fr": "Rome, Italie",
+      "en": "Rome, Italy",
+      "es": "Roma, Italia"
+    },
+    "title": {
+      "fr": "Un homme d'affaires arrêté comme cerveau présumé de l'attentat à la bombe contre le journaliste Ranucci",
+      "en": "Businessman arrested as alleged mastermind of bomb attack on journalist Ranucci",
+      "es": "Detienen a un empresario como presunto autor intelectual del atentado con bomba contra el periodista Ranucci"
+    },
+    "summary": {
+      "fr": "Valter Lavitola, homme d'affaires et ancien journaliste proche de feu Silvio Berlusconi, a été arrêté et placé en détention provisoire le 10 août, soupçonné d'avoir commandité l'attentat à la bombe qui a détruit en octobre 2025 les voitures du journaliste d'investigation de la RAI Sigfrido Ranucci et de sa fille, près de leur domicile près de Rome. Le juge d'instruction a écrit que Lavitola — qui se présentait comme un ami de Ranucci — aurait orchestré l'attaque pour renforcer la notoriété du journaliste, et il est poursuivi comme commanditaire selon des méthodes de type mafieux. Lavitola a comparu devant le juge des audiences préliminaires le 12 août ; personne n'avait été blessé lors de l'attentat initial.",
+      "en": "Valter Lavitola, a businessman and former journalist with ties to the late Silvio Berlusconi, was arrested and placed in pre-trial detention on August 10, accused of masterminding a bomb attack that destroyed cars belonging to RAI investigative journalist Sigfrido Ranucci and his daughter at their home near Rome in October 2025. The investigating judge wrote that Lavitola — who described himself as a friend of Ranucci — allegedly staged the attack to boost the journalist's public profile, and is charged with using mafia-style methods as the instigator. Lavitola appeared before a preliminary hearing judge on August 12; no one was injured in the original attack.",
+      "es": "Valter Lavitola, empresario y experiodista cercano al fallecido Silvio Berlusconi, fue arrestado y puesto en prisión preventiva el 10 de agosto, acusado de ser el autor intelectual del atentado con bomba que en octubre de 2025 destruyó los coches del periodista de investigación de la RAI Sigfrido Ranucci y de su hija, cerca de su domicilio próximo a Roma. El juez instructor escribió que Lavitola —quien se presentaba como amigo de Ranucci— habría orquestado el ataque para aumentar la notoriedad del periodista, y está acusado de actuar como instigador con métodos de tipo mafioso. Lavitola compareció ante el juez de la audiencia preliminar el 12 de agosto; nadie resultó herido en el atentado original."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Lavitola comparaît devant le juge des audiences préliminaires à Rome, alors que l'enquête sur le complot présumé se poursuit.",
+          "en": "Lavitola appears before the preliminary hearing judge in Rome as the investigation into the alleged plot continues.",
+          "es": "Lavitola comparece ante el juez de la audiencia preliminar en Roma, mientras continúa la investigación sobre el presunto complot."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "espagne-niebla-incendie",
+    "coords": [
+      -6.6833,
+      37.3667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Infobae / El Independiente",
+    "place": {
+      "fr": "Niebla, province de Huelva, Andalousie, Espagne",
+      "en": "Niebla, Huelva province, Andalusia, Spain",
+      "es": "Niebla, provincia de Huelva, Andalucía, España"
+    },
+    "related": [
+      "espagne-incendie"
+    ],
+    "title": {
+      "fr": "Un incendie à Huelva ravage plus de 31 000 hectares et force l'évacuation de centaines d'habitants",
+      "en": "Huelva wildfire burns over 31,000 hectares, forces hundreds to evacuate",
+      "es": "Un incendio en Huelva arrasa más de 31.000 hectáreas y obliga a evacuar a cientos de vecinos"
+    },
+    "summary": {
+      "fr": "Un incendie qui s'est déclaré vers le 6-7 août près de Niebla, dans la province de Huelva, a ravagé plus de 31 000 hectares de forêts d'eucalyptus, de dehesa et de pins dans les provinces de Huelva et de Séville, le plus important feu de l'été dans la région. À son apogée, il avait été déclaré hors de contrôle par les autorités andalouses ; environ 700 habitants restaient évacués au 13 août, bien que l'unité militaire d'urgence espagnole ait signalé un ralentissement de sa progression.",
+      "en": "A wildfire that broke out near Niebla, in Spain's Huelva province, around August 6-7 has burned more than 31,000 hectares of eucalyptus, dehesa and pine forest across Huelva and Seville provinces, the largest fire of the summer in the region. At its peak it was declared beyond firefighting capacity by Andalusian authorities; around 700 residents remained evacuated as of August 13, though Spain's military emergency unit reported the fire's spread was slowing.",
+      "es": "Un incendio que se inició hacia el 6-7 de agosto cerca de Niebla, en la provincia de Huelva, ha arrasado más de 31.000 hectáreas de eucaliptal, dehesa y pinar entre las provincias de Huelva y Sevilla, el mayor fuego del verano en la región. En su punto álgido fue declarado fuera de capacidad de extinción por las autoridades andaluzas; unos 700 vecinos seguían desalojados el 13 de agosto, aunque la Unidad Militar de Emergencias informó de que su avance se ralentizaba."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités indiquent que l'incendie perd en intensité après avoir ravagé plus de 31 000 hectares, alors qu'environ 700 personnes restent évacuées entre les provinces de Huelva et de Séville.",
+          "en": "Authorities report the fire is losing intensity after burning more than 31,000 hectares, with around 700 people still evacuated between Huelva and Seville provinces.",
+          "es": "Las autoridades informan de que el incendio pierde fuerza tras arrasar más de 31.000 hectáreas, mientras unas 700 personas siguen desalojadas entre las provincias de Huelva y Sevilla."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "france-gravelines-meduses",
+    "coords": [
+      2.1167,
+      51.0
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🪼",
+    "source": "France 24 / The Local France",
+    "place": {
+      "fr": "Gravelines, Nord, France",
+      "en": "Gravelines, Nord, France",
+      "es": "Gravelines, Nord, Francia"
+    },
+    "title": {
+      "fr": "Un envahissement de méduses force l'arrêt de réacteurs à la plus grande centrale nucléaire de France",
+      "en": "Jellyfish swarm forces shutdown of reactors at France's largest nuclear plant",
+      "es": "Un enjambre de medusas obliga a parar reactores en la mayor central nuclear de Francia"
+    },
+    "summary": {
+      "fr": "Un envahissement de méduses a obstrué les filtres de prise d'eau de refroidissement de la centrale nucléaire de Gravelines, la plus grande d'Europe occidentale, contraignant l'exploitant EDF à arrêter trois de ses six réacteurs et à réduire la production d'un quatrième les 10 et 11 août. Des pêcheurs locaux auraient retiré plus de 26 tonnes de méduses. Cet arrêt a contribué à un déficit de production nucléaire de 15,6 % en France ce week-end-là ; il s'agit du deuxième épisode de ce type à Gravelines, après un incident similaire en août 2025.",
+      "en": "A swarm of jellyfish clogged cooling-water intake filters at the Gravelines nuclear plant, western Europe's largest, forcing operator EDF to shut down three of its six reactors and reduce output at a fourth on August 10-11. Local fishermen reportedly hauled out more than 26 tonnes of jellyfish. The outage contributed to a reported 15.6% shortfall in France's nuclear output that weekend; it is the second such jellyfish-driven shutdown at Gravelines, after a similar incident in August 2025.",
+      "es": "Un enjambre de medusas obstruyó los filtros de toma de agua de refrigeración de la central nuclear de Gravelines, la mayor de Europa occidental, obligando al operador EDF a parar tres de sus seis reactores y reducir la producción de un cuarto los días 10 y 11 de agosto. Pescadores locales retiraron, según se informó, más de 26 toneladas de medusas. El apagón contribuyó a un déficit del 15,6% en la producción nuclear francesa ese fin de semana; es el segundo episodio de este tipo en Gravelines, tras un incidente similar en agosto de 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "EDF confirme que trois réacteurs sont à l'arrêt et qu'un quatrième fonctionne à capacité réduite en raison de l'afflux de méduses, en plus d'une cinquième unité déjà arrêtée pour maintenance.",
+          "en": "EDF confirms three reactors are offline and a fourth running at reduced capacity because of the jellyfish influx, on top of a fifth unit already down for maintenance.",
+          "es": "EDF confirma que tres reactores están parados y un cuarto funciona a capacidad reducida por la afluencia de medusas, además de una quinta unidad ya detenida por mantenimiento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-kyiv-frappes",
+    "coords": [
+      30.7333,
+      50.65
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / CBS News",
+    "place": {
+      "fr": "Poukhivka, district de Brovary, région de Kyiv, Ukraine",
+      "en": "Pukhivka, Brovary district, Kyiv region, Ukraine",
+      "es": "Pujivka, distrito de Brovary, región de Kiev, Ucrania"
+    },
+    "related": [
+      "odessa-attaque",
+      "russie-novorossiisk-frappe"
+    ],
+    "title": {
+      "fr": "Une frappe de drone russe tue trois personnes, dont un enfant, près de Kyiv",
+      "en": "Russian drone strike kills three, including a child, near Kyiv",
+      "es": "Un ataque con drones rusos mata a tres personas, entre ellas un niño, cerca de Kiev"
+    },
+    "summary": {
+      "fr": "Des drones russes ont frappé le village de Poukhivka, dans le district de Brovary près de Kyiv, dans la nuit du 7 au 8 août, dans ce que des responsables ukrainiens ont décrit comme une double frappe. La plupart des sources font état de la mort d'un grand-père, d'une grand-mère et de leur petit-fils de 3 ans, tandis que les parents de l'enfant, son frère adolescent et un voisin venu porter secours ont été blessés ; une dizaine de maisons et de bâtiments commerciaux ont été endommagés. Les bilans varient légèrement selon les médias, la plupart évoquant quatre morts et l'un d'eux trois.",
+      "en": "Russian drones struck the village of Pukhivka, in the Brovary district near Kyiv, overnight on August 7-8, in what Ukrainian officials described as a double-tap strike. Most reports say a grandfather, grandmother and their 3-year-old grandson were killed, while the child's parents, teenage brother and a neighbor who came to help were wounded; around 10 homes and commercial buildings were damaged. Casualty figures vary slightly between outlets, with most reporting four dead and one reporting three.",
+      "es": "Drones rusos atacaron la localidad de Pujivka, en el distrito de Brovary, cerca de Kiev, en la noche del 7 al 8 de agosto, en lo que funcionarios ucranianos describieron como un ataque de «doble impacto». La mayoría de las fuentes señalan que murieron un abuelo, una abuela y su nieto de 3 años, mientras que los padres del niño, su hermano adolescente y un vecino que acudió a ayudar resultaron heridos; una decena de viviendas y locales comerciales sufrieron daños. Las cifras de víctimas varían ligeramente según el medio: la mayoría habla de cuatro muertos y uno de tres."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Les services d'urgence ukrainiens font état de la frappe et de son bilan à Poukhivka, la décrivant comme l'une des attaques les plus meurtrières récentes près de la capitale.",
+          "en": "Ukrainian emergency services report the strike and casualties in Pukhivka, describing it as one of the deadliest recent attacks near the capital.",
+          "es": "Los servicios de emergencia ucranianos informan del ataque y su balance en Pujivka, describiéndolo como uno de los ataques recientes más mortíferos cerca de la capital."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "russie-novorossiisk-frappe",
+    "coords": [
+      37.7684,
+      44.7239
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Moscow Times / Al Jazeera",
+    "place": {
+      "fr": "Novorossiisk, kraï de Krasnodar, Russie",
+      "en": "Novorossiysk, Krasnodar Krai, Russia",
+      "es": "Novorosíisk, krai de Krasnodar, Rusia"
+    },
+    "related": [
+      "ukraine-kyiv-frappes"
+    ],
+    "title": {
+      "fr": "L'Ukraine frappe le port et le terminal pétrolier russes de Novorossiisk",
+      "en": "Ukraine strikes Russia's Novorossiysk port and oil terminal",
+      "es": "Ucrania ataca el puerto y la terminal petrolera rusos de Novorosíisk"
+    },
+    "summary": {
+      "fr": "L'Ukraine a frappé dans la nuit du 11 au 12 août la base navale russe de Novorossiisk ainsi que des terminaux d'exportation de pétrole et de céréales sur la mer Noire, à l'aide de drones et de missiles. Les autorités russes ont affirmé avoir repoussé plusieurs centaines de drones et fait état de trois morts et d'une vingtaine de blessés, tandis que des responsables ukrainiens ont confirmé des impacts sur le terminal pétrolier de Sheskharis et des installations céréalières ; deux terminaux céréaliers ont été mis à l'arrêt, et l'attaque a brièvement fait grimper les cours du blé. Les bilans humains et matériels proviennent des gouvernements respectifs et n'ont pas été vérifiés de manière indépendante.",
+      "en": "Ukraine struck Russia's Novorossiysk naval base and Black Sea oil and grain export terminals with drones, missiles and naval drones overnight on August 11-12. Russian officials said several hundred drones were repelled and reported three people killed and about 24 wounded, while Ukrainian officials confirmed hits on the Sheskharis oil terminal and grain facilities; two grain terminals were halted, and the attack briefly pushed wheat futures higher. Casualty and damage figures come from the respective governments and have not been independently verified.",
+      "es": "Ucrania atacó en la noche del 11 al 12 de agosto la base naval rusa de Novorosíisk y varias terminales de exportación de petróleo y grano en el mar Negro, con drones y misiles. Las autoridades rusas afirmaron haber repelido varios cientos de drones y reportaron tres muertos y unos 24 heridos, mientras que funcionarios ucranianos confirmaron impactos en la terminal petrolera de Sheskharis e instalaciones graneleras; dos terminales de grano quedaron paralizadas, y el ataque hizo subir brevemente los futuros del trigo. Las cifras de víctimas y daños provienen de los respectivos gobiernos y no han sido verificadas de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités russes et ukrainiennes donnent des versions divergentes de l'ampleur de l'attaque et de son impact sur les infrastructures portuaires de Novorossiisk.",
+          "en": "Russian and Ukrainian officials give differing accounts of the scale of the attack and its impact on Novorossiysk's port infrastructure.",
+          "es": "Las autoridades rusas y ucranianas ofrecen versiones distintas sobre la magnitud del ataque y su impacto en la infraestructura portuaria de Novorosíisk."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "france-psg-supercoupe",
+    "coords": [
+      13.055,
+      47.8095
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏆",
+    "source": "ESPN / Al Jazeera",
+    "place": {
+      "fr": "Salzbourg, Autriche",
+      "en": "Salzburg, Austria",
+      "es": "Salzburgo, Austria"
+    },
+    "title": {
+      "fr": "Le PSG remporte sa deuxième Supercoupe d'Europe consécutive face à Aston Villa (2-1)",
+      "en": "PSG wins second straight UEFA Super Cup, beating Aston Villa 2-1",
+      "es": "El PSG gana su segunda Supercopa de Europa consecutiva ante el Aston Villa (2-1)"
+    },
+    "summary": {
+      "fr": "Le Paris Saint-Germain a remporté la Supercoupe d'Europe 2026 face à Aston Villa (2-1) à Salzbourg, en Autriche, le 12 août. Khvicha Kvaratskhelia a ouvert le score à la 20e minute, Brian Madjo a égalisé pour Aston Villa, avant que Désiré Doué n'inscrive le but de la victoire, offrant au club parisien son deuxième titre consécutif en Supercoupe d'Europe.",
+      "en": "Paris Saint-Germain won the 2026 UEFA Super Cup 2-1 against Aston Villa in Salzburg, Austria, on August 12. Khvicha Kvaratskhelia opened the scoring in the 20th minute, Aston Villa's Brian Madjo equalized, and Désiré Doué scored the winner, giving the French club its second consecutive UEFA Super Cup title.",
+      "es": "El Paris Saint-Germain ganó la Supercopa de Europa 2026 al Aston Villa por 2-1 en Salzburgo, Austria, el 12 de agosto. Khvicha Kvaratskhelia abrió el marcador en el minuto 20, Brian Madjo empató para el Aston Villa, y Désiré Doué anotó el gol de la victoria, dando al club parisino su segundo título consecutivo de la Supercopa de Europa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le PSG s'assure le trophée grâce au but décisif de Doué, signant un doublé consécutif en Supercoupe d'Europe.",
+          "en": "PSG secures the trophy with Doué's decisive goal, completing back-to-back UEFA Super Cup wins.",
+          "es": "El PSG se asegura el trofeo gracias al gol decisivo de Doué, logrando su segundo título consecutivo de la Supercopa de Europa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "canada-bald-range-incendie",
+    "coords": [
+      -119.6532,
+      49.6011
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / The Globe and Mail",
+    "place": {
+      "fr": "Summerland, région de l'Okanagan, Colombie-Britannique, Canada",
+      "en": "Summerland, Okanagan region, British Columbia, Canada",
+      "es": "Summerland, región de Okanagan, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "L'incendie de Bald Range provoque l'état d'urgence en Colombie-Britannique, un mort à déplorer",
+      "en": "Bald Range wildfire prompts BC state of emergency, one death reported",
+      "es": "El incendio de Bald Range provoca el estado de emergencia en Columbia Británica; se reporta una muerte"
+    },
+    "summary": {
+      "fr": "L'incendie de Bald Range, près de Summerland, dans la région de l'Okanagan en Colombie-Britannique, est passé d'environ 5 000 à 13 600 hectares en quelques jours après s'être déclaré le 7 août, avec un comportement de feu extrême. Une femme de 80 ans est décédée alors qu'elle tentait d'évacuer le secteur de Meadow Valley avec sa famille ; la police enquête pour établir un lien entre sa mort et l'incendie. La totalité de la ville de Summerland, environ 12 000 habitants, a été évacuée, et environ 22 000 personnes étaient visées par un ordre d'évacuation dans l'Okanagan, ce qui a conduit le premier ministre de Colombie-Britannique, David Eby, à décréter l'état d'urgence provincial le 8 août.",
+      "en": "The Bald Range wildfire near Summerland, in British Columbia's Okanagan region, grew from about 5,000 to 13,600 hectares within days of igniting on August 7, showing extreme fire behavior. An 80-year-old woman died while trying to evacuate the Meadow Valley area with her family; police are investigating her death as linked to the fire. The entire town of Summerland, about 12,000 people, was evacuated, with roughly 22,000 people under evacuation order across the Okanagan, prompting BC Premier David Eby to declare a provincial state of emergency on August 8.",
+      "es": "El incendio de Bald Range, cerca de Summerland, en la región de Okanagan, en Columbia Británica, pasó de unas 5.000 a 13.600 hectáreas en pocos días tras iniciarse el 7 de agosto, con un comportamiento de fuego extremo. Una mujer de 80 años murió mientras intentaba evacuar la zona de Meadow Valley junto a su familia; la policía investiga si su muerte está vinculada al incendio. Toda la localidad de Summerland, unos 12.000 habitantes, fue evacuada, y unas 22.000 personas estaban bajo orden de evacuación en Okanagan, lo que llevó al primer ministro de Columbia Británica, David Eby, a declarar el estado de emergencia provincial el 8 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Le premier ministre de Colombie-Britannique, David Eby, décrète l'état d'urgence provincial alors que la croissance extrême de l'incendie force des évacuations massives dans toute la région de l'Okanagan.",
+          "en": "BC Premier David Eby declares a provincial state of emergency as the fire's extreme growth forces mass evacuations across the Okanagan region.",
+          "es": "El primer ministro de Columbia Británica, David Eby, declara el estado de emergencia provincial mientras el crecimiento extremo del incendio obliga a evacuaciones masivas en toda la región de Okanagan."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "mexique-ayotzinapa-aguirre",
+    "coords": [
+      -99.7667,
+      19.3667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Washington Post / Proceso",
+    "place": {
+      "fr": "Almoloya de Juárez, État de Mexico",
+      "en": "Almoloya de Juárez, State of Mexico",
+      "es": "Almoloya de Juárez, Estado de México"
+    },
+    "title": {
+      "fr": "L'ex-gouverneur du Guerrero renvoyé en procès dans l'affaire Ayotzinapa",
+      "en": "Former Guerrero governor ordered to stand trial in Ayotzinapa case",
+      "es": "El exgobernador de Guerrero es vinculado a proceso en el caso Ayotzinapa"
+    },
+    "summary": {
+      "fr": "L'ex-gouverneur du Guerrero, Ángel Aguirre Rivero, à la tête de l'État de 2011 à 2014, a été renvoyé en procès le 12 août pour disparition forcée et dissimulation de preuves dans l'affaire de la disparition, en 2014, de 43 étudiants de l'école normale d'Ayotzinapa, à Iguala. Le parquet général mexicain l'accuse d'avoir ordonné la dissimulation ou la destruction d'images de vidéosurveillance du bus dans lequel se trouvaient les étudiants lorsqu'ils ont été interceptés par la police. Arrêté le 6 août, Aguirre restera en détention provisoire à la prison fédérale de l'Altiplano pendant une enquête complémentaire de quatre mois.",
+      "en": "Former Guerrero governor Ángel Aguirre Rivero, who led the state from 2011 to 2014, was ordered to stand trial on August 12 for forced disappearance and concealment of evidence in the 2014 disappearance of 43 students from the Ayotzinapa teachers' college in Iguala. Mexico's Attorney General's Office alleges he ordered the concealment or destruction of security footage of the bus the students were traveling on when stopped by police. Aguirre, arrested on August 6, will remain in preventive custody at the Altiplano federal prison during a four-month investigation period.",
+      "es": "El exgobernador de Guerrero Ángel Aguirre Rivero, quien encabezó el estado de 2011 a 2014, fue vinculado a proceso el 12 de agosto por desaparición forzada y ocultamiento de pruebas en el caso de la desaparición, en 2014, de 43 estudiantes de la Normal Rural de Ayotzinapa, en Iguala. La Fiscalía General de la República señala que ordenó ocultar o destruir imágenes de videovigilancia del autobús en el que viajaban los estudiantes cuando fueron interceptados por la policía. Aguirre, detenido el 6 de agosto, permanecerá en prisión preventiva en el penal federal del Altiplano durante una investigación complementaria de cuatro meses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Un juge du Centre fédéral de justice pénale renvoie formellement Aguirre en procès à l'issue d'une audience d'environ 14 heures.",
+          "en": "A judge at the Federal Penal Justice Center formally binds Aguirre over for trial after a roughly 14-hour hearing.",
+          "es": "Un juez del Centro Federal de Justicia Penal vincula formalmente a proceso a Aguirre tras una audiencia de unas 14 horas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "bresil-marches-chute",
+    "coords": [
+      -46.6333,
+      -23.5505
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Rio Times",
+    "place": {
+      "fr": "São Paulo, Brésil",
+      "en": "São Paulo, Brazil",
+      "es": "São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "Les marchés brésiliens chutent, sur fond d'inquiétudes électorales et budgétaires",
+      "en": "Brazilian markets tumble on election and fiscal anxiety",
+      "es": "Los mercados brasileños caen por la incertidumbre electoral y fiscal"
+    },
+    "summary": {
+      "fr": "Les actifs brésiliens ont fortement chuté le 11 août, l'indice boursier Ibovespa reculant d'environ 2,5 % pour clôturer près de 167 875 points, tandis que le real perdait environ 1 % face au dollar. Cette dégringolade fait suite à une inquiétude croissante des investisseurs concernant l'élection présidentielle d'octobre, Tarcísio de Freitas et Flávio Bolsonaro se profilant comme challengers du président Lula, aggravée par de nouvelles mises en garde de banques internationales sur la fragilité budgétaire du Brésil, quelques jours après que la banque centrale a abaissé son taux directeur à 14 %, une quatrième baisse consécutive.",
+      "en": "Brazilian assets sold off sharply on August 11, with the Ibovespa stock index falling about 2.5% to close near 167,875 points and the real weakening roughly 1% against the dollar. The rout followed growing investor anxiety over October's presidential election, with Tarcísio de Freitas and Flávio Bolsonaro emerging as challengers to President Lula, compounded by fresh warnings from international banks over Brazil's fiscal fragility, days after the central bank cut its benchmark interest rate to 14% in its fourth consecutive cut.",
+      "es": "Los activos brasileños se desplomaron con fuerza el 11 de agosto, con el índice bursátil Ibovespa cayendo cerca de un 2,5% hasta cerrar en torno a los 167.875 puntos, mientras el real se depreciaba aproximadamente un 1% frente al dólar. La caída se produjo tras una creciente inquietud de los inversores por las elecciones presidenciales de octubre, con Tarcísio de Freitas y Flávio Bolsonaro perfilándose como retadores del presidente Lula, agravada por nuevas advertencias de bancos internacionales sobre la fragilidad fiscal de Brasil, días después de que el banco central redujera su tasa de referencia al 14%, en un cuarto recorte consecutivo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "L'Ibovespa et le real s'affaiblissent tous deux fortement en une seule séance, à mesure que les inquiétudes politiques et budgétaires s'intensifient avant l'élection.",
+          "en": "The Ibovespa and the real both weaken sharply in a single session as political and fiscal concerns mount ahead of the election.",
+          "es": "El Ibovespa y el real se debilitan bruscamente en una sola sesión, en medio de una creciente preocupación política y fiscal de cara a las elecciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-chicago-fusillade",
+    "coords": [
+      -87.7714,
+      41.7908
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ABC News / Chicago Sun-Times",
+    "place": {
+      "fr": "Garfield Ridge, Chicago, Illinois, États-Unis",
+      "en": "Garfield Ridge, Chicago, Illinois, United States",
+      "es": "Garfield Ridge, Chicago, Illinois, Estados Unidos"
+    },
+    "title": {
+      "fr": "Deux agents d'entretien retrouvés morts par balle dans une école élémentaire de Chicago",
+      "en": "Two school custodians found shot dead at Chicago elementary school",
+      "es": "Hallan a dos conserjes muertos por disparos en una escuela primaria de Chicago"
+    },
+    "summary": {
+      "fr": "Deux agents d'entretien de l'école élémentaire Mark Twain, dans le quartier de Garfield Ridge à Chicago, un homme de 63 ans et une femme de 48 ans, ont été retrouvés morts par balle à l'intérieur du bâtiment le 10 août. Selon la police, l'agent, contrarié par une mutation professionnelle imminente, aurait tué sa collègue avant de se suicider ; une arme a été retrouvée sur place. Aucun élève ne se trouvait dans le bâtiment au moment des faits.",
+      "en": "Two custodians at Mark Twain Elementary School in Chicago's Garfield Ridge neighborhood, a 63-year-old man and a 48-year-old woman, were found shot dead inside the building on August 10. Police say the male custodian, reportedly upset about an impending job relocation, shot the woman and then killed himself; a weapon was recovered at the scene. No students were present in the building at the time.",
+      "es": "Dos conserjes de la escuela primaria Mark Twain, en el barrio de Garfield Ridge, en Chicago, un hombre de 63 años y una mujer de 48, fueron hallados muertos por disparos dentro del edificio el 10 de agosto. La policía indica que el conserje, presuntamente disgustado por un traslado laboral inminente, disparó contra la mujer y luego se quitó la vida; se recuperó un arma en el lugar. Ningún alumno se encontraba en el edificio en el momento de los hechos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "La police de Chicago confirme qu'il s'agit d'un meurtre suivi d'un suicide impliquant les deux agents d'entretien, aucun élève n'étant présent dans les locaux à ce moment-là.",
+          "en": "Chicago police confirm the deaths were a murder-suicide involving the two custodians, with no students on the premises at the time.",
+          "es": "La policía de Chicago confirma que se trató de un homicidio seguido de suicidio entre los dos conserjes, sin alumnos presentes en el recinto en ese momento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-zamfara-otages",
+    "coords": [
+      6.45,
+      12.1833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Vanguard / Daily Post Nigeria",
+    "place": {
+      "fr": "Tsafe, État de Zamfara, Nigeria",
+      "en": "Tsafe, Zamfara State, Nigeria",
+      "es": "Tsafe, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "L'armée nigériane libère 33 passagers enlevés dans l'État de Zamfara",
+      "en": "Nigerian army rescues 33 kidnapped passengers in Zamfara State",
+      "es": "El ejército nigeriano rescata a 33 pasajeros secuestrados en el estado de Zamfara"
+    },
+    "summary": {
+      "fr": "Des soldats de l'armée nigériane basés à Tsafe, dans l'État de Zamfara, ont libéré le 8 août 33 passagers enlevés par des hommes armés alors qu'ils traversaient le village de Magazu. Agissant sur renseignement, les troupes ont engagé le combat contre les assaillants, qui ont pris la fuite en abandonnant leurs otages ; les 33 personnes ont été retrouvées saines et sauves.",
+      "en": "Nigerian army troops from a forward operating base in Tsafe local government area, Zamfara State, rescued 33 passengers who had been abducted by armed men while traveling through Magazu village on August 8. Acting on intelligence tips, troops engaged the attackers, who fled and abandoned their captives; all 33 people were recovered without casualties.",
+      "es": "Soldados del ejército nigeriano desplegados en Tsafe, estado de Zamfara, rescataron el 8 de agosto a 33 pasajeros secuestrados por hombres armados mientras cruzaban la aldea de Magazu. Actuando sobre aviso de inteligencia, las tropas se enfrentaron a los atacantes, que huyeron abandonando a los rehenes; las 33 personas fueron recuperadas sin víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "Les troupes de la base avancée de Tsafe interceptent les ravisseurs et libèrent les 33 otages à l'issue d'un accrochage armé.",
+          "en": "Troops from the Tsafe forward operating base intercept the kidnappers and free all 33 captives following an armed engagement.",
+          "es": "Las tropas de la base avanzada de Tsafe interceptan a los secuestradores y liberan a los 33 rehenes tras un enfrentamiento armado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "id": "egypte-golfe-suez-seisme",
+    "coords": [
+      32.6,
+      30.2
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "The National / Times of Israel",
+    "place": {
+      "fr": "Golfe de Suez, à environ 40 km au nord de Suez, Égypte",
+      "en": "Gulf of Suez, about 40 km north of Suez, Egypt",
+      "es": "Golfo de Suez, a unos 40 km al norte de Suez, Egipto"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,5 dans le golfe de Suez ressenti dans toute la région",
+      "en": "Magnitude 5.5 earthquake in Gulf of Suez felt across the region",
+      "es": "Un terremoto de magnitud 5,5 en el golfo de Suez se siente en toda la región"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 5,5 selon l'Institut national de recherche astronomique et géophysique égyptien (5,3 selon l'USGS) a frappé le golfe de Suez, à environ 40 km au nord de la ville de Suez, vers 3h00 du matin le 3 août. Il a été ressenti au Caire, à Alexandrie, dans le delta du Nil et dans le Sinaï, et aurait également été perçu jusqu'à Gaza, en Jordanie, au Liban et dans certaines régions d'Israël. Le ministère égyptien de la Santé a fait état d'un blessé léger et d'un balcon effondré près de l'épicentre ; certains médias n'ont signalé aucune victime.",
+      "en": "An earthquake measured at magnitude 5.5 by Egypt's National Research Institute of Astronomy and Geophysics (5.3 by the USGS) struck the Gulf of Suez, about 40 km north of Suez city, at around 3:00 a.m. on August 3. It was felt across Cairo, Alexandria, the Nile Delta and Sinai, and reportedly as far as Gaza, Jordan, Lebanon and parts of Israel. Egypt's health ministry reported one minor injury and a collapsed balcony near the epicenter; some outlets reported no casualties at all.",
+      "es": "Un terremoto de magnitud 5,5 según el Instituto Nacional egipcio de Investigación Astronómica y Geofísica (5,3 según el USGS) sacudió el golfo de Suez, a unos 40 km al norte de la ciudad de Suez, hacia las 3:00 de la madrugada del 3 de agosto. Se sintió en El Cairo, Alejandría, el delta del Nilo y el Sinaí, y presuntamente también en Gaza, Jordania, Líbano y algunas zonas de Israel. El ministerio de Salud egipcio informó de un herido leve y el derrumbe de un balcón cerca del epicentro; algunos medios no reportaron víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/08/2026",
+          "en": "03/08/2026",
+          "es": "03/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités égyptiennes font état de dégâts minimes malgré un séisme ressenti dans plusieurs pays de la région.",
+          "en": "Egyptian authorities report minimal damage despite the quake being felt across several countries in the region.",
+          "es": "Las autoridades egipcias informan de daños mínimos pese a que el sismo se sintió en varios países de la región."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
   }
 ]
