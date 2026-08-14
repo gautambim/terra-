@@ -829,5 +829,1126 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -86.7816,
+      36.1627
+    ],
+    "id": "triple-execution-day-us",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "💉",
+    "source": "AP / CNN / NPR / Tennessee Department of Correction",
+    "place": {
+      "fr": "Nashville, Tennessee (avec l'Oklahoma et l'Alabama), États-Unis",
+      "en": "Nashville, Tennessee (with Oklahoma and Alabama), United States",
+      "es": "Nashville, Tennessee (con Oklahoma y Alabama), Estados Unidos"
+    },
+    "title": {
+      "fr": "Trois États américains exécutent des condamnés le même jour, une première depuis 2010",
+      "en": "Three US states carry out executions on the same day, a first since 2010",
+      "es": "Tres estados de EE. UU. ejecutan a reos el mismo día, algo inédito desde 2010"
+    },
+    "summary": {
+      "fr": "Le Tennessee et l'Oklahoma ont exécuté des condamnés à moins de 30 minutes d'intervalle le 13 août, suivis par l'Alabama dans la soirée, une convergence inédite depuis 2010, selon CNN et NPR. Anthony Darrell Hines a été exécuté par injection létale à la prison de Riverbend à Nashville pour un meurtre commis en 1985 ; Carlos Cuesta-Rodriguez a été exécuté en Oklahoma pour le meurtre de sa compagne en 2003, et Jeremy Williams a été mis à mort en Alabama pour le meurtre d'une fillette de 5 ans.",
+      "en": "Tennessee and Oklahoma executed inmates within 30 minutes of each other on August 13, followed by Alabama that evening, a coincidence of scheduling not seen since 2010, according to CNN and NPR. Anthony Darrell Hines was put to death by lethal injection at Riverbend Maximum Security Institution in Nashville for a 1985 murder; Carlos Cuesta-Rodriguez was executed in Oklahoma for killing his girlfriend in 2003; and Jeremy Williams was executed in Alabama for the murder of a 5-year-old girl.",
+      "es": "Tennessee y Oklahoma ejecutaron a sendos reos con apenas 30 minutos de diferencia el 13 de agosto, seguidos por Alabama esa misma noche, una coincidencia de calendario inédita desde 2010, según CNN y NPR. Anthony Darrell Hines fue ejecutado por inyección letal en la prisión de Riverbend, en Nashville, por un asesinato cometido en 1985; Carlos Cuesta-Rodriguez fue ejecutado en Oklahoma por matar a su pareja en 2003; y Jeremy Williams fue ejecutado en Alabama por el asesinato de una niña de 5 años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Carlos Cuesta-Rodriguez exécuté en Oklahoma (10h13, heure locale)",
+          "en": "Carlos Cuesta-Rodriguez executed in Oklahoma (10:13 a.m. local time)",
+          "es": "Carlos Cuesta-Rodriguez es ejecutado en Oklahoma (10:13 a.m., hora local)"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Anthony Darrell Hines exécuté à Nashville (10h43, heure locale)",
+          "en": "Anthony Darrell Hines executed in Nashville (10:43 a.m. local time)",
+          "es": "Anthony Darrell Hines es ejecutado en Nashville (10:43 a.m., hora local)"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Jeremy Williams exécuté en Alabama dans la soirée",
+          "en": "Jeremy Williams executed in Alabama that evening",
+          "es": "Jeremy Williams es ejecutado en Alabama esa noche"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -89.0334,
+      50.2999
+    ],
+    "id": "ontario-wildfires-evacuations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News",
+    "place": {
+      "fr": "Nord-ouest de l'Ontario (région d'Armstrong et de Thunder Bay), Canada",
+      "en": "Northwestern Ontario (Armstrong / Thunder Bay area), Canada",
+      "es": "Noroeste de Ontario (zona de Armstrong y Thunder Bay), Canadá"
+    },
+    "title": {
+      "fr": "Des feux de forêt provoquent des évacuations massives dans le nord-ouest de l'Ontario",
+      "en": "Wildfires force mass evacuations across northwestern Ontario",
+      "es": "Incendios forestales provocan evacuaciones masivas en el noroeste de Ontario"
+    },
+    "summary": {
+      "fr": "Des ordres d'évacuation obligatoire ont été émis pour plusieurs communautés au nord de Thunder Bay, dont Armstrong et les Premières Nations de Whitesand, Namaygoosisagagun et Lac La Croix, selon CBC News. Un incendie s'est propagé si vite qu'il a détruit des maisons à Namaygoosisagagun en moins d'une heure ; près de 200 feux brûlent actuellement en Ontario, dont plus de 60 hors de contrôle, dans le cadre d'une saison des feux exceptionnellement intense au Canada.",
+      "en": "Mandatory evacuation orders have been issued for several communities north of Thunder Bay, including Armstrong and the Whitesand, Namaygoosisagagun and Lac La Croix First Nations, according to CBC News. One fast-moving fire destroyed homes in Namaygoosisagagun in under an hour; nearly 200 wildfires are currently burning across Ontario, more than 60 of them out of control, amid an exceptionally intense wildfire season across Canada.",
+      "es": "Se han emitido órdenes de evacuación obligatoria para varias comunidades al norte de Thunder Bay, incluidas Armstrong y las Primeras Naciones de Whitesand, Namaygoosisagagun y Lac La Croix, según CBC News. Un incendio de rápido avance destruyó viviendas en Namaygoosisagagun en menos de una hora; cerca de 200 incendios arden actualmente en Ontario, más de 60 de ellos fuera de control, en medio de una temporada de incendios excepcionalmente intensa en Canadá."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "début août 2026",
+          "en": "early August 2026",
+          "es": "principios de agosto de 2026"
+        },
+        "d": {
+          "fr": "Multiplication des feux de forêt et premiers ordres d'évacuation",
+          "en": "Wildfires multiply and initial evacuation orders are issued",
+          "es": "Se multiplican los incendios y se emiten las primeras órdenes de evacuación"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "CBC rapporte la destruction de bâtiments à Namaygoosisagagun et l'ampleur des évacuations",
+          "en": "CBC reports on destroyed buildings in Namaygoosisagagun and the scale of evacuations",
+          "es": "CBC informa sobre edificios destruidos en Namaygoosisagagun y la magnitud de las evacuaciones"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "id": "canada-jobs-report-july-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Statistique Canada / CBC News / BNN Bloomberg",
+    "place": {
+      "fr": "Canada (données nationales, Ottawa)",
+      "en": "Canada (national data, Ottawa)",
+      "es": "Canadá (datos nacionales, Ottawa)"
+    },
+    "title": {
+      "fr": "Le Canada crée 75 000 emplois en juillet, le chômage au plus bas depuis deux ans",
+      "en": "Canada adds 75,000 jobs in July as unemployment falls to two-year low",
+      "es": "Canadá crea 75.000 empleos en julio y el desempleo cae a su mínimo en dos años"
+    },
+    "summary": {
+      "fr": "Statistique Canada a annoncé le 7 août que l'économie canadienne avait créé 75 100 emplois en juillet, bien au-delà des prévisions, faisant reculer le taux de chômage à 6,4 %, son plus bas niveau depuis 2024. Les gains ont été portés par le commerce de gros et de détail, la finance, les services professionnels et la construction, tandis que la croissance des salaires a ralenti à 2,8 % sur un an, selon CBC News.",
+      "en": "Statistics Canada announced on August 7 that the economy added 75,100 jobs in July, far exceeding forecasts, pushing the unemployment rate down to 6.4%, its lowest level since 2024. Gains were led by wholesale and retail trade, finance, professional services and construction, while wage growth slowed to 2.8% year over year, according to CBC News.",
+      "es": "Statistics Canada anunció el 7 de agosto que la economía sumó 75.100 empleos en julio, muy por encima de lo previsto, lo que llevó la tasa de desempleo a 6,4%, su nivel más bajo desde 2024. Las ganancias fueron impulsadas por el comercio mayorista y minorista, las finanzas, los servicios profesionales y la construcción, mientras que el crecimiento salarial se desaceleró a 2,8% interanual, según CBC News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/08/2026",
+          "en": "07/08/2026",
+          "es": "07/08/2026"
+        },
+        "d": {
+          "fr": "Statistique Canada publie l'Enquête sur la population active de juillet",
+          "en": "Statistics Canada releases the July Labour Force Survey",
+          "es": "Statistics Canada publica la Encuesta de Población Activa de julio"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -108.986,
+      25.7796
+    ],
+    "id": "los-mochis-church-shooting",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Infobae / El Universal / La Silla Rota / ACI Prensa",
+    "place": {
+      "fr": "Los Mochis, Sinaloa, Mexique",
+      "en": "Los Mochis, Sinaloa, Mexico",
+      "es": "Los Mochis, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Une fusillade éclate près d'une église pendant la messe dominicale à Los Mochis",
+      "en": "Gunfight erupts near church during Sunday Mass in Los Mochis",
+      "es": "Un tiroteo estalla cerca de una iglesia durante la misa dominical en Los Mochis"
+    },
+    "summary": {
+      "fr": "Selon plusieurs médias mexicains, un échange de tirs entre des civils armés et des membres de la Garde nationale a éclaté le dimanche 9 août à la fin de la messe de 19h à la paroisse Notre-Dame-de-Fátima, à Los Mochis (municipalité d'Ahome). Le prêtre a demandé aux fidèles de rester à l'intérieur ; huit personnes ont été arrêtées, dont quatre blessées, et placées en détention provisoire. L'incident s'inscrit dans une opération de sécurité plus large qui a conduit à 52 arrestations dans six municipalités du Sinaloa entre le 7 et le 9 août, selon La Silla Rota.",
+      "en": "According to several Mexican outlets, a shootout between armed civilians and National Guard troops broke out on Sunday, August 9, as the 7 p.m. Mass was ending at the Nuestra Señora de Fátima parish in Los Mochis (Ahome municipality). The priest asked worshippers to stay inside; eight people were arrested, four of them injured, and later ordered held in pretrial detention. The incident occurred amid a broader security operation that led to 52 arrests across six Sinaloa municipalities between August 7 and 9, according to La Silla Rota.",
+      "es": "Según varios medios mexicanos, un enfrentamiento armado entre civiles y elementos de la Guardia Nacional estalló el domingo 9 de agosto al término de la misa de las 7 p.m. en la parroquia de Nuestra Señora de Fátima, en Los Mochis (municipio de Ahome). El sacerdote pidió a los feligreses permanecer dentro del templo; ocho personas fueron detenidas, cuatro de ellas lesionadas, y posteriormente vinculadas a proceso con prisión preventiva. El hecho ocurrió en medio de un operativo de seguridad más amplio que dejó 52 detenidos en seis municipios de Sinaloa entre el 7 y el 9 de agosto, según La Silla Rota."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07-09/08/2026",
+          "en": "08/07-09/2026",
+          "es": "07-09/08/2026"
+        },
+        "d": {
+          "fr": "Opération de sécurité au Sinaloa : 52 personnes arrêtées dans six municipalités",
+          "en": "Security operation across Sinaloa: 52 people arrested in six municipalities",
+          "es": "Operativo de seguridad en Sinaloa: 52 personas detenidas en seis municipios"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Fusillade près de l'église de Fátima à Los Mochis pendant la messe",
+          "en": "Shooting near the Fátima church in Los Mochis during Mass",
+          "es": "Tiroteo cerca de la iglesia de Fátima en Los Mochis durante la misa"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Les huit détenus sont placés en détention provisoire par un juge",
+          "en": "The eight detainees are ordered into pretrial detention by a judge",
+          "es": "Un juez ordena la prisión preventiva para los ocho detenidos"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "id": "iran-executions-joint-statement",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "GOV.UK / Reuters / RTE / The New Arab / Iran Human Rights Monitor",
+    "place": {
+      "fr": "Téhéran, Iran",
+      "en": "Tehran, Iran",
+      "es": "Teherán, Irán"
+    },
+    "title": {
+      "fr": "Plus de 30 pays condamnent la vague d'exécutions en Iran",
+      "en": "More than 30 nations condemn Iran's wave of executions",
+      "es": "Más de 30 países condenan la ola de ejecuciones en Irán"
+    },
+    "summary": {
+      "fr": "Plus de 30 pays, dont la France, le Royaume-Uni et le Canada, ainsi que la cheffe de la diplomatie européenne Kaja Kallas, ont publié le 13 août une déclaration conjointe condamnant l'usage de la peine de mort par l'Iran pour réprimer la dissidence. Selon l'ONU, au moins 56 personnes ont été exécutées pour des chefs d'accusation liés à la sécurité nationale depuis le 19 mars, dont 27 en lien avec les manifestations de début d'année. Le ministre iranien des Affaires étrangères a rejeté ces critiques.",
+      "en": "More than 30 countries, including France, Britain and Canada, along with EU foreign policy chief Kaja Kallas, issued a joint statement on August 13 condemning Iran's use of the death penalty to suppress dissent. According to the United Nations, at least 56 people have been executed on national security-related charges since March 19, including 27 linked to protests earlier this year. Iran's foreign minister dismissed the criticism.",
+      "es": "Más de 30 países, entre ellos Francia, Reino Unido y Canadá, junto con la jefa de la diplomacia europea Kaja Kallas, emitieron el 13 de agosto una declaración conjunta condenando el uso de la pena de muerte por parte de Irán para reprimir la disidencia. Según la ONU, al menos 56 personas han sido ejecutadas por cargos relacionados con la seguridad nacional desde el 19 de marzo, 27 de ellas vinculadas a las protestas de principios de año. El ministro de Exteriores iraní rechazó las críticas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/03/2026",
+          "en": "19/03/2026",
+          "es": "19/03/2026"
+        },
+        "d": {
+          "fr": "Début de la période durant laquelle l'ONU a recensé au moins 56 exécutions liées à des accusations de sécurité nationale",
+          "en": "Start of the period in which the UN documented at least 56 executions on national security charges",
+          "es": "Inicio del periodo en que la ONU documentó al menos 56 ejecuciones por cargos de seguridad nacional"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Plus de 30 pays et l'UE publient une déclaration conjointe condamnant les exécutions",
+          "en": "More than 30 countries and the EU issue a joint statement condemning the executions",
+          "es": "Más de 30 países y la UE publican una declaración conjunta condenando las ejecuciones"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      35.33,
+      32.0853
+    ],
+    "id": "qusra-settler-siege-west-bank",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Al Jazeera / The Times of Israel / CNN / UN News",
+    "place": {
+      "fr": "Qusra, Cisjordanie",
+      "en": "Qusra, West Bank",
+      "es": "Qusra, Cisjordania"
+    },
+    "title": {
+      "fr": "Des familles palestiniennes assiégées dans leurs maisons près de Naplouse",
+      "en": "Palestinian families besieged in their homes near Nablus",
+      "es": "Familias palestinas asediadas en sus casas cerca de Nablus"
+    },
+    "summary": {
+      "fr": "Depuis dimanche, environ 15 personnes appartenant à trois familles palestiniennes du quartier de Ras al-Ein, dans le village de Qusra au sud de Naplouse, sont confinées chez elles, selon Al Jazeera et CNN, après que des colons israéliens ont bloqué les accès à leurs maisons et coupé l'électricité. Les résidents affirment que des colons leur ont lancé des pierres et se sont montrés menaçants ; l'armée israélienne est intervenue au moins une fois pour disperser les colons, qui seraient revenus par la suite. L'ONU a qualifié la situation de nouveau point bas dans les violences des colons en Cisjordanie occupée.",
+      "en": "Since Sunday, around 15 people from three Palestinian families in the Ras al-Ein area of Qusra village, south of Nablus, have been confined to their homes, according to Al Jazeera and CNN, after Israeli settlers blocked access to the properties and cut electricity lines. Residents say settlers threw stones and acted in a threatening manner; Israeli soldiers intervened at least once to disperse the settlers, who reportedly returned afterward. The UN described the situation as a new low in settler violence in the occupied West Bank.",
+      "es": "Desde el domingo, unas 15 personas de tres familias palestinas en la zona de Ras al-Ein, en el pueblo de Qusra, al sur de Nablus, permanecen confinadas en sus casas, según Al Jazeera y CNN, después de que colonos israelíes bloquearan los accesos a las viviendas y cortaran el suministro eléctrico. Los residentes afirman que los colonos les lanzaron piedras y actuaron de forma amenazante; soldados israelíes intervinieron al menos una vez para dispersar a los colonos, que según los residentes regresaron después. La ONU calificó la situación como un nuevo punto bajo en la violencia de los colonos en Cisjordania ocupada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Des colons bloquent les accès aux maisons de trois familles et coupent l'électricité",
+          "en": "Settlers block access to three families' homes and cut electricity",
+          "es": "Colonos bloquean el acceso a las casas de tres familias y cortan la electricidad"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le siège entre dans son quatrième jour ; l'ONU et les médias internationaux relaient la situation",
+          "en": "The siege enters its fourth day; the UN and international media report on the situation",
+          "es": "El asedio entra en su cuarto día; la ONU y los medios internacionales informan sobre la situación"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "id": "egypt-inflation-july-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CAPMAS / Reuters / Daily News Egypt",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'inflation urbaine égyptienne accélère à 14,9 % en juillet",
+      "en": "Egypt's urban inflation accelerates to 14.9% in July",
+      "es": "La inflación urbana de Egipto se acelera al 14,9 % en julio"
+    },
+    "summary": {
+      "fr": "L'inflation annuelle des prix à la consommation en zone urbaine a atteint 14,9 % en juillet, contre 14,3 % en juin, selon les chiffres publiés le 10 août par l'Agence centrale égyptienne de mobilisation publique et de statistiques (CAPMAS). Il s'agit de la première accélération depuis mars, portée notamment par une hausse de 31,1 % des prix du logement, de l'eau et de l'énergie, et de 21,1 % des prix des transports. L'inflation sous-jacente, suivie par la Banque centrale d'Égypte, a également progressé, à 14,7 %.",
+      "en": "Egypt's annual urban consumer price inflation rose to 14.9% in July, up from 14.3% in June, according to figures released on August 10 by the Central Agency for Public Mobilization and Statistics (CAPMAS). It marks the first acceleration since March, driven largely by a 31.1% year-on-year rise in housing, water and energy costs and a 21.1% increase in transport prices. Core inflation, tracked by the Central Bank of Egypt, also rose, to 14.7%.",
+      "es": "La inflación anual de precios al consumidor en zonas urbanas de Egipto subió al 14,9 % en julio, frente al 14,3 % de junio, según cifras publicadas el 10 de agosto por la Agencia Central de Movilización Pública y Estadística (CAPMAS). Se trata de la primera aceleración desde marzo, impulsada en gran parte por un alza interanual del 31,1 % en los costos de vivienda, agua y energía, y del 21,1 % en los precios del transporte. La inflación subyacente, medida por el Banco Central de Egipto, también aumentó, hasta el 14,7 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/06/2026",
+          "en": "30/06/2026",
+          "es": "30/06/2026"
+        },
+        "d": {
+          "fr": "L'inflation urbaine de juin s'établit à 14,3 %",
+          "en": "June urban inflation stands at 14.3%",
+          "es": "La inflación urbana de junio se sitúa en el 14,3 %"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "La CAPMAS publie les chiffres de juillet montrant une accélération à 14,9 %",
+          "en": "CAPMAS releases July figures showing an acceleration to 14.9%",
+          "es": "La CAPMAS publica los datos de julio que muestran una aceleración al 14,9 %"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      7.4914,
+      12.455
+    ],
+    "id": "nigeria-operation-clean-sweep-northwest",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "Punch Newspapers / Vanguard / Sahara Reporters",
+    "place": {
+      "fr": "Dutsinma, État de Katsina, Nigeria",
+      "en": "Dutsinma, Katsina State, Nigeria",
+      "es": "Dutsinma, estado de Katsina, Nigeria"
+    },
+    "title": {
+      "fr": "L'armée nigériane lance l'opération « Clean Sweep IV » contre des groupes armés dans le Nord-Ouest",
+      "en": "Nigerian army launches Operation Clean Sweep IV against armed groups in the North-West",
+      "es": "El ejército nigeriano lanza la Operación Clean Sweep IV contra grupos armados en el noroeste"
+    },
+    "summary": {
+      "fr": "L'armée nigériane a annoncé le 13 août le lancement de l'opération « Clean Sweep IV », une offensive terrestre et aérienne visant les réseaux terroristes et criminels des États du Nord-Ouest, notamment le groupe Lakurawa, selon Punch et Sahara Reporters. Des opérations de ratissage ont été menées près de Dutsinma, dans l'État de Katsina, tandis que des frappes aériennes ont visé des combattants présumés dans la zone d'Anka, dans l'État de Zamfara. Les autorités affirment vouloir empêcher ces groupes d'établir de nouvelles bases opérationnelles dans la région.",
+      "en": "Nigeria's military announced on August 13 the launch of 'Operation Clean Sweep IV,' a combined ground and air offensive targeting terrorist and criminal networks across North-West states, including the Lakurawa group, according to Punch and Sahara Reporters. Clearance operations were carried out near Dutsinma in Katsina State, while airstrikes targeted suspected fighters in the Anka area of Zamfara State. Authorities said the goal is to prevent the groups from establishing new operational bases in the region.",
+      "es": "El ejército de Nigeria anunció el 13 de agosto el inicio de la 'Operación Clean Sweep IV', una ofensiva terrestre y aérea combinada contra redes terroristas y criminales en los estados del noroeste, incluido el grupo Lakurawa, según Punch y Sahara Reporters. Se realizaron operaciones de despeje cerca de Dutsinma, en el estado de Katsina, mientras que ataques aéreos apuntaron a presuntos combatientes en la zona de Anka, en el estado de Zamfara. Las autoridades afirmaron que el objetivo es impedir que estos grupos establezcan nuevas bases operativas en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "L'armée annonce le lancement de l'opération Clean Sweep IV",
+          "en": "The army announces the launch of Operation Clean Sweep IV",
+          "es": "El ejército anuncia el inicio de la Operación Clean Sweep IV"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3,
+    "related": []
+  },
+  {
+    "coords": [
+      33.5225,
+      44.6054
+    ],
+    "id": "sevastopol-explosion-officer",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Euronews / The Moscow Times / Meduza",
+    "place": {
+      "fr": "Sébastopol, Crimée occupée",
+      "en": "Sevastopol, occupied Crimea",
+      "es": "Sebastopol, Crimea ocupada"
+    },
+    "title": {
+      "fr": "Un officier russe tué dans une explosion à Sébastopol",
+      "en": "Russian officer killed in explosion in Sevastopol",
+      "es": "Un oficial ruso muere en una explosión en Sebastopol"
+    },
+    "summary": {
+      "fr": "Un engin explosif dissimulé dans une poubelle a tué un militaire du ministère russe de la Défense le 13 août à Sébastopol, siège de la flotte russe de la mer Noire, selon les autorités russes. Une suspecte russe a été arrêtée, accusée d'avoir agi pour le compte des services spéciaux ukrainiens ; des informations non confirmées identifient la victime comme un ancien officier de la marine ukrainienne ayant fait défection vers la Russie en 2014.",
+      "en": "An explosive device hidden in a bin killed a Russian defense ministry serviceman on August 13 in Sevastopol, home port of Russia's Black Sea Fleet, Russian authorities said. A Russian woman was arrested on suspicion of acting on behalf of Ukrainian intelligence services; unconfirmed reports identified the victim as a former Ukrainian navy officer who had defected to Russia in 2014.",
+      "es": "Un artefacto explosivo escondido en un contenedor de basura mató a un militar del Ministerio de Defensa ruso el 13 de agosto en Sebastopol, sede de la Flota rusa del mar Negro, según las autoridades rusas. Una mujer rusa fue detenida, acusada de actuar por cuenta de los servicios de inteligencia ucranianos; informes no confirmados identifican a la víctima como un exoficial de la marina ucraniana que había desertado a Rusia en 2014."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Explosion mortelle à Sébastopol ; une suspecte est arrêtée par le FSB",
+          "en": "Fatal explosion in Sevastopol; a suspect is arrested by the FSB",
+          "es": "Explosión mortal en Sebastopol; el FSB detiene a una sospechosa"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "id": "germany-intelligence-reform",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🕵️",
+    "source": "Bloomberg / Reuters",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne élargit les pouvoirs de ses services de renseignement",
+      "en": "Germany expands powers of its intelligence services",
+      "es": "Alemania amplía los poderes de sus servicios de inteligencia"
+    },
+    "summary": {
+      "fr": "Le gouvernement du chancelier Friedrich Merz a approuvé le 12 août un projet de loi élargissant les pouvoirs du service de renseignement extérieur (BND) et de l'agence de protection de la Constitution pour contrer les menaces hybrides, y compris la possibilité, sous conditions, de pirater des réseaux étrangers hostiles. Le ministre de l'Intérieur Alexander Dobrindt a qualifié la réforme de « révolution » dans l'architecture sécuritaire allemande, invoquant des menaces croissantes venant de Russie et d'Iran.",
+      "en": "Chancellor Friedrich Merz's cabinet approved draft legislation on August 12 expanding the powers of Germany's foreign intelligence service (BND) and its domestic security agency to counter hybrid threats, including the ability, under certain conditions, to hack into hostile foreign networks. Interior Minister Alexander Dobrindt called the reform a \"revolution\" in Germany's security architecture, citing growing threats from Russia and Iran.",
+      "es": "El gabinete del canciller Friedrich Merz aprobó el 12 de agosto un proyecto de ley que amplía los poderes del servicio de inteligencia exterior (BND) y de la agencia de protección de la Constitución para contrarrestar amenazas híbridas, incluida la posibilidad, bajo ciertas condiciones, de piratear redes extranjeras hostiles. El ministro del Interior, Alexander Dobrindt, calificó la reforma de \"revolución\" en la arquitectura de seguridad alemana, citando amenazas crecientes procedentes de Rusia e Irán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le cabinet allemand approuve le projet de réforme des services de renseignement",
+          "en": "The German cabinet approves the intelligence services reform bill",
+          "es": "El gabinete alemán aprueba el proyecto de reforma de los servicios de inteligencia"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -0.717,
+      44.082
+    ],
+    "id": "france-landes-wildfire-luglon",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "AFP / Préfecture des Landes / La Gazette France",
+    "place": {
+      "fr": "Luglon, Landes, France",
+      "en": "Luglon, Landes, France",
+      "es": "Luglon, Landas, Francia"
+    },
+    "title": {
+      "fr": "Un incendie près de Luglon force l'évacuation de centaines d'habitants dans les Landes",
+      "en": "Wildfire near Luglon forces hundreds to evacuate in France's Landes region",
+      "es": "Un incendio cerca de Luglon obliga a evacuar a cientos de personas en las Landas francesas"
+    },
+    "summary": {
+      "fr": "Un incendie attisé par des vents changeants a brûlé environ 600 hectares de la forêt des Landes de Gascogne et forcé l'évacuation d'environ 500 personnes le jeudi 13 août, les flammes se rapprochant du village de Luglon. Les autorités locales ont ouvert un centre d'accueil dans la commune voisine de Sabres alors que Météo-France annonçait des températures atteignant 36°C.",
+      "en": "A wildfire fanned by shifting winds had burned about 600 hectares of the Landes de Gascogne forest and forced roughly 500 people to evacuate by Thursday, August 13, as flames advanced toward the village of Luglon. Local authorities opened a reception centre in the nearby town of Sabres as Météo-France forecast temperatures up to 36°C.",
+      "es": "Un incendio avivado por vientos cambiantes había quemado unas 600 hectáreas del bosque de las Landas de Gascuña y obligó a evacuar a unas 500 personas el jueves 13 de agosto, mientras las llamas avanzaban hacia el pueblo de Luglon. Las autoridades locales abrieron un centro de acogida en la vecina localidad de Sabres, mientras Météo-France pronosticaba temperaturas de hasta 36°C."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie atteint environ 600 hectares ; environ 500 personnes évacuées",
+          "en": "The fire reaches about 600 hectares; around 500 people evacuated",
+          "es": "El incendio alcanza unas 600 hectáreas; unas 500 personas evacuadas"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -1.90561,
+      52.53033
+    ],
+    "id": "uk-european-athletics-birmingham",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏃",
+    "source": "BBC Sport / Olympics.com",
+    "place": {
+      "fr": "Birmingham, Royaume-Uni",
+      "en": "Birmingham, United Kingdom",
+      "es": "Birmingham, Reino Unido"
+    },
+    "title": {
+      "fr": "Keely Hodgkinson conserve son titre européen du 800 m à domicile",
+      "en": "Keely Hodgkinson retains European 800m title on home soil",
+      "es": "Keely Hodgkinson revalida su título europeo de 800 m en casa"
+    },
+    "summary": {
+      "fr": "Les championnats d'Europe d'athlétisme se déroulent du 10 au 16 août à l'Alexander Stadium de Birmingham, une première pour une ville britannique, réunissant plus de 1 500 athlètes de plus de 50 fédérations. La Britannique Keely Hodgkinson a conservé son titre européen du 800 m malgré une maladie, selon la BBC, l'un des temps forts d'une compétition qui voit aussi Armand Duplantis et Jakob Ingebrigtsen en action.",
+      "en": "The European Athletics Championships are being held from 10 to 16 August at Birmingham's Alexander Stadium, the first time a British city has hosted the event, bringing together more than 1,500 athletes from over 50 federations. Home favourite Keely Hodgkinson retained her European 800m title despite illness, the BBC reported, one of the highlights of a meet that also features Armand Duplantis and Jakob Ingebrigtsen.",
+      "es": "Los Campeonatos de Europa de atletismo se celebran del 10 al 16 de agosto en el Alexander Stadium de Birmingham, la primera vez que una ciudad británica acoge el evento, reuniendo a más de 1.500 atletas de más de 50 federaciones. La local Keely Hodgkinson revalidó su título europeo de 800 m pese a una enfermedad, según la BBC, uno de los momentos destacados de una cita que también cuenta con Armand Duplantis y Jakob Ingebrigtsen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Ouverture des championnats d'Europe d'athlétisme à Birmingham",
+          "en": "The European Athletics Championships open in Birmingham",
+          "es": "Arranca el Campeonato de Europa de atletismo en Birmingham"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Keely Hodgkinson remporte l'or du 800 m devant son public",
+          "en": "Keely Hodgkinson wins 800m gold in front of her home crowd",
+          "es": "Keely Hodgkinson gana el oro en 800 m ante su público"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      12.5002,
+      41.6637
+    ],
+    "id": "italy-ranucci-attack-lavitola",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "ANSA / Sky TG24 / Il Sole 24 Ore",
+    "place": {
+      "fr": "Pomezia, Italie",
+      "en": "Pomezia, Italy",
+      "es": "Pomezia, Italia"
+    },
+    "title": {
+      "fr": "Attentat contre le journaliste Sigfrido Ranucci : le commanditaire présumé reste en détention",
+      "en": "Attack on journalist Sigfrido Ranucci: alleged mastermind remains in custody",
+      "es": "Atentado contra el periodista Sigfrido Ranucci: el presunto instigador sigue detenido"
+    },
+    "summary": {
+      "fr": "L'entrepreneur Valter Lavitola, soupçonné d'avoir commandité l'attentat à l'explosif contre le domicile du journaliste d'investigation Sigfrido Ranucci en octobre 2025 à Pomezia, près de Rome, a admis devant le juge le 13 août avoir demandé des coups de feu contre la villa, sans mentionner d'engin explosif. Le juge des libertés a rejeté sa demande d'assignation à résidence, jugeant ses déclarations « vagues » et invérifiables, selon l'ANSA et Sky TG24.",
+      "en": "Businessman Valter Lavitola, suspected of ordering the October 2025 bomb attack on the home of investigative journalist Sigfrido Ranucci in Pomezia near Rome, admitted before an investigating judge on August 13 that he had requested gunshots against the villa, without mentioning an explosive device. The judge rejected his request for house arrest, calling his statements \"vague\" and impossible to verify, according to ANSA and Sky TG24.",
+      "es": "El empresario Valter Lavitola, sospechoso de haber ordenado el atentado con explosivos contra la vivienda del periodista de investigación Sigfrido Ranucci en octubre de 2025 en Pomezia, cerca de Roma, admitió ante el juez el 13 de agosto haber pedido disparos contra la villa, sin mencionar un artefacto explosivo. El juez rechazó su solicitud de arresto domiciliario, calificando sus declaraciones de \"vagas\" e imposibles de verificar, según ANSA y Sky TG24."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/10/2025",
+          "en": "16/10/2025",
+          "es": "16/10/2025"
+        },
+        "d": {
+          "fr": "Un engin explosif détruit le portail et endommage des véhicules devant le domicile de Sigfrido Ranucci",
+          "en": "An explosive device destroys the gate and damages vehicles outside Sigfrido Ranucci's home",
+          "es": "Un artefacto explosivo destruye la verja y daña vehículos frente a la vivienda de Sigfrido Ranucci"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Valter Lavitola est arrêté comme commanditaire présumé de l'attentat",
+          "en": "Valter Lavitola is arrested as the alleged mastermind of the attack",
+          "es": "Valter Lavitola es detenido como presunto instigador del atentado"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le juge rejette la demande de résidence surveillée de Lavitola, qui reste en détention",
+          "en": "The judge rejects Lavitola's request for house arrest, keeping him in custody",
+          "es": "El juez rechaza la solicitud de arresto domiciliario de Lavitola, que permanece detenido"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      -6.6785,
+      37.3611
+    ],
+    "id": "spain-huelva-wildfire",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Euronews / Africanews / Junta de Andalucía",
+    "place": {
+      "fr": "Niebla, province de Huelva, Espagne",
+      "en": "Niebla, Huelva province, Spain",
+      "es": "Niebla, provincia de Huelva, España"
+    },
+    "title": {
+      "fr": "Un incendie majeur menace des habitations près de Huelva en Espagne",
+      "en": "Major wildfire threatens homes near Huelva in Spain",
+      "es": "Un gran incendio amenaza viviendas cerca de Huelva, en España"
+    },
+    "summary": {
+      "fr": "Un feu de forêt qui a débuté près de Niebla et Valverde del Camino, dans la province andalouse de Huelva, a brûlé environ 20 000 hectares et entraîné l'évacuation d'environ 800 personnes, selon Euronews et les autorités régionales. Plus de 600 pompiers appuyés par 26 aéronefs luttaient contre l'incendie, que le ministre régional des Urgences Antonio Sanz a qualifié d'« extrêmement difficile et dangereux », dans un contexte de sécheresse sévère qui a déjà brûlé environ 194 000 hectares en Espagne cette année.",
+      "en": "A wildfire that broke out near Niebla and Valverde del Camino in Spain's Andalusian province of Huelva had burned roughly 20,000 hectares and forced about 800 people to evacuate, according to Euronews and regional authorities. More than 600 firefighters backed by 26 aircraft were battling the blaze, which regional emergencies minister Antonio Sanz described as \"extremely difficult and dangerous,\" amid a severe drought that had already burned around 194,000 hectares across Spain this year.",
+      "es": "Un incendio forestal que se originó cerca de Niebla y Valverde del Camino, en la provincia andaluza de Huelva, ha quemado unas 20.000 hectáreas y ha obligado a evacuar a unas 800 personas, según Euronews y las autoridades regionales. Más de 600 bomberos, respaldados por 26 aeronaves, luchaban contra las llamas, que el consejero de Emergencias, Antonio Sanz, calificó de \"extremadamente difíciles y peligrosas\", en medio de una grave sequía que ya ha quemado unas 194.000 hectáreas en España este año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie de Huelva menace des habitations ; environ 800 personnes évacuées",
+          "en": "The Huelva wildfire threatens homes; around 800 people evacuated",
+          "es": "El incendio de Huelva amenaza viviendas; unas 800 personas evacuadas"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      -43.1729,
+      -22.9068
+    ],
+    "id": "rio-operacao-comando-vermelho",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Agência Brasil / O Tempo / Diário do Rio de Janeiro",
+    "place": {
+      "fr": "Rio de Janeiro (région métropolitaine), Brésil",
+      "en": "Rio de Janeiro (metropolitan region), Brazil",
+      "es": "Río de Janeiro (región metropolitana), Brasil"
+    },
+    "title": {
+      "fr": "Vaste opération policière contre le Comando Vermelho à Rio",
+      "en": "Major police operation targets Comando Vermelho gang in Rio",
+      "es": "Gran operativo policial contra el Comando Vermelho en Río"
+    },
+    "summary": {
+      "fr": "Le 13 août, la police militaire de Rio de Janeiro a mobilisé 27 bataillons pour une opération contre l'expansion territoriale du groupe criminel Comando Vermelho, touchant la capitale et au moins sept municipalités de la région métropolitaine, selon l'agence officielle Agência Brasil. L'opération a fait quatre morts parmi les suspects et treize arrestations, avec saisie de fusils, pistolets et grenades. Selon l'institut Fogo Cruzado, plus de 500 personnes ont été tuées par arme à feu dans la région métropolitaine de Rio depuis le début de l'année.",
+      "en": "On August 13, Rio de Janeiro's Military Police mobilized 27 battalions for an operation against the territorial expansion of the Comando Vermelho criminal group, hitting the capital and at least seven municipalities in the metropolitan region, according to official news agency Agência Brasil. The operation left four suspects dead and thirteen people arrested, with rifles, pistols and grenades seized. According to the Fogo Cruzado institute, more than 500 people have been killed by gunfire in the Rio metropolitan region so far this year.",
+      "es": "El 13 de agosto, la Policía Militar de Río de Janeiro movilizó 27 batallones para un operativo contra la expansión territorial del grupo criminal Comando Vermelho, que alcanzó la capital y al menos siete municipios de la región metropolitana, según la agencia oficial Agência Brasil. El operativo dejó cuatro sospechosos muertos y trece detenidos, con incautación de fusiles, pistolas y granadas. Según el instituto Fogo Cruzado, más de 500 personas murieron por disparos de arma de fuego en la región metropolitana de Río en lo que va del año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "La PM lance une mégaopération de 27 bataillons contre le Comando Vermelho ; quatre morts et treize arrestations",
+          "en": "Military Police launch a 27-battalion operation against Comando Vermelho; four dead and thirteen arrested",
+          "es": "La PM lanza un megaoperativo de 27 batallones contra el Comando Vermelho; cuatro muertos y trece detenidos"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      -47.8619,
+      -15.8003
+    ],
+    "id": "bolsonaro-restricoes-visitas",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Agência Brasil / CNN Brasil / STF",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne s'oriente vers le maintien des restrictions de visites à Bolsonaro",
+      "en": "Brazilian court signals it will keep visitation restrictions on Bolsonaro",
+      "es": "La justicia brasileña se inclina por mantener las restricciones de visitas a Bolsonaro"
+    },
+    "summary": {
+      "fr": "Le procureur général du Brésil, Paulo Gonet, a demandé le 12 août à la Cour suprême (STF) de rejeter les recours de la défense de l'ex-président Jair Bolsonaro et de maintenir les restrictions sur les visites de son fils, le sénateur Flávio Bolsonaro, en prison, selon Agência Brasil. Bolsonaro purge une peine de 27 ans et trois mois pour tentative de coup d'État après sa condamnation par le STF. Des ministres de la Cour estiment, sous couvert d'anonymat rapporté par CNN Brasil, que le juge Alexandre de Moraes ne reviendra probablement pas sur ces restrictions.",
+      "en": "Brazil's Prosecutor General, Paulo Gonet, asked the Supreme Court (STF) on August 12 to reject appeals filed by former President Jair Bolsonaro's defense team and to keep in place restrictions on prison visits from his son, Senator Flávio Bolsonaro, according to Agência Brasil. Bolsonaro is serving a 27-year, three-month sentence for attempting a coup after being convicted by the STF. Court justices reportedly believe, speaking anonymously to CNN Brasil, that Justice Alexandre de Moraes is unlikely to reverse the restrictions.",
+      "es": "El procurador general de Brasil, Paulo Gonet, pidió el 12 de agosto al Supremo Tribunal Federal (STF) que rechace los recursos presentados por la defensa del expresidente Jair Bolsonaro y que mantenga las restricciones a las visitas de su hijo, el senador Flávio Bolsonaro, en prisión, según Agência Brasil. Bolsonaro cumple una condena de 27 años y tres meses por intento de golpe de Estado tras ser condenado por el STF. Ministros de la Corte consideran, bajo reserva según CNN Brasil, que el magistrado Alexandre de Moraes difícilmente revocará esas restricciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "La PGR demande au STF de maintenir les restrictions de visites imposées à Bolsonaro",
+          "en": "The Prosecutor General's office asks the STF to uphold visitation restrictions on Bolsonaro",
+          "es": "La PGR pide al STF que mantenga las restricciones de visitas impuestas a Bolsonaro"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      121.4208,
+      28.656
+    ],
+    "id": "china-typhoon-dolphin-zhejiang",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Reuters / AFP / China Daily / gov.cn",
+    "place": {
+      "fr": "Taizhou, Zhejiang, Chine",
+      "en": "Taizhou, Zhejiang, China",
+      "es": "Taizhou, Zhejiang, China"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin déclenche des évacuations massives et des inondations dans l'est de la Chine",
+      "en": "Typhoon Dolphin triggers mass evacuations and flooding in eastern China",
+      "es": "El tifón Dolphin provoca evacuaciones masivas e inundaciones en el este de China"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin, treizième typhon de la saison, a touché terre le 9 août près de Taizhou, dans la province chinoise du Zhejiang, avec des vents atteignant environ 151 km/h, selon les médias d'État chinois et Reuters. Les autorités ont évacué près de 390 000 personnes à Taizhou et des dizaines de milliers d'autres à Shanghai, tandis que le ministère des Ressources en eau a déclenché des mesures d'urgence contre les inondations dans plusieurs provinces. Le 13 août, le ministère chinois des Finances a débloqué 80 millions de yuans (environ 11,8 millions de dollars) pour venir en aide aux zones touchées par les inondations et les glissements de terrain dans le Henan, le Hubei et l'Anhui.",
+      "en": "Typhoon Dolphin, the 13th typhoon of the season, made landfall near Taizhou in China's Zhejiang province on August 9 with winds of around 151 km/h, according to Chinese state media and Reuters. Authorities evacuated roughly 390,000 people in Taizhou and tens of thousands more in Shanghai, while the Ministry of Water Resources activated flood emergency responses across several provinces. On August 13, China's finance ministry allocated 80 million yuan (about $11.8 million) in relief funds for flood- and landslide-affected areas in Henan, Hubei and Anhui.",
+      "es": "El tifón Dolphin, el decimotercero de la temporada, tocó tierra el 9 de agosto cerca de Taizhou, en la provincia china de Zhejiang, con vientos de unos 151 km/h, según medios estatales chinos y Reuters. Las autoridades evacuaron a cerca de 390.000 personas en Taizhou y a decenas de miles más en Shanghái, mientras el Ministerio de Recursos Hídricos activó una respuesta de emergencia ante inundaciones en varias provincias. El 13 de agosto, el Ministerio de Finanzas chino destinó 80 millones de yuanes (unos 11,8 millones de dólares) a las zonas afectadas por inundaciones y deslizamientos de tierra en Henan, Hubei y Anhui."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dolphin touche terre près de Taizhou avec des vents d'environ 151 km/h ; près de 390 000 personnes évacuées",
+          "en": "Typhoon Dolphin makes landfall near Taizhou with winds around 151 km/h; nearly 390,000 people evacuated",
+          "es": "El tifón Dolphin toca tierra cerca de Taizhou con vientos de unos 151 km/h; casi 390.000 personas son evacuadas"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Shanghai annule près de 1 300 vols et évacue plus de 30 000 personnes des zones à risque",
+          "en": "Shanghai cancels nearly 1,300 flights and evacuates more than 30,000 people from vulnerable areas",
+          "es": "Shanghái cancela cerca de 1.300 vuelos y evacúa a más de 30.000 personas de zonas vulnerables"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Pékin débloque 80 millions de yuans d'aide d'urgence pour le Henan, le Hubei et l'Anhui",
+          "en": "Beijing allocates 80 million yuan in emergency relief funds for Henan, Hubei and Anhui",
+          "es": "Pekín destina 80 millones de yuanes en fondos de emergencia para Henan, Hubei y Anhui"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      130.7079,
+      32.8032
+    ],
+    "id": "japan-kumamoto-earthquake-recovery",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Kyodo News / The Japan Times / NPR",
+    "place": {
+      "fr": "Kumamoto, Japon",
+      "en": "Kumamoto, Japan",
+      "es": "Kumamoto, Japón"
+    },
+    "title": {
+      "fr": "Le château de Kumamoto rouvre alors que le Japon se relève d'un séisme meurtrier",
+      "en": "Kumamoto Castle reopens as Japan recovers from deadly earthquake",
+      "es": "El castillo de Kumamoto reabre mientras Japón se recupera de un terremoto mortal"
+    },
+    "summary": {
+      "fr": "Le château de Kumamoto a rouvert ses portes aux visiteurs le 13 août, environ deux semaines après qu'un séisme de magnitude 7,1 a frappé l'île de Kyushu le 28 juillet près de la ville d'Uto, faisant au moins 34 morts selon les autorités préfectorales citées par NPR. Au 10 août, près de 6 200 personnes se trouvaient encore dans 99 centres d'hébergement de la préfecture de Kumamoto, rapporte le Japan Times, tandis que le gouvernement de la Première ministre Sanae Takaichi étendait l'aide à la reconstruction à l'ensemble de la préfecture.",
+      "en": "Kumamoto Castle reopened to visitors on August 13, roughly two weeks after a magnitude-7.1 earthquake struck Kyushu on July 28 near the city of Uto, killing at least 34 people according to prefectural officials cited by NPR. As of August 10, nearly 6,200 people remained in 99 evacuation shelters across Kumamoto Prefecture, the Japan Times reported, as Prime Minister Sanae Takaichi's government extended reconstruction support to the whole prefecture.",
+      "es": "El castillo de Kumamoto reabrió al público el 13 de agosto, unas dos semanas después de que un terremoto de magnitud 7,1 sacudiera la isla de Kyushu el 28 de julio cerca de la ciudad de Uto, causando al menos 34 muertos según autoridades prefecturales citadas por NPR. Hasta el 10 de agosto, cerca de 6.200 personas seguían en 99 refugios de la prefectura de Kumamoto, según Japan Times, mientras el gobierno de la primera ministra Sanae Takaichi ampliaba la ayuda a la reconstrucción a toda la prefectura."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,1 frappe près d'Uto, préfecture de Kumamoto ; le bilan atteindra 34 morts",
+          "en": "A magnitude-7.1 earthquake strikes near Uto, Kumamoto Prefecture; the death toll later reaches 34",
+          "es": "Un terremoto de magnitud 7,1 golpea cerca de Uto, prefectura de Kumamoto; el saldo llega luego a 34 muertos"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Près de 6 200 personnes restent hébergées dans 99 abris de la préfecture",
+          "en": "Nearly 6,200 people remain in 99 shelters across the prefecture",
+          "es": "Cerca de 6.200 personas permanecen en 99 refugios de la prefectura"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le château de Kumamoto rouvre au public",
+          "en": "Kumamoto Castle reopens to the public",
+          "es": "El castillo de Kumamoto reabre al público"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1,
+    "related": []
+  },
+  {
+    "coords": [
+      94.911,
+      27.4728
+    ],
+    "id": "assam-floods-2026",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Associated Press / NPR",
+    "place": {
+      "fr": "Dibrugarh, Assam, Inde",
+      "en": "Dibrugarh, Assam, India",
+      "es": "Dibrugarh, Assam, India"
+    },
+    "title": {
+      "fr": "Le bilan des inondations en Assam dépasse 100 morts avec la crue du Brahmapoutre",
+      "en": "Assam flood death toll passes 100 as the Brahmaputra overflows",
+      "es": "El balance de las inundaciones en Assam supera los 100 muertos por el desbordamiento del Brahmaputra"
+    },
+    "summary": {
+      "fr": "Selon l'agence Associated Press, les inondations de mousson dans l'État d'Assam, au nord-est de l'Inde, ont fait au moins 100 morts après plusieurs jours de pluies intenses ayant provoqué le débordement du Brahmapoutre et de ses affluents. Près de 300 000 personnes ont été accueillies dans des camps de secours et plus de 700 000 ont été touchées depuis le début des crues le mois dernier, selon les autorités citées par l'AP.",
+      "en": "Monsoon floods in India's northeastern Assam state have killed at least 100 people, the Associated Press reported, after days of heavy rain caused the Brahmaputra river and its tributaries to overflow. Nearly 300,000 people have been moved into government relief camps, and more than 700,000 have been affected since the floods began last month, officials told the AP.",
+      "es": "Según la agencia Associated Press, las inundaciones monzónicas en el estado de Assam, en el noreste de India, han dejado al menos 100 muertos tras varios días de lluvias intensas que provocaron el desbordamiento del río Brahmaputra y sus afluentes. Cerca de 300.000 personas fueron trasladadas a campamentos de socorro estatales y más de 700.000 se han visto afectadas desde que comenzaron las inundaciones el mes pasado, según funcionarios citados por AP."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/07/2026",
+          "en": "19/07/2026",
+          "es": "19/07/2026"
+        },
+        "d": {
+          "fr": "Des pluies de mousson provoquent les premières crues du Brahmapoutre dans le nord-est de l'Inde",
+          "en": "Monsoon rains trigger the first Brahmaputra flooding in northeast India",
+          "es": "Las lluvias monzónicas provocan las primeras crecidas del Brahmaputra en el noreste de India"
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 100 morts et près de 300 000 déplacés, selon l'AP",
+          "en": "The official death toll reaches 100 with nearly 300,000 displaced, AP reports",
+          "es": "El balance oficial alcanza los 100 muertos y casi 300.000 desplazados, según AP"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
+  },
+  {
+    "coords": [
+      74.3144,
+      35.9208
+    ],
+    "id": "gilgit-baltistan-floods-2026",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏔️",
+    "source": "Dawn / Arab News / The Express Tribune",
+    "place": {
+      "fr": "Danyor, Gilgit-Baltistan, Pakistan",
+      "en": "Danyor, Gilgit-Baltistan, Pakistan",
+      "es": "Danyor, Gilgit-Baltistán, Pakistán"
+    },
+    "title": {
+      "fr": "Un glissement de terrain tue des bénévoles alors que la fonte des glaciers dévaste le Gilgit-Baltistan",
+      "en": "Landslide kills volunteers as glacial-melt floods devastate Gilgit-Baltistan",
+      "es": "Un deslizamiento de tierra mata a voluntarios mientras las crecidas por deshielo glaciar devastan Gilgit-Baltistán"
+    },
+    "summary": {
+      "fr": "Au moins sept bénévoles ont été tués et plusieurs autres blessés lorsqu'un glissement de terrain les a frappés alors qu'ils réparaient un canal d'irrigation endommagé par les crues à Danyor, près de Gilgit, tôt le matin, selon les journaux pakistanais Dawn et Arab News. L'incident survient au milieu d'un épisode plus large de crues liées à la fonte des glaciers dans tout le Gilgit-Baltistan, qui a aussi emporté des routes, des ponts et un tronçon de l'autoroute du Karakoram dans la vallée de Hunza, selon les autorités locales.",
+      "en": "At least seven volunteers were killed and several others injured when a landslide struck them as they repaired a flood-damaged water channel in Danyor, near Gilgit, in the early hours of the morning, according to Pakistani outlets Dawn and Arab News. The incident came amid a wider spell of glacial-melt flooding across Gilgit-Baltistan that also swept away roads, bridges and a stretch of the Karakoram Highway in Hunza's Gulmit Gojal area, local officials said.",
+      "es": "Al menos siete voluntarios murieron y varios más resultaron heridos cuando un deslizamiento de tierra los sorprendió mientras reparaban un canal de agua dañado por las inundaciones en Danyor, cerca de Gilgit, en la madrugada, según los medios paquistaníes Dawn y Arab News. El incidente ocurrió en medio de un episodio más amplio de inundaciones por deshielo glaciar en todo Gilgit-Baltistán, que también arrasó carreteras, puentes y un tramo de la autopista del Karakórum en la zona de Gulmit Gojal, en el valle de Hunza, según autoridades locales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Un glissement de terrain tue au moins sept bénévoles qui réparaient un canal d'irrigation à Danyor",
+          "en": "A landslide kills at least seven volunteers repairing an irrigation channel in Danyor",
+          "es": "Un deslizamiento de tierra mata al menos a siete voluntarios que reparaban un canal de riego en Danyor"
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "De nouvelles crues glaciaires emportent un pont et des tronçons de l'autoroute du Karakoram à Gulmit, dans la vallée de Hunza",
+          "en": "Fresh glacial floods sweep away a bridge and sections of the Karakoram Highway at Gulmit, in the Hunza valley",
+          "es": "Nuevas crecidas glaciares arrasan un puente y tramos de la autopista del Karakórum en Gulmit, en el valle de Hunza"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2,
+    "related": []
   }
 ]
