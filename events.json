@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W33",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,32 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le Pentagone maintient un blocus naval près du détroit d'Ormuz ; les États-Unis affirment en avoir le contrôle total, ce que l'Iran conteste, selon CNBC et Al Jazeera.",
+          "en": "The Pentagon maintains a naval blockade near the Strait of Hormuz; the US claims total control, which Iran disputes, according to CNBC and Al Jazeera.",
+          "es": "El Pentágono mantiene un bloqueo naval cerca del estrecho de Ormuz; Estados Unidos afirma tener el control total, algo que Irán rechaza, según CNBC y Al Jazeera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Le département du Trésor américain annonce un huitième train de sanctions visant le système bancaire iranien, alors que l'inflation dépasse 50 % en Iran, selon CBS News.",
+          "en": "The US Treasury announces an eighth round of sanctions targeting Iran's banking system, as inflation exceeds 50% in Iran, according to CBS News.",
+          "es": "El Departamento del Tesoro de EE. UU. anuncia una octava ronda de sanciones dirigidas al sistema bancario iraní, mientras la inflación supera el 50% en Irán, según CBS News."
         },
         "active": true
       }
@@ -829,5 +855,937 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-mangione-plea",
+    "coords": [
+      -74.006,
+      40.7128
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / NBC News / NPR",
+    "place": {
+      "fr": "Manhattan, New York, États-Unis",
+      "en": "Manhattan, New York, United States",
+      "es": "Manhattan, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Luigi Mangione plaide coupable dans l'affaire du meurtre du PDG d'UnitedHealthcare",
+      "en": "Luigi Mangione pleads guilty in the killing of UnitedHealthcare's CEO",
+      "es": "Luigi Mangione se declara culpable por el asesinato del director ejecutivo de UnitedHealthcare"
+    },
+    "summary": {
+      "fr": "Luigi Mangione a plaidé coupable le 14 août devant un tribunal fédéral de Manhattan à deux chefs d'accusation de traque ayant entraîné la mort, en lien avec l'homicide du PDG d'UnitedHealthcare Brian Thompson en décembre 2024. Il a admis avoir suivi puis abattu M. Thompson ; il encourt une peine pouvant aller jusqu'à la perpétuité, avec une audience de détermination de la peine prévue le 18 décembre. Ses avocats ont par ailleurs demandé l'abandon du procès pour meurtre au niveau de l'État de New York, invoquant le principe de double incrimination.",
+      "en": "Luigi Mangione pleaded guilty on August 14 in Manhattan federal court to two counts of stalking resulting in death, in connection with the December 2024 killing of UnitedHealthcare CEO Brian Thompson. He admitted to tracking and shooting Thompson; he faces up to life in prison, with sentencing set for December 18. His attorneys separately asked for the pending New York state murder case to be dismissed on double-jeopardy grounds.",
+      "es": "Luigi Mangione se declaró culpable el 14 de agosto ante un tribunal federal de Manhattan de dos cargos de acoso con resultado de muerte, en relación con el homicidio del director ejecutivo de UnitedHealthcare, Brian Thompson, en diciembre de 2024. Admitió haber seguido y disparado a Thompson; se enfrenta a una posible cadena perpetua, con audiencia de sentencia fijada para el 18 de diciembre. Sus abogados solicitaron además la desestimación del proceso por asesinato a nivel estatal de Nueva York, invocando el principio de doble incriminación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Luigi Mangione plaide coupable devant la justice fédérale à Manhattan, selon CNN et NBC News.",
+          "en": "Luigi Mangione pleads guilty in federal court in Manhattan, according to CNN and NBC News.",
+          "es": "Luigi Mangione se declara culpable ante la justicia federal en Manhattan, según CNN y NBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "us-spokane-incendies",
+    "coords": [
+      -117.53,
+      47.65
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NBC News / CNN / NPR",
+    "place": {
+      "fr": "Région de Spokane (Airway Heights), État de Washington, États-Unis",
+      "en": "Spokane area (Airway Heights), Washington State, United States",
+      "es": "Zona de Spokane (Airway Heights), estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les incendies près de Spokane approchent la pleine maîtrise après avoir détruit plus de 700 bâtiments",
+      "en": "Wildfires near Spokane near full containment after destroying more than 700 structures",
+      "es": "Los incendios cerca de Spokane se acercan al control total tras destruir más de 700 estructuras"
+    },
+    "summary": {
+      "fr": "Un ensemble d'incendies au nord de Spokane, dans l'État de Washington — dont les feux Old Trails, Fairview et Autumn Lane, actifs depuis début août —, a détruit plus de 700 habitations et bâtiments et forcé l'évacuation d'environ 65 000 personnes, selon NBC News et CNN. Au 14 août, les autorités indiquaient une maîtrise d'environ 97 %, tandis que les équipes poursuivaient les opérations de nettoyage. Une déclaration d'urgence fédérale a été délivrée pour appuyer la lutte contre les feux.",
+      "en": "A cluster of wildfires north of Spokane, Washington — including the Old Trails, Fairview and Autumn Lane fires, active since early August — destroyed more than 700 homes and structures and forced roughly 65,000 people to evacuate, according to NBC News and CNN. As of August 14, authorities reported about 97% containment, with crews continuing cleanup operations. A federal emergency declaration was issued to support firefighting efforts.",
+      "es": "Un conjunto de incendios al norte de Spokane, en el estado de Washington —entre ellos los incendios Old Trails, Fairview y Autumn Lane, activos desde principios de agosto— destruyó más de 700 viviendas y estructuras y obligó a evacuar a unas 65.000 personas, según NBC News y CNN. Hasta el 14 de agosto, las autoridades indicaban un control de aproximadamente el 97%, mientras los equipos continuaban las labores de limpieza. Se emitió una declaración de emergencia federal para apoyar la lucha contra el fuego."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/08/2026",
+          "en": "01/08/2026",
+          "es": "01/08/2026"
+        },
+        "d": {
+          "fr": "Les incendies Old Trails, Fairview et Autumn Lane se déclarent au nord de Spokane.",
+          "en": "The Old Trails, Fairview and Autumn Lane fires break out north of Spokane.",
+          "es": "Se declaran los incendios Old Trails, Fairview y Autumn Lane al norte de Spokane."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités annoncent une maîtrise d'environ 97 % après la destruction de plus de 700 bâtiments.",
+          "en": "Authorities report about 97% containment after more than 700 structures were destroyed.",
+          "es": "Las autoridades informan de un control de aproximadamente el 97% tras la destrucción de más de 700 estructuras."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "chine-typhon-dolphin",
+    "coords": [
+      120.6994,
+      27.9944
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "NBC News / Al Jazeera / CNBC",
+    "place": {
+      "fr": "Wenzhou et Taizhou, province du Zhejiang, Chine",
+      "en": "Wenzhou and Taizhou, Zhejiang province, China",
+      "es": "Wenzhou y Taizhou, provincia de Zhejiang, China"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin touche terre dans l'est de la Chine, un million de personnes évacuées",
+      "en": "Typhoon Dolphin makes landfall in eastern China, one million evacuated",
+      "es": "El tifón Dolphin toca tierra en el este de China, un millón de personas evacuadas"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin a touché terre près de la ville de Yuhuan, dans la province du Zhejiang, le 9 août, avec des vents proches de 151 km/h, selon NBC News et Al Jazeera. Les autorités chinoises ont évacué plus de 900 000 habitants à Wenzhou et environ 390 000 à Taizhou, ouvrant plus de 1000 abris d'urgence. Près de 1400 vols ont été annulés dans les deux principaux aéroports de Shanghai. La tempête avait auparavant causé des blessures mineures à Okinawa, au Japon.",
+      "en": "Typhoon Dolphin made landfall near Yuhuan City in Zhejiang province on August 9, with winds near 151 km/h, according to NBC News and Al Jazeera. Chinese authorities evacuated more than 900,000 residents in Wenzhou and about 390,000 in Taizhou, opening over 1,000 emergency shelters. Nearly 1,400 flights were cancelled at Shanghai's two main airports. The storm had earlier caused minor injuries in Okinawa, Japan.",
+      "es": "El tifón Dolphin tocó tierra cerca de la ciudad de Yuhuan, en la provincia de Zhejiang, el 9 de agosto, con vientos cercanos a 151 km/h, según NBC News y Al Jazeera. Las autoridades chinas evacuaron a más de 900.000 residentes en Wenzhou y a unos 390.000 en Taizhou, abriendo más de 1000 refugios de emergencia. Cerca de 1400 vuelos fueron cancelados en los dos principales aeropuertos de Shanghái. La tormenta había causado antes heridas leves en Okinawa, Japón."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dolphin touche terre dans le Zhejiang ; plus d'un million de personnes évacuées au total.",
+          "en": "Typhoon Dolphin makes landfall in Zhejiang; more than one million people evacuated in total.",
+          "es": "El tifón Dolphin toca tierra en Zhejiang; más de un millón de personas evacuadas en total."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "chine-luwenjun-corruption",
+    "coords": [
+      112.9441,
+      27.8296
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Caixin Global",
+    "place": {
+      "fr": "Xiangtan, province du Hunan, Chine",
+      "en": "Xiangtan, Hunan province, China",
+      "es": "Xiangtan, provincia de Hunan, China"
+    },
+    "title": {
+      "fr": "Un ex-dirigeant chinois condamné à 15 ans de prison pour corruption",
+      "en": "Former Chinese executive sentenced to 15 years for bribery",
+      "es": "Un exdirectivo chino es condenado a 15 años de prisión por corrupción"
+    },
+    "summary": {
+      "fr": "Le tribunal populaire intermédiaire de Xiangtan a condamné le 11 août Lu Wenjun, ancien dirigeant d'une entreprise de machinerie lourde, à 15 ans de prison et à une amende de 5 millions de yuans, pour avoir accepté près de 68 millions de yuans de pots-de-vin sur deux décennies, selon Caixin Global. L'affaire s'inscrit dans la campagne anticorruption menée par les autorités chinoises.",
+      "en": "The Xiangtan Intermediate People's Court sentenced Lu Wenjun, a former heavy-machinery executive, to 15 years in prison and a 5-million-yuan fine on August 11, for accepting nearly 68 million yuan in bribes over two decades, according to Caixin Global. The case is part of China's ongoing anti-corruption campaign.",
+      "es": "El Tribunal Popular Intermedio de Xiangtan condenó el 11 de agosto a Lu Wenjun, exdirectivo de una empresa de maquinaria pesada, a 15 años de prisión y una multa de 5 millones de yuanes, por aceptar cerca de 68 millones de yuanes en sobornos durante dos décadas, según Caixin Global. El caso se enmarca en la campaña anticorrupción de las autoridades chinas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Xiangtan prononce la condamnation, selon Caixin Global.",
+          "en": "The Xiangtan court hands down the sentence, according to Caixin Global.",
+          "es": "El tribunal de Xiangtan dicta la condena, según Caixin Global."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "japon-nikkei-record",
+    "coords": [
+      139.7754,
+      35.6813
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg / Trading Economics",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Nikkei 225 atteint un record historique",
+      "en": "The Nikkei 225 hits a record high",
+      "es": "El Nikkei 225 alcanza un máximo histórico"
+    },
+    "summary": {
+      "fr": "L'indice Nikkei 225 a atteint le 14 août un nouveau record intrajournalier au-dessus de 69 600 points avant de clôturer près de 68 700-68 730 points, tandis que l'indice TOPIX clôturait lui aussi à un niveau record au-dessus de 4197 points, selon Bloomberg. La hausse a été portée par les valeurs des semi-conducteurs et de l'intelligence artificielle, dans le sillage de données d'inflation américaines plus faibles qu'attendu.",
+      "en": "The Nikkei 225 index hit a fresh intraday record above 69,600 points on August 14 before closing near 68,700-68,730, while the broader TOPIX index also closed at a record high above 4,197, according to Bloomberg. The rise was driven by semiconductor and AI-related shares following softer-than-expected US inflation data.",
+      "es": "El índice Nikkei 225 alcanzó el 14 de agosto un nuevo récord intradía por encima de los 69.600 puntos antes de cerrar cerca de 68.700-68.730, mientras que el índice TOPIX también cerró en un máximo histórico por encima de 4197 puntos, según Bloomberg. La subida estuvo impulsada por las acciones de semiconductores e inteligencia artificial, tras unos datos de inflación estadounidenses más suaves de lo esperado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Le Nikkei 225 et le TOPIX clôturent à des niveaux records, selon Bloomberg.",
+          "en": "The Nikkei 225 and TOPIX close at record levels, according to Bloomberg.",
+          "es": "El Nikkei 225 y el TOPIX cierran en niveles récord, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "japon-koshien-baseball",
+    "coords": [
+      135.3617,
+      34.736
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚾",
+    "source": "Fédération japonaise de baseball scolaire / Asahi Shimbun",
+    "place": {
+      "fr": "Nishinomiya, préfecture de Hyogo, Japon",
+      "en": "Nishinomiya, Hyogo prefecture, Japan",
+      "es": "Nishinomiya, prefectura de Hyogo, Japón"
+    },
+    "title": {
+      "fr": "Le tournoi national de baseball lycéen de Koshien bat son plein",
+      "en": "The national Koshien high-school baseball tournament is underway",
+      "es": "El torneo nacional de béisbol escolar de Koshien está en pleno desarrollo"
+    },
+    "summary": {
+      "fr": "La 108e édition du championnat national de baseball lycéen, dit \"Koshien d'été\", se déroule au stade de Koshien à Nishinomiya depuis le 5 août et se poursuit jusqu'au 22 août, avec 49 équipes représentant chacune une préfecture. Cette édition introduit pour la première fois la règle du frappeur désigné et l'arbitrage vidéo.",
+      "en": "The 108th edition of the national high-school baseball championship, known as \"Summer Koshien,\" has been underway at Koshien Stadium in Nishinomiya since August 5 and continues through August 22, with 49 teams representing each prefecture. This edition introduces the designated-hitter rule and video review for the first time.",
+      "es": "La 108.ª edición del campeonato nacional de béisbol escolar, conocido como \"Koshien de verano\", se celebra en el estadio de Koshien, en Nishinomiya, desde el 5 de agosto y continúa hasta el 22 de agosto, con 49 equipos representando cada prefectura. Esta edición introduce por primera vez la regla del bateador designado y la revisión en video."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Ouverture du tournoi de Koshien, qui se poursuit tout au long de la semaine.",
+          "en": "The Koshien tournament opens and continues throughout the week.",
+          "es": "Se inaugura el torneo de Koshien, que continúa durante toda la semana."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "inde-inondations-mousson",
+    "coords": [
+      94.64,
+      26.98
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Al Jazeera / AFP",
+    "place": {
+      "fr": "District de Sivasagar, Assam, Inde (également Kerala et Jammu-et-Cachemire)",
+      "en": "Sivasagar district, Assam, India (also Kerala and Jammu and Kashmir)",
+      "es": "Distrito de Sivasagar, Assam, India (también Kerala y Jammu y Cachemira)"
+    },
+    "title": {
+      "fr": "Plus de 100 morts dans des inondations et glissements de terrain liés à la mousson en Inde",
+      "en": "More than 100 dead in monsoon floods and landslides across India",
+      "es": "Más de 100 muertos en inundaciones y deslizamientos de tierra por el monzón en India"
+    },
+    "summary": {
+      "fr": "De fortes pluies de mousson ont provoqué depuis juillet des inondations et glissements de terrain dans plusieurs États indiens, faisant plus de 100 morts selon les bilans officiels cités par Al Jazeera. Le chef du gouvernement de l'Assam, Himanta Biswa Sarma, a fait état d'au moins 89 morts dans son État, le district de Sivasagar étant le plus touché avec 47 victimes. Au moins 31 décès ont été rapportés au Jammu-et-Cachemire et au moins 15 au Kerala, où 7 personnes restent portées disparues. Plus de 74 000 personnes se trouvent dans des camps de secours.",
+      "en": "Heavy monsoon rains have caused floods and landslides across several Indian states since July, killing more than 100 people according to official figures cited by Al Jazeera. Assam's Chief Minister Himanta Biswa Sarma reported at least 89 deaths in his state, with Sivasagar district worst affected, at 47 victims. At least 31 deaths were reported in Jammu and Kashmir and at least 15 in Kerala, where 7 people remain missing. More than 74,000 people are in relief camps.",
+      "es": "Las intensas lluvias del monzón han provocado desde julio inundaciones y deslizamientos de tierra en varios estados indios, dejando más de 100 muertos según cifras oficiales citadas por Al Jazeera. El jefe de gobierno de Assam, Himanta Biswa Sarma, informó de al menos 89 muertos en su estado, siendo el distrito de Sivasagar el más afectado con 47 víctimas. Se reportaron al menos 31 muertes en Jammu y Cachemira y al menos 15 en Kerala, donde 7 personas siguen desaparecidas. Más de 74.000 personas se encuentran en campamentos de socorro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera fait état de plus de 100 morts depuis juillet dans plusieurs États indiens.",
+          "en": "Al Jazeera reports more than 100 deaths since July across several Indian states.",
+          "es": "Al Jazeera informa de más de 100 muertos desde julio en varios estados indios."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités de l'Assam confirment au moins 89 morts dans l'État, dont 47 dans le seul district de Sivasagar.",
+          "en": "Assam authorities confirm at least 89 deaths in the state, including 47 in Sivasagar district alone.",
+          "es": "Las autoridades de Assam confirman al menos 89 muertos en el estado, 47 de ellos solo en el distrito de Sivasagar."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "inde-tarifs-usa",
+    "coords": [
+      72.8777,
+      19.076
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Business Standard",
+    "place": {
+      "fr": "Mumbai, Inde (marchés financiers)",
+      "en": "Mumbai, India (financial markets)",
+      "es": "Bombay (Mumbai), India (mercados financieros)"
+    },
+    "title": {
+      "fr": "Les marchés indiens reculent après le relèvement des droits de douane américains à 50 %",
+      "en": "Indian markets fall after US tariffs on India raised to 50%",
+      "es": "Los mercados indios caen tras la subida de los aranceles estadounidenses al 50%"
+    },
+    "summary": {
+      "fr": "Les États-Unis ont relevé les droits de douane sur les importations en provenance d'Inde de 25 % à 50 %, invoquant la poursuite par l'Inde de ses achats de pétrole russe ; la nouvelle hausse doit entrer en vigueur le 27 août. Les indices phares de la Bourse indienne, le Sensex et le Nifty 50, ont reculé en réaction, le Sensex perdant plus de 800 points, selon Business Standard, dans un contexte de sorties de capitaux étrangers persistantes. La banque centrale indienne a par ailleurs maintenu son taux directeur à 5,25 % début août.",
+      "en": "The United States raised tariffs on imports from India from 25% to 50%, citing India's continued purchases of Russian oil; the new rate is set to take effect August 27. India's benchmark stock indices, the Sensex and Nifty 50, fell in response, with the Sensex dropping more than 800 points, according to Business Standard, amid persistent foreign investor outflows. India's central bank separately held its key interest rate at 5.25% in early August.",
+      "es": "Estados Unidos elevó los aranceles a las importaciones procedentes de India del 25% al 50%, citando las continuas compras de petróleo ruso por parte de India; la nueva tasa entrará en vigor el 27 de agosto. Los principales índices bursátiles de India, el Sensex y el Nifty 50, cayeron en respuesta, con el Sensex perdiendo más de 800 puntos, según Business Standard, en un contexto de persistentes salidas de capital extranjero. El banco central indio mantuvo además su tasa de interés clave en 5,25% a principios de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le Sensex et le Nifty reculent après l'annonce du relèvement tarifaire américain, selon Business Standard.",
+          "en": "The Sensex and Nifty fall after the announcement of the US tariff increase, according to Business Standard.",
+          "es": "El Sensex y el Nifty caen tras el anuncio de la subida arancelaria estadounidense, según Business Standard."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "bresil-bolsonaro-visite",
+    "coords": [
+      -47.86,
+      -15.79
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Agência Brasil",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La justice brésilienne refuse à Bolsonaro une visite de ses fils pour la fête des Pères",
+      "en": "Brazilian court denies Bolsonaro a Father's Day visit from his sons",
+      "es": "La justicia brasileña niega a Bolsonaro una visita de sus hijos por el Día del Padre"
+    },
+    "summary": {
+      "fr": "Le juge du Tribunal fédéral suprême Alexandre de Moraes a rejeté le 9 août une demande visant à permettre à l'ancien président Jair Bolsonaro, assigné à résidence après sa condamnation pour tentative de coup d'État du 8 janvier 2023, de recevoir la visite de ses fils Carlos, Flávio et Jair Renan à l'occasion de la fête des Pères, jugeant la demande sans objet puisque les visites restent suspendues selon les termes de son assignation. La défense et la famille de Bolsonaro ont critiqué la décision.",
+      "en": "Federal Supreme Court Justice Alexandre de Moraes denied a request on August 9 to allow former president Jair Bolsonaro, under home confinement after his conviction over the January 8, 2023 coup attempt, to receive a Father's Day visit from his sons Carlos, Flávio and Jair Renan, ruling the request moot since visits remain suspended under his confinement terms. Bolsonaro's defense and family criticized the ruling.",
+      "es": "El juez del Tribunal Supremo Federal Alexandre de Moraes rechazó el 9 de agosto una solicitud para permitir que el expresidente Jair Bolsonaro, bajo arresto domiciliario tras su condena por el intento de golpe de Estado del 8 de enero de 2023, recibiera la visita de sus hijos Carlos, Flávio y Jair Renan por el Día del Padre, al considerar la solicitud improcedente dado que las visitas siguen suspendidas según los términos de su confinamiento. La defensa y la familia de Bolsonaro criticaron la decisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le juge Alexandre de Moraes rejette la demande de visite, selon Agência Brasil.",
+          "en": "Judge Alexandre de Moraes denies the visit request, according to Agência Brasil.",
+          "es": "El juez Alexandre de Moraes rechaza la solicitud de visita, según Agência Brasil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "russie-bachkirie-frappe",
+    "coords": [
+      54.395,
+      54.594
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Meduza / The Moscow Times / RFE-RL",
+    "place": {
+      "fr": "Tchichmy, district de Tchichmy, république de Bachkirie, Russie",
+      "en": "Chishmy, Chishminsky District, Republic of Bashkortostan, Russia",
+      "es": "Chishmy, distrito de Chishminsky, república de Baskortostán, Rusia"
+    },
+    "title": {
+      "fr": "Des drones ukrainiens frappent un entrepôt et une raffinerie en Bachkirie, à plus de 1300 km du front",
+      "en": "Ukrainian drones strike a warehouse and refinery in Bashkortostan, more than 1,300 km from the front",
+      "es": "Drones ucranianos atacan un almacén y una refinería en Baskortostán, a más de 1300 km del frente"
+    },
+    "summary": {
+      "fr": "Des drones ukrainiens ont frappé dans la nuit du 13 août un entrepôt logistique du groupe Wildberries ainsi qu'un complexe pétrochimique dans le district de Tchichmy, en république de Bachkirie, à plus de 1300 km de la frontière ukrainienne, selon Meduza et The Moscow Times, citant des autorités régionales russes. L'incendie qui en a résulté a détruit environ un cinquième de l'entrepôt ; deux personnes ont été blessées et hospitalisées, aucun décès n'a été signalé. Les autorités ukrainiennes n'ont pas revendiqué publiquement cette frappe précise, qui s'inscrit dans une série documentée d'attaques ukrainiennes visant des installations liées à la logistique militaire russe.",
+      "en": "Ukrainian drones struck a Wildberries logistics warehouse and a petrochemical complex in the Chishminsky District of Bashkortostan, more than 1,300 km from the Ukrainian border, on the night of August 13, according to Meduza and The Moscow Times, citing Russian regional authorities. The resulting fire destroyed about a fifth of the warehouse; two people were injured and hospitalized, with no deaths reported. Ukrainian officials have not publicly claimed this specific strike, which fits a documented pattern of Ukrainian attacks on facilities linked to Russia's military-logistics network.",
+      "es": "Drones ucranianos atacaron en la noche del 13 de agosto un almacén logístico del grupo Wildberries y un complejo petroquímico en el distrito de Chishminsky, en la república de Baskortostán, a más de 1300 km de la frontera ucraniana, según Meduza y The Moscow Times, citando a autoridades regionales rusas. El incendio resultante destruyó aproximadamente una quinta parte del almacén; dos personas resultaron heridas y fueron hospitalizadas, sin que se reportaran muertes. Las autoridades ucranianas no han reivindicado públicamente este ataque en concreto, que se inscribe en un patrón documentado de ataques ucranianos contra instalaciones vinculadas a la logística militar rusa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Un incendie se déclare après la frappe de drones sur l'entrepôt et la raffinerie, selon les autorités régionales russes citées par Meduza.",
+          "en": "A fire breaks out following the drone strike on the warehouse and refinery, according to Russian regional authorities cited by Meduza.",
+          "es": "Se declara un incendio tras el ataque con drones al almacén y la refinería, según autoridades regionales rusas citadas por Meduza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-sumy-frappe",
+    "coords": [
+      33.827,
+      51.196
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "AP / UNN",
+    "place": {
+      "fr": "Bouryn, oblast de Soumy, Ukraine",
+      "en": "Buryn, Sumy Oblast, Ukraine",
+      "es": "Buryn, óblast de Sumy, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe tue une mère et son fils de 9 ans dans l'oblast de Soumy",
+      "en": "Russian strike kills a mother and her 9-year-old son in Sumy Oblast",
+      "es": "Un ataque ruso mata a una madre y a su hijo de 9 años en el óblast de Sumy"
+    },
+    "summary": {
+      "fr": "Les autorités ukrainiennes ont rapporté que des forces russes ont frappé le 14 août, tôt le matin, un immeuble résidentiel de la communauté de Bouryn, dans l'oblast de Soumy, à l'aide de drones à propulsion de type roquette, tuant une femme de 29 ans et son fils de 9 ans et blessant au moins quatre autres personnes, dont le père et la grand-mère de l'enfant, brûlés. Les autorités ukrainiennes décrivent cette frappe comme faisant partie d'une intensification des attaques sur la région de Soumy cette semaine ; les autorités russes n'ont pas publié de déclaration correspondante sur cette frappe précise.",
+      "en": "Ukrainian officials reported that Russian forces struck a residential building in the Buryn community, Sumy Oblast, with rocket-propelled drones early on August 14, killing a 29-year-old woman and her 9-year-old son and injuring at least four others, including the boy's father and grandmother, who suffered burns. Ukrainian authorities described the strike as part of a broader intensification of attacks on the Sumy region this week; Russian authorities have not issued a corresponding public statement on this specific strike.",
+      "es": "Las autoridades ucranianas informaron de que fuerzas rusas atacaron el 14 de agosto, temprano por la mañana, un edificio residencial en la comunidad de Buryn, óblast de Sumy, con drones de propulsión tipo cohete, matando a una mujer de 29 años y a su hijo de 9 años y hiriendo al menos a otras cuatro personas, entre ellas el padre y la abuela del niño, que sufrieron quemaduras. Las autoridades ucranianas describieron el ataque como parte de una intensificación más amplia de los ataques sobre la región de Sumy esta semana; las autoridades rusas no han emitido una declaración correspondiente sobre este ataque en concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités ukrainiennes annoncent la mort d'une mère et de son fils dans la frappe sur Bouryn.",
+          "en": "Ukrainian authorities announce the death of a mother and her son in the strike on Buryn.",
+          "es": "Las autoridades ucranianas anuncian la muerte de una madre y su hijo en el ataque sobre Buryn."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-incendie-gey",
+    "coords": [
+      6.35,
+      50.68
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Bloomberg / The Local Germany",
+    "place": {
+      "fr": "Gey (commune de Hürtgenwald), district de Düren, Rhénanie-du-Nord-Westphalie, Allemagne",
+      "en": "Gey (Hürtgenwald municipality), Düren district, North Rhine-Westphalia, Germany",
+      "es": "Gey (municipio de Hürtgenwald), distrito de Düren, Renania del Norte-Westfalia, Alemania"
+    },
+    "title": {
+      "fr": "Environ 1800 personnes évacuées après le plus grand incendie de forêt jamais enregistré en Rhénanie-du-Nord-Westphalie",
+      "en": "About 1,800 evacuated after the largest wildfire on record in North Rhine-Westphalia",
+      "es": "Unas 1800 personas evacuadas tras el mayor incendio forestal registrado en Renania del Norte-Westfalia"
+    },
+    "summary": {
+      "fr": "Un incendie de forêt dans le district de Düren, en Rhénanie-du-Nord-Westphalie, s'est propagé dans la nuit vers le village de Gey (commune de Hürtgenwald), poussant les autorités à évacuer environ 1800 à 2000 habitants vers 4 heures du matin le 14 août, selon Bloomberg et The Local Germany. Environ 300 hectares ont brûlé ; la lutte contre le feu a été compliquée par la présence de munitions non explosées de la Seconde Guerre mondiale près d'un ancien dépôt à Düren, et des véhicules de l'armée allemande ont aidé à dégager des accès forestiers. Les autorités régionales ont qualifié l'événement de plus grand incendie jamais enregistré dans l'État.",
+      "en": "A forest fire in the Düren district of North Rhine-Westphalia spread overnight toward the village of Gey (Hürtgenwald municipality), prompting authorities to evacuate roughly 1,800 to 2,000 residents around 4am on August 14, according to Bloomberg and The Local Germany. About 300 hectares burned; firefighting was complicated by unexploded World War II munitions near a former depot in Düren, and German army vehicles helped clear forest access routes. State officials called it the largest wildfire ever recorded in the state.",
+      "es": "Un incendio forestal en el distrito de Düren, en Renania del Norte-Westfalia, se propagó durante la noche hacia el pueblo de Gey (municipio de Hürtgenwald), lo que llevó a las autoridades a evacuar a unos 1800-2000 residentes hacia las 4 de la madrugada del 14 de agosto, según Bloomberg y The Local Germany. Ardieron unas 300 hectáreas; la lucha contra el fuego se vio complicada por la presencia de municiones sin explotar de la Segunda Guerra Mundial cerca de un antiguo depósito en Düren, y vehículos del ejército alemán ayudaron a despejar accesos forestales. Las autoridades regionales calificaron el suceso como el mayor incendio forestal jamás registrado en el estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités évacuent environ 1800 habitants du village de Gey, selon Bloomberg.",
+          "en": "Authorities evacuate about 1,800 residents from the village of Gey, according to Bloomberg.",
+          "es": "Las autoridades evacuan a unos 1800 residentes del pueblo de Gey, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-incendie-stourbridge",
+    "coords": [
+      -2.15,
+      52.46
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ITV News / GOV.UK / LBC",
+    "place": {
+      "fr": "Stourbridge, West Midlands, Angleterre",
+      "en": "Stourbridge, West Midlands, England",
+      "es": "Stourbridge, West Midlands, Inglaterra"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni émet sa première alerte nationale incendie après un feu dévastateur à Stourbridge",
+      "en": "UK issues its first national wildfire emergency alert after a devastating Stourbridge fire",
+      "es": "El Reino Unido emite su primera alerta nacional de incendios tras un incendio devastador en Stourbridge"
+    },
+    "summary": {
+      "fr": "Un feu de broussailles et de bois s'est déclaré près de Racecourse Lane, à Stourbridge, vers 13h30 le 13 août, brûlant environ 16 hectares, selon ITV News. Le service d'incendie des West Midlands a confirmé la destruction de 19 maisons et l'endommagement de 18 autres ; un enfant et trois pompiers ont été hospitalisés, et six personnes ont été traitées pour inhalation de fumée. Dans un contexte de chaleur record (38,1°C à Kew) et de multiples incendies au Royaume-Uni, le gouvernement a émis le 14 août au soir sa toute première alerte d'urgence nationale par téléphone en Angleterre et au pays de Galles, avertissant d'un risque très élevé d'incendie et interdisant les barbecues jetables.",
+      "en": "A fast-moving grass and woodland fire broke out near Racecourse Lane in Stourbridge around 1:30pm on August 13, burning roughly 16 hectares, according to ITV News. West Midlands Fire Service confirmed 19 homes destroyed and 18 damaged; a child and three firefighters were hospitalized, and six people were treated for smoke inhalation. Amid record heat (38.1°C at Kew) and multiple UK wildfires, the government issued its first-ever genuine national Emergency Alert to phones in England and Wales on the evening of August 14, warning of very high wildfire risk and banning disposable barbecues.",
+      "es": "Un incendio de rápida propagación en pastizales y bosque se declaró cerca de Racecourse Lane, en Stourbridge, hacia la 1:30 de la tarde del 13 de agosto, quemando unas 16 hectáreas, según ITV News. El Servicio de Bomberos de West Midlands confirmó la destrucción de 19 viviendas y daños en otras 18; un menor y tres bomberos fueron hospitalizados, y seis personas fueron tratadas por inhalación de humo. En un contexto de calor récord (38,1°C en Kew) y múltiples incendios en el Reino Unido, el gobierno emitió la noche del 14 de agosto su primera alerta de emergencia nacional real a los teléfonos en Inglaterra y Gales, advirtiendo de un riesgo muy alto de incendio y prohibiendo las barbacoas desechables."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Un incendie détruit 19 maisons à Stourbridge, selon ITV News.",
+          "en": "A fire destroys 19 homes in Stourbridge, according to ITV News.",
+          "es": "Un incendio destruye 19 viviendas en Stourbridge, según ITV News."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement britannique émet sa première alerte d'urgence nationale liée au risque d'incendie.",
+          "en": "The UK government issues its first national emergency alert linked to wildfire risk.",
+          "es": "El gobierno británico emite su primera alerta de emergencia nacional vinculada al riesgo de incendios."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "espagne-incendie-sanjuan",
+    "coords": [
+      -0.55,
+      42.45
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NBC News / RTE / The Olive Press",
+    "place": {
+      "fr": "San Juan de la Peña, province de Huesca, Aragon, Espagne",
+      "en": "San Juan de la Peña, Huesca province, Aragon, Spain",
+      "es": "San Juan de la Peña, provincia de Huesca, Aragón, España"
+    },
+    "title": {
+      "fr": "Un incendie menace le monastère de San Juan de la Peña, les restes de rois médiévaux mis à l'abri",
+      "en": "Wildfire threatens San Juan de la Peña monastery, remains of medieval kings moved to safety",
+      "es": "Un incendio amenaza el monasterio de San Juan de la Peña, los restos de reyes medievales son puestos a salvo"
+    },
+    "summary": {
+      "fr": "Un incendie qui brûle depuis le 10 août dans la province de Huesca, en Aragon, avait détruit plus de 9000 hectares au 14 août et entraîné l'évacuation de 16 communes, selon NBC News et RTE. Alors que les flammes approchaient du complexe monastique de San Juan de la Peña, datant du Xe siècle, les autorités espagnoles ont transféré les dépouilles de trois rois aragonais du XIe siècle vers le musée provincial de Huesca, à 80 km de là, par précaution, et une unité militaire d'urgence a récupéré des vêtements cérémoniels du XVIIIe siècle avant de se retirer face à l'avancée du feu. Le monastère restait intact au matin du 15 août.",
+      "en": "A wildfire burning since August 10 in Huesca province, Aragon, had burned more than 9,000 hectares by August 14 and forced the evacuation of 16 towns, according to NBC News and RTE. As flames approached the 10th-century San Juan de la Peña monastery complex, Spanish authorities moved the remains of three 11th-century Aragonese kings to the provincial museum in Huesca, 80km away, as a precaution, and an emergency military unit retrieved 18th-century ceremonial garments before withdrawing as the fire advanced. The monastery remained unharmed as of the morning of August 15.",
+      "es": "Un incendio que arde desde el 10 de agosto en la provincia de Huesca, Aragón, había quemado más de 9000 hectáreas hasta el 14 de agosto y obligado a evacuar 16 localidades, según NBC News y RTE. Mientras las llamas se acercaban al complejo monástico de San Juan de la Peña, del siglo X, las autoridades españolas trasladaron los restos de tres reyes aragoneses del siglo XI al museo provincial de Huesca, a 80 km de distancia, como medida de precaución, y una unidad militar de emergencias recuperó vestimentas ceremoniales del siglo XVIII antes de retirarse ante el avance del fuego. El monasterio permanecía indemne la mañana del 15 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Un incendie se déclare dans la province de Huesca, en Aragon.",
+          "en": "A wildfire breaks out in Huesca province, Aragon.",
+          "es": "Se declara un incendio en la provincia de Huesca, Aragón."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités mettent à l'abri les restes de trois rois médiévaux menacés par le feu près du monastère.",
+          "en": "Authorities move the remains of three medieval kings to safety as fire threatens the monastery.",
+          "es": "Las autoridades ponen a salvo los restos de tres reyes medievales ante la amenaza del fuego cerca del monasterio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-zamfara-otages",
+    "coords": [
+      6.92,
+      11.96
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "Vanguard / Washington Post",
+    "place": {
+      "fr": "Village de Magazu, zone de gouvernement local de Tsafe, État de Zamfara, Nigeria",
+      "en": "Magazu village, Tsafe LGA, Zamfara State, Nigeria",
+      "es": "Aldea de Magazu, área de gobierno local de Tsafe, estado de Zamfara, Nigeria"
+    },
+    "title": {
+      "fr": "L'armée nigériane libère 33 passagers enlevés dans l'État de Zamfara",
+      "en": "Nigerian Army frees 33 kidnapped passengers in Zamfara State",
+      "es": "El Ejército nigeriano libera a 33 pasajeros secuestrados en el estado de Zamfara"
+    },
+    "summary": {
+      "fr": "Des soldats de l'armée nigériane basés à Tsafe ont libéré, les 8 et 9 août, 33 passagers enlevés par des hommes armés alors qu'ils traversaient le village de Magazu, dans l'État de Zamfara, selon Vanguard et le Washington Post. Agissant sur renseignement, les troupes ont intercepté les ravisseurs alors qu'ils déplaçaient leurs otages, engageant un échange de tirs qui a contraint les assaillants à fuir dans la brousse. Les 33 otages ont été récupérés sans perte, et une chasse à l'homme visant les ravisseurs était en cours.",
+      "en": "Nigerian Army troops based in Tsafe rescued, on August 8 and 9, 33 passengers who had been kidnapped by armed men while travelling through Magazu village in Zamfara State, according to Vanguard and The Washington Post. Acting on intelligence, troops intercepted the abductors as they moved the hostages, engaging in a firefight that forced the attackers to flee into the bush. All 33 hostages were recovered without casualties, and a manhunt for the attackers was under way.",
+      "es": "Tropas del Ejército nigeriano con base en Tsafe rescataron, el 8 y 9 de agosto, a 33 pasajeros que habían sido secuestrados por hombres armados mientras viajaban por la aldea de Magazu, en el estado de Zamfara, según Vanguard y The Washington Post. Actuando por inteligencia, las tropas interceptaron a los secuestradores mientras trasladaban a los rehenes, entablando un tiroteo que obligó a los atacantes a huir hacia el monte. Los 33 rehenes fueron rescatados sin bajas, y se puso en marcha una búsqueda de los responsables."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "L'armée nigériane annonce la libération des 33 otages, selon Vanguard.",
+          "en": "The Nigerian Army announces the release of the 33 hostages, according to Vanguard.",
+          "es": "El Ejército nigeriano anuncia la liberación de los 33 rehenes, según Vanguard."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "id": "egypte-explosion-centre-commercial",
+    "coords": [
+      31.49,
+      30.03
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The National / Xinhua",
+    "place": {
+      "fr": "Centre commercial Arabella Plaza, New Cairo (Cinquième colonie), gouvernorat du Caire, Égypte",
+      "en": "Arabella Plaza Mall, New Cairo (Fifth Settlement), Cairo Governorate, Egypt",
+      "es": "Centro comercial Arabella Plaza, Nuevo Cairo (Quinto Asentamiento), gobernación de El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'explosion d'une bonbonne d'hélium dans un centre commercial du Caire fait plusieurs morts",
+      "en": "Helium cylinder explosion at Cairo mall kills several",
+      "es": "La explosión de una bombona de helio en un centro comercial de El Cairo deja varios muertos"
+    },
+    "summary": {
+      "fr": "Une bonbonne de gaz hélium a explosé le 13 août au soir dans une boutique de cadeaux au rez-de-chaussée du centre commercial Arabella Plaza, dans le quartier de New Cairo, provoquant un incendie qui a endommagé plusieurs commerces, selon The National et Xinhua. Les bilans communiqués varient entre deux et trois morts, avec 12 à 17 blessés, plusieurs ayant été hospitalisés à l'hôpital spécialisé de New Cairo. Le ministère égyptien de l'Intérieur a démenti des allégations circulant sur les réseaux sociaux évoquant l'effondrement d'un ascenseur, et une enquête sur la cause de l'explosion a été ouverte.",
+      "en": "A helium gas cylinder exploded on the evening of August 13 in a gift shop on the ground floor of the Arabella Plaza Mall in the New Cairo district, triggering a fire that damaged several storefronts, according to The National and Xinhua. Reported death tolls range between two and three, with 12 to 17 injured; several were hospitalized at New Cairo Specialised Hospital. Egypt's Ministry of Interior denied social-media claims of an elevator collapse, and an investigation into the cause was opened.",
+      "es": "Una bombona de gas helio explotó en la tarde del 13 de agosto en una tienda de regalos en la planta baja del centro comercial Arabella Plaza, en el distrito de Nuevo Cairo, provocando un incendio que dañó varios locales, según The National y Xinhua. Los balances difundidos varían entre dos y tres muertos, con entre 12 y 17 heridos, varios de ellos hospitalizados en el Hospital Especializado de Nuevo Cairo. El Ministerio del Interior egipcio desmintió versiones difundidas en redes sociales sobre el colapso de un ascensor, y se abrió una investigación sobre la causa de la explosión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Une explosion suivie d'un incendie touche le centre commercial Arabella Plaza, selon The National.",
+          "en": "An explosion followed by a fire strikes the Arabella Plaza Mall, according to The National.",
+          "es": "Una explosión seguida de un incendio afecta al centro comercial Arabella Plaza, según The National."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "id": "afriquesud-capetown-fusillades",
+    "coords": [
+      18.68,
+      -34.04
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "News24 / EWN",
+    "place": {
+      "fr": "Khayelitsha, Langa et Gugulethu, Le Cap, Afrique du Sud",
+      "en": "Khayelitsha, Langa and Gugulethu, Cape Town, South Africa",
+      "es": "Khayelitsha, Langa y Gugulethu, Ciudad del Cabo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Onze morts dans trois fusillades distinctes dans les quartiers du Cape Flats, au Cap",
+      "en": "Eleven dead in three separate shootings across Cape Town's Cape Flats",
+      "es": "Once muertos en tres tiroteos distintos en los barrios de Cape Flats, en Ciudad del Cabo"
+    },
+    "summary": {
+      "fr": "Onze personnes ont été tuées et deux autres blessées dans trois fusillades distinctes survenues dans la nuit du 8 au 9 août dans les quartiers du Cape Flats, au Cap, selon News24 et EWN. À Khayelitsha, trois hommes ont été abattus vers 22h50 ; à Langa, quatre hommes et une femme ont été tués à peu près au même moment ; et à Gugulethu, deux hommes et une femme ont été tués et deux autres blessés vers 4h10. Le mobile de ces attaques n'était pas officiellement confirmé au moment des faits ; le service de police sud-africain a renforcé ses effectifs dans les zones concernées.",
+      "en": "Eleven people were killed and two others wounded in three separate shootings overnight on August 8-9 across the Cape Flats area of Cape Town, according to News24 and EWN. In Khayelitsha, three men were shot dead around 10:50pm; in Langa, four men and a woman were killed at around the same time; and in Gugulethu, two men and a woman were killed and two others wounded around 4:10am. The motive for the attacks had not been officially confirmed at the time of reporting; South African police reinforced deployments in the affected areas.",
+      "es": "Once personas murieron y otras dos resultaron heridas en tres tiroteos distintos ocurridos durante la noche del 8 al 9 de agosto en la zona de Cape Flats, en Ciudad del Cabo, según News24 y EWN. En Khayelitsha, tres hombres fueron abatidos hacia las 22:50; en Langa, cuatro hombres y una mujer fueron asesinados casi al mismo tiempo; y en Gugulethu, dos hombres y una mujer murieron y otras dos personas resultaron heridas hacia las 4:10 de la madrugada. El motivo de los ataques no había sido confirmado oficialmente en el momento de la información; la policía sudafricana reforzó sus efectivos en las zonas afectadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "La police sud-africaine confirme un bilan de 11 morts après trois fusillades distinctes.",
+          "en": "South African police confirm a toll of 11 dead after three separate shootings.",
+          "es": "La policía sudafricana confirma un balance de 11 muertos tras tres tiroteos distintos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "id": "indonesie-seisme-flores",
+    "coords": [
+      121.66,
+      -8.84
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Al Jazeera / CNBC / BNPB",
+    "place": {
+      "fr": "Au large de l'île de Florès (près d'Ende), province de Nusa Tenggara oriental, Indonésie",
+      "en": "Off Flores Island (near Ende), East Nusa Tenggara province, Indonesia",
+      "es": "Frente a la isla de Flores (cerca de Ende), provincia de Nusa Tenggara Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,7 frappe l'île indonésienne de Florès, au moins 20 morts",
+      "en": "Magnitude 7.7 earthquake strikes Indonesia's Flores Island, at least 20 dead",
+      "es": "Un terremoto de magnitud 7,7 golpea la isla indonesia de Flores, al menos 20 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,7 a frappé au large de l'île de Florès, dans la province de Nusa Tenggara oriental, le 15 août à 5h58 heure locale, suivi de répliques de magnitude 5,6 à 6,1, selon Al Jazeera et CNBC. L'agence indonésienne de gestion des catastrophes (BNPB) a émis puis levé une alerte au tsunami après l'enregistrement de vagues de moins d'un mètre. Les secours, autour de la ville portuaire de Maumere, faisaient état de 20 morts, 6 blessés et 2 personnes prises sous des décombres, un bilan susceptible de s'alourdir en raison de routes coupées par des glissements de terrain vers Nagekeo, zone la plus proche de l'épicentre. Environ 2000 habitants ont été évacués à Nagekeo.",
+      "en": "A magnitude-7.7 earthquake struck off Flores Island in East Nusa Tenggara province on August 15 at 5:58am local time, followed by aftershocks of magnitude 5.6 to 6.1, according to Al Jazeera and CNBC. Indonesia's disaster mitigation agency (BNPB) issued and later lifted a tsunami warning after waves under one meter were recorded. Rescuers around the port town of Maumere reported 20 dead, 6 injured and 2 trapped under rubble, a toll expected to rise as landslide-blocked roads hampered access to Nagekeo, the area nearest the epicenter. About 2,000 residents were evacuated in Nagekeo.",
+      "es": "Un terremoto de magnitud 7,7 golpeó frente a la isla de Flores, en la provincia de Nusa Tenggara Oriental, el 15 de agosto a las 5:58 hora local, seguido de réplicas de magnitud 5,6 a 6,1, según Al Jazeera y CNBC. La agencia indonesia de gestión de desastres (BNPB) emitió y luego levantó una alerta de tsunami tras registrarse olas de menos de un metro. Los equipos de rescate en torno a la localidad portuaria de Maumere informaron de 20 muertos, 6 heridos y 2 personas atrapadas bajo escombros, un balance que se preveía que aumentara debido a carreteras bloqueadas por deslizamientos hacia Nagekeo, la zona más cercana al epicentro. Unos 2000 residentes fueron evacuados en Nagekeo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,7 frappe au large de Florès ; le BNPB fait état d'au moins 20 morts.",
+          "en": "A magnitude-7.7 earthquake strikes off Flores; BNPB reports at least 20 dead.",
+          "es": "Un terremoto de magnitud 7,7 golpea frente a Flores; el BNPB informa de al menos 20 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "id": "australie-rba-taux",
+    "coords": [
+      151.21,
+      -33.87
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Reserve Bank of Australia / Bloomberg",
+    "place": {
+      "fr": "Sydney, Nouvelle-Galles du Sud, Australie",
+      "en": "Sydney, New South Wales, Australia",
+      "es": "Sídney, Nueva Gales del Sur, Australia"
+    },
+    "title": {
+      "fr": "La Banque de réserve d'Australie maintient son taux directeur inchangé",
+      "en": "Reserve Bank of Australia holds its cash rate steady",
+      "es": "El Banco de Reserva de Australia mantiene sin cambios su tasa de interés"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque de réserve d'Australie a maintenu le 11 août son taux directeur à 4,35 %, pour la deuxième fois consécutive, selon un communiqué officiel de la banque centrale et Bloomberg. Cette décision, prise à l'unanimité sous la présidence de la gouverneure Michele Bullock, fait suite à trois hausses de taux plus tôt en 2026 destinées à contenir l'inflation. La banque a évoqué un ralentissement de l'activité économique tout en n'excluant pas une nouvelle hausse si les pressions sur les prix persistaient ; l'indice ASX 200 a reculé de 0,6 % après l'annonce.",
+      "en": "The Reserve Bank of Australia's Monetary Policy Board held the official cash rate steady at 4.35% on August 11, for the second consecutive time, according to an official central bank statement and Bloomberg. The unanimous decision, chaired by Governor Michele Bullock, followed three rate hikes earlier in 2026 aimed at containing inflation. The bank noted decelerating economic activity while leaving open the possibility of a further hike if price pressures persisted; the ASX 200 index fell 0.6% after the announcement.",
+      "es": "La Junta de Política Monetaria del Banco de Reserva de Australia mantuvo el 11 de agosto la tasa de interés oficial sin cambios en el 4,35%, por segunda vez consecutiva, según un comunicado oficial del banco central y Bloomberg. La decisión, tomada por unanimidad bajo la presidencia de la gobernadora Michele Bullock, se produce tras tres subidas de tasas a principios de 2026 destinadas a contener la inflación. El banco señaló una desaceleración de la actividad económica sin descartar una nueva subida si persisten las presiones de precios; el índice ASX 200 cayó un 0,6% tras el anuncio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "La Banque de réserve d'Australie annonce le maintien du taux directeur à 4,35 %.",
+          "en": "The Reserve Bank of Australia announces the cash rate held at 4.35%.",
+          "es": "El Banco de Reserva de Australia anuncia el mantenimiento de la tasa de interés en el 4,35%."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "id": "mexique-culiacan-fusillade",
+    "coords": [
+      -107.4,
+      24.79
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Quadratín / Noroeste",
+    "place": {
+      "fr": "Colonia 8 de Febrero, Culiacán, État de Sinaloa, Mexique",
+      "en": "Colonia 8 de Febrero, Culiacán, Sinaloa, Mexico",
+      "es": "Colonia 8 de Febrero, Culiacán, estado de Sinaloa, México"
+    },
+    "title": {
+      "fr": "Une attaque armée fait deux morts à Culiacán, dans l'État mexicain du Sinaloa",
+      "en": "Armed attack kills two in Culiacán, Mexican state of Sinaloa",
+      "es": "Un ataque armado deja dos muertos en Culiacán, estado mexicano de Sinaloa"
+    },
+    "summary": {
+      "fr": "Une attaque armée survenue vers 16h30 le 13 août dans le secteur de Villa Bonita, à Culiacán, a fait deux morts âgés de 18 et 22 ans et blessé au moins deux autres personnes, lorsque des hommes armés à bord d'un véhicule ont ouvert le feu sur un groupe de personnes, selon Quadratín et Noroeste. L'attaque s'inscrit dans un contexte de violences persistantes liées à des rivalités internes au cartel de Sinaloa dans la région.",
+      "en": "An armed attack around 4:30pm on August 13 in the Villa Bonita area of Culiacán left two young men, aged 18 and 22, dead and at least two others wounded, when gunmen in a vehicle opened fire on a group of people, according to Quadratín and Noroeste. The attack occurred amid ongoing violence linked to factional rivalries within the Sinaloa Cartel in the region.",
+      "es": "Un ataque armado ocurrido hacia las 16:30 horas del 13 de agosto en el sector de Villa Bonita, en Culiacán, dejó dos jóvenes muertos, de 18 y 22 años, y al menos otras dos personas heridas, cuando hombres armados a bordo de un vehículo abrieron fuego contra un grupo de personas, según Quadratín y Noroeste. El ataque se produce en un contexto de violencia persistente vinculada a rivalidades internas dentro del Cártel de Sinaloa en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Une attaque armée fait deux morts dans le secteur de Villa Bonita, selon Quadratín.",
+          "en": "An armed attack leaves two dead in the Villa Bonita area, according to Quadratín.",
+          "es": "Un ataque armado deja dos muertos en el sector de Villa Bonita, según Quadratín."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
   }
 ]
