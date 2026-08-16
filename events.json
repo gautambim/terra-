@@ -829,5 +829,961 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -77.426,
+      37.243
+    ],
+    "id": "virginia-state-university-fusillade",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CBS News / NBC News / WTOP",
+    "place": {
+      "fr": "Ettrick (comté de Chesterfield), Virginie, États-Unis",
+      "en": "Ettrick (Chesterfield County), Virginia, United States",
+      "es": "Ettrick (condado de Chesterfield), Virginia, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade fait cinq blessés à la Virginia State University",
+      "en": "Shooting leaves five injured at Virginia State University",
+      "es": "Un tiroteo deja cinco heridos en la Universidad Estatal de Virginia"
+    },
+    "summary": {
+      "fr": "Cinq personnes ont été blessées par balle près des résidences universitaires de la Virginia State University, à Ettrick, dans la nuit du 15 août, quelques jours avant la rentrée. Une victime est dans un état critique, les quatre autres ont des blessures sans pronostic vital engagé. Un suspect de 19 ans, non étudiant, a été arrêté quelques heures plus tard caché dans un placard du campus et fait face à huit chefs d'inculpation, dont coups et blessures volontaires avec arme à feu.",
+      "en": "Five people were shot near residence halls at Virginia State University in Ettrick in the early hours of August 15, just days before the fall semester was due to begin. One victim is in critical condition; the other four have non-life-threatening injuries. A 19-year-old suspect, not a student, was arrested hours later hiding in a campus closet and faces eight felony charges, including malicious wounding with a firearm.",
+      "es": "Cinco personas resultaron heridas de bala cerca de las residencias universitarias de la Universidad Estatal de Virginia, en Ettrick, en la madrugada del 15 de agosto, días antes del inicio del semestre. Una víctima se encuentra en estado crítico; las otras cuatro no corren peligro de muerte. Un sospechoso de 19 años, que no es estudiante, fue arrestado horas después escondido en un armario del campus y enfrenta ocho cargos, entre ellos lesiones dolosas con arma de fuego."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026, 1h28",
+          "en": "15/08/2026, 1:28 AM",
+          "es": "15/08/2026, 1:28"
+        },
+        "d": {
+          "fr": "La police de Virginie confirme cinq blessés par balle près des dortoirs du campus et l'arrestation d'un suspect quelques heures plus tard.",
+          "en": "Virginia police confirm five people shot near campus dormitories and the arrest of a suspect hours later.",
+          "es": "La policía de Virginia confirma cinco heridos de bala cerca de los dormitorios del campus y la detención de un sospechoso horas después."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -85.6799,
+      40.1053
+    ],
+    "id": "indiana-inondations-record",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ABC News / NBC News / NPR",
+    "place": {
+      "fr": "Anderson, Indiana, États-Unis",
+      "en": "Anderson, Indiana, United States",
+      "es": "Anderson, Indiana, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une crue historique dépasse un record vieux de 113 ans dans l'Indiana",
+      "en": "Historic flood surpasses a 113-year-old record in Indiana",
+      "es": "Una crecida histórica supera un récord de 113 años en Indiana"
+    },
+    "summary": {
+      "fr": "Après des pluies torrentielles ayant atteint plus de 28 cm en deux jours, la rivière White à Anderson a atteint 7,60 mètres le 14 août, dépassant le précédent record établi lors de la crue de 1913. Les autorités indiquent qu'au moins cinq à six personnes sont mortes dans l'État selon les sources, et plus de 150 000 foyers ont été privés d'électricité au plus fort de la crise. Le gouverneur de l'Indiana a déclaré l'état de catastrophe et sollicité une aide fédérale.",
+      "en": "After torrential rain topping 28 cm in two days, the White River at Anderson crested at 7.60 meters (24.93 ft) on August 14, surpassing the previous record set during the 1913 flood. Authorities say at least five to six people have died statewide, depending on the source, and more than 150,000 customers lost power at the peak of the crisis. Indiana's governor declared a statewide disaster emergency and requested federal aid.",
+      "es": "Tras lluvias torrenciales que superaron los 28 cm en dos días, el río White en Anderson alcanzó los 7,60 metros el 14 de agosto, superando el récord anterior establecido durante la crecida de 1913. Las autoridades indican que al menos entre cinco y seis personas han muerto en el estado, según la fuente, y más de 150.000 hogares se quedaron sin electricidad en el punto álgido de la crisis. El gobernador de Indiana declaró el estado de emergencia por catástrofe y solicitó ayuda federal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "La rivière White atteint 7,60 m à Anderson, un niveau inédit depuis 1913 ; le gouverneur déclare l'état de catastrophe.",
+          "en": "The White River reaches 7.60 m at Anderson, its highest level since 1913; the governor declares a state of disaster.",
+          "es": "El río White alcanza 7,60 m en Anderson, su nivel más alto desde 1913; el gobernador declara el estado de catástrofe."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -119.6,
+      49.86
+    ],
+    "id": "colombie-britannique-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / CNBC / Al Jazeera",
+    "place": {
+      "fr": "Vallée de l'Okanagan (région de West Kelowna), Colombie-Britannique, Canada",
+      "en": "Okanagan Valley (West Kelowna area), British Columbia, Canada",
+      "es": "Valle de Okanagan (zona de West Kelowna), Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Plus de 100 feux de forêt provoquent l'état d'urgence en Colombie-Britannique",
+      "en": "More than 100 wildfires prompt state of emergency in British Columbia",
+      "es": "Más de 100 incendios forestales provocan el estado de emergencia en Columbia Británica"
+    },
+    "summary": {
+      "fr": "Le premier ministre de la Colombie-Britannique, David Eby, a déclaré l'état d'urgence provincial alors que plus d'une centaine de feux de forêt, dont l'incendie de Bald Range qui a brûlé environ 9 500 hectares, ravageaient la province. Plus de 20 000 personnes ont été évacuées au plus fort de la crise début août. Selon une source, une femme de 80 ans serait morte en tentant de fuir les flammes ; cette information reste à confirmer de façon indépendante. À la mi-août, une partie des évacués ont pu regagner leur domicile, les ordres d'évacuation ayant été abaissés en alertes dans plusieurs secteurs, bien que des feux actifs se poursuivent ailleurs dans la province.",
+      "en": "British Columbia Premier David Eby declared a provincial state of emergency as more than 100 wildfires, including the Bald Range fire that burned roughly 9,500 hectares, tore through the province. More than 20,000 people were evacuated at the peak of the crisis in early August. One source reported that an 80-year-old woman died while trying to flee the flames; this detail remains to be independently confirmed. By mid-August, some evacuees were able to return home as evacuation orders were downgraded to alerts in several areas, though active fires continued to burn elsewhere in the province.",
+      "es": "El primer ministro de Columbia Británica, David Eby, declaró el estado de emergencia provincial mientras más de un centenar de incendios forestales, incluido el incendio de Bald Range que quemó unas 9.500 hectáreas, arrasaban la provincia. Más de 20.000 personas fueron evacuadas en el punto álgido de la crisis a principios de agosto. Según una fuente, una mujer de 80 años habría muerto al intentar huir de las llamas; este dato aún debe confirmarse de forma independiente. A mediados de agosto, parte de los evacuados pudieron regresar a sus hogares al rebajarse las órdenes de evacuación a alertas en varias zonas, aunque siguen activos incendios en otras partes de la provincia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement provincial fait état de plus de 100 feux actifs et du retour progressif d'évacués dans plusieurs secteurs.",
+          "en": "The provincial government reports more than 100 active fires and the gradual return of evacuees in several areas.",
+          "es": "El gobierno provincial informa de más de 100 incendios activos y el regreso gradual de evacuados en varias zonas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -94.348,
+      16.483
+    ],
+    "id": "oaxaca-attaque-fete",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Fiscalía de Oaxaca / Proceso / Infobae",
+    "place": {
+      "fr": "Santo Domingo Zanatepec, Oaxaca, Mexique",
+      "en": "Santo Domingo Zanatepec, Oaxaca, Mexico",
+      "es": "Santo Domingo Zanatepec, Oaxaca, México"
+    },
+    "title": {
+      "fr": "Une attaque armée lors d'une fête d'anniversaire fait trois morts à Zanatepec",
+      "en": "Armed attack at a birthday party kills three in Zanatepec",
+      "es": "Un ataque armado en una fiesta de cumpleaños deja tres muertos en Zanatepec"
+    },
+    "summary": {
+      "fr": "Un groupe armé arrivé à bord d'un véhicule a ouvert le feu sur les invités d'une fête d'anniversaire dans la salle des fêtes « Baby O », à Santo Domingo Zanatepec, dans l'isthme de Tehuantepec, le soir du 14 août, tuant trois hommes et blessant une autre personne. Le parquet de l'État d'Oaxaca a confirmé ce bilan et ouvert une enquête pour homicide ; aucun mobile ni suspect n'a été annoncé publiquement à ce stade.",
+      "en": "An armed group arriving by vehicle opened fire on guests at a birthday party at the 'Baby O' event hall in Santo Domingo Zanatepec, in the Isthmus of Tehuantepec, on the evening of August 14, killing three men and wounding another person. The Oaxaca state prosecutor's office confirmed the toll and opened a homicide investigation; no motive or suspects have been publicly announced so far.",
+      "es": "Un grupo armado llegado en vehículo abrió fuego contra los asistentes a una fiesta de cumpleaños en el salón de eventos 'Baby O', en Santo Domingo Zanatepec, en el Istmo de Tehuantepec, la noche del 14 de agosto, matando a tres hombres y dejando una persona herida. La Fiscalía del estado de Oaxaca confirmó el saldo y abrió una investigación por homicidio; hasta ahora no se ha anunciado públicamente ningún móvil ni sospechoso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026 — soir",
+          "en": "14/08/2026 — evening",
+          "es": "14/08/2026 — noche"
+        },
+        "d": {
+          "fr": "La Fiscalía de Oaxaca confirme trois morts et un blessé après une fusillade dans une salle de fêtes de Zanatepec.",
+          "en": "The Oaxaca prosecutor's office confirms three dead and one wounded after a shooting at an event hall in Zanatepec.",
+          "es": "La Fiscalía de Oaxaca confirma tres muertos y un herido tras un tiroteo en un salón de fiestas de Zanatepec."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      50.15,
+      53.2
+    ],
+    "id": "ukraine-frappe-samara",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Kyiv Post / United24 Media",
+    "place": {
+      "fr": "Samara, Russie",
+      "en": "Samara, Russia",
+      "es": "Samara, Rusia"
+    },
+    "title": {
+      "fr": "L'Ukraine frappe une usine liée au spatial et une base aérienne militaire en Russie",
+      "en": "Ukraine strikes a space-related plant and a military airbase inside Russia",
+      "es": "Ucrania ataca una planta vinculada al sector espacial y una base aérea militar en Rusia"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 15 août, l'Ukraine a frappé, selon des sources ukrainiennes, le centre spatial Progress à Samara — qui produit notamment les lanceurs Soyouz-2 — ainsi que la base aérienne militaire de Savasleyka, dans la région de Nijni Novgorod, à environ 900 km de la frontière ukrainienne. Le gouverneur de la région de Samara a confirmé qu'un missile avait touché « une entreprise industrielle », sans préciser laquelle ; l'identification précise de la cible comme le centre spatial Progress provient de sources ukrainiennes et n'a pas été confirmée par la partie russe. Aucun bilan humain n'a été communiqué.",
+      "en": "Overnight on August 15, Ukraine struck what Ukrainian sources describe as the Progress Rocket Space Centre in Samara — which produces Soyuz-2 launch vehicles — as well as the Savasleyka military airbase in the Nizhny Novgorod region, roughly 900 km from the Ukrainian border. The governor of Samara region confirmed a missile had hit 'an industrial enterprise' without naming it; the specific identification of the target as the Progress space centre comes from Ukrainian sources and has not been confirmed by Russian officials. No casualty figures have been reported.",
+      "es": "En la madrugada del 15 de agosto, Ucrania atacó, según fuentes ucranianas, el Centro Espacial Progress en Samara —que fabrica los lanzadores Soyuz-2— así como la base aérea militar de Savasleyka, en la región de Nizhni Nóvgorod, a unos 900 km de la frontera ucraniana. El gobernador de la región de Samara confirmó que un misil había alcanzado 'una empresa industrial' sin precisar cuál; la identificación del objetivo como el centro espacial Progress proviene de fuentes ucranianas y no ha sido confirmada por la parte rusa. No se ha comunicado ningún balance de víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Des sources ukrainiennes annoncent une frappe sur le centre spatial de Samara ; le gouverneur régional confirme qu'un missile a touché une entreprise industrielle.",
+          "en": "Ukrainian sources announce a strike on the Samara space centre; the regional governor confirms a missile hit an industrial enterprise.",
+          "es": "Fuentes ucranianas anuncian un ataque contra el centro espacial de Samara; el gobernador regional confirma que un misil alcanzó una empresa industrial."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.55,
+      42.42
+    ],
+    "id": "espagne-incendie-huesca",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Spain in English / Euro Weekly News",
+    "place": {
+      "fr": "Province de Huesca (Aragon), Espagne",
+      "en": "Huesca province (Aragon), Spain",
+      "es": "Provincia de Huesca (Aragón), España"
+    },
+    "title": {
+      "fr": "Un incendie menace le monastère de San Juan de la Peña, ses rois médiévaux évacués",
+      "en": "Wildfire threatens San Juan de la Peña monastery, its medieval kings evacuated",
+      "es": "Un incendio amenaza el monasterio de San Juan de la Peña, sus reyes medievales son evacuados"
+    },
+    "summary": {
+      "fr": "Un incendie déclaré le 10 août dans la province de Huesca, en Aragon, avait déjà brûlé plus de 12 000 hectares au 14 août, forçant l'évacuation d'une dizaine de villages et de plus d'un millier d'habitants. Alors que les flammes approchaient du monastère de San Juan de la Peña, les autorités espagnoles ont fait évacuer les dépouilles médiévales de trois rois d'Aragon du XIe siècle vers le musée de Huesca, par mesure de précaution. Environ 600 personnels et 38 aéronefs ont été mobilisés contre l'incendie.",
+      "en": "A wildfire that broke out on August 10 in Huesca province, Aragon, had already burned more than 12,000 hectares by August 14, forcing the evacuation of around a dozen villages and more than a thousand residents. As flames approached the monastery of San Juan de la Peña, Spanish authorities evacuated the medieval remains of three 11th-century Aragonese kings to the Museum of Huesca as a precaution. About 600 personnel and 38 aircraft were deployed against the fire.",
+      "es": "Un incendio declarado el 10 de agosto en la provincia de Huesca, Aragón, ya había quemado más de 12.000 hectáreas el 14 de agosto, forzando la evacuación de una decena de pueblos y más de un millar de residentes. Mientras las llamas se acercaban al monasterio de San Juan de la Peña, las autoridades españolas evacuaron por precaución los restos medievales de tres reyes aragoneses del siglo XI al Museo de Huesca. Unos 600 efectivos y 38 aeronaves fueron movilizados contra el fuego."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Les restes des rois Ramire Ier, Sanche Ramire et Pierre Ier sont évacués du monastère de San Juan de la Peña, menacé par les flammes.",
+          "en": "The remains of kings Ramiro I, Sancho Ramírez and Pedro I are evacuated from the monastery of San Juan de la Peña, threatened by the flames.",
+          "es": "Los restos de los reyes Ramiro I, Sancho Ramírez y Pedro I son evacuados del monasterio de San Juan de la Peña, amenazado por las llamas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      6.34,
+      50.69
+    ],
+    "id": "allemagne-incendie-hurtgenwald",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Local Germany / Euronews / Copernicus EMS",
+    "place": {
+      "fr": "Hürtgenwald (district de Gey), Rhénanie-du-Nord-Westphalie, Allemagne",
+      "en": "Hürtgenwald (Gey district), North Rhine-Westphalia, Germany",
+      "es": "Hürtgenwald (distrito de Gey), Renania del Norte-Westfalia, Alemania"
+    },
+    "title": {
+      "fr": "Le plus grand incendie de forêt de l'histoire de la Rhénanie-du-Nord-Westphalie force une évacuation",
+      "en": "Largest wildfire in North Rhine-Westphalia's history forces evacuation",
+      "es": "El mayor incendio forestal de la historia de Renania del Norte-Westfalia obliga a evacuar"
+    },
+    "summary": {
+      "fr": "Un feu de forêt dans la forêt de Hürtgen, décrit par le gouvernement régional comme probablement le plus important de l'histoire de la Rhénanie-du-Nord-Westphalie, a contraint environ 1 800 habitants à évacuer dans la nuit du 13 au 14 août, les flammes s'approchant à environ 400 mètres des habitations. Quelque 1 400 pompiers et des hélicoptères de la Bundeswehr ont été déployés, une opération compliquée par la présence de munitions non explosées datant de la Seconde Guerre mondiale enfouies dans la forêt. Cinq personnes ont été blessées, dont un évacué âgé pris de malaise cardiaque.",
+      "en": "A wildfire in the Hürtgen Forest, described by the state government as likely the largest in North Rhine-Westphalia's history, forced around 1,800 residents to evacuate overnight on August 13-14 as flames came within about 400 meters of homes. Roughly 1,400 firefighters and Bundeswehr helicopters were deployed, an operation complicated by unexploded World War II-era ordnance buried in the forest. Five people were injured, including an elderly evacuee who suffered cardiac symptoms.",
+      "es": "Un incendio forestal en el bosque de Hürtgen, descrito por el gobierno regional como probablemente el mayor en la historia de Renania del Norte-Westfalia, obligó a evacuar a unos 1.800 residentes durante la noche del 13 al 14 de agosto, cuando las llamas se acercaron a unos 400 metros de las viviendas. Se desplegaron unos 1.400 bomberos y helicópteros de la Bundeswehr, una operación complicada por munición sin explotar de la Segunda Guerra Mundial enterrada en el bosque. Cinco personas resultaron heridas, entre ellas un evacuado de edad avanzada que sufrió síntomas cardíacos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Environ 1 800 habitants sont évacués alors que l'incendie de la forêt de Hürtgen s'approche des habitations.",
+          "en": "About 1,800 residents are evacuated as the Hürtgen Forest fire approaches homes.",
+          "es": "Unos 1.800 residentes son evacuados mientras el incendio del bosque de Hürtgen se acerca a las viviendas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      12.97,
+      41.72
+    ],
+    "id": "italie-explosion-colleferro",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Euronews / police italienne",
+    "place": {
+      "fr": "Colleferro, Latium, Italie",
+      "en": "Colleferro, Lazio, Italy",
+      "es": "Colleferro, Lacio, Italia"
+    },
+    "title": {
+      "fr": "Explosion dans une usine de munitions près de Rome",
+      "en": "Explosion at a munitions plant near Rome",
+      "es": "Explosión en una fábrica de municiones cerca de Roma"
+    },
+    "summary": {
+      "fr": "Une explosion suivie d'un incendie s'est produite le 13 août à l'usine KNDS Ammo Italy (ex-Simmel Difesa) de Colleferro, à environ 40 km au sud-est de Rome, alors que les pompiers intervenaient sur un premier départ de feu, apparemment dans le secteur de compression de poudre. La police italienne a confirmé l'explosion. Aucun blessé n'a été signalé, l'usine — qui produit des munitions et propergols de moyen et gros calibre — étant fermée pour les congés d'été au moment des faits.",
+      "en": "An explosion followed by a fire occurred on August 13 at the KNDS Ammo Italy plant (formerly Simmel Difesa) in Colleferro, about 40 km southeast of Rome, as firefighters were responding to an earlier blaze, apparently in the powder-compression section. Italian police confirmed the explosion. No injuries were reported, as the plant — which produces medium- and large-caliber ammunition and propellants — was closed for the summer holiday period at the time.",
+      "es": "Una explosión seguida de un incendio se produjo el 13 de agosto en la planta de KNDS Ammo Italy (antes Simmel Difesa) en Colleferro, a unos 40 km al sureste de Roma, mientras los bomberos respondían a un fuego previo, aparentemente en la sección de compresión de pólvora. La policía italiana confirmó la explosión. No se reportaron heridos, ya que la planta —que produce municiones y propelentes de mediano y gran calibre— estaba cerrada por las vacaciones de verano en ese momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "La police confirme une explosion à l'usine de munitions de Colleferro ; aucun blessé n'est signalé, l'usine étant fermée pour l'été.",
+          "en": "Police confirm an explosion at the Colleferro munitions plant; no injuries reported as the plant was closed for the summer.",
+          "es": "La policía confirma una explosión en la fábrica de municiones de Colleferro; no se reportan heridos, ya que la planta estaba cerrada por el verano."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.3376,
+      48.8606
+    ],
+    "id": "france-cour-constitutionnelle-reseaux-sociaux",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Conseil constitutionnel / franceinfo / Le JDD",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Le Conseil constitutionnel invalide l'interdiction des réseaux sociaux aux moins de 15 ans",
+      "en": "Constitutional Council strikes down ban on social media for under-15s",
+      "es": "El Consejo Constitucional invalida la prohibición de redes sociales a menores de 15 años"
+    },
+    "summary": {
+      "fr": "Saisi par des députés de La France insoumise, le Conseil constitutionnel a invalidé, le 14 août (décision n° 2026-911 DC), une loi qui aurait interdit l'accès aux réseaux sociaux aux mineurs de moins de 15 ans. Les juges ont estimé que cette interdiction constituait une atteinte disproportionnée à la liberté d'expression et de communication, relevant que les risques sanitaires invoqués n'étaient pas clairement établis pour l'ensemble des services concernés. Le président Macron aurait chargé le Premier ministre Sébastien Lecornu de préparer une nouvelle loi d'ici le printemps 2027.",
+      "en": "Following a referral by La France Insoumise lawmakers, France's Constitutional Council struck down a law on August 14 (decision no. 2026-911 DC) that would have banned social media access for minors under 15. The judges ruled that the ban was a disproportionate infringement on freedom of expression and communication, noting that the health risks cited had not been clearly established for all the services covered. President Macron reportedly tasked Prime Minister Sébastien Lecornu with drafting a replacement law by spring 2027.",
+      "es": "A raíz de un recurso presentado por diputados de La France Insoumise, el Consejo Constitucional francés invalidó el 14 de agosto (decisión n.º 2026-911 DC) una ley que habría prohibido el acceso a las redes sociales a menores de 15 años. Los jueces consideraron que la prohibición constituía una injerencia desproporcionada en la libertad de expresión y comunicación, señalando que los riesgos sanitarios invocados no estaban claramente establecidos para todos los servicios afectados. El presidente Macron habría encargado al primer ministro Sébastien Lecornu la redacción de una nueva ley antes de la primavera de 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Le Conseil constitutionnel censure la loi interdisant les réseaux sociaux aux moins de 15 ans.",
+          "en": "The Constitutional Council strikes down the law banning social media for under-15s.",
+          "es": "El Consejo Constitucional invalida la ley que prohibía las redes sociales a menores de 15 años."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1276,
+      51.5072
+    ],
+    "id": "royaume-uni-pib-t2-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Office for National Statistics (ONS)",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Le PIB britannique croît de 0,4 % au deuxième trimestre 2026",
+      "en": "UK GDP grows 0.4% in the second quarter of 2026",
+      "es": "El PIB británico crece un 0,4 % en el segundo trimestre de 2026"
+    },
+    "summary": {
+      "fr": "Selon la première estimation trimestrielle de l'Office for National Statistics, publiée le 13 août, le PIB réel du Royaume-Uni a progressé de 0,4 % au deuxième trimestre 2026 (avril-juin), après 0,6 % au premier trimestre. La croissance a été principalement portée par le secteur des services (banque, assurance, hôtellerie), en partie favorisé par une météo clémente et des événements sportifs. Sur un an, la croissance atteint 1,2 %, un résultat globalement conforme aux prévisions des économistes.",
+      "en": "According to the Office for National Statistics' first quarterly estimate, published August 13, UK real GDP grew 0.4% in the second quarter of 2026 (April-June), down from 0.6% in the first quarter. Growth was mainly driven by the services sector (banking, insurance, hospitality), partly helped by favorable weather and sporting events. Year-on-year growth reached 1.2%, broadly in line with economists' forecasts.",
+      "es": "Según la primera estimación trimestral de la Oficina Nacional de Estadística (ONS), publicada el 13 de agosto, el PIB real del Reino Unido creció un 0,4 % en el segundo trimestre de 2026 (abril-junio), tras el 0,6 % del primer trimestre. El crecimiento estuvo impulsado principalmente por el sector servicios (banca, seguros, hostelería), favorecido en parte por un clima propicio y eventos deportivos. En términos interanuales, el crecimiento alcanzó el 1,2 %, un resultado, en general, en línea con las previsiones de los economistas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "L'ONS publie sa première estimation du PIB du deuxième trimestre, en hausse de 0,4 %.",
+          "en": "The ONS publishes its first estimate of second-quarter GDP, up 0.4%.",
+          "es": "La ONS publica su primera estimación del PIB del segundo trimestre, con un alza del 0,4 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      121.352,
+      -8.31
+    ],
+    "id": "indonesie-seisme-flores",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "BNPB / Al Jazeera / NBC News",
+    "place": {
+      "fr": "Mer de Flores, au large d'Ende, Nusa Tenggara oriental, Indonésie",
+      "en": "Flores Sea, off Ende, East Nusa Tenggara, Indonesia",
+      "es": "Mar de Flores, frente a Ende, Nusa Tenggara Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,7 frappe l'île de Florès, au moins 47 morts",
+      "en": "Magnitude 7.7 earthquake strikes Flores Island, at least 47 dead",
+      "es": "Un terremoto de magnitud 7,7 sacude la isla de Flores, al menos 47 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,7 a frappé le 15 août au large de l'île de Florès, en Indonésie, provoquant une alerte au tsunami et plus de 230 répliques. Selon l'agence nationale de gestion des catastrophes (BNPB), le bilan s'élevait le 16 août à 47 morts, avec au moins 346 habitations endommagées, dont 157 gravement, ainsi que des écoles et infrastructures de santé touchées. Certaines équipes de secours n'avaient pas encore pu atteindre le district de Nagekeo, où des glissements de terrain ont bloqué les routes ; un média a rapporté un bilan plus bas de 20 morts à une date antérieure, un écart qui reflète probablement l'évolution du bilan officiel.",
+      "en": "A magnitude-7.7 earthquake struck off Flores Island, Indonesia, on August 15, triggering a tsunami warning and more than 230 aftershocks. According to the national disaster mitigation agency (BNPB), the toll stood at 47 dead as of August 16, with at least 346 homes damaged — 157 of them severely — along with schools and health facilities affected. Some rescue teams had not yet reached Nagekeo regency, where landslides blocked roads; one outlet reported a lower toll of 20 dead at an earlier point, a gap that likely reflects the toll rising over time.",
+      "es": "Un terremoto de magnitud 7,7 sacudió el 15 de agosto la zona frente a la isla de Flores, Indonesia, provocando una alerta de tsunami y más de 230 réplicas. Según la agencia nacional de gestión de desastres (BNPB), el balance se situaba el 16 de agosto en 47 muertos, con al menos 346 viviendas dañadas —157 de ellas gravemente— además de escuelas e instalaciones de salud afectadas. Algunos equipos de rescate aún no habían podido llegar a la regencia de Nagekeo, donde deslizamientos de tierra bloquearon las carreteras; un medio reportó un balance menor de 20 muertos en un momento anterior, una diferencia que probablemente refleja la evolución del balance oficial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,7 frappe au large de Florès ; une alerte au tsunami est émise.",
+          "en": "The magnitude-7.7 earthquake strikes off Flores; a tsunami warning is issued.",
+          "es": "El terremoto de magnitud 7,7 sacude la zona frente a Flores; se emite una alerta de tsunami."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/08/2026",
+          "en": "16/08/2026",
+          "es": "16/08/2026"
+        },
+        "d": {
+          "fr": "Le BNPB porte le bilan à 47 morts et fait état de plus de 340 habitations endommagées.",
+          "en": "BNPB raises the toll to 47 dead and reports more than 340 homes damaged.",
+          "es": "La BNPB eleva el balance a 47 muertos e informa de más de 340 viviendas dañadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      140.1063,
+      35.6073
+    ],
+    "id": "japon-inondations-chiba",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Agence météorologique du Japon / Al Jazeera / The Watchers",
+    "place": {
+      "fr": "Préfecture de Chiba, Japon",
+      "en": "Chiba Prefecture, Japan",
+      "es": "Prefectura de Chiba, Japón"
+    },
+    "title": {
+      "fr": "Des pluies record inondent la préfecture de Chiba, au moins huit morts",
+      "en": "Record rainfall floods Chiba Prefecture, at least eight dead",
+      "es": "Lluvias récord inundan la prefectura de Chiba, al menos ocho muertos"
+    },
+    "summary": {
+      "fr": "L'agence météorologique japonaise a enregistré 351 mm de pluie en une journée le 13 août à Chiba, un record depuis le début des relevés en 1966, entraînant l'émission d'une alerte de niveau 5 (le plus élevé) pour une vingtaine de municipalités à l'est de Tokyo. Les pompiers ont confirmé huit morts, tandis que plus de 7 300 personnes avaient trouvé refuge dans 359 centres d'hébergement répartis dans 39 municipalités au 14 août ; plus de 22 000 foyers ont été privés d'électricité. Un média a fait état d'un bilan initial de quatre morts, chiffre revu à la hausse par la suite.",
+      "en": "Japan's Meteorological Agency recorded 351 mm of rain in a single day on August 13 in Chiba, a record since measurements began in 1966, prompting a level-5 (highest) emergency warning for about 20 municipalities east of Tokyo. Fire authorities confirmed eight deaths, while more than 7,300 people had taken shelter at 359 sites across 39 municipalities as of August 14; over 22,000 households lost power. One outlet initially reported a toll of four dead, later revised upward.",
+      "es": "La Agencia Meteorológica de Japón registró 351 mm de lluvia en un solo día el 13 de agosto en Chiba, un récord desde que comenzaron los registros en 1966, lo que provocó la emisión de una alerta de nivel 5 (la más alta) para unos 20 municipios al este de Tokio. Los bomberos confirmaron ocho muertes, mientras que más de 7.300 personas se habían refugiado en 359 centros repartidos en 39 municipios al 14 de agosto; más de 22.000 hogares se quedaron sin electricidad. Un medio informó inicialmente de un balance de cuatro muertos, cifra revisada posteriormente al alza."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Chiba enregistre 351 mm de pluie en une journée, un record ; une alerte de niveau 5 est émise.",
+          "en": "Chiba records 351 mm of rain in one day, a record; a level-5 warning is issued.",
+          "es": "Chiba registra 351 mm de lluvia en un día, un récord; se emite una alerta de nivel 5."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      76.93,
+      31.71
+    ],
+    "id": "inde-mousson-himachal",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧️",
+    "source": "State Emergency Operations Centre (SEOC) / ANI News / Asianet Newsable",
+    "place": {
+      "fr": "Himachal Pradesh, Inde (district de Mandi le plus touché)",
+      "en": "Himachal Pradesh, India (Mandi district worst-affected)",
+      "es": "Himachal Pradesh, India (distrito de Mandi, el más afectado)"
+    },
+    "title": {
+      "fr": "La mousson fait 183 morts en 47 jours dans l'Himachal Pradesh",
+      "en": "Monsoon kills 183 in 47 days in Himachal Pradesh",
+      "es": "El monzón deja 183 muertos en 47 días en Himachal Pradesh"
+    },
+    "summary": {
+      "fr": "Selon le Centre d'opérations d'urgence de l'État (SEOC), la mousson a fait 183 morts dans l'Himachal Pradesh depuis le 30 juin, pour des pertes estimées à plus de 972 crores de roupies (environ 117 millions de dollars). Parmi les décès, 104 sont dus à des accidents de la route et 79 à des aléas naturels (glissements de terrain, chutes, morsures de serpent, électrocutions, noyades). Le district de Mandi est le plus touché, avec 209 des 221 réseaux d'approvisionnement en eau endommagés dans l'État.",
+      "en": "According to the State Emergency Operations Centre (SEOC), the monsoon has killed 183 people in Himachal Pradesh since June 30, with losses estimated at over 972 crore rupees (about $117 million). Of the deaths, 104 were road accidents and 79 were attributed to natural hazards (landslides, falls, snakebites, electrocutions, drownings). Mandi district was worst-affected, accounting for 209 of the 221 water-supply schemes damaged statewide.",
+      "es": "Según el Centro Estatal de Operaciones de Emergencia (SEOC), el monzón ha causado 183 muertes en Himachal Pradesh desde el 30 de junio, con pérdidas estimadas en más de 972 crore de rupias (unos 117 millones de dólares). De las muertes, 104 fueron accidentes de tráfico y 79 se atribuyeron a riesgos naturales (deslizamientos de tierra, caídas, mordeduras de serpiente, electrocuciones, ahogamientos). El distrito de Mandi fue el más afectado, con 209 de los 221 sistemas de abastecimiento de agua dañados en todo el estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Le SEOC porte le bilan cumulé de la mousson à 183 morts depuis le 30 juin.",
+          "en": "SEOC raises the cumulative monsoon toll to 183 deaths since June 30.",
+          "es": "El SEOC eleva el balance acumulado del monzón a 183 muertos desde el 30 de junio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      121.27,
+      28.14
+    ],
+    "id": "chine-typhon-dolphin",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "Al Jazeera / China.org.cn / AP",
+    "place": {
+      "fr": "Yuhuan, province du Zhejiang, Chine",
+      "en": "Yuhuan, Zhejiang province, China",
+      "es": "Yuhuan, provincia de Zhejiang, China"
+    },
+    "title": {
+      "fr": "Le typhon Dolphin force l'évacuation de plus d'un million de personnes en Chine",
+      "en": "Typhoon Dolphin forces evacuation of more than a million people in China",
+      "es": "El tifón Dolphin obliga a evacuar a más de un millón de personas en China"
+    },
+    "summary": {
+      "fr": "Le typhon Dolphin, décrit comme la tempête la plus puissante à avoir touché la Chine en 2026, a touché terre à Yuhuan, dans le Zhejiang, avec des vents atteignant 150 km/h, entraînant l'évacuation de plus d'un million de personnes, dont environ 900 000 à Wenzhou et 390 000 à Taizhou. Près de 1 500 vols ont été annulés dans les aéroports de Shanghai. En amont, Pékin et Tianjin ont émis des alertes aux crues. Les autorités chinoises n'ont signalé aucun mort confirmé, mais font état d'un garçon de 9 ans porté disparu après avoir été emporté par la mer à Wenling.",
+      "en": "Typhoon Dolphin, described as the strongest storm to hit China in 2026, made landfall at Yuhuan, Zhejiang, with winds up to 150 km/h, forcing the evacuation of more than a million people, including about 900,000 in Wenzhou and 390,000 in Taizhou. Nearly 1,500 flights were cancelled at Shanghai's airports. Further inland, Beijing and Tianjin issued flood warnings. Chinese authorities reported no confirmed deaths, but said a 9-year-old boy was missing after being swept out to sea in Wenling.",
+      "es": "El tifón Dolphin, descrito como la tormenta más fuerte que ha azotado China en 2026, tocó tierra en Yuhuan, Zhejiang, con vientos de hasta 150 km/h, obligando a evacuar a más de un millón de personas, entre ellas unas 900.000 en Wenzhou y 390.000 en Taizhou. Casi 1.500 vuelos fueron cancelados en los aeropuertos de Shanghái. Tierra adentro, Pekín y Tianjin emitieron alertas por inundaciones. Las autoridades chinas no reportaron muertes confirmadas, pero informaron de un niño de 9 años desaparecido tras ser arrastrado por el mar en Wenling."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dolphin touche terre dans le Zhejiang, plus d'un million de personnes évacuées.",
+          "en": "Typhoon Dolphin makes landfall in Zhejiang, more than a million people evacuated.",
+          "es": "El tifón Dolphin toca tierra en Zhejiang, más de un millón de personas evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      12.195,
+      10.611
+    ],
+    "id": "nigeria-attaque-iswap-borno",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎯",
+    "source": "Armée nigériane / Punch Nigeria / Vanguard",
+    "place": {
+      "fr": "Base avancée de Mandaragirau, zone de Biu, État de Borno, Nigéria",
+      "en": "Forward Operating Base Mandaragirau, Biu area, Borno State, Nigeria",
+      "es": "Base avanzada de Mandaragirau, zona de Biu, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "L'armée nigériane repousse une attaque de l'ISWAP contre une base militaire dans le Borno",
+      "en": "Nigerian army repels ISWAP attack on military base in Borno",
+      "es": "El ejército nigeriano repele un ataque del ISWAP contra una base militar en Borno"
+    },
+    "summary": {
+      "fr": "Des combattants de l'ISWAP (branche ouest-africaine du groupe État islamique) ont lancé le 15 août, vers 2 heures du matin, une attaque à deux volets contre la base avancée du 162e bataillon amphibie, près de Biu, dans l'État de Borno. Selon l'armée nigériane, les troupes, alertées par des systèmes de surveillance, ont repoussé les deux groupes assaillants sans perte parmi les soldats, neutralisé un nombre non précisé d'assaillants et récupéré des armes, dont des fusils AK-47 et des roquettes RPG. Ce bilan provient d'une déclaration militaire officielle et n'a pas été confirmé de façon indépendante.",
+      "en": "ISWAP (the West African branch of the Islamic State group) fighters launched a two-pronged attack around 2 a.m. on August 15 against the forward operating base of the 162 Amphibious Battalion near Biu, Borno State. According to the Nigerian army, troops, alerted by surveillance systems, repelled both attacking groups without troop casualties, 'neutralized' an unspecified number of insurgents, and recovered weapons including AK-47 rifles and RPGs. This toll comes from an official military statement and has not been independently confirmed.",
+      "es": "Combatientes del ISWAP (la rama de África Occidental del grupo Estado Islámico) lanzaron el 15 de agosto, hacia las 2:00 de la madrugada, un ataque en dos frentes contra la base avanzada del 162.º Batallón Anfibio, cerca de Biu, en el estado de Borno. Según el ejército nigeriano, las tropas, alertadas por sistemas de vigilancia, repelieron a ambos grupos atacantes sin bajas propias, \"neutralizaron\" a un número no precisado de insurgentes y recuperaron armas, entre ellas fusiles AK-47 y cohetes RPG. Este balance proviene de una declaración militar oficial y no ha sido confirmado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026, 2h00",
+          "en": "15/08/2026, 2:00 AM",
+          "es": "15/08/2026, 2:00"
+        },
+        "d": {
+          "fr": "L'armée nigériane annonce avoir repoussé une attaque de l'ISWAP contre une base militaire près de Biu.",
+          "en": "The Nigerian army announces it repelled an ISWAP attack on a military base near Biu.",
+          "es": "El ejército nigeriano anuncia haber repelido un ataque del ISWAP contra una base militar cerca de Biu."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "coords": [
+      32.27,
+      30.6
+    ],
+    "id": "egypte-accident-ismailia",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "Ministère de la Santé égyptien / AP / Xinhua",
+    "place": {
+      "fr": "Zone d'Al-Dawawis, près de la centrale électrique d'Al-Shabab, gouvernorat d'Ismaïlia, Égypte",
+      "en": "Al-Dawawis area, near the Al-Shabab power station, Ismailia Governorate, Egypt",
+      "es": "Zona de Al-Dawawis, cerca de la central eléctrica de Al-Shabab, gobernación de Ismailía, Egipto"
+    },
+    "title": {
+      "fr": "Le renversement d'une camionnette fait 15 morts parmi des ouvriers agricoles en Égypte",
+      "en": "Pickup truck rollover kills 15 farm workers in Egypt",
+      "es": "El vuelco de una camioneta deja 15 muertos entre trabajadores agrícolas en Egipto"
+    },
+    "summary": {
+      "fr": "Une camionnette transportant des ouvriers journaliers, pour beaucoup originaires de villages du gouvernorat voisin de Charqiya, s'est renversée le 11 août dans le gouvernorat d'Ismaïlia, faisant 15 morts et une trentaine de blessés selon le ministère égyptien de la Santé. La cause de l'accident fait l'objet d'une enquête ; certains médias locaux évoquent une vitesse excessive ou un éclatement de pneu, des pistes non confirmées à ce stade.",
+      "en": "A pickup truck carrying day laborers, many from villages in the neighboring Sharqia Governorate, overturned on August 11 in Ismailia Governorate, killing 15 people and injuring around 30 others, according to Egypt's Ministry of Health. The cause of the accident is under investigation; some local media have cited excessive speed or a tire blowout as possible factors, though these remain unconfirmed.",
+      "es": "Una camioneta que transportaba a jornaleros, muchos de ellos procedentes de aldeas de la vecina gobernación de Sharqia, volcó el 11 de agosto en la gobernación de Ismailía, dejando 15 muertos y una treintena de heridos según el Ministerio de Salud egipcio. La causa del accidente está siendo investigada; algunos medios locales mencionan un exceso de velocidad o el reventón de un neumático como posibles factores, aunque no están confirmados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/08/2026",
+          "en": "11/08/2026",
+          "es": "11/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère de la Santé confirme 15 morts et une trentaine de blessés après le renversement d'une camionnette de travailleurs.",
+          "en": "The Ministry of Health confirms 15 dead and around 30 injured after a workers' pickup truck overturned.",
+          "es": "El Ministerio de Salud confirma 15 muertos y una treintena de heridos tras el vuelco de una camioneta de trabajadores."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "coords": [
+      35.48,
+      33.38
+    ],
+    "id": "liban-frappes-israeliennes",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Ministère de la Santé libanais / Times of Israel / Haaretz",
+    "place": {
+      "fr": "Ansar et Deir al-Zahrani (région de Nabatieh), sud du Liban",
+      "en": "Ansar and Deir al-Zahrani (Nabatieh area), southern Lebanon",
+      "es": "Ansar y Deir al-Zahrani (región de Nabatieh), sur del Líbano"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes sur le sud du Liban font 11 morts, dont trois enfants",
+      "en": "Israeli strikes on southern Lebanon kill 11, including three children",
+      "es": "Ataques israelíes en el sur del Líbano dejan 11 muertos, entre ellos tres niños"
+    },
+    "summary": {
+      "fr": "Deux frappes israéliennes distinctes ont touché le sud du Liban le 15 août : une frappe nocturne sur Ansar a tué sept personnes, dont trois enfants, selon le ministère libanais de la Santé, suivie quelques heures plus tard d'une frappe sur Deir al-Zahrani ayant fait au moins quatre morts supplémentaires et 17 blessés. L'armée israélienne a indiqué que ces frappes visaient des infrastructures du Hezbollah, en réponse à une attaque ayant grièvement blessé trois soldats israéliens. Des responsables libanais ont qualifié cet épisode du plus meurtrier depuis l'accord de désescalade de juin ; un média a évoqué un bilan combiné de 15 morts, alors que la plupart des sources et le ministère libanais de la Santé convergent vers un total de 11.",
+      "en": "Two separate Israeli strikes hit southern Lebanon on August 15: an overnight strike on Ansar killed seven people, including three children, according to Lebanon's Health Ministry, followed hours later by a strike on Deir al-Zahrani that killed at least four more and wounded 17. The Israeli military said the strikes targeted Hezbollah infrastructure in response to an attack that seriously wounded three Israeli soldiers. Lebanese officials called this the deadliest such episode since a June de-escalation deal; one outlet cited a combined toll of 15, while most sources and Lebanon's Health Ministry converge on a total of 11.",
+      "es": "Dos ataques israelíes distintos alcanzaron el sur del Líbano el 15 de agosto: un ataque nocturno en Ansar mató a siete personas, entre ellas tres niños, según el Ministerio de Salud libanés, seguido horas después por un ataque en Deir al-Zahrani que dejó al menos cuatro muertos más y 17 heridos. El ejército israelí indicó que los ataques tenían como objetivo infraestructuras de Hezbolá, en respuesta a un ataque que hirió gravemente a tres soldados israelíes. Funcionarios libaneses calificaron este episodio como el más mortífero desde el acuerdo de desescalada de junio; un medio mencionó un balance combinado de 15 muertos, mientras que la mayoría de las fuentes y el Ministerio de Salud libanés coinciden en un total de 11."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère libanais de la Santé confirme 11 morts, dont trois enfants, après deux frappes israéliennes distinctes dans le sud du Liban.",
+          "en": "Lebanon's Health Ministry confirms 11 dead, including three children, after two separate Israeli strikes in southern Lebanon.",
+          "es": "El Ministerio de Salud libanés confirma 11 muertos, entre ellos tres niños, tras dos ataques israelíes distintos en el sur del Líbano."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -76.23,
+      4.97
+    ],
+    "id": "colombie-seisme-choco",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "UNGRD / El Tiempo / BBC",
+    "place": {
+      "fr": "San José del Palmar, département du Chocó, Colombie",
+      "en": "San José del Palmar, Chocó department, Colombia",
+      "es": "San José del Palmar, departamento del Chocó, Colombia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,4 dans le Chocó fait au moins 294 morts en Colombie",
+      "en": "Magnitude 7.4 earthquake in Chocó kills at least 294 in Colombia",
+      "es": "Un terremoto de magnitud 7,4 en el Chocó deja al menos 294 muertos en Colombia"
+    },
+    "summary": {
+      "fr": "Le séisme le plus puissant qu'ait connu la Colombie depuis plus d'un siècle a frappé le 10 août à 7h34 heure locale, avec un épicentre près de San José del Palmar, dans le département du Chocó, provoquant effondrements de bâtiments et glissements de terrain dans une quinzaine de départements. Selon le bilan officiel de l'Unité nationale de gestion des risques de catastrophe (UNGRD) au 15 août, le séisme a fait 294 morts, 3 935 blessés et 320 disparus, avec plus de 9 000 habitations détruites ; 256 répliques ont été enregistrées. Le bilan, qui augmentait quotidiennement depuis le séisme, pourrait encore évoluer alors que les autorités passent des opérations de sauvetage à celles de reconstruction.",
+      "en": "Colombia's strongest earthquake in more than a century struck at 7:34 a.m. local time on August 10, with an epicenter near San José del Palmar in Chocó department, triggering building collapses and landslides across around 15 departments. According to the official toll from the National Disaster Risk Management Unit (UNGRD) as of August 15, the earthquake killed 294 people, injured 3,935 and left 320 missing, with more than 9,000 homes destroyed; 256 aftershocks were recorded. The toll, which had been rising daily since the quake, may still change as authorities shift from search-and-rescue to recovery operations.",
+      "es": "El terremoto más fuerte que ha sufrido Colombia en más de un siglo golpeó a las 7:34 a. m., hora local, el 10 de agosto, con epicentro cerca de San José del Palmar, en el departamento del Chocó, provocando derrumbes de edificios y deslizamientos de tierra en unos 15 departamentos. Según el balance oficial de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) al 15 de agosto, el sismo dejó 294 muertos, 3.935 heridos y 320 desaparecidos, con más de 9.000 viviendas destruidas; se registraron 256 réplicas. El balance, que ha ido en aumento diariamente desde el sismo, podría seguir cambiando mientras las autoridades pasan de las operaciones de rescate a las de reconstrucción."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,4 frappe le département du Chocó ; un premier bilan fait état d'environ 132 morts.",
+          "en": "A magnitude-7.4 earthquake strikes Chocó department; an initial toll reports about 132 dead.",
+          "es": "Un terremoto de magnitud 7,4 sacude el departamento del Chocó; un primer balance reporta unos 132 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "L'UNGRD porte le bilan officiel à 294 morts, 3 935 blessés et 320 disparus.",
+          "en": "UNGRD raises the official toll to 294 dead, 3,935 injured and 320 missing.",
+          "es": "La UNGRD eleva el balance oficial a 294 muertos, 3.935 heridos y 320 desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 3
+  },
+  {
+    "coords": [
+      149.13,
+      -35.2809
+    ],
+    "id": "australie-loi-armes-rachat",
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🛡️",
+    "source": "SBS News / Al Jazeera",
+    "place": {
+      "fr": "Canberra, Australie",
+      "en": "Canberra, Australia",
+      "es": "Canberra, Australia"
+    },
+    "title": {
+      "fr": "L'Australie annonce son plus grand rachat d'armes à feu depuis trente ans",
+      "en": "Australia announces its largest gun buyback in three decades",
+      "es": "Australia anuncia su mayor programa de recompra de armas en tres décadas"
+    },
+    "summary": {
+      "fr": "Le premier ministre Anthony Albanese et le premier ministre de Nouvelle-Galles du Sud Chris Minns ont annoncé le 16 août un programme national de rachat d'armes à feu, le plus vaste depuis la réponse au massacre de Port Arthur en 1996. La mesure fait suite à la fusillade de Bondi Beach en décembre 2025, qui avait fait 15 morts. À partir du 2 novembre, les détenteurs pourront remettre les armes dépassant un nouveau plafond de quatre armes par personne (dix pour les agriculteurs et tireurs sportifs) contre une indemnisation fixe ; jusqu'à 274 000 armes et 50 000 détenteurs de permis pourraient être concernés rien qu'en Nouvelle-Galles du Sud.",
+      "en": "Prime Minister Anthony Albanese and New South Wales Premier Chris Minns announced a nationwide gun buyback scheme on August 16, the largest since the response to the 1996 Port Arthur massacre. The measure follows the December 2025 Bondi Beach shooting, which killed 15 people. Starting November 2, owners will be able to surrender firearms exceeding a new four-weapon ownership cap (ten for farmers and sport shooters) in exchange for a fixed payment; up to 274,000 firearms and 50,000 licence holders could be affected in New South Wales alone.",
+      "es": "El primer ministro Anthony Albanese y el premier de Nueva Gales del Sur, Chris Minns, anunciaron el 16 de agosto un programa nacional de recompra de armas de fuego, el más amplio desde la respuesta a la masacre de Port Arthur en 1996. La medida responde al tiroteo de Bondi Beach de diciembre de 2025, que dejó 15 muertos. A partir del 2 de noviembre, los propietarios podrán entregar armas que superen un nuevo límite de cuatro por persona (diez para agricultores y tiradores deportivos) a cambio de una compensación fija; hasta 274.000 armas y 50.000 titulares de licencia podrían verse afectados solo en Nueva Gales del Sur."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/08/2026",
+          "en": "16/08/2026",
+          "es": "16/08/2026"
+        },
+        "d": {
+          "fr": "Canberra et la Nouvelle-Galles du Sud annoncent un programme national de rachat d'armes à feu à partir du 2 novembre.",
+          "en": "Canberra and New South Wales announce a national gun buyback scheme starting November 2.",
+          "es": "Canberra y Nueva Gales del Sur anuncian un programa nacional de recompra de armas a partir del 2 de noviembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -43.173,
+      -22.907
+    ],
+    "id": "bresil-proces-helicopteres",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Ministério Público Federal (MPF) / Metrópoles",
+    "place": {
+      "fr": "Rio de Janeiro, Brésil",
+      "en": "Rio de Janeiro, Brazil",
+      "es": "Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Le Brésil poursuit l'État pour encadrer les vols d'hélicoptères touristiques à Rio après un accident mortel",
+      "en": "Brazil sues to restrict tourist helicopter flights over Rio after fatal crash",
+      "es": "Brasil demanda al Estado para regular los vuelos de helicópteros turísticos en Río tras un accidente mortal"
+    },
+    "summary": {
+      "fr": "Le ministère public fédéral brésilien (MPF) a déposé le 12 août une action civile publique contre le gouvernement fédéral, l'agence de l'aviation civile (ANAC), l'agence environnementale de l'État de Rio (INEA) et la municipalité de Rio de Janeiro, réclamant un encadrement obligatoire des vols commerciaux d'hélicoptères touristiques. Cette action fait suite à un accident survenu le 8 août dans le parc national de Tijuca, qui a coûté la vie au pilote et à trois touristes colombiens. Le MPF demande notamment que les trajets commerciaux soient déviés au-dessus de la mer et qu'un plan réglementaire conjoint soit présenté sous 90 jours ; une audience de conciliation a été fixée au 24 septembre.",
+      "en": "Brazil's Federal Public Ministry (MPF) filed a civil public action on August 12 against the federal government, aviation regulator ANAC, Rio state's environmental agency INEA, and Rio de Janeiro's municipal government, seeking mandatory safety controls for commercial tourist helicopter flights. The action follows an August 8 crash in Tijuca National Park that killed the pilot and three Colombian tourists. The MPF is asking that commercial routes be redirected over water and that a joint regulatory plan be presented within 90 days; a conciliation hearing has been set for September 24.",
+      "es": "El Ministerio Público Federal de Brasil (MPF) presentó el 12 de agosto una acción civil pública contra el gobierno federal, el regulador de aviación ANAC, la agencia ambiental del estado de Río (INEA) y el ayuntamiento de Río de Janeiro, exigiendo controles de seguridad obligatorios para los vuelos comerciales de helicópteros turísticos. La acción responde a un accidente ocurrido el 8 de agosto en el Parque Nacional de Tijuca, que costó la vida al piloto y a tres turistas colombianos. El MPF solicita que las rutas comerciales se desvíen sobre el mar y que se presente un plan regulatorio conjunto en un plazo de 90 días; se fijó una audiencia de conciliación para el 24 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Le MPF dépose une action en justice pour encadrer les vols d'hélicoptères touristiques après l'accident du 8 août.",
+          "en": "The MPF files a lawsuit to regulate tourist helicopter flights following the August 8 crash.",
+          "es": "El MPF presenta una demanda para regular los vuelos de helicópteros turísticos tras el accidente del 8 de agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
+  },
+  {
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "id": "coree-temasek-investissement",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Bloomberg / Investing.com",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Le fonds souverain singapourien Temasek prévoit d'investir directement dans Samsung et SK Hynix",
+      "en": "Singapore's Temasek plans direct investment in Samsung and SK Hynix",
+      "es": "El fondo soberano singapurense Temasek planea invertir directamente en Samsung y SK Hynix"
+    },
+    "summary": {
+      "fr": "Selon plusieurs médias économiques, le fonds souverain singapourien Temasek prévoirait un investissement direct dans les deux plus grands fabricants sud-coréens de mémoires, Samsung Electronics et SK Hynix — sa première entrée directe sur le marché boursier coréen. Les actions des deux groupes ont bondi de plus de 8 % à l'annonce, le 12 août. Temasek a fait part de son objectif de porter la part de ses actifs liés à l'intelligence artificielle de 6 % à 15 % de son portefeuille d'environ 518 milliards de dollars singapouriens d'ici cinq ans. Le montant exact de l'investissement n'a pas été communiqué.",
+      "en": "According to several financial outlets, Singapore's sovereign wealth fund Temasek is reportedly planning a direct investment in South Korea's two largest memory-chip makers, Samsung Electronics and SK Hynix — its first direct entry into the Korean stock market. Shares of both companies jumped more than 8% on the news on August 12. Temasek has stated a goal of raising AI-related holdings from 6% to as much as 15% of its roughly S$518 billion portfolio over five years. The exact investment amount has not been disclosed.",
+      "es": "Según varios medios financieros, el fondo soberano de Singapur, Temasek, planearía una inversión directa en los dos mayores fabricantes surcoreanos de chips de memoria, Samsung Electronics y SK Hynix, su primera entrada directa en el mercado bursátil coreano. Las acciones de ambas compañías subieron más del 8 % tras conocerse la noticia el 12 de agosto. Temasek ha señalado su objetivo de elevar la participación de activos vinculados a la inteligencia artificial del 6 % al 15 % de su cartera de unos 518.000 millones de dólares singapurenses en cinco años. No se ha revelado el monto exacto de la inversión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/08/2026",
+          "en": "12/08/2026",
+          "es": "12/08/2026"
+        },
+        "d": {
+          "fr": "Des médias économiques rapportent un projet d'investissement direct de Temasek dans Samsung Electronics et SK Hynix.",
+          "en": "Financial media report a planned direct investment by Temasek in Samsung Electronics and SK Hynix.",
+          "es": "Medios financieros informan de un plan de inversión directa de Temasek en Samsung Electronics y SK Hynix."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W33",
+    "priority": 2
   }
 ]
