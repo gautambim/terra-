@@ -829,5 +829,864 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      135.5023,
+      34.6937
+    ],
+    "id": "japon-execution-pachinko",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Ministère de la Justice japonais / CBS News",
+    "place": {
+      "fr": "Osaka (quartier de Konohana), Japon",
+      "en": "Osaka (Konohana Ward), Japan",
+      "es": "Osaka (distrito de Konohana), Japón"
+    },
+    "title": {
+      "fr": "Japon : exécution de l'auteur de l'incendie meurtrier d'un salon de pachinko à Osaka",
+      "en": "Japan executes man behind deadly pachinko parlor arson in Osaka",
+      "es": "Japón ejecuta al autor del incendio mortal de un salón de pachinko en Osaka"
+    },
+    "summary": {
+      "fr": "Le Japon a exécuté par pendaison, le vendredi 21 août, Sunao Takami, 58 ans, condamné pour avoir provoqué en 2009 un incendie criminel dans un salon de pachinko à Osaka qui avait tué cinq personnes et en avait blessé dix autres, selon le ministère de la Justice. Il s'agit de la première exécution au Japon depuis plus d'un an et la première sous le gouvernement de Sanae Takaichi.",
+      "en": "Japan hanged Sunao Takami, 58, on Friday, August 21, for setting fire to a crowded pachinko parlor in Osaka in 2009, killing five people and injuring ten others, the Justice Ministry said. It was Japan's first execution in more than a year and the first under Prime Minister Sanae Takaichi's government.",
+      "es": "Japón ejecutó por ahorcamiento el viernes 21 de agosto a Sunao Takami, de 58 años, condenado por provocar en 2009 un incendio criminal en un salón de pachinko en Osaka que mató a cinco personas e hirió a otras diez, según el Ministerio de Justicia. Es la primera ejecución en Japón en más de un año y la primera bajo el gobierno de Sanae Takaichi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère de la Justice confirme l'exécution de Sunao Takami, condamné pour l'incendie du salon de pachinko de Konohana qui avait fait cinq morts en 2009.",
+          "en": "The Justice Ministry confirms the execution of Sunao Takami, convicted over the 2009 Konohana pachinko parlor fire that killed five people.",
+          "es": "El Ministerio de Justicia confirma la ejecución de Sunao Takami, condenado por el incendio del salón de pachinko de Konohana que causó cinco muertos en 2009."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      125.7625,
+      39.0392
+    ],
+    "id": "coreenord-tirs-missiles",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "État-major interarmées sud-coréen / Ministère japonais de la Défense",
+    "place": {
+      "fr": "Région de Pyongyang, Corée du Nord (tirs retombés en mer du Japon/mer de l'Est)",
+      "en": "Pyongyang area, North Korea (missiles fell into the Sea of Japan/East Sea)",
+      "es": "Región de Pionyang, Corea del Norte (misiles caídos en el mar de Japón/mar del Este)"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire une dizaine de missiles balistiques de courte portée",
+      "en": "North Korea fires around ten short-range ballistic missiles",
+      "es": "Corea del Norte lanza una decena de misiles balísticos de corto alcance"
+    },
+    "summary": {
+      "fr": "L'armée nord-coréenne a tiré environ 10 à 12 missiles balistiques de courte portée depuis la région de Pyongyang le jeudi 20 août, qui sont retombés en mer du Japon/mer de l'Est, selon l'état-major interarmées sud-coréen. La Corée du Sud a qualifié ce tir d'« acte grave » violant les résolutions de l'ONU et le Japon a formellement protesté.",
+      "en": "North Korea's military fired roughly 10 to 12 short-range ballistic missiles from the Pyongyang area on Thursday, August 20, which fell into the Sea of Japan/East Sea, South Korea's Joint Chiefs of Staff said. South Korea called the launch a \"grave act\" violating UN resolutions, and Japan lodged a formal protest.",
+      "es": "El ejército norcoreano lanzó entre 10 y 12 misiles balísticos de corto alcance desde la región de Pionyang el jueves 20 de agosto, que cayeron en el mar de Japón/mar del Este, según el Estado Mayor Conjunto surcoreano. Corea del Sur calificó el lanzamiento de \"acto grave\" que viola las resoluciones de la ONU, y Japón presentó una protesta formal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "L'état-major sud-coréen détecte le tir d'une dizaine de missiles balistiques nord-coréens ; Séoul et Tokyo protestent.",
+          "en": "South Korea's military detects the launch of around ten North Korean ballistic missiles; Seoul and Tokyo protest.",
+          "es": "El ejército surcoreano detecta el lanzamiento de una decena de misiles balísticos norcoreanos; Seúl y Tokio protestan."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 3
+  },
+  {
+    "coords": [
+      114.1694,
+      22.3193
+    ],
+    "id": "hongkong-veillee-tiananmen",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Human Rights Watch / CNN",
+    "place": {
+      "fr": "Hong Kong (tribunal de West Kowloon), Chine",
+      "en": "Hong Kong (West Kowloon court), China",
+      "es": "Hong Kong (tribunal de West Kowloon), China"
+    },
+    "title": {
+      "fr": "Hong Kong : deux anciens organisateurs de la veillée de Tiananmen reconnus coupables de subversion",
+      "en": "Hong Kong: two former Tiananmen vigil organizers convicted of subversion",
+      "es": "Hong Kong: dos antiguos organizadores de la vigilia de Tiananmen declarados culpables de subversión"
+    },
+    "summary": {
+      "fr": "Un tribunal de Hong Kong a reconnu coupables, le vendredi 21 août, Chow Hang-tung (41 ans) et Lee Cheuk-yan (69 ans), anciens dirigeants de l'Alliance de Hong Kong qui organisait les veillées annuelles en mémoire de la répression de la place Tiananmen en 1989, d'« incitation à la subversion » au titre de la loi sur la sécurité nationale imposée par Pékin. Ils encourent jusqu'à dix ans de prison et sont détenus depuis septembre 2021.",
+      "en": "A Hong Kong court convicted Chow Hang-tung, 41, and Lee Cheuk-yan, 69, former leaders of the Hong Kong Alliance that organized the city's annual vigils commemorating the 1989 Tiananmen Square crackdown, of \"inciting subversion\" under the Beijing-imposed national security law, on Friday, August 21. They face up to ten years in prison and have been held in custody since September 2021.",
+      "es": "Un tribunal de Hong Kong declaró culpables el viernes 21 de agosto a Chow Hang-tung (41 años) y Lee Cheuk-yan (69 años), antiguos líderes de la Alianza de Hong Kong que organizaba las vigilias anuales en memoria de la represión de la plaza de Tiananmen de 1989, de \"incitación a la subversión\" en virtud de la ley de seguridad nacional impuesta por Pekín. Se enfrentan a hasta diez años de prisión y están detenidos desde septiembre de 2021."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de West Kowloon rend son verdict de culpabilité contre Chow Hang-tung et Lee Cheuk-yan pour incitation à la subversion.",
+          "en": "The West Kowloon court hands down its guilty verdict against Chow Hang-tung and Lee Cheuk-yan for inciting subversion.",
+          "es": "El tribunal de West Kowloon dicta su veredicto de culpabilidad contra Chow Hang-tung y Lee Cheuk-yan por incitación a la subversión."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "id": "coreesud-exportations-semiconducteurs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Service des douanes coréen / Bloomberg",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Corée du Sud : les exportations de semi-conducteurs atteignent un niveau record, le KOSPI au plus haut",
+      "en": "South Korea: semiconductor exports hit record high, KOSPI at new peak",
+      "es": "Corea del Sur: las exportaciones de semiconductores alcanzan un récord, el KOSPI en máximo histórico"
+    },
+    "summary": {
+      "fr": "Le service des douanes sud-coréen a annoncé le vendredi 21 août que les exportations de semi-conducteurs avaient atteint un record de 26 milliards de dollars sur les vingt premiers jours d'août, en hausse d'environ 199 % sur un an, portant les exportations totales ajustées à +61,5 %. L'indice boursier KOSPI a clôturé en hausse à 6 913 points, un nouveau record.",
+      "en": "South Korea's customs service announced on Friday, August 21 that semiconductor exports reached a record $26 billion in the first twenty days of August, up about 199% year-on-year, pushing adjusted total exports up 61.5%. The KOSPI stock index closed at a record 6,913 points.",
+      "es": "El servicio de aduanas surcoreano anunció el viernes 21 de agosto que las exportaciones de semiconductores alcanzaron un récord de 26.000 millones de dólares en los primeros veinte días de agosto, un aumento de aproximadamente el 199 % interanual, que impulsó las exportaciones totales ajustadas un 61,5 %. El índice bursátil KOSPI cerró en un máximo histórico de 6.913 puntos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Les données douanières confirment un record d'exportations de semi-conducteurs et une clôture record du KOSPI.",
+          "en": "Customs data confirms a record in semiconductor exports and a record KOSPI close.",
+          "es": "Los datos de aduanas confirman un récord de exportaciones de semiconductores y un cierre récord del KOSPI."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      5.63,
+      13.44
+    ],
+    "id": "nigeria-naufrage-sokoto",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛶",
+    "source": "Agence nationale des voies navigables (NIWA) / Associated Press",
+    "place": {
+      "fr": "Gorau, zone de gouvernement local de Goronyo, État de Sokoto, Nigeria",
+      "en": "Gorau, Goronyo Local Government Area, Sokoto State, Nigeria",
+      "es": "Gorau, zona de gobierno local de Goronyo, estado de Sokoto, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : au moins 41 morts dans le naufrage d'une pirogue surchargée sur le fleuve Goronyo",
+      "en": "Nigeria: at least 41 dead as overloaded canoe capsizes on the Goronyo River",
+      "es": "Nigeria: al menos 41 muertos al zozobrar una canoa sobrecargada en el río Goronyo"
+    },
+    "summary": {
+      "fr": "Une pirogue transportant environ 82 passagers, dont un chef communautaire, a chaviré sur le fleuve Goronyo alors qu'elle se rendait vers des champs de riz, dans l'État de Sokoto (nord-ouest du Nigeria). L'Agence nationale des voies navigables (NIWA) a confirmé 41 morts et 11 rescapés, un responsable local évoquant un bilan pouvant atteindre 47 morts ; les autorités attribuent le drame à la surcharge de l'embarcation.",
+      "en": "A canoe carrying an estimated 82 passengers, including a community leader, capsized on the Goronyo River while heading to rice fields in Sokoto State, northwestern Nigeria. The National Inland Waterways Authority (NIWA) confirmed 41 deaths and 11 survivors, while a local official put the toll as high as 47; authorities blamed the disaster on the boat being overloaded.",
+      "es": "Una canoa que transportaba aproximadamente a 82 pasajeros, entre ellos un líder comunitario, volcó en el río Goronyo cuando se dirigía a unos campos de arroz, en el estado de Sokoto (noroeste de Nigeria). La Agencia Nacional de Vías Navegables (NIWA) confirmó 41 muertos y 11 sobrevivientes, mientras que un funcionario local situó el balance en hasta 47 muertos; las autoridades atribuyen la tragedia a la sobrecarga de la embarcación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "La NIWA confirme 41 morts et 11 rescapés après le naufrage de la pirogue sur le fleuve Goronyo ; les recherches se poursuivent pour retrouver les personnes disparues.",
+          "en": "NIWA confirms 41 deaths and 11 survivors after the canoe capsized on the Goronyo River; search efforts continue for the missing.",
+          "es": "La NIWA confirma 41 muertos y 11 sobrevivientes tras el naufragio de la canoa en el río Goronyo; continúan las búsquedas de los desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 3
+  },
+  {
+    "coords": [
+      109.3,
+      -0.03
+    ],
+    "id": "indonesie-feux-tourbieres",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Associated Press / Ministère indonésien des Forêts",
+    "place": {
+      "fr": "Kalimantan-Occidental et Kalimantan-Central, Bornéo, Indonésie",
+      "en": "West and Central Kalimantan, Borneo, Indonesia",
+      "es": "Kalimantan Occidental y Kalimantan Central, Borneo, Indonesia"
+    },
+    "title": {
+      "fr": "Indonésie : les feux de tourbières s'intensifient à Bornéo, un nuage de fumée toxique gagne la Malaisie",
+      "en": "Indonesia: peatland fires intensify in Borneo, toxic haze spreads into Malaysia",
+      "es": "Indonesia: los incendios de turberas se intensifican en Borneo, una nube de humo tóxico llega a Malasia"
+    },
+    "summary": {
+      "fr": "Les feux de tourbières de saison sèche ont brûlé près de 48 900 hectares dans six provinces indonésiennes, plus de la moitié rien qu'au Kalimantan-Occidental, avec plus de 5 000 points de chaleur recensés par le ministère des Forêts. Le nuage de fumée a réduit la visibilité à quelques mètres par endroits et a atteint l'État malaisien du Sarawak ; douze personnes ont été interpellées pour des soupçons d'incendies volontaires liés au défrichement.",
+      "en": "Dry-season peatland fires have burned nearly 48,900 hectares across six Indonesian provinces, more than half in West Kalimantan alone, with more than 5,000 hot spots recorded by the Forestry Ministry. The resulting haze has cut visibility to just a few meters in places and reached Malaysia's Sarawak state; twelve people have been detained on suspicion of setting fires to clear land.",
+      "es": "Los incendios de turberas de la temporada seca han quemado cerca de 48.900 hectáreas en seis provincias indonesias, más de la mitad solo en Kalimantan Occidental, con más de 5.000 puntos calientes registrados por el Ministerio de Bosques. La humareda ha reducido la visibilidad a pocos metros en algunos lugares y ha llegado al estado malasio de Sarawak; doce personas han sido detenidas por sospechas de provocar incendios para despejar tierras."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités indonésiennes font état de plus de 5 000 points de chaleur actifs et d'une fumée toxique atteignant la Malaisie voisine.",
+          "en": "Indonesian authorities report more than 5,000 active hot spots and toxic haze reaching neighboring Malaysia.",
+          "es": "Las autoridades indonesias informan de más de 5.000 puntos calientes activos y humo tóxico que llega a la vecina Malasia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      34.45,
+      31.5
+    ],
+    "id": "gaza-frappes-israeliennes",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / services de secours de Gaza",
+    "place": {
+      "fr": "Gaza (ville) et camp de Nuseirat, bande de Gaza",
+      "en": "Gaza City and Nuseirat refugee camp, Gaza Strip",
+      "es": "Ciudad de Gaza y campo de Nuseirat, Franja de Gaza"
+    },
+    "title": {
+      "fr": "Gaza : une série de frappes israéliennes fait au moins 16 morts, tensions autour du cessez-le-feu",
+      "en": "Gaza: series of Israeli strikes kills at least 16, straining ceasefire efforts",
+      "es": "Gaza: una serie de ataques israelíes deja al menos 16 muertos, tensiones en torno al alto el fuego"
+    },
+    "summary": {
+      "fr": "Une série de frappes israéliennes a fait au moins 16 à 17 morts palestiniens et des dizaines de blessés entre le 18 et le 20 août, dont sept personnes tuées dans un café en bord de mer à Gaza-ville et au moins neuf autres dans une frappe sur le quartier général de la police municipale. L'armée israélienne affirme avoir visé des combattants ; le Hamas dénonce des frappes qui compromettent le cessez-le-feu. La Turquie, l'Égypte et le Qatar, médiateurs, ont conjointement condamné ces frappes et appelé Israël à respecter ses engagements.",
+      "en": "A series of Israeli strikes killed at least 16 to 17 Palestinians and wounded dozens between August 18 and 20, including seven people killed at a seaside café in Gaza City and at least nine more in a strike on the municipal police headquarters. Israel's military said it targeted militants; Hamas said the strikes undermined the ceasefire. Mediators Turkey, Egypt and Qatar jointly condemned the strikes and urged Israel to honor its commitments.",
+      "es": "Una serie de ataques israelíes dejó al menos entre 16 y 17 palestinos muertos y decenas de heridos entre el 18 y el 20 de agosto, entre ellos siete personas fallecidas en un café frente al mar en la ciudad de Gaza y al menos otras nueve en un ataque contra la sede de la policía municipal. El ejército israelí afirmó haber atacado a combatientes; Hamás denunció que los ataques socavan el alto el fuego. Turquía, Egipto y Catar, mediadores, condenaron conjuntamente los ataques y pidieron a Israel que respete sus compromisos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18-20/08/2026",
+          "en": "18-20/08/2026",
+          "es": "18-20/08/2026"
+        },
+        "d": {
+          "fr": "Plusieurs frappes israéliennes touchent Gaza-ville et le camp de Nuseirat en trois jours, faisant au moins 16 morts selon les services de secours locaux.",
+          "en": "Several Israeli strikes hit Gaza City and the Nuseirat refugee camp over three days, killing at least 16 people according to local rescue services.",
+          "es": "Varios ataques israelíes golpean la ciudad de Gaza y el campo de Nuseirat en tres días, causando al menos 16 muertos según los servicios de rescate locales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -119.65,
+      49.6
+    ],
+    "id": "canada-incendie-colombiebritannique",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / GRC (RCMP)",
+    "place": {
+      "fr": "Summerland et Peachland, région de l'Okanagan, Colombie-Britannique, Canada",
+      "en": "Summerland and Peachland, Okanagan region, British Columbia, Canada",
+      "es": "Summerland y Peachland, región de Okanagan, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Canada : l'incendie « Bald Range » force l'évacuation de plus de 20 000 personnes en Colombie-Britannique, une morte",
+      "en": "Canada: 'Bald Range' wildfire forces over 20,000 evacuations in British Columbia, one dead",
+      "es": "Canadá: el incendio 'Bald Range' obliga a evacuar a más de 20.000 personas en Columbia Británica, una muerta"
+    },
+    "summary": {
+      "fr": "L'incendie de forêt « Bald Range » a progressé rapidement vers le lac Okanagan début août, entraînant l'évacuation de la totalité de Summerland (environ 12 000 habitants) et de 8 000 autres résidents autour de Peachland, en Colombie-Britannique. La police montée (GRC) a confirmé la mort d'une femme de 80 ans alors qu'elle tentait de fuir avec sa famille ; la province a déclaré l'état d'urgence et fait état de pertes de bâtiments importantes. Au 18 août, plus de 10 000 personnes restaient sous ordre d'évacuation à travers le pays, dans le cadre d'une saison des feux 2026 particulièrement sévère au Canada.",
+      "en": "The 'Bald Range' wildfire raced toward Okanagan Lake in early August, forcing the evacuation of all of Summerland (population about 12,000) and 8,000 more residents around Peachland, British Columbia. The RCMP confirmed an 80-year-old woman died while trying to flee with her family; the province declared a state of emergency and reported significant structure loss. As of August 18, more than 10,000 people remained under evacuation orders nationwide amid a severe 2026 Canadian wildfire season.",
+      "es": "El incendio forestal 'Bald Range' avanzó rápidamente hacia el lago Okanagan a principios de agosto, obligando a evacuar la totalidad de Summerland (unos 12.000 habitantes) y a otros 8.000 residentes en torno a Peachland, en Columbia Británica. La policía montada (RCMP) confirmó la muerte de una mujer de 80 años mientras intentaba huir con su familia; la provincia declaró el estado de emergencia y reportó pérdidas importantes de estructuras. Al 18 de agosto, más de 10.000 personas seguían bajo órdenes de evacuación en todo el país, en medio de una temporada de incendios 2026 particularmente severa en Canadá."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/08/2026",
+          "en": "18/08/2026",
+          "es": "18/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement canadien fait un point actualisé : plus de 10 000 personnes restent sous ordre d'évacuation à travers le pays en raison des feux de forêt.",
+          "en": "The Canadian government provides an updated status: more than 10,000 people remain under evacuation orders nationwide due to wildfires.",
+          "es": "El gobierno canadiense ofrece una actualización: más de 10.000 personas siguen bajo órdenes de evacuación en todo el país debido a los incendios forestales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -85.3097,
+      35.0456
+    ],
+    "id": "usa-chattanooga-meurtre",
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Chattanooga Times Free Press / Chattanoogan.com",
+    "place": {
+      "fr": "Chattanooga, Tennessee, États-Unis",
+      "en": "Chattanooga, Tennessee, United States",
+      "es": "Chattanooga, Tennessee, Estados Unidos"
+    },
+    "title": {
+      "fr": "États-Unis : un ex-policier de Chattanooga condamné à perpétuité pour le meurtre de son ex-compagne",
+      "en": "United States: former Chattanooga police officer sentenced to life for murdering ex-girlfriend",
+      "es": "Estados Unidos: un expolicía de Chattanooga condenado a cadena perpetua por el asesinato de su expareja"
+    },
+    "summary": {
+      "fr": "Un jury du comté de Hamilton a reconnu coupable, le vendredi 21 août, Lawrence Goodine, ancien policier de Chattanooga (Tennessee), du meurtre au premier degré de son ex-compagne Kara Akins, 48 ans, étranglée en novembre 2023. Il a été condamné à la perpétuité et reconnu coupable également d'enlèvement aggravé, de violation de domicile et de manipulation de preuves ; l'accusation a indiqué qu'il avait maquillé la scène en overdose avant d'appeler les secours.",
+      "en": "A Hamilton County jury convicted Lawrence Goodine, a former Chattanooga, Tennessee police officer, of first-degree murder on Friday, August 21, in the November 2023 strangulation death of his ex-girlfriend, Kara Akins, 48. He was sentenced to life in prison and also convicted of aggravated kidnapping, criminal trespass and evidence tampering; prosecutors said he staged the scene to look like an overdose before calling 911.",
+      "es": "Un jurado del condado de Hamilton declaró culpable el viernes 21 de agosto a Lawrence Goodine, expolicía de Chattanooga, Tennessee, de asesinato en primer grado por la muerte por estrangulamiento de su expareja, Kara Akins, de 48 años, en noviembre de 2023. Fue condenado a cadena perpetua y también declarado culpable de secuestro agravado, allanamiento y manipulación de pruebas; la fiscalía indicó que había simulado la escena como una sobredosis antes de llamar a emergencias."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Le jury rend son verdict de culpabilité et Lawrence Goodine est condamné à la prison à perpétuité.",
+          "en": "The jury returns its guilty verdict and Lawrence Goodine is sentenced to life in prison.",
+          "es": "El jurado emite su veredicto de culpabilidad y Lawrence Goodine es condenado a cadena perpetua."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -86.16,
+      39.77
+    ],
+    "id": "usa-indiana-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Indiana State Emergency Operations Center / NBC News",
+    "place": {
+      "fr": "Indiana (comtés de Henry, Jennings, Delaware, Lake, Porter et LaPorte), États-Unis",
+      "en": "Indiana (Henry, Jennings, Delaware, Lake, Porter and LaPorte counties), United States",
+      "es": "Indiana (condados de Henry, Jennings, Delaware, Lake, Porter y LaPorte), Estados Unidos"
+    },
+    "title": {
+      "fr": "États-Unis : au moins 7 morts dans des inondations et tornades record dans l'Indiana",
+      "en": "United States: at least 7 dead in record flooding and tornadoes in Indiana",
+      "es": "Estados Unidos: al menos 7 muertos en inundaciones y tornados récord en Indiana"
+    },
+    "summary": {
+      "fr": "Des pluies record et des orages violents, dont au moins cinq tornades, ont provoqué des inondations historiques dans l'Indiana entre le 11 et le 16 août, poussant le gouverneur à déclarer l'état d'urgence dans tout l'État. Au moins sept personnes sont mortes, dont un enfant de 4 ans tué par la chute d'un arbre sur sa maison dans le comté de Jennings et un cycliste de 31 ans tombé dans une route emportée par les eaux dans le comté de Henry. La rivière White, à Indianapolis, a atteint un niveau record avant de commencer à baisser.",
+      "en": "Record-setting rainfall and severe storms, including at least five tornadoes, triggered historic flooding across Indiana between August 11 and 16, prompting the governor to declare a statewide disaster emergency. At least seven people died, including a 4-year-old boy killed when a tree fell on his home in Jennings County and a 31-year-old cyclist who fell into a washed-out road in Henry County. The White River in Indianapolis crested at record levels before floodwaters began receding.",
+      "es": "Lluvias récord y tormentas severas, incluidos al menos cinco tornados, provocaron inundaciones históricas en Indiana entre el 11 y el 16 de agosto, lo que llevó al gobernador a declarar el estado de emergencia en todo el estado. Al menos siete personas murieron, entre ellas un niño de 4 años fallecido cuando un árbol cayó sobre su casa en el condado de Jennings y un ciclista de 31 años que cayó en una carretera arrastrada por el agua en el condado de Henry. El río White, en Indianápolis, alcanzó un nivel récord antes de que las aguas comenzaran a bajar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/08/2026",
+          "en": "16/08/2026",
+          "es": "16/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint au moins sept morts alors que les inondations commencent à refluer dans l'Indiana.",
+          "en": "The death toll reaches at least seven as floodwaters begin to recede across Indiana.",
+          "es": "El balance alcanza al menos siete muertos mientras las aguas de la inundación comienzan a retroceder en Indiana."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.04,
+      38.9
+    ],
+    "id": "usa-canada-tarifs-pause",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "NPR / Bloomberg",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Donald Trump suspend pour trois jours les surtaxes douanières de 50 % sur le Canada, un accord en vue",
+      "en": "Trump pauses 50% tariffs on Canada for three days as deal nears",
+      "es": "Trump suspende durante tres días los aranceles del 50 % sobre Canadá ante un acuerdo inminente"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump avait signé en juillet des décrets imposant de nouveaux droits de douane de 50 % sur un large éventail de produits canadiens, représentant près de 20 milliards de dollars d'importations annuelles, censés entrer en vigueur le 19 août. Le 18 août au soir, il a annoncé une suspension de trois jours de ces surtaxes, invoquant un accord imminent « sous réserve de la finalisation des documents ». Le Premier ministre canadien Mark Carney a confirmé des « discussions intensives » et des « progrès substantiels ».",
+      "en": "President Donald Trump had signed proclamations in July imposing new 50% tariffs on a wide range of Canadian goods, affecting nearly $20 billion in annual imports, set to take effect August 19. On the evening of August 18, he announced a three-day pause on the tariffs, citing an imminent deal \"subject to finalization of documents.\" Canadian Prime Minister Mark Carney confirmed \"intensive discussions\" and \"substantial progress.\"",
+      "es": "El presidente estadounidense Donald Trump había firmado en julio proclamas que imponían nuevos aranceles del 50 % a una amplia gama de productos canadienses, afectando a casi 20.000 millones de dólares en importaciones anuales, que debían entrar en vigor el 19 de agosto. La noche del 18 de agosto, anunció una suspensión de tres días de esos aranceles, citando un acuerdo inminente \"sujeto a la finalización de los documentos\". El primer ministro canadiense, Mark Carney, confirmó \"discusiones intensivas\" y \"avances sustanciales\"."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/08/2026",
+          "en": "18/08/2026",
+          "es": "18/08/2026"
+        },
+        "d": {
+          "fr": "Donald Trump annonce une pause de trois jours sur les surtaxes douanières prévues contre le Canada, à la veille de leur entrée en vigueur.",
+          "en": "Donald Trump announces a three-day pause on the planned tariffs against Canada, on the eve of their entry into force.",
+          "es": "Donald Trump anuncia una pausa de tres días en los aranceles previstos contra Canadá, en vísperas de su entrada en vigor."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      33.39,
+      47.91
+    ],
+    "id": "ukraine-kryvyirih-frappe-centre-commercial",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters / Ukrinform",
+    "place": {
+      "fr": "Kryvyi Rih, oblast de Dnipropetrovsk, Ukraine",
+      "en": "Kryvyi Rih, Dnipropetrovsk Oblast, Ukraine",
+      "es": "Kryvyi Rih, óblast de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : une frappe de drones russes sur un centre commercial de Kryvyi Rih fait au moins 14 morts",
+      "en": "Ukraine: Russian drone strike on Kryvyi Rih shopping mall kills at least 14",
+      "es": "Ucrania: un ataque con drones rusos contra un centro comercial de Kryvyi Rih deja al menos 14 muertos"
+    },
+    "summary": {
+      "fr": "Des drones russes ont frappé en pleine journée un centre commercial fréquenté de Kryvyi Rih, ville natale du président Volodymyr Zelensky, un second drone touchant les lieux environ trente minutes après le premier — une séquence que les autorités ukrainiennes qualifient de frappe « en double détente » visant les secours. Le bilan, encore en évolution selon les sources, fait état d'au moins 14 à 16 morts et de plus de 130 blessés, dont 22 enfants, selon le gouverneur régional Oleksandr Hanzha.",
+      "en": "Russian drones struck a busy shopping mall in Kryvyi Rih, President Volodymyr Zelensky's hometown, in broad daylight, with a second drone hitting the site about thirty minutes after the first — a sequence Ukrainian officials describe as a \"double-tap\" strike targeting first responders. The toll, still evolving across sources, stands at least 14 to 16 dead and over 130 wounded, including 22 children, according to regional governor Oleksandr Hanzha.",
+      "es": "Drones rusos atacaron en pleno día un concurrido centro comercial de Kryvyi Rih, ciudad natal del presidente Volodímir Zelenski, con un segundo dron impactando el lugar unos treinta minutos después del primero, una secuencia que las autoridades ucranianas describen como un ataque de \"doble golpe\" dirigido contra los servicios de emergencia. El balance, aún cambiante según las fuentes, se sitúa entre 14 y 16 muertos y más de 130 heridos, entre ellos 22 niños, según el gobernador regional Oleksandr Hanzha."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Un second drone frappe le centre commercial environ trente minutes après le premier impact, portant le bilan à au moins 14 morts selon les autorités régionales.",
+          "en": "A second drone strikes the shopping mall about thirty minutes after the first impact, bringing the toll to at least 14 dead according to regional authorities.",
+          "es": "Un segundo dron impacta el centro comercial unos treinta minutos después del primer ataque, elevando el balance a al menos 14 muertos según las autoridades regionales."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-kyiv-frappes-missiles"
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.52,
+      50.45
+    ],
+    "id": "ukraine-kyiv-frappes-missiles",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "NBC News / Kyiv Independent",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : une salve de missiles et drones russes sur Kyiv fait une quinzaine de morts, un hôpital pédiatrique touché",
+      "en": "Ukraine: Russian missile and drone barrage on Kyiv kills about fifteen, hits children's hospital",
+      "es": "Ucrania: una oleada de misiles y drones rusos sobre Kiev deja unos quince muertos, un hospital infantil resulta alcanzado"
+    },
+    "summary": {
+      "fr": "La Russie a frappé Kyiv à deux reprises en 24 heures avec des missiles balistiques et des drones les 20 et 21 août, un hôpital pédiatrique figurant parmi les sites touchés. Le maire Vitali Klitschko a fait état d'environ 15 morts dans la capitale et d'un mort supplémentaire dans la région environnante ; les explosions ont retenti quelques minutes après une alerte aérienne. En représailles, l'armée ukrainienne affirme avoir frappé dans la nuit des raffineries et infrastructures logistiques en territoire russe.",
+      "en": "Russia struck Kyiv twice within 24 hours using ballistic missiles and drones on August 20-21, with a children's hospital among the sites hit. Mayor Vitali Klitschko reported about 15 people killed in the capital and one more death in the surrounding region; explosions came minutes after an air raid alert. In retaliation, Ukraine's military said it struck oil refineries and logistics infrastructure inside Russia overnight.",
+      "es": "Rusia atacó Kiev dos veces en 24 horas con misiles balísticos y drones los días 20 y 21 de agosto, con un hospital infantil entre los lugares alcanzados. El alcalde Vitali Klitschko informó de unos 15 muertos en la capital y una muerte más en la región circundante; las explosiones se produjeron minutos después de una alerta aérea. En represalia, el ejército ucraniano afirmó haber atacado durante la noche refinerías e infraestructuras logísticas en territorio ruso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Une nouvelle frappe russe touche Kyiv, dont un hôpital pédiatrique, portant le bilan dans la capitale à une quinzaine de morts selon le maire Vitali Klitschko.",
+          "en": "A fresh Russian strike hits Kyiv, including a children's hospital, bringing the toll in the capital to about fifteen dead according to Mayor Vitali Klitschko.",
+          "es": "Un nuevo ataque ruso golpea Kiev, incluido un hospital infantil, elevando el balance en la capital a unos quince muertos según el alcalde Vitali Klitschko."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-kryvyirih-frappe-centre-commercial"
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      6.87,
+      45.83
+    ],
+    "id": "france-alpes-eboulements",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "⛰️",
+    "source": "Euronews / Japan Times (phys.org)",
+    "place": {
+      "fr": "Massif du Mont-Blanc, région de Chamonix, France",
+      "en": "Mont Blanc massif, Chamonix area, France",
+      "es": "Macizo del Mont Blanc, región de Chamonix, Francia"
+    },
+    "title": {
+      "fr": "France : les Alpes connaissent une année record d'éboulements, un alpiniste tué près de Chamonix",
+      "en": "France: Alps see record year for rockfalls, climber killed near Chamonix",
+      "es": "Francia: los Alpes viven un año récord de desprendimientos, un alpinista muerto cerca de Chamonix"
+    },
+    "summary": {
+      "fr": "Des scientifiques ont confirmé que 2026 est une année record pour les éboulements dans les Alpes, avec environ 450 événements attendus rien que dans le massif du Mont-Blanc, sous l'effet de la chaleur estivale extrême qui dégèle le permafrost et déstabilise les parois rocheuses. Un alpiniste a été tué le 13 août près de l'aiguille du Génépi, au-dessus du refuge Albert-Ier, dans le secteur du Tour à Chamonix, frappé par des chutes de pierres. Un éboulement majeur d'environ 15 000 m³ avait déjà touché la face nord de l'aiguille du Midi le 12 août.",
+      "en": "Scientists have confirmed that 2026 is a record year for rockfalls in the Alps, with roughly 450 events expected in the Mont Blanc massif alone, driven by extreme summer heat thawing permafrost and destabilizing rock walls. A climber was killed on August 13 near the Aiguille du Génépi, above the Albert 1er refuge in Chamonix's Le Tour sector, struck by falling rock. A major rockfall of about 15,000 cubic meters had already hit the north face of the Aiguille du Midi on August 12.",
+      "es": "Científicos confirmaron que 2026 es un año récord de desprendimientos en los Alpes, con unos 450 eventos previstos solo en el macizo del Mont Blanc, impulsados por el calor extremo del verano que descongela el permafrost y desestabiliza las paredes rocosas. Un alpinista murió el 13 de agosto cerca de la aguja del Génépi, sobre el refugio Albert 1er, en el sector de Le Tour de Chamonix, alcanzado por la caída de piedras. Un gran desprendimiento de unos 15.000 metros cúbicos ya había golpeado la cara norte de la aguja del Midi el 12 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Des glaciologues confirment que 2026 bat le record du nombre d'éboulements dans le massif du Mont-Blanc, sur fond de dégel du permafrost.",
+          "en": "Glaciologists confirm that 2026 is setting a record for the number of rockfalls in the Mont Blanc massif, amid permafrost thaw.",
+          "es": "Los glaciólogos confirman que 2026 bate el récord de número de desprendimientos en el macizo del Mont Blanc, en medio del deshielo del permafrost."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      88.3639,
+      22.5726
+    ],
+    "id": "inde-kolkata-incendie-hotel",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Associated Press / BBC",
+    "place": {
+      "fr": "Quartier de Free School Street/New Market, Kolkata (Calcutta), Bengale-Occidental, Inde",
+      "en": "Free School Street/New Market area, Kolkata, West Bengal, India",
+      "es": "Zona de Free School Street/New Market, Calcuta, Bengala Occidental, India"
+    },
+    "title": {
+      "fr": "Inde : au moins 9 morts dans l'incendie d'un immeuble abritant plusieurs hôtels à Kolkata",
+      "en": "India: at least 9 dead in fire at building housing several hotels in Kolkata",
+      "es": "India: al menos 9 muertos en el incendio de un edificio con varios hoteles en Calcuta"
+    },
+    "summary": {
+      "fr": "Un incendie a ravagé, dans la nuit du mardi 18 au mercredi 19 août, un immeuble de cinq étages abritant plusieurs hôtels dans le centre de Kolkata. Au moins 9 personnes sont mortes, dont un enfant, et 6 ont été blessées ; environ 80 personnes ont été évacuées. La police a interpellé deux employés d'hôtel dans le cadre de l'enquête, et la ministre en chef du Bengale-Occidental a ordonné une enquête tandis que le Premier ministre a annoncé une aide financière aux familles des victimes.",
+      "en": "A fire tore through a five-story building housing several hotels in central Kolkata in the early hours of Wednesday, August 19. At least 9 people were killed, including a child, and 6 were injured; about 80 people were evacuated. Police detained two hotel staff members as part of the investigation, and West Bengal's chief minister ordered a probe while the prime minister announced financial aid for victims' families.",
+      "es": "Un incendio arrasó, en la madrugada del miércoles 19 de agosto, un edificio de cinco pisos con varios hoteles en el centro de Calcuta. Al menos 9 personas murieron, entre ellas un niño, y 6 resultaron heridas; unas 80 personas fueron evacuadas. La policía detuvo a dos empleados del hotel como parte de la investigación, y la ministra principal de Bengala Occidental ordenó una investigación mientras el primer ministro anunció ayuda económica para las familias de las víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "19/08/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie fait au moins 9 morts et 6 blessés ; les autorités ouvrent une enquête et annoncent une aide aux familles.",
+          "en": "The fire leaves at least 9 dead and 6 injured; authorities open an investigation and announce aid for families.",
+          "es": "El incendio deja al menos 9 muertos y 6 heridos; las autoridades abren una investigación y anuncian ayuda para las familias."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      86.0949,
+      25.1747
+    ],
+    "id": "inde-bihar-bousculade",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕯️",
+    "source": "Associated Press / Outlook India",
+    "place": {
+      "fr": "Temple d'Ashok Dham, district de Lakhisarai, Bihar, Inde",
+      "en": "Ashok Dham Temple, Lakhisarai district, Bihar, India",
+      "es": "Templo de Ashok Dham, distrito de Lakhisarai, Bihar, India"
+    },
+    "title": {
+      "fr": "Inde : une bousculade fait 7 morts lors d'un rassemblement religieux au Bihar",
+      "en": "India: stampede kills 7 during religious gathering in Bihar",
+      "es": "India: una estampida deja 7 muertos durante una concentración religiosa en Bihar"
+    },
+    "summary": {
+      "fr": "Une bousculade a éclaté le lundi 17 août parmi environ 50 000 fidèles rassemblés au temple d'Ashok Dham, dans le district de Lakhisarai (Bihar), pour un rituel du mois hindou de Shravan, après qu'une rumeur d'électrocution provoquée par un câble tombé a semé la panique et fait céder une barrière. Sept fidèles sont morts et une douzaine ont été blessés ; le gouvernement du Bihar a annoncé une indemnisation de 400 000 roupies par famille de victime.",
+      "en": "A stampede broke out on Monday, August 17 among an estimated 50,000 devotees gathered at the Ashok Dham Temple in Lakhisarai district, Bihar, for a ritual during the Hindu month of Shravan, after a rumor of electrocution from a fallen cable sparked panic and caused a barricade to collapse. Seven devotees died and about a dozen were injured; the Bihar government announced compensation of 400,000 rupees per victim's family.",
+      "es": "Una estampida estalló el lunes 17 de agosto entre unos 50.000 devotos reunidos en el templo de Ashok Dham, en el distrito de Lakhisarai (Bihar), para un ritual del mes hindú de Shravan, después de que un rumor de electrocución por un cable caído provocara pánico y el colapso de una barrera. Siete devotos murieron y una docena resultaron heridos; el gobierno de Bihar anunció una compensación de 400.000 rupias por familia de víctima."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "La bousculade fait 7 morts et une douzaine de blessés ; le gouvernement du Bihar annonce une indemnisation aux familles.",
+          "en": "The stampede leaves 7 dead and about a dozen injured; the Bihar government announces compensation for families.",
+          "es": "La estampida deja 7 muertos y una docena de heridos; el gobierno de Bihar anuncia una compensación para las familias."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      85.3096,
+      23.3441
+    ],
+    "id": "inde-jharkhand-financement-terrorisme",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Agence nationale d'enquête (NIA) / ANI",
+    "place": {
+      "fr": "Tribunal spécial de la NIA, Ranchi, Jharkhand, Inde",
+      "en": "Special NIA Court, Ranchi, Jharkhand, India",
+      "es": "Tribunal especial de la NIA, Ranchi, Jharkhand, India"
+    },
+    "title": {
+      "fr": "Inde : 12 personnes condamnées pour financement d'un groupe maoïste dans le bassin houiller du Jharkhand",
+      "en": "India: 12 sentenced for funding Maoist-linked group in Jharkhand coal belt",
+      "es": "India: 12 personas condenadas por financiar a un grupo maoísta en la cuenca carbonífera de Jharkhand"
+    },
+    "summary": {
+      "fr": "Un tribunal spécial de la NIA à Ranchi (Jharkhand) a condamné le 18 août douze personnes pour extorsion et collecte de taxes illégales auprès d'entrepreneurs et transporteurs de charbon dans le bassin d'Amrapali-Magadh, afin de financer le Tritiya Prastuti Committee, un groupe lié aux maoïstes interdits (CPI-Maoïste). Cinq accusés ont été condamnés à 10 ans de prison ferme, six à 8 ans et un à 5 ans, en vertu du code pénal indien et de la loi antiterroriste UAPA.",
+      "en": "A Special NIA Court in Ranchi, Jharkhand, sentenced twelve people on August 18 for extortion and collecting illegal levies from coal contractors and transporters in the Amrapali-Magadh belt to fund the Tritiya Prastuti Committee, a group linked to the banned Maoist CPI (Maoist). Five defendants received 10 years' rigorous imprisonment, six got 8 years and one got 5 years, under India's penal code and the UAPA anti-terrorism law.",
+      "es": "Un tribunal especial de la NIA en Ranchi, Jharkhand, condenó el 18 de agosto a doce personas por extorsión y cobro de impuestos ilegales a contratistas y transportistas de carbón en la cuenca de Amrapali-Magadh, para financiar el Comité Tritiya Prastuti, un grupo vinculado a los maoístas prohibidos (PCI-Maoísta). Cinco acusados recibieron 10 años de prisión rigurosa, seis 8 años y uno 5 años, en virtud del código penal indio y de la ley antiterrorista UAPA."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/08/2026",
+          "en": "18/08/2026",
+          "es": "18/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal spécial de la NIA prononce les peines contre les douze accusés, allant de 5 à 10 ans de prison.",
+          "en": "The Special NIA Court hands down sentences against the twelve defendants, ranging from 5 to 10 years in prison.",
+          "es": "El tribunal especial de la NIA dicta las penas contra los doce acusados, que van de 5 a 10 años de prisión."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      77.2438,
+      28.5729
+    ],
+    "id": "inde-delhi-mondiaux-badminton",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏸",
+    "source": "Fédération mondiale de badminton (BWF) / WION",
+    "place": {
+      "fr": "Indira Gandhi Arena, New Delhi, Inde",
+      "en": "Indira Gandhi Arena, New Delhi, India",
+      "es": "Indira Gandhi Arena, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Badminton : l'Inde accueille les Mondiaux à New Delhi, Sindhu qualifiée, Lakshya Sen éliminé",
+      "en": "Badminton: India hosts World Championships in New Delhi, Sindhu advances, Lakshya Sen eliminated",
+      "es": "Bádminton: India acoge el Mundial en Nueva Delhi, Sindhu avanza, Lakshya Sen eliminado"
+    },
+    "summary": {
+      "fr": "L'Inde accueille pour la première fois depuis 2009 les Championnats du monde de badminton (BWF), à l'Indira Gandhi Arena de New Delhi, du 17 au 23 août. PV Sindhu s'est qualifiée pour les pré-quarts de finale en battant la Canadienne Zhang Wen Yu (21-16, 21-17), tandis que l'espoir masculin Lakshya Sen a été éliminé au deuxième tour par l'Américain Garret Tan.",
+      "en": "India is hosting the BWF World Badminton Championships for the first time since 2009, at the Indira Gandhi Arena in New Delhi, from August 17 to 23. PV Sindhu advanced to the pre-quarterfinals by beating Canada's Zhang Wen Yu 21-16, 21-17, while men's singles hope Lakshya Sen was eliminated in the second round by the United States' Garret Tan.",
+      "es": "India acoge por primera vez desde 2009 el Campeonato Mundial de Bádminton de la BWF, en el Indira Gandhi Arena de Nueva Delhi, del 17 al 23 de agosto. PV Sindhu avanzó a los preoctavos de final al vencer a la canadiense Zhang Wen Yu por 21-16 y 21-17, mientras que la esperanza masculina Lakshya Sen fue eliminado en la segunda ronda por el estadounidense Garret Tan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "19/08/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "PV Sindhu se qualifie pour les pré-quarts de finale tandis que Lakshya Sen est éliminé dès le deuxième tour du tableau masculin.",
+          "en": "PV Sindhu advances to the pre-quarterfinals while Lakshya Sen is eliminated in the second round of the men's draw.",
+          "es": "PV Sindhu avanza a los preoctavos de final mientras Lakshya Sen es eliminado en la segunda ronda del cuadro masculino."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -43.4508,
+      -22.7556
+    ],
+    "id": "bresil-rio-milice-operation",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Police fédérale brésilienne / Metrópoles",
+    "place": {
+      "fr": "Nova Iguaçu et Rio de Janeiro (Baixada Fluminense), Brésil",
+      "en": "Nova Iguaçu and Rio de Janeiro (Baixada Fluminense), Brazil",
+      "es": "Nova Iguaçu y Río de Janeiro (Baixada Fluminense), Brasil"
+    },
+    "title": {
+      "fr": "Brésil : la police fédérale démantèle le réseau financier d'une milice de la Baixada Fluminense à Rio",
+      "en": "Brazil: federal police dismantle financial network of Rio-area militia",
+      "es": "Brasil: la policía federal desmantela la red financiera de una milicia de la Baixada Fluminense en Río"
+    },
+    "summary": {
+      "fr": "La police fédérale brésilienne et le parquet de l'État de Rio de Janeiro ont exécuté 23 mandats de perquisition et saisie le 20 août contre la milice armée « Bonde do Varão », dirigée par Gilson Ingrácio de Souza Junior, dans le cadre de l'opération « Fora de Ordem ». Ce groupe, actif depuis 2013, aurait contrôlé par la violence les services locaux d'internet et de gaz de cuisine, brassant plus de 350 millions de reais (environ 67 millions de dollars) selon les services de renseignement financier (Coaf) ; des comptes et avoirs ont été gelés et un élu municipal de Nova Iguaçu a été interpellé.",
+      "en": "Brazil's Federal Police and the Rio de Janeiro state prosecutor's office carried out 23 search-and-seizure warrants on August 20 against the armed militia \"Bonde do Varão,\" led by Gilson Ingrácio de Souza Junior, as part of \"Operation Fora de Ordem.\" The group, active since 2013, is accused of controlling local internet and cooking-gas services through violence, moving more than 350 million reais (about $67 million) according to financial intelligence agency Coaf; assets and accounts were frozen and a Nova Iguaçu city councilman was detained.",
+      "es": "La Policía Federal de Brasil y la fiscalía del estado de Río de Janeiro ejecutaron 23 órdenes de allanamiento y decomiso el 20 de agosto contra la milicia armada \"Bonde do Varão\", liderada por Gilson Ingrácio de Souza Junior, en el marco de la \"Operación Fora de Ordem\". El grupo, activo desde 2013, está acusado de controlar mediante la violencia los servicios locales de internet y gas de cocina, moviendo más de 350 millones de reales (unos 67 millones de dólares) según la agencia de inteligencia financiera Coaf; se congelaron cuentas y bienes, y un concejal de Nova Iguaçu fue detenido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "La police fédérale et le parquet exécutent 23 mandats contre la milice « Bonde do Varão », gelant ses avoirs financiers.",
+          "en": "Federal police and prosecutors carry out 23 warrants against the \"Bonde do Varão\" militia, freezing its financial assets.",
+          "es": "La policía federal y la fiscalía ejecutan 23 órdenes contra la milicia \"Bonde do Varão\", congelando sus activos financieros."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W34",
+    "priority": 2
   }
 ]
