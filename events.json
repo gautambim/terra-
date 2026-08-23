@@ -829,5 +829,940 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -85.21,
+      44.33
+    ],
+    "id": "michigan-fusillade",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Detroit News",
+    "place": {
+      "fr": "Comté de Missaukee, Michigan, États-Unis",
+      "en": "Missaukee County, Michigan, United States",
+      "es": "Condado de Missaukee, Míchigan, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade dans le comté de Missaukee : six morts dans le Michigan",
+      "en": "Shooting spree leaves six dead in Missaukee County, Michigan",
+      "es": "Tiroteo deja seis muertos en el condado de Missaukee, Míchigan"
+    },
+    "summary": {
+      "fr": "Le 14 août 2026, un homme de 39 ans a ouvert le feu sur trois sites différents du comté de Missaukee, tuant cinq personnes âgées de 16 à 53 ans et blessant grièvement une fillette de 13 ans, avant d'être retrouvé mort dans une zone boisée. La police du Michigan a confirmé un bilan de six morts en comptant le tireur, qui avait fait l'objet d'accusations de violences conjugales lors d'un divorce en 2023.",
+      "en": "On August 14, 2026, a 39-year-old man opened fire at three separate locations in Missaukee County, killing five people aged 16 to 53 and critically wounding a 13-year-old girl, before being found dead in a wooded area. Michigan State Police confirmed a total of six dead including the gunman, who had a history of domestic-violence allegations from a 2023 divorce.",
+      "es": "El 14 de agosto de 2026, un hombre de 39 años abrió fuego en tres lugares distintos del condado de Missaukee, matando a cinco personas de entre 16 y 53 años e hiriendo gravemente a una niña de 13 años, antes de ser hallado muerto en una zona boscosa. La policía estatal de Míchigan confirmó un total de seis muertos, incluido el tirador, quien tenía antecedentes de violencia doméstica tras un divorcio en 2023."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "La police du Michigan confirme six morts, dont le tireur, après une fusillade sur plusieurs sites du comté de Missaukee.",
+          "en": "Michigan State Police confirm six dead, including the gunman, after a shooting spree across multiple Missaukee County sites.",
+          "es": "La policía de Míchigan confirma seis muertos, incluido el tirador, tras un tiroteo en varios lugares del condado de Missaukee."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -120.5,
+      44.5
+    ],
+    "id": "usa-incendies-nordouest",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "OPB / National Interagency Fire Center",
+    "place": {
+      "fr": "Oregon et État de Washington, États-Unis",
+      "en": "Oregon and Washington State, United States",
+      "es": "Oregón y estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les incendies de forêt dans le Nord-Ouest américain dépassent 3 millions d'acres brûlés",
+      "en": "Pacific Northwest wildfires burn past 3 million acres, the most since 2000",
+      "es": "Los incendios forestales en el noroeste de EE. UU. superan los 3 millones de acres quemados"
+    },
+    "summary": {
+      "fr": "Près de 1 600 incendies avaient brûlé environ 2,4 millions d'acres dans le seul Oregon au 20 août 2026, portant le total combiné avec l'État de Washington à plus de 3 millions d'acres, un record depuis le début des relevés en 2000. Le pays est passé au niveau de préparation national 5 (le plus élevé), avec environ 29 000 pompiers déployés, tandis que le confinement progressait en fin de saison.",
+      "en": "Nearly 1,600 wildfires had burned about 2.4 million acres in Oregon alone by August 20, 2026, pushing the combined total with Washington State above 3 million acres — the most since record-keeping began in 2000. The country moved to National Preparedness Level 5 (the highest), with roughly 29,000 firefighters deployed, as containment improved late in the season.",
+      "es": "Cerca de 1.600 incendios habían quemado unos 2,4 millones de acres solo en Oregón para el 20 de agosto de 2026, llevando el total combinado con el estado de Washington a más de 3 millones de acres, la cifra más alta desde que se iniciaron los registros en 2000. El país pasó al Nivel de Preparación Nacional 5 (el más alto), con unos 29.000 bomberos desplegados, mientras el control avanzaba al final de la temporada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Le NIFC recense environ 29 000 pompiers mobilisés et un niveau de préparation national au maximum face à la pire saison des feux depuis 2000.",
+          "en": "NIFC reports about 29,000 firefighters mobilized and the highest national preparedness level amid the worst fire season since 2000.",
+          "es": "El NIFC informa de unos 29.000 bomberos movilizados y el nivel máximo de preparación nacional ante la peor temporada de incendios desde 2000."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -119.6532,
+      49.6006
+    ],
+    "id": "canada-incendie-summerland",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / Coast Mountain News",
+    "place": {
+      "fr": "Summerland et Peachland, Colombie-Britannique, Canada",
+      "en": "Summerland and Peachland, British Columbia, Canada",
+      "es": "Summerland y Peachland, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "L'incendie de Bald Range près de Summerland dépasse 24 000 hectares",
+      "en": "Bald Range wildfire near Summerland grows past 24,000 hectares",
+      "es": "El incendio de Bald Range cerca de Summerland supera las 24.000 hectáreas"
+    },
+    "summary": {
+      "fr": "Parti le 7 août 2026 près de Summerland, l'incendie de Bald Range avait atteint environ 24 600 hectares au 22 août, entraînant l'état d'urgence provincial et l'évacuation de la totalité de Summerland (environ 12 000 habitants) ainsi que d'environ 8 000 personnes à Peachland. CBS News fait état d'au moins un décès lié au feu, information non confirmée par d'autres sources à ce stade. Le premier ministre canadien a placé les forces armées en état d'alerte et une centaine de pompiers mexicains sont venus prêter main-forte après 49 jours sans pluie dans la région.",
+      "en": "The Bald Range wildfire, which ignited near Summerland on August 7, 2026, had grown to about 24,600 hectares by August 22, prompting a provincial state of emergency and the evacuation of the entire community of Summerland (population about 12,000) and roughly 8,000 people in Peachland. CBS News reported at least one death linked to the fire, a claim not yet corroborated by other outlets. Canada's prime minister placed the armed forces on standby and about 100 Mexican firefighters arrived to help after the region went 49 days without rain.",
+      "es": "El incendio de Bald Range, iniciado el 7 de agosto de 2026 cerca de Summerland, había alcanzado unas 24.600 hectáreas para el 22 de agosto, lo que provocó el estado de emergencia provincial y la evacuación de toda la comunidad de Summerland (unos 12.000 habitantes) y de unas 8.000 personas en Peachland. CBS News informó de al menos una muerte vinculada al incendio, dato aún no corroborado por otras fuentes. El primer ministro canadiense puso en alerta a las fuerzas armadas y un centenar de bomberos mexicanos llegó a ayudar tras 49 días sin lluvia en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie atteint environ 24 600 hectares ; la majorité de l'ordre d'évacuation de Summerland est levée, hormis 32 propriétés.",
+          "en": "The fire reaches about 24,600 hectares; most of Summerland's evacuation order is lifted, except for 32 properties.",
+          "es": "El incendio alcanza unas 24.600 hectáreas; se levanta la mayor parte de la orden de evacuación de Summerland, excepto para 32 propiedades."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "id": "canada-usa-tarifs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Bureau du Premier ministre du Canada",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Échec des négociations commerciales : Washington impose 50 % de droits de douane sur des produits canadiens",
+      "en": "Trade talks collapse as Washington imposes 50% tariffs on Canadian goods",
+      "es": "Fracasan las negociaciones comerciales: Washington impone aranceles del 50 % a productos canadienses"
+    },
+    "summary": {
+      "fr": "Les négociations commerciales entre le Canada et les États-Unis ont échoué juste avant une échéance fixée au 22 août 2026, après quoi Washington a imposé des droits de douane de 50 % sur environ 20 milliards de dollars de produits canadiens (bois, vêtements, bière, fromage). Le premier ministre Mark Carney a qualifié les derniers changements américains d'« injustes » tandis que le représentant américain au Commerce a affirmé que le Canada avait « refusé de finaliser » un accord conclu plus tôt dans la semaine. Carney a annoncé des mesures de rétorsion « dollar pour dollar » sur l'acier, les produits laitiers et l'électronique américains, à compter du 8 septembre 2026.",
+      "en": "Trade negotiations between Canada and the United States collapsed just before a deadline set for August 22, 2026, after which Washington imposed 50% tariffs on roughly $20 billion of Canadian goods, including lumber, clothing, beer and cheese. Prime Minister Mark Carney called the last-minute US changes 'unfair,' while the US Trade Representative said Canada had 'declined to finalize' terms agreed earlier in the week. Carney announced retaliatory tariffs 'dollar for dollar' on US steel, dairy and electronics, effective September 8, 2026.",
+      "es": "Las negociaciones comerciales entre Canadá y Estados Unidos fracasaron justo antes de un plazo fijado para el 22 de agosto de 2026, tras lo cual Washington impuso aranceles del 50 % a unos 20.000 millones de dólares en productos canadienses, incluidos madera, ropa, cerveza y queso. El primer ministro Mark Carney calificó de 'injustos' los últimos cambios estadounidenses, mientras que el representante comercial de EE. UU. afirmó que Canadá se había 'negado a finalizar' un acuerdo alcanzado antes en la semana. Carney anunció aranceles de represalia 'dólar por dólar' sobre el acero, los lácteos y la electrónica estadounidenses, a partir del 8 de septiembre de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis imposent des droits de douane de 50 % sur environ 20 milliards de dollars de produits canadiens ; le Canada annonce des mesures de rétorsion pour le 8 septembre.",
+          "en": "The US imposes 50% tariffs on about $20 billion of Canadian goods; Canada announces retaliatory measures effective September 8.",
+          "es": "Estados Unidos impone aranceles del 50 % a unos 20.000 millones de dólares en productos canadienses; Canadá anuncia medidas de represalia a partir del 8 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1276,
+      51.5072
+    ],
+    "id": "royaumeuni-inflation",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Office for National Statistics (ONS)",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "L'inflation britannique grimpe à 2,9 % en juillet, sous l'effet des factures d'énergie",
+      "en": "UK inflation rises to 2.9% in July on higher energy bills",
+      "es": "La inflación británica sube al 2,9 % en julio por el aumento de las facturas de energía"
+    },
+    "summary": {
+      "fr": "L'Office for National Statistics a annoncé le 19 août 2026 que l'inflation britannique (IPC) est passée à 2,9 % sur un an en juillet, contre 2,6 % en juin, sa première hausse depuis mars. La hausse s'explique surtout par le relèvement de 13 % du plafond des prix de l'énergie, le gaz augmentant de 14,7 % (la plus forte hausse depuis octobre 2022) et l'électricité de 3,6 %, tandis que l'inflation alimentaire ralentissait à 1,3 %.",
+      "en": "The Office for National Statistics reported on August 19, 2026 that UK CPI inflation rose to 2.9% year-on-year in July, up from 2.6% in June — the first increase since March. The rise was driven mainly by a 13% hike in the energy price cap, with gas prices up 14.7% (the biggest jump since October 2022) and electricity up 3.6%, while food inflation eased to 1.3%.",
+      "es": "La Oficina Nacional de Estadística informó el 19 de agosto de 2026 de que la inflación (IPC) del Reino Unido subió al 2,9 % interanual en julio, frente al 2,6 % de junio, su primer aumento desde marzo. La subida se debió sobre todo a un incremento del 13 % en el tope de precios de la energía, con el gas subiendo un 14,7 % (el mayor salto desde octubre de 2022) y la electricidad un 3,6 %, mientras la inflación alimentaria se moderó al 1,3 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "19/08/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "L'ONS publie les chiffres officiels de l'inflation de juillet, en hausse à 2,9 %.",
+          "en": "ONS publishes official July inflation figures, up to 2.9%.",
+          "es": "La ONS publica las cifras oficiales de inflación de julio, que suben al 2,9 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      14.07,
+      52.36
+    ],
+    "id": "allemagne-tornades",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪️",
+    "source": "Deutscher Wetterdienst (DWD) / dpa",
+    "place": {
+      "fr": "Fürstenwalde, Wetzlar et Höhr-Grenzhausen, Allemagne",
+      "en": "Fürstenwalde, Wetzlar and Höhr-Grenzhausen, Germany",
+      "es": "Fürstenwalde, Wetzlar y Höhr-Grenzhausen, Alemania"
+    },
+    "title": {
+      "fr": "Trois tornades confirmées en Allemagne, deux morts dans de violents orages",
+      "en": "Three tornadoes confirmed in Germany as severe storms leave two dead",
+      "es": "Tres tornados confirmados en Alemania mientras fuertes tormentas dejan dos muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 août 2026, de violents orages ont balayé l'Allemagne ; le service météorologique national (DWD) a confirmé trois tornades, à Fürstenwalde/Spree (Brandebourg), près de Wetzlar (Hesse) et à Höhr-Grenzhausen (Rhénanie-Palatinat). Une femme de 58 ans est morte à Waldorf, écrasée par un arbre tombé sur un abri, et un homme de 40 ans a été tué par une branche tombée à Georgenthal (Thuringe) alors qu'il accompagnait son enfant à l'école ; au moins une douzaine de personnes ont été blessées et des centaines de bâtiments endommagés, dont une soixantaine de maisons à Wetzlar.",
+      "en": "Severe storms swept Germany overnight on August 19-20, 2026; the national weather service (DWD) confirmed three tornadoes, in Fürstenwalde/Spree (Brandenburg), near Wetzlar (Hesse) and in Höhr-Grenzhausen (Rhineland-Palatinate). A 58-year-old woman died in Waldorf when a falling tree hit a shelter, and a 40-year-old man was killed by a falling branch in Georgenthal (Thuringia) while walking his child to kindergarten; at least a dozen people were injured and hundreds of buildings damaged, including about 60 homes in Wetzlar.",
+      "es": "En la noche del 19 al 20 de agosto de 2026, fuertes tormentas azotaron Alemania; el servicio meteorológico nacional (DWD) confirmó tres tornados, en Fürstenwalde/Spree (Brandeburgo), cerca de Wetzlar (Hesse) y en Höhr-Grenzhausen (Renania-Palatinado). Una mujer de 58 años murió en Waldorf al caerle un árbol sobre un refugio, y un hombre de 40 años murió por la caída de una rama en Georgenthal (Turingia) mientras llevaba a su hijo al jardín de infancia; al menos una docena de personas resultaron heridas y cientos de edificios dañados, incluidas unas 60 viviendas en Wetzlar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Le DWD confirme trois tornades ; le bilan s'établit à deux morts et une douzaine de blessés.",
+          "en": "DWD confirms three tornadoes; the toll stands at two dead and a dozen injured.",
+          "es": "El DWD confirma tres tornados; el balance es de dos muertos y una docena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.35,
+      48.86
+    ],
+    "id": "france-cour-reseaux-sociaux",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Conseil constitutionnel / France 24",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Le Conseil constitutionnel censure l'interdiction des réseaux sociaux aux moins de 15 ans",
+      "en": "France's Constitutional Council strikes down under-15 social media ban",
+      "es": "El Consejo Constitucional francés anula la prohibición de redes sociales a menores de 15 años"
+    },
+    "summary": {
+      "fr": "Le Conseil constitutionnel a jugé le 14 août 2026 que l'article de la loi interdisant aux mineurs de moins de 15 ans l'accès aux réseaux sociaux portait atteinte à la liberté d'expression et de communication, notamment parce que le législateur n'avait pas prévu de règles de vérification d'âge suffisantes pour protéger les données personnelles des utilisateurs. Ce revers pour le président Macron, qui portait cette mesure, l'a conduit à demander au premier ministre de préparer un nouveau texte conforme au droit européen, visé pour le printemps 2027.",
+      "en": "France's Constitutional Council ruled on August 14, 2026 that the article of the law banning under-15s from social media violated freedom of expression and communication, partly because lawmakers had not set adequate age-verification rules to protect users' personal data. The setback for President Macron, who had championed the measure, led him to ask the prime minister to draft a revised, EU-law-compliant bill, targeted for spring 2027.",
+      "es": "El Consejo Constitucional dictaminó el 14 de agosto de 2026 que el artículo de la ley que prohibía a los menores de 15 años acceder a las redes sociales vulneraba la libertad de expresión y comunicación, en parte porque los legisladores no habían establecido normas de verificación de edad adecuadas para proteger los datos personales de los usuarios. El revés para el presidente Macron, que impulsaba la medida, lo llevó a pedir al primer ministro que redactara un nuevo texto conforme al derecho europeo, previsto para la primavera de 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "Le Conseil constitutionnel censure la disposition, jugée contraire à la liberté d'expression.",
+          "en": "The Constitutional Council strikes down the provision, ruling it violates freedom of expression.",
+          "es": "El Consejo Constitucional anula la disposición, al considerarla contraria a la libertad de expresión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      15.07,
+      37.75
+    ],
+    "id": "italie-etna-eruption",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "INGV / Al Jazeera",
+    "place": {
+      "fr": "Catane, Sicile, Italie",
+      "en": "Catania, Sicily, Italy",
+      "es": "Catania, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "L'éruption de l'Etna perturbe à répétition l'aéroport de Catane",
+      "en": "Mount Etna eruption repeatedly disrupts Catania airport",
+      "es": "La erupción del Etna interrumpe repetidamente el aeropuerto de Catania"
+    },
+    "summary": {
+      "fr": "Une activité éruptive renouvelée de l'Etna, alimentée par des évents situés vers 2 750 et 2 360 mètres et des explosions quasi continues du cratère de la Voragine, a contraint l'aéroport de Catane-Fontanarossa à fermer à plusieurs reprises en août 2026, après que le centre d'avis aux cendres volcaniques de Toulouse a relevé son alerte aérienne au rouge. Plus d'un tiers des vols prévus ont été annulés en une semaine et des panaches de cendres ont dérivé jusqu'à Malte et la Libye ; aucune victime n'a été recensée.",
+      "en": "Renewed eruptive activity at Mount Etna, fed by vents at roughly 2,750m and 2,360m and near-continuous explosions from the Voragine crater, forced Catania-Fontanarossa airport to close repeatedly in August 2026, after the Toulouse Volcanic Ash Advisory Centre raised its aviation alert to red. More than a third of scheduled flights were cancelled in one week and ash plumes drifted as far as Malta and Libya; no casualties were reported.",
+      "es": "La renovada actividad eruptiva del Etna, alimentada por bocas situadas a unos 2.750 y 2.360 metros y explosiones casi continuas del cráter de la Voragine, obligó al aeropuerto de Catania-Fontanarossa a cerrar en varias ocasiones en agosto de 2026, después de que el centro de avisos de ceniza volcánica de Toulouse elevara su alerta aérea a rojo. Más de un tercio de los vuelos previstos se cancelaron en una semana y las columnas de ceniza llegaron hasta Malta y Libia; no se reportaron víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/08/2026",
+          "en": "14/08/2026",
+          "es": "14/08/2026"
+        },
+        "d": {
+          "fr": "L'aéroport de Catane ferme après le relèvement au rouge de l'alerte aux cendres volcaniques.",
+          "en": "Catania airport closes after the volcanic ash alert is raised to red.",
+          "es": "El aeropuerto de Catania cierra tras elevarse a rojo la alerta de ceniza volcánica."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -6.68,
+      37.37
+    ],
+    "id": "espagne-incendie-huelva",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Copernicus EMS / The Olive Press",
+    "place": {
+      "fr": "Niebla et El Madroño (Huelva), Espagne",
+      "en": "Niebla and El Madroño (Huelva), Spain",
+      "es": "Niebla y El Madroño (Huelva), España"
+    },
+    "title": {
+      "fr": "L'incendie de Huelva stabilisé après avoir brûlé plus de 33 000 hectares",
+      "en": "Huelva wildfire stabilised after burning more than 33,000 hectares",
+      "es": "El incendio de Huelva se estabiliza tras arrasar más de 33.000 hectáreas"
+    },
+    "summary": {
+      "fr": "Parti le 6 août 2026 près de Niebla, dans la province de Huelva, un incendie a été déclaré « stabilisé » par les autorités andalouses le 16 août après avoir brûlé plus de 33 000 hectares, devenant le deuxième plus grand feu jamais enregistré en Andalousie. Environ 700 à 800 personnes, dont des habitants d'El Madroño, ont été évacuées au plus fort du sinistre, combattu par plus de 600 pompiers et 26 aéronefs dans un contexte de sécheresse sévère.",
+      "en": "A wildfire that broke out near Niebla in Huelva province on August 6, 2026 was declared 'stabilised' by Andalusian authorities on August 16 after burning more than 33,000 hectares, making it the second-largest wildfire on record in Andalusia. About 700 to 800 people, including residents of El Madroño, were evacuated at the peak of the blaze, fought by more than 600 firefighters and 26 aircraft amid severe drought conditions.",
+      "es": "Un incendio que estalló cerca de Niebla, en la provincia de Huelva, el 6 de agosto de 2026 fue declarado 'estabilizado' por las autoridades andaluzas el 16 de agosto tras arrasar más de 33.000 hectáreas, convirtiéndose en el segundo mayor incendio registrado en Andalucía. Unas 700 a 800 personas, entre ellas residentes de El Madroño, fueron evacuadas en el punto álgido del incendio, combatido por más de 600 bomberos y 26 aeronaves en medio de una grave sequía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/08/2026",
+          "en": "16/08/2026",
+          "es": "16/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités andalouses déclarent l'incendie stabilisé après plus de 33 000 hectares brûlés.",
+          "en": "Andalusian authorities declare the wildfire stabilised after more than 33,000 hectares burned.",
+          "es": "Las autoridades andaluzas declaran estabilizado el incendio tras más de 33.000 hectáreas quemadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      109.51,
+      18.25
+    ],
+    "id": "chine-typhon-nara",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "Xinhua / Global Times",
+    "place": {
+      "fr": "Hainan, Guangdong et Guangxi, Chine",
+      "en": "Hainan, Guangdong and Guangxi, China",
+      "es": "Hainan, Guangdong y Guangxi, China"
+    },
+    "title": {
+      "fr": "La Chine active une alerte de niveau IV face au typhon Nara",
+      "en": "China activates Level-IV emergency response as Typhoon Nara approaches",
+      "es": "China activa una alerta de nivel IV ante la llegada del tifón Nara"
+    },
+    "summary": {
+      "fr": "Une dépression tropicale sur le golfe du Tonkin s'est renforcée en typhon Nara le 21 août 2026, poussant le ministère chinois des Ressources en eau et le siège national de lutte contre les inondations à activer une réponse d'urgence de niveau IV pour Hainan, le Guangxi et le Guangdong. Les prévisionnistes ont averti de pluies torrentielles et d'un risque de crues sur les rivières Zuojiang et Mingjiang ; la baie de Sanya, à Hainan, a signalé des vents violents et de fortes vagues dès le 21 août. Aucun bilan humain n'était disponible à ce stade.",
+      "en": "A tropical depression over the Beibu Gulf strengthened into Typhoon Nara on August 21, 2026, prompting China's Ministry of Water Resources and national flood-control headquarters to activate a Level-IV emergency response for Hainan, Guangxi and Guangdong. Forecasters warned of torrential rain and possible river flooding on the Zuojiang and Mingjiang rivers; Sanya Bay in Hainan reported strong winds and large waves from August 21. No casualties had been reported at the time.",
+      "es": "Una depresión tropical sobre el golfo de Tonkín se intensificó hasta convertirse en el tifón Nara el 21 de agosto de 2026, lo que llevó al Ministerio de Recursos Hídricos de China y a la sede nacional de control de inundaciones a activar una respuesta de emergencia de nivel IV para Hainan, Guangxi y Guangdong. Los meteorólogos advirtieron de lluvias torrenciales y posibles crecidas en los ríos Zuojiang y Mingjiang; la bahía de Sanya, en Hainan, reportó fuertes vientos y grandes olas desde el 21 de agosto. Hasta el momento no se habían reportado víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités chinoises activent une réponse d'urgence de niveau IV dans trois provinces face au typhon Nara.",
+          "en": "Chinese authorities activate a Level-IV emergency response across three provinces as Typhoon Nara approaches.",
+          "es": "Las autoridades chinas activan una respuesta de emergencia de nivel IV en tres provincias ante el tifón Nara."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      139.65,
+      35.68
+    ],
+    "id": "japon-pib-t2",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Cabinet Office du Japon",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "La croissance du Japon déçoit au deuxième trimestre 2026",
+      "en": "Japan's growth disappoints in the second quarter of 2026",
+      "es": "El crecimiento de Japón decepciona en el segundo trimestre de 2026"
+    },
+    "summary": {
+      "fr": "Le Cabinet Office japonais a annoncé le 17 août 2026 que le PIB a progressé de 0,3 % au deuxième trimestre par rapport au précédent (1,1 % en rythme annualisé), en dessous des prévisions de 0,5 % (2,0 % annualisé). La consommation des ménages est restée stable alors qu'une hausse de 0,5 % était attendue, et l'investissement des entreprises a reculé de 1,2 %, tandis que les exportations progressaient de 0,5 %.",
+      "en": "Japan's Cabinet Office reported on August 17, 2026 that GDP grew 0.3% quarter-on-quarter in Q2 (1.1% annualized), missing forecasts of 0.5% (2.0% annualized). Household consumption was flat against an expected 0.5% rise, and capital expenditure fell 1.2%, while exports rose 0.5%.",
+      "es": "La Oficina del Gabinete de Japón informó el 17 de agosto de 2026 de que el PIB creció un 0,3 % trimestral en el segundo trimestre (1,1 % anualizado), por debajo de las previsiones del 0,5 % (2,0 % anualizado). El consumo de los hogares se mantuvo estable frente a un aumento esperado del 0,5 %, y la inversión empresarial cayó un 1,2 %, mientras las exportaciones subieron un 0,5 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement publie une croissance du PIB de 0,3 % au T2, inférieure aux attentes.",
+          "en": "The government publishes Q2 GDP growth of 0.3%, below expectations.",
+          "es": "El gobierno publica un crecimiento del PIB del 0,3 % en el segundo trimestre, por debajo de lo esperado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 1
+  },
+  {
+    "coords": [
+      121.66,
+      -8.68
+    ],
+    "id": "indonesie-seisme-flores",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "USGS / BMKG / Al Jazeera",
+    "place": {
+      "fr": "Île de Florès (Ende, Nusa Tenggara oriental), Indonésie",
+      "en": "Flores Island (Ende, East Nusa Tenggara), Indonesia",
+      "es": "Isla de Flores (Ende, Nusa Tenggara Oriental), Indonesia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 7,7 au large de Florès fait au moins 68 morts",
+      "en": "Magnitude 7.7 earthquake off Flores Island kills at least 68",
+      "es": "Un terremoto de magnitud 7,7 frente a la isla de Flores deja al menos 68 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,7, d'une profondeur d'environ 10 km, a frappé le 15 août 2026 à 5h58 heure locale au large de l'île de Florès, avec un épicentre situé à environ 68 km au nord-nord-ouest d'Ende. Le bilan, initialement de 47 morts, est passé à au moins 68 le 17 août, avec plus de 1 300 habitations endommagées, plusieurs milliers de déplacés, 213 blessés et de petits tsunamis observés dans quatre provinces. Plus de 230 répliques ont suivi, dont une de magnitude 6,2.",
+      "en": "A magnitude-7.7 earthquake at a depth of about 10 km struck off Flores Island at 5:58am local time on August 15, 2026, with an epicenter about 68 km north-northwest of Ende. The death toll, initially 47, rose to at least 68 by August 17, with more than 1,300 homes damaged, several thousand displaced, 213 injured and small tsunamis observed in four provinces. More than 230 aftershocks followed, including one of magnitude 6.2.",
+      "es": "Un terremoto de magnitud 7,7, a una profundidad de unos 10 km, sacudió frente a la isla de Flores a las 5:58 hora local del 15 de agosto de 2026, con epicentro a unos 68 km al norte-noroeste de Ende. El saldo, inicialmente de 47 muertos, subió a al menos 68 el 17 de agosto, con más de 1.300 viviendas dañadas, varios miles de desplazados, 213 heridos y pequeños tsunamis observados en cuatro provincias. Le siguieron más de 230 réplicas, incluida una de magnitud 6,2."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "15/08/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,7 frappe au large de Florès ; un premier bilan fait état de 47 morts.",
+          "en": "The magnitude-7.7 earthquake strikes off Flores; an initial toll reports 47 dead.",
+          "es": "El terremoto de magnitud 7,7 golpea frente a Flores; un primer balance reporta 47 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel passe à au moins 68 morts alors que les secours poursuivent leurs opérations.",
+          "en": "The official toll rises to at least 68 dead as rescue operations continue.",
+          "es": "El balance oficial sube a al menos 68 muertos mientras continúan las operaciones de rescate."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      86.09,
+      25.17
+    ],
+    "id": "inde-bousculade-incendie",
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕯️",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Lakhisarai (Bihar) et Tarapith (Bengale-Occidental), Inde",
+      "en": "Lakhisarai (Bihar) and Tarapith (West Bengal), India",
+      "es": "Lakhisarai (Bihar) y Tarapith (Bengala Occidental), India"
+    },
+    "title": {
+      "fr": "Bousculade dans un temple du Bihar et incendie d'un hôtel au Bengale font 14 morts",
+      "en": "Temple stampede in Bihar and hotel fire in West Bengal kill 14 combined",
+      "es": "Estampida en un templo de Bihar e incendio de un hotel en Bengala dejan 14 muertos en total"
+    },
+    "summary": {
+      "fr": "Le 17 août 2026, une bousculade s'est produite près du temple d'Ashok Dham, à Lakhisarai (Bihar), lors des rassemblements de pèlerins du mois de Shravan, après la rupture d'un câble électrique et l'effondrement de barrières, faisant 7 morts et plus d'une dizaine de blessés. Quelques heures plus tôt, un incendie avait ravagé un hôtel de quatre étages hébergeant des pèlerins dans la ville-temple de Tarapith, au Bengale-Occidental, tuant 7 autres personnes alors que la plupart des clients dormaient. Les informations proviennent essentiellement d'une même dépêche de l'agence Associated Press reprise par plusieurs médias.",
+      "en": "On August 17, 2026, a stampede broke out near the Ashok Dham Temple in Lakhisarai, Bihar, during Shravan-month pilgrim gatherings after an electric wire snapped and barricades collapsed, killing 7 and injuring more than a dozen. Hours earlier, a fire had torn through a four-story hotel housing pilgrims in the temple town of Tarapith, West Bengal, killing 7 more people while most guests were asleep. Reporting largely traces back to a single Associated Press dispatch republished by multiple outlets.",
+      "es": "El 17 de agosto de 2026, se produjo una estampida cerca del templo de Ashok Dham, en Lakhisarai (Bihar), durante las concentraciones de peregrinos del mes de Shravan, tras romperse un cable eléctrico y derrumbarse unas barreras, dejando 7 muertos y más de una decena de heridos. Horas antes, un incendio había arrasado un hotel de cuatro plantas que alojaba a peregrinos en la ciudad-templo de Tarapith, Bengala Occidental, matando a otras 7 personas mientras la mayoría de los huéspedes dormían. La información procede principalmente de un mismo despacho de Associated Press republicado por varios medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Une bousculade au Bihar et un incendie d'hôtel au Bengale-Occidental font 14 morts au total.",
+          "en": "A stampede in Bihar and a hotel fire in West Bengal kill 14 people combined.",
+          "es": "Una estampida en Bihar y un incendio de hotel en Bengala Occidental dejan 14 muertos en total."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      77.17,
+      31.1
+    ],
+    "id": "inde-himachal-mousson",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "The Week / Rozana Spokesman",
+    "place": {
+      "fr": "Himachal Pradesh, Inde",
+      "en": "Himachal Pradesh, India",
+      "es": "Himachal Pradesh, India"
+    },
+    "title": {
+      "fr": "Le bilan de la mousson en Himachal Pradesh dépasse 190 morts",
+      "en": "Himachal Pradesh monsoon death toll climbs past 190",
+      "es": "El balance del monzón en Himachal Pradesh supera los 190 muertos"
+    },
+    "summary": {
+      "fr": "Des pluies de mousson soutenues, des glissements de terrain et des pluies diluviennes ont fait au moins 196 morts en Himachal Pradesh entre le 30 juin et le 17 août 2026, pour environ 994 crores de roupies (environ 120 millions de dollars) de dégâts. Le district de Chamba a enregistré le plus grand nombre de routes coupées (265 sur 916 dans tout l'État), et des pèlerins du Manimahesh Yatra sont restés bloqués, ravitaillés par hélicoptère après que Bharmour a été coupé du reste du territoire. Les décomptes exacts varient légèrement selon les médias et la date de référence retenue.",
+      "en": "Sustained monsoon rains, landslides and cloudbursts have killed at least 196 people in Himachal Pradesh between June 30 and August 17, 2026, with about 9.94 billion rupees (roughly $120 million) in damage. Chamba district recorded the most road closures (265 of 916 statewide), and pilgrims on the Manimahesh Yatra were stranded and resupplied by helicopter after Bharmour was cut off. Exact tallies vary slightly by outlet and reference date, as this is a running, cumulative count.",
+      "es": "Las lluvias monzónicas sostenidas, los deslizamientos de tierra y los reventones de nube han dejado al menos 196 muertos en Himachal Pradesh entre el 30 de junio y el 17 de agosto de 2026, con daños por unos 9.940 millones de rupias (unos 120 millones de dólares). El distrito de Chamba registró el mayor número de carreteras cortadas (265 de 916 en todo el estado), y peregrinos del Manimahesh Yatra quedaron aislados y fueron reabastecidos en helicóptero tras quedar Bharmour incomunicada. Las cifras exactas varían ligeramente según el medio y la fecha de referencia, al tratarse de un recuento acumulativo en curso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan cumulé de la mousson depuis fin juin atteint au moins 196 morts dans l'État.",
+          "en": "The cumulative monsoon toll since late June reaches at least 196 dead statewide.",
+          "es": "El balance acumulado del monzón desde finales de junio alcanza al menos 196 muertos en el estado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.52,
+      50.45
+    ],
+    "id": "ukraine-frappes-aout",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "France 24 / Kyiv Independent",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv et Kryvyi Rih, Ukraine",
+      "en": "Kyiv and Kryvyi Rih, Ukraine",
+      "es": "Kiev y Kryvyi Rih, Ucrania"
+    },
+    "title": {
+      "fr": "Nouvelle vague de frappes entre la Russie et l'Ukraine : Kyiv et Kryvyi Rih visées",
+      "en": "New wave of Russia-Ukraine strikes hits Kyiv and Kryvyi Rih",
+      "es": "Nueva oleada de ataques entre Rusia y Ucrania golpea Kiev y Kryvyi Rih"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 août 2026, la Russie a mené une vaste attaque de missiles et de drones sur Kyiv, touchant des immeubles d'habitation, des entrepôts et une école ; les bilans varient selon les sources entre 12 et 18 morts et une trentaine de blessés. Le président Zelensky a dénoncé le manque de missiles Patriot pour la défense antiaérienne. Le 21 août, une frappe de drones russes visant un centre commercial de Kryvyi Rih, en deux vagues successives, a fait 15 à 16 morts et environ 130 blessés. Le même jour, un drone ukrainien a touché une raffinerie de pétrole à Perm, en Russie, à environ 1 500 km de la frontière, dans le cadre de la campagne ukrainienne contre les infrastructures pétrolières russes. Chaque camp attribue la responsabilité de l'escalade à l'autre.",
+      "en": "Overnight on August 19-20, 2026, Russia carried out a large-scale missile and drone attack on Kyiv, hitting apartment blocks, warehouses and a school; tolls vary by source between 12 and 18 dead and about 33-40 wounded. President Zelensky said the lack of Patriot air-defense missiles was costing lives. On August 21, a Russian drone strike on a Kryvyi Rih shopping centre, in two successive waves, killed 15-16 people and wounded about 130. The same day, a Ukrainian drone hit an oil refinery in Perm, Russia, about 1,500 km from the border, part of Ukraine's campaign against Russian oil infrastructure. Each side attributes responsibility for the escalation to the other.",
+      "es": "En la noche del 19 al 20 de agosto de 2026, Rusia llevó a cabo un gran ataque con misiles y drones contra Kiev, alcanzando bloques de apartamentos, almacenes y una escuela; los balances varían según la fuente entre 12 y 18 muertos y unos 33-40 heridos. El presidente Zelenski afirmó que la falta de misiles Patriot para la defensa aérea estaba costando vidas. El 21 de agosto, un ataque con drones rusos contra un centro comercial de Kryvyi Rih, en dos oleadas sucesivas, dejó entre 15 y 16 muertos y unos 130 heridos. Ese mismo día, un dron ucraniano alcanzó una refinería de petróleo en Perm, Rusia, a unos 1.500 km de la frontera, dentro de la campaña ucraniana contra la infraestructura petrolera rusa. Cada bando atribuye al otro la responsabilidad de la escalada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe massive de missiles et drones russes sur Kyiv fait entre 12 et 18 morts selon les sources.",
+          "en": "A massive Russian missile and drone strike on Kyiv kills between 12 and 18 people, according to different sources.",
+          "es": "Un ataque masivo de misiles y drones rusos contra Kiev deja entre 12 y 18 muertos, según las fuentes."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drones russes en deux vagues sur un centre commercial de Kryvyi Rih fait 15 à 16 morts et environ 130 blessés.",
+          "en": "A two-wave Russian drone strike on a Kryvyi Rih shopping centre kills 15-16 people and wounds about 130.",
+          "es": "Un ataque con drones rusos en dos oleadas contra un centro comercial de Kryvyi Rih deja entre 15 y 16 muertos y unos 130 heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Un drone ukrainien touche une raffinerie de pétrole à Perm, en Russie, à environ 1 500 km de la frontière.",
+          "en": "A Ukrainian drone hits an oil refinery in Perm, Russia, about 1,500 km from the border.",
+          "es": "Un dron ucraniano alcanza una refinería de petróleo en Perm, Rusia, a unos 1.500 km de la frontera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      4.31,
+      9.88
+    ],
+    "id": "nigeria-enlevement-mosquee",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera / Daily Nigerian",
+    "place": {
+      "fr": "Zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Área de gobierno local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent des dizaines de fidèles dans une mosquée de l'État du Niger",
+      "en": "Gunmen abduct dozens of worshippers from a mosque in Niger State",
+      "es": "Hombres armados secuestran a decenas de fieles en una mezquita del estado de Níger"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué les villages de Gidan-Zana et Kpenya avant de faire irruption dans la mosquée de Kpenya pendant la prière du vendredi, vers 14h le 21 août 2026, enlevant des fidèles. Les habitants estiment entre 60 et 80 le nombre de personnes enlevées, un chiffre que la police n'avait pas encore confirmé au moment des premiers comptes rendus. Aucun groupe n'avait revendiqué l'attaque.",
+      "en": "Armed men attacked the villages of Gidan-Zana and Kpenya before storming Kpenya Mosque during Friday prayers around 2pm on August 21, 2026, abducting worshippers. Residents estimated 60 to 80 people were kidnapped, a figure police had not yet confirmed at the time of initial reports. No group had claimed responsibility.",
+      "es": "Hombres armados atacaron las localidades de Gidan-Zana y Kpenya antes de irrumpir en la mezquita de Kpenya durante la oración del viernes, hacia las 14:00 horas del 21 de agosto de 2026, secuestrando a fieles. Los residentes estiman entre 60 y 80 personas secuestradas, cifra que la policía aún no había confirmado en el momento de los primeros reportes. Ningún grupo se había atribuido la autoría del ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés enlèvent entre 60 et 80 fidèles, selon des habitants, lors de l'attaque d'une mosquée.",
+          "en": "Gunmen abduct between 60 and 80 worshippers, according to residents, during the attack on a mosque.",
+          "es": "Hombres armados secuestran entre 60 y 80 fieles, según residentes, durante el ataque a una mezquita."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      31.24,
+      30.04
+    ],
+    "id": "egypte-taux-directeurs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Banque centrale d'Égypte / Bloomberg",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'Égypte maintient ses taux directeurs inchangés pour la quatrième fois consécutive",
+      "en": "Egypt holds interest rates steady for a fourth consecutive meeting",
+      "es": "Egipto mantiene sin cambios sus tasas de interés por cuarta reunión consecutiva"
+    },
+    "summary": {
+      "fr": "La Banque centrale d'Égypte a maintenu ses taux directeurs inchangés le 20 août 2026 (taux de dépôt à 19 %, taux de prêt à 20 %), les décideurs mettant en balance une inflation annuelle en hausse (14,9 % en juillet, contre 14,3 % en juin) et l'incertitude persistante liée aux tensions régionales, dont les répercussions du conflit avec l'Iran. Il s'agit du quatrième maintien consécutif, conforme aux prévisions unanimes des économistes interrogés par Bloomberg ; le FMI table sur une croissance de 4,5 à 4,6 % pour l'exercice 2025/2026.",
+      "en": "The Central Bank of Egypt held its benchmark rates unchanged on August 20, 2026 (deposit rate at 19%, lending rate at 20%), as policymakers weighed rising annual inflation (14.9% in July, up from 14.3% in June) against continued uncertainty from regional tensions, including spillover from the conflict with Iran. It was the fourth straight hold, matching the unanimous forecast of economists surveyed by Bloomberg; the IMF projects 4.5-4.6% growth for fiscal year 2025/26.",
+      "es": "El Banco Central de Egipto mantuvo sin cambios sus tasas de referencia el 20 de agosto de 2026 (tasa de depósito en 19 %, tasa de préstamo en 20 %), mientras los responsables de la política monetaria sopesaban una inflación anual al alza (14,9 % en julio, frente al 14,3 % de junio) frente a la incertidumbre persistente por las tensiones regionales, incluidas las repercusiones del conflicto con Irán. Fue la cuarta vez consecutiva que se mantienen sin cambios, coincidiendo con la previsión unánime de los economistas consultados por Bloomberg; el FMI proyecta un crecimiento del 4,5-4,6 % para el año fiscal 2025/26."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale d'Égypte annonce le maintien de ses taux directeurs pour la quatrième fois de suite.",
+          "en": "The Central Bank of Egypt announces it is holding rates steady for the fourth time in a row.",
+          "es": "El Banco Central de Egipto anuncia que mantiene las tasas sin cambios por cuarta vez consecutiva."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -102.35,
+      20.02
+    ],
+    "id": "mexique-cjng-michoacan",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Mexico News Daily",
+    "place": {
+      "fr": "Tanhuato et Ecuandureo, Michoacán, Mexique",
+      "en": "Tanhuato and Ecuandureo, Michoacán, Mexico",
+      "es": "Tanhuato y Ecuandureo, Michoacán, México"
+    },
+    "title": {
+      "fr": "Neuf membres présumés du CJNG arrêtés au Michoacán, dont des proches d'un chef régional",
+      "en": "Nine suspected CJNG members arrested in Michoacán, including relatives of a regional leader",
+      "es": "Nueve presuntos miembros del CJNG detenidos en Michoacán, entre ellos familiares de un líder regional"
+    },
+    "summary": {
+      "fr": "Le 19 août 2026, les forces armées mexicaines et la Garde nationale ont mené une opération dans les localités de Tanhuato et Ecuandureo, au Michoacán, arrêtant neuf membres présumés du Cartel Jalisco Nouvelle Génération (CJNG), dont la fille et la compagne du chef régional Heraclio, alias « Tío Lako », qui a échappé à l'arrestation. Les autorités ont saisi 64 véhicules dont un blindé, une mitrailleuse de calibre .50, quatre mitrailleuses Minimi et huit engins explosifs improvisés. L'opération a déclenché des barrages routiers liés au cartel dans plusieurs localités du Michoacán.",
+      "en": "On August 19, 2026, Mexican armed forces and the National Guard carried out an operation in the towns of Tanhuato and Ecuandureo, Michoacán, arresting nine alleged members of the Jalisco New Generation Cartel (CJNG), including the daughter and partner of regional leader Heraclio, alias 'Tío Lako,' who evaded arrest. Authorities seized 64 vehicles including one armored vehicle, a .50-caliber machine gun, four Minimi machine guns and eight improvised explosive devices. The operation triggered cartel-linked road blockades across several Michoacán localities.",
+      "es": "El 19 de agosto de 2026, las fuerzas armadas mexicanas y la Guardia Nacional realizaron un operativo en las localidades de Tanhuato y Ecuandureo, Michoacán, deteniendo a nueve presuntos miembros del Cártel Jalisco Nueva Generación (CJNG), entre ellos la hija y la pareja del líder regional Heraclio, alias 'Tío Lako', quien evadió la detención. Las autoridades incautaron 64 vehículos, entre ellos uno blindado, una ametralladora calibre .50, cuatro ametralladoras Minimi y ocho artefactos explosivos improvisados. El operativo provocó bloqueos de carreteras vinculados al cártel en varias localidades de Michoacán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "19/08/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "L'armée mexicaine annonce l'arrestation de neuf membres présumés du CJNG et la saisie d'armes et de véhicules.",
+          "en": "The Mexican army announces the arrest of nine alleged CJNG members and the seizure of weapons and vehicles.",
+          "es": "El ejército mexicano anuncia la detención de nueve presuntos miembros del CJNG y la incautación de armas y vehículos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -76.242,
+      4.844
+    ],
+    "id": "colombie-seisme-choco",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "CNN / ABC News / Présidence de Colombie",
+    "place": {
+      "fr": "San José del Palmar (Chocó), Colombie",
+      "en": "San José del Palmar (Chocó), Colombia",
+      "es": "San José del Palmar (Chocó), Colombia"
+    },
+    "title": {
+      "fr": "Le séisme de magnitude 7,4 dans le Chocó fait au moins 281 morts en Colombie",
+      "en": "Magnitude 7.4 earthquake in Chocó leaves at least 281 dead in Colombia",
+      "es": "El terremoto de magnitud 7,4 en el Chocó deja al menos 281 muertos en Colombia"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,4, à une profondeur d'environ 110 km, a frappé le 10 août 2026 près de San José del Palmar, dans le département du Chocó — le plus puissant à toucher la Colombie ce siècle. Le 13 août, le président Abelardo de la Espriella faisait état de 281 morts, 3 971 blessés et 379 disparus ; plus de 12 000 habitations ont été détruites et plus de 74 000 endommagées. Le gouvernement a déclaré l'état de catastrophe nationale ; la secousse a été ressentie au Panama, au Venezuela, en Équateur et au Pérou.",
+      "en": "A magnitude-7.4 earthquake at a depth of about 110 km struck near San José del Palmar, in Chocó department, on August 10, 2026 — the most powerful to hit Colombia this century. By August 13, President Abelardo de la Espriella reported 281 dead, 3,971 injured and 379 missing; more than 12,000 homes were destroyed and over 74,000 damaged. The government declared a state of national disaster; the quake was felt in Panama, Venezuela, Ecuador and Peru.",
+      "es": "Un terremoto de magnitud 7,4, a una profundidad de unos 110 km, sacudió cerca de San José del Palmar, en el departamento del Chocó, el 10 de agosto de 2026 — el más potente que ha golpeado a Colombia en lo que va de siglo. Para el 13 de agosto, el presidente Abelardo de la Espriella reportó 281 muertos, 3.971 heridos y 379 desaparecidos; más de 12.000 viviendas fueron destruidas y más de 74.000 resultaron dañadas. El gobierno declaró el estado de calamidad nacional; el sismo se sintió en Panamá, Venezuela, Ecuador y Perú."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Le séisme de magnitude 7,4 frappe le Chocó ; un premier bilan fait état de plus de 130 morts.",
+          "en": "The magnitude-7.4 earthquake strikes Chocó; an initial toll reports more than 130 dead.",
+          "es": "El terremoto de magnitud 7,4 golpea el Chocó; un primer balance reporta más de 130 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/08/2026",
+          "en": "13/08/2026",
+          "es": "13/08/2026"
+        },
+        "d": {
+          "fr": "Le président colombien annonce un bilan de 281 morts, 3 971 blessés et 379 disparus.",
+          "en": "The Colombian president announces a toll of 281 dead, 3,971 injured and 379 missing.",
+          "es": "El presidente colombiano anuncia un balance de 281 muertos, 3.971 heridos y 379 desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -62.0,
+      -4.0
+    ],
+    "id": "bresil-deforestation-amazonie",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌳",
+    "source": "INPE (Institut national de recherches spatiales du Brésil)",
+    "place": {
+      "fr": "Amazonie légale, Brésil",
+      "en": "Brazilian Legal Amazon, Brazil",
+      "es": "Amazonia legal, Brasil"
+    },
+    "title": {
+      "fr": "La déforestation en Amazonie brésilienne tombe à son plus bas niveau depuis 13 ans",
+      "en": "Brazilian Amazon deforestation falls to a 13-year low",
+      "es": "La deforestación en la Amazonía brasileña cae a su nivel más bajo en 13 años"
+    },
+    "summary": {
+      "fr": "L'institut brésilien de recherche spatiale INPE a recensé 2 874 km² de déforestation en Amazonie entre le 1er août 2025 et le 31 juillet 2026, soit 36 % de moins que la période précédente et le niveau le plus bas depuis la mise en place du système d'alerte DETER en 2015. Les alertes de déforestation dans la savane voisine du Cerrado ont également reculé de 7,8 %, à leur plus bas niveau depuis cinq ans.",
+      "en": "Brazil's National Institute for Space Research (INPE) recorded 2,874 sq km of Amazon deforestation between August 1, 2025 and July 31, 2026 — 36% below the prior 12-month period and the lowest level since the DETER alert system began in 2015. Deforestation alerts in the neighboring Cerrado savanna also fell 7.8%, to a five-year low.",
+      "es": "El Instituto Nacional de Investigaciones Espaciales de Brasil (INPE) registró 2.874 km² de deforestación en la Amazonía entre el 1 de agosto de 2025 y el 31 de julio de 2026, un 36 % menos que en el periodo anterior y el nivel más bajo desde que comenzó el sistema de alertas DETER en 2015. Las alertas de deforestación en la vecina sabana del Cerrado también cayeron un 7,8 %, hasta su nivel más bajo en cinco años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/08/2026",
+          "en": "09/08/2026",
+          "es": "09/08/2026"
+        },
+        "d": {
+          "fr": "L'INPE publie des données montrant une baisse de 36 % de la déforestation amazonienne sur un an.",
+          "en": "INPE publishes data showing a 36% year-on-year drop in Amazon deforestation.",
+          "es": "El INPE publica datos que muestran una caída interanual del 36 % en la deforestación amazónica."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W34",
+    "priority": 2
   }
 ]
