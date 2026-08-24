@@ -829,5 +829,924 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "reno-hawk-fire",
+    "coords": [
+      -119.81,
+      39.53
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NPR, CNN, ABC News",
+    "place": {
+      "fr": "Reno, comté de Washoe, Nevada, États-Unis",
+      "en": "Reno, Washoe County, Nevada, United States",
+      "es": "Reno, condado de Washoe, Nevada, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le « Hawk Fire » force l'évacuation de dizaines de milliers d'habitants près de Reno",
+      "en": "'Hawk Fire' forces mass evacuations near Reno, Nevada",
+      "es": "El «Hawk Fire» obliga a evacuar a decenas de miles de personas cerca de Reno"
+    },
+    "summary": {
+      "fr": "Un feu de forêt d'origine humaine, surnommé le « Hawk Fire », s'est déclaré le samedi 22 août dans les contreforts de la Sierra Nevada près de Reno. Non maîtrisé, il a détruit plus de 6 000 hectares, entraînant l'évacuation obligatoire d'environ 42 000 personnes et des consignes de préparation pour 45 000 autres. Le gouverneur du Nevada a déclaré l'état d'urgence dans le comté de Washoe et mobilisé la Garde nationale.",
+      "en": "A human-caused wildfire dubbed the 'Hawk Fire' broke out on Saturday, August 22 in the Sierra Nevada foothills near Reno. It burned over 6,000 hectares (15,000+ acres) with 0% containment, prompting mandatory evacuation orders for about 42,000 people and warnings for 45,000 more to be ready to leave. Nevada's governor declared a state of emergency in Washoe County and activated the National Guard.",
+      "es": "Un incendio forestal de origen humano, apodado «Hawk Fire», estalló el sábado 22 de agosto en las estribaciones de Sierra Nevada, cerca de Reno. Sin control alguno, quemó más de 6.000 hectáreas y obligó a evacuar a unas 42.000 personas, mientras otras 45.000 fueron advertidas de prepararse para partir. El gobernador de Nevada declaró el estado de emergencia en el condado de Washoe y movilizó a la Guardia Nacional."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22-23/08/2026",
+          "en": "08/22-23/2026",
+          "es": "22-23/08/2026"
+        },
+        "d": {
+          "fr": "Le feu, déclenché la veille, dépasse 6 000 hectares sans confinement ; environ 90 000 personnes sont concernées par les alertes et ordres d'évacuation, dont le campus de l'Université du Nevada à Reno.",
+          "en": "The fire, which started the day before, grows past 6,000 hectares with no containment; roughly 90,000 people are affected by evacuation orders and warnings, including the University of Nevada, Reno campus.",
+          "es": "El incendio, iniciado el día anterior, supera las 6.000 hectáreas sin ningún control; unas 90.000 personas están afectadas por órdenes y avisos de evacuación, incluido el campus de la Universidad de Nevada en Reno."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "us-canada-tariffs",
+    "coords": [
+      -75.7,
+      45.42
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Washington Post, CBC News, Bloomberg",
+    "place": {
+      "fr": "Ottawa, Ontario, Canada (annonce de riposte du gouvernement canadien)",
+      "en": "Ottawa, Ontario, Canada (Canadian government's response)",
+      "es": "Ottawa, Ontario, Canadá (respuesta del gobierno canadiense)"
+    },
+    "title": {
+      "fr": "Rupture des négociations commerciales : Washington impose 50 % de droits de douane, Ottawa promet des représailles",
+      "en": "Trade talks collapse: Washington imposes 50% tariffs, Ottawa vows retaliation",
+      "es": "Ruptura de las negociaciones comerciales: Washington impone aranceles del 50 %, Ottawa promete represalias"
+    },
+    "summary": {
+      "fr": "Les négociations commerciales entre les États-Unis et le Canada ont échoué juste avant une date limite, après quoi Washington a imposé le 22 août des droits de douane de 50 % sur plusieurs milliards de dollars de produits canadiens (bois de construction, alcools, articles de sport, textiles). Le premier ministre Mark Carney a qualifié la mesure d'« injuste » et annoncé des représailles équivalentes à partir du 8 septembre, visant l'acier, les produits laitiers, l'électroménager et l'électronique américains.",
+      "en": "US-Canada trade negotiations collapsed just before a deadline, after which Washington imposed 50% tariffs on billions of dollars of Canadian goods (lumber, spirits, sporting goods, textiles) on August 22. Prime Minister Mark Carney called the move 'unfair' and announced matching retaliatory tariffs starting September 8, targeting US steel, dairy, appliances and electronics.",
+      "es": "Las negociaciones comerciales entre Estados Unidos y Canadá se rompieron justo antes de una fecha límite, tras lo cual Washington impuso el 22 de agosto aranceles del 50 % sobre miles de millones de dólares en productos canadienses (madera, licores, artículos deportivos, textiles). El primer ministro Mark Carney calificó la medida de «injusta» y anunció aranceles de represalia equivalentes a partir del 8 de septiembre, dirigidos al acero, los lácteos, los electrodomésticos y la electrónica estadounidenses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "08/22/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Les droits de douane américains de 50 % entrent en vigueur après l'échec des pourparlers ; le premier ministre Carney annonce une riposte « dollar pour dollar » dès le 8 septembre.",
+          "en": "The 50% US tariffs take effect after talks fail; PM Carney announces a 'dollar for dollar' retaliation starting September 8.",
+          "es": "Los aranceles estadounidenses del 50 % entran en vigor tras el fracaso de las conversaciones; el primer ministro Carney anuncia una represalia «dólar por dólar» a partir del 8 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "edmonton-gurdwara-attaque",
+    "coords": [
+      -113.4,
+      53.58
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CBC News, CTV News, Global News",
+    "place": {
+      "fr": "Temple sikh Nanaksar Gurdwara, Edmonton, Alberta, Canada",
+      "en": "Nanaksar Gurdwara Sikh temple, Edmonton, Alberta, Canada",
+      "es": "Templo sij Nanaksar Gurdwara, Edmonton, Alberta, Canadá"
+    },
+    "title": {
+      "fr": "Un homme attaque des fidèles au couteau dans un temple sikh d'Edmonton",
+      "en": "Man attacks worshippers with a knife at Edmonton Sikh temple",
+      "es": "Un hombre ataca con un cuchillo a fieles en un templo sij de Edmonton"
+    },
+    "summary": {
+      "fr": "Le vendredi 21 août au matin, un homme est entré dans le temple sikh Nanaksar Gurdwara à Edmonton pendant une prière précédant un mariage et a attaqué des fidèles avec un tournevis, blessant un prêtre et un bénévole âgé lorsque des membres de la congrégation ont tenté de le maîtriser. Un suspect de 27 ans, ayant des antécédents judiciaires, a été arrêté sur place. La police d'Edmonton, dont l'unité des crimes haineux, enquête, y compris sur un possible lien avec de récents incidents visant des temples sikhs à Calgary.",
+      "en": "On the morning of Friday, August 21, a man entered the Nanaksar Gurdwara Sikh temple in Edmonton during prayers ahead of a wedding and attacked worshippers with a screwdriver, injuring a priest and an elderly volunteer as congregation members tried to restrain him. A 27-year-old suspect with a prior record was arrested at the scene. Edmonton police, including its hate crimes unit, are investigating, including a possible link to recent incidents targeting Sikh temples in Calgary.",
+      "es": "En la mañana del viernes 21 de agosto, un hombre entró en el templo sij Nanaksar Gurdwara en Edmonton durante una oración previa a una boda y atacó a los fieles con un destornillador, hiriendo a un sacerdote y a un voluntario de edad avanzada cuando miembros de la congregación intentaron reducirlo. Un sospechoso de 27 años, con antecedentes penales, fue arrestado en el lugar. La policía de Edmonton, incluida su unidad de crímenes de odio, investiga, entre otras cosas, un posible vínculo con recientes incidentes contra templos sijs en Calgary."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026 — vers 5h du matin",
+          "en": "08/21/2026 — around 5:00 a.m.",
+          "es": "21/08/2026 — alrededor de las 5:00 h"
+        },
+        "d": {
+          "fr": "Deux hommes sont blessés au couteau/tournevis dans l'attaque ; le suspect est arrêté sur place, une enquête pour crime haineux est ouverte.",
+          "en": "Two men are stabbed with a screwdriver in the attack; the suspect is arrested at the scene, a hate-crime investigation is opened.",
+          "es": "Dos hombres resultan heridos con un destornillador en el ataque; el sospechoso es arrestado en el lugar y se abre una investigación por crimen de odio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "sichuan-effondrement-mur",
+    "coords": [
+      105.0,
+      28.45
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Xinhua, China News Service, RTHK",
+    "place": {
+      "fr": "Village du district de Changning, Yibin, Sichuan, Chine",
+      "en": "Village in Changning County, Yibin, Sichuan, China",
+      "es": "Aldea del distrito de Changning, Yibin, Sichuan, China"
+    },
+    "title": {
+      "fr": "L'effondrement d'un mur pendant un banquet familial fait 5 morts dans le Sichuan",
+      "en": "Wall collapse during family banquet kills 5 in Sichuan",
+      "es": "El derrumbe de un muro durante un banquete familiar deja 5 muertos en Sichuan"
+    },
+    "summary": {
+      "fr": "Le 18 août, une famille organisait un banquet dans une cour pour célébrer l'admission de ses enfants à l'université lorsque de fortes pluies ont fait s'accumuler de l'eau sur un auvent temporaire, provoquant son effondrement ainsi que celui d'un mur adjacent. Cinq personnes sont mortes (trois sur place, deux à l'hôpital) et 17 ont été blessées, dont une a dû être amputée d'un pied. L'incident survient dans un contexte de fortes pluies affectant l'ensemble de la province du Sichuan cette semaine-là.",
+      "en": "On August 18, a family was hosting a courtyard banquet to celebrate their children's college admission when heavy rain caused water to pool on a temporary awning, which collapsed along with an adjoining wall. Five people died (three at the scene, two later in hospital) and 17 were injured, one of whom had a foot amputated. The collapse occurred amid a broader spell of heavy rainfall affecting Sichuan province that week.",
+      "es": "El 18 de agosto, una familia celebraba un banquete en un patio para festejar la admisión de sus hijos a la universidad cuando fuertes lluvias hicieron que se acumulara agua sobre un toldo temporal, provocando su derrumbe junto con el de un muro contiguo. Cinco personas murieron (tres en el lugar, dos posteriormente en el hospital) y 17 resultaron heridas, una de las cuales tuvo que ser amputada de un pie. El derrumbe ocurrió en medio de fuertes lluvias que afectaban a toda la provincia de Sichuan esa semana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/08/2026 — vers 17h30",
+          "en": "08/18/2026 — around 5:30 p.m.",
+          "es": "18/08/2026 — alrededor de las 17:30 h"
+        },
+        "d": {
+          "fr": "Un auvent puis un mur s'effondrent sous le poids de l'eau de pluie accumulée pendant un banquet ; bilan : 5 morts et 17 blessés.",
+          "en": "A rain-soaked awning and an adjoining wall collapse during a family banquet; toll: 5 dead and 17 injured.",
+          "es": "Un toldo empapado de lluvia y un muro contiguo se derrumban durante un banquete familiar; balance: 5 muertos y 17 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "coree-nord-missiles",
+    "coords": [
+      125.76,
+      39.04
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "UPI, Korea Herald, Al Jazeera",
+    "place": {
+      "fr": "Région de Pyongyang, Corée du Nord (tirs retombés en mer de l'Est/du Japon)",
+      "en": "Pyongyang area, North Korea (missiles landed in the East Sea/Sea of Japan)",
+      "es": "Región de Pionyang, Corea del Norte (misiles caídos en el mar del Este/de Japón)"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire une salve de missiles balistiques vers la mer de l'Est",
+      "en": "North Korea fires barrage of ballistic missiles toward the East Sea",
+      "es": "Corea del Norte lanza una salva de misiles balísticos hacia el mar del Este"
+    },
+    "summary": {
+      "fr": "L'état-major sud-coréen a détecté le 20 août environ une douzaine de missiles balistiques de courte portée tirés depuis la région de Pyongyang, parcourant environ 320 km avant de retomber en mer, en dehors de la zone économique exclusive du Japon. Le tir intervient peu après la fin des exercices militaires réduits « Ulchi Freedom Shield » entre les États-Unis et la Corée du Sud. Séoul a qualifié ce tir de « violation grave » des résolutions de l'ONU ; Pyongyang n'a pas commenté officiellement.",
+      "en": "South Korea's Joint Chiefs of Staff detected roughly a dozen short-range ballistic missiles launched from the Pyongyang area on August 20, traveling about 320 km before splashing down in the sea, outside Japan's exclusive economic zone. The launch came shortly after the shortened US-South Korea 'Ulchi Freedom Shield' military exercise ended. Seoul called it 'a grave violation' of UN resolutions; Pyongyang has not officially commented.",
+      "es": "El Estado Mayor Conjunto surcoreano detectó el 20 de agosto una docena aproximada de misiles balísticos de corto alcance lanzados desde la región de Pionyang, que recorrieron unos 320 km antes de caer al mar, fuera de la zona económica exclusiva de Japón. El lanzamiento se produjo poco después de que terminara el ejercicio militar reducido «Ulchi Freedom Shield» entre Estados Unidos y Corea del Sur. Seúl calificó el hecho de «violación grave» de las resoluciones de la ONU; Pionyang no ha comentado oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026 — vers 17h (heure locale)",
+          "en": "08/20/2026 — around 5:00 p.m. local time",
+          "es": "20/08/2026 — hacia las 17:00 h (hora local)"
+        },
+        "d": {
+          "fr": "Une douzaine de missiles balistiques de courte portée sont tirés depuis la région de Pyongyang et retombent en mer sans faire de victime signalée.",
+          "en": "About a dozen short-range ballistic missiles are launched from the Pyongyang area and land in the sea with no reported casualties.",
+          "es": "Una docena aproximada de misiles balísticos de corto alcance son lanzados desde la región de Pionyang y caen al mar sin víctimas reportadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "japon-tobu-accident-rail",
+    "coords": [
+      139.73,
+      36.6
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "The Japan Times, NBC News",
+    "place": {
+      "fr": "Gare de Shin-Kanuma, Kanuma, préfecture de Tochigi, Japon",
+      "en": "Shin-Kanuma Station, Kanuma, Tochigi Prefecture, Japan",
+      "es": "Estación de Shin-Kanuma, Kanuma, prefectura de Tochigi, Japón"
+    },
+    "title": {
+      "fr": "Un train express percute et tue quatre agents de maintenance des voies au Japon",
+      "en": "Express train strikes and kills four track workers in Japan",
+      "es": "Un tren expreso atropella y mata a cuatro trabajadores de mantenimiento de vías en Japón"
+    },
+    "summary": {
+      "fr": "Le 20 août vers 10h45, le train express Spacia X2 de la compagnie Tobu Railway, reliant Tobu Nikko à Tokyo, a percuté et tué quatre agents (âgés de 53 à 67 ans) en train de désherber les voies à la gare de Shin-Kanuma. Six autres agents présents n'ont pas été blessés. Les enquêteurs évoquent une possible erreur de communication au sein de l'équipe de travaux ; la cause exacte reste à déterminer.",
+      "en": "On August 20 around 10:45 a.m., Tobu Railway's Spacia X2 express train, traveling from Tobu Nikko toward Tokyo, struck and killed four track workers (aged 53 to 67) who were weeding the tracks at Shin-Kanuma Station. Six other workers on site were unharmed. Investigators point to possible miscommunication within the work crew; the exact cause remains under investigation.",
+      "es": "El 20 de agosto, hacia las 10:45 h, el tren expreso Spacia X2 de la compañía Tobu Railway, que viajaba de Tobu Nikko hacia Tokio, atropelló y mató a cuatro trabajadores (de entre 53 y 67 años) que desherbaban las vías en la estación de Shin-Kanuma. Otros seis trabajadores presentes no resultaron heridos. Los investigadores apuntan a una posible falla de comunicación dentro del equipo de trabajo; la causa exacta sigue bajo investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026 — vers 10h45",
+          "en": "08/20/2026 — around 10:45 a.m.",
+          "es": "20/08/2026 — alrededor de las 10:45 h"
+        },
+        "d": {
+          "fr": "Le train express Spacia X2 percute une équipe de désherbage des voies, tuant quatre agents.",
+          "en": "The Spacia X2 express train strikes a track-weeding crew, killing four workers.",
+          "es": "El tren expreso Spacia X2 atropella a una cuadrilla de deshierbe de vías, matando a cuatro trabajadores."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "kryvyi-rih-frappe-centre-commercial",
+    "coords": [
+      33.3918,
+      47.9105
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CNN, Al Jazeera, ABC News",
+    "place": {
+      "fr": "Kryvyi Rih, oblast de Dnipropetrovsk, Ukraine",
+      "en": "Kryvyi Rih, Dnipropetrovsk Oblast, Ukraine",
+      "es": "Kryvyi Rih, óblast de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drones sur un centre commercial fait au moins 16 morts à Kryvyi Rih",
+      "en": "Drone strike on shopping mall kills at least 16 in Kryvyi Rih",
+      "es": "Un ataque con drones a un centro comercial deja al menos 16 muertos en Kryvyi Rih"
+    },
+    "summary": {
+      "fr": "Le 21 août vers 15h39, des drones de type Shahed ont frappé un centre commercial fréquenté de Kryvyi Rih, ville natale du président Zelensky ; un second drone a frappé le même site à 15h57, alors que les secours étaient déjà sur place. Les autorités ukrainiennes font état d'au moins 16 morts, dont des enfants, et d'environ 130 blessés. Le président Zelensky a qualifié la frappe de « cynique » et promis une réponse ; la partie russe n'a pas donné de compte-rendu détaillé de la cible visée dans les sources consultées.",
+      "en": "On August 21 around 3:39 p.m., Shahed-type drones struck a crowded shopping mall in Kryvyi Rih, President Zelensky's hometown; a second drone struck the same site at 3:57 p.m. while emergency responders were already on scene. Ukrainian officials reported at least 16 people killed, including children, and roughly 130 wounded. President Zelensky called the strike 'cynical' and vowed a response; Russian officials have not given a detailed public account of the target in the sources reviewed.",
+      "es": "El 21 de agosto, hacia las 15:39 h, drones de tipo Shahed atacaron un concurrido centro comercial en Kryvyi Rih, ciudad natal del presidente Zelenski; un segundo dron impactó el mismo sitio a las 15:57 h, cuando los equipos de emergencia ya se encontraban en el lugar. Las autoridades ucranianas informaron de al menos 16 muertos, incluidos niños, y unos 130 heridos. El presidente Zelenski calificó el ataque de «cínico» y prometió una respuesta; las autoridades rusas no han dado un relato público detallado del objetivo en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026 — 15h39 et 15h57",
+          "en": "08/21/2026 — 3:39 p.m. and 3:57 p.m.",
+          "es": "21/08/2026 — 15:39 h y 15:57 h"
+        },
+        "d": {
+          "fr": "Deux frappes de drones successives touchent un centre commercial ; bilan ukrainien : au moins 16 morts et environ 130 blessés.",
+          "en": "Two successive drone strikes hit a shopping mall; Ukrainian toll: at least 16 dead and about 130 wounded.",
+          "es": "Dos ataques sucesivos con drones impactan un centro comercial; balance ucraniano: al menos 16 muertos y unos 130 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "unicredit-commerzbank",
+    "coords": [
+      8.6821,
+      50.1109
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Bloomberg, Reuters (Euronews)",
+    "place": {
+      "fr": "Francfort-sur-le-Main, Allemagne (siège de Commerzbank)",
+      "en": "Frankfurt am Main, Germany (Commerzbank headquarters)",
+      "es": "Fráncfort del Meno, Alemania (sede de Commerzbank)"
+    },
+    "title": {
+      "fr": "L'italienne UniCredit se rapproche du contrôle majoritaire de la Commerzbank",
+      "en": "Italy's UniCredit nears majority control of Commerzbank",
+      "es": "La italiana UniCredit se acerca al control mayoritario de Commerzbank"
+    },
+    "summary": {
+      "fr": "Le gouvernement allemand a signalé, les 17 et 18 août, son ouverture à céder sa participation résiduelle de 12,7 % dans la Commerzbank à la banque italienne UniCredit si les deux établissements s'accordent sur une stratégie commune — un revirement net après des années de résistance de Berlin. UniCredit détient déjà environ 47,6 % de la Commerzbank et attend l'approbation de la BCE sur les actions apportées lors de son offre ; une cession de la participation publique pourrait porter sa part au-delà de 60 %.",
+      "en": "On August 17-18, the German government signaled openness to selling its remaining 12.7% stake in Commerzbank to Italy's UniCredit if the two banks agree on a joint strategy — a marked shift after years of resistance from Berlin. UniCredit already holds around 47.6% of Commerzbank and is awaiting ECB approval on shares tendered during its offer; a sale of the government stake could push its holding above 60%.",
+      "es": "El gobierno alemán señaló, el 17 y 18 de agosto, su disposición a vender su participación restante del 12,7 % en Commerzbank al banco italiano UniCredit si ambas entidades acuerdan una estrategia conjunta, un giro notable tras años de resistencia por parte de Berlín. UniCredit ya posee alrededor del 47,6 % de Commerzbank y espera la aprobación del BCE sobre las acciones presentadas durante su oferta; una venta de la participación estatal podría elevar su porcentaje por encima del 60 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-18/08/2026",
+          "en": "08/17-18/2026",
+          "es": "17-18/08/2026"
+        },
+        "d": {
+          "fr": "Berlin se dit prêt à céder sa participation dans la Commerzbank à UniCredit en cas d'accord sur une stratégie commune.",
+          "en": "Berlin signals it is open to selling its Commerzbank stake to UniCredit if a joint strategy is agreed.",
+          "es": "Berlín se declara dispuesto a vender su participación en Commerzbank a UniCredit si se acuerda una estrategia conjunta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "italie-orages-ligurie-toscane",
+    "coords": [
+      7.606,
+      43.791
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ANSA, Il Sole 24 Ore, Euronews",
+    "place": {
+      "fr": "Vintimille, Ligurie, Italie (également Gênes, Lombardie et nord de la Toscane)",
+      "en": "Ventimiglia, Liguria, Italy (also affecting Genoa, Lombardy and northern Tuscany)",
+      "es": "Ventimiglia, Liguria, Italia (también afectó a Génova, Lombardía y el norte de la Toscana)"
+    },
+    "title": {
+      "fr": "De violents orages avec 40 000 impacts de foudre paralysent le trafic ferroviaire dans le nord de l'Italie",
+      "en": "Severe storms with 40,000 lightning strikes disrupt rail traffic in northern Italy",
+      "es": "Violentas tormentas con 40.000 rayos paralizan el tráfico ferroviario en el norte de Italia"
+    },
+    "summary": {
+      "fr": "Les 20 et 21 août, un violent front orageux a généré environ 40 000 impacts de foudre sur la Ligurie en quelques heures ; un impact a mis hors service le poste de contrôle de la gare de Vintimille, interrompant le trafic sur la ligne Vintimille-Gênes. Le nord de la Toscane a enregistré plus de 23 000 impacts et 60 à 70 mm de pluie en 12 heures ; environ 400 personnes ont été évacuées en Lombardie. Les autorités relient ces intempéries extrêmes à une vague de chaleur marine en Méditerranée.",
+      "en": "On August 20-21, a severe storm front generated roughly 40,000 lightning strikes over Liguria within a few hours; one strike knocked out the control room at Ventimiglia station, halting rail traffic on the Ventimiglia-Genoa line. Northern Tuscany recorded over 23,000 strikes and 60-70mm of rain in 12 hours; about 400 people were evacuated in Lombardy. Authorities linked the extreme weather to a Mediterranean marine heatwave.",
+      "es": "Los días 20 y 21 de agosto, un violento frente de tormentas generó unos 40.000 rayos sobre Liguria en pocas horas; un rayo dejó fuera de servicio el puesto de control de la estación de Ventimiglia, interrumpiendo el tráfico en la línea Ventimiglia-Génova. El norte de la Toscana registró más de 23.000 rayos y entre 60 y 70 mm de lluvia en 12 horas; unas 400 personas fueron evacuadas en Lombardía. Las autoridades vincularon este fenómeno meteorológico extremo a una ola de calor marina en el Mediterráneo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20-21/08/2026",
+          "en": "08/20-21/2026",
+          "es": "20-21/08/2026"
+        },
+        "d": {
+          "fr": "La foudre paralyse le poste de contrôle de Vintimille et perturbe le trafic ferroviaire ; inondations et évacuations touchent la Lombardie et la Toscane.",
+          "en": "Lightning disables the Ventimiglia control room and disrupts rail traffic; flooding and evacuations affect Lombardy and Tuscany.",
+          "es": "Un rayo inutiliza el puesto de control de Ventimiglia y altera el tráfico ferroviario; inundaciones y evacuaciones afectan a Lombardía y la Toscana."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "russie-penurie-carburant",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "The Moscow Times, Euronews (Reuters), NBC News",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une nouvelle vague de pénuries d'essence touche les stations-service russes",
+      "en": "New wave of fuel shortages hits Russian gas stations",
+      "es": "Una nueva ola de escasez de combustible afecta a las gasolineras rusas"
+    },
+    "summary": {
+      "fr": "Entre le 17 et le 20 août, des pénuries d'essence sont réapparues à Moscou et dans d'autres régions russes ; des journalistes de Reuters ont constaté l'absence d'essence dans plusieurs stations de la région moscovite, le diesel restant globalement disponible. Gazprom Neft a réinstauré des limites d'achat de 40 à 60 litres par véhicule en région moscovite ; à l'échelle nationale, l'essence ne serait disponible que dans moins de trois stations sur dix. Analystes et autorités relient cette pénurie aux frappes ukrainiennes répétées sur des raffineries russes depuis fin juillet.",
+      "en": "Between August 17 and 20, gasoline shortages returned to Moscow and other Russian regions; Reuters witnesses found gasoline unavailable at several stations in the Moscow area, while diesel remained largely available. Gazprom Neft reimposed purchase limits of 40-60 liters per vehicle in the Moscow region; nationally, petrol was reportedly available at fewer than three in ten stations. Analysts and officials linked the shortage to continued Ukrainian strikes on Russian oil refineries since late July.",
+      "es": "Entre el 17 y el 20 de agosto, la escasez de gasolina volvió a Moscú y otras regiones rusas; testigos de Reuters constataron la falta de gasolina en varias estaciones de la región moscovita, mientras el diésel se mantenía en gran medida disponible. Gazprom Neft reimpuso límites de compra de 40 a 60 litros por vehículo en la región de Moscú; a nivel nacional, la gasolina estaría disponible en menos de tres de cada diez estaciones. Analistas y autoridades vincularon la escasez a los continuos ataques ucranianos contra refinerías rusas desde finales de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-20/08/2026",
+          "en": "08/17-20/2026",
+          "es": "17-20/08/2026"
+        },
+        "d": {
+          "fr": "Des limites d'achat d'essence sont réimposées dans la région de Moscou face à une nouvelle vague de pénuries.",
+          "en": "Gasoline purchase limits are reimposed in the Moscow region amid a new wave of shortages.",
+          "es": "Se reimponen límites de compra de gasolina en la región de Moscú ante una nueva ola de escasez."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "colombie-seisme-choco",
+    "coords": [
+      -76.29,
+      4.99
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌍",
+    "source": "Infobae, El Tiempo, El Espectador",
+    "place": {
+      "fr": "San José del Palmar, département du Chocó, Colombie",
+      "en": "San José del Palmar, Chocó department, Colombia",
+      "es": "San José del Palmar, departamento del Chocó, Colombia"
+    },
+    "title": {
+      "fr": "Le bilan du séisme de magnitude 7,4 dans l'ouest de la Colombie continue de s'alourdir",
+      "en": "Death toll from magnitude-7.4 earthquake in western Colombia continues to rise",
+      "es": "El balance del terremoto de magnitud 7,4 en el oeste de Colombia sigue en aumento"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,4, survenu le 10 août près de San José del Palmar (Chocó) à environ 100 km de profondeur, continue de faire remonter son bilan : au 18 août, les autorités colombiennes recensaient 312 morts, 4 611 blessés et 290 disparus, avec des dégâts importants sur des habitations, hôpitaux, écoles, routes et aéroports dans le Chocó, l'Eje Cafetero et la vallée du Cauca (dont Cali). Le président Abelardo de la Espriella a décrété l'état d'urgence économique et annoncé un plan de reconstruction.",
+      "en": "A magnitude-7.4 earthquake that struck near San José del Palmar (Chocó) on August 10 at a depth of about 100 km continued to see its toll rise: as of August 18, Colombian authorities counted 312 dead, 4,611 injured and 290 missing, with major damage to homes, hospitals, schools, roads and airports across Chocó, the Coffee Region and the Cauca Valley (including Cali). President Abelardo de la Espriella declared a state of economic emergency and announced a reconstruction plan.",
+      "es": "Un terremoto de magnitud 7,4, ocurrido el 10 de agosto cerca de San José del Palmar (Chocó) a unos 100 km de profundidad, sigue elevando su balance: al 18 de agosto, las autoridades colombianas contabilizaban 312 muertos, 4.611 heridos y 290 desaparecidos, con daños importantes en viviendas, hospitales, escuelas, carreteras y aeropuertos en el Chocó, el Eje Cafetero y el Valle del Cauca (incluida Cali). El presidente Abelardo de la Espriella decretó el estado de emergencia económica y anunció un plan de reconstrucción."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "08/10/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,4 frappe l'ouest de la Colombie près de San José del Palmar.",
+          "en": "A magnitude-7.4 earthquake strikes western Colombia near San José del Palmar.",
+          "es": "Un terremoto de magnitud 7,4 sacude el oeste de Colombia cerca de San José del Palmar."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/08/2026",
+          "en": "08/18/2026",
+          "es": "18/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 312 morts, 4 611 blessés et 290 disparus ; l'état d'urgence économique est décrété.",
+          "en": "The official toll reaches 312 dead, 4,611 injured and 290 missing; a state of economic emergency is declared.",
+          "es": "El balance oficial alcanza 312 muertos, 4.611 heridos y 290 desaparecidos; se decreta el estado de emergencia económica."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "parana-collision-bus-camion",
+    "coords": [
+      -50.6,
+      -25.02
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CNN Brasil, Gazeta do Povo, Band Paraná",
+    "place": {
+      "fr": "Route BR-373 (km 209), Ipiranga, Paraná, Brésil",
+      "en": "BR-373 highway (km 209), Ipiranga, Paraná, Brazil",
+      "es": "Carretera BR-373 (km 209), Ipiranga, Paraná, Brasil"
+    },
+    "title": {
+      "fr": "Une collision frontale entre un bus et un camion fait 23 morts dans le Paraná",
+      "en": "Head-on bus-truck collision kills 23 in Paraná, Brazil",
+      "es": "Una colisión frontal entre un autobús y un camión deja 23 muertos en Paraná"
+    },
+    "summary": {
+      "fr": "Le 19 août vers 3h30 du matin, un camion de fret a franchi la ligne médiane et percuté de plein fouet un minibus du service de santé transportant des patients vers des hôpitaux de la région de Curitiba, sur la route BR-373 à Ipiranga (Paraná). Vingt-trois personnes sont mortes (13 femmes, 8 hommes, 2 enfants) et cinq autres ont été blessées. Les autorités qualifient cet accident du plus meurtrier sur les routes du Paraná depuis 2021 ; l'État a décrété trois jours de deuil officiel.",
+      "en": "On August 19 around 3:30 a.m., a cargo truck crossed the center line and collided head-on with a health-department minibus carrying patients toward hospitals in the Curitiba area, on the BR-373 highway in Ipiranga, Paraná. Twenty-three people died (13 women, 8 men, 2 children) and five others were injured. Authorities called it the deadliest highway accident in Paraná since 2021; the state government decreed three days of official mourning.",
+      "es": "El 19 de agosto, hacia las 3:30 h, un camión de carga cruzó la línea central y colisionó de frente con un minibús del departamento de salud que transportaba pacientes hacia hospitales de la región de Curitiba, en la carretera BR-373, en Ipiranga (Paraná). Veintitrés personas murieron (13 mujeres, 8 hombres, 2 niños) y otras cinco resultaron heridas. Las autoridades calificaron el accidente como el más mortífero en las carreteras de Paraná desde 2021; el gobierno estatal decretó tres días de luto oficial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026 — vers 3h30",
+          "en": "08/19/2026 — around 3:30 a.m.",
+          "es": "19/08/2026 — hacia las 3:30 h"
+        },
+        "d": {
+          "fr": "Un camion percute frontalement un minibus sanitaire ; bilan : 23 morts et 5 blessés.",
+          "en": "A truck collides head-on with a health-department minibus; toll: 23 dead and 5 injured.",
+          "es": "Un camión colisiona de frente con un minibús sanitario; balance: 23 muertos y 5 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "libertadores-palmeiras-cerro",
+    "coords": [
+      -57.58,
+      -25.34
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏆",
+    "source": "Lance!, VAVEL Brasil, Perfil News",
+    "place": {
+      "fr": "Estadio La Nueva Olla, Asunción, Paraguay",
+      "en": "Estadio La Nueva Olla, Asunción, Paraguay",
+      "es": "Estadio La Nueva Olla, Asunción, Paraguay"
+    },
+    "title": {
+      "fr": "Palmeiras élimine Cerro Porteño et rejoint les quarts de finale de la Copa Libertadores",
+      "en": "Palmeiras eliminates Cerro Porteño, advances to Copa Libertadores quarterfinals",
+      "es": "Palmeiras elimina a Cerro Porteño y avanza a los cuartos de final de la Copa Libertadores"
+    },
+    "summary": {
+      "fr": "Le club brésilien Palmeiras a battu le Cerro Porteño paraguayen 1-0 à l'extérieur, au stade La Nueva Olla d'Asunción, lors du match retour des huitièmes de finale de la Copa Libertadores le 19 août. Le capitaine Gustavo Gómez a inscrit le but de la victoire à la 41e minute sur un corner de Jhon Arias. Ce résultat qualifie Palmeiras pour les quarts de finale du tournoi, aux côtés d'autres clubs brésiliens comme Flamengo et l'Atlético Mineiro.",
+      "en": "Brazilian club Palmeiras beat Paraguay's Cerro Porteño 1-0 away at Estadio La Nueva Olla in Asunción in the second leg of the Copa Libertadores round of 16 on August 19. Captain Gustavo Gómez headed in the winning goal in the 41st minute from a Jhon Arias corner. The result sends Palmeiras through to the tournament's quarterfinals, alongside other Brazilian clubs such as Flamengo and Atlético Mineiro.",
+      "es": "El club brasileño Palmeiras venció 1-0 como visitante al paraguayo Cerro Porteño, en el Estadio La Nueva Olla de Asunción, en el partido de vuelta de los octavos de final de la Copa Libertadores el 19 de agosto. El capitán Gustavo Gómez anotó el gol de la victoria de cabeza en el minuto 41 tras un córner de Jhon Arias. El resultado clasifica a Palmeiras a los cuartos de final del torneo, junto a otros clubes brasileños como Flamengo y Atlético Mineiro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "08/19/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "Palmeiras s'impose 1-0 face à Cerro Porteño et se qualifie pour les quarts de finale de la Copa Libertadores.",
+          "en": "Palmeiras wins 1-0 against Cerro Porteño and qualifies for the Copa Libertadores quarterfinals.",
+          "es": "Palmeiras gana 1-0 a Cerro Porteño y se clasifica para los cuartos de final de la Copa Libertadores."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-seisme-flores",
+    "coords": [
+      121.66,
+      -8.84
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "Al Jazeera, CBS News, Time, NBC News",
+    "place": {
+      "fr": "Environs d'Ende, île de Florès, Nusa Tenggara oriental, Indonésie",
+      "en": "Near Ende, Flores Island, East Nusa Tenggara, Indonesia",
+      "es": "Cerca de Ende, isla de Flores, Nusa Tenggara Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Le bilan du séisme de magnitude 7,7 à Florès dépasse 87 morts",
+      "en": "Death toll from magnitude-7.7 Flores Island earthquake tops 87",
+      "es": "El balance del terremoto de magnitud 7,7 en Flores supera los 87 muertos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 7,7 a frappé au large de l'île de Florès le 15 août, déclenchant près de 1 000 répliques. Le bilan s'est alourdi les jours suivants pour atteindre au moins 87 morts au 22 août. Plus de 1 300 habitations ont été endommagées (environ 250 détruites à Florès), près de 5 000 personnes ont été déplacées vers des abris temporaires et 213 blessés ont été recensés.",
+      "en": "A magnitude-7.7 earthquake struck off Flores Island on August 15, triggering nearly 1,000 aftershocks. The toll rose steadily in the following days, reaching at least 87 dead by August 22. More than 1,300 homes were damaged (about 250 destroyed on Flores), nearly 5,000 people were displaced into temporary shelters, and 213 injuries were recorded.",
+      "es": "Un terremoto de magnitud 7,7 sacudió las costas de la isla de Flores el 15 de agosto, desencadenando casi 1.000 réplicas. El balance fue en aumento en los días siguientes hasta alcanzar al menos 87 muertos el 22 de agosto. Más de 1.300 viviendas resultaron dañadas (unas 250 destruidas en Flores), cerca de 5.000 personas fueron desplazadas a refugios temporales y se registraron 213 heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026",
+          "en": "08/15/2026",
+          "es": "15/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,7 frappe au large de Florès, déclenchant près de 1 000 répliques.",
+          "en": "A magnitude-7.7 earthquake strikes off Flores Island, triggering nearly 1,000 aftershocks.",
+          "es": "Un terremoto de magnitud 7,7 sacude las costas de Flores, desencadenando casi 1.000 réplicas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "08/22/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint au moins 87 morts, environ 5 000 déplacés et 213 blessés.",
+          "en": "The official toll reaches at least 87 dead, about 5,000 displaced and 213 injured.",
+          "es": "El balance oficial alcanza al menos 87 muertos, unos 5.000 desplazados y 213 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "pakistan-inondations-mousson",
+    "coords": [
+      72.47,
+      34.12
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Pakistan Today, Al Jazeera, Arab News (chiffres officiels NDMA)",
+    "place": {
+      "fr": "District de Swabi, Khyber Pakhtunkhwa, Pakistan (bilan national)",
+      "en": "Swabi district, Khyber Pakhtunkhwa, Pakistan (nationwide toll)",
+      "es": "Distrito de Swabi, Khyber Pakhtunkhwa, Pakistán (balance nacional)"
+    },
+    "title": {
+      "fr": "Le bilan de la mousson au Pakistan atteint 161 morts, des effondrements à Swabi",
+      "en": "Pakistan's monsoon death toll reaches 161, building collapses in Swabi",
+      "es": "El balance del monzón en Pakistán llega a 161 muertos, con derrumbes en Swabi"
+    },
+    "summary": {
+      "fr": "L'autorité nationale de gestion des catastrophes (NDMA) faisait état, le 21 août, d'un bilan national de 161 morts liés à la mousson depuis fin juin, la province du Khyber Pakhtunkhwa étant la plus touchée (67 morts), suivie du Pendjab (54) et du Sind (16). De fortes pluies ont provoqué l'effondrement de bâtiments dans le district de Swabi (Khyber Pakhtunkhwa). La NDMA avertit que le bilan pourrait encore s'alourdir avec la persistance des intempéries.",
+      "en": "Pakistan's National Disaster Management Authority (NDMA) reported on August 21 a nationwide monsoon-related death toll of 161 since late June, with Khyber Pakhtunkhwa province hit hardest (67 deaths), followed by Punjab (54) and Sindh (16). Heavy rains triggered building collapses in Swabi district, Khyber Pakhtunkhwa. The NDMA warned further casualties were likely as severe weather persisted.",
+      "es": "La Autoridad Nacional de Gestión de Desastres (NDMA) de Pakistán informó el 21 de agosto de un balance nacional de 161 muertos relacionados con el monzón desde finales de junio, siendo la provincia de Khyber Pakhtunkhwa la más afectada (67 muertos), seguida de Punjab (54) y Sindh (16). Las fuertes lluvias provocaron derrumbes de edificios en el distrito de Swabi, Khyber Pakhtunkhwa. La NDMA advirtió que el número de víctimas podría seguir aumentando mientras persista el mal tiempo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "08/21/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan national de la mousson atteint 161 morts ; des effondrements de bâtiments sont signalés à Swabi.",
+          "en": "The nationwide monsoon death toll reaches 161; building collapses are reported in Swabi.",
+          "es": "El balance nacional del monzón llega a 161 muertos; se reportan derrumbes de edificios en Swabi."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "id": "bihar-bousculade-temple",
+    "coords": [
+      86.09,
+      25.18
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Washington Post, Al Jazeera, Tribune India",
+    "place": {
+      "fr": "Temple Ashok Dham, district de Lakhisarai, Bihar, Inde",
+      "en": "Ashok Dham temple, Lakhisarai district, Bihar, India",
+      "es": "Templo Ashok Dham, distrito de Lakhisarai, Bihar, India"
+    },
+    "title": {
+      "fr": "Une bousculade dans un temple du Bihar fait au moins 7 morts",
+      "en": "Stampede at Bihar temple kills at least 7",
+      "es": "Una estampida en un templo de Bihar deja al menos 7 muertos"
+    },
+    "summary": {
+      "fr": "Une bousculade s'est produite le 17 août au temple Ashok Dham, dans le district de Lakhisarai (Bihar), pendant un rassemblement dense de fidèles venus honorer Shiva pendant le mois sacré de Shravan. Les autorités locales rapportent au moins 7 morts et 19 blessés, la panique ayant été déclenchée par des rumeurs selon lesquelles un poteau électrique serait tombé sur des fidèles. Le chef du gouvernement du Bihar a qualifié l'incident de « déchirant » et annoncé une indemnisation de 400 000 roupies par famille de victime.",
+      "en": "A stampede-like crush occurred on August 17 at the Ashok Dham temple in Bihar's Lakhisarai district, during a crowded gathering of worshippers honoring Shiva during the sacred Shravan month. Local officials reported at least 7 deaths and 19 injuries, with the panic triggered by rumors that an electric pole had fallen on devotees. Bihar's chief minister called the incident 'heart-wrenching' and announced compensation of 400,000 rupees per victim's family.",
+      "es": "Una estampida ocurrió el 17 de agosto en el templo Ashok Dham, en el distrito de Lakhisarai (Bihar), durante una concurrida reunión de fieles que honraban a Shiva en el sagrado mes de Shravan. Las autoridades locales informaron de al menos 7 muertos y 19 heridos; el pánico se desató por rumores de que un poste eléctrico había caído sobre los devotos. El jefe de gobierno de Bihar calificó el incidente de «desgarrador» y anunció una compensación de 400.000 rupias por familia de víctima."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "08/17/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Une bousculade au temple Ashok Dham fait au moins 7 morts et 19 blessés, déclenchée par des rumeurs de panique.",
+          "en": "A stampede at the Ashok Dham temple kills at least 7 and injures 19, triggered by panic rumors.",
+          "es": "Una estampida en el templo Ashok Dham deja al menos 7 muertos y 19 heridos, desatada por rumores de pánico."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "pakistan-imran-khan-hopital",
+    "coords": [
+      73.05,
+      33.68
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg, Al Jazeera, Irish Times",
+    "place": {
+      "fr": "Islamabad, Pakistan",
+      "en": "Islamabad, Pakistan",
+      "es": "Islamabad, Pakistán"
+    },
+    "title": {
+      "fr": "Imran Khan brièvement transféré à l'hôpital puis reconduit en prison, malgré une décision de la Cour suprême",
+      "en": "Imran Khan briefly hospitalized then returned to jail despite Supreme Court order",
+      "es": "Imran Khan es hospitalizado brevemente y luego devuelto a prisión pese a la orden de la Corte Suprema"
+    },
+    "summary": {
+      "fr": "La Cour suprême du Pakistan a ordonné le 18 août le transfert de l'ex-premier ministre emprisonné Imran Khan de la prison d'Adiala vers un hôpital privé d'Islamabad pour des soins médicaux, avec constitution d'un comité médical. Le gouvernement s'y est d'abord opposé, invoquant l'interdiction de traitement en établissement privé. Khan a finalement été brièvement hospitalisé, déclaré apte, puis reconduit en prison le 21 août en quelques heures — une décision que son parti juge contraire à l'ordonnance de la Cour. La prochaine audience sur son appel est fixée au 16 septembre.",
+      "en": "Pakistan's Supreme Court ordered on August 18 that jailed former Prime Minister Imran Khan be transferred from Adiala Jail to a private Islamabad hospital for medical treatment, with a medical board formed to oversee his care. The government initially resisted, citing rules against treatment at private facilities. Khan was eventually briefly hospitalized, declared medically fit, and returned to prison within hours on August 21 — a move his party says violated the court's order. The next hearing on his appeal is set for September 16.",
+      "es": "La Corte Suprema de Pakistán ordenó el 18 de agosto trasladar al exprimer ministro encarcelado Imran Khan de la prisión de Adiala a un hospital privado de Islamabad para recibir tratamiento médico, con la formación de una junta médica para supervisar su atención. El gobierno se opuso inicialmente, alegando normas que prohíben el tratamiento en centros privados. Khan finalmente fue hospitalizado brevemente, declarado apto médicamente, y devuelto a prisión pocas horas después, el 21 de agosto, una medida que su partido considera contraria a la orden judicial. La próxima audiencia sobre su apelación está fijada para el 16 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/08/2026",
+          "en": "08/18/2026",
+          "es": "18/08/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême ordonne le transfert médical d'Imran Khan vers un hôpital privé d'Islamabad.",
+          "en": "The Supreme Court orders Imran Khan's medical transfer to a private Islamabad hospital.",
+          "es": "La Corte Suprema ordena el traslado médico de Imran Khan a un hospital privado de Islamabad."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "08/21/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Après une brève hospitalisation, Imran Khan est déclaré apte et reconduit en prison en quelques heures.",
+          "en": "After a brief hospital visit, Imran Khan is declared fit and returned to prison within hours.",
+          "es": "Tras una breve visita al hospital, Imran Khan es declarado apto y devuelto a prisión en pocas horas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-plateau-attaque",
+    "coords": [
+      8.72,
+      9.35
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Premium Times Nigeria, Guardian Nigeria, The Sun Nigeria",
+    "place": {
+      "fr": "Communautés de Tanjol et Tarai, district de Jol, zone de Riyom, État du Plateau, Nigeria",
+      "en": "Tanjol and Tarai communities, Jol District, Riyom LGA, Plateau State, Nigeria",
+      "es": "Comunidades de Tanjol y Tarai, distrito de Jol, área de Riyom, estado de Plateau, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés tuent deux agents de sécurité lors d'une attaque dans l'État du Plateau",
+      "en": "Gunmen kill two security operatives in attack in Plateau State",
+      "es": "Hombres armados matan a dos agentes de seguridad en un ataque en el estado de Plateau"
+    },
+    "summary": {
+      "fr": "Le dimanche 23 août vers 14h30, des hommes armés non identifiés ont attaqué les communautés de Tanjol et Tarai, dans le district de Jol (zone de gouvernement local de Riyom, État du Plateau), ouvrant le feu sur une patrouille conjointe de sécurité. Au moins deux agents ont été tués et leurs armes emportées ; un échange de tirs a suivi l'arrivée de renforts. Cette attaque s'inscrit dans une vague plus large de violences meurtrières qui touche l'État du Plateau, dans la « ceinture centrale » du Nigeria, depuis le début de l'année 2026.",
+      "en": "On Sunday, August 23 around 2:30 p.m., unidentified gunmen attacked the Tanjol and Tarai communities in Jol District (Riyom Local Government Area, Plateau State), opening fire on a joint security patrol. At least two operatives were killed and their weapons seized; a gun battle followed the arrival of reinforcements. The attack is part of a broader wave of deadly violence affecting Plateau State, in Nigeria's central 'Middle Belt,' since early 2026.",
+      "es": "El domingo 23 de agosto, hacia las 14:30 h, hombres armados no identificados atacaron las comunidades de Tanjol y Tarai, en el distrito de Jol (área de gobierno local de Riyom, estado de Plateau), abriendo fuego contra una patrulla conjunta de seguridad. Al menos dos agentes murieron y sus armas fueron sustraídas; un tiroteo siguió a la llegada de refuerzos. El ataque forma parte de una ola más amplia de violencia mortal que afecta al estado de Plateau, en el «cinturón medio» del centro de Nigeria, desde comienzos de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026 — vers 14h30",
+          "en": "08/23/2026 — around 2:30 p.m.",
+          "es": "23/08/2026 — hacia las 14:30 h"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent une patrouille conjointe de sécurité, tuant deux agents et s'emparant de leurs armes.",
+          "en": "Gunmen attack a joint security patrol, killing two operatives and seizing their weapons.",
+          "es": "Hombres armados atacan una patrulla conjunta de seguridad, matando a dos agentes y sustrayendo sus armas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "id": "iran-execution-hosseini",
+    "coords": [
+      51.67,
+      32.65
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Iran International, Asharq Al-Awsat",
+    "place": {
+      "fr": "Prison d'Ispahan (Dastgerd), Ispahan, Iran",
+      "en": "Isfahan (Dastgerd) Prison, Isfahan, Iran",
+      "es": "Prisión de Isfahán (Dastgerd), Isfahán, Irán"
+    },
+    "title": {
+      "fr": "L'Iran exécute un cinquième condamné dans l'affaire des manifestations d'Ispahan",
+      "en": "Iran executes fifth defendant in Isfahan protest case",
+      "es": "Irán ejecuta a un quinto condenado en el caso de las protestas de Isfahán"
+    },
+    "summary": {
+      "fr": "La justice iranienne a exécuté le jeudi 20 août Ghaem Hosseini, ressortissant afghan de 21 ans, cinquième condamné mis à mort dans l'affaire dite de la « place Alikhani », liée aux manifestations de janvier 2026 à Ispahan au cours desquelles quatre membres d'une unité spéciale de sécurité avaient été tués. Les autorités iraniennes l'ont reconnu coupable de « guerre contre Dieu » et de trouble à l'ordre public ; des organisations de défense des droits humains affirment que sept autres condamnés dans la même affaire risquent une exécution imminente.",
+      "en": "Iran's judiciary executed Ghaem Hosseini, a 21-year-old Afghan national, on Thursday, August 20 — the fifth defendant put to death in the so-called 'Alikhani Square' case tied to January 2026 protests in Isfahan, during which four members of a security special unit were killed. Iranian authorities convicted him of 'waging war against God' and disrupting public order; human rights groups say seven more defendants in the same case face imminent execution.",
+      "es": "La justicia iraní ejecutó el jueves 20 de agosto a Ghaem Hosseini, ciudadano afgano de 21 años, el quinto condenado ajusticiado en el llamado caso de la «plaza Alikhani», vinculado a las protestas de enero de 2026 en Isfahán, durante las cuales murieron cuatro miembros de una unidad especial de seguridad. Las autoridades iraníes lo declararon culpable de «hacer la guerra contra Dios» y alterar el orden público; organizaciones de derechos humanos afirman que otros siete condenados en el mismo caso enfrentan una ejecución inminente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "08/20/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Ghaem Hosseini, 21 ans, est exécuté dans le cadre de l'affaire liée aux manifestations de janvier à Ispahan.",
+          "en": "Ghaem Hosseini, 21, is executed in connection with the January protests case in Isfahan.",
+          "es": "Ghaem Hosseini, de 21 años, es ejecutado en relación con el caso de las protestas de enero en Isfahán."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "gaza-frappes-cessez-le-feu",
+    "coords": [
+      34.38,
+      31.43
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Middle East Monitor, The National, France 24",
+    "place": {
+      "fr": "Al-Zawaida et camp de réfugiés de Nuseirat, centre de la bande de Gaza",
+      "en": "Al-Zawaida and Nuseirat refugee camp, central Gaza Strip",
+      "es": "Al-Zawaida y campo de refugiados de Nuseirat, centro de la Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes font des morts palestiniens dans le centre de Gaza malgré le cessez-le-feu",
+      "en": "Israeli strikes kill Palestinians in central Gaza despite ceasefire",
+      "es": "Ataques israelíes matan a palestinos en el centro de Gaza pese al alto el fuego"
+    },
+    "summary": {
+      "fr": "Le dimanche 23 août, des frappes israéliennes ont touché plusieurs sites du centre de la bande de Gaza, dont un entrepôt à Al-Zawaida et le camp de réfugiés de Nuseirat. Des sources palestiniennes et des observateurs font état de deux à trois morts, dont un enfant, et d'une douzaine de blessés ; selon ces mêmes sources, les frappes contreviendraient au cessez-le-feu en vigueur depuis le 10 octobre 2025. Les autorités israéliennes n'ont pas fourni, dans les sources consultées, de compte-rendu détaillé et public sur ces incidents ; les bilans varient légèrement selon les médias.",
+      "en": "On Sunday, August 23, Israeli strikes hit several sites in central Gaza, including a warehouse in Al-Zawaida and the Nuseirat refugee camp. Palestinian sources and monitors reported two to three deaths, including a child, and about a dozen wounded; according to these sources, the strikes violated the ceasefire in force since October 10, 2025. Israeli authorities have not provided a detailed public account of the incidents in the sources reviewed; casualty figures vary slightly between outlets.",
+      "es": "El domingo 23 de agosto, ataques israelíes impactaron varios sitios del centro de Gaza, incluido un almacén en Al-Zawaida y el campo de refugiados de Nuseirat. Fuentes palestinas y observadores informaron de entre dos y tres muertos, incluido un niño, y una decena de heridos; según estas fuentes, los ataques violarían el alto el fuego vigente desde el 10 de octubre de 2025. Las autoridades israelíes no han ofrecido, en las fuentes consultadas, un relato público detallado sobre estos incidentes; las cifras de víctimas varían ligeramente entre medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "08/23/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Des frappes touchent Al-Zawaida et le camp de Nuseirat ; sources palestiniennes : 2 à 3 morts et une douzaine de blessés.",
+          "en": "Strikes hit Al-Zawaida and the Nuseirat camp; Palestinian sources report 2-3 dead and about a dozen wounded.",
+          "es": "Ataques impactan Al-Zawaida y el campo de Nuseirat; fuentes palestinas informan de 2 a 3 muertos y una decena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
   }
 ]
