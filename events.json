@@ -428,21 +428,21 @@
     "severe": true,
     "category": "securite",
     "icon": "🌊",
-    "source": "La Presse / Noovo Info",
+    "source": "South China Morning Post / Associated Press",
     "place": {
       "fr": "Hengzhou (village de Liulan), région du Guangxi, Chine",
       "en": "Hengzhou (Liulan village), Guangxi region, China",
       "es": "Hengzhou (aldea de Liulan), región de Guangxi, China"
     },
     "title": {
-      "fr": "Le bilan des inondations dans le Guangxi s'alourdit à 39 morts",
-      "en": "Flood death toll in Guangxi rises to 39",
-      "es": "El balance de las inundaciones en Guangxi se eleva a 39 muertos"
+      "fr": "Le bilan des inondations dans le Guangxi révisé à 159 morts",
+      "en": "Guangxi flood death toll revised to 159",
+      "es": "El balance de las inundaciones en Guangxi se revisa a 159 muertos"
     },
     "summary": {
-      "fr": "Le bilan des inondations dévastatrices dans la région du Guangxi, dans le sud de la Chine, s'est alourdi à 39 morts et neuf disparus, selon les autorités citées par plusieurs médias. Un barrage-réservoir s'est rompu près du village de Liulan après des pluies torrentielles liées au typhon Maysak.",
-      "en": "The death toll from devastating floods in China's Guangxi region has risen to 39, with nine people still missing, according to authorities cited by several media outlets. A dam reservoir collapsed near the village of Liulan after torrential rains linked to Typhoon Maysak.",
-      "es": "El balance de las devastadoras inundaciones en la región de Guangxi, en el sur de China, se elevó a 39 muertos y nueve desaparecidos, según las autoridades citadas por varios medios. Una presa se rompió cerca de la aldea de Liulan tras lluvias torrenciales vinculadas al tifón Maysak."
+      "fr": "Un réexamen mené par les autorités de la région du Guangxi, dans le sud de la Chine, a fait grimper le bilan des inondations liées au typhon Maysak de 39 à 159 morts, avec dix personnes toujours portées disparues. Plus de 1,65 million de personnes ont été touchées ; la majorité des décès à Nanning est liée à la rupture de deux barrages-réservoirs, selon le South China Morning Post et l'Associated Press.",
+      "en": "A review by authorities in China's Guangxi region has raised the death toll from flooding linked to Typhoon Maysak from 39 to 159, with ten people still missing. More than 1.65 million people were affected; most of the deaths in Nanning are linked to the collapse of two reservoir dams, according to the South China Morning Post and the Associated Press.",
+      "es": "Una revisión de las autoridades de la región de Guangxi, en el sur de China, elevó el balance de las inundaciones vinculadas al tifón Maysak de 39 a 159 muertos, con diez personas aún desaparecidas. Más de 1,65 millones de personas resultaron afectadas; la mayoría de las muertes en Nanning están vinculadas al colapso de dos presas, según el South China Morning Post y Associated Press."
     },
     "timeline": [
       {
@@ -455,6 +455,19 @@
           "fr": "Les autorités portent le bilan à 39 morts et neuf disparus dans la région du Guangxi.",
           "en": "Authorities raise the toll to 39 dead and nine missing in the Guangxi region.",
           "es": "Las autoridades elevan el balance a 39 muertos y nueve desaparecidos en la región de Guangxi."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Après un réexamen de six semaines, les autorités du Guangxi portent le bilan à 159 morts et dix disparus ; 136 décès sont recensés à Nanning, dont 107 liés à la rupture de deux barrages (Liulan et Yunbiao), et 23 à Guigang, selon le South China Morning Post et l'Associated Press.",
+          "en": "After a six-week review, Guangxi authorities raise the toll to 159 dead and ten missing; 136 deaths are recorded in Nanning, including 107 linked to the collapse of two dams (Liulan and Yunbiao), and 23 in Guigang, according to the South China Morning Post and the Associated Press.",
+          "es": "Tras una revisión de seis semanas, las autoridades de Guangxi elevan el balance a 159 muertos y diez desaparecidos; se registran 136 fallecidos en Nanning, 107 de ellos vinculados al colapso de dos presas (Liulan y Yunbiao), y 23 en Guigang, según el South China Morning Post y Associated Press."
         },
         "active": true
       }
@@ -692,7 +705,7 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
+    "source": "Washington Post / CNBC / NBC News",
     "week": "2026-W29",
     "place": {
       "fr": "Téhéran, Iran",
@@ -700,14 +713,14 @@
       "es": "Teherán, Irán"
     },
     "title": {
-      "fr": "Le conflit entre les États-Unis, Israël et l'Iran reprend après le cessez-le-feu d'avril",
-      "en": "Conflict between the United States, Israel and Iran resumes after the April ceasefire",
-      "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
+      "fr": "Washington durcit ses sanctions contre l'Iran, Téhéran évoque le détroit d'Ormuz",
+      "en": "Washington tightens sanctions on Iran, Tehran raises Strait of Hormuz threat",
+      "es": "Washington endurece las sanciones a Irán, Teherán plantea el estrecho de Ormuz"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après la reprise des frappes entre les États-Unis et l'Iran le 7 juillet, Washington a annoncé le 24 août une nouvelle campagne de sanctions économiques visant à isoler davantage l'Iran, ciblant près de 60 entités liées à ses exportations de pétrole, selon le Washington Post et CNBC. L'establishment sécuritaire iranien a évoqué la possibilité de restreindre la navigation dans le détroit d'Ormuz en réponse.",
+      "en": "After strikes resumed between the United States and Iran on July 7, Washington announced a new economic sanctions campaign on August 24 aimed at further isolating Iran, targeting nearly 60 entities linked to its oil exports, according to the Washington Post and CNBC. Iran's security establishment raised the possibility of restricting shipping through the Strait of Hormuz in response.",
+      "es": "Tras la reanudación de los ataques entre Estados Unidos e Irán el 7 de julio, Washington anunció el 24 de agosto una nueva campaña de sanciones económicas destinada a aislar aún más a Irán, dirigida a cerca de 60 entidades vinculadas a sus exportaciones de petróleo, según el Washington Post y CNBC. El aparato de seguridad iraní planteó la posibilidad de restringir la navegación por el estrecho de Ormuz en respuesta."
     },
     "timeline": [
       {
@@ -733,6 +746,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Le secrétaire au Trésor américain Scott Bessent annonce une vaste campagne de sanctions visant les secteurs pétrolier, maritime, aurifère et aérien de l'Iran, touchant près de 60 entités et individus ; l'Iran évoque en retour la possibilité de restreindre la navigation dans le détroit d'Ormuz, selon le Washington Post et CNBC.",
+          "en": "US Treasury Secretary Scott Bessent announces a broad sanctions campaign targeting Iran's oil, shipping, gold and aviation sectors, hitting nearly 60 entities and individuals; Iran responds by raising the possibility of restricting shipping through the Strait of Hormuz, according to the Washington Post and CNBC.",
+          "es": "El secretario del Tesoro de EE. UU., Scott Bessent, anuncia una amplia campaña de sanciones contra los sectores petrolero, naviero, del oro y de aviación de Irán, que afecta a cerca de 60 entidades e individuos; Irán responde planteando la posibilidad de restringir la navegación por el estrecho de Ormuz, según el Washington Post y CNBC."
         },
         "active": true
       }
@@ -828,6 +854,895 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -120.77,
+      48.02
+    ],
+    "id": "washington-little-giant-incendie",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "KPQ News / KIRO 7 / Lake Chelan Mirror",
+    "place": {
+      "fr": "Comté de Chelan, État de Washington, États-Unis",
+      "en": "Chelan County, Washington State, United States",
+      "es": "Condado de Chelan, estado de Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'incendie « Little Giant » approche les 145 000 acres dans l'État de Washington",
+      "en": "Little Giant wildfire nears 145,000 acres in Washington State",
+      "es": "El incendio «Little Giant» se acerca a las 145.000 acres en el estado de Washington"
+    },
+    "summary": {
+      "fr": "Déclenché par la foudre le 16 juillet, l'incendie Little Giant a parcouru environ 144 800 acres dans le comté de Chelan et n'était contenu qu'à 15 % la semaine du 24 août, selon KPQ News et KIRO 7. Il menace près de 2000 structures et en a détruit au moins 26 ; des ordres d'évacuation immédiate restent en vigueur dans la vallée de la rivière Entiat et autour du lac Chelan.",
+      "en": "Sparked by lightning on July 16, the Little Giant Fire has burned about 144,800 acres in Chelan County and was only 15% contained the week of August 24, according to KPQ News and KIRO 7. It threatens nearly 2,000 structures and has destroyed at least 26; go-now evacuation orders remain in effect in the Entiat River Valley and around Lake Chelan.",
+      "es": "Provocado por un rayo el 16 de julio, el incendio Little Giant ha quemado unas 144.800 acres en el condado de Chelan y solo estaba contenido en un 15 % la semana del 24 de agosto, según KPQ News y KIRO 7. Amenaza a cerca de 2000 estructuras y ha destruido al menos 26; siguen vigentes órdenes de evacuación inmediata en el valle del río Entiat y alrededor del lago Chelan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie atteint environ 144 800 acres avec 15 % de contenance ; au moins 26 structures détruites, selon KIRO 7 et le Lake Chelan Mirror.",
+          "en": "The fire reaches about 144,800 acres at 15% containment; at least 26 structures destroyed, according to KIRO 7 and the Lake Chelan Mirror.",
+          "es": "El incendio alcanza unas 144.800 acres con un 15 % de contención; al menos 26 estructuras destruidas, según KIRO 7 y Lake Chelan Mirror."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "id": "canada-guerre-tarifs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "NPR / Bloomberg / The Washington Post",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "L'escalade tarifaire entre le Canada et les États-Unis s'intensifie",
+      "en": "Canada-US tariff escalation intensifies",
+      "es": "La escalada arancelaria entre Canadá y Estados Unidos se intensifica"
+    },
+    "summary": {
+      "fr": "Les négociations commerciales entre le Canada et les États-Unis ont échoué dans la nuit du 21 au 22 août, juste avant une échéance, entraînant l'imposition par Washington de droits de douane de 50 % sur environ 20 milliards de dollars de produits canadiens, selon NPR et Bloomberg. Le premier ministre Mark Carney a annoncé des mesures de rétorsion « dollar pour dollar » dès le 8 septembre, qualifiant la décision américaine d'« attaque ».",
+      "en": "Trade talks between Canada and the United States collapsed on the night of August 21-22, just before a deadline, leading Washington to impose 50% tariffs on about $20 billion of Canadian goods, according to NPR and Bloomberg. Prime Minister Mark Carney announced dollar-for-dollar retaliatory measures starting September 8, describing the US move as an \"attack.\"",
+      "es": "Las negociaciones comerciales entre Canadá y Estados Unidos fracasaron en la noche del 21 al 22 de agosto, justo antes de un plazo límite, lo que llevó a Washington a imponer aranceles del 50 % sobre unos 20.000 millones de dólares en productos canadienses, según NPR y Bloomberg. El primer ministro Mark Carney anunció medidas de represalia «dólar por dólar» a partir del 8 de septiembre, calificando la decisión estadounidense de «ataque»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-24/08/2026",
+          "en": "08/21-24/2026",
+          "es": "21-24/08/2026"
+        },
+        "d": {
+          "fr": "Après l'échec des pourparlers, les États-Unis imposent des droits de 50 % ; le Canada annonce des tarifs équivalents à partir du 8 septembre, selon Bloomberg et CNBC.",
+          "en": "After talks collapse, the US imposes 50% tariffs; Canada announces matching tariffs starting September 8, according to Bloomberg and CNBC.",
+          "es": "Tras el fracaso de las conversaciones, EE. UU. impone aranceles del 50 %; Canadá anuncia aranceles equivalentes a partir del 8 de septiembre, según Bloomberg y CNBC."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -107.394,
+      24.8069
+    ],
+    "id": "sinaloa-gouverneur-conge",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛️",
+    "source": "US News & World Report / Al Jazeera",
+    "place": {
+      "fr": "Culiacán, Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa, Mexico",
+      "es": "Culiacán, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Le gouverneur du Sinaloa, inculpé aux États-Unis, redemande un congé après un jour de retour",
+      "en": "Sinaloa governor, indicted in the US, seeks renewed leave after one-day return",
+      "es": "El gobernador de Sinaloa, imputado en EE. UU., vuelve a pedir licencia tras un día de regreso"
+    },
+    "summary": {
+      "fr": "Le gouverneur du Sinaloa Rubén Rocha Moya, visé par un acte d'accusation américain l'associant à une faction du cartel de Sinaloa, a repris ses fonctions le 21 août après plus de trois mois de congé, avant de redemander un congé dès le lendemain. La présidente Claudia Sheinbaum a qualifié ce bref retour d'« inapproprié » ; il n'a été ni inculpé ni condamné au Mexique.",
+      "en": "Sinaloa Governor Rubén Rocha Moya, targeted by a US indictment linking him to a faction of the Sinaloa Cartel, returned to office on August 21 after more than three months of leave, before requesting renewed leave the very next day. President Claudia Sheinbaum called the brief return \"not appropriate\"; he has not been charged or convicted in Mexico.",
+      "es": "El gobernador de Sinaloa, Rubén Rocha Moya, señalado en una acusación estadounidense que lo vincula con una facción del cartel de Sinaloa, regresó a sus funciones el 21 de agosto tras más de tres meses de licencia, antes de volver a pedir licencia al día siguiente. La presidenta Claudia Sheinbaum calificó el breve regreso de «no apropiado»; no ha sido imputado ni condenado en México."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-24/08/2026",
+          "en": "08/21-24/2026",
+          "es": "21-24/08/2026"
+        },
+        "d": {
+          "fr": "Rocha Moya reprend ses fonctions puis redemande un congé ; Sheinbaum dit ne pas avoir été informée à l'avance, selon Al Jazeera.",
+          "en": "Rocha Moya returns to office then requests leave again; Sheinbaum says she had no advance knowledge, according to Al Jazeera.",
+          "es": "Rocha Moya reasume el cargo y luego vuelve a pedir licencia; Sheinbaum dice no haber sido informada con antelación, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -46.6789,
+      -23.5273
+    ],
+    "id": "palmeiras-vasco-brasileirao",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "ESPN Brasil / Gazeta Esportiva",
+    "place": {
+      "fr": "São Paulo, Brésil",
+      "en": "São Paulo, Brazil",
+      "es": "São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "Le Palmeiras écrase Vasco 4-1 et prend six points d'avance au Brasileirão",
+      "en": "Palmeiras rout Vasco 4-1, extend Brasileirão lead to six points",
+      "es": "Palmeiras aplasta a Vasco 4-1 y extiende su ventaja a seis puntos en el Brasileirão"
+    },
+    "summary": {
+      "fr": "Le Palmeiras a battu Vasco da Gama 4-1 le 23 août lors de la 24e journée du championnat brésilien, avec un doublé de Flaco López, selon ESPN Brasil. Après la défaite du leader Flamengo la veille, cette victoire porte l'avance du Palmeiras à six points en tête du classement, tandis que Vasco reste englué dans la zone de relégation.",
+      "en": "Palmeiras defeated Vasco da Gama 4-1 on August 23 in round 24 of Brazil's Série A, with a brace from Flaco López, according to ESPN Brasil. After league leaders Flamengo lost the previous day, the win extends Palmeiras' lead to six points at the top of the table, while Vasco remains stuck in the relegation zone.",
+      "es": "Palmeiras venció 4-1 a Vasco da Gama el 23 de agosto en la 24ª jornada del Brasileirão, con un doblete de Flaco López, según ESPN Brasil. Tras la derrota del líder Flamengo el día anterior, la victoria amplía a seis puntos la ventaja de Palmeiras en la cima de la tabla, mientras Vasco sigue estancado en zona de descenso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Le Palmeiras s'impose 4-1 face à Vasco da Gama à São Paulo, selon ESPN Brasil.",
+          "en": "Palmeiras win 4-1 against Vasco da Gama in São Paulo, according to ESPN Brasil.",
+          "es": "Palmeiras vence 4-1 a Vasco da Gama en São Paulo, según ESPN Brasil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      140.1508,
+      35.9836
+    ],
+    "id": "ibaraki-seisme",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🫨",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Ushiku, préfecture d'Ibaraki, Japon",
+      "en": "Ushiku, Ibaraki Prefecture, Japan",
+      "es": "Ushiku, prefectura de Ibaraki, Japón"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,9 secoue la région de Tokyo",
+      "en": "Magnitude 5.9 earthquake shakes the Tokyo region",
+      "es": "Un terremoto de magnitud 5,9 sacude la región de Tokio"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 5,9, centré dans le sud de la préfecture d'Ibaraki à environ 70 km de profondeur, a frappé vers 2 heures du matin le 23 août, selon l'Agence météorologique japonaise citée par le Japan Times. Au moins 37 personnes ont été blessées dans la région du Kanto et une partie du plafond de la mairie d'Ushiku s'est effondrée ; aucun tsunami n'a été généré.",
+      "en": "A magnitude 5.9 earthquake, centered in southern Ibaraki Prefecture at a depth of about 70 km, struck around 2 a.m. on August 23, according to the Japan Meteorological Agency cited by the Japan Times. At least 37 people were injured across the Kanto region and part of the ceiling at Ushiku City Hall collapsed; no tsunami was generated.",
+      "es": "Un terremoto de magnitud 5,9, centrado en el sur de la prefectura de Ibaraki a unos 70 km de profundidad, sacudió la zona hacia las 2 de la madrugada del 23 de agosto, según la Agencia Meteorológica de Japón citada por el Japan Times. Al menos 37 personas resultaron heridas en la región de Kanto y parte del techo del ayuntamiento de Ushiku se derrumbó; no se generó ningún tsunami."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026 — vers 2h",
+          "en": "23/08/2026 — around 2 a.m.",
+          "es": "23/08/2026 — alrededor de las 2h"
+        },
+        "d": {
+          "fr": "Le séisme frappe le Kanto ; 37 blessés recensés et des dégâts matériels à Ushiku, selon le Japan Times.",
+          "en": "The earthquake strikes the Kanto region; 37 injuries recorded and property damage in Ushiku, according to the Japan Times.",
+          "es": "El terremoto golpea la región de Kanto; se registran 37 heridos y daños materiales en Ushiku, según el Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      125.7625,
+      39.0392
+    ],
+    "id": "coree-nord-tirs-missiles",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Al Jazeera / The Washington Post / The Korea Times",
+    "place": {
+      "fr": "Région de Pyongyang, Corée du Nord",
+      "en": "Pyongyang area, North Korea",
+      "es": "Región de Pionyang, Corea del Norte"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire une salve de missiles balistiques en pleine impasse diplomatique",
+      "en": "North Korea fires barrage of ballistic missiles amid stalled diplomacy",
+      "es": "Corea del Norte lanza una andanada de misiles balísticos en medio del estancamiento diplomático"
+    },
+    "summary": {
+      "fr": "La Corée du Nord a tiré une dizaine de missiles balistiques de courte portée le 20 août depuis la région de Pyongyang vers la mer de l'Est, quelques heures après avoir écarté une ouverture diplomatique américaine, selon Al Jazeera et le Washington Post. La présidence sud-coréenne a condamné ces tirs et maintenu son armée en état d'alerte pendant des exercices conjoints avec les États-Unis.",
+      "en": "North Korea launched around ten short-range ballistic missiles on August 20 from the Pyongyang area toward the East Sea, hours after dismissing a US diplomatic overture, according to Al Jazeera and the Washington Post. South Korea's presidential office condemned the launch and kept its military on alert during joint exercises with the United States.",
+      "es": "Corea del Norte lanzó una decena de misiles balísticos de corto alcance el 20 de agosto desde la región de Pionyang hacia el mar del Este, horas después de rechazar una propuesta diplomática estadounidense, según Al Jazeera y The Washington Post. La presidencia surcoreana condenó el lanzamiento y mantuvo a su ejército en alerta durante ejercicios conjuntos con Estados Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20-21/08/2026",
+          "en": "08/20-21/2026",
+          "es": "20-21/08/2026"
+        },
+        "d": {
+          "fr": "Environ dix missiles sont tirés ; Séoul, Washington et Tokyo tiennent des consultations conjointes le 21 août, selon le Korea Times.",
+          "en": "About ten missiles are launched; Seoul, Washington and Tokyo hold joint consultations on August 21, according to the Korea Times.",
+          "es": "Se lanzan unos diez misiles; Seúl, Washington y Tokio celebran consultas conjuntas el 21 de agosto, según Korea Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      116.27,
+      -8.85
+    ],
+    "id": "lombok-village-sade-incendie",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Antara News / The Jakarta Post / Jakarta Globe",
+    "place": {
+      "fr": "Village de Sade, Rembitan, district de Pujut, Lombok central, Indonésie",
+      "en": "Sade village, Rembitan, Pujut district, Central Lombok, Indonesia",
+      "es": "Aldea de Sade, Rembitan, distrito de Pujut, Lombok central, Indonesia"
+    },
+    "title": {
+      "fr": "Un incendie détruit le village culturel historique de Sade, à Lombok",
+      "en": "Fire destroys historic Sade cultural village on Lombok",
+      "es": "Un incendio destruye el histórico pueblo cultural de Sade, en Lombok"
+    },
+    "summary": {
+      "fr": "Un important incendie s'est déclaré vers 22 heures le 22 août dans le village traditionnel séculaire de Sade, un haut lieu touristique du peuple sasak à Lombok, selon Antara News et le Jakarta Post. Environ 167 structures ont brûlé, dont une soixantaine de maisons en chaume, laissant environ 320 personnes sans abri ; le gouverneur de Nusa Tenggara occidental a confirmé l'absence de victimes et évoque un possible court-circuit.",
+      "en": "A large fire broke out around 10 p.m. on August 22 in the centuries-old traditional village of Sade, a major tourist site of the Sasak people on Lombok, according to Antara News and the Jakarta Post. About 167 structures burned, including roughly 75 thatched houses, leaving about 320 people homeless; the governor of West Nusa Tenggara confirmed there were no fatalities and cited a possible electrical short circuit.",
+      "es": "Un gran incendio se declaró hacia las 22h del 22 de agosto en el centenario pueblo tradicional de Sade, un importante destino turístico del pueblo sasak en Lombok, según Antara News y The Jakarta Post. Alrededor de 167 estructuras ardieron, entre ellas unas 75 casas de techo de paja, dejando sin hogar a unas 320 personas; el gobernador de Nusa Tenggara Occidental confirmó que no hubo víctimas mortales y mencionó un posible cortocircuito."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026 — vers 22h",
+          "en": "22/08/2026 — around 10 p.m.",
+          "es": "22/08/2026 — alrededor de las 22h"
+        },
+        "d": {
+          "fr": "L'incendie détruit 167 structures et déplace environ 320 personnes ; l'armée indonésienne installe une cuisine de campagne, selon Antara News.",
+          "en": "The fire destroys 167 structures and displaces about 320 people; the Indonesian military sets up a field kitchen, according to Antara News.",
+          "es": "El incendio destruye 167 estructuras y desplaza a unas 320 personas; el ejército indonesio instala una cocina de campaña, según Antara News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      86.0937,
+      25.1706
+    ],
+    "id": "bihar-bousculade-temple",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛕",
+    "source": "The Washington Post / Al Jazeera / CTV News",
+    "place": {
+      "fr": "Lakhisarai (Bihar) et Tarapith (Bengale-Occidental), Inde",
+      "en": "Lakhisarai (Bihar) and Tarapith (West Bengal), India",
+      "es": "Lakhisarai (Bihar) y Tarapith (Bengala Occidental), India"
+    },
+    "title": {
+      "fr": "Une bousculade dans un temple et un incendie d'hôtel font au moins 15 morts en Inde",
+      "en": "Temple stampede and hotel fire kill at least 15 in India",
+      "es": "Una estampida en un templo y un incendio en un hotel matan al menos a 15 personas en India"
+    },
+    "summary": {
+      "fr": "Le 17 août, en pleine période sacrée hindoue du Shravan, une bousculade a éclaté au temple d'Ashok Dham, dans le district de Lakhisarai (Bihar), après la rumeur de la chute d'un poteau électrique sur la foule ; sept pèlerins sont morts et 19 ont été blessés, selon l'Associated Press. Le même jour, un incendie dans un hôtel de Tarapith, au Bengale-Occidental, a fait huit morts ; la cause n'a pas été déterminée.",
+      "en": "On August 17, during the sacred Hindu month of Shravan, a stampede broke out at the Ashok Dham temple in Lakhisarai district (Bihar) after rumors spread that an electric pole had fallen on the crowd; seven pilgrims died and 19 were injured, according to the Associated Press. The same day, a fire at a hotel in Tarapith, West Bengal, killed eight people; the cause has not been determined.",
+      "es": "El 17 de agosto, durante el mes sagrado hindú de Shravan, se produjo una estampida en el templo de Ashok Dham, en el distrito de Lakhisarai (Bihar), tras el rumor de que un poste eléctrico había caído sobre la multitud; siete peregrinos murieron y 19 resultaron heridos, según Associated Press. Ese mismo día, un incendio en un hotel de Tarapith, en Bengala Occidental, dejó ocho muertos; no se ha determinado la causa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Sept morts dans la bousculade du temple d'Ashok Dham et huit morts dans l'incendie de l'hôtel de Tarapith, selon l'AP et Al Jazeera.",
+          "en": "Seven dead in the Ashok Dham temple stampede and eight dead in the Tarapith hotel fire, according to AP and Al Jazeera.",
+          "es": "Siete muertos en la estampida del templo de Ashok Dham y ocho muertos en el incendio del hotel de Tarapith, según AP y Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "id": "russie-retraits-bancaires",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Euronews / Fortune",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Les Russes retirent des milliards de leurs banques par crainte d'une saisie de l'épargne",
+      "en": "Russians pull billions from banks amid fears of a savings seizure",
+      "es": "Los rusos retiran miles de millones de sus bancos por temor a una confiscación del ahorro"
+    },
+    "summary": {
+      "fr": "Les Russes ont retiré environ 3,4 milliards de dollars de leurs banques durant la première quinzaine d'août, après 7,3 milliards en juillet, soit un septième mois consécutif de sorties nettes de dépôts, selon Euronews et Fortune, citant des données de la banque centrale russe. Les craintes portent sur un possible gel de l'épargne privée par le Kremlin pour financer la guerre ; cinq des sept plus grandes banques russes enregistrent des sorties nettes.",
+      "en": "Russians withdrew about $3.4 billion from banks in the first half of August, after $7.3 billion in July, marking a seventh consecutive month of net deposit outflows, according to Euronews and Fortune, citing Russian central bank data. The fears center on a possible freeze of private savings by the Kremlin to fund the war; five of Russia's seven largest banks are recording net outflows.",
+      "es": "Los rusos retiraron unos 3400 millones de dólares de los bancos en la primera quincena de agosto, tras 7300 millones en julio, lo que supone un séptimo mes consecutivo de salidas netas de depósitos, según Euronews y Fortune, citando datos del banco central ruso. Los temores giran en torno a una posible congelación del ahorro privado por parte del Kremlin para financiar la guerra; cinco de los siete mayores bancos rusos registran salidas netas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-23/08/2026",
+          "en": "08/19-23/2026",
+          "es": "19-23/08/2026"
+        },
+        "d": {
+          "fr": "Les données de la banque centrale montrent 286,4 milliards de roubles retirés en deux semaines ; Gazprombank est la plus touchée, selon Fortune.",
+          "en": "Central bank data show 286.4 billion rubles withdrawn in two weeks; Gazprombank is the hardest hit, according to Fortune.",
+          "es": "Los datos del banco central muestran 286.400 millones de rublos retirados en dos semanas; Gazprombank es el más afectado, según Fortune."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      37.2504,
+      49.2103
+    ],
+    "id": "izium-frappe",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "RBC-Ukraine / UNN",
+    "related": [
+      "storm-shadow-coalition-kyiv"
+    ],
+    "place": {
+      "fr": "Izioum, région de Kharkiv, Ukraine",
+      "en": "Izium, Kharkiv region, Ukraine",
+      "es": "Izium, región de Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe fait un mort et une adolescente blessée à Izioum",
+      "en": "Russian strike kills one, wounds teenage girl in Izium",
+      "es": "Un ataque ruso mata a una persona y hiere a una adolescente en Izium"
+    },
+    "summary": {
+      "fr": "Selon les autorités ukrainiennes, une frappe de roquettes russe Tornado-S a touché un secteur résidentiel d'Izioum vers 8h15 le 24 août, tuant un homme de 46 ans et blessant par éclats une fillette de 13 ans. Kiev a ouvert une enquête pour crime de guerre présumé ; les autorités russes n'ont pas commenté cette frappe précise dans les sources consultées. Une frappe distincte avait déjà touché la ville la veille.",
+      "en": "According to Ukrainian officials, a Russian Tornado-S rocket strike hit a residential area of Izium at around 8:15 a.m. on August 24, killing a 46-year-old man and wounding a 13-year-old girl with shrapnel. Kyiv opened an investigation into a suspected war crime; Russian authorities have not commented on this specific strike in the sources reviewed. A separate strike had already hit the town the day before.",
+      "es": "Según las autoridades ucranianas, un ataque con cohetes rusos Tornado-S alcanzó una zona residencial de Izium hacia las 8:15 del 24 de agosto, matando a un hombre de 46 años e hiriendo con metralla a una niña de 13 años. Kiev abrió una investigación por presunto crimen de guerra; las autoridades rusas no han comentado este ataque concreto en las fuentes consultadas. Un ataque distinto ya había alcanzado la ciudad el día anterior."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026 — 8h15",
+          "en": "24/08/2026 — 8:15 a.m.",
+          "es": "24/08/2026 — 8:15h"
+        },
+        "d": {
+          "fr": "La frappe au système Tornado-S fait un mort et une blessée ; une enquête pour crime de guerre est ouverte, selon UNN.",
+          "en": "The Tornado-S strike kills one and wounds another; a war-crime investigation is opened, according to UNN.",
+          "es": "El ataque con el sistema Tornado-S mata a una persona e hiere a otra; se abre una investigación por crimen de guerra, según UNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "storm-shadow-coalition-kyiv",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "GOV.UK / Al Jazeera",
+    "related": [
+      "izium-frappe"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni annonce le partage de la technologie des missiles Storm Shadow avec l'Ukraine",
+      "en": "UK announces it will share Storm Shadow missile technology with Ukraine",
+      "es": "El Reino Unido anuncia que compartirá la tecnología de los misiles Storm Shadow con Ucrania"
+    },
+    "summary": {
+      "fr": "Lors d'une réunion de la « Coalition des volontaires » à Kyiv le 24 août, pour le 35e anniversaire de l'indépendance ukrainienne, le premier ministre britannique Andy Burnham a annoncé le partage avec l'Ukraine de la technologie de production des missiles de croisière Storm Shadow, selon un communiqué officiel du gouvernement britannique. Les dirigeants présents ont dénoncé l'intensification des frappes russes sur les villes ukrainiennes.",
+      "en": "At a Coalition of the Willing meeting in Kyiv on August 24, marking the 35th anniversary of Ukrainian independence, UK Prime Minister Andy Burnham announced Britain would share Storm Shadow cruise-missile production technology with Ukraine, according to an official UK government statement. Leaders present condemned intensified Russian strikes on Ukrainian cities.",
+      "es": "En una reunión de la «Coalición de los Dispuestos» en Kiev el 24 de agosto, con motivo del 35.º aniversario de la independencia ucraniana, el primer ministro británico Andy Burnham anunció que Gran Bretaña compartiría con Ucrania la tecnología de producción de los misiles de crucero Storm Shadow, según un comunicado oficial del gobierno británico. Los líderes presentes condenaron la intensificación de los ataques rusos contra ciudades ucranianas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Le Royaume-Uni annonce le transfert de technologie Storm Shadow lors du sommet de Kyiv, selon GOV.UK.",
+          "en": "The UK announces the Storm Shadow technology transfer at the Kyiv summit, according to GOV.UK.",
+          "es": "El Reino Unido anuncia la transferencia de tecnología Storm Shadow en la cumbre de Kiev, según GOV.UK."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1276,
+      51.5072
+    ],
+    "id": "royaume-uni-inflation",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Office for National Statistics",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "L'inflation britannique atteint un pic de quatre mois sous l'effet des factures d'énergie",
+      "en": "UK inflation hits four-month high on energy bills",
+      "es": "La inflación británica alcanza un máximo de cuatro meses por las facturas de energía"
+    },
+    "summary": {
+      "fr": "L'Office for National Statistics a annoncé le 19 août que l'inflation britannique (IPC) est passée à 2,9 % sur douze mois en juillet, contre 2,6 % en juin, portée par une hausse de 13 % du plafond des prix de l'énergie fixé par Ofgem. La Banque d'Angleterre prévoit un pic proche de 3,2 % au quatrième trimestre 2026.",
+      "en": "The Office for National Statistics announced on August 19 that UK annual CPI inflation rose to 2.9% in July, up from 2.6% in June, driven by a 13% increase in Ofgem's energy price cap. The Bank of England projects inflation could peak near 3.2% in the fourth quarter of 2026.",
+      "es": "La Oficina de Estadísticas Nacionales (ONS) anunció el 19 de agosto que la inflación interanual del IPC en el Reino Unido subió al 2,9 % en julio, frente al 2,6 % de junio, impulsada por un aumento del 13 % en el límite de precios de la energía fijado por Ofgem. El Banco de Inglaterra prevé un máximo cercano al 3,2 % en el cuarto trimestre de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/08/2026",
+          "en": "19/08/2026",
+          "es": "19/08/2026"
+        },
+        "d": {
+          "fr": "L'ONS publie les chiffres de juillet : IPC à 2,9 %, IPCL à 3,1 %, selon les statistiques officielles.",
+          "en": "The ONS publishes July figures: CPI at 2.9%, CPIH at 3.1%, according to official statistics.",
+          "es": "La ONS publica las cifras de julio: IPC en 2,9 %, IPCH en 3,1 %, según estadísticas oficiales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      8.2398,
+      50.0782
+    ],
+    "id": "allemagne-pib-t2",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Destatis / Bloomberg",
+    "place": {
+      "fr": "Wiesbaden, Allemagne",
+      "en": "Wiesbaden, Germany",
+      "es": "Wiesbaden, Alemania"
+    },
+    "title": {
+      "fr": "L'économie allemande a crû plus vite que prévu au deuxième trimestre",
+      "en": "German economy grew faster than expected in the second quarter",
+      "es": "La economía alemana creció más rápido de lo previsto en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "L'office fédéral de statistique Destatis a révisé à la hausse la croissance du PIB allemand au deuxième trimestre 2026, à 0,3 % par rapport au trimestre précédent contre une première estimation de 0,2 %, portée principalement par les exportations nettes. Une enquête PMI distincte publiée le 25 août montre une activité en légère expansion en août, la reprise manufacturière compensant un ralentissement des services.",
+      "en": "Federal statistics office Destatis revised German GDP growth for the second quarter of 2026 upward to 0.3% quarter-on-quarter, from an initial estimate of 0.2%, driven mainly by net exports. A separate PMI survey released on August 25 showed activity expanding modestly in August, with a manufacturing recovery offsetting a services slowdown.",
+      "es": "La oficina federal de estadística Destatis revisó al alza el crecimiento del PIB alemán del segundo trimestre de 2026, hasta el 0,3 % intertrimestral frente a una primera estimación del 0,2 %, impulsado principalmente por las exportaciones netas. Una encuesta PMI aparte, publicada el 25 de agosto, mostró una actividad en ligera expansión en agosto, con la recuperación manufacturera compensando una ralentización de los servicios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Destatis publie la révision du PIB du deuxième trimestre à 0,3 %, selon Bloomberg.",
+          "en": "Destatis publishes the second-quarter GDP revision to 0.3%, according to Bloomberg.",
+          "es": "Destatis publica la revisión del PIB del segundo trimestre al 0,3 %, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "id": "france-pmi-aout",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "S&P Global PMI",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "L'activité du secteur privé français se contracte pour un huitième mois consécutif",
+      "en": "French private-sector activity contracts for an eighth straight month",
+      "es": "La actividad del sector privado francés se contrae por octavo mes consecutivo"
+    },
+    "summary": {
+      "fr": "L'indice PMI composite flash de S&P Global pour la France est retombé à 48,8 en août 2026, contre 49,4 en juillet, restant sous le seuil de croissance de 50 points pour un huitième mois d'affilée. Le repli est concentré dans les services, plusieurs entreprises citant la chaleur estivale extrême comme un frein à l'activité, tandis que la production manufacturière a progressé pour la première fois depuis avril.",
+      "en": "S&P Global's flash composite PMI for France fell to 48.8 in August 2026, from 49.4 in July, staying below the 50-point growth threshold for an eighth consecutive month. The downturn was concentrated in services, with several firms citing extreme summer heat as a drag on business, while manufacturing output rose for the first time since April.",
+      "es": "El PMI compuesto flash de S&P Global para Francia cayó a 48,8 en agosto de 2026, desde 49,4 en julio, permaneciendo por debajo del umbral de crecimiento de 50 puntos por octavo mes consecutivo. La caída se concentró en los servicios, con varias empresas citando el calor estival extremo como un lastre para la actividad, mientras que la producción manufacturera aumentó por primera vez desde abril."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "S&P Global publie l'indice PMI flash d'août à 48,8, sous le seuil de croissance.",
+          "en": "S&P Global publishes the August flash PMI at 48.8, below the growth threshold.",
+          "es": "S&P Global publica el PMI flash de agosto en 48,8, por debajo del umbral de crecimiento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.2593,
+      45.808
+    ],
+    "id": "lombardie-intemperies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Il Sole 24 Ore / Euronews",
+    "place": {
+      "fr": "Lombardie (provinces de Bergame, Brescia, Sondrio, Côme et Lecco), Italie",
+      "en": "Lombardy (Bergamo, Brescia, Sondrio, Como and Lecco provinces), Italy",
+      "es": "Lombardía (provincias de Bérgamo, Brescia, Sondrio, Como y Lecco), Italia"
+    },
+    "title": {
+      "fr": "La Lombardie demande l'état d'urgence après de violents orages",
+      "en": "Lombardy requests state of emergency after severe storms",
+      "es": "Lombardía solicita el estado de emergencia tras violentas tormentas"
+    },
+    "summary": {
+      "fr": "Après des orages survenus vers le 21 août dans le nord de l'Italie, le gouvernement régional de Lombardie a demandé à Rome de déclarer l'état d'urgence, à la suite de glissements de terrain, de coulées de boue et d'inondations. Environ 400 personnes ont été évacuées, jusqu'à 250 mm de pluie sont tombés dans les Préalpes orobiques près du lac de Côme, et les pompiers ont recensé plus de 1000 interventions en 24 heures dans plusieurs régions du nord.",
+      "en": "After storms hit northern Italy around August 21, Lombardy's regional government asked Rome to declare a state of emergency following landslides, mudslides and flooding. About 400 people were evacuated, up to 250mm of rain fell in the Orobic Prealps near Lake Como, and fire brigades logged more than 1,000 call-outs in 24 hours across several northern regions.",
+      "es": "Tras las tormentas que azotaron el norte de Italia hacia el 21 de agosto, el gobierno regional de Lombardía pidió a Roma declarar el estado de emergencia después de deslizamientos de tierra, coladas de barro e inundaciones. Unas 400 personas fueron evacuadas, cayeron hasta 250 mm de lluvia en los Prealpes Orobios cerca del lago de Como, y los bomberos registraron más de 1000 intervenciones en 24 horas en varias regiones del norte."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "La Lombardie demande l'état d'urgence après des inondations et glissements de terrain ; environ 400 personnes évacuées, selon Il Sole 24 Ore.",
+          "en": "Lombardy requests a state of emergency after flooding and landslides; about 400 people evacuated, according to Il Sole 24 Ore.",
+          "es": "Lombardía solicita el estado de emergencia tras inundaciones y deslizamientos; unas 400 personas evacuadas, según Il Sole 24 Ore."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -4.885,
+      36.5099
+    ],
+    "id": "marbella-fusillade",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "El Español / Libertad Digital",
+    "place": {
+      "fr": "Marbella, province de Malaga, Espagne",
+      "en": "Marbella, Málaga province, Spain",
+      "es": "Marbella, provincia de Málaga, España"
+    },
+    "title": {
+      "fr": "Un homme tué par balles dans une rue de Marbella",
+      "en": "Man shot dead in Marbella street attack",
+      "es": "Un hombre muere por disparos en una calle de Marbella"
+    },
+    "summary": {
+      "fr": "Un homme de 33 ans, d'origine sénégalaise, a été retrouvé mort de deux blessures par balle à l'abdomen dans une rue de Marbella vers 2h15 le 24 août, après que des passants ont alerté les secours, selon El Español. La police nationale espagnole enquête ; les autorités précisent qu'aucun lien avec le crime organisé n'est établi à ce stade, toutes les pistes restant ouvertes.",
+      "en": "A 33-year-old man of Senegalese origin was found dead with two gunshot wounds to the abdomen on a Marbella street at around 2:15 a.m. on August 24, after passers-by alerted emergency services, according to El Español. Spain's National Police is investigating; officials say no link to organized crime has been established at this stage, with all lines of inquiry remaining open.",
+      "es": "Un hombre de 33 años, de origen senegalés, fue hallado muerto con dos heridas de bala en el abdomen en una calle de Marbella hacia las 2:15h del 24 de agosto, después de que transeúntes alertaran a los servicios de emergencia, según El Español. La Policía Nacional investiga; las autoridades señalan que no se ha establecido vínculo con el crimen organizado por el momento, y todas las líneas de investigación permanecen abiertas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026 — 2h15",
+          "en": "24/08/2026 — 2:15 a.m.",
+          "es": "24/08/2026 — 2:15h"
+        },
+        "d": {
+          "fr": "La victime est retrouvée morte par balles ; un véhicule aurait pris la fuite selon des témoins, selon Libertad Digital.",
+          "en": "The victim is found shot dead; a vehicle reportedly fled the scene according to witnesses, per Libertad Digital.",
+          "es": "La víctima es hallada muerta por disparos; un vehículo habría huido según testigos, según Libertad Digital."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      4.5167,
+      9.8833
+    ],
+    "id": "niger-etat-mosquee-enlevement",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕌",
+    "source": "Reuters (via ABC News) / Al Jazeera",
+    "place": {
+      "fr": "Mosquée de Kpenya, district de Dekara, zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Kpenya mosque, Dekara district, Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Mezquita de Kpenya, distrito de Dekara, área de gobierno local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent des dizaines de fidèles dans une mosquée de l'État du Niger",
+      "en": "Gunmen abduct dozens of worshippers from mosque in Niger State",
+      "es": "Hombres armados secuestran a decenas de fieles en una mezquita del estado de Níger"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué la mosquée de Kpenya et plusieurs villages voisins de la zone de Borgu pendant la prière du vendredi 21 août, selon des habitants cités par Reuters. Plus de 60 fidèles auraient été enlevés, un chiffre que le gouvernement de l'État du Niger n'a pas pu confirmer quatre jours plus tard ; certains relais évoquant une vidéo de captifs avancent un nombre bien plus élevé, non vérifié.",
+      "en": "Armed men attacked the Kpenya mosque and several nearby villages in the Borgu area during Friday prayers on August 21, according to residents cited by Reuters. More than 60 worshippers were reportedly abducted, a figure the Niger State government could not confirm four days later; some reports citing a video of captives suggest a much higher, unverified number.",
+      "es": "Hombres armados atacaron la mezquita de Kpenya y varias aldeas cercanas en la zona de Borgu durante la oración del viernes 21 de agosto, según residentes citados por Reuters. Más de 60 fieles habrían sido secuestrados, cifra que el gobierno del estado de Níger no pudo confirmar cuatro días después; algunos informes que citan un video de los cautivos sugieren una cifra mucho mayor, sin verificar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "L'attaque a lieu pendant la prière du vendredi ; un dispositif de sécurité conjoint est déployé pour les recherches, selon Al Jazeera.",
+          "en": "The attack takes place during Friday prayers; a joint security detachment is deployed for the search, according to Al Jazeera.",
+          "es": "El ataque ocurre durante la oración del viernes; se despliega un dispositivo de seguridad conjunto para la búsqueda, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "id": "egypte-taux-directeurs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Reuters / Bloomberg",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "La banque centrale égyptienne maintient ses taux pour la quatrième réunion consécutive",
+      "en": "Egypt's central bank holds interest rates for a fourth straight meeting",
+      "es": "El banco central de Egipto mantiene sus tipos por cuarta reunión consecutiva"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque centrale d'Égypte a maintenu le 20 août son taux de dépôt à 19 % et son taux de prêt à 20 %, un quatrième statu quo d'affilée, selon Reuters. L'inflation annuelle a accéléré à 14,9 % en juillet, contre 14,3 % en juin, en partie sous l'effet de hausses administrées des tarifs de l'électricité, la banque évoquant aussi l'incertitude liée aux tensions régionales autour du conflit iranien.",
+      "en": "The Central Bank of Egypt's Monetary Policy Committee kept its overnight deposit rate at 19% and lending rate at 20% on August 20, a fourth consecutive hold, according to Reuters. Annual inflation accelerated to 14.9% in July, from 14.3% in June, partly due to administered electricity price increases, with policymakers also citing uncertainty from regional tensions tied to the Iran conflict.",
+      "es": "El Comité de Política Monetaria del Banco Central de Egipto mantuvo el 20 de agosto su tasa de depósito en el 19 % y la de préstamo en el 20 %, cuarta vez consecutiva sin cambios, según Reuters. La inflación interanual se aceleró al 14,9 % en julio, desde el 14,3 % en junio, en parte por aumentos administrados en las tarifas eléctricas, mientras los responsables también citaron la incertidumbre por las tensiones regionales ligadas al conflicto de Irán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "La banque centrale annonce le statu quo sur ses taux directeurs, selon Reuters.",
+          "en": "The central bank announces it is holding its key interest rates, according to Reuters.",
+          "es": "El banco central anuncia que mantiene sus tipos de interés clave, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      51.6746,
+      32.6546
+    ],
+    "id": "iran-isfahan-execution",
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Iran International / IranWire / France 24",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Prison centrale d'Ispahan, Iran",
+      "en": "Isfahan central prison, Iran",
+      "es": "Prisión central de Isfahán, Irán"
+    },
+    "title": {
+      "fr": "L'Iran exécute un cinquième condamné dans le dossier des manifestations de janvier à Ispahan",
+      "en": "Iran executes fifth defendant in Isfahan January-protest case",
+      "es": "Irán ejecuta a un quinto condenado en el caso de las protestas de enero en Isfahán"
+    },
+    "summary": {
+      "fr": "Les autorités iraniennes ont pendu le 20 août Ghaem Hosseini, un ressortissant afghan de 21 ans, après confirmation de sa condamnation à mort par la Cour suprême pour des accusations liées aux manifestations du 8 janvier 2026 place Alikhani, à Ispahan, selon Iran International et IranWire. Il s'agit du cinquième des douze condamnés à mort dans ce dossier à être exécuté, après quatre exécutions en juillet ; des experts de l'ONU ont exprimé des inquiétudes sur l'équité des procès.",
+      "en": "Iranian authorities hanged Ghaem Hosseini, a 21-year-old Afghan national, on August 20, after the Supreme Court upheld his death sentence on charges tied to the January 8, 2026 protests in Isfahan's Alikhani Square, according to Iran International and IranWire. He is the fifth of twelve people sentenced to death in this case to be executed, following four executions in July; UN experts have raised concerns about the fairness of the trials.",
+      "es": "Las autoridades iraníes ahorcaron el 20 de agosto a Ghaem Hosseini, un ciudadano afgano de 21 años, después de que la Corte Suprema confirmara su condena a muerte por cargos relacionados con las protestas del 8 de enero de 2026 en la plaza Alikhani de Isfahán, según Iran International e IranWire. Es el quinto de doce condenados a muerte en este caso en ser ejecutado, tras cuatro ejecuciones en julio; expertos de la ONU han expresado preocupación por la imparcialidad de los juicios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "L'exécution de Ghaem Hosseini est confirmée par des ONG et médias iraniens en exil, selon IranWire.",
+          "en": "The execution of Ghaem Hosseini is confirmed by exiled Iranian NGOs and media, according to IranWire.",
+          "es": "La ejecución de Ghaem Hosseini es confirmada por ONG y medios iraníes en el exilio, según IranWire."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      144.975,
+      -37.8095
+    ],
+    "id": "sydney-swans-enquete",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "ABC News Australia / SBS News",
+    "place": {
+      "fr": "East Melbourne, Victoria, Australie",
+      "en": "East Melbourne, Victoria, Australia",
+      "es": "East Melbourne, Victoria, Australia"
+    },
+    "title": {
+      "fr": "La police enquête sur une allégation d'agression sexuelle liée à des joueurs des Sydney Swans",
+      "en": "Police investigate sexual assault allegation linked to Sydney Swans players",
+      "es": "La policía investiga una denuncia de agresión sexual vinculada a jugadores de los Sydney Swans"
+    },
+    "summary": {
+      "fr": "L'escouade des crimes sexuels de la police du Victoria enquête sur un signalement d'agression sexuelle survenu dans la chambre d'hôtel d'un joueur des Sydney Swans, au Pullman Hotel d'East Melbourne, dans la nuit du 17 août après la victoire du club en AFL, selon ABC News Australia. Cinq joueurs ont été suspendus par le club pour le reste de la saison 2026 pour manquement aux règles de conduite ; aucun n'a été accusé de l'agression elle-même et aucune arrestation n'a eu lieu à ce stade.",
+      "en": "Victoria Police's Sexual Crimes Squad is investigating a report of sexual assault in a Sydney Swans player's hotel room at the Pullman Hotel in East Melbourne, in the early hours of August 17 following the club's AFL win, according to ABC News Australia. Five players were stood down by the club for the rest of the 2026 season over breaches of behavioral standards; none has been accused of the assault itself, and no arrests have been made so far.",
+      "es": "El Escuadrón de Delitos Sexuales de la policía de Victoria investiga una denuncia de agresión sexual ocurrida en la habitación de hotel de un jugador de los Sydney Swans, en el Pullman Hotel de East Melbourne, en la madrugada del 17 de agosto tras la victoria del club en la AFL, según ABC News Australia. Cinco jugadores fueron apartados por el club para el resto de la temporada 2026 por incumplir normas de conducta; ninguno ha sido acusado de la agresión en sí, y no se han producido detenciones hasta el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-19/08/2026",
+          "en": "08/17-19/2026",
+          "es": "17-19/08/2026"
+        },
+        "d": {
+          "fr": "Le club suspend cinq joueurs pour le reste de la saison pendant que l'enquête policière se poursuit, selon ABC News.",
+          "en": "The club suspends five players for the rest of the season while the police investigation continues, according to ABC News.",
+          "es": "El club suspende a cinco jugadores para el resto de la temporada mientras continúa la investigación policial, según ABC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
     "priority": 1
   }
 ]
