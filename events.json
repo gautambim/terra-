@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W35",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Un pétrolier est endommagé par une attaque non revendiquée près du détroit d'Ormuz, au large d'Oman, alors qu'une médiation pakistanaise se poursuit à Téhéran ; l'équipage est indemne.",
+          "en": "A tanker is disabled by an unclaimed attack near the Strait of Hormuz, off Oman, as Pakistani-led mediation continues in Tehran; the crew is unharmed.",
+          "es": "Un petrolero queda dañado por un ataque no reivindicado cerca del estrecho de Ormuz, frente a la costa de Omán, mientras continúa una mediación pakistaní en Teherán; la tripulación resulta ilesa."
         },
         "active": true
       }
@@ -827,6 +840,968 @@
         "active": true
       }
     ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -94.5786,
+      39.0997
+    ],
+    "id": "kansascity-fusillade",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "KCTV5 / Fox4KC",
+    "place": {
+      "fr": "Kansas City (Missouri), États-Unis",
+      "en": "Kansas City, Missouri, United States",
+      "es": "Kansas City (Misuri), Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade dans un complexe résidentiel de Kansas City fait deux morts",
+      "en": "Shooting at Kansas City apartment complex leaves two dead",
+      "es": "Un tiroteo en un complejo residencial de Kansas City deja dos muertos"
+    },
+    "summary": {
+      "fr": "Deux hommes ont été tués et un troisième blessé dimanche lors d'une fusillade sur le parking d'un complexe résidentiel de Kansas City, dans le Missouri, selon la police locale citée par plusieurs médias. Les enquêteurs évoquent une altercation entre les victimes et un ou plusieurs suspects avant les coups de feu ; aucune arrestation n'a été annoncée à ce stade.",
+      "en": "Two men were killed and a third wounded on Sunday in a shooting in the parking lot of an apartment complex in Kansas City, Missouri, according to local police cited by multiple outlets. Investigators say the victims had an altercation with one or more suspects before the shooting; no arrests have been announced so far.",
+      "es": "Dos hombres murieron y un tercero resultó herido el domingo en un tiroteo en el estacionamiento de un complejo residencial de Kansas City, Misuri, según la policía local citada por varios medios. Los investigadores señalan que las víctimas tuvieron un altercado con uno o varios sospechosos antes de los disparos; hasta el momento no se ha anunciado ninguna detención."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026, vers 12h45",
+          "en": "23/08/2026, around 12:45 PM",
+          "es": "23/08/2026, alrededor de las 12:45"
+        },
+        "d": {
+          "fr": "La police de Kansas City confirme deux morts et un blessé après une fusillade dans un complexe résidentiel.",
+          "en": "Kansas City police confirm two deaths and one injury after a shooting at an apartment complex.",
+          "es": "La policía de Kansas City confirma dos muertos y un herido tras un tiroteo en un complejo residencial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "id": "canada-tarifs-representailles",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛃",
+    "source": "Bloomberg / CBC News / Washington Post",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada annonce des droits de douane de rétorsion pouvant atteindre 50 % sur des produits américains",
+      "en": "Canada announces retaliatory tariffs of up to 50% on US goods",
+      "es": "Canadá anuncia aranceles de represalia de hasta el 50 % sobre productos estadounidenses"
+    },
+    "summary": {
+      "fr": "Le premier ministre Mark Carney a annoncé des droits de douane de rétorsion pouvant atteindre 50 % sur des centaines de produits américains — acier, aluminium, produits laitiers, meubles, vêtements — après l'échec des négociations commerciales avec Washington et l'entrée en vigueur de nouveaux tarifs américains de 50 % sur environ 20 milliards de dollars de marchandises canadiennes. Les mesures canadiennes doivent entrer en vigueur début septembre.",
+      "en": "Prime Minister Mark Carney announced retaliatory tariffs of up to 50% on hundreds of American goods — steel, aluminum, dairy, furniture, apparel — after trade talks with Washington collapsed and new 50% US tariffs took effect on roughly $20 billion of Canadian goods. Canada's measures are set to take effect in early September.",
+      "es": "El primer ministro Mark Carney anunció aranceles de represalia de hasta el 50 % sobre cientos de productos estadounidenses —acero, aluminio, lácteos, muebles, ropa— tras el fracaso de las negociaciones comerciales con Washington y la entrada en vigor de nuevos aranceles estadounidenses del 50 % sobre unos 20 000 millones de dólares en mercancías canadienses. Las medidas canadienses entrarán en vigor a principios de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Mark Carney annonce des tarifs de rétorsion allant jusqu'à 50 % sur des produits américains, ainsi que des aides aux entreprises touchées.",
+          "en": "Mark Carney announces retaliatory tariffs of up to 50% on American goods, along with support programs for affected businesses.",
+          "es": "Mark Carney anuncia aranceles de represalia de hasta el 50 % sobre productos estadounidenses, junto con programas de apoyo para las empresas afectadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -43.3,
+      -22.837
+    ],
+    "id": "rio-operation-complexo-israel",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Correio da Manhã / ICL Notícias",
+    "place": {
+      "fr": "Complexo de Israel, zone nord de Rio de Janeiro, Brésil",
+      "en": "Complexo de Israel, northern Rio de Janeiro, Brazil",
+      "es": "Complexo de Israel, zona norte de Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Une vaste opération policière contre un gang de Rio bloque des axes majeurs",
+      "en": "Large police operation against a Rio gang shuts down major roads",
+      "es": "Un amplio operativo policial contra una banda de Río bloquea vías principales"
+    },
+    "summary": {
+      "fr": "Environ 200 policiers, dont l'unité d'élite BOPE, ont mené lundi une opération contre la faction Terceiro Comando Puro dans le Complexo de Israel, au nord de Rio de Janeiro. Des échanges de tirs et des incendies de véhicules ont conduit à la fermeture de l'avenida Brasil, de la Linha Vermelha et de l'autoroute BR-040 ; quatre hommes ont été arrêtés et des armes saisies. Un bilan humain précis de l'opération n'a pas pu être confirmé de façon indépendante.",
+      "en": "About 200 police officers, including the elite BOPE unit, carried out an operation Monday against the Terceiro Comando Puro faction in the Complexo de Israel, in northern Rio de Janeiro. Gunfire exchanges and burning vehicles forced the closure of Avenida Brasil, the Linha Vermelha and the BR-040 highway; four men were arrested and weapons seized. A precise human toll from the operation could not be independently confirmed.",
+      "es": "Unos 200 policías, entre ellos la unidad de élite BOPE, llevaron a cabo el lunes un operativo contra la facción Terceiro Comando Puro en el Complexo de Israel, en el norte de Río de Janeiro. Intercambios de disparos e incendios de vehículos obligaron a cerrar la avenida Brasil, la Linha Vermelha y la autopista BR-040; cuatro hombres fueron detenidos y se incautaron armas. No fue posible confirmar de forma independiente un balance humano preciso del operativo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "La police militaire lance la deuxième phase de son opération contre le TCP, fermant plusieurs axes routiers de Rio.",
+          "en": "Military police launch the second phase of their operation against the TCP, closing several major roads in Rio.",
+          "es": "La policía militar lanza la segunda fase de su operativo contra el TCP, cerrando varias vías principales de Río."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      51.8253,
+      55.6372
+    ],
+    "id": "nizhnekamsk-frappe-drone",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "PBS / Al Jazeera / NPR",
+    "place": {
+      "fr": "Nijnekamsk, République du Tatarstan, Russie",
+      "en": "Nizhnekamsk, Tatarstan Republic, Russia",
+      "es": "Nizhnekamsk, República de Tatarstán, Rusia"
+    },
+    "title": {
+      "fr": "Une frappe de drones ukrainiens sur une raffinerie russe fait 13 morts",
+      "en": "Ukrainian drone strike on Russian refinery kills 13",
+      "es": "Un ataque con drones ucranianos contra una refinería rusa deja 13 muertos"
+    },
+    "summary": {
+      "fr": "Une attaque de drones ukrainiens a visé la raffinerie Taneco de Nijnekamsk, au Tatarstan, à environ 1200 km de la frontière ukrainienne, selon les autorités régionales russes. Le bilan s'élève à 13 morts et 78 blessés, dont neuf personnes tuées dans un foyer pour travailleurs touché par un drone. L'état-major ukrainien a confirmé avoir visé la raffinerie dans le cadre de sa campagne contre les infrastructures pétrolières russes.",
+      "en": "A Ukrainian drone attack targeted the Taneco refinery in Nizhnekamsk, Tatarstan, some 1,200 km from the Ukrainian border, according to Russian regional authorities. The toll stands at 13 dead and 78 wounded, including nine people killed at a workers' hostel hit by a drone. Ukraine's General Staff confirmed it had targeted the refinery as part of its campaign against Russian oil infrastructure.",
+      "es": "Un ataque con drones ucranianos alcanzó la refinería Taneco de Nizhnekamsk, en Tatarstán, a unos 1200 km de la frontera con Ucrania, según las autoridades regionales rusas. El balance es de 13 muertos y 78 heridos, entre ellos nueve personas fallecidas en un albergue de trabajadores alcanzado por un dron. El Estado Mayor ucraniano confirmó haber atacado la refinería como parte de su campaña contra la infraestructura petrolera rusa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "10/08/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités du Tatarstan font état de 13 morts après une frappe de drones sur la raffinerie Taneco.",
+          "en": "Tatarstan authorities report 13 dead after a drone strike on the Taneco refinery.",
+          "es": "Las autoridades de Tatarstán informan de 13 muertos tras un ataque con drones contra la refinería Taneco."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [
+      "kryvyirih-frappe-centre-commercial"
+    ],
+    "priority": 1
+  },
+  {
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "id": "munich-attentat-voiture-verdict",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Post / ABC News",
+    "place": {
+      "fr": "Munich, Allemagne",
+      "en": "Munich, Germany",
+      "es": "Múnich, Alemania"
+    },
+    "title": {
+      "fr": "Perpétuité pour l'auteur de l'attaque à la voiture-bélier de Munich",
+      "en": "Life sentence for perpetrator of Munich car-ramming attack",
+      "es": "Cadena perpetua para el autor del atropello masivo de Múnich"
+    },
+    "summary": {
+      "fr": "Un tribunal de Munich a condamné à la réclusion à perpétuité un Afghan de 25 ans reconnu coupable d'avoir foncé avec sa voiture sur un rassemblement syndical en février 2025, tuant une femme de 37 ans et sa fille de 2 ans et blessant plus de 40 personnes. Le tribunal a retenu une gravité de culpabilité particulière, ce qui rend une libération anticipée après quinze ans peu probable.",
+      "en": "A Munich court sentenced a 25-year-old Afghan national to life in prison after finding him guilty of driving into a union rally in February 2025, killing a 37-year-old woman and her 2-year-old daughter and injuring more than 40 people. The court found particularly severe guilt, making early release after fifteen years unlikely.",
+      "es": "Un tribunal de Múnich condenó a cadena perpetua a un afgano de 25 años declarado culpable de embestir con su vehículo una concentración sindical en febrero de 2025, matando a una mujer de 37 años y a su hija de 2 y dejando más de 40 heridos. El tribunal determinó una gravedad de culpa especialmente elevada, lo que hace improbable una liberación anticipada tras quince años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/08/2026",
+          "en": "06/08/2026",
+          "es": "06/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Munich prononce la réclusion à perpétuité contre l'auteur de l'attaque.",
+          "en": "The Munich court hands down a life sentence against the perpetrator of the attack.",
+          "es": "El tribunal de Múnich dicta cadena perpetua contra el autor del ataque."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "id": "france-deficit-budget-2027",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "La France risque un dérapage budgétaire faute d'accord avant la présidentielle",
+      "en": "France risks a budget blowout without a deal before the presidential election",
+      "es": "Francia corre el riesgo de un descontrol presupuestario sin acuerdo antes de las presidenciales"
+    },
+    "summary": {
+      "fr": "La Cour des comptes a averti que le déficit public français pourrait s'aggraver d'au moins 0,5 point de PIB si la fragmentation politique empêche l'adoption d'un budget 2027 avant l'élection présidentielle. Le déficit est prévu à 5,1 % du PIB en 2026 et pourrait atteindre 5,7 % en 2027, dans un contexte que plusieurs observateurs jugent particulièrement risqué pour le président Macron.",
+      "en": "France's state auditor warned the public deficit could worsen by at least 0.5 points of GDP if political fragmentation prevents passage of a 2027 budget before the presidential election. The deficit is forecast at 5.1% of GDP in 2026 and could reach 5.7% in 2027, in a standoff several observers describe as especially risky for President Macron.",
+      "es": "El Tribunal de Cuentas francés advirtió que el déficit público podría agravarse en al menos 0,5 puntos del PIB si la fragmentación política impide aprobar un presupuesto para 2027 antes de las elecciones presidenciales. El déficit se prevé en el 5,1 % del PIB en 2026 y podría alcanzar el 5,7 % en 2027, en un contexto que varios observadores consideran especialmente arriesgado para el presidente Macron."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "De nouvelles projections soulignent le risque d'un dérapage budgétaire en l'absence d'accord parlementaire.",
+          "en": "New projections highlight the risk of a budget blowout in the absence of a parliamentary deal.",
+          "es": "Nuevas proyecciones subrayan el riesgo de un descontrol presupuestario ante la falta de un acuerdo parlamentario."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "uk-burnham-kyiv-missiles",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Bloomberg / NPR / ITV News",
+    "place": {
+      "fr": "Kyiv, Ukraine (annonce faite lors d'une visite officielle britannique)",
+      "en": "Kyiv, Ukraine (announcement made during an official UK visit)",
+      "es": "Kiev, Ucrania (anuncio realizado durante una visita oficial británica)"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni va aider l'Ukraine à fabriquer des missiles longue portée",
+      "en": "UK to help Ukraine manufacture long-range missiles",
+      "es": "Reino Unido ayudará a Ucrania a fabricar misiles de largo alcance"
+    },
+    "summary": {
+      "fr": "En visite à Kyiv pour son premier déplacement international en tant que premier ministre, le Britannique Andy Burnham a annoncé que l'industriel européen MBDA partagerait des données techniques classifiées sur des composants britanniques du missile SCALP, permettant à l'Ukraine de l'assembler sur son propre sol. Il a indiqué vouloir également plaider auprès du président Trump pour l'obtention de systèmes antiaériens Patriot.",
+      "en": "On his first international trip as prime minister, the UK's Andy Burnham visited Kyiv and announced that European defense firm MBDA would share classified technical data on British components of the SCALP missile, allowing Ukraine to assemble it domestically. He said he would also press President Trump for Patriot air-defense systems.",
+      "es": "En su primer viaje internacional como primer ministro, el británico Andy Burnham visitó Kiev y anunció que la empresa europea de defensa MBDA compartirá datos técnicos clasificados sobre componentes británicos del misil SCALP, lo que permitirá a Ucrania ensamblarlo en su propio territorio. Dijo que también presionará al presidente Trump para obtener sistemas antiaéreos Patriot."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Andy Burnham annonce depuis Kyiv le partage de technologies de missiles avec l'Ukraine.",
+          "en": "Andy Burnham announces from Kyiv the sharing of missile technology with Ukraine.",
+          "es": "Andy Burnham anuncia desde Kiev el intercambio de tecnología de misiles con Ucrania."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      16.8719,
+      41.1171
+    ],
+    "id": "bari-missiles-akeron",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Euronews",
+    "place": {
+      "fr": "Bari, Italie",
+      "en": "Bari, Italy",
+      "es": "Bari, Italia"
+    },
+    "title": {
+      "fr": "Un chauffeur français interpellé à Bari avec des missiles antichars dans sa camionnette",
+      "en": "French driver detained in Bari with anti-tank missiles in his van",
+      "es": "Un conductor francés detenido en Bari con misiles antitanque en su furgoneta"
+    },
+    "summary": {
+      "fr": "Les autorités italiennes ont découvert trois missiles antichars Akeron, classés matériel de guerre, dans la camionnette d'un Français de 46 ans arrivé par ferry depuis la Grèce. Les conteneurs portaient des marquages de type OTAN partiellement dissimulés ; l'homme, qui affirme être sous-traitant pour une société française de transport militaire, a été placé en détention provisoire par la justice de Bari.",
+      "en": "Italian authorities discovered three Akeron anti-tank missiles, classified as war materiel, in the van of a 46-year-old Frenchman who had just arrived by ferry from Greece. The containers bore NATO-style markings that were partly concealed; the man, who claims to be a subcontractor for a French military transport firm, was placed in pre-trial detention by a Bari court.",
+      "es": "Las autoridades italianas descubrieron tres misiles antitanque Akeron, clasificados como material de guerra, en la furgoneta de un francés de 46 años que acababa de llegar en ferry desde Grecia. Los contenedores llevaban marcas de estilo OTAN parcialmente ocultas; el hombre, que afirma ser subcontratista de una empresa francesa de transporte militar, fue puesto en prisión preventiva por un tribunal de Bari."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "La justice italienne place le chauffeur en détention provisoire après la découverte des missiles.",
+          "en": "Italian justice places the driver in pre-trial detention after the missiles are discovered.",
+          "es": "La justicia italiana coloca al conductor en prisión preventiva tras el hallazgo de los misiles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.6773,
+      45.6983
+    ],
+    "id": "italie-lombardie-intemperies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌩️",
+    "source": "Euronews / Il Sole 24 Ore",
+    "place": {
+      "fr": "Province de Bergame, Lombardie, Italie",
+      "en": "Bergamo province, Lombardy, Italy",
+      "es": "Provincia de Bérgamo, Lombardía, Italia"
+    },
+    "title": {
+      "fr": "De violents orages provoquent glissements de terrain et évacuations en Lombardie",
+      "en": "Violent storms trigger landslides and evacuations in Lombardy",
+      "es": "Violentas tormentas provocan deslizamientos de tierra y evacuaciones en Lombardía"
+    },
+    "summary": {
+      "fr": "De violents orages accompagnés de vents et de pluies torrentielles (jusqu'à 250 mm près du lac de Côme) ont frappé la Ligurie, la Lombardie et la Toscane. À Sonico, une coulée de boue a emporté un pont sur la route du col du Tonale, isolant plusieurs communes et forçant l'évacuation d'environ 150 personnes ; le président de la région Lombardie a demandé l'état d'urgence.",
+      "en": "Violent storms with strong winds and torrential rain (up to 250mm near Lake Como) hit Liguria, Lombardy and Tuscany. In Sonico, a debris flow swept away a bridge on the road to the Tonale Pass, cutting off several towns and forcing the evacuation of about 150 people; Lombardy's regional president has requested a state of emergency.",
+      "es": "Violentas tormentas con fuertes vientos y lluvias torrenciales (hasta 250 mm cerca del lago de Como) golpearon Liguria, Lombardía y Toscana. En Sonico, un alud de barro arrastró un puente en la carretera hacia el paso de Tonale, aislando a varios municipios y obligando a evacuar a unas 150 personas; el presidente de la región de Lombardía ha solicitado el estado de emergencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Des coulées de boue coupent plusieurs communes de montagne en Lombardie, environ 150 personnes évacuées.",
+          "en": "Debris flows cut off several mountain towns in Lombardy, around 150 people evacuated.",
+          "es": "Los aludes de barro dejan aisladas a varias localidades de montaña en Lombardía, unas 150 personas evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      144.9631,
+      -37.8136
+    ],
+    "id": "melbourne-agression-couteau",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "ABC News Australia",
+    "place": {
+      "fr": "Melbourne, Australie",
+      "en": "Melbourne, Australia",
+      "es": "Melbourne, Australia"
+    },
+    "title": {
+      "fr": "Une femme et son fils de 10 ans agressés au couteau en plein centre de Melbourne",
+      "en": "Woman and her 10-year-old son attacked with scissors in central Melbourne",
+      "es": "Una mujer y su hijo de 10 años agredidos con tijeras en el centro de Melbourne"
+    },
+    "summary": {
+      "fr": "Une femme en visite à Melbourne et son fils de 10 ans ont été attaqués mardi après-midi en plein centre-ville : l'enfant a été frappé et sa mère blessée à plusieurs reprises avec une paire de ciseaux. Des passants ont maîtrisé l'agresseur jusqu'à l'arrivée de la police ; un homme de 27 ans a été arrêté et inculpé. Les victimes, hospitalisées, ne sont pas en danger de mort.",
+      "en": "A woman visiting Melbourne and her 10-year-old son were attacked Tuesday afternoon in the city centre: the boy was punched and his mother stabbed multiple times with a pair of scissors. Bystanders restrained the attacker until police arrived; a 27-year-old man was arrested and charged. The victims, hospitalised, are not in life-threatening condition.",
+      "es": "Una mujer de visita en Melbourne y su hijo de 10 años fueron atacados el martes por la tarde en pleno centro de la ciudad: el niño fue golpeado y su madre apuñalada varias veces con unas tijeras. Transeúntes redujeron al agresor hasta la llegada de la policía; un hombre de 27 años fue detenido y acusado. Las víctimas, hospitalizadas, no corren peligro de muerte."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026, vers 13h00",
+          "en": "25/08/2026, around 1:00 PM",
+          "es": "25/08/2026, alrededor de las 13:00"
+        },
+        "d": {
+          "fr": "La police de Victoria confirme l'arrestation d'un suspect après l'agression d'une mère et de son fils.",
+          "en": "Victoria Police confirm the arrest of a suspect after the attack on a mother and her son.",
+          "es": "La policía de Victoria confirma la detención de un sospechoso tras la agresión a una madre y su hijo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      114.06,
+      22.54
+    ],
+    "id": "chine-evergrande-condamnation",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Global Times / Washington Times",
+    "place": {
+      "fr": "Shenzhen, Chine",
+      "en": "Shenzhen, China",
+      "es": "Shenzhen, China"
+    },
+    "title": {
+      "fr": "Le fondateur d'Evergrande condamné à la prison à vie pour fraude",
+      "en": "Evergrande founder sentenced to life in prison for fraud",
+      "es": "El fundador de Evergrande condenado a cadena perpetua por fraude"
+    },
+    "summary": {
+      "fr": "Le tribunal intermédiaire de Shenzhen a condamné Hui Ka Yan, fondateur du promoteur immobilier en faillite Evergrande et ex-homme le plus riche d'Asie, à la prison à vie pour fraude, prise illégale de dépôts publics, émission frauduleuse de titres et corruption. Il avait plaidé coupable en avril ; le tribunal a également ordonné la confiscation de ses biens personnels et infligé environ 2,35 milliards de dollars d'amendes aux entités du groupe.",
+      "en": "The Shenzhen Intermediate People's Court sentenced Hui Ka Yan, founder of the collapsed property developer Evergrande and once Asia's richest man, to life in prison for fraud, illegally taking public deposits, fraudulently issuing securities and bribery. He had pleaded guilty in April; the court also ordered the confiscation of his personal assets and fined Evergrande group entities roughly $2.35 billion combined.",
+      "es": "El Tribunal Popular Intermedio de Shenzhen condenó a Hui Ka Yan, fundador de la promotora inmobiliaria en quiebra Evergrande y antiguo hombre más rico de Asia, a cadena perpetua por fraude, captación ilegal de depósitos públicos, emisión fraudulenta de valores y soborno. Se había declarado culpable en abril; el tribunal también ordenó la confiscación de sus bienes personales y multó a las entidades del grupo con unos 2350 millones de dólares en total."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Shenzhen prononce la peine de prison à vie contre Hui Ka Yan.",
+          "en": "The Shenzhen court hands down a life sentence against Hui Ka Yan.",
+          "es": "El tribunal de Shenzhen dicta cadena perpetua contra Hui Ka Yan."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.74,
+      32.8
+    ],
+    "id": "japon-kumamoto-seisme-secours",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Al Jazeera / NPR / ReliefWeb",
+    "place": {
+      "fr": "Préfecture de Kumamoto, Japon",
+      "en": "Kumamoto Prefecture, Japan",
+      "es": "Prefectura de Kumamoto, Japón"
+    },
+    "title": {
+      "fr": "Le Japon poursuit les secours après le séisme meurtrier de Kumamoto",
+      "en": "Japan continues relief efforts after deadly Kumamoto earthquake",
+      "es": "Japón continúa las labores de socorro tras el mortal terremoto de Kumamoto"
+    },
+    "summary": {
+      "fr": "Un puissant séisme de magnitude 6,8 à 7,1 a frappé la préfecture de Kumamoto, sur l'île de Kyushu, le 28 juillet, faisant au moins 39 morts, environ 396 blessés et endommageant près de 32 000 habitations. Les opérations de secours se poursuivaient encore fin août selon un rapport de situation, tandis que la police de Kumamoto renforçait ses patrouilles contre les arnaques visant les sinistrés.",
+      "en": "A powerful magnitude 6.8-7.1 earthquake struck Kumamoto Prefecture on the island of Kyushu on July 28, killing at least 39 people, injuring around 396 and damaging nearly 32,000 homes. Relief operations were still ongoing in late August according to a situation report, while Kumamoto police stepped up patrols against scams targeting disaster survivors.",
+      "es": "Un potente terremoto de magnitud 6,8 a 7,1 sacudió la prefectura de Kumamoto, en la isla de Kyushu, el 28 de julio, dejando al menos 39 muertos, unos 396 heridos y cerca de 32 000 viviendas dañadas. Las labores de socorro seguían en curso a finales de agosto según un informe de situación, mientras la policía de Kumamoto reforzaba sus patrullas contra estafas dirigidas a los damnificados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/07/2026",
+          "en": "28/07/2026",
+          "es": "28/07/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 6,8 à 7,1 frappe Kumamoto, faisant au moins 39 morts.",
+          "en": "A magnitude 6.8-7.1 earthquake strikes Kumamoto, killing at least 39 people.",
+          "es": "Un terremoto de magnitud 6,8 a 7,1 sacude Kumamoto, dejando al menos 39 muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Les opérations de secours et de reconstruction se poursuivent, avec un renforcement de la vigilance contre les arnaques post-sinistre.",
+          "en": "Relief and reconstruction operations continue, with heightened vigilance against post-disaster scams.",
+          "es": "Las operaciones de socorro y reconstrucción continúan, con una mayor vigilancia frente a las estafas posteriores al desastre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      86.09,
+      25.17
+    ],
+    "id": "inde-bihar-bousculade-temple",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛕",
+    "source": "Al Jazeera / AFP",
+    "place": {
+      "fr": "Temple d'Ashok Dham, district de Lakhisarai, Bihar, Inde",
+      "en": "Ashok Dham temple, Lakhisarai district, Bihar, India",
+      "es": "Templo de Ashok Dham, distrito de Lakhisarai, Bihar, India"
+    },
+    "title": {
+      "fr": "Une bousculade dans un temple du Bihar fait au moins sept morts",
+      "en": "Stampede at Bihar temple kills at least seven",
+      "es": "Una estampida en un templo de Bihar deja al menos siete muertos"
+    },
+    "summary": {
+      "fr": "Une bousculade s'est produite parmi des milliers de fidèles rassemblés au temple d'Ashok Dham, dans le district de Lakhisarai (Bihar), pendant les célébrations du mois de Shravan, apparemment déclenchée par des rumeurs selon lesquelles un poteau électrique serait tombé sur la foule. Selon les autorités, au moins sept personnes sont mortes et 19 ont été blessées.",
+      "en": "A stampede broke out among thousands of devotees gathered at the Ashok Dham temple in Lakhisarai district, Bihar, during Shravan month celebrations, apparently triggered by rumours that an electric pole had fallen on the crowd. Authorities say at least seven people died and 19 were injured.",
+      "es": "Se produjo una estampida entre miles de fieles reunidos en el templo de Ashok Dham, en el distrito de Lakhisarai (Bihar), durante las celebraciones del mes de Shravan, aparentemente provocada por rumores de que un poste eléctrico había caído sobre la multitud. Según las autoridades, al menos siete personas murieron y 19 resultaron heridas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/08/2026",
+          "en": "17/08/2026",
+          "es": "17/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités du Bihar font état d'au moins sept morts après une bousculade au temple d'Ashok Dham.",
+          "en": "Bihar authorities report at least seven deaths after a stampede at the Ashok Dham temple.",
+          "es": "Las autoridades de Bihar informan de al menos siete muertos tras una estampida en el templo de Ashok Dham."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.1,
+      9.52
+    ],
+    "id": "nigeria-plateau-attaque-village",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Guardian Nigeria / Vanguard",
+    "place": {
+      "fr": "Village de Binper, zone de gouvernement local de Mangu, État du Plateau, Nigeria",
+      "en": "Binper village, Mangu Local Government Area, Plateau State, Nigeria",
+      "es": "Aldea de Binper, área de gobierno local de Mangu, estado de Plateau, Nigeria"
+    },
+    "title": {
+      "fr": "Une attaque armée fait au moins une vingtaine de morts dans un village du Plateau, au Nigeria",
+      "en": "Armed attack kills around two dozen in Plateau State village, Nigeria",
+      "es": "Un ataque armado deja unos veinte muertos en una aldea del estado de Plateau, Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué maison par maison la communauté de Binper, dans la zone de Mangu (État du Plateau), dans la nuit du 17 au 18 août, tuant des habitants pendant leur sommeil et incendiant au moins 38 habitations. Les bilans varient selon les sources, entre 20 et 26 morts ; un groupe de jeunes locaux attribue l'attaque à des éleveurs armés, mais aucun groupe n'a revendiqué les faits et les autorités n'ont pas confirmé l'identité des assaillants.",
+      "en": "Gunmen attacked the Binper community in Mangu local government area (Plateau State) house by house on the night of August 17-18, killing residents in their sleep and burning at least 38 homes. Death tolls vary by source, between 20 and 26; a local youth group has blamed armed herdsmen, but no group has claimed responsibility and authorities have not confirmed the attackers' identity.",
+      "es": "Hombres armados atacaron casa por casa la comunidad de Binper, en el área de Mangu (estado de Plateau), la noche del 17 al 18 de agosto, matando a residentes mientras dormían e incendiando al menos 38 viviendas. Los balances varían según la fuente, entre 20 y 26 muertos; un grupo juvenil local culpó a pastores armados, pero ningún grupo se atribuyó los hechos y las autoridades no han confirmado la identidad de los atacantes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Nuit du 17 au 18/08/2026",
+          "en": "Night of 17-18/08/2026",
+          "es": "Noche del 17 al 18/08/2026"
+        },
+        "d": {
+          "fr": "Des assaillants armés attaquent le village de Binper, faisant une vingtaine de morts selon des bilans encore incertains.",
+          "en": "Armed attackers strike Binper village, killing around two dozen according to still-uncertain tolls.",
+          "es": "Atacantes armados golpean la aldea de Binper, dejando una veintena de muertos según balances aún inciertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      32.27,
+      30.6
+    ],
+    "id": "egypte-canal-suez-revenus",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "Ahram Online / Financial Afrik",
+    "place": {
+      "fr": "Ismaïlia, Égypte (siège de l'Autorité du canal de Suez)",
+      "en": "Ismailia, Egypt (Suez Canal Authority headquarters)",
+      "es": "Ismailía, Egipto (sede de la Autoridad del Canal de Suez)"
+    },
+    "title": {
+      "fr": "Les revenus du canal de Suez progressent de 13 % au deuxième trimestre",
+      "en": "Suez Canal revenue rises 13% in the second quarter",
+      "es": "Los ingresos del Canal de Suez suben un 13 % en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "L'Autorité du canal de Suez a enregistré des revenus de 1,26 milliard de dollars au deuxième trimestre 2026, en hausse de 13 % par rapport au trimestre précédent, avec un trafic en hausse de 7,7 % et un tonnage net en progression de 18,3 %. Des compagnies maritimes comme CMA CGM ont annoncé vouloir encore augmenter leurs passages par le canal, signe d'une reprise progressive après plusieurs années de perturbations en mer Rouge.",
+      "en": "The Suez Canal Authority recorded revenue of $1.26 billion in the second quarter of 2026, up 13% from the previous quarter, with transit numbers up 7.7% and net tonnage up 18.3%. Shipping lines such as CMA CGM have said they plan to further increase their canal crossings, a sign of gradual recovery after years of Red Sea disruptions.",
+      "es": "La Autoridad del Canal de Suez registró ingresos de 1260 millones de dólares en el segundo trimestre de 2026, un 13 % más que el trimestre anterior, con un aumento del tránsito del 7,7 % y del tonelaje neto del 18,3 %. Navieras como CMA CGM han anunciado que planean aumentar aún más sus pasos por el canal, señal de una recuperación gradual tras años de perturbaciones en el mar Rojo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "CMA CGM annonce vouloir renforcer ses traversées du canal de Suez, confirmant la tendance à la reprise.",
+          "en": "CMA CGM says it plans to increase its Suez Canal crossings, confirming the recovery trend.",
+          "es": "CMA CGM anuncia que planea reforzar sus travesías por el Canal de Suez, confirmando la tendencia de recuperación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      104.75,
+      -2.99
+    ],
+    "id": "indonesie-sumatra-feux-fumee",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NPR / Al Jazeera",
+    "place": {
+      "fr": "Palembang, Sumatra du Sud, Indonésie",
+      "en": "Palembang, South Sumatra, Indonesia",
+      "es": "Palembang, Sumatra del Sur, Indonesia"
+    },
+    "title": {
+      "fr": "Une épaisse fumée liée aux feux de forêt étouffe le sud de Sumatra",
+      "en": "Thick haze from wildfires chokes South Sumatra",
+      "es": "Una densa humareda por incendios forestales asfixia el sur de Sumatra"
+    },
+    "summary": {
+      "fr": "D'importants feux de forêt et de tourbières dans la province de Sumatra du Sud produisent une fumée dense qui réduit fortement la visibilité et dégrade la qualité de l'air dans plusieurs villes, dans un contexte de sécheresse prolongée. Environ 3000 habitants se sont rassemblés à Palembang pour une prière collective, la salat istisqa, afin d'implorer la pluie.",
+      "en": "Major forest and peatland fires in South Sumatra province are producing thick haze that is sharply reducing visibility and worsening air quality in several cities amid a prolonged dry spell. About 3,000 residents gathered in Palembang for a collective prayer, salat istisqa, to ask for rain.",
+      "es": "Grandes incendios forestales y de turberas en la provincia de Sumatra del Sur están generando una densa humareda que reduce drásticamente la visibilidad y empeora la calidad del aire en varias ciudades, en medio de una sequía prolongada. Unos 3000 residentes se reunieron en Palembang para una oración colectiva, la salat istisqa, para pedir lluvia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Environ 3000 habitants de Palembang participent à une prière collective pour appeler la pluie face aux feux et à la fumée.",
+          "en": "About 3,000 residents of Palembang join a collective prayer for rain as fires and haze persist.",
+          "es": "Unos 3000 residentes de Palembang participan en una oración colectiva para pedir lluvia ante los incendios y la humareda."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      33.3918,
+      47.9105
+    ],
+    "id": "kryvyirih-frappe-centre-commercial",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / ABC News",
+    "place": {
+      "fr": "Kryvyi Rih, Ukraine",
+      "en": "Kryvyi Rih, Ukraine",
+      "es": "Kryvyi Rih, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drones sur un centre commercial de Kryvyi Rih fait au moins 14 morts",
+      "en": "Drone strike on Kryvyi Rih shopping centre kills at least 14",
+      "es": "Un ataque con drones contra un centro comercial de Kryvyi Rih deja al menos 14 muertos"
+    },
+    "summary": {
+      "fr": "Des drones ont frappé un centre commercial très fréquenté de Kryvyi Rih, ville natale du président Zelensky, selon les autorités ukrainiennes. Les bilans varient entre 14 et 16 morts, dont des enfants, et environ 130 blessés ; des sources ukrainiennes évoquent une seconde frappe survenue peu après la première, alors que les secours étaient sur place. Aucune déclaration du ministère russe de la Défense sur cette frappe précise n'a été retrouvée.",
+      "en": "Drones struck a busy shopping centre in Kryvyi Rih, President Zelensky's hometown, according to Ukrainian authorities. Tolls vary between 14 and 16 dead, including children, and around 130 wounded; Ukrainian sources describe a second strike shortly after the first, while rescuers were on site. No statement from Russia's Ministry of Defence on this specific strike was found.",
+      "es": "Drones alcanzaron un concurrido centro comercial en Kryvyi Rih, ciudad natal del presidente Zelenski, según las autoridades ucranianas. Los balances varían entre 14 y 16 muertos, incluidos niños, y unos 130 heridos; fuentes ucranianas describen un segundo ataque poco después del primero, mientras los equipos de rescate se encontraban en el lugar. No se encontró ninguna declaración del Ministerio de Defensa ruso sobre este ataque en concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026, vers 16h30",
+          "en": "21/08/2026, around 4:30 PM",
+          "es": "21/08/2026, alrededor de las 16:30"
+        },
+        "d": {
+          "fr": "Les autorités ukrainiennes rapportent au moins 14 morts après une frappe de drones sur un centre commercial de Kryvyi Rih.",
+          "en": "Ukrainian authorities report at least 14 dead after a drone strike on a shopping centre in Kryvyi Rih.",
+          "es": "Las autoridades ucranianas informan de al menos 14 muertos tras un ataque con drones contra un centro comercial de Kryvyi Rih."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [
+      "nizhnekamsk-frappe-drone"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      -115.4523,
+      32.6245
+    ],
+    "id": "mexicali-alerte-securite",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "US Embassy Mexico / Mexico News Daily",
+    "place": {
+      "fr": "Mexicali, Basse-Californie, Mexique",
+      "en": "Mexicali, Baja California, Mexico",
+      "es": "Mexicali, Baja California, México"
+    },
+    "title": {
+      "fr": "Washington émet une alerte sécurité à Mexicali après la menace d'un groupe armé",
+      "en": "Washington issues security alert in Mexicali over armed-group threat",
+      "es": "Washington emite una alerta de seguridad en Mexicali ante la amenaza de un grupo armado"
+    },
+    "summary": {
+      "fr": "Le consulat général des États-Unis à Tijuana a émis une alerte sécurité évoquant la menace d'une attaque armée par le groupe « Los Rusos », lié à une faction du cartel de Sinaloa, contre des installations des forces de l'ordre à Mexicali, et suspendu temporairement les activités officielles américaines dans la ville. La présidente mexicaine Claudia Sheinbaum a précisé que l'information provenait d'agences américaines et n'avait pas été confirmée ; les autorités mexicaines disent n'avoir trouvé aucune preuve d'un risque imminent mais ont renforcé les patrouilles par précaution.",
+      "en": "The US Consulate General in Tijuana issued a security alert over the threat of an armed attack by the group 'Los Rusos,' linked to a Sinaloa cartel faction, against law-enforcement facilities in Mexicali, and temporarily suspended official US activities in the city. Mexican President Claudia Sheinbaum said the information came from US agencies and had not been confirmed; Mexican authorities said they found no evidence of an imminent risk but increased patrols as a precaution.",
+      "es": "El Consulado General de Estados Unidos en Tijuana emitió una alerta de seguridad por la amenaza de un ataque armado del grupo 'Los Rusos', vinculado a una facción del cártel de Sinaloa, contra instalaciones de las fuerzas del orden en Mexicali, y suspendió temporalmente las actividades oficiales estadounidenses en la ciudad. La presidenta mexicana Claudia Sheinbaum señaló que la información procedía de agencias estadounidenses y no había sido confirmada; las autoridades mexicanas dijeron no haber hallado pruebas de un riesgo inminente, pero reforzaron las patrullas como precaución."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Le consulat américain à Tijuana émet une alerte sécurité et suspend ses activités officielles à Mexicali.",
+          "en": "The US consulate in Tijuana issues a security alert and suspends official activities in Mexicali.",
+          "es": "El consulado estadounidense en Tijuana emite una alerta de seguridad y suspende sus actividades oficiales en Mexicali."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      129.31,
+      35.54
+    ],
+    "id": "coree-hyundai-accord-salarial",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "Korea Herald / Bloomberg",
+    "place": {
+      "fr": "Ulsan, Corée du Sud",
+      "en": "Ulsan, South Korea",
+      "es": "Ulsan, Corea del Sur"
+    },
+    "title": {
+      "fr": "Hyundai Motor et son syndicat trouvent un accord salarial après 111 jours de négociations",
+      "en": "Hyundai Motor and union reach wage deal after 111 days of talks",
+      "es": "Hyundai Motor y el sindicato alcanzan un acuerdo salarial tras 111 días de negociaciones"
+    },
+    "summary": {
+      "fr": "Hyundai Motor et son syndicat sont parvenus à un accord salarial provisoire incluant une hausse du salaire de base, une prime de performance et des actions de l'entreprise, après 111 jours de négociations marquées par la première grève d'une journée complète en dix ans. Le conflit aurait coûté environ 55 200 véhicules de production et plus de 2300 milliards de wons de ventes ; un vote de ratification syndical est prévu le 31 août.",
+      "en": "Hyundai Motor and its union reached a tentative wage agreement including a base pay rise, a performance bonus and company shares, after 111 days of negotiations marked by the union's first full-day strike in a decade. The dispute is estimated to have cost about 55,200 vehicles in lost production and over 2.3 trillion won in sales; a union ratification vote is set for August 31.",
+      "es": "Hyundai Motor y su sindicato alcanzaron un acuerdo salarial provisional que incluye un aumento del salario base, una prima por desempeño y acciones de la empresa, tras 111 días de negociaciones marcadas por la primera huelga de un día completo en una década. Se estima que el conflicto costó unos 55 200 vehículos de producción perdida y más de 2,3 billones de wones en ventas; la votación de ratificación sindical está prevista para el 31 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Hyundai Motor et le syndicat annoncent un accord salarial provisoire au terme du 17e cycle de négociations.",
+          "en": "Hyundai Motor and the union announce a tentative wage deal after the 17th round of talks.",
+          "es": "Hyundai Motor y el sindicato anuncian un acuerdo salarial provisional tras la 17.ª ronda de negociaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      -73.846,
+      40.7498
+    ],
+    "id": "us-open-2026-ouverture",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "Olympics.com / ATP Tour",
+    "place": {
+      "fr": "Flushing Meadows, New York, États-Unis",
+      "en": "Flushing Meadows, New York, United States",
+      "es": "Flushing Meadows, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'US Open 2026 débute avec une dotation record de 101 millions de dollars",
+      "en": "2026 US Open begins with record $101 million prize pool",
+      "es": "El US Open 2026 arranca con una bolsa de premios récord de 101 millones de dólares"
+    },
+    "summary": {
+      "fr": "Le tournoi de tennis de l'US Open 2026 a débuté le 24 août à New York avec une dotation record de 101 millions de dollars, en hausse de 19 % par rapport à 2025. L'épreuve de double mixte, disputée les 25 et 26 août, réunit des paires vedettes comme Carlos Alcaraz associé à Serena Williams et Novak Djokovic à Aryna Sabalenka.",
+      "en": "The 2026 US Open tennis tournament began on August 24 in New York with a record $101 million prize pool, up 19% from 2025. The mixed doubles event, held August 25-26, features marquee pairings such as Carlos Alcaraz with Serena Williams and Novak Djokovic with Aryna Sabalenka.",
+      "es": "El torneo de tenis US Open 2026 comenzó el 24 de agosto en Nueva York con una bolsa de premios récord de 101 millones de dólares, un 19 % más que en 2025. La prueba de dobles mixtos, disputada el 25 y 26 de agosto, reúne parejas estelares como Carlos Alcaraz con Serena Williams y Novak Djokovic con Aryna Sabalenka."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "L'US Open s'ouvre à Flushing Meadows avec une dotation totale record de 101 millions de dollars.",
+          "en": "The US Open opens at Flushing Meadows with a record total prize pool of $101 million.",
+          "es": "El US Open se inaugura en Flushing Meadows con una bolsa de premios total récord de 101 millones de dólares."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4,
+      40.0
+    ],
+    "id": "chine-robot-100m-record",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🤖",
+    "source": "AP / ABC News",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Un robot humanoïde chinois bat le record du 100 mètres aux Jeux mondiaux de robots",
+      "en": "Chinese humanoid robot sets new 100m record at World Humanoid Robot Games",
+      "es": "Un robot humanoide chino bate el récord de los 100 metros en los Juegos Mundiales de Robots"
+    },
+    "summary": {
+      "fr": "Lors des Jeux mondiaux de robots humanoïdes à Pékin, un robot chinois a parcouru 100 mètres en 8,86 secondes, battant le précédent record robotique (9,39 secondes) et devançant le meilleur temps humain enregistré. Plus de 2000 robots participent à 51 épreuves lors de cette compétition.",
+      "en": "At the World Humanoid Robot Games in Beijing, a Chinese robot ran the 100 metres in 8.86 seconds, breaking the previous robot record (9.39 seconds) and outpacing the fastest recorded human time. More than 2,000 robots are taking part in 51 events at the competition.",
+      "es": "En los Juegos Mundiales de Robots Humanoides en Pekín, un robot chino recorrió los 100 metros en 8,86 segundos, batiendo el anterior récord robótico (9,39 segundos) y superando el mejor tiempo humano registrado. Más de 2000 robots participan en 51 pruebas de la competición."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Un robot humanoïde chinois établit un nouveau record du 100 mètres lors des Jeux mondiaux de robots à Pékin.",
+          "en": "A Chinese humanoid robot sets a new 100-metre record at the World Humanoid Robot Games in Beijing.",
+          "es": "Un robot humanoide chino establece un nuevo récord de los 100 metros en los Juegos Mundiales de Robots en Pekín."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
     "related": [],
     "priority": 1
   }
