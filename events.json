@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / Bloomberg",
+    "week": "2026-W35",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "L'Iran et Oman annoncent un accord sur une route maritime temporaire dans le détroit d'Ormuz et le partage de ses revenus, mais les Gardiens de la révolution affirment que le détroit restera fermé tant que Washington n'aura pas accepté les conditions de Téhéran, selon Al Jazeera et Bloomberg.",
+          "en": "Iran and Oman announce an agreement on a temporary shipping route through the Strait of Hormuz and revenue-sharing, but the Revolutionary Guards say the strait will remain closed until Washington accepts Tehran's conditions, according to Al Jazeera and Bloomberg.",
+          "es": "Irán y Omán anuncian un acuerdo sobre una ruta marítima temporal en el estrecho de Ormuz y el reparto de sus ingresos, pero la Guardia Revolucionaria afirma que el estrecho permanecerá cerrado hasta que Washington acepte las condiciones de Teherán, según Al Jazeera y Bloomberg."
         },
         "active": true
       }
@@ -829,5 +842,634 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "meta-settlement-enfants",
+    "coords": [
+      -122.2711,
+      37.8044
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR / Stateline",
+    "place": {
+      "fr": "Oakland, Californie, États-Unis (tribunal fédéral)",
+      "en": "Oakland, California, United States (federal court)",
+      "es": "Oakland, California, Estados Unidos (tribunal federal)"
+    },
+    "title": {
+      "fr": "Meta accepte un règlement de 17,1 milliards de dollars sur la sécurité des mineurs",
+      "en": "Meta agrees to $17.1 billion settlement over child safety",
+      "es": "Meta acepta un acuerdo de 17 100 millones de dólares sobre la seguridad infantil"
+    },
+    "summary": {
+      "fr": "Meta a accepté de verser jusqu'à 17,1 milliards de dollars à 47 États américains, au district de Columbia et à plusieurs territoires, pour mettre fin à un procès les accusant d'avoir conçu Facebook et Instagram de façon addictive pour les mineurs, selon NPR et Stateline. L'accord, annoncé le 26 août alors que le procès fédéral se déroulait à Oakland devant la juge Yvonne Gonzalez Rogers, prévoit aussi des changements dans le fonctionnement des plateformes pour les rendre plus sûres pour les jeunes utilisateurs. Il doit encore être validé par la justice.",
+      "en": "Meta has agreed to pay up to $17.1 billion to 47 US states, the District of Columbia and several territories to settle a lawsuit accusing it of designing Facebook and Instagram to be addictive for minors, according to NPR and Stateline. The settlement, announced August 26 while the federal trial was underway in Oakland before Judge Yvonne Gonzalez Rogers, also requires changes to how the platforms operate to make them safer for young users. It still needs court approval.",
+      "es": "Meta acordó pagar hasta 17 100 millones de dólares a 47 estados de EE. UU., el Distrito de Columbia y varios territorios para poner fin a una demanda que la acusaba de diseñar Facebook e Instagram de forma adictiva para menores, según NPR y Stateline. El acuerdo, anunciado el 26 de agosto mientras el juicio federal se desarrollaba en Oakland ante la jueza Yvonne Gonzalez Rogers, también exige cambios en el funcionamiento de las plataformas para hacerlas más seguras para los jóvenes usuarios. Aún debe ser aprobado por la justicia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "NPR et Stateline annoncent l'accord entre Meta et 47 États américains.",
+          "en": "NPR and Stateline report the settlement between Meta and 47 US states.",
+          "es": "NPR y Stateline informan del acuerdo entre Meta y 47 estados de EE. UU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "francfort-paludisme",
+    "coords": [
+      8.5622,
+      50.0379
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦟",
+    "source": "Al Jazeera / Robert Koch Institut",
+    "place": {
+      "fr": "Aéroport de Francfort, Allemagne",
+      "en": "Frankfurt Airport, Germany",
+      "es": "Aeropuerto de Fráncfort, Alemania"
+    },
+    "title": {
+      "fr": "Deux employés de l'aéroport de Francfort meurent du paludisme après la piqûre d'un moustique importé",
+      "en": "Two Frankfurt airport workers die of malaria after bite from an imported mosquito",
+      "es": "Dos empleados del aeropuerto de Fráncfort mueren de malaria tras la picadura de un mosquito importado"
+    },
+    "summary": {
+      "fr": "Deux employés de l'aéroport de Francfort sont morts du paludisme après avoir été piqués par un moustique du genre Anopheles vraisemblablement arrivé à bord d'un avion, a annoncé l'autorité sanitaire de la ville. Six employés au total ont été infectés ; quatre sont encore hospitalisés. Selon l'Institut Robert Koch, la transmission locale du paludisme est extrêmement rare en Allemagne ; des pièges à moustiques ont été installés sur le site.",
+      "en": "Two Frankfurt airport employees have died of malaria after being bitten by an Anopheles mosquito believed to have arrived on board a plane, the city's health authority announced. Six employees in total were infected; four remain hospitalized. According to the Robert Koch Institute, local transmission of malaria is extremely rare in Germany; mosquito traps have been installed at the site.",
+      "es": "Dos empleados del aeropuerto de Fráncfort murieron de malaria tras ser picados por un mosquito del género Anopheles que presuntamente llegó a bordo de un avión, anunció la autoridad sanitaria de la ciudad. Seis empleados en total fueron infectados; cuatro permanecen hospitalizados. Según el Instituto Robert Koch, la transmisión local de la malaria es extremadamente rara en Alemania; se han instalado trampas para mosquitos en el lugar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "L'autorité sanitaire de Francfort annonce un deuxième décès parmi les employés infectés.",
+          "en": "Frankfurt's health authority announces a second death among the infected employees.",
+          "es": "La autoridad sanitaria de Fráncfort anuncia un segundo fallecimiento entre los empleados infectados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "kstovo-raffinerie-frappe",
+    "coords": [
+      44.1662,
+      56.1352
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Kyiv Independent / Ukrainska Pravda",
+    "place": {
+      "fr": "Kstovo, oblast de Nijni Novgorod, Russie",
+      "en": "Kstovo, Nizhny Novgorod Oblast, Russia",
+      "es": "Kstovo, óblast de Nizhni Nóvgorod, Rusia"
+    },
+    "title": {
+      "fr": "Un drone ukrainien frappe une importante raffinerie russe à Kstovo",
+      "en": "Ukrainian drone strikes major Russian refinery in Kstovo",
+      "es": "Un dron ucraniano golpea una importante refinería rusa en Kstovo"
+    },
+    "summary": {
+      "fr": "Des drones des forces ukrainiennes ont frappé dans la nuit du 25 au 26 août la raffinerie Lukoil de Kstovo, dans l'oblast de Nijni Novgorod, provoquant un important incendie, selon l'état-major ukrainien cité par le Kyiv Independent et Ukrainska Pravda. L'installation, l'une des plus grandes de Russie avec une capacité de traitement d'environ 17 millions de tonnes de pétrole brut par an, fournirait notamment les forces armées russes ; elle a déjà été visée à plusieurs reprises depuis avril.",
+      "en": "Ukrainian forces' drones struck the Lukoil refinery in Kstovo, Nizhny Novgorod Oblast, overnight on August 25-26, sparking a major fire, according to Ukraine's General Staff cited by the Kyiv Independent and Ukrainska Pravda. The facility, one of Russia's largest with a processing capacity of about 17 million tonnes of crude oil per year, reportedly supplies the Russian armed forces; it has already been targeted several times since April.",
+      "es": "Drones de las fuerzas ucranianas atacaron la refinería de Lukoil en Kstovo, óblast de Nizhni Nóvgorod, durante la noche del 25 al 26 de agosto, provocando un gran incendio, según el Estado Mayor ucraniano citado por Kyiv Independent y Ukrainska Pravda. La instalación, una de las más grandes de Rusia con una capacidad de procesamiento de unos 17 millones de toneladas de petróleo crudo al año, abastecería a las fuerzas armadas rusas; ya ha sido blanco de ataques varias veces desde abril."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "L'état-major ukrainien confirme la frappe de drones sur la raffinerie de Kstovo, qui prend feu.",
+          "en": "Ukraine's General Staff confirms the drone strike on the Kstovo refinery, which catches fire.",
+          "es": "El Estado Mayor ucraniano confirma el ataque con drones a la refinería de Kstovo, que se incendia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "chine-tarifs-surcapacite",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Pékin, Chine / Washington, États-Unis",
+      "en": "Beijing, China / Washington, United States",
+      "es": "Pekín, China / Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Washington envisage une taxe de 7,5 % sur les surcapacités chinoises avant le sommet Xi-Trump",
+      "en": "Washington considers a 7.5% tariff on Chinese overcapacity ahead of Xi-Trump summit",
+      "es": "Washington estudia un arancel del 7,5 % sobre la sobrecapacidad china antes de la cumbre Xi-Trump"
+    },
+    "summary": {
+      "fr": "Les États-Unis envisagent d'imposer un nouveau droit de douane de 7,5 % sur des produits chinois, visant les surcapacités de production dans des secteurs comme l'acier, l'aluminium et les véhicules électriques, selon Bloomberg. Cette mesure porterait les droits de douane américains sur la Chine à environ 20 %, un plafond convenu avec Pékin fin juillet. L'annonce intervient avant un sommet prévu le 24 septembre entre Xi Jinping et Donald Trump, première visite d'État chinoise à Washington depuis plus de dix ans.",
+      "en": "The United States is considering imposing a new 7.5% tariff on Chinese goods, targeting production overcapacity in sectors such as steel, aluminum and electric vehicles, according to Bloomberg. The move would bring US tariffs on China to around 20%, a cap agreed with Beijing in late July. The announcement comes ahead of a summit planned for September 24 between Xi Jinping and Donald Trump, the first Chinese state visit to Washington in more than a decade.",
+      "es": "Estados Unidos estudia imponer un nuevo arancel del 7,5 % sobre productos chinos, dirigido a la sobrecapacidad de producción en sectores como el acero, el aluminio y los vehículos eléctricos, según Bloomberg. La medida elevaría los aranceles estadounidenses sobre China a alrededor del 20 %, un tope acordado con Pekín a finales de julio. El anuncio llega antes de una cumbre prevista para el 24 de septiembre entre Xi Jinping y Donald Trump, la primera visita de Estado china a Washington en más de una década."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Bloomberg révèle le projet de nouveau tarif douanier américain visant la Chine.",
+          "en": "Bloomberg reports the planned new US tariff targeting China.",
+          "es": "Bloomberg revela el plan de un nuevo arancel estadounidense dirigido a China."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "gyirong-crue",
+    "coords": [
+      85.3292,
+      28.3933
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Al Jazeera / CNN / NBC News",
+    "place": {
+      "fr": "Gyirong (frontière Chine-Népal), région autonome du Tibet, Chine",
+      "en": "Gyirong (China-Nepal border), Tibet Autonomous Region, China",
+      "es": "Gyirong (frontera China-Nepal), Región Autónoma del Tíbet, China"
+    },
+    "title": {
+      "fr": "Une crue soudaine à la frontière Chine-Népal fait au moins 160 morts et des centaines de disparus",
+      "en": "Flash flood on the China-Nepal border kills at least 160, leaves hundreds missing",
+      "es": "Una crecida repentina en la frontera China-Nepal deja al menos 160 muertos y cientos de desaparecidos"
+    },
+    "summary": {
+      "fr": "Une crue soudaine a frappé le 26 août la zone frontalière entre le Népal et la région chinoise du Tibet, autour du poste-frontière de Gyirong, selon l'AFP, Al Jazeera, CNN et NBC News. Les bilans, encore provisoires et variables selon les sources, font état d'au moins 160 morts côté népalais et de plusieurs morts côté chinois, ainsi que de centaines, voire plus d'un millier de personnes portées disparues, parmi lesquelles de nombreux touristes étrangers — le ministère espagnol des Affaires étrangères a notamment signalé quatre ressortissants espagnols injoignables. Les autorités évoquent une possible avalanche de glace et de roche sur un glacier himalayen à l'origine de la vague de boue et d'eau.",
+      "en": "A flash flood struck the border area between Nepal and China's Tibet region on August 26, around the Gyirong border crossing, according to AFP, Al Jazeera, CNN and NBC News. Death tolls remain provisional and vary by source, with at least 160 deaths reported in Nepal and several deaths in China, along with hundreds — possibly over a thousand — people reported missing, including many foreign tourists; Spain's foreign ministry said four Spanish nationals could not be reached. Authorities say a possible ice and rock avalanche on a Himalayan glacier may have triggered the surge of mud and water.",
+      "es": "Una crecida repentina golpeó el 26 de agosto la zona fronteriza entre Nepal y la región china del Tíbet, en torno al paso fronterizo de Gyirong, según AFP, Al Jazeera, CNN y NBC News. Los balances, aún provisionales y variables según la fuente, hablan de al menos 160 muertos en el lado nepalí y varios muertos en el lado chino, además de cientos —posiblemente más de mil— personas desaparecidas, entre ellas numerosos turistas extranjeros; el ministerio de Exteriores español informó de que cuatro ciudadanos españoles estaban ilocalizables. Las autoridades apuntan a un posible desprendimiento de hielo y roca en un glaciar del Himalaya como origen de la oleada de lodo y agua."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "La crue frappe la zone frontalière ; les bilans commencent à être communiqués par les autorités népalaises et chinoises.",
+          "en": "The flood strikes the border area; Nepalese and Chinese authorities begin reporting death tolls.",
+          "es": "La crecida golpea la zona fronteriza; las autoridades nepalí y china comienzan a comunicar los balances."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "niger-state-enlevement-mosquee",
+    "coords": [
+      4.5167,
+      9.8833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Al Jazeera / Reuters / ABC News",
+    "place": {
+      "fr": "District de Dekara, zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Dekara district, Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Distrito de Dekara, área de gobierno local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des centaines de fidèles enlevés dans une mosquée du centre du Nigeria",
+      "en": "Hundreds of worshippers abducted from a mosque in central Nigeria",
+      "es": "Cientos de fieles secuestrados en una mezquita del centro de Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué la mosquée de Kpenya et les villages voisins de Gidan-Zana et Kpenya, dans le district de Dekara (zone de Borgu, État du Niger), le 22 août, selon Al Jazeera, Reuters et ABC News. Des habitants font état de dizaines de fidèles enlevés lors de l'attaque de la mosquée, tandis qu'une vidéo diffusée par le groupe armé montre, selon des témoins, environ 600 femmes, enfants et personnes âgées enlevées au total lors des raids. Ce dernier bilan n'a pas pu être vérifié de façon indépendante. Le président Bola Tinubu a ordonné une opération de sauvetage ; l'armée et la police ont lancé des recherches.",
+      "en": "Armed men attacked the Kpenya mosque and the nearby villages of Gidan-Zana and Kpenya, in the Dekara district (Borgu area, Niger State), on August 22, according to Al Jazeera, Reuters and ABC News. Residents report dozens of worshippers abducted during the mosque attack, while a video released by the armed group shows, according to witnesses, around 600 women, children and elderly people abducted in total during the raids. This latter figure could not be independently verified. President Bola Tinubu ordered a rescue operation; the military and police have launched a search.",
+      "es": "Hombres armados atacaron la mezquita de Kpenya y las aldeas cercanas de Gidan-Zana y Kpenya, en el distrito de Dekara (zona de Borgu, estado de Níger), el 22 de agosto, según Al Jazeera, Reuters y ABC News. Los residentes informan de decenas de fieles secuestrados durante el ataque a la mezquita, mientras que un video difundido por el grupo armado muestra, según testigos, alrededor de 600 mujeres, niños y ancianos secuestrados en total durante las incursiones. Esta última cifra no pudo ser verificada de forma independiente. El presidente Bola Tinubu ordenó una operación de rescate; el ejército y la policía han iniciado la búsqueda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent la mosquée de Kpenya et des villages voisins, enlevant des dizaines, voire des centaines de personnes.",
+          "en": "Armed men attack the Kpenya mosque and nearby villages, abducting dozens, possibly hundreds of people.",
+          "es": "Hombres armados atacan la mezquita de Kpenya y aldeas cercanas, secuestrando a decenas, posiblemente cientos de personas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Le président Tinubu ordonne une opération militaire de sauvetage après la diffusion d'une vidéo des ravisseurs.",
+          "en": "President Tinubu orders a military rescue operation after the kidnappers release a video.",
+          "es": "El presidente Tinubu ordena una operación militar de rescate tras la difusión de un video de los secuestradores."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "id": "haneda-bateau-echouage",
+    "coords": [
+      139.76,
+      35.5494
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Embouchure de la rivière Tama, près de l'aéroport de Haneda, Tokyo, Japon",
+      "en": "Mouth of the Tama River, near Haneda Airport, Tokyo, Japan",
+      "es": "Desembocadura del río Tama, cerca del aeropuerto de Haneda, Tokio, Japón"
+    },
+    "title": {
+      "fr": "Un bateau de plaisance s'échoue près de l'aéroport de Haneda, neuf blessés",
+      "en": "Pleasure boat runs aground near Haneda Airport, nine injured",
+      "es": "Una embarcación de recreo encalla cerca del aeropuerto de Haneda, deja nueve heridos"
+    },
+    "summary": {
+      "fr": "Un bateau de plaisance transportant dix personnes s'est échoué le 24 août au soir près de l'embouchure de la rivière Tama, à proximité de l'aéroport de Haneda à Tokyo, selon le Japan Times. Neuf personnes ont été blessées, dont deux grièvement. Les circonstances exactes de l'accident n'ont pas été précisées par la source.",
+      "en": "A pleasure boat carrying ten people ran aground on the evening of August 24 near the mouth of the Tama River, close to Haneda Airport in Tokyo, according to the Japan Times. Nine people were injured, two of them seriously. The exact circumstances of the accident were not specified by the source.",
+      "es": "Una embarcación de recreo con diez personas a bordo encalló la noche del 24 de agosto cerca de la desembocadura del río Tama, próxima al aeropuerto de Haneda en Tokio, según Japan Times. Nueve personas resultaron heridas, dos de ellas de gravedad. La fuente no precisó las circunstancias exactas del accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Le Japan Times rapporte l'échouage du bateau et le bilan de neuf blessés.",
+          "en": "The Japan Times reports the boat's grounding and the toll of nine injured.",
+          "es": "Japan Times informa del encallamiento de la embarcación y el balance de nueve heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "jakarta-manifestations-anniversaire",
+    "coords": [
+      106.8017,
+      -6.2088
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Jakarta Post / Tempo / Antara",
+    "place": {
+      "fr": "Jakarta, Indonésie (complexe du Parlement, DPR/MPR)",
+      "en": "Jakarta, Indonesia (Parliament complex, DPR/MPR)",
+      "es": "Yakarta, Indonesia (complejo del Parlamento, DPR/MPR)"
+    },
+    "title": {
+      "fr": "Des dizaines de rassemblements à Jakarta un an après les émeutes meurtrières de 2025",
+      "en": "Dozens of rallies in Jakarta one year after the deadly 2025 riots",
+      "es": "Decenas de concentraciones en Yakarta un año después de los disturbios mortales de 2025"
+    },
+    "summary": {
+      "fr": "La police de Jakarta a recensé environ 62 rassemblements dans la capitale indonésienne le 27 août, selon le Jakarta Post, Tempo et Antara. Les manifestants, dont l'Alliance communautaire unie de Pati (AMPB), réclamaient l'adoption d'une loi de confiscation des avoirs et un durcissement des peines contre la corruption. Ce rassemblement intervenait presque un an après des émeutes qui avaient fait au moins 11 morts en août-septembre 2025 selon la Commission nationale des droits de l'homme ; les autorités avaient déployé d'importants effectifs de sécurité par crainte d'une répétition des violences.",
+      "en": "Jakarta police recorded about 62 gatherings in the Indonesian capital on August 27, according to the Jakarta Post, Tempo and Antara. Protesters, including the Pati United Community Alliance (AMPB), demanded the passage of an asset-forfeiture law and tougher penalties for corruption. The rally came almost a year after riots that killed at least 11 people in August-September 2025, according to the National Human Rights Commission; authorities had deployed a large security presence over fears of a repeat of the violence.",
+      "es": "La policía de Yakarta registró unas 62 concentraciones en la capital indonesia el 27 de agosto, según Jakarta Post, Tempo y Antara. Los manifestantes, entre ellos la Alianza Comunitaria Unida de Pati (AMPB), exigían la aprobación de una ley de decomiso de activos y penas más duras contra la corrupción. La concentración se produjo casi un año después de los disturbios que dejaron al menos 11 muertos en agosto-septiembre de 2025, según la Comisión Nacional de Derechos Humanos; las autoridades habían desplegado un amplio dispositivo de seguridad ante el temor de una repetición de la violencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "La police recense environ 62 rassemblements dans Jakarta, sans violences majeures signalées dans l'immédiat.",
+          "en": "Police record about 62 gatherings across Jakarta, with no major violence reported in the immediate aftermath.",
+          "es": "La policía registra unas 62 concentraciones en Yakarta, sin violencia grave reportada de inmediato."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "coree-ulchi-freedom-shield",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🎖",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Les États-Unis et la Corée du Sud concluent des manœuvres militaires réduites",
+      "en": "United States and South Korea conclude scaled-back military drills",
+      "es": "Estados Unidos y Corea del Sur concluyen unas maniobras militares reducidas"
+    },
+    "summary": {
+      "fr": "L'exercice militaire conjoint américano-sud-coréen Ulchi Freedom Shield s'est achevé le 27 août, selon Al Jazeera. Sa durée a été réduite de onze à cinq jours après que le président américain Donald Trump a demandé à revoir l'ampleur des manœuvres conjointes, invoquant sa relation avec le dirigeant nord-coréen Kim Jong-un. La Corée du Nord avait dénoncé la tenue de ces exercices.",
+      "en": "The joint US-South Korea military exercise Ulchi Freedom Shield ended on August 27, according to Al Jazeera. Its length was cut from eleven to five days after US President Donald Trump asked for the scope of the joint drills to be scaled back, citing his relationship with North Korean leader Kim Jong-un. North Korea had denounced the holding of the exercises.",
+      "es": "El ejercicio militar conjunto entre Estados Unidos y Corea del Sur, Ulchi Freedom Shield, concluyó el 27 de agosto, según Al Jazeera. Su duración se redujo de once a cinco días después de que el presidente estadounidense, Donald Trump, pidiera reducir el alcance de las maniobras conjuntas, citando su relación con el líder norcoreano Kim Jong-un. Corea del Norte había denunciado la realización de estos ejercicios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Les manœuvres Ulchi Freedom Shield, réduites à cinq jours, prennent fin.",
+          "en": "The Ulchi Freedom Shield drills, cut to five days, come to an end.",
+          "es": "Las maniobras Ulchi Freedom Shield, reducidas a cinco días, llegan a su fin."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "france-budget-2027-tensions",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "LCP / CNews",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Vives tensions autour du budget 2027 entre Sébastien Lecornu et La France insoumise",
+      "en": "Sharp tensions over the 2027 budget between Sébastien Lecornu and La France Insoumise",
+      "es": "Fuertes tensiones por el presupuesto de 2027 entre Sébastien Lecornu y La France Insoumise"
+    },
+    "summary": {
+      "fr": "Le chef de file de La France insoumise, Jean-Luc Mélenchon, a annoncé le 23 août que son parti censurerait le budget 2027 avant même sa présentation, selon LCP. Le premier ministre Sébastien Lecornu lui a répondu que « s'annoncer en censure avant même d'avoir travaillé sur le projet, ce n'est pas faire son travail : c'est déserter », selon CNews. Le gouvernement a par ailleurs lancé une mission d'experts indépendants chargée d'analyser l'évolution des finances publiques entre 2027 et 2030.",
+      "en": "La France Insoumise leader Jean-Luc Mélenchon announced on August 23 that his party would vote to censure the 2027 budget even before it is presented, according to LCP. Prime Minister Sébastien Lecornu responded that \"announcing censure before even working on the bill is not doing your job: it's deserting,\" according to CNews. The government has also launched a mission of independent experts tasked with analyzing the trajectory of public finances between 2027 and 2030.",
+      "es": "El líder de La France Insoumise, Jean-Luc Mélenchon, anunció el 23 de agosto que su partido censurará el presupuesto de 2027 incluso antes de que se presente, según LCP. El primer ministro Sébastien Lecornu respondió que «anunciar una censura antes incluso de haber trabajado en el proyecto no es hacer su trabajo: es desertar», según CNews. El gobierno también ha puesto en marcha una misión de expertos independientes encargada de analizar la evolución de las finanzas públicas entre 2027 y 2030."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Jean-Luc Mélenchon annonce que LFI censurera le budget 2027.",
+          "en": "Jean-Luc Mélenchon announces that LFI will censure the 2027 budget.",
+          "es": "Jean-Luc Mélenchon anuncia que LFI censurará el presupuesto de 2027."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "id": "mexicali-alerte-securite",
+    "coords": [
+      -115.4523,
+      32.6245
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "KPBS / Mexico News Daily",
+    "place": {
+      "fr": "Mexicali, Basse-Californie, Mexique",
+      "en": "Mexicali, Baja California, Mexico",
+      "es": "Mexicali, Baja California, México"
+    },
+    "title": {
+      "fr": "Washington suspend son activité consulaire à Mexicali après une alerte sur un groupe criminel",
+      "en": "Washington suspends consular activity in Mexicali after alert over a criminal group",
+      "es": "Washington suspende su actividad consular en Mexicali tras una alerta sobre un grupo criminal"
+    },
+    "summary": {
+      "fr": "Les autorités américaines ont émis une alerte de sécurité et suspendu temporairement leurs activités consulaires à Mexicali, dans le nord du Mexique, en raison d'une « menace potentielle », selon KPBS et Mexico News Daily. La présidente mexicaine Claudia Sheinbaum a confirmé qu'une alerte visait un possible groupe criminel, après la saisie de 120 kilos de fentanyl lors d'une opération conjointe des autorités mexicaines et de la DEA, qui pourrait entraîner des représailles de la part de la cellule « Los Rusos », liée au cartel de Sinaloa. Aucun incident majeur n'a été signalé dans la ville depuis l'alerte.",
+      "en": "US authorities issued a security alert and temporarily suspended consular activities in Mexicali, in northern Mexico, citing a \"potential threat,\" according to KPBS and Mexico News Daily. Mexican President Claudia Sheinbaum confirmed that an alert concerned a possible criminal group, after the seizure of 120 kilograms of fentanyl in a joint operation by Mexican authorities and the DEA, which could trigger retaliation from the \"Los Rusos\" cell linked to the Sinaloa cartel. No major incident has been reported in the city since the alert.",
+      "es": "Las autoridades estadounidenses emitieron una alerta de seguridad y suspendieron temporalmente sus actividades consulares en Mexicali, en el norte de México, citando una «amenaza potencial», según KPBS y Mexico News Daily. La presidenta mexicana Claudia Sheinbaum confirmó que una alerta apuntaba a un posible grupo criminal, tras la incautación de 120 kilogramos de fentanilo en una operación conjunta de las autoridades mexicanas y la DEA, lo que podría provocar represalias de la célula «Los Rusos», vinculada al cártel de Sinaloa. No se ha reportado ningún incidente grave en la ciudad desde la alerta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis émettent une alerte de sécurité et suspendent leur activité consulaire à Mexicali.",
+          "en": "The United States issues a security alert and suspends its consular activity in Mexicali.",
+          "es": "Estados Unidos emite una alerta de seguridad y suspende su actividad consular en Mexicali."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "bresil-lula-congres-accord",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏛",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Lula conclut un accord avec le Congrès pour relancer son agenda avant l'élection",
+      "en": "Lula strikes deal with Congress to advance his pre-election agenda",
+      "es": "Lula alcanza un acuerdo con el Congreso para impulsar su agenda antes de las elecciones"
+    },
+    "summary": {
+      "fr": "Le président brésilien Luiz Inácio Lula da Silva a conclu un accord le 26 août avec les présidents des deux chambres du Congrès pour faire voter, dès la semaine suivante, une série de projets de loi soutenant sa candidature à un quatrième mandat en 2026, selon Bloomberg. Cet accord met fin à plusieurs mois de blocage sur des priorités clés du gouvernement.",
+      "en": "Brazilian President Luiz Inácio Lula da Silva struck a deal on August 26 with the heads of both chambers of Congress to bring a series of bills backing his bid for a fourth term in 2026 to a vote the following week, according to Bloomberg. The agreement ends months of deadlock over key government priorities.",
+      "es": "El presidente brasileño Luiz Inácio Lula da Silva alcanzó un acuerdo el 26 de agosto con los presidentes de ambas cámaras del Congreso para someter a votación, la semana siguiente, una serie de proyectos de ley que respaldan su candidatura a un cuarto mandato en 2026, según Bloomberg. El acuerdo pone fin a meses de bloqueo sobre prioridades clave del gobierno."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte l'accord conclu entre Lula et les chefs du Congrès.",
+          "en": "Bloomberg reports the deal struck between Lula and the heads of Congress.",
+          "es": "Bloomberg informa del acuerdo alcanzado entre Lula y los líderes del Congreso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "vuelta-espana-etape5",
+    "coords": [
+      0.5225,
+      40.8206
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Cyclingnews / TNT Sports",
+    "place": {
+      "fr": "Roquetes (Terres de l'Èbre), Catalogne, Espagne",
+      "en": "Roquetes (Terres de l'Ebre), Catalonia, Spain",
+      "es": "Roquetes (Terres de l'Ebre), Cataluña, España"
+    },
+    "title": {
+      "fr": "Vuelta 2026 : Matthew Brennan remporte la 5e étape, Pogačar toujours en rouge",
+      "en": "2026 Vuelta: Matthew Brennan wins stage 5, Pogačar still in red",
+      "es": "Vuelta 2026: Matthew Brennan gana la 5.ª etapa, Pogačar sigue de rojo"
+    },
+    "summary": {
+      "fr": "Le Britannique Matthew Brennan (Visma-Lease a Bike) a remporté le 26 août la 5e étape de la Vuelta a España, entre Falset et Roquetes, devant le Belge Jordi Meeus et l'Italien Vincenzo Albanese, selon Cyclingnews et TNT Sports. Il s'agit de sa deuxième victoire d'étape après la 2e étape. Le Slovène Tadej Pogačar conserve le maillot rouge de leader du classement général.",
+      "en": "Britain's Matthew Brennan (Visma-Lease a Bike) won the 5th stage of the Vuelta a España on August 26, from Falset to Roquetes, ahead of Belgium's Jordi Meeus and Italy's Vincenzo Albanese, according to Cyclingnews and TNT Sports. It was his second stage win after stage 2. Slovenia's Tadej Pogačar retains the red jersey as overall leader.",
+      "es": "El británico Matthew Brennan (Visma-Lease a Bike) ganó el 26 de agosto la 5.ª etapa de la Vuelta a España, entre Falset y Roquetes, por delante del belga Jordi Meeus y el italiano Vincenzo Albanese, según Cyclingnews y TNT Sports. Es su segunda victoria de etapa tras la 2.ª etapa. El esloveno Tadej Pogačar conserva el maillot rojo de líder de la general."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Matthew Brennan remporte la 5e étape de la Vuelta ; Pogačar reste en tête du classement général.",
+          "en": "Matthew Brennan wins Vuelta stage 5; Pogačar remains atop the general classification.",
+          "es": "Matthew Brennan gana la 5.ª etapa de la Vuelta; Pogačar sigue líder de la clasificación general."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "id": "afsud-cybercriminalite-arrestations",
+    "coords": [
+      28.0473,
+      -26.2041
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🚔",
+    "source": "The Witness / INTERPOL",
+    "place": {
+      "fr": "Johannesburg, Afrique du Sud",
+      "en": "Johannesburg, South Africa",
+      "es": "Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "39 arrestations à Johannesburg dans une opération internationale contre la cybercriminalité",
+      "en": "39 arrests in Johannesburg in international cybercrime crackdown",
+      "es": "39 detenciones en Johannesburgo en una operación internacional contra el cibercrimen"
+    },
+    "summary": {
+      "fr": "La police sud-africaine a arrêté 39 personnes et saisi 2,67 millions de dollars lors de perquisitions dans sept propriétés de Johannesburg liées à un réseau soupçonné d'escroqueries sentimentales et d'investissement visant des retraités de pays anglophones, selon The Witness et INTERPOL. Ces arrestations s'inscrivent dans l'opération Jackal IV, une opération internationale de huit mois coordonnée par INTERPOL dans 22 pays, qui a permis au total 58 arrestations et l'identification de 263 suspects liés à des réseaux ouest-africains comme Black Axe.",
+      "en": "South African police arrested 39 people and seized $2.67 million in raids on seven properties in Johannesburg linked to a network suspected of running romance and investment scams targeting retirees in English-speaking countries, according to The Witness and INTERPOL. The arrests are part of Operation Jackal IV, an eight-month international operation coordinated by INTERPOL across 22 countries, which led to a total of 58 arrests and the identification of 263 suspects linked to West African networks such as Black Axe.",
+      "es": "La policía sudafricana arrestó a 39 personas y confiscó 2,67 millones de dólares en registros de siete propiedades en Johannesburgo vinculadas a una red sospechosa de estafas sentimentales y de inversión dirigidas a jubilados de países de habla inglesa, según The Witness e INTERPOL. Las detenciones forman parte de la Operación Jackal IV, una operación internacional de ocho meses coordinada por INTERPOL en 22 países, que permitió un total de 58 arrestos y la identificación de 263 sospechosos vinculados a redes de África occidental como Black Axe."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "La police sud-africaine annonce 39 arrestations et la saisie de 2,67 millions de dollars à Johannesburg.",
+          "en": "South African police announce 39 arrests and the seizure of $2.67 million in Johannesburg.",
+          "es": "La policía sudafricana anuncia 39 detenciones y la incautación de 2,67 millones de dólares en Johannesburgo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
   }
 ]
