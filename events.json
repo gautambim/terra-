@@ -829,5 +829,920 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      55.0988,
+      51.7727
+    ],
+    "id": "russie-ozon-drones",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / The Moscow Times / Meduza",
+    "place": {
+      "fr": "Orenbourg et Oufa, Russie",
+      "en": "Orenburg and Ufa, Russia",
+      "es": "Oremburgo y Ufá, Rusia"
+    },
+    "title": {
+      "fr": "Des drones ukrainiens frappent des entrepôts du site de commerce en ligne Ozon",
+      "en": "Ukrainian drones strike warehouses of e-commerce site Ozon",
+      "es": "Drones ucranianos atacan almacenes del sitio de comercio electrónico Ozon"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 26 au 27 août, des drones ukrainiens ont frappé des entrepôts logistiques d'Ozon, l'un des principaux sites de commerce en ligne russes, à Orenbourg et près d'Oufa. Ozon indique que le personnel a été évacué sans faire de blessés et que les dégâts sont limités. L'attaque s'inscrit dans une campagne ukrainienne visant depuis mi-juillet plus de vingt centres logistiques russes.",
+      "en": "Overnight on August 26-27, Ukrainian drones struck logistics warehouses belonging to Ozon, one of Russia's largest e-commerce sites, in Orenburg and near Ufa. Ozon says staff were evacuated with no injuries and damage was limited. The strike is part of a Ukrainian campaign that has targeted more than twenty Russian logistics centers since mid-July.",
+      "es": "En la noche del 26 al 27 de agosto, drones ucranianos atacaron almacenes logísticos de Ozon, uno de los principales sitios de comercio electrónico rusos, en Oremburgo y cerca de Ufá. Ozon indica que el personal fue evacuado sin heridos y que los daños fueron limitados. El ataque forma parte de una campaña ucraniana que ha alcanzado más de veinte centros logísticos rusos desde mediados de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Ozon confirme des frappes de drones sur ses entrepôts d'Orenbourg et d'Oufa, sans victime.",
+          "en": "Ozon confirms drone strikes on its Orenburg and Ufa warehouses, with no casualties.",
+          "es": "Ozon confirma ataques de drones contra sus almacenes de Oremburgo y Ufá, sin víctimas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      36.2304,
+      49.9935
+    ],
+    "id": "kharkiv-frappe-hypermarche",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Ukrinform / Kyiv Post / UNITED24 Media",
+    "place": {
+      "fr": "Kharkiv, Ukraine",
+      "en": "Kharkiv, Ukraine",
+      "es": "Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe touche un hypermarché à Kharkiv, un mort",
+      "en": "Russian drone strike hits a hypermarket in Kharkiv, one dead",
+      "es": "Un ataque con dron ruso alcanza un hipermercado en Járkov, un muerto"
+    },
+    "summary": {
+      "fr": "Le 27 août, un drone russe à réaction a frappé un hypermarché Epicentr dans le quartier d'Osnovianskyï, à Kharkiv, tuant un homme de 40 ans et provoquant un incendie sur plus de 300 m². Le bilan des blessés est monté à cinq au fil de la journée, selon le chef de l'administration militaire régionale Oleh Syniehubov. La frappe survient quelques jours après une attaque sur un centre commercial de Kryvyï Rih ayant fait au moins 15 morts le 21 août.",
+      "en": "On August 27, a Russian jet-powered drone struck an Epicentr hypermarket in Kharkiv's Osnovianskyi district, killing a 40-year-old man and sparking a fire covering over 300 square meters. The injury toll rose to five during the day, according to regional military administration head Oleh Syniehubov. The strike comes days after an attack on a shopping mall in Kryvyi Rih killed at least 15 people on August 21.",
+      "es": "El 27 de agosto, un dron ruso a reacción alcanzó un hipermercado Epicentr en el distrito de Osnovianskyi, en Járkov, matando a un hombre de 40 años y provocando un incendio de más de 300 m². El número de heridos subió a cinco durante el día, según el jefe de la administración militar regional, Oleh Syniehubov. El ataque se produce días después de que un ataque contra un centro comercial en Kryvyi Rih matara al menos a 15 personas el 21 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Un drone russe frappe l'hypermarché Epicentr de Kharkiv, faisant un mort et plusieurs blessés.",
+          "en": "A Russian drone strikes the Epicentr hypermarket in Kharkiv, killing one and injuring several.",
+          "es": "Un dron ruso ataca el hipermercado Epicentr de Járkov, causando un muerto y varios heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2,
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "coords": [
+      50.9391,
+      35.84
+    ],
+    "id": "iran-execution-adineh",
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Iran Human Rights / Hengaw / HRANA",
+    "place": {
+      "fr": "Karaj, Iran",
+      "en": "Karaj, Iran",
+      "es": "Karaj, Irán"
+    },
+    "title": {
+      "fr": "L'Iran exécute un détenu arrêté lors des manifestations de janvier 2026",
+      "en": "Iran executes a detainee arrested during the January 2026 protests",
+      "es": "Irán ejecuta a un detenido arrestado durante las protestas de enero de 2026"
+    },
+    "summary": {
+      "fr": "Majid Adineh a été exécuté le 23 août à la prison centrale de Karaj, dans la province d'Alborz. Arrêté en janvier 2026 en lien avec des manifestations, il avait été condamné à mort par le tribunal révolutionnaire de Karaj pour « inimitié envers Dieu ». Des organisations de défense des droits humains affirment qu'il s'agit de la 29e exécution liée à ces manifestations et dénoncent un procès manquant de transparence.",
+      "en": "Majid Adineh was executed on August 23 at Karaj Central Prison in Alborz province. Arrested in January 2026 in connection with protests, he had been sentenced to death by the Karaj Revolutionary Court on charges of 'enmity against God.' Human rights organizations say this is the 29th execution linked to those protests and say the trial lacked transparency.",
+      "es": "Majid Adineh fue ejecutado el 23 de agosto en la prisión central de Karaj, provincia de Alborz. Detenido en enero de 2026 en relación con protestas, había sido condenado a muerte por el tribunal revolucionario de Karaj por 'enemistad contra Dios'. Organizaciones de derechos humanos afirman que se trata de la 29ª ejecución vinculada a esas protestas y denuncian falta de transparencia en el juicio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Majid Adineh est exécuté à la prison centrale de Karaj.",
+          "en": "Majid Adineh is executed at Karaj Central Prison.",
+          "es": "Majid Adineh es ejecutado en la prisión central de Karaj."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      34.3029,
+      31.3469
+    ],
+    "id": "gaza-frappes-khan-younes",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / NPR",
+    "place": {
+      "fr": "Khan Younès, bande de Gaza",
+      "en": "Khan Younis, Gaza Strip",
+      "es": "Khan Yunis, Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes tuent au moins trois Palestiniens à Gaza",
+      "en": "Israeli strikes kill at least three Palestinians in Gaza",
+      "es": "Ataques israelíes matan al menos a tres palestinos en Gaza"
+    },
+    "summary": {
+      "fr": "Le 27 août, au moins trois Palestiniens ont été tués dans des frappes israéliennes distinctes sur la bande de Gaza, dont un commandant du Hamas à Khan Younès que l'armée israélienne dit lié à la détention d'otages israéliens. L'émissaire international chargé de superviser le cessez-le-feu, Nikolay Mladenov, a publiquement critiqué la poursuite des frappes israéliennes. Israël affirme cibler des combattants liés à la prise d'otages du 7 octobre ; des responsables palestiniens et internationaux estiment que ces frappes fragilisent le processus de cessez-le-feu — les versions diffèrent sur ce point.",
+      "en": "On August 27, at least three Palestinians were killed in separate Israeli strikes on the Gaza Strip, including a Hamas commander in Khan Younis whom the Israeli military says was linked to holding Israeli hostages. Nikolay Mladenov, the international envoy overseeing the ceasefire, publicly criticized Israel's continued strikes. Israel says it targets militants tied to the October 7 hostage-taking; Palestinian and international officials say the strikes undermine the ceasefire process — accounts differ on this point.",
+      "es": "El 27 de agosto, al menos tres palestinos murieron en ataques israelíes distintos sobre la Franja de Gaza, entre ellos un comandante de Hamás en Khan Yunis que, según el ejército israelí, estaba vinculado a la retención de rehenes israelíes. El enviado internacional a cargo de supervisar el alto el fuego, Nikolay Mladenov, criticó públicamente la continuación de los ataques israelíes. Israel afirma que ataca a combatientes vinculados a la toma de rehenes del 7 de octubre; funcionarios palestinos e internacionales sostienen que estos ataques debilitan el proceso de alto el fuego — los relatos difieren en este punto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Des frappes israéliennes tuent au moins trois Palestiniens à Gaza, dont un commandant du Hamas à Khan Younès.",
+          "en": "Israeli strikes kill at least three Palestinians in Gaza, including a Hamas commander in Khan Younis.",
+          "es": "Ataques israelíes matan al menos a tres palestinos en Gaza, entre ellos un comandante de Hamás en Khan Yunis."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2,
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "coords": [
+      28.2467,
+      41.0736
+    ],
+    "id": "turquie-maires-chp-condamnes",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Post / Turkish Minute",
+    "place": {
+      "fr": "Istanbul, Turquie",
+      "en": "Istanbul, Turkey",
+      "es": "Estambul, Turquía"
+    },
+    "title": {
+      "fr": "Cinq maires d'opposition condamnés à de lourdes peines de prison en Turquie",
+      "en": "Five opposition mayors sentenced to lengthy prison terms in Turkey",
+      "es": "Cinco alcaldes de la oposición condenados a largas penas de prisión en Turquía"
+    },
+    "summary": {
+      "fr": "La 1ère cour pénale d'Istanbul a rendu son verdict les 24 et 25 août dans le procès de masse dit « Aziz İhsan Aktaş », condamnant cinq maires du parti d'opposition CHP à des peines de 5 à plus de 23 ans de prison pour corruption. Le maire de Beşiktaş, Rıza Akpolat, écope de la peine la plus lourde. La cour a acquitté l'ensemble des accusés du chef d'appartenance à une organisation criminelle. Le CHP dénonce des poursuites à motivation politique ; les autorités turques affirment poursuivre des faits de corruption avérés.",
+      "en": "Istanbul's 1st High Criminal Court announced its verdict on August 24-25 in the mass 'Aziz İhsan Aktaş' trial, sentencing five mayors from the opposition CHP party to prison terms of 5 to over 23 years on corruption charges. Beşiktaş mayor Rıza Akpolat received the heaviest sentence. The court acquitted all defendants of belonging to a criminal organization. The CHP says the prosecution is politically motivated; Turkish authorities say it addresses genuine corruption.",
+      "es": "El 1er Tribunal Penal Superior de Estambul anunció su veredicto los días 24 y 25 de agosto en el juicio masivo llamado 'Aziz İhsan Aktaş', condenando a cinco alcaldes del partido opositor CHP a penas de entre 5 y más de 23 años de prisión por corrupción. El alcalde de Beşiktaş, Rıza Akpolat, recibió la pena más severa. El tribunal absolvió a todos los acusados del cargo de pertenencia a una organización criminal. El CHP denuncia motivación política; las autoridades turcas afirman que se trata de casos reales de corrupción."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal d'Istanbul condamne cinq maires du CHP, dont celui de Beşiktaş à 23 ans de prison.",
+          "en": "The Istanbul court sentences five CHP mayors, including Beşiktaş's to 23 years in prison.",
+          "es": "El tribunal de Estambul condena a cinco alcaldes del CHP, incluido el de Beşiktaş a 23 años de prisión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      37.3,
+      24.2
+    ],
+    "id": "arabie-saoudite-petrolier-houthis",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / Euronews / UKMTO",
+    "place": {
+      "fr": "Au large de Yanbu, mer Rouge, Arabie saoudite",
+      "en": "Off Yanbu, Red Sea, Saudi Arabia",
+      "es": "Frente a Yanbu, mar Rojo, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Un pétrolier saoudien pris pour cible en mer Rouge par les Houthis",
+      "en": "Saudi tanker targeted in the Red Sea by Houthi forces",
+      "es": "Un petrolero saudita blanco de un ataque hutí en el mar Rojo"
+    },
+    "summary": {
+      "fr": "Le 24 août, un pétrolier exploité par la compagnie saoudienne Bahri a été touché par un projectile à environ 63 milles nautiques à l'ouest de Yanbu, provoquant un incendie sur le pont, selon l'organisme britannique de surveillance maritime UKMTO. Le porte-parole militaire houthi Yahya Saree a revendiqué une frappe de missile balistique. L'équipage est indemne. Les autorités saoudiennes n'ont pas confirmé indépendamment la cause de l'incendie ; la revendication houthie n'a pas été vérifiée de façon indépendante.",
+      "en": "On August 24, a tanker operated by Saudi company Bahri was hit by a projectile roughly 63 nautical miles west of Yanbu, causing a deck fire, according to UK maritime monitor UKMTO. Houthi military spokesman Yahya Saree claimed a ballistic missile strike. The crew was unharmed. Saudi authorities did not independently confirm the cause of the fire; the Houthi claim has not been independently verified.",
+      "es": "El 24 de agosto, un petrolero operado por la empresa saudita Bahri fue alcanzado por un proyectil a unas 63 millas náuticas al oeste de Yanbu, provocando un incendio en cubierta, según el organismo británico de vigilancia marítima UKMTO. El portavoz militar hutí Yahya Saree reivindicó un ataque con misil balístico. La tripulación resultó ilesa. Las autoridades saudíes no confirmaron de forma independiente la causa del incendio; la reivindicación hutí no ha sido verificada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Un pétrolier saoudien prend feu au large de Yanbu après avoir été touché par un projectile revendiqué par les Houthis.",
+          "en": "A Saudi tanker catches fire off Yanbu after being hit by a projectile claimed by Houthi forces.",
+          "es": "Un petrolero saudita se incendia frente a Yanbu tras ser alcanzado por un proyectil reivindicado por los hutíes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2,
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "coords": [
+      114.1622,
+      22.3049
+    ],
+    "id": "hongkong-tiananmen-condamnation",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / Hong Kong Free Press / CNN",
+    "place": {
+      "fr": "Hong Kong, Chine",
+      "en": "Hong Kong, China",
+      "es": "Hong Kong, China"
+    },
+    "title": {
+      "fr": "Hong Kong condamne deux figures des veillées de Tiananmen pour subversion",
+      "en": "Hong Kong convicts two Tiananmen vigil leaders of subversion",
+      "es": "Hong Kong condena a dos líderes de las vigilias de Tiananmen por subversión"
+    },
+    "summary": {
+      "fr": "Un tribunal de Hong Kong a condamné le 21 août Lee Cheuk-yan, 69 ans, et Chow Hang-tung, 41 ans, anciens dirigeants de l'Alliance de Hong Kong dissoute, pour « incitation à la subversion » en vertu de la loi sur la sécurité nationale, pour avoir organisé des veillées commémorant la répression de Tiananmen en 1989. Ils encourent jusqu'à dix ans de prison. Une audience de plaidoirie s'est tenue le 28 août avant le prononcé de la peine.",
+      "en": "A Hong Kong court convicted Lee Cheuk-yan, 69, and Chow Hang-tung, 41, former leaders of the disbanded Hong Kong Alliance, on August 21 of 'incitement to subversion' under the national security law for organizing vigils commemorating the 1989 Tiananmen crackdown. They face up to ten years in prison. A mitigation hearing was held on August 28 ahead of sentencing.",
+      "es": "Un tribunal de Hong Kong condenó el 21 de agosto a Lee Cheuk-yan, de 69 años, y Chow Hang-tung, de 41, antiguos líderes de la disuelta Alianza de Hong Kong, por 'incitación a la subversión' bajo la ley de seguridad nacional, por organizar vigilias en conmemoración de la represión de Tiananmen de 1989. Se enfrentan a hasta diez años de prisión. El 28 de agosto se celebró una audiencia de mitigación antes de la sentencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Lee Cheuk-yan et Chow Hang-tung sont reconnus coupables d'incitation à la subversion.",
+          "en": "Lee Cheuk-yan and Chow Hang-tung are found guilty of incitement to subversion.",
+          "es": "Lee Cheuk-yan y Chow Hang-tung son declarados culpables de incitación a la subversión."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Une audience de plaidoirie se tient avant le prononcé de la peine, attendu sous deux semaines.",
+          "en": "A mitigation hearing is held ahead of sentencing, expected within two weeks.",
+          "es": "Se celebra una audiencia de mitigación antes de la sentencia, esperada en dos semanas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      127.6809,
+      26.2124
+    ],
+    "id": "japon-typhon-saudel",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Agence météorologique japonaise / Weathernews",
+    "place": {
+      "fr": "Okinawa et îles Amami, Japon",
+      "en": "Okinawa and Amami Islands, Japan",
+      "es": "Okinawa e islas Amami, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Saudel frappe Okinawa avec des vents violents",
+      "en": "Typhoon Saudel batters Okinawa with violent winds",
+      "es": "El tifón Saudel golpea Okinawa con vientos violentos"
+    },
+    "summary": {
+      "fr": "Le typhon n°18, nommé Saudel et classé « très fort » par l'Agence météorologique japonaise, a balayé les îles Nansei entre le 25 et le 27 août, apportant vents violents, vagues dangereuses et fortes pluies sur Okinawa et Amami. À son pic, le 24 août, il présentait une pression centrale de 940 hPa et des vents soutenus proches de 167 km/h, perturbant les vols au départ de l'aéroport de Naha.",
+      "en": "Typhoon No. 18, named Saudel and rated 'very strong' by the Japan Meteorological Agency, swept the Nansei Islands between August 25-27, bringing violent winds, dangerous waves and heavy rain to Okinawa and Amami. At its peak on August 24, it had a central pressure of 940 hPa and sustained winds near 167 km/h, disrupting flights out of Naha Airport.",
+      "es": "El tifón n.º 18, llamado Saudel y calificado como 'muy fuerte' por la Agencia Meteorológica de Japón, azotó las islas Nansei entre el 25 y el 27 de agosto, con vientos violentos, olas peligrosas y fuertes lluvias en Okinawa y Amami. En su punto máximo, el 24 de agosto, tenía una presión central de 940 hPa y vientos sostenidos cercanos a 167 km/h, interrumpiendo los vuelos desde el aeropuerto de Naha."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Saudel atteint Okinawa avec des vents violents et de fortes pluies.",
+          "en": "Typhoon Saudel reaches Okinawa with violent winds and heavy rain.",
+          "es": "El tifón Saudel llega a Okinawa con vientos violentos y fuertes lluvias."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      84.1167,
+      27.5167
+    ],
+    "id": "bihar-alerte-inondation",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ANI News / India TV News / Deccan Chronicle",
+    "place": {
+      "fr": "Valmikinagar, district de West Champaran, Bihar, Inde",
+      "en": "Valmikinagar, West Champaran district, Bihar, India",
+      "es": "Valmikinagar, distrito de West Champaran, Bihar, India"
+    },
+    "title": {
+      "fr": "Le Bihar en alerte face à la montée des eaux du fleuve Gandak",
+      "en": "Bihar on high alert as the Gandak river rises",
+      "es": "Bihar en alerta ante la crecida del río Gandak"
+    },
+    "summary": {
+      "fr": "Des crues soudaines survenues au Népal le 26 août ont fait grimper brutalement le niveau du fleuve Gandak, poussant les autorités du Bihar à ouvrir les 36 vannes du barrage de Valmikinagar et à placer huit districts en alerte. Le débit entrant pourrait atteindre environ 250 000 cusecs contre 80 000 en temps normal. Environ 5 000 personnes ont été évacuées des zones riveraines du West Champaran, avec le déploiement d'équipes de secours NDRF et SDRF.",
+      "en": "Flash floods in Nepal on August 26 caused a sharp rise in the Gandak river, prompting Bihar authorities to open all 36 gates of the Valmikinagar barrage and place eight districts on alert. Inflow could surge to roughly 250,000 cusecs from a normal 80,000. About 5,000 people were evacuated from riverine areas of West Champaran, with NDRF and SDRF relief teams deployed.",
+      "es": "Inundaciones repentinas en Nepal el 26 de agosto provocaron una fuerte subida del río Gandak, lo que llevó a las autoridades de Bihar a abrir las 36 compuertas de la presa de Valmikinagar y poner en alerta a ocho distritos. El caudal entrante podría alcanzar unos 250.000 cusecs frente a los 80.000 habituales. Unas 5.000 personas fueron evacuadas de las zonas ribereñas de West Champaran, con equipos de socorro NDRF y SDRF desplegados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités du Bihar ouvrent les 36 vannes du barrage de Valmikinagar et évacuent environ 5 000 personnes.",
+          "en": "Bihar authorities open all 36 gates of the Valmikinagar barrage and evacuate about 5,000 people.",
+          "es": "Las autoridades de Bihar abren las 36 compuertas de la presa de Valmikinagar y evacuan a unas 5.000 personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      106.7996,
+      -6.2088
+    ],
+    "id": "jakarta-manifestation-corruption",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / ANTARA News / Tempo",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Une manifestation anti-corruption dégénère devant le Parlement à Jakarta",
+      "en": "Anti-corruption protest turns violent outside Indonesia's parliament in Jakarta",
+      "es": "Una manifestación anticorrupción se torna violenta ante el Parlamento en Yakarta"
+    },
+    "summary": {
+      "fr": "Des milliers de manifestants ont marché le 27 août vers le complexe parlementaire de Senayan, à Jakarta, réclamant une loi sur la confiscation des avoirs et des sanctions plus sévères contre la corruption, un an après des émeutes ayant fait une dizaine de morts. La police a déployé environ 18 500 agents et interpellé 65 personnes. Après la tombée de la nuit, des projectiles ont été lancés sur la police, qui a répliqué au gaz lacrymogène et au canon à eau ; un poste de police et une moto ont été incendiés.",
+      "en": "Thousands marched on August 27 toward Indonesia's parliamentary complex in Senayan, Jakarta, demanding an asset-forfeiture law and tougher punishment for corruption, a year after riots that killed about ten people. Police deployed roughly 18,500 officers and detained 65 people. After nightfall, objects were thrown at police, who responded with tear gas and water cannon; a police post and a motorcycle were set on fire.",
+      "es": "Miles de manifestantes marcharon el 27 de agosto hacia el complejo parlamentario de Senayan, en Yakarta, exigiendo una ley de decomiso de activos y sanciones más duras contra la corrupción, un año después de disturbios que dejaron unos diez muertos. La policía desplegó cerca de 18.500 agentes y detuvo a 65 personas. Tras el anochecer, se lanzaron objetos contra la policía, que respondió con gas lacrimógeno y cañones de agua; un puesto policial y una motocicleta fueron incendiados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Des affrontements éclatent entre manifestants et policiers près du Parlement indonésien.",
+          "en": "Clashes break out between protesters and police near the Indonesian parliament.",
+          "es": "Estallan enfrentamientos entre manifestantes y policía cerca del Parlamento indonesio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      127.1139,
+      36.8151
+    ],
+    "id": "coree-cheonan-explosion-usine",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The Korea Herald / The Korea Times",
+    "place": {
+      "fr": "Cheonan, Corée du Sud",
+      "en": "Cheonan, South Korea",
+      "es": "Cheonan, Corea del Sur"
+    },
+    "title": {
+      "fr": "Une explosion suivie d'un incendie dans une usine de Cheonan fait trois morts",
+      "en": "Explosion and fire at a Cheonan factory kill three",
+      "es": "Una explosión seguida de incendio en una fábrica de Cheonan deja tres muertos"
+    },
+    "summary": {
+      "fr": "Un incendie, apparemment déclenché par une explosion, s'est déclaré vers 11h44 le 28 août dans une usine d'ingrédients pour peintures exploitée par Daewon Industrial, dans le district de Dongnam-gu à Cheonan, tuant trois personnes et en blessant deux autres. Les pompiers ont déployé 68 agents et 37 véhicules dans le cadre d'une réponse d'urgence de niveau 1.",
+      "en": "A fire, apparently triggered by an explosion, broke out around 11:44 a.m. on August 28 at a paint-ingredient factory run by Daewon Industrial in Cheonan's Dongnam-gu district, killing three people and injuring two others. Firefighters deployed 68 personnel and 37 vehicles under a Level 1 emergency response.",
+      "es": "Un incendio, aparentemente provocado por una explosión, se desató hacia las 11:44 del 28 de agosto en una fábrica de ingredientes para pinturas operada por Daewon Industrial, en el distrito de Dongnam-gu, Cheonan, matando a tres personas y hiriendo a otras dos. Los bomberos desplegaron 68 efectivos y 37 vehículos en una respuesta de emergencia de nivel 1."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Une explosion suivie d'un incendie dans une usine de Cheonan fait trois morts et deux blessés.",
+          "en": "An explosion followed by fire at a Cheonan factory kills three and injures two.",
+          "es": "Una explosión seguida de incendio en una fábrica de Cheonan deja tres muertos y dos heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      144.9526,
+      -37.8183
+    ],
+    "id": "melbourne-attaque-couteau",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "ABC News Australia",
+    "place": {
+      "fr": "Melbourne, Australie",
+      "en": "Melbourne, Australia",
+      "es": "Melbourne, Australia"
+    },
+    "title": {
+      "fr": "Une femme poignardée et son fils frappé dans une attaque en plein jour à Melbourne",
+      "en": "Woman stabbed and her son punched in daylight attack in Melbourne",
+      "es": "Una mujer apuñalada y su hijo golpeado en un ataque a plena luz del día en Melbourne"
+    },
+    "summary": {
+      "fr": "Une femme a été poignardée à plusieurs reprises et son fils de 10 ans frappé lors d'une attaque apparemment aléatoire, le 25 août vers 13h, sur Spencer Street, devant le siège de la police de Victoria, dans le centre de Melbourne. La famille, en visite depuis Phillip Island, a été secourue par des passants qui ont maîtrisé l'assaillant, un homme de 27 ans arrêté sur place et déjà connu des services de police.",
+      "en": "A woman was stabbed multiple times and her 10-year-old son punched in an apparently random attack around 1 p.m. on August 25 on Spencer Street, outside Victoria Police headquarters in central Melbourne. The family, visiting from Phillip Island, was helped by bystanders who restrained the attacker, a 27-year-old man arrested at the scene who was already known to police.",
+      "es": "Una mujer fue apuñalada varias veces y su hijo de 10 años golpeado en un ataque aparentemente aleatorio, hacia la 1 p.m. del 25 de agosto, en Spencer Street, frente a la sede de la policía de Victoria, en el centro de Melbourne. La familia, de visita desde Phillip Island, fue auxiliada por transeúntes que redujeron al agresor, un hombre de 27 años detenido en el lugar y ya conocido por la policía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Une femme et son fils sont attaqués au couteau et au poing en plein centre de Melbourne.",
+          "en": "A woman and her son are attacked with a knife and fists in central Melbourne.",
+          "es": "Una mujer y su hijo son atacados con cuchillo y a golpes en el centro de Melbourne."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -108.5007,
+      45.7833
+    ],
+    "id": "billings-fusillade-familiale",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / Montana Free Press",
+    "place": {
+      "fr": "Billings, Montana, États-Unis",
+      "en": "Billings, Montana, United States",
+      "es": "Billings, Montana, Estados Unidos"
+    },
+    "title": {
+      "fr": "Neuf morts dans une fusillade familiale suivie d'un incendie à Billings",
+      "en": "Nine dead in family shooting and house fire in Billings",
+      "es": "Nueve muertos en un tiroteo familiar seguido de incendio en Billings"
+    },
+    "summary": {
+      "fr": "Le soir du 23 août, un homme de 44 ans, Alan Michael Smith, a ouvert le feu sur des proches réunis pour un dîner dans une maison près de Billings, dans le Montana, avant d'incendier la maison et de se donner la mort. Huit membres de sa famille, dont quatre enfants âgés de 7 à 15 ans, ont été tués. Selon des proches, cité par CNN, l'auteur avait été prié de quitter le domicile quelques semaines plus tôt. Il s'agit de la fusillade la plus meurtrière de l'histoire du Montana.",
+      "en": "On the evening of August 23, 44-year-old Alan Michael Smith opened fire on relatives gathered for dinner at a home near Billings, Montana, then set the house on fire and died of a self-inflicted gunshot wound. Eight relatives, including four children aged 7 to 15, were killed. Family members told CNN he had been asked to move out of the home weeks earlier. It is the deadliest mass shooting in Montana's history.",
+      "es": "En la noche del 23 de agosto, Alan Michael Smith, de 44 años, abrió fuego contra familiares reunidos para cenar en una casa cerca de Billings, Montana, luego incendió la vivienda y murió por una herida de bala autoinfligida. Ocho familiares, incluidos cuatro niños de entre 7 y 15 años, murieron. Familiares dijeron a CNN que se le había pedido que abandonara la casa semanas antes. Es el tiroteo masivo más mortífero en la historia de Montana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Un homme tue huit membres de sa famille puis incendie la maison avant de se suicider près de Billings.",
+          "en": "A man kills eight family members then sets the house on fire before taking his own life near Billings.",
+          "es": "Un hombre mata a ocho familiares y luego incendia la casa antes de quitarse la vida cerca de Billings."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      8.5622,
+      50.0379
+    ],
+    "id": "francfort-aeroport-paludisme",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦟",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Aéroport de Francfort, Allemagne",
+      "en": "Frankfurt Airport, Germany",
+      "es": "Aeropuerto de Fráncfort, Alemania"
+    },
+    "title": {
+      "fr": "Deux employés de l'aéroport de Francfort meurent d'un paludisme contracté sur place",
+      "en": "Two Frankfurt Airport workers die after contracting malaria on site",
+      "es": "Dos empleados del aeropuerto de Fráncfort mueren tras contraer paludismo en el lugar"
+    },
+    "summary": {
+      "fr": "Les autorités sanitaires de Francfort ont confirmé le décès de deux des six employés de l'aéroport ayant contracté le paludisme début juillet, un cas rare de « paludisme d'aéroport » probablement transmis par un moustique arrivé à bord d'un avion. L'institut Robert Koch enquête ; les quatre autres personnes infectées se sont rétablies. Des pièges à moustiques ont été installés sur le site.",
+      "en": "Frankfurt's public health authority confirmed that two of six airport employees who contracted malaria in early July have died, a rare case of 'airport malaria' likely transmitted by a mosquito that arrived on a plane. Germany's Robert Koch Institute is investigating; the other four infected workers recovered. Mosquito traps have been installed at the site.",
+      "es": "Las autoridades sanitarias de Fráncfort confirmaron que dos de seis empleados del aeropuerto que contrajeron paludismo a principios de julio han muerto, un caso raro de 'paludismo de aeropuerto' probablemente transmitido por un mosquito llegado a bordo de un avión. El Instituto Robert Koch de Alemania investiga; los otros cuatro infectados se recuperaron. Se instalaron trampas para mosquitos en el lugar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités confirment le décès de deux employés de l'aéroport de Francfort atteints de paludisme.",
+          "en": "Authorities confirm the deaths of two Frankfurt Airport employees who contracted malaria.",
+          "es": "Las autoridades confirman la muerte de dos empleados del aeropuerto de Fráncfort que contrajeron paludismo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -107.394,
+      24.8091
+    ],
+    "id": "sinaloa-violence-cartel",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Infobae / El Universal",
+    "place": {
+      "fr": "Culiacán et Concordia, Sinaloa, Mexique",
+      "en": "Culiacán and Concordia, Sinaloa, Mexico",
+      "es": "Culiacán y Concordia, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Nouvelle flambée de violence des cartels dans l'État de Sinaloa",
+      "en": "New wave of cartel violence in Sinaloa state",
+      "es": "Nueva ola de violencia de cárteles en el estado de Sinaloa"
+    },
+    "summary": {
+      "fr": "Le 24 août, au moins huit personnes ont été tuées et six blessées en une seule journée dans plusieurs municipalités du Sinaloa, dans le cadre des affrontements en cours entre factions du cartel de Sinaloa. Une attaque a notamment visé un bar de Concordia à l'aide d'engins explosifs. Ces violences coïncident avec un nouveau congé pris par le gouverneur Rubén Rocha Moya, entraînant le déploiement d'environ 2 000 militaires supplémentaires à Culiacán.",
+      "en": "On August 24, at least eight people were killed and six injured in a single day across several municipalities in Sinaloa, amid ongoing clashes between Sinaloa Cartel factions. One attack targeted a bar in Concordia with explosive devices. The violence coincided with Governor Rubén Rocha Moya taking another leave of absence, prompting the deployment of about 2,000 additional troops to Culiacán.",
+      "es": "El 24 de agosto, al menos ocho personas murieron y seis resultaron heridas en un solo día en varios municipios de Sinaloa, en medio de enfrentamientos en curso entre facciones del cártel de Sinaloa. Un ataque tuvo como blanco un bar en Concordia con artefactos explosivos. La violencia coincidió con una nueva licencia del gobernador Rubén Rocha Moya, lo que provocó el despliegue de unos 2.000 militares adicionales en Culiacán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/08/2026",
+          "en": "24/08/2026",
+          "es": "24/08/2026"
+        },
+        "d": {
+          "fr": "Au moins huit personnes sont tuées en une journée de violence dans plusieurs municipalités du Sinaloa.",
+          "en": "At least eight people are killed in a single day of violence across several Sinaloa municipalities.",
+          "es": "Al menos ocho personas mueren en una jornada de violencia en varios municipios de Sinaloa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.286,
+      51.557
+    ],
+    "id": "wembley-attaque-couteau",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Metropolitan Police / ITV News London",
+    "place": {
+      "fr": "Wembley, Londres, Royaume-Uni",
+      "en": "Wembley, London, United Kingdom",
+      "es": "Wembley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Un adolescent poignardé mortellement au siège du conseil municipal de Brent, à Wembley",
+      "en": "Teenager fatally stabbed at Brent Council headquarters in Wembley",
+      "es": "Un adolescente muere apuñalado en la sede del ayuntamiento de Brent, en Wembley"
+    },
+    "summary": {
+      "fr": "David Wynter, 17 ans, est mort après avoir été poignardé vers 14h30 le 25 août au Brent Civic Centre, siège du conseil municipal de Brent, sur Engineers Way à Wembley. Les secours n'ont pu le sauver et il a été déclaré mort sur place, devant des employés et des visiteurs du bâtiment. La police métropolitaine a arrêté un garçon de 15 ans, soupçonné de meurtre et toujours en détention.",
+      "en": "David Wynter, 17, died after being stabbed around 2:30 p.m. on August 25 at Brent Civic Centre, Brent Council's headquarters, on Engineers Way in Wembley. Paramedics could not save him and he was pronounced dead at the scene, witnessed by staff and visitors in the building. The Metropolitan Police arrested a 15-year-old boy on suspicion of murder; he remains in custody.",
+      "es": "David Wynter, de 17 años, murió tras ser apuñalado hacia las 14:30 del 25 de agosto en el Brent Civic Centre, sede del ayuntamiento de Brent, en Engineers Way, Wembley. Los paramédicos no pudieron salvarlo y fue declarado muerto en el lugar, ante empleados y visitantes del edificio. La policía metropolitana arrestó a un menor de 15 años, sospechoso de asesinato, que permanece detenido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Un adolescent de 17 ans est mortellement poignardé au siège du conseil de Brent ; un mineur de 15 ans est arrêté.",
+          "en": "A 17-year-old is fatally stabbed at Brent Council's headquarters; a 15-year-old boy is arrested.",
+          "es": "Un adolescente de 17 años muere apuñalado en la sede del ayuntamiento de Brent; un menor de 15 años es arrestado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      9.0159,
+      39.176
+    ],
+    "id": "sardaigne-incendies-capoterra",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "La Nuova Sardegna / L'Unione Sarda",
+    "place": {
+      "fr": "Capoterra, Sardaigne, Italie",
+      "en": "Capoterra, Sardinia, Italy",
+      "es": "Capoterra, Cerdeña, Italia"
+    },
+    "title": {
+      "fr": "Plusieurs incendies d'origine suspecte menacent des habitations en Sardaigne",
+      "en": "Several suspected arson fires threaten homes in Sardinia",
+      "es": "Varios incendios de posible origen intencional amenazan viviendas en Cerdeña"
+    },
+    "summary": {
+      "fr": "Le 25 août, un important feu de forêt s'est déclaré près d'un cimetière à Capoterra, dans la province de Cagliari, se propageant à proximité d'habitations et de commerces et forçant des évacuations. Trois autres incendies, jugés d'origine criminelle, se sont déclarés dans la nuit à Capoterra. Pompiers, corps forestier et bénévoles ont lutté plusieurs heures contre les flammes, dans un contexte de vague d'incendies touchant la Sardaigne et la Sicile.",
+      "en": "On August 25, a major wildfire broke out near a cemetery in Capoterra, in the province of Cagliari, spreading close to homes and businesses and forcing evacuations. Three more fires, believed to be arson, broke out overnight in Capoterra. Firefighters, forestry corps and volunteers battled the flames for hours amid a wider wave of wildfires hitting Sardinia and Sicily.",
+      "es": "El 25 de agosto, un importante incendio forestal se declaró cerca de un cementerio en Capoterra, provincia de Cagliari, propagándose cerca de viviendas y comercios y obligando a evacuaciones. Otros tres incendios, considerados de origen intencional, se declararon durante la noche en Capoterra. Bomberos, el cuerpo forestal y voluntarios combatieron las llamas durante horas en medio de una ola de incendios que afecta a Cerdeña y Sicilia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Un incendie majeur près de Capoterra force des évacuations ; trois autres feux d'origine suspecte se déclarent dans la nuit.",
+          "en": "A major fire near Capoterra forces evacuations; three more suspected arson fires break out overnight.",
+          "es": "Un gran incendio cerca de Capoterra obliga a evacuaciones; otros tres incendios de posible origen intencional se declaran durante la noche."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.3872,
+      48.8137
+    ],
+    "id": "paris-orages-violents",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "⛈",
+    "source": "France Info / Keraunos",
+    "place": {
+      "fr": "Ivry-sur-Seine, région parisienne, France",
+      "en": "Ivry-sur-Seine, Paris region, France",
+      "es": "Ivry-sur-Seine, región de París, Francia"
+    },
+    "title": {
+      "fr": "De violents orages avec grêle et rafales à 130 km/h frappent la région parisienne",
+      "en": "Violent storms with hail and 130 km/h gusts hit the Paris region",
+      "es": "Violentas tormentas con granizo y ráfagas de 130 km/h golpean la región de París"
+    },
+    "summary": {
+      "fr": "Le 27 août, Météo-France a placé une trentaine de départements en vigilance orages alors que de violents orages traversaient la France, frappant particulièrement l'Île-de-France. À Ivry-sur-Seine, des rafales jusqu'à 130 km/h ont déraciné des dizaines d'arbres en cinq minutes et la grêle a blessé un restaurateur atteint au front ; des parkings souterrains ont été inondés à proximité. Près de 100 000 impacts de foudre ont été recensés dans le pays ce jour-là.",
+      "en": "On August 27, Météo-France placed around thirty départements on storm alert as violent thunderstorms swept France, hitting the Paris region especially hard. In Ivry-sur-Seine, gusts up to 130 km/h uprooted dozens of trees within five minutes and hail injured a restaurant owner struck in the forehead; nearby underground parking garages flooded. Nearly 100,000 lightning strikes were recorded nationwide that day.",
+      "es": "El 27 de agosto, Météo-France puso a una treintena de departamentos en alerta por tormentas mientras violentas tormentas eléctricas cruzaban Francia, golpeando especialmente la región de París. En Ivry-sur-Seine, ráfagas de hasta 130 km/h arrancaron decenas de árboles en cinco minutos y el granizo hirió a un restaurador en la frente; aparcamientos subterráneos cercanos se inundaron. Ese día se registraron casi 100.000 rayos en todo el país."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "De violents orages avec grêle et rafales à 130 km/h frappent la région parisienne, faisant des dégâts et un blessé.",
+          "en": "Violent storms with hail and 130 km/h gusts hit the Paris region, causing damage and one injury.",
+          "es": "Violentas tormentas con granizo y ráfagas de 130 km/h golpean la región de París, causando daños y un herido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      4.5,
+      9.9
+    ],
+    "id": "niger-etat-attaques-mosquees",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ThisDay Live / Blueprint Newspapers",
+    "place": {
+      "fr": "Zone de Borgu, État du Niger, Nigeria",
+      "en": "Borgu area, Niger State, Nigeria",
+      "es": "Zona de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés tuent une trentaine de fidèles et en enlèvent une soixantaine dans des mosquées du Nigeria",
+      "en": "Gunmen kill about 30 and abduct around 60 worshippers in mosque attacks in Nigeria",
+      "es": "Hombres armados matan a unos 30 fieles y secuestran a unos 60 en mezquitas de Nigeria"
+    },
+    "summary": {
+      "fr": "Le 21 août, des hommes armés ont mené des raids coordonnés sur des mosquées de quatre villages de la zone de Borgu, dans l'État du Niger, pendant la prière du vendredi, tuant environ 30 personnes et enlevant environ 60 fidèles. Le président Bola Tinubu a condamné cet enlèvement de masse et ordonné aux forces de sécurité de mener une opération de sauvetage. Au 26-27 août, des sénateurs et des organisations islamiques réclamaient toujours la libération urgente des otages, ce qui indique qu'ils n'avaient pas encore été retrouvés.",
+      "en": "On August 21, gunmen carried out coordinated raids on mosques in four villages in the Borgu area of Niger State during Friday prayers, killing an estimated 30 people and abducting around 60 worshippers. President Bola Tinubu condemned the mass abduction and ordered security forces to mount a rescue operation. As of August 26-27, senators and Islamic organizations were still demanding urgent release of the captives, indicating they had not yet been recovered.",
+      "es": "El 21 de agosto, hombres armados llevaron a cabo ataques coordinados contra mezquitas en cuatro aldeas de la zona de Borgu, en el estado de Níger, durante la oración del viernes, matando a unas 30 personas y secuestrando a unos 60 fieles. El presidente Bola Tinubu condenó el secuestro masivo y ordenó a las fuerzas de seguridad realizar una operación de rescate. Hasta el 26-27 de agosto, senadores y organizaciones islámicas seguían exigiendo la liberación urgente de los cautivos, lo que indica que aún no habían sido recuperados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent des mosquées dans l'État du Niger, tuant une trentaine de personnes et en enlevant une soixantaine.",
+          "en": "Gunmen attack mosques in Niger State, killing about 30 people and abducting around 60.",
+          "es": "Hombres armados atacan mezquitas en el estado de Níger, matando a unas 30 personas y secuestrando a unas 60."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Des sénateurs et des organisations islamiques réclament la libération urgente des otages, toujours détenus.",
+          "en": "Senators and Islamic organizations demand urgent release of the hostages, still held captive.",
+          "es": "Senadores y organizaciones islámicas exigen la liberación urgente de los rehenes, aún cautivos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      31.236,
+      30.044
+    ],
+    "id": "egypte-sp-statut-emergent",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Zawya / Arab Finance / EnterpriseAM Egypt",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'Égypte conserve son statut de marché émergent selon S&P Dow Jones Indices",
+      "en": "Egypt retains Emerging Market status according to S&P Dow Jones Indices",
+      "es": "Egipto conserva su estatus de mercado emergente según S&P Dow Jones Indices"
+    },
+    "summary": {
+      "fr": "S&P Dow Jones Indices a annoncé le 20 août qu'il ne rétrograderait pas l'Égypte vers le statut de marché frontière, clôturant un réexamen ouvert en juin. La Bourse égyptienne (EGX) a confirmé avoir reçu la notification officielle de cette décision, qui écarte un scénario où l'Égypte aurait représenté environ 3,4 % d'un indice frontière bien plus restreint, entraînant d'importants mouvements automatiques des fonds indiciels. Les actions égyptiennes ont progressé après l'annonce.",
+      "en": "S&P Dow Jones Indices announced on August 20 that it would not downgrade Egypt to Frontier Market status, closing a review opened in June. The Egyptian Exchange (EGX) confirmed official notification of the decision, which averted a scenario where Egypt would have made up roughly 3.4% of the much smaller frontier index, triggering large automatic index-fund flows. Egyptian equities rallied following the announcement.",
+      "es": "S&P Dow Jones Indices anunció el 20 de agosto que no rebajaría a Egipto al estatus de mercado frontera, cerrando una revisión abierta en junio. La Bolsa de Egipto (EGX) confirmó la notificación oficial de la decisión, que evitó un escenario en el que Egipto habría representado alrededor del 3,4% de un índice frontera mucho más reducido, provocando grandes movimientos automáticos de los fondos indexados. Las acciones egipcias subieron tras el anuncio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "S&P Dow Jones Indices confirme le maintien de l'Égypte dans la catégorie des marchés émergents.",
+          "en": "S&P Dow Jones Indices confirms Egypt remains in the Emerging Market category.",
+          "es": "S&P Dow Jones Indices confirma que Egipto permanece en la categoría de mercados emergentes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
   }
 ]
