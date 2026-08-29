@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Reuters / IRNA",
+    "week": "2026-W35",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27-28/08/2026",
+          "en": "27-28/08/2026",
+          "es": "27-28/08/2026"
+        },
+        "d": {
+          "fr": "Téhéran affirme préparer des conditions formelles pour la réouverture du détroit d'Ormuz (levée du blocus des ports iraniens, compensations, fin des sanctions) ; un accord provisoire de corridor maritime temporaire aurait par ailleurs été trouvé avec Oman, selon Reuters et l'agence iranienne IRNA.",
+          "en": "Tehran says it is preparing formal conditions for reopening the Strait of Hormuz (lifting the blockade on Iranian ports, compensation, an end to sanctions); a tentative temporary shipping-corridor arrangement is also reported to have been reached with Oman, according to Reuters and Iran's IRNA news agency.",
+          "es": "Teherán afirma estar preparando condiciones formales para reabrir el estrecho de Ormuz (levantamiento del bloqueo a los puertos iraníes, compensaciones, fin de las sanciones); además, se informa de un acuerdo provisional de corredor marítimo temporal con Omán, según Reuters y la agencia iraní IRNA."
         },
         "active": true
       }
@@ -829,5 +842,879 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -97.4975,
+      25.9017
+    ],
+    "id": "us-ice-agent-liberation",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / Star Tribune / Al Jazeera",
+    "place": {
+      "fr": "Brownsville, Texas (affaire ouverte à Minneapolis, Minnesota), États-Unis",
+      "en": "Brownsville, Texas (case originating in Minneapolis, Minnesota), United States",
+      "es": "Brownsville, Texas (caso originado en Minneapolis, Minnesota), Estados Unidos"
+    },
+    "title": {
+      "fr": "Un agent de l'ICE inculpé pour une fusillade à Minneapolis est libéré au Texas",
+      "en": "ICE agent charged over Minneapolis shooting released from Texas jail",
+      "es": "Un agente del ICE acusado de un tiroteo en Minneapolis es liberado en Texas"
+    },
+    "summary": {
+      "fr": "Christian Castro, agent de l'agence américaine de l'immigration ICE, avait été inculpé par la justice du Minnesota pour agression et fausse déclaration après avoir tiré à travers la porte d'une maison à Minneapolis le 14 janvier 2026, blessant à la jambe Julio Cesar Sosa-Celis, un ressortissant vénézuélien, avant de nier les faits selon l'accusation. Le 27 août 2026, un juge fédéral du Texas a rejeté la demande d'extradition du Minnesota et ordonné sa libération du centre de détention de Brownsville, le délai légal de détention de 90 jours étant écoulé ; le gouverneur du Texas Greg Abbott avait refusé d'autoriser l'extradition. Castro a été suspendu sans solde.",
+      "en": "Christian Castro, an officer with the US immigration agency ICE, had been charged by Minnesota state prosecutors with assault and making a false police report after allegedly firing through the front door of a home in Minneapolis on January 14, 2026, wounding in the leg Julio Cesar Sosa-Celis, a Venezuelan national, then allegedly lying about what happened. On August 27, 2026, a federal judge in Texas denied Minnesota's extradition request and ordered his release from a detention center in Brownsville after the 90-day legal detention window expired; Texas Governor Greg Abbott had refused to authorize the extradition. Castro was reportedly suspended without pay.",
+      "es": "Christian Castro, agente de la agencia estadounidense de inmigración ICE, había sido acusado por la fiscalía de Minnesota de agresión y de hacer una falsa declaración policial tras disparar presuntamente a través de la puerta de una vivienda en Minneapolis el 14 de enero de 2026, hiriendo en la pierna a Julio Cesar Sosa-Celis, un ciudadano venezolano, y luego mentir sobre lo ocurrido, según la acusación. El 27 de agosto de 2026, un juez federal de Texas rechazó la solicitud de extradición de Minnesota y ordenó su liberación del centro de detención de Brownsville al expirar el plazo legal de 90 días; el gobernador de Texas, Greg Abbott, se había negado a autorizar la extradición. Castro habría sido suspendido sin sueldo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Un juge fédéral du Texas ordonne la libération de Christian Castro, mettant fin à la tentative d'extradition vers le Minnesota.",
+          "en": "A federal judge in Texas orders the release of Christian Castro, ending the extradition attempt to Minnesota.",
+          "es": "Un juez federal de Texas ordena la liberación de Christian Castro, poniendo fin al intento de extradición a Minnesota."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -123.3656,
+      48.4284
+    ],
+    "id": "canada-cb-urgence-fin",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Gouvernement de la Colombie-Britannique / Black Press",
+    "place": {
+      "fr": "Colombie-Britannique, Canada",
+      "en": "British Columbia, Canada",
+      "es": "Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "La Colombie-Britannique met fin à l'état d'urgence provincial lié aux feux de forêt",
+      "en": "British Columbia ends provincial wildfire state of emergency",
+      "es": "Columbia Británica pone fin al estado de emergencia provincial por los incendios forestales"
+    },
+    "summary": {
+      "fr": "Le gouvernement de la Colombie-Britannique a levé, le 27 août 2026, l'état d'urgence provincial déclaré le 8 août face à des feux de forêt qui avaient notamment forcé l'évacuation de la ville de Summerland. Selon les autorités, plus de 500 habitations ou structures ont été détruites ou endommagées dans la province depuis le début de la saison des feux, et une femme de 80 ans est morte le 9 août en tentant d'évacuer près de Summerland. La fin de l'état d'urgence provincial ne lève pas les ordres et alertes d'évacuation encore en vigueur localement, et les autorités préviennent que le risque d'incendie reste élevé.",
+      "en": "The government of British Columbia lifted, on August 27, 2026, the provincial state of emergency declared on August 8 in response to wildfires that had forced, among other things, the evacuation of the town of Summerland. According to authorities, more than 500 homes and structures have been destroyed or damaged across the province since the start of the fire season, and an 80-year-old woman died on August 9 while evacuating near Summerland. Ending the provincial state of emergency does not lift local evacuation orders and alerts still in effect, and officials warn that wildfire risk remains high.",
+      "es": "El gobierno de Columbia Británica levantó, el 27 de agosto de 2026, el estado de emergencia provincial declarado el 8 de agosto ante los incendios forestales que habían forzado, entre otras cosas, la evacuación de la localidad de Summerland. Según las autoridades, más de 500 viviendas o estructuras han sido destruidas o dañadas en toda la provincia desde el inicio de la temporada de incendios, y una mujer de 80 años murió el 9 de agosto mientras evacuaba cerca de Summerland. El fin del estado de emergencia provincial no levanta las órdenes y alertas de evacuación locales que siguen vigentes, y las autoridades advierten que el riesgo de incendio sigue siendo alto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le gouvernement provincial annonce la fin de l'état d'urgence, sur avis des autorités de gestion des urgences.",
+          "en": "The provincial government announces the end of the state of emergency, on the advice of emergency management officials.",
+          "es": "El gobierno provincial anuncia el fin del estado de emergencia, por recomendación de las autoridades de gestión de emergencias."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -97.9833,
+      16.2333
+    ],
+    "id": "mexique-oaxaca-fusillade",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Fiscalía General de Oaxaca / El Universal / El Heraldo de México",
+    "place": {
+      "fr": "Route vers Los Naranjos, municipalité de San Juan Cacahuatepec, région de la Costa, État d'Oaxaca, Mexique",
+      "en": "Road to Los Naranjos, San Juan Cacahuatepec municipality, Costa region, Oaxaca State, Mexico",
+      "es": "Camino a Los Naranjos, municipio de San Juan Cacahuatepec, región de la Costa, estado de Oaxaca, México"
+    },
+    "title": {
+      "fr": "Quatre hommes armés tués lors d'une embuscade contre la police d'État à Oaxaca",
+      "en": "Four gunmen killed in ambush on state police in Oaxaca",
+      "es": "Cuatro hombres armados mueren en una emboscada contra la policía estatal en Oaxaca"
+    },
+    "summary": {
+      "fr": "Le dimanche 23 août 2026, des agents de l'Agence d'enquête de l'État d'Oaxaca (AEI) et du Groupe d'opérations tactiques (GOT), qui enquêtaient sur le groupe criminel « Los Rusos », ont été pris en embuscade par des hommes armés sur la route menant à Los Naranjos, près de San Juan Cacahuatepec. Selon la Fiscalía General de Oaxaca, les agents ont riposté, tuant quatre assaillants présumés, dont un homme identifié comme chef local du groupe dans la région de la Costa. Cinq autres suspects ont été arrêtés dans les heures suivantes, et des renforts de l'armée, de la marine et de la Garde nationale ont été déployés.",
+      "en": "On Sunday, August 23, 2026, agents of Oaxaca's State Investigation Agency (AEI) and Tactical Operations Group (GOT), who were investigating the criminal group known as 'Los Rusos,' were ambushed by armed men on the road to Los Naranjos, near San Juan Cacahuatepec. According to Oaxaca's state prosecutor's office, the agents returned fire, killing four alleged attackers, including a man identified as the group's local leader in the Costa region. Five more suspects were arrested in the following hours, and reinforcements from the army, navy and National Guard were deployed.",
+      "es": "El domingo 23 de agosto de 2026, agentes de la Agencia Estatal de Investigaciones (AEI) y del Grupo de Operaciones Tácticas (GOT) de Oaxaca, que investigaban al grupo delictivo conocido como 'Los Rusos', fueron emboscados por hombres armados en el camino hacia Los Naranjos, cerca de San Juan Cacahuatepec. Según la Fiscalía General de Oaxaca, los agentes repelieron la agresión y abatieron a cuatro presuntos atacantes, entre ellos un hombre identificado como líder local del grupo en la región de la Costa. Otras cinco personas fueron detenidas en las horas posteriores, y se desplegaron refuerzos del Ejército, la Marina y la Guardia Nacional."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026 — heure non précisée",
+          "en": "23/08/2026 — time not specified",
+          "es": "23/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La Fiscalía General de Oaxaca confirme la mort de quatre hommes armés lors d'un affrontement avec ses agents.",
+          "en": "Oaxaca's state prosecutor's office confirms the deaths of four gunmen in a clash with its agents.",
+          "es": "La Fiscalía General de Oaxaca confirma la muerte de cuatro hombres armados en un enfrentamiento con sus agentes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "id": "bresil-taxe-petrole",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢",
+    "source": "Brazil Journal / The Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Un juge suspend la taxe brésilienne de 12 % sur les exportations de pétrole",
+      "en": "Judge suspends Brazil's 12% tax on oil exports",
+      "es": "Un juez suspende el impuesto brasileño del 12 % a las exportaciones de petróleo"
+    },
+    "summary": {
+      "fr": "Le juge Diego Câmara, du 17ᵉ tribunal civil fédéral du District fédéral, a accordé le 27 août 2026 une injonction suspendant la taxe de 12 % sur les exportations de pétrole brut, à la demande de l'association brésilienne des entreprises d'exploration et de production pétrolière (ABEP). Le juge a estimé que la mesure, initialement instaurée par un décret provisoire expiré sans vote du Congrès puis maintenue par une simple résolution de la chambre du commerce extérieur (Camex), contournait le pouvoir législatif. L'action du géant pétrolier public Petrobras a progressé en Bourse après l'annonce. Le gouvernement fédéral envisagerait de faire appel.",
+      "en": "Judge Diego Câmara, of the 17th Federal Civil Court in Brazil's Federal District, granted an injunction on August 27, 2026 suspending the 12% tax on crude oil exports, at the request of the Brazilian Association of Oil and Gas Exploration and Production Companies (ABEP). The judge ruled that the tax, originally created through a provisional measure that expired without a vote in Congress and then kept alive by a simple resolution of the foreign trade chamber (Camex), bypassed the legislative process. Shares of state oil giant Petrobras rose on the news. The federal government is reportedly considering an appeal.",
+      "es": "El juez Diego Câmara, del 17.º Juzgado Civil Federal del Distrito Federal, concedió el 27 de agosto de 2026 una medida cautelar que suspende el impuesto del 12 % a las exportaciones de petróleo crudo, a solicitud de la Asociación Brasileña de Empresas de Exploración y Producción de Petróleo y Gas (ABEP). El juez consideró que el impuesto, creado originalmente mediante una medida provisional que expiró sin votación en el Congreso y mantenido después por una simple resolución de la cámara de comercio exterior (Camex), eludía el proceso legislativo. Las acciones de la petrolera estatal Petrobras subieron tras el anuncio. El gobierno federal estudiaría apelar la decisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La justice fédérale suspend par injonction la taxe sur les exportations de pétrole.",
+          "en": "A federal court suspends the oil export tax by injunction.",
+          "es": "La justicia federal suspende mediante medida cautelar el impuesto a las exportaciones de petróleo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      85.28,
+      28.85
+    ],
+    "id": "chine-tibet-inondation",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Bloomberg / Al Jazeera / NBC News",
+    "related": [
+      "inde-nepal-disparus"
+    ],
+    "place": {
+      "fr": "Gyirong (frontière avec le Népal), préfecture de Xigazê, région autonome du Tibet, Chine",
+      "en": "Gyirong (Nepal border crossing), Xigazê Prefecture, Tibet Autonomous Region, China",
+      "es": "Gyirong (frontera con Nepal), prefectura de Xigazê, Región Autónoma del Tíbet, China"
+    },
+    "title": {
+      "fr": "L'effondrement d'un lac glaciaire provoque une crue meurtrière au poste-frontière de Gyirong",
+      "en": "Glacial lake collapse triggers deadly flood at the Gyirong border crossing",
+      "es": "El colapso de un lago glaciar provoca una crecida mortal en el paso fronterizo de Gyirong"
+    },
+    "summary": {
+      "fr": "L'effondrement d'un lac glaciaire d'altitude a provoqué le 26 août 2026 une crue soudaine et une coulée de boue qui ont englouti un complexe douanier à plusieurs étages au poste-frontière de Gyirong, principale porte commerciale de la Chine vers le Népal. Les autorités chinoises font état d'au moins 5 morts côté tibétain et de 558 personnes portées disparues, dont 260 ressortissants étrangers ; ces bilans, encore provisoires, varient selon les sources et les mises à jour. Le premier ministre Li Qiang s'est rendu sur place le 27 août pour diriger les secours, aux côtés d'environ 500 militaires et paramilitaires, tandis que le président Xi Jinping a appelé à un effort de sauvetage maximal. La catastrophe est nettement plus meurtrière côté népalais, où les autorités locales évoquent plusieurs centaines de morts supplémentaires.",
+      "en": "The collapse of a high-altitude glacial lake triggered, on August 26, 2026, a flash flood and mudslide that engulfed a multi-story customs complex at the Gyirong border crossing, China's main trade gateway to Nepal. Chinese authorities report at least 5 deaths on the Tibetan side and 558 people missing, including 260 foreign nationals; these figures remain provisional and vary between sources and updates. Premier Li Qiang traveled to the site on August 27 to direct rescue efforts, alongside roughly 500 military and paramilitary personnel, while President Xi Jinping called for an all-out rescue effort. The disaster is markedly deadlier on the Nepalese side, where local authorities report several hundred additional deaths.",
+      "es": "El colapso de un lago glaciar de alta montaña provocó, el 26 de agosto de 2026, una crecida repentina y un alud de lodo que sepultó un complejo aduanero de varios pisos en el paso fronterizo de Gyirong, la principal puerta comercial de China hacia Nepal. Las autoridades chinas informan de al menos 5 muertos en el lado tibetano y 558 personas desaparecidas, entre ellas 260 extranjeros; estas cifras siguen siendo provisionales y varían según la fuente y el momento de la actualización. El primer ministro Li Qiang viajó al lugar el 27 de agosto para dirigir las labores de rescate, junto a unos 500 efectivos militares y paramilitares, mientras el presidente Xi Jinping pidió un esfuerzo de rescate máximo. La catástrofe es notablemente más mortal en el lado nepalí, donde las autoridades locales hablan de varios cientos de muertos adicionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026 — heure non précisée",
+          "en": "26/08/2026 — time not specified",
+          "es": "26/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Une crue soudaine liée à l'effondrement d'un lac glaciaire frappe le poste-frontière de Gyirong.",
+          "en": "A flash flood linked to the collapse of a glacial lake strikes the Gyirong border crossing.",
+          "es": "Una crecida repentina vinculada al colapso de un lago glaciar golpea el paso fronterizo de Gyirong."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "id": "inde-nepal-disparus",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Ministère indien des Affaires étrangères (MEA) / ANI / India TV News",
+    "related": [
+      "chine-tibet-inondation"
+    ],
+    "place": {
+      "fr": "New Delhi, Inde (les ressortissants concernés se trouvent au Népal, dans la zone touchée par la crue)",
+      "en": "New Delhi, India (the nationals affected are in Nepal, in the flood-hit area)",
+      "es": "Nueva Delhi, India (los ciudadanos afectados se encuentran en Nepal, en la zona afectada por la crecida)"
+    },
+    "title": {
+      "fr": "320 ressortissants indiens injoignables après la crue meurtrière à la frontière Népal-Tibet",
+      "en": "320 Indian nationals uncontactable after deadly Nepal-Tibet border flood",
+      "es": "320 ciudadanos indios permanecen sin contacto tras la crecida mortal en la frontera Nepal-Tíbet"
+    },
+    "summary": {
+      "fr": "Le ministère indien des Affaires étrangères a annoncé le 28 août 2026 que 320 ressortissants indiens restaient injoignables, et une centaine d'autres personnes d'origine indienne pas encore localisées, après la crue soudaine survenue le 26 août à la frontière entre le Népal et le Tibet chinois. Le ministère a précisé que ces chiffres, issus du recoupement de plusieurs listes de personnes disparues, restaient susceptibles d'évoluer. Soixante-trois ressortissants indiens employés sur le chantier hydroélectrique de Trishuli-1 ont été secourus le 27 août, et l'Inde a proposé l'envoi d'équipes de secours de la NDRF au Népal.",
+      "en": "India's Ministry of External Affairs announced on August 28, 2026 that 320 Indian nationals remained uncontactable, with about 100 more people of Indian origin not yet located, following the flash flood that struck the Nepal-Tibet border on August 26. The ministry said these figures, drawn from the reconciliation of several missing-persons lists, remained fluid. Sixty-three Indian nationals working at the Trishuli-1 hydropower project were rescued on August 27, and India offered to send National Disaster Response Force teams to Nepal.",
+      "es": "El Ministerio de Asuntos Exteriores de la India anunció el 28 de agosto de 2026 que 320 ciudadanos indios seguían sin poder ser contactados, junto con un centenar de personas más de origen indio aún no localizadas, tras la crecida repentina que golpeó la frontera entre Nepal y el Tíbet chino el 26 de agosto. El ministerio señaló que estas cifras, obtenidas al cruzar varias listas de personas desaparecidas, podían seguir cambiando. Sesenta y tres ciudadanos indios que trabajaban en el proyecto hidroeléctrico de Trishuli-1 fueron rescatados el 27 de agosto, y la India ofreció enviar equipos de la Fuerza Nacional de Respuesta a Desastres a Nepal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le MEA indien fait état de 320 ressortissants indiens injoignables après la catastrophe.",
+          "en": "India's MEA reports 320 Indian nationals uncontactable following the disaster.",
+          "es": "El MEA indio informa de 320 ciudadanos indios sin contacto tras la catástrofe."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      137.2113,
+      36.6953
+    ],
+    "id": "japon-inondations-toyama",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧",
+    "source": "The Japan Times / Associated Press / Agence météorologique du Japon",
+    "place": {
+      "fr": "Préfectures de Toyama et d'Ishikawa, Japon",
+      "en": "Toyama and Ishikawa Prefectures, Japan",
+      "es": "Prefecturas de Toyama e Ishikawa, Japón"
+    },
+    "title": {
+      "fr": "Des pluies torrentielles provoquent inondations et coulées de boue dans le centre du Japon",
+      "en": "Torrential rain triggers flooding and landslides in central Japan",
+      "es": "Lluvias torrenciales provocan inundaciones y deslizamientos en el centro de Japón"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles se sont abattues le 27 août 2026 sur les préfectures de Toyama et d'Ishikawa, provoquant inondations et glissements de terrain qui ont coupé des routes et bloqué des habitants chez eux ou dans leur véhicule. L'Agence météorologique du Japon a émis son alerte maximale (niveau 5) pour certaines zones des deux préfectures, et plus de 380 000 personnes ont été invitées à évacuer. À Ishikawa, 270 habitations ont été inondées dans trois communes, et plus de 1 000 foyers ont subi des coupures de courant. Aucun mort ni blessé n'avait été signalé au moment des premiers bilans.",
+      "en": "Torrential rain hit Toyama and Ishikawa prefectures on August 27, 2026, triggering flooding and landslides that closed roads and left residents stranded in homes and vehicles. The Japan Meteorological Agency issued its highest-level (Level 5) emergency warning for parts of both prefectures, and more than 380,000 people were advised to evacuate. In Ishikawa, 270 homes were flooded across three municipalities, and more than 1,000 households lost power. No deaths or injuries had been reported as of the initial tallies.",
+      "es": "Lluvias torrenciales azotaron el 27 de agosto de 2026 las prefecturas de Toyama e Ishikawa, provocando inundaciones y deslizamientos de tierra que cortaron carreteras y dejaron a residentes atrapados en sus casas o vehículos. La Agencia Meteorológica de Japón emitió su alerta máxima (nivel 5) para partes de ambas prefecturas, y se recomendó evacuar a más de 380.000 personas. En Ishikawa, 270 viviendas se inundaron en tres municipios, y más de 1.000 hogares sufrieron cortes de electricidad. No se habían reportado muertos ni heridos en los primeros balances."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "L'Agence météorologique du Japon émet une alerte de niveau 5 alors que des inondations frappent Toyama et Ishikawa.",
+          "en": "Japan's weather agency issues a Level 5 warning as flooding hits Toyama and Ishikawa.",
+          "es": "La Agencia Meteorológica de Japón emite una alerta de nivel 5 mientras las inundaciones golpean Toyama e Ishikawa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "id": "indonesie-manifestation-corruption",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🪧",
+    "source": "The Jakarta Post / Al Jazeera / Antara",
+    "place": {
+      "fr": "Complexe législatif de Senayan (Chambre des représentants), Jakarta, Indonésie",
+      "en": "Senayan Legislative Complex (House of Representatives), Jakarta, Indonesia",
+      "es": "Complejo legislativo de Senayan (Cámara de Representantes), Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Des manifestants affluent devant le Parlement indonésien pour réclamer une loi anticorruption",
+      "en": "Protesters swarm Indonesia's parliament demanding anti-corruption legislation",
+      "es": "Manifestantes se concentran ante el Parlamento indonesio para exigir una ley anticorrupción"
+    },
+    "summary": {
+      "fr": "Des manifestants, notamment rassemblés au sein de l'Alliance de la société de Pati unie (AMPB), se sont rassemblés le 27 août 2026 devant la Chambre des représentants (DPR), dans le complexe de Senayan à Jakarta, pour réclamer l'adoption immédiate d'un projet de loi permettant la confiscation des avoirs de corruption, ainsi que des mesures plus sévères contre les fonctionnaires corrompus. Les autorités ont déployé plus de 18 000 membres des forces de sécurité ; après la tombée de la nuit, des manifestants ont lancé des projectiles vers la police, qui a répondu par des gaz lacrymogènes et un canon à eau. La police de Jakarta avait interpellé 65 personnes avant les rassemblements.",
+      "en": "Protesters, including members of the United Pati Society Alliance (AMPB), gathered on August 27, 2026 outside the House of Representatives (DPR) in Jakarta's Senayan complex to demand the immediate passage of a bill allowing state seizure of assets linked to corruption, along with tougher measures against corrupt officials. Authorities deployed more than 18,000 security personnel; after nightfall, some protesters threw objects at police, who responded with tear gas and a water cannon. Jakarta police had detained 65 people ahead of the rallies.",
+      "es": "Manifestantes, entre ellos miembros de la Alianza de la Sociedad Unida de Pati (AMPB), se congregaron el 27 de agosto de 2026 frente a la Cámara de Representantes (DPR), en el complejo de Senayan en Yakarta, para exigir la aprobación inmediata de un proyecto de ley que permita la confiscación estatal de bienes vinculados a la corrupción, junto con medidas más duras contra los funcionarios corruptos. Las autoridades desplegaron a más de 18.000 efectivos de seguridad; tras el anochecer, algunos manifestantes lanzaron objetos contra la policía, que respondió con gases lacrimógenos y un cañón de agua. La policía de Yakarta había detenido a 65 personas antes de las concentraciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des heurts éclatent entre manifestants et policiers devant le Parlement à Jakarta.",
+          "en": "Clashes break out between protesters and police outside parliament in Jakarta.",
+          "es": "Estallan enfrentamientos entre manifestantes y policías frente al Parlamento en Yakarta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "id": "coree-sud-taux-directeur",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Korea Herald / Korea JoongAng Daily / Bloomberg",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Banque de Corée relève ses taux pour la deuxième fois consécutive",
+      "en": "Bank of Korea raises rates for the second time in a row",
+      "es": "El Banco de Corea sube los tipos por segunda vez consecutiva"
+    },
+    "summary": {
+      "fr": "La Banque de Corée a relevé le 27 août 2026 son taux directeur de 25 points de base, à 3,00 %, une première hausse consécutive depuis début 2023, invoquant une inflation persistante (2,8 % sur un an en juillet) et une croissance plus forte que prévu, portée par les exportations de semi-conducteurs et d'intelligence artificielle. L'institution a simultanément relevé sa prévision de croissance pour 2026 à 3,3 %, contre 2,6 % auparavant. L'indice boursier KOSPI a progressé de 1,53 % le jour de l'annonce, tandis que les valeurs Samsung Electronics et SK hynix reculaient sur fond de rumeurs de nouveaux droits de douane américains sur les semi-conducteurs.",
+      "en": "The Bank of Korea raised its benchmark interest rate by 25 basis points to 3.00% on August 27, 2026 — the first back-to-back hike since early 2023 — citing persistent inflation (2.8% year-on-year in July) and stronger-than-expected growth driven by semiconductor and AI exports. The central bank simultaneously raised its 2026 growth forecast to 3.3%, up from 2.6%. The KOSPI stock index rose 1.53% on the day of the announcement, while shares of Samsung Electronics and SK hynix fell amid reports of possible new US tariffs on semiconductors.",
+      "es": "El Banco de Corea subió su tipo de interés de referencia en 25 puntos básicos hasta el 3,00 % el 27 de agosto de 2026 —la primera subida consecutiva desde principios de 2023—, citando una inflación persistente (2,8 % interanual en julio) y un crecimiento más fuerte de lo previsto, impulsado por las exportaciones de semiconductores e inteligencia artificial. El banco central elevó al mismo tiempo su previsión de crecimiento para 2026 al 3,3 %, frente al 2,6 % anterior. El índice bursátil KOSPI subió un 1,53 % el día del anuncio, mientras que las acciones de Samsung Electronics y SK hynix cayeron ante rumores de nuevos aranceles estadounidenses a los semiconductores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La Banque de Corée annonce une hausse de son taux directeur à 3,00 %.",
+          "en": "The Bank of Korea announces a rate hike to 3.00%.",
+          "es": "El Banco de Corea anuncia una subida de su tipo de referencia al 3,00 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      3.2158,
+      43.3442
+    ],
+    "id": "france-beziers-incendie-proces",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 3 Régions / Hérault Tribune",
+    "place": {
+      "fr": "Tribunal de Béziers, Hérault, France (feu allumé à Carlencas-et-Levas et Lunas)",
+      "en": "Béziers criminal court, Hérault, France (fire started in Carlencas-et-Levas and Lunas)",
+      "es": "Tribunal de Béziers, Hérault, Francia (incendio provocado en Carlencas-et-Levas y Lunas)"
+    },
+    "title": {
+      "fr": "Un ex-pompier volontaire condamné pour avoir provoqué un feu de 80 hectares dans l'Hérault",
+      "en": "Former volunteer firefighter sentenced over 80-hectare fire in southern France",
+      "es": "Un exbombero voluntario condenado por provocar un incendio de 80 hectáreas en Hérault"
+    },
+    "summary": {
+      "fr": "Le tribunal correctionnel de Béziers a condamné le 27 août 2026 un ancien pompier volontaire de 27 ans à quatre ans de prison ferme, assortis de cinq ans de suivi socio-judiciaire avec obligation de soins, pour avoir volontairement allumé un incendie le 5 juillet 2026 à Carlencas-et-Levas et Lunas (Hérault), qui a détruit environ 80 hectares de garrigue. L'homme, arrêté après avoir été aperçu près des flammes, a reconnu les faits ; le feu s'était déclaré en pleine période de risque incendie maximal, lors d'un épisode de canicule.",
+      "en": "The Béziers criminal court sentenced a 27-year-old former volunteer firefighter on August 27, 2026 to four years in prison, with five years of mandatory judicial supervision and treatment, for deliberately starting a fire on July 5, 2026 in Carlencas-et-Levas and Lunas (Hérault) that destroyed about 80 hectares of scrubland. The man, arrested after being seen near the flames, admitted to the act; the fire broke out during a period of maximum wildfire risk amid a heatwave.",
+      "es": "El tribunal penal de Béziers condenó el 27 de agosto de 2026 a un exbombero voluntario de 27 años a cuatro años de prisión, con cinco años de seguimiento judicial obligatorio y tratamiento, por provocar deliberadamente un incendio el 5 de julio de 2026 en Carlencas-et-Levas y Lunas (Hérault) que destruyó unas 80 hectáreas de matorral. El hombre, detenido tras ser visto cerca de las llamas, reconoció los hechos; el fuego se produjo en un periodo de riesgo máximo de incendio, durante una ola de calor."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026 — heure non précisée",
+          "en": "27/08/2026 — time not specified",
+          "es": "27/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le tribunal de Béziers condamne l'auteur reconnu de l'incendie à quatre ans de prison ferme.",
+          "en": "The Béziers court sentences the acknowledged arsonist to four years in prison.",
+          "es": "El tribunal de Béziers condena al autor reconocido del incendio a cuatro años de prisión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1156,
+      51.4613
+    ],
+    "id": "royaume-uni-brixton-perpetuite",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Metropolitan Police / Southwark News / Inside Croydon",
+    "place": {
+      "fr": "Cour criminelle de Croydon (faits survenus à Brixton), Londres, Royaume-Uni",
+      "en": "Croydon Crown Court (offence took place in Brixton), London, United Kingdom",
+      "es": "Tribunal Penal de Croydon (hechos ocurridos en Brixton), Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Perpétuité pour un homme reconnu coupable d'une fusillade mortelle à Brixton en 2021",
+      "en": "Life sentence for man convicted over fatal 2021 Brixton shooting",
+      "es": "Cadena perpetua para un hombre condenado por un tiroteo mortal en Brixton en 2021"
+    },
+    "summary": {
+      "fr": "Trevin Campbell, 35 ans, a été reconnu coupable de meurtre le 21 août 2026 par la Cour criminelle de Croydon et condamné le 25 août à la perpétuité, avec une peine incompressible de 30 ans. Il avait tiré dans les jambes de Gary Mayhew, 32 ans, rue Belinda Road à Brixton, vers 6 heures du matin le 21 octobre 2021, alors que la victime quittait une soirée ; Mayhew était mort le jour même à l'hôpital King's College. Campbell, brièvement arrêté puis relâché faute de preuves suffisantes en 2022, avait été de nouveau interpellé en décembre 2025 grâce à de nouveaux éléments de vidéosurveillance et de balistique.",
+      "en": "Trevin Campbell, 35, was found guilty of murder on August 21, 2026 by Croydon Crown Court and sentenced on August 25 to life imprisonment with a minimum term of 30 years. He had shot Gary Mayhew, 32, in the legs on Belinda Road in Brixton at around 6 a.m. on October 21, 2021, as the victim was leaving a night out; Mayhew died later that day at King's College Hospital. Campbell was briefly arrested and then released for lack of sufficient evidence in 2022, before being re-arrested in December 2025 after new CCTV and ballistics evidence emerged.",
+      "es": "Trevin Campbell, de 35 años, fue declarado culpable de asesinato el 21 de agosto de 2026 por el Tribunal Penal de Croydon y condenado el 25 de agosto a cadena perpetua, con un mínimo de 30 años. Había disparado en las piernas a Gary Mayhew, de 32 años, en Belinda Road, en Brixton, hacia las 6 de la mañana del 21 de octubre de 2021, cuando la víctima salía de una fiesta; Mayhew murió ese mismo día en el hospital King's College. Campbell fue detenido brevemente y luego liberado por falta de pruebas suficientes en 2022, antes de ser arrestado de nuevo en diciembre de 2025 tras la aparición de nuevas pruebas de videovigilancia y balística."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026 — heure non précisée",
+          "en": "25/08/2026 — time not specified",
+          "es": "25/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "La Cour de Croydon condamne Trevin Campbell à la perpétuité pour le meurtre de Gary Mayhew.",
+          "en": "Croydon Crown Court sentences Trevin Campbell to life for the murder of Gary Mayhew.",
+          "es": "El Tribunal de Croydon condena a Trevin Campbell a cadena perpetua por el asesinato de Gary Mayhew."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      15.0873,
+      37.5079
+    ],
+    "id": "italie-canicule",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡",
+    "source": "Euronews / The Local Italy",
+    "place": {
+      "fr": "Sicile orientale et Pouilles, Italie (canicule affectant aussi la Sardaigne)",
+      "en": "Eastern Sicily and Puglia, Italy (heatwave also affecting Sardinia)",
+      "es": "Sicilia oriental y Apulia, Italia (ola de calor que también afecta a Cerdeña)"
+    },
+    "title": {
+      "fr": "Une cinquième vague de canicule fait grimper le thermomètre à 45 °C en Italie",
+      "en": "Fifth heatwave of the summer pushes temperatures to 45°C in Italy",
+      "es": "Una quinta ola de calor eleva el termómetro hasta los 45 °C en Italia"
+    },
+    "summary": {
+      "fr": "La cinquième vague de canicule de l'été, alimentée par un anticyclone d'origine africaine, a atteint son pic le 28 août 2026 avec des températures de 45 °C en Sicile orientale et 44 °C dans les Pouilles, jusqu'à 8 à 10 °C au-dessus des normales saisonnières ; certains prévisionnistes n'excluaient pas des pointes proches de 48 °C en Sardaigne et en Sicile. Neuf villes ont été placées sous alerte sanitaire maximale (« bollino rosso ») par le ministère de la Santé, tandis que le nord du pays faisait face à un risque croissant d'orages violents, de grêle et de vents forts. Aucun décès directement lié à cet épisode n'avait été signalé au moment des premiers bilans.",
+      "en": "The summer's fifth heatwave, driven by an African anticyclone, peaked on August 28, 2026 with temperatures of 45°C in eastern Sicily and 44°C in Puglia, up to 8-10°C above seasonal norms; some forecasters did not rule out peaks close to 48°C in Sardinia and Sicily. Nine cities were placed under the Health Ministry's maximum heat-health alert ('bollino rosso'), while northern Italy faced a growing risk of violent storms, hail and strong winds. No deaths directly linked to this heatwave had been reported as of the initial tallies.",
+      "es": "La quinta ola de calor del verano, impulsada por un anticiclón de origen africano, alcanzó su punto máximo el 28 de agosto de 2026 con temperaturas de 45 °C en el este de Sicilia y 44 °C en Apulia, hasta 8-10 °C por encima de lo habitual en la temporada; algunos meteorólogos no descartaban picos cercanos a los 48 °C en Cerdeña y Sicilia. Nueve ciudades fueron puestas bajo la alerta sanitaria máxima ('bollino rosso') del Ministerio de Sanidad, mientras el norte del país afrontaba un riesgo creciente de tormentas violentas, granizo y vientos fuertes. No se habían reportado muertes directamente vinculadas a esta ola de calor en los primeros balances."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le thermomètre atteint 45 °C en Sicile orientale, jour le plus chaud de l'été selon les prévisionnistes.",
+          "en": "Temperatures reach 45°C in eastern Sicily, the hottest day of the summer according to forecasters.",
+          "es": "El termómetro alcanza los 45 °C en el este de Sicilia, el día más caluroso del verano según los meteorólogos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "id": "espagne-inflation",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "INE / Moncloa.com / Libertad Digital",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "L'inflation espagnole grimpe à 4,3 % en août, un plus haut depuis 2023",
+      "en": "Spanish inflation jumps to 4.3% in August, highest since 2023",
+      "es": "La inflación española sube al 4,3 % en agosto, la más alta desde 2023"
+    },
+    "summary": {
+      "fr": "L'Institut national de la statistique (INE) a publié le 28 août 2026 son estimation avancée de l'inflation, qui a accéléré à 4,3 % sur un an en août, en hausse de sept dixièmes de point par rapport à juillet, son plus haut niveau depuis février 2023. Cette accélération est principalement attribuée à la hausse des prix des carburants, elle-même liée aux tensions pétrolières provoquées par le conflit en Iran. L'inflation sous-jacente (hors énergie et alimentation) s'est légèrement détendue, à 2,9 %. Les chiffres définitifs sont attendus le 15 septembre 2026.",
+      "en": "Spain's National Statistics Institute (INE) published its advance inflation estimate on August 28, 2026, showing annual inflation accelerating to 4.3% in August, up seven-tenths of a point from July and its highest level since February 2023. The acceleration is mainly attributed to rising fuel prices linked to the oil-price tensions caused by the conflict in Iran. Core inflation (excluding energy and food) eased slightly to 2.9%. Final figures are due on September 15, 2026.",
+      "es": "El Instituto Nacional de Estadística (INE) publicó el 28 de agosto de 2026 su estimación avanzada de inflación, que se aceleró hasta el 4,3 % interanual en agosto, siete décimas más que en julio y su nivel más alto desde febrero de 2023. Esta aceleración se atribuye principalmente al alza de los precios de los carburantes, vinculada a su vez a las tensiones petroleras provocadas por el conflicto en Irán. La inflación subyacente (sin energía ni alimentos) se moderó ligeramente hasta el 2,9 %. Los datos definitivos se conocerán el 15 de septiembre de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "L'INE publie une estimation d'inflation annuelle à 4,3 % pour le mois d'août.",
+          "en": "INE publishes an advance annual inflation estimate of 4.3% for August.",
+          "es": "El INE publica una estimación de inflación interanual del 4,3 % para agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-kyiv-frappe",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Reuters / déclaration officielle du président Zelensky",
+    "related": [
+      "russie-engels-frappe"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une vaste attaque russe de drones et de missiles fait au moins 25 morts à Kyiv",
+      "en": "Large-scale Russian drone and missile attack kills at least 25 in Kyiv",
+      "es": "Un gran ataque ruso con drones y misiles deja al menos 25 muertos en Kiev"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 27 au 28 août 2026, la Russie a mené une attaque aérienne de grande ampleur contre Kyiv et sa région, combinant environ 598 drones (dont des drones d'attaque de type Shahed et des leurres) et 31 missiles, parmi lesquels des missiles balistiques Kh-47 Kinjal et Iskander-M/KN-23 ainsi que des missiles de croisière Kh-101. La défense antiaérienne ukrainienne affirme avoir intercepté 563 drones et 26 missiles. Le 29 août, le président Volodymyr Zelensky a fait état d'un bilan porté à 25 morts, dont plusieurs enfants, et le maire de Kyiv Vitali Klitschko a recensé 63 blessés, dont 11 enfants. Des habitations, immeubles et entrepôts ont été endommagés. Des bilans intermédiaires diffusés plus tôt le 28 août faisaient état de chiffres nettement inférieurs, les décomptes ayant évolué au fil des recherches.",
+      "en": "Overnight on August 27-28, 2026, Russia carried out a large-scale aerial attack on Kyiv and the surrounding region, combining roughly 598 drones (including Shahed-type attack drones and decoys) and 31 missiles, among them Kh-47 Kinzhal and Iskander-M/KN-23 ballistic missiles and Kh-101 cruise missiles. Ukrainian air defense said it intercepted 563 drones and 26 missiles. On August 29, President Volodymyr Zelensky said the death toll had risen to 25, including several children, and Kyiv Mayor Vitali Klitschko reported 63 injured, including 11 children. Homes, apartment blocks and warehouses were damaged. Some earlier interim tolls reported on August 28 cited significantly lower figures, as counts evolved during search efforts.",
+      "es": "Durante la noche del 27 al 28 de agosto de 2026, Rusia lanzó un ataque aéreo a gran escala contra Kiev y su región, combinando unos 598 drones (incluidos drones de ataque tipo Shahed y señuelos) y 31 misiles, entre ellos misiles balísticos Kh-47 Kinzhal e Iskander-M/KN-23 y misiles de crucero Kh-101. La defensa antiaérea ucraniana afirmó haber interceptado 563 drones y 26 misiles. El 29 de agosto, el presidente Volodymyr Zelensky informó de que el balance había subido a 25 muertos, entre ellos varios niños, y el alcalde de Kiev, Vitali Klitschko, contabilizó 63 heridos, 11 de ellos menores. Viviendas, bloques de apartamentos y almacenes resultaron dañados. Algunos balances provisionales difundidos antes, el 28 de agosto, citaban cifras notablemente inferiores, ya que los recuentos fueron evolucionando durante las labores de búsqueda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Une attaque russe de drones et de missiles frappe Kyiv dans la nuit, causant des destructions et de premières victimes.",
+          "en": "A Russian drone and missile attack strikes Kyiv overnight, causing destruction and initial casualties.",
+          "es": "Un ataque ruso con drones y misiles golpea Kiev durante la noche, causando destrucción y primeras víctimas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/08/2026 — heure non précisée",
+          "en": "29/08/2026 — time not specified",
+          "es": "29/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le président Zelensky porte le bilan à 25 morts, dont plusieurs enfants, et 63 blessés.",
+          "en": "President Zelensky raises the death toll to 25, including several children, and 63 injured.",
+          "es": "El presidente Zelensky eleva el balance a 25 muertos, entre ellos varios niños, y 63 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 2
+  },
+  {
+    "coords": [
+      46.1147,
+      51.485
+    ],
+    "id": "russie-engels-frappe",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Post / Militarnyi / Ukrainska Pravda (non confirmé de façon indépendante par la Russie)",
+    "related": [
+      "ukraine-kyiv-frappe"
+    ],
+    "place": {
+      "fr": "Engels et Saratov, oblast de Saratov, Russie",
+      "en": "Engels and Saratov, Saratov Oblast, Russia",
+      "es": "Engels y Sarátov, óblast de Sarátov, Rusia"
+    },
+    "title": {
+      "fr": "L'Ukraine dit avoir endommagé un bombardier stratégique russe et une raffinerie à Saratov",
+      "en": "Ukraine says it damaged a Russian strategic bomber and a refinery in Saratov",
+      "es": "Ucrania afirma haber dañado un bombardero estratégico ruso y una refinería en Sarátov"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 27 au 28 août 2026, les forces ukrainiennes affirment avoir frappé la base aérienne de bombardiers stratégiques d'Engels-2 et la raffinerie de pétrole de Saratov, en Russie, dans le cadre d'un raid de drones de grande ampleur. Selon des médias ukrainiens s'appuyant sur des images satellite, un bombardier stratégique Tu-95MS aurait subi de graves dommages à une aile, au point d'être jugé irréparable par certains analystes. Ces informations proviennent exclusivement de sources ukrainiennes ou proches de l'Ukraine ; aucune confirmation indépendante par la Russie ou par une agence de presse occidentale n'a été trouvée à ce stade. Une frappe similaire visant les mêmes installations avait déjà eu lieu le 2 août, partiellement reconnue par le gouverneur régional de Saratov, qui avait alors évoqué des dégâts à des « infrastructures civiles ».",
+      "en": "Overnight on August 27-28, 2026, Ukrainian forces say they struck the Engels-2 strategic bomber airbase and the Saratov oil refinery in Russia, as part of a large-scale drone raid. According to Ukrainian media citing satellite imagery, a Tu-95MS strategic bomber suffered serious wing damage, to the point that some analysts assessed it as likely beyond repair. This information comes exclusively from Ukrainian or Ukraine-aligned sources; no independent confirmation from Russia or a Western wire service was found at this stage. A similar strike on the same facilities occurred on August 2, partly acknowledged by Saratov's regional governor, who at the time referred to damage to 'civilian infrastructure.'",
+      "es": "Durante la noche del 27 al 28 de agosto de 2026, las fuerzas ucranianas afirman haber atacado la base aérea de bombarderos estratégicos de Engels-2 y la refinería de petróleo de Sarátov, en Rusia, como parte de un ataque de drones a gran escala. Según medios ucranianos que citan imágenes satelitales, un bombardero estratégico Tu-95MS habría sufrido graves daños en un ala, hasta el punto de que algunos analistas lo consideran probablemente irreparable. Esta información proviene exclusivamente de fuentes ucranianas o afines a Ucrania; no se ha encontrado, por el momento, confirmación independiente por parte de Rusia ni de una agencia occidental. Un ataque similar contra las mismas instalaciones ya se había producido el 2 de agosto, parcialmente reconocido por el gobernador regional de Sarátov, quien entonces mencionó daños a 'infraestructura civil'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des sources ukrainiennes affirment avoir endommagé un bombardier Tu-95MS et une raffinerie à Saratov ; la Russie n'a pas confirmé ces informations.",
+          "en": "Ukrainian sources say they damaged a Tu-95MS bomber and a refinery in Saratov; Russia has not confirmed these reports.",
+          "es": "Fuentes ucranianas afirman haber dañado un bombardero Tu-95MS y una refinería en Sarátov; Rusia no ha confirmado estas informaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 1
+  },
+  {
+    "coords": [
+      4.5167,
+      9.8833
+    ],
+    "id": "nigeria-borgu-enlevement",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera / France 24 / Sahara Reporters",
+    "place": {
+      "fr": "Village de Dekera et communes voisines, zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Dekera village and surrounding communities, Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Aldea de Dekera y comunidades vecinas, área de gobierno local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés attaquent une mosquée et enlèvent des fidèles dans l'État du Niger",
+      "en": "Gunmen attack a mosque and abduct worshippers in Niger State",
+      "es": "Hombres armados atacan una mezquita y secuestran a fieles en el estado de Níger"
+    },
+    "summary": {
+      "fr": "Le vendredi 21 août 2026, des hommes armés ont attaqué quatre communautés de la zone de Borgu, dans l'État du Niger, et pris d'assaut la mosquée centrale du village de Dekera pendant la prière du vendredi, enlevant des fidèles, en majorité des femmes, des enfants et des personnes âgées. Un responsable local a indiqué à Reuters que 30 personnes avaient été tuées et inhumées le 23 août. Le nombre de personnes enlevées reste disputé : des habitants évoquent jusqu'à plusieurs centaines de victimes, tandis que le gouvernement de l'État du Niger a refusé de confirmer un chiffre, le jugeant trop spéculatif. Le président Bola Tinubu a ordonné une opération militaire de secours, lancée le 26 août ; environ 2 000 habitants ont fui vers le Bénin voisin.",
+      "en": "On Friday, August 21, 2026, gunmen attacked four communities in the Borgu area of Niger State and stormed the central mosque in Dekera village during Friday prayers, abducting worshippers, mostly women, children and elderly people. A local official told Reuters that 30 people were killed and buried on August 23. The number of people abducted remains disputed: residents cite figures as high as several hundred, while Niger State's government has declined to confirm any number, calling it too speculative. President Bola Tinubu ordered a military rescue operation, launched on August 26; roughly 2,000 residents fled across the border into neighboring Benin.",
+      "es": "El viernes 21 de agosto de 2026, hombres armados atacaron cuatro comunidades de la zona de Borgu, en el estado de Níger, y asaltaron la mezquita central de la aldea de Dekera durante la oración del viernes, secuestrando a fieles, en su mayoría mujeres, niños y ancianos. Un funcionario local declaró a Reuters que 30 personas fueron asesinadas y enterradas el 23 de agosto. La cifra de personas secuestradas sigue siendo objeto de disputa: los residentes hablan de hasta varios cientos de víctimas, mientras que el gobierno del estado de Níger se ha negado a confirmar una cifra, calificándola de demasiado especulativa. El presidente Bola Tinubu ordenó una operación militar de rescate, lanzada el 26 de agosto; unos 2.000 residentes huyeron hacia el vecino Benín."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026 — heure non précisée",
+          "en": "21/08/2026 — time not specified",
+          "es": "21/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent la mosquée de Dekera pendant la prière du vendredi et enlèvent des fidèles.",
+          "en": "Gunmen attack the Dekera mosque during Friday prayers and abduct worshippers.",
+          "es": "Hombres armados atacan la mezquita de Dekera durante la oración del viernes y secuestran a fieles."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/08/2026 — heure non précisée",
+          "en": "26/08/2026 — time not specified",
+          "es": "26/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le président Tinubu ordonne le lancement d'une opération militaire pour retrouver les personnes enlevées.",
+          "en": "President Tinubu orders the launch of a military operation to locate the abducted people.",
+          "es": "El presidente Tinubu ordena el inicio de una operación militar para localizar a las personas secuestradas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "coords": [
+      23.0475,
+      -34.0356
+    ],
+    "id": "afrique-sud-knysna-assassinats",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Daily Maverick / News24 / eNCA",
+    "place": {
+      "fr": "Knysna, Cap-Occidental, Afrique du Sud",
+      "en": "Knysna, Western Cape, South Africa",
+      "es": "Knysna, Cabo Occidental, Sudáfrica"
+    },
+    "title": {
+      "fr": "Une vague d'assassinats politiques frappe Knysna, un policier enquêteur tué à son tour",
+      "en": "Wave of political killings hits Knysna, investigating police officer also shot dead",
+      "es": "Una ola de asesinatos políticos golpea Knysna; también muere un policía que investigaba el caso"
+    },
+    "summary": {
+      "fr": "Le conseiller municipal ANC et ancien maire de Knysna Aubrey Tsengwa, 48 ans, a été abattu le 19 août 2026 à Joodsekamp. Moins de 24 heures plus tard, l'ancien conseiller Mandla Matiwane, 47 ans, et le président de l'association de taxis Codeta, Mandla Tyololo, 48 ans, ont été tués ensemble à Bongani. Trois suspects ont comparu devant la justice pour le meurtre de Tsengwa. Le 26 août, un capitaine de la police sud-africaine enquêtant sur ces meurtres a lui-même été tué par balle lors d'une opération dans un quartier informel de Knysna ; un suspect de 38 ans est mort dans l'échange de tirs. Le gouvernement sud-africain a condamné ces meurtres le 28 août et appelé à la retenue politique à l'approche des élections locales du 4 novembre ; des chercheurs recensent au moins 23 assassinats politiques présumés depuis le début de l'année dans cinq provinces.",
+      "en": "ANC councillor and former Knysna mayor Aubrey Tsengwa, 48, was shot dead on August 19, 2026 in Joodsekamp. Less than 24 hours later, former councillor Mandla Matiwane, 47, and taxi association (Codeta) chair Mandla Tyololo, 48, were shot dead together in Bongani. Three suspects have appeared in court over Tsengwa's murder. On August 26, a South African police captain investigating the killings was himself shot dead during an operation in an informal settlement in Knysna; a 38-year-old suspect died in the exchange of gunfire. South Africa's government condemned the killings on August 28 and urged political tolerance ahead of the November 4 local elections; researchers count at least 23 suspected political assassinations since the start of the year across five provinces.",
+      "es": "El concejal del ANC y exalcalde de Knysna Aubrey Tsengwa, de 48 años, fue asesinado a tiros el 19 de agosto de 2026 en Joodsekamp. Menos de 24 horas después, el exconcejal Mandla Matiwane, de 47 años, y el presidente de la asociación de taxis Codeta, Mandla Tyololo, de 48, fueron asesinados juntos en Bongani. Tres sospechosos han comparecido ante la justicia por el asesinato de Tsengwa. El 26 de agosto, un capitán de la policía sudafricana que investigaba los asesinatos fue a su vez abatido durante un operativo en un asentamiento informal de Knysna; un sospechoso de 38 años murió en el tiroteo. El gobierno sudafricano condenó los asesinatos el 28 de agosto y pidió moderación política ante las elecciones locales del 4 de noviembre; investigadores contabilizan al menos 23 presuntos asesinatos políticos desde comienzos de año en cinco provincias."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026 — heure non précisée",
+          "en": "26/08/2026 — time not specified",
+          "es": "26/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Un capitaine de police enquêtant sur les assassinats de Knysna est tué par balle lors d'une opération.",
+          "en": "A police captain investigating the Knysna killings is shot dead during an operation.",
+          "es": "Un capitán de policía que investigaba los asesinatos de Knysna muere abatido durante un operativo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "id": "egypte-sanctions-banque-misr",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Bloomberg / CNBC / Département du Trésor américain",
+    "place": {
+      "fr": "Le Caire, Égypte (branches visées basées à Abou Dabi et Dubaï, Émirats arabes unis)",
+      "en": "Cairo, Egypt (targeted branches based in Abu Dhabi and Dubai, UAE)",
+      "es": "El Cairo, Egipto (sucursales afectadas con sede en Abu Dabi y Dubái, EAU)"
+    },
+    "title": {
+      "fr": "Washington vise les filiales émiraties de la banque publique égyptienne Banque Misr pour liens présumés avec l'Iran",
+      "en": "US targets Egyptian state bank's UAE branches over alleged Iran ties",
+      "es": "EE. UU. apunta a las filiales emiratíes del banco estatal egipcio Banque Misr por presuntos vínculos con Irán"
+    },
+    "summary": {
+      "fr": "Le département du Trésor américain, via son unité de lutte contre la criminalité financière (FinCEN), a annoncé le 28 août 2026 vouloir couper les six succursales émiraties de Banque Misr, deuxième banque publique d'Égypte, de l'accès aux correspondants bancaires américains, dans le cadre de sa campagne d'isolement financier de l'Iran. Selon le Trésor, ces succursales auraient traité environ 1,8 milliard de dollars de transactions entre janvier 2024 et juin 2026 pour le compte de 103 entreprises liées à des réseaux financiers iraniens informels. La mesure ne vise que les activités émiraties de la banque, pas ses opérations en Égypte.",
+      "en": "The US Treasury Department, through its Financial Crimes Enforcement Network (FinCEN), announced on August 28, 2026 that it intends to cut off the six UAE branches of Banque Misr, Egypt's second-largest state bank, from access to US correspondent banking, as part of its campaign to financially isolate Iran. According to the Treasury, the branches processed about $1.8 billion in transactions between January 2024 and June 2026 on behalf of 103 companies linked to informal Iranian financial networks. The action targets only the bank's UAE operations, not its activities in Egypt.",
+      "es": "El Departamento del Tesoro de EE. UU., a través de su unidad contra delitos financieros (FinCEN), anunció el 28 de agosto de 2026 su intención de cortar el acceso de las seis sucursales emiratíes de Banque Misr, el segundo banco estatal más grande de Egipto, a la banca corresponsal estadounidense, como parte de su campaña para aislar financieramente a Irán. Según el Tesoro, esas sucursales procesaron unos 1.800 millones de dólares en transacciones entre enero de 2024 y junio de 2026 en nombre de 103 empresas vinculadas a redes financieras informales iraníes. La medida solo afecta a las operaciones emiratíes del banco, no a sus actividades en Egipto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Le Trésor américain propose de couper les filiales émiraties de Banque Misr du système bancaire américain.",
+          "en": "The US Treasury proposes cutting Banque Misr's UAE branches off from the US banking system.",
+          "es": "El Tesoro de EE. UU. propone cortar a las filiales emiratíes de Banque Misr del sistema bancario estadounidense."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
+  },
+  {
+    "coords": [
+      34.3029,
+      31.3469
+    ],
+    "id": "gaza-frappes-khan-younis",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Times of Israel / Arab News",
+    "place": {
+      "fr": "Nord de Khan Younis et quartier de Sabra, Gaza-Ville, bande de Gaza",
+      "en": "North of Khan Younis and the Sabra neighborhood, Gaza City, Gaza Strip",
+      "es": "Norte de Jan Yunis y barrio de Sabra, ciudad de Gaza, Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes font cinq morts dans la bande de Gaza",
+      "en": "Israeli strikes kill five in the Gaza Strip",
+      "es": "Ataques israelíes causan cinco muertos en la Franja de Gaza"
+    },
+    "summary": {
+      "fr": "Selon des sources médicales et de la protection civile palestiniennes, une frappe de drone israélienne a tué au petit matin du 28 août 2026, au nord de Khan Younis, trois membres d'une même famille présentés par des sources locales comme des agriculteurs travaillant leur terre. Une autre frappe de drone dans le quartier de Sabra, à Gaza-Ville, a tué un homme, et une cinquième victime a été recensée le même jour par les autorités sanitaires de Gaza. Un porte-parole militaire israélien a déclaré à l'AFP que l'armée « se penchait » sur ces informations ; selon le Times of Israel, l'armée israélienne a indiqué avoir visé ce jour-là des combattants du Hamas et du Jihad islamique à Gaza. Les sources palestiniennes et le récit militaire israélien divergent sur le statut des victimes, sans qu'aucune version n'ait pu être vérifiée de manière indépendante.",
+      "en": "According to Palestinian medical and civil defense sources, an Israeli drone strike killed three members of the same family early on August 28, 2026, north of Khan Younis; local sources described them as farmers working their land. A separate Israeli drone strike in the Sabra neighborhood of Gaza City killed one man, and a fifth death was recorded the same day by Gaza health authorities. An Israeli military spokesperson told AFP the army was 'looking into' the reports; according to the Times of Israel, the Israeli military said it had struck Hamas and Islamic Jihad fighters in Gaza that day. Palestinian sources and the Israeli military's account differ on the status of the victims, and neither version could be independently verified.",
+      "es": "Según fuentes médicas y de defensa civil palestinas, un ataque con drones israelí mató a tres miembros de una misma familia en la madrugada del 28 de agosto de 2026, al norte de Jan Yunis; fuentes locales los describieron como agricultores que trabajaban su tierra. Otro ataque con drones israelí en el barrio de Sabra, en la ciudad de Gaza, mató a un hombre, y las autoridades sanitarias de Gaza registraron una quinta muerte ese mismo día. Un portavoz militar israelí declaró a la AFP que el ejército estaba 'analizando' la información; según el Times of Israel, el ejército israelí afirmó haber atacado ese día a combatientes de Hamás y la Yihad Islámica en Gaza. Las fuentes palestinas y la versión militar israelí difieren sobre la condición de las víctimas, y ninguna de las dos pudo ser verificada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026 — heure non précisée",
+          "en": "28/08/2026 — time not specified",
+          "es": "28/08/2026 — hora no especificada"
+        },
+        "d": {
+          "fr": "Des frappes israéliennes distinctes tuent cinq personnes à Khan Younis et Gaza-Ville, selon les autorités sanitaires de Gaza.",
+          "en": "Separate Israeli strikes kill five people in Khan Younis and Gaza City, according to Gaza health authorities.",
+          "es": "Ataques israelíes independientes matan a cinco personas en Jan Yunis y la ciudad de Gaza, según las autoridades sanitarias de Gaza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W35",
+    "priority": 3
   }
 ]
