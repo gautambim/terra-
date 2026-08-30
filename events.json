@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / CENTCOM",
+    "week": "2026-W35",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le Corps des gardiens de la révolution iranien affirme garder le « contrôle total » du détroit d'Ormuz ; le commandement militaire américain (CENTCOM) le dément et dit avoir dérouté environ 82 navires. Le président iranien Massoud Pezeshkian pose des conditions à la réouverture du couloir.",
+          "en": "Iran's Revolutionary Guard Corps claims to retain \"complete control\" over the Strait of Hormuz; US Central Command disputes this and says it has rerouted roughly 82 ships. Iranian President Masoud Pezeshkian sets conditions for reopening the corridor.",
+          "es": "El Cuerpo de Guardianes de la Revolución de Irán afirma mantener el \"control total\" del estrecho de Ormuz; el Mando Central de EE. UU. (CENTCOM) lo desmiente y asegura haber desviado unos 82 barcos. El presidente iraní, Masoud Pezeshkian, plantea condiciones para reabrir el corredor."
         },
         "active": true
       }
@@ -829,5 +842,976 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "reno-hawk-incendie",
+    "coords": [
+      -119.81,
+      39.53
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "NPR / CNN / CBS News",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Reno, Nevada, États-Unis",
+      "en": "Reno, Nevada, United States",
+      "es": "Reno, Nevada, Estados Unidos"
+    },
+    "title": {
+      "fr": "L'incendie Hawk force l'évacuation de près de 90 000 personnes près de Reno, aux États-Unis",
+      "en": "Hawk Fire forces nearly 90,000 to evacuate near Reno, Nevada",
+      "es": "El incendio Hawk obliga a evacuar a casi 90.000 personas cerca de Reno, en Estados Unidos"
+    },
+    "summary": {
+      "fr": "Un feu de forêt appelé Hawk Fire s'est déclaré au nord-ouest de Reno, dans le Nevada, et a rapidement progressé jusqu'à environ 15 000 acres (6 000 hectares), menaçant des quartiers résidentiels. Le gouverneur du Nevada, Joe Lombardo, a déclaré l'état d'urgence dans le comté de Washoe et mobilisé la Garde nationale, selon NPR, CNN et CBS News. Près de 90 000 personnes ont reçu un ordre ou un avis d'évacuation, et au moins 32 maisons ont été détruites. Il s'agit du troisième grand incendie d'origine humaine dans les collines au nord de Reno en deux semaines, selon ces mêmes sources.",
+      "en": "The Hawk Fire broke out northwest of Reno, Nevada, and rapidly grew to roughly 15,000 acres, threatening residential neighborhoods. Nevada Governor Joe Lombardo declared a state of emergency in Washoe County and mobilized the National Guard, according to NPR, CNN and CBS News. Nearly 90,000 people were placed under evacuation orders or warnings, and at least 32 homes were destroyed. It is the third major human-caused wildfire in the hills north of Reno in two weeks, according to the same sources.",
+      "es": "El incendio Hawk se originó al noroeste de Reno, Nevada, y creció rápidamente hasta unas 15.000 acres, amenazando barrios residenciales. El gobernador de Nevada, Joe Lombardo, declaró el estado de emergencia en el condado de Washoe y movilizó a la Guardia Nacional, según NPR, CNN y CBS News. Casi 90.000 personas recibieron órdenes o avisos de evacuación, y al menos 32 viviendas fueron destruidas. Es el tercer gran incendio de origen humano en las colinas al norte de Reno en dos semanas, según las mismas fuentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie Hawk s'étend rapidement et pousse les autorités à ordonner l'évacuation de dizaines de milliers de personnes.",
+          "en": "The Hawk Fire spreads rapidly, prompting authorities to order the evacuation of tens of thousands of people.",
+          "es": "El incendio Hawk se propaga rápidamente y obliga a las autoridades a ordenar la evacuación de decenas de miles de personas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bc-etat-urgence-incendies",
+    "coords": [
+      -119.68,
+      49.6
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CBC News / gouvernement de la Colombie-Britannique",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Summerland, Colombie-Britannique, Canada",
+      "en": "Summerland, British Columbia, Canada",
+      "es": "Summerland, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "La Colombie-Britannique prolonge l'état d'urgence face à plus de 100 feux de forêt",
+      "en": "British Columbia extends state of emergency amid more than 100 wildfires",
+      "es": "Columbia Británica prolonga el estado de emergencia por más de 100 incendios forestales"
+    },
+    "summary": {
+      "fr": "Le gouvernement de la Colombie-Britannique a prolongé d'une semaine, jusqu'au 29 août, l'état d'urgence provincial déclaré face à plus de 100 feux de forêt actifs, selon CBC News et le gouvernement provincial. L'incendie Bald Range a notamment forcé l'évacuation des quelque 12 000 habitants de Summerland, dans la vallée de l'Okanagan. Plus de 20 000 personnes ont été déplacées au plus fort de la crise dans la province, selon ces mêmes sources.",
+      "en": "British Columbia's government extended the provincewide state of emergency by a further week, through August 29, in response to more than 100 active wildfires, according to CBC News and the provincial government. The Bald Range fire in particular forced the evacuation of the roughly 12,000 residents of Summerland, in the Okanagan Valley. More than 20,000 people were displaced at the peak of the crisis across the province, according to the same sources.",
+      "es": "El gobierno de Columbia Británica prolongó una semana más, hasta el 29 de agosto, el estado de emergencia provincial declarado ante más de 100 incendios forestales activos, según CBC News y el gobierno provincial. El incendio Bald Range obligó en particular a evacuar a los cerca de 12.000 habitantes de Summerland, en el valle de Okanagan. Más de 20.000 personas fueron desplazadas en el punto álgido de la crisis en toda la provincia, según las mismas fuentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/08/2026",
+          "en": "08/08/2026",
+          "es": "08/08/2026"
+        },
+        "d": {
+          "fr": "La Colombie-Britannique déclare l'état d'urgence provincial face aux feux de forêt.",
+          "en": "British Columbia declares a provincewide state of emergency over wildfires.",
+          "es": "Columbia Británica declara el estado de emergencia provincial por los incendios forestales."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "L'état d'urgence est prolongé d'une semaine alors que plus de 100 feux restent actifs.",
+          "en": "The state of emergency is extended by a week as more than 100 fires remain active.",
+          "es": "El estado de emergencia se prolonga una semana más mientras más de 100 incendios siguen activos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "calgary-chauffard-condamnation",
+    "coords": [
+      -114.07,
+      51.05
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CTV News / Global News / CBC News",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Calgary, Alberta, Canada",
+      "en": "Calgary, Alberta, Canada",
+      "es": "Calgary, Alberta, Canadá"
+    },
+    "title": {
+      "fr": "Un chauffard condamné à 10 ans de prison après la mort d'une fillette de 9 ans à Calgary",
+      "en": "Driver sentenced to 10 years after killing a 9-year-old girl in Calgary",
+      "es": "Un conductor es condenado a 10 años de cárcel tras la muerte de una niña de 9 años en Calgary"
+    },
+    "summary": {
+      "fr": "Duane Nepoose, 32 ans, a été condamné à 10 ans de prison par un tribunal de Calgary après avoir plaidé coupable de conduite dangereuse ayant causé la mort, de vol et de fuite devant la police, selon CTV News, Global News et CBC News. L'homme fuyait la police à plus de 170 km/h à bord d'une camionnette volée lorsqu'il a percuté plusieurs véhicules, tuant Victoria Desjardins, 9 ans, et blessant grièvement sa mère et sa sœur. La peine, réduite à environ 7,5 ans compte tenu du temps déjà purgé, a été confirmée par ces trois médias.",
+      "en": "Duane Nepoose, 32, was sentenced to 10 years in prison by a Calgary court after pleading guilty to dangerous driving causing death, robbery and fleeing police, according to CTV News, Global News and CBC News. He was fleeing police at speeds over 170 km/h in a stolen minivan when he struck several vehicles, killing 9-year-old Victoria Desjardins and seriously injuring her mother and sister. The sentence, reduced to roughly 7.5 years with credit for time served, was confirmed by all three outlets.",
+      "es": "Duane Nepoose, de 32 años, fue condenado a 10 años de prisión por un tribunal de Calgary tras declararse culpable de conducción peligrosa causante de muerte, robo y huida de la policía, según CTV News, Global News y CBC News. El hombre huía de la policía a más de 170 km/h en una camioneta robada cuando chocó contra varios vehículos, matando a Victoria Desjardins, de 9 años, y dejando gravemente heridas a su madre y su hermana. La pena, reducida a unos 7,5 años por el tiempo ya cumplido, fue confirmada por los tres medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Un tribunal de Calgary condamne Duane Nepoose à 10 ans de prison.",
+          "en": "A Calgary court sentences Duane Nepoose to 10 years in prison.",
+          "es": "Un tribunal de Calgary condena a Duane Nepoose a 10 años de prisión."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "fed-warsh-jackson-hole",
+    "coords": [
+      -110.76,
+      43.48
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Réserve fédérale (Fed) / Washington Post / CNBC",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Jackson Hole, Wyoming, États-Unis",
+      "en": "Jackson Hole, Wyoming, United States",
+      "es": "Jackson Hole, Wyoming, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le président de la Fed Kevin Warsh évoque une possible hausse des taux à Jackson Hole",
+      "en": "Fed Chair Kevin Warsh signals possible rate hike at Jackson Hole",
+      "es": "El presidente de la Fed, Kevin Warsh, insinúa una posible subida de tipos en Jackson Hole"
+    },
+    "summary": {
+      "fr": "Dans son premier discours de Jackson Hole en tant que président de la Réserve fédérale américaine, Kevin Warsh a déclaré que l'inflation sous-jacente ne s'améliorait pas suffisamment et que la banque centrale avait « encore du travail à faire », selon le compte rendu officiel de la Fed, le Washington Post et CNBC. Les marchés ont aussitôt relevé la probabilité d'une hausse des taux lors de la réunion du 15-16 septembre, la faisant passer d'environ un tiers à près d'une chance sur deux, selon ces sources.",
+      "en": "In his first Jackson Hole speech as chair of the US Federal Reserve, Kevin Warsh said underlying inflation was not improving enough and that the central bank still had \"more work to do,\" according to the Fed's official transcript, the Washington Post and CNBC. Markets immediately raised the odds of a rate hike at the September 15-16 meeting from about one-third to nearly a coin flip, according to the same sources.",
+      "es": "En su primer discurso en Jackson Hole como presidente de la Reserva Federal de Estados Unidos, Kevin Warsh dijo que la inflación subyacente no mejoraba lo suficiente y que el banco central todavía tenía \"trabajo por hacer\", según la transcripción oficial de la Fed, The Washington Post y CNBC. Los mercados elevaron de inmediato la probabilidad de una subida de tipos en la reunión del 15 y 16 de septiembre, de alrededor de un tercio a casi un 50%, según las mismas fuentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Kevin Warsh évoque la possibilité d'une hausse des taux directeurs lors du symposium de Jackson Hole.",
+          "en": "Kevin Warsh raises the possibility of a rate hike at the Jackson Hole symposium.",
+          "es": "Kevin Warsh plantea la posibilidad de una subida de tipos en el simposio de Jackson Hole."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "llws-finale-2026",
+    "coords": [
+      -76.98,
+      41.24
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚾",
+    "source": "MLB.com / ESPN",
+    "week": "2026-W35",
+    "place": {
+      "fr": "South Williamsport, Pennsylvanie, États-Unis",
+      "en": "South Williamsport, Pennsylvania, United States",
+      "es": "South Williamsport, Pensilvania, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le Nevada affronte Curaçao en finale de la Coupe Little League 2026",
+      "en": "Nevada faces Curaçao in the 2026 Little League World Series final",
+      "es": "Nevada se enfrenta a Curazao en la final de la Serie Mundial Little League 2026"
+    },
+    "summary": {
+      "fr": "L'équipe de Paseo Verde Little League, à Henderson (Nevada), a battu celle de l'Ohio 12-2 pour remporter le championnat des États-Unis de la Coupe Little League, selon MLB.com et ESPN. Côté international, Willemstad (Curaçao) a battu Tokyo 4-0 pour décrocher le titre international. Les deux équipes devaient s'affronter le 30 août à South Williamsport, en Pennsylvanie, pour le titre mondial, selon ces mêmes sources.",
+      "en": "Paseo Verde Little League of Henderson, Nevada defeated an Ohio team 12-2 to win the US championship of the Little League World Series, according to MLB.com and ESPN. On the international side, Willemstad, Curaçao beat Tokyo 4-0 to claim the international title. The two teams were set to meet on August 30 in South Williamsport, Pennsylvania, for the world championship, according to the same sources.",
+      "es": "El equipo Paseo Verde Little League, de Henderson (Nevada), venció 12-2 a un equipo de Ohio para ganar el campeonato de Estados Unidos de la Serie Mundial Little League, según MLB.com y ESPN. En la rama internacional, Willemstad (Curazao) venció 4-0 a Tokio para hacerse con el título internacional. Ambos equipos debían enfrentarse el 30 de agosto en South Williamsport, Pensilvania, por el título mundial, según las mismas fuentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "Le Nevada et Curaçao remportent leurs championnats respectifs et se qualifient pour la finale mondiale du 30 août.",
+          "en": "Nevada and Curaçao win their respective championships and advance to the August 30 world final.",
+          "es": "Nevada y Curazao ganan sus respectivos campeonatos y avanzan a la final mundial del 30 de agosto."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "wembley-poignardage",
+    "coords": [
+      -0.28,
+      51.556
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Police métropolitaine (Met Police) / Harrow Online",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Wembley, Londres, Royaume-Uni",
+      "en": "Wembley, London, United Kingdom",
+      "es": "Wembley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Un adolescent de 17 ans meurt poignardé près du centre civique de Brent, à Wembley",
+      "en": "17-year-old boy fatally stabbed near Brent Civic Centre in Wembley",
+      "es": "Un adolescente de 17 años muere apuñalado cerca del centro cívico de Brent, en Wembley"
+    },
+    "summary": {
+      "fr": "David Wynter, 17 ans, est mort après avoir été poignardé aux abords du centre civique de Brent, à Wembley (Londres), selon un communiqué officiel de la police métropolitaine (Met Police). Les secours n'ont pas pu le sauver malgré leur intervention sur place. Un garçon de 15 ans a été arrêté puis inculpé de meurtre, selon la Met Police et le média local Harrow Online.",
+      "en": "David Wynter, 17, died after being stabbed near Brent Civic Centre in Wembley, London, according to an official statement from the Metropolitan Police. Paramedics were unable to save him despite treating him at the scene. A 15-year-old boy was arrested and later charged with murder, according to the Met Police and local outlet Harrow Online.",
+      "es": "David Wynter, de 17 años, murió tras ser apuñalado cerca del centro cívico de Brent, en Wembley (Londres), según un comunicado oficial de la Policía Metropolitana (Met Police). Los servicios de emergencia no pudieron salvarlo pese a atenderlo en el lugar. Un menor de 15 años fue detenido y posteriormente acusado de asesinato, según la Met Police y el medio local Harrow Online."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "David Wynter, 17 ans, meurt poignardé près du centre civique de Brent.",
+          "en": "David Wynter, 17, is fatally stabbed near Brent Civic Centre.",
+          "es": "David Wynter, de 17 años, muere apuñalado cerca del centro cívico de Brent."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "berlin-rancongiciel",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "💻",
+    "source": "Reuters / Anadolu Agency / The Local Germany",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Une cyberattaque par rançongiciel vise deux ministères du Land de Berlin",
+      "en": "Ransomware attack hits two Berlin state government departments",
+      "es": "Un ciberataque con ransomware golpea a dos ministerios del estado de Berlín"
+    },
+    "summary": {
+      "fr": "Deux administrations du Sénat de Berlin, chargées de l'urbanisme et des transports, ont été déconnectées du réseau après une attaque par rançongiciel menée par le groupe Rhysida, selon Reuters et l'agence Anadolu. Les pirates réclament environ 30 bitcoins (environ 2 millions d'euros) et menacent de publier des données sensibles. Le maire de Berlin, Kai Wegner, a affirmé que la ville était visée par un chantage mais qu'elle ne paierait pas la rançon, selon ces mêmes sources et The Local Germany.",
+      "en": "Two Berlin Senate departments, responsible for urban development and transport, were disconnected from the network after a ransomware attack by the group Rhysida, according to Reuters and Anadolu Agency. The hackers are demanding roughly 30 bitcoin (about €2 million) and threatening to publish sensitive data. Berlin's mayor, Kai Wegner, said the city was being targeted by extortion but would not pay the ransom, according to the same sources and The Local Germany.",
+      "es": "Dos departamentos del Senado de Berlín, responsables de urbanismo y transporte, fueron desconectados de la red tras un ataque de ransomware perpetrado por el grupo Rhysida, según Reuters y la agencia Anadolu. Los atacantes exigen unos 30 bitcoins (unos 2 millones de euros) y amenazan con publicar datos sensibles. El alcalde de Berlín, Kai Wegner, afirmó que la ciudad es objeto de una extorsión pero que no pagará el rescate, según las mismas fuentes y The Local Germany."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le Sénat de Berlin confirme la cyberattaque et refuse de céder au chantage.",
+          "en": "The Berlin Senate confirms the cyberattack and refuses to give in to the extortion.",
+          "es": "El Senado de Berlín confirma el ciberataque y se niega a ceder a la extorsión."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "valence-sierra-calderona-incendie",
+    "coords": [
+      -0.548,
+      39.746
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Euronews / inspain.news",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Gátova, région de Valence, Espagne",
+      "en": "Gátova, Valencia region, Spain",
+      "es": "Gátova, Comunidad Valenciana, España"
+    },
+    "title": {
+      "fr": "Un incendie dans le parc naturel de la Sierra Calderona force l'évacuation d'environ 1 000 personnes en Espagne",
+      "en": "Wildfire in Sierra Calderona natural park forces about 1,000 evacuations in Spain",
+      "es": "Un incendio en el parque natural de la Sierra Calderona obliga a evacuar a unas 1.000 personas en España"
+    },
+    "summary": {
+      "fr": "Un incendie déclenché par la foudre dans le parc naturel de la Sierra Calderona s'est propagé de Segorbe (province de Castellón) jusqu'à Gátova (province de Valence), entraînant l'évacuation d'environ 1 000 personnes, selon Euronews et le média inspain.news. Le feu a brûlé environ 633 hectares avant d'être stabilisé le 23 août ; le confinement du village de Gátova a été levé le 24 août, bien que certaines pistes forestières soient restées fermées.",
+      "en": "A lightning-sparked wildfire in the Sierra Calderona natural park spread from Segorbe (Castellón province) into Gátova (Valencia province), forcing the evacuation of about 1,000 people, according to Euronews and inspain.news. The fire burned roughly 633 hectares before being stabilized on August 23; the confinement order for Gátova was lifted on August 24, though some forest tracks remained closed.",
+      "es": "Un incendio provocado por un rayo en el parque natural de la Sierra Calderona se propagó desde Segorbe (provincia de Castellón) hasta Gátova (provincia de Valencia), obligando a evacuar a unas 1.000 personas, según Euronews e inspain.news. El fuego quemó unas 633 hectáreas antes de ser estabilizado el 23 de agosto; el confinamiento de Gátova se levantó el 24 de agosto, aunque algunas pistas forestales permanecieron cerradas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "L'incendie de la Sierra Calderona est stabilisé après avoir brûlé environ 633 hectares.",
+          "en": "The Sierra Calderona fire is stabilized after burning roughly 633 hectares.",
+          "es": "El incendio de la Sierra Calderona se estabiliza tras quemar unas 633 hectáreas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "vuelta-pogacar-chute",
+    "coords": [
+      -0.294,
+      38.931
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Euronews / Cyclingnews / NBC Sports",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Barx, région de Valence, Espagne",
+      "en": "Barx, Valencia region, Spain",
+      "es": "Barx, Comunidad Valenciana, España"
+    },
+    "title": {
+      "fr": "Tadej Pogačar abandonne la Vuelta après une lourde chute alors qu'il menait la course",
+      "en": "Tadej Pogačar abandons the Vuelta after a heavy crash while leading the race",
+      "es": "Tadej Pogačar abandona la Vuelta tras una fuerte caída mientras lideraba la carrera"
+    },
+    "summary": {
+      "fr": "Le leader de la Vuelta a España, Tadej Pogačar, qui comptait 3 min 50 d'avance sur Enric Mas, a chuté à environ 32 km de l'arrivée de la 8e étape, près de Barx, selon Euronews, Cyclingnews et NBC Sports. Souffrant de profondes coupures à l'épaule et au visage, il a été contraint à l'abandon alors qu'il portait le maillot rouge depuis sa victoire au contre-la-montre inaugural à Monaco.",
+      "en": "Vuelta a España leader Tadej Pogačar, who held a 3-minute-50-second lead over Enric Mas, crashed roughly 32 km from the finish of stage 8 near Barx, according to Euronews, Cyclingnews and NBC Sports. Suffering deep cuts to his shoulder and face, he was forced to abandon the race after holding the red jersey since winning the opening time trial in Monaco.",
+      "es": "El líder de la Vuelta a España, Tadej Pogačar, que contaba con una ventaja de 3 minutos y 50 segundos sobre Enric Mas, se cayó a unos 32 km de la meta de la 8ª etapa, cerca de Barx, según Euronews, Cyclingnews y NBC Sports. Con profundos cortes en el hombro y el rostro, se vio obligado a abandonar la carrera tras haber portado el maillot rojo desde su victoria en la contrarreloj inaugural en Mónaco."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "Tadej Pogačar chute et abandonne la Vuelta alors qu'il était leader du classement général.",
+          "en": "Tadej Pogačar crashes and abandons the Vuelta while leading the general classification.",
+          "es": "Tadej Pogačar se cae y abandona la Vuelta mientras lideraba la clasificación general."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "france-budget-2027-alerte",
+    "coords": [
+      2.352,
+      48.857
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💶",
+    "source": "Bloomberg / Reuters",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "La Cour des comptes alerte sur le déficit si le budget 2027 n'est pas adopté",
+      "en": "France's audit body warns of wider deficit if 2027 budget stalls",
+      "es": "El tribunal de cuentas francés advierte de un mayor déficit si no se aprueba el presupuesto de 2027"
+    },
+    "summary": {
+      "fr": "L'organisme français d'audit des finances publiques a averti que le déficit budgétaire pourrait s'aggraver d'au moins 0,5 point de PIB si les divisions politiques empêchent l'adoption du budget 2027 avant l'élection présidentielle, selon Bloomberg et Reuters. Le Premier ministre Sébastien Lecornu a appelé les parlementaires à ne pas « ajouter de l'incertitude budgétaire à toutes les autres » et promis des mesures d'économies importantes lors de la présentation du projet de loi de finances en octobre.",
+      "en": "France's public finance audit body warned that the budget deficit could widen by at least 0.5 percentage points of GDP if political divisions prevent passage of the 2027 budget ahead of the presidential election, according to Bloomberg and Reuters. Prime Minister Sébastien Lecornu urged lawmakers not to \"add budgetary uncertainty to all the others\" and promised major savings measures when the budget bill is introduced in October.",
+      "es": "El organismo francés de auditoría de las finanzas públicas advirtió que el déficit presupuestario podría ampliarse al menos 0,5 puntos del PIB si las divisiones políticas impiden la aprobación del presupuesto de 2027 antes de las elecciones presidenciales, según Bloomberg y Reuters. El primer ministro, Sébastien Lecornu, pidió a los legisladores que no \"añadan incertidumbre presupuestaria a todas las demás\" y prometió importantes medidas de ahorro cuando se presente el proyecto de ley de presupuestos en octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "La Cour des comptes met en garde contre une aggravation du déficit en l'absence d'accord budgétaire.",
+          "en": "The audit body warns of a wider deficit without a budget agreement.",
+          "es": "El tribunal de cuentas advierte de un mayor déficit sin un acuerdo presupuestario."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "kyiv-myla-frappe",
+    "coords": [
+      30.42,
+      50.45
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Kyiv Independent / NPR",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Myla, oblast de Kiev, Ukraine",
+      "en": "Myla, Kyiv Oblast, Ukraine",
+      "es": "Myla, óblast de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe près de Kiev déclenche des explosions de munitions et fait au moins 37 morts",
+      "en": "Russian strike near Kyiv triggers ammunition explosions, killing at least 37",
+      "es": "Un ataque ruso cerca de Kiev provoca explosiones de munición y mata a al menos 37 personas"
+    },
+    "summary": {
+      "fr": "Une frappe russe a touché un site de stockage dans le village de Myla, à l'ouest de Kiev, le 28 août au soir, provoquant un incendie puis des explosions de munitions qui ont endommagé au moins 50 bâtiments résidentiels, selon les autorités ukrainiennes citées par Kyiv Independent et NPR. Au moins 37 personnes ont été tuées et 42 blessées, dont des enfants ; 381 personnes ont été évacuées. Le ministère russe de la Défense a de son côté indiqué avoir visé des installations logistiques et militaro-industrielles lors de frappes plus larges menées ce jour-là ; ce bilan reflète le décompte communiqué côté ukrainien.",
+      "en": "A Russian strike hit a storage site in the village of Myla, west of Kyiv, on the evening of August 28, triggering a fire and subsequent ammunition explosions that damaged at least 50 residential buildings, according to Ukrainian officials cited by the Kyiv Independent and NPR. At least 37 people were killed and 42 injured, including children; 381 people were evacuated. Russia's Ministry of Defense said it had targeted logistics and military-industrial facilities in wider strikes that day; the death toll reflects figures reported by Ukrainian authorities.",
+      "es": "Un ataque ruso alcanzó un depósito en la localidad de Myla, al oeste de Kiev, en la noche del 28 de agosto, provocando un incendio y posteriores explosiones de munición que dañaron al menos 50 edificios residenciales, según las autoridades ucranianas citadas por Kyiv Independent y NPR. Al menos 37 personas murieron y 42 resultaron heridas, entre ellas niños; 381 personas fueron evacuadas. El Ministerio de Defensa ruso indicó que había atacado instalaciones logísticas y militar-industriales en ataques más amplios ese día; el balance de víctimas refleja las cifras comunicadas por las autoridades ucranianas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Une frappe russe déclenche des explosions de munitions près de Kiev, faisant au moins 37 morts selon Kiev.",
+          "en": "A Russian strike triggers ammunition explosions near Kyiv, killing at least 37 according to Kyiv.",
+          "es": "Un ataque ruso provoca explosiones de munición cerca de Kiev, matando al menos a 37 personas según Kiev."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "gyirong-coulee-boue",
+    "coords": [
+      85.27,
+      28.43
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Xinhua / Reuters",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Gyirong, région autonome du Tibet, Chine",
+      "en": "Gyirong, Tibet Autonomous Region, China",
+      "es": "Gyirong, Región Autónoma del Tíbet, China"
+    },
+    "title": {
+      "fr": "Une coulée de boue dévaste le poste-frontière de Gyirong, à la frontière sino-népalaise",
+      "en": "Mudslide devastates Gyirong border crossing on the China-Nepal frontier",
+      "es": "Un alud de lodo devasta el paso fronterizo de Gyirong, en la frontera entre China y Nepal"
+    },
+    "summary": {
+      "fr": "Un glissement de terrain déclenché par la rupture d'un lac glaciaire sur le mont Langtang-Lirung a provoqué une crue soudaine qui a détruit le complexe commercial et touristique du poste-frontière de Gyirong, côté chinois, le 26 août, selon l'agence de presse officielle Xinhua et Reuters. La Chine a fait état de 17 personnes portées disparues côté chinois, tandis que les routes, l'électricité et les communications vers le poste-frontière ont été coupées. Le bilan est beaucoup plus lourd côté népalais, où les autorités locales évoquent des centaines de morts ; ces chiffres continuent d'évoluer.",
+      "en": "A landslide triggered by the collapse of a glacial lake on Mount Langtang-Lirung caused a flash flood that destroyed the trade and tourism complex at the Gyirong border crossing on the Chinese side on August 26, according to official news agency Xinhua and Reuters. China reported 17 people missing on its side of the border, while roads, power and communications to the crossing were cut. The toll is far higher on the Nepali side, where local authorities report hundreds of deaths; figures continue to evolve.",
+      "es": "Un deslizamiento de tierra provocado por el colapso de un lago glaciar en el monte Langtang-Lirung causó una inundación repentina que destruyó el complejo comercial y turístico del paso fronterizo de Gyirong, en el lado chino, el 26 de agosto, según la agencia oficial Xinhua y Reuters. China informó de 17 personas desaparecidas en su lado de la frontera, mientras que las carreteras, la electricidad y las comunicaciones hacia el paso quedaron cortadas. El balance es mucho más grave en el lado nepalí, donde las autoridades locales hablan de cientos de muertos; las cifras siguen evolucionando."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Une coulée de boue détruit le poste-frontière de Gyirong ; 17 personnes sont portées disparues côté chinois.",
+          "en": "A mudslide destroys the Gyirong border crossing; 17 people are reported missing on the Chinese side.",
+          "es": "Un alud destruye el paso fronterizo de Gyirong; 17 personas están desaparecidas en el lado chino."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-ibaraki-seisme",
+    "coords": [
+      140.1,
+      36.0
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "Agence japonaise de gestion des incendies et des catastrophes",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Préfecture d'Ibaraki, région de Tokyo, Japon",
+      "en": "Ibaraki Prefecture, Tokyo region, Japan",
+      "es": "Prefectura de Ibaraki, región de Tokio, Japón"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,9 secoue la région de Tokyo et fait une trentaine de blessés",
+      "en": "Magnitude 5.9 earthquake shakes Tokyo region, injuring dozens",
+      "es": "Un terremoto de magnitud 5,9 sacude la región de Tokio y deja decenas de heridos"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 5,9, dont l'épicentre se situait à environ 70 km de profondeur dans le sud de la préfecture d'Ibaraki, a secoué la région du Grand Tokyo le 23 août au matin, selon l'agence japonaise de gestion des incendies et des catastrophes citée par plusieurs médias. Au moins 37 personnes ont été blessées dans cinq préfectures, la plupart en tombant ou en heurtant des meubles en fuyant leur domicile ; aucun risque de tsunami n'a été signalé.",
+      "en": "A magnitude 5.9 earthquake, with its epicenter around 70 km deep in southern Ibaraki Prefecture, shook the greater Tokyo region on the morning of August 23, according to Japan's Fire and Disaster Management Agency cited by several outlets. At least 37 people were injured across five prefectures, mostly from falls or collisions with furniture while fleeing their homes; no tsunami risk was reported.",
+      "es": "Un terremoto de magnitud 5,9, con epicentro a unos 70 km de profundidad en el sur de la prefectura de Ibaraki, sacudió la región metropolitana de Tokio la mañana del 23 de agosto, según la Agencia de Gestión de Incendios y Desastres de Japón, citada por varios medios. Al menos 37 personas resultaron heridas en cinco prefecturas, la mayoría por caídas o golpes con muebles al huir de sus casas; no se reportó riesgo de tsunami."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 5,9 secoue la région de Tokyo, faisant au moins 37 blessés.",
+          "en": "A magnitude 5.9 earthquake shakes the Tokyo region, injuring at least 37 people.",
+          "es": "Un terremoto de magnitud 5,9 sacude la región de Tokio y deja al menos 37 heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "hongkong-tiananmen-condamnation",
+    "coords": [
+      114.16,
+      22.3
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Human Rights Watch / CNN / Al Jazeera",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Hong Kong, Chine",
+      "en": "Hong Kong, China",
+      "es": "Hong Kong, China"
+    },
+    "title": {
+      "fr": "Deux anciens organisateurs des veillées de Tiananmen condamnés à Hong Kong",
+      "en": "Two former Tiananmen vigil organizers convicted in Hong Kong",
+      "es": "Dos antiguos organizadores de las vigilias de Tiananmen son condenados en Hong Kong"
+    },
+    "summary": {
+      "fr": "Lee Cheuk-yan, 69 ans, et Chow Hang-tung, 41 ans, anciens dirigeants de l'Alliance de Hong Kong, ont été reconnus coupables d'« incitation à la subversion » en vertu de la loi sur la sécurité nationale pour avoir organisé les veillées commémorant la répression de la place Tiananmen en 1989, selon Human Rights Watch, CNN et Al Jazeera. Le tribunal a entendu les plaidoiries sur la peine le 28 août ; les deux accusés risquent jusqu'à 10 ans de prison. Le ministère chinois des Affaires étrangères a rejeté les critiques internationales, qu'il accuse de vouloir « salir » l'État de droit à Hong Kong.",
+      "en": "Lee Cheuk-yan, 69, and Chow Hang-tung, 41, former leaders of the Hong Kong Alliance, were convicted of \"incitement to subversion\" under the national security law for organizing vigils commemorating the 1989 Tiananmen crackdown, according to Human Rights Watch, CNN and Al Jazeera. The court heard sentencing arguments on August 28; both defendants face up to 10 years in prison. China's Foreign Ministry rejected international criticism, accusing critics of trying to \"smear\" Hong Kong's rule of law.",
+      "es": "Lee Cheuk-yan, de 69 años, y Chow Hang-tung, de 41, antiguos líderes de la Alianza de Hong Kong, fueron declarados culpables de \"incitación a la subversión\" en virtud de la ley de seguridad nacional por organizar vigilias en memoria de la represión de Tiananmen de 1989, según Human Rights Watch, CNN y Al Jazeera. El tribunal escuchó los alegatos sobre la condena el 28 de agosto; ambos acusados se enfrentan a hasta 10 años de prisión. El Ministerio de Asuntos Exteriores chino rechazó las críticas internacionales, a las que acusó de querer \"difamar\" el Estado de derecho en Hong Kong."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal entend les plaidoiries sur la peine encourue par les deux militants condamnés.",
+          "en": "The court hears sentencing arguments for the two convicted activists.",
+          "es": "El tribunal escucha los alegatos sobre la condena de los dos activistas declarados culpables."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coree-semiconducteurs-tarifs",
+    "coords": [
+      126.98,
+      37.57
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Korea Herald / Bloomberg",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "L'incertitude sur les droits de douane américains sur les semi-conducteurs fait chuter la Bourse de Séoul",
+      "en": "US semiconductor tariff uncertainty drags down Seoul stock market",
+      "es": "La incertidumbre sobre los aranceles de EE. UU. a los semiconductores hace caer la Bolsa de Seúl"
+    },
+    "summary": {
+      "fr": "Les actions de Samsung Electronics et SK hynix ont chuté respectivement de 2,82 % et 3,87 %, entraînant l'indice Kospi en baisse de 1,79 % le 28 août, sur fond d'inquiétudes autour d'éventuels droits de douane américains sur les semi-conducteurs, selon le Korea Herald et Bloomberg. Le secrétaire américain au Commerce, Howard Lutnick, avait pourtant indiqué que ces entreprises pourraient être exemptées d'une taxe de 100 % si elles maintenaient leurs investissements aux États-Unis. Par ailleurs, la Banque de Corée a relevé sa prévision de croissance 2026 à 3,3 %, citant la vigueur des exportations de semi-conducteurs.",
+      "en": "Shares of Samsung Electronics and SK hynix fell 2.82% and 3.87% respectively, dragging South Korea's Kospi index down 1.79% on August 28, amid concerns over possible US tariffs on semiconductors, according to the Korea Herald and Bloomberg. US Commerce Secretary Howard Lutnick had said such companies could be exempted from a 100% tariff if they maintain their US investment commitments. Separately, the Bank of Korea raised its 2026 growth forecast to 3.3%, citing strong semiconductor exports.",
+      "es": "Las acciones de Samsung Electronics y SK hynix cayeron un 2,82% y un 3,87% respectivamente, arrastrando al índice Kospi de Corea del Sur a una caída del 1,79% el 28 de agosto, en medio de la preocupación por posibles aranceles estadounidenses a los semiconductores, según Korea Herald y Bloomberg. El secretario de Comercio de EE. UU., Howard Lutnick, había dicho que esas empresas podrían quedar exentas de un arancel del 100% si mantienen sus compromisos de inversión en Estados Unidos. Por separado, el Banco de Corea elevó su previsión de crecimiento para 2026 al 3,3%, citando la fortaleza de las exportaciones de semiconductores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le Kospi recule alors que les investisseurs s'inquiètent de possibles droits de douane américains sur les semi-conducteurs.",
+          "en": "The Kospi falls as investors worry about possible US tariffs on semiconductors.",
+          "es": "El Kospi cae mientras los inversores se preocupan por posibles aranceles estadounidenses a los semiconductores."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "delhi-mondiaux-badminton",
+    "coords": [
+      77.21,
+      28.61
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏸",
+    "source": "Olympics.com / Outlook India",
+    "week": "2026-W35",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Le Français Alex Lanier remporte le titre mondial de badminton à New Delhi",
+      "en": "France's Alex Lanier wins world badminton title in New Delhi",
+      "es": "El francés Alex Lanier gana el título mundial de bádminton en Nueva Delhi"
+    },
+    "summary": {
+      "fr": "Le Français Alex Lanier a battu le Japonais Kodai Naraoka 21-11, 21-11 en finale des Championnats du monde de badminton à New Delhi, devenant le premier Français champion du monde dans cette discipline, selon Olympics.com. Chez les femmes, la Sud-Coréenne An Se-young a battu la Japonaise Akane Yamaguchi 21-17, 21-14 pour conserver son titre mondial sans perdre un seul set du tournoi. La Chine a remporté le double dames et la France le double mixte, tandis que l'Inde a décroché le bronze en double dames, une première depuis quinze ans à domicile, selon Outlook India.",
+      "en": "France's Alex Lanier beat Japan's Kodai Naraoka 21-11, 21-11 in the final of the World Badminton Championships in New Delhi, becoming the first French world champion in the sport, according to Olympics.com. In the women's event, South Korea's An Se-young beat Japan's Akane Yamaguchi 21-17, 21-14 to retain her world title without dropping a single game all tournament. China won the women's doubles and France the mixed doubles, while India took bronze in women's doubles, its first medal in the event on home soil in 15 years, according to Outlook India.",
+      "es": "El francés Alex Lanier venció al japonés Kodai Naraoka por 21-11 y 21-11 en la final de los Campeonatos Mundiales de Bádminton en Nueva Delhi, convirtiéndose en el primer campeón mundial francés en este deporte, según Olympics.com. En la rama femenina, la surcoreana An Se-young venció a la japonesa Akane Yamaguchi por 21-17 y 21-14 para revalidar su título mundial sin perder un solo set en todo el torneo. China ganó el dobles femenino y Francia el dobles mixto, mientras que India obtuvo el bronce en dobles femenino, su primera medalla en la prueba jugando en casa en 15 años, según Outlook India."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/08/2026",
+          "en": "23/08/2026",
+          "es": "23/08/2026"
+        },
+        "d": {
+          "fr": "Alex Lanier devient le premier champion du monde de badminton français de l'histoire.",
+          "en": "Alex Lanier becomes the first French world badminton champion in history.",
+          "es": "Alex Lanier se convierte en el primer campeón mundial de bádminton francés de la historia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "sinaloa-violence-cartel",
+    "coords": [
+      -107.39,
+      24.81
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Fiscalía General del Estado de Sinaloa / Noticiero Altavoz",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Culiacán, État de Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa State, Mexico",
+      "es": "Culiacán, estado de Sinaloa, México"
+    },
+    "title": {
+      "fr": "La guerre entre factions du cartel de Sinaloa provoque une vague d'homicides à Culiacán et Mazatlán",
+      "en": "Sinaloa cartel infighting drives wave of killings in Culiacán and Mazatlán",
+      "es": "La guerra entre facciones del cártel de Sinaloa provoca una ola de homicidios en Culiacán y Mazatlán"
+    },
+    "summary": {
+      "fr": "Le parquet de l'État de Sinaloa (FGE) a fait état d'homicides quotidiens à Culiacán, Mazatlán et Escuinapa fin août, dans le cadre du conflit qui oppose les factions rivales « Los Chapitos » et « La Mayiza » du cartel de Sinaloa. Le 27 août, sept personnes ont été retrouvées mortes en une seule journée à travers l'État, selon les bulletins officiels du FGE relayés par Noticiero Altavoz. Août 2026 est déjà le mois le plus meurtrier de l'année à Mazatlán, avec une quarantaine d'homicides.",
+      "en": "Sinaloa state prosecutors (FGE) reported daily homicides in Culiacán, Mazatlán and Escuinapa in late August, amid the ongoing conflict between rival Sinaloa cartel factions \"Los Chapitos\" and \"La Mayiza.\" On August 27, seven people were found dead in a single day across the state, according to official FGE bulletins reported by Noticiero Altavoz. August 2026 is already the deadliest month of the year in Mazatlán, with roughly 40 homicides.",
+      "es": "La Fiscalía General del Estado (FGE) de Sinaloa reportó homicidios diarios en Culiacán, Mazatlán y Escuinapa a finales de agosto, en medio del conflicto entre las facciones rivales del cártel de Sinaloa \"Los Chapitos\" y \"La Mayiza\". El 27 de agosto, siete personas fueron encontradas muertas en un solo día en todo el estado, según boletines oficiales de la FGE recogidos por Noticiero Altavoz. Agosto de 2026 es ya el mes más mortífero del año en Mazatlán, con unos 40 homicidios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Sept personnes sont retrouvées mortes en une seule journée dans l'État de Sinaloa.",
+          "en": "Seven people are found dead in a single day across Sinaloa state.",
+          "es": "Siete personas son encontradas muertas en un solo día en el estado de Sinaloa."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-defauts-paiement",
+    "coords": [
+      -47.93,
+      -15.78
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Bloomberg / Infomoney",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le taux de défaut des ménages brésiliens atteint son plus haut niveau depuis 2009",
+      "en": "Brazilian household default rate hits highest level since 2009",
+      "es": "La tasa de impago de los hogares brasileños alcanza su nivel más alto desde 2009"
+    },
+    "summary": {
+      "fr": "Le taux de défaut sur les crédits à la consommation au Brésil a atteint son plus haut niveau depuis 2009, tandis que les créations d'emplois ralentissent, selon Bloomberg, ce qui constitue un signal d'alerte pour la campagne de réélection du président Lula avant le scrutin d'octobre. Parallèlement, l'indice des prix IPCA-15 a reculé de 0,40 % en août, son niveau le plus bas depuis août 2022 selon l'institut officiel IBGE et confirmé par le média brésilien Infomoney, ce qui pourrait ouvrir la voie à une baisse des taux de la banque centrale.",
+      "en": "Brazil's consumer loan default rate reached its highest level since 2009, while job creation slowed, according to Bloomberg — a warning sign for President Lula's reelection campaign ahead of the October vote. At the same time, the IPCA-15 price index fell 0.40% in August, its lowest level since August 2022 according to official statistics agency IBGE, confirmed by Brazilian outlet Infomoney, which could pave the way for a central bank rate cut.",
+      "es": "La tasa de impago de los préstamos al consumo en Brasil alcanzó su nivel más alto desde 2009, mientras la creación de empleo se desacelera, según Bloomberg, una señal de alarma para la campaña de reelección del presidente Lula antes de las elecciones de octubre. Al mismo tiempo, el índice de precios IPCA-15 cayó un 0,40% en agosto, su nivel más bajo desde agosto de 2022 según el instituto oficial IBGE, confirmado por el medio brasileño Infomoney, lo que podría allanar el camino para un recorte de tipos del banco central."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Bloomberg rapporte que le taux de défaut des ménages atteint son plus haut niveau depuis 2009.",
+          "en": "Bloomberg reports that the household default rate has reached its highest level since 2009.",
+          "es": "Bloomberg informa de que la tasa de impago de los hogares alcanza su nivel más alto desde 2009."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "indonesie-kalimantan-incendies",
+    "coords": [
+      109.34,
+      -0.03
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Antara News / Associated Press",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Pontianak, Kalimantan occidental, Indonésie",
+      "en": "Pontianak, West Kalimantan, Indonesia",
+      "es": "Pontianak, Kalimantan Occidental, Indonesia"
+    },
+    "title": {
+      "fr": "L'Indonésie déploie l'armée contre les feux de forêt à Kalimantan, la fumée atteint la Malaisie",
+      "en": "Indonesia deploys military against Kalimantan forest fires as haze reaches Malaysia",
+      "es": "Indonesia despliega al ejército contra los incendios forestales en Kalimantan mientras el humo llega a Malasia"
+    },
+    "summary": {
+      "fr": "L'Indonésie a déployé environ 1 500 soldats supplémentaires et six hélicoptères dans le Kalimantan occidental, ainsi qu'une trentaine d'avions bombardiers d'eau, pour lutter contre des feux de forêt et de tourbières qui ont brûlé plus de 38 000 hectares dans la province depuis janvier, selon l'agence Antara et l'Associated Press. La fumée s'est propagée jusqu'à l'État malaisien du Sarawak, où la qualité de l'air est devenue mauvaise dans au moins onze zones, poussant la Malaisie à réclamer une action plus ferme de l'ASEAN contre la pollution transfrontalière.",
+      "en": "Indonesia deployed roughly 1,500 additional troops and six helicopters to West Kalimantan, along with about 30 water-bombing aircraft, to fight forest and peatland fires that have burned more than 38,000 hectares in the province since January, according to Antara News and the Associated Press. Smoke has spread to Malaysia's Sarawak state, where air quality turned unhealthy in at least 11 areas, prompting Malaysia to call for stronger ASEAN action against cross-border haze.",
+      "es": "Indonesia desplegó unos 1.500 soldados adicionales y seis helicópteros en Kalimantan Occidental, junto con unos 30 aviones de descarga de agua, para combatir incendios forestales y de turberas que han quemado más de 38.000 hectáreas en la provincia desde enero, según Antara News y Associated Press. El humo se ha extendido hasta el estado malasio de Sarawak, donde la calidad del aire empeoró a niveles insalubres en al menos 11 zonas, lo que llevó a Malasia a pedir una acción más firme de la ASEAN contra la contaminación transfronteriza."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "L'Indonésie renforce son dispositif militaire et aérien face aux incendies à Kalimantan.",
+          "en": "Indonesia strengthens its military and aerial deployment against the fires in Kalimantan.",
+          "es": "Indonesia refuerza su despliegue militar y aéreo frente a los incendios en Kalimantan."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "villawood-agression",
+    "coords": [
+      150.96,
+      -33.89
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Police fédérale australienne (AFP) / RNZ",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Villawood, Sydney, Australie",
+      "en": "Villawood, Sydney, Australia",
+      "es": "Villawood, Sídney, Australia"
+    },
+    "title": {
+      "fr": "Trois hommes inculpés après une agression au centre de rétention de Villawood, à Sydney",
+      "en": "Three men charged after assault at Villawood detention centre in Sydney",
+      "es": "Tres hombres son acusados tras una agresión en el centro de detención de Villawood, en Sídney"
+    },
+    "summary": {
+      "fr": "La police fédérale australienne (AFP) a inculpé un Fidjien de 26 ans et deux Néo-Zélandais de 37 et 24 ans après une agression survenue dans un espace commun du centre de rétention pour immigrants de Villawood, à Sydney, selon un communiqué officiel de l'AFP. L'homme fidjien aurait d'abord frappé un autre détenu avant que les deux Néo-Zélandais ne se joignent à l'agression. Les trois hommes, inculpés de rixe et de coups et blessures, ont été placés en détention provisoire et sont passés devant le tribunal de Fairfield le 28 août, selon l'AFP et RNZ.",
+      "en": "The Australian Federal Police (AFP) charged a 26-year-old Fijian man and two New Zealand men, aged 37 and 24, after an assault in a common area of the Villawood immigration detention centre in Sydney, according to an official AFP statement. The Fijian man allegedly struck another detainee first before the two New Zealand men joined in. All three, charged with affray and assault causing bodily harm, were remanded in custody and appeared at Fairfield Local Court on August 28, according to the AFP and RNZ.",
+      "es": "La Policía Federal Australiana (AFP) acusó a un hombre fiyiano de 26 años y a dos neozelandeses de 37 y 24 años tras una agresión en una zona común del centro de detención de inmigrantes de Villawood, en Sídney, según un comunicado oficial de la AFP. El hombre fiyiano presuntamente golpeó primero a otro detenido antes de que los dos neozelandeses se sumaran a la agresión. Los tres, acusados de riña y agresión con lesiones corporales, quedaron en prisión preventiva y comparecieron ante el tribunal local de Fairfield el 28 de agosto, según la AFP y RNZ."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Les trois hommes inculpés comparaissent devant le tribunal de Fairfield.",
+          "en": "The three charged men appear before Fairfield Local Court.",
+          "es": "Los tres hombres acusados comparecen ante el tribunal local de Fairfield."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "niger-state-enlevement-mosquee",
+    "coords": [
+      4.6,
+      9.9
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Associated Press",
+    "week": "2026-W35",
+    "place": {
+      "fr": "Zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Área de Gobierno Local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent des centaines de fidèles dans une mosquée du Nigeria",
+      "en": "Armed men kidnap hundreds of worshippers from a mosque in Nigeria",
+      "es": "Hombres armados secuestran a cientos de fieles en una mezquita de Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué plusieurs villages de la zone de Borgu, dans l'État du Niger, et enlevé des fidèles venus prier dans une mosquée le vendredi 21 août, selon Al Jazeera et l'agence Associated Press. Les premières estimations locales faisaient état de 60 à 80 personnes enlevées, mais une vidéo diffusée par les ravisseurs et des témoignages d'habitants ont fait grimper ce chiffre à environ 600 femmes, enfants et personnes âgées disparus. Le président Bola Tinubu a ordonné une vaste opération militaire de sauvetage ; au 26 août, les autorités de l'État n'avaient pas encore confirmé le nombre exact de victimes.",
+      "en": "Armed men attacked several villages in the Borgu area of Niger State and abducted worshippers from a mosque during Friday prayers on August 21, according to Al Jazeera and the Associated Press. Initial local estimates put the number of abductees at 60 to 80, but a video released by the kidnappers and accounts from residents raised that figure to roughly 600 missing women, children and elderly people. President Bola Tinubu ordered a major military rescue operation; as of August 26, state officials had not yet confirmed the exact number of victims.",
+      "es": "Hombres armados atacaron varias aldeas de la zona de Borgu, en el estado de Níger, y secuestraron a fieles que acudían a rezar a una mezquita el viernes 21 de agosto, según Al Jazeera y Associated Press. Las primeras estimaciones locales hablaban de entre 60 y 80 personas secuestradas, pero un video difundido por los secuestradores y testimonios de residentes elevaron esa cifra a unas 600 mujeres, niños y ancianos desaparecidos. El presidente Bola Tinubu ordenó una gran operación militar de rescate; hasta el 26 de agosto, las autoridades estatales no habían confirmado la cifra exacta de víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/08/2026",
+          "en": "21/08/2026",
+          "es": "21/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent des villages et enlèvent des fidèles dans une mosquée de l'État du Niger.",
+          "en": "Armed men attack villages and abduct worshippers from a mosque in Niger State.",
+          "es": "Hombres armados atacan aldeas y secuestran a fieles en una mezquita del estado de Níger."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Le Nigeria lance une opération militaire de recherche des centaines de personnes enlevées.",
+          "en": "Nigeria launches a military operation to search for the hundreds of abducted people.",
+          "es": "Nigeria lanza una operación militar de búsqueda de los cientos de secuestrados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
