@@ -688,12 +688,12 @@
       51.389,
       35.6892
     ],
-    "status": "confirme",
+    "status": "recoupement",
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Axios / Iran International",
+    "week": "2026-W36",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Les Gardiens de la révolution (CGRI) affirment avoir visé les bases américaines de King Hussein et Al-Azraq en Jordanie avec des missiles balistiques, ainsi qu'une installation liée aux forces américaines à Al Minhad, aux Émirats arabes unis, en riposte à une frappe américaine sur l'île iranienne de Larak la veille, selon Axios et Iran International. Ces affirmations, émanant d'une partie au conflit, n'ont pas été confirmées de manière indépendante.",
+          "en": "Iran's Revolutionary Guard Corps (IRGC) says it targeted the US-operated King Hussein and Al-Azraq air bases in Jordan with ballistic missiles, as well as a facility linked to US forces at Al Minhad in the United Arab Emirates, in retaliation for a US strike on Iran's Larak Island the previous day, according to Axios and Iran International. These claims, made by one side of the conflict, have not been independently confirmed.",
+          "es": "El Cuerpo de la Guardia Revolucionaria Islámica (CGRI) de Irán afirma haber atacado con misiles balísticos las bases estadounidenses de King Hussein y Al-Azraq en Jordania, además de una instalación vinculada a fuerzas de EE. UU. en Al Minhad, en los Emiratos Árabes Unidos, en represalia por un ataque estadounidense contra la isla iraní de Larak un día antes, según Axios e Iran International. Estas afirmaciones, procedentes de una de las partes del conflicto, no han sido confirmadas de forma independiente."
         },
         "active": true
       }
@@ -828,6 +841,718 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nepal-inondations",
+    "coords": [
+      85.32,
+      28.15
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CNN / Al Jazeera / ONU",
+    "place": {
+      "fr": "District de Rasuwa, Népal (frontière avec le Tibet, Chine)",
+      "en": "Rasuwa District, Nepal (border with Tibet, China)",
+      "es": "Distrito de Rasuwa, Nepal (frontera con el Tíbet, China)"
+    },
+    "title": {
+      "fr": "Des inondations catastrophiques à la frontière Népal-Chine font plus de 900 morts",
+      "en": "Catastrophic floods on the Nepal-China border kill more than 900",
+      "es": "Inundaciones catastróficas en la frontera Nepal-China dejan más de 900 muertos"
+    },
+    "summary": {
+      "fr": "Une série de crues soudaines et de coulées de boue a frappé le bassin de la rivière Bhote Koshi, dans le district de Rasuwa, le 26 août, selon CNN et Al Jazeera. Au moins 903 personnes sont mortes au Népal et 16 autres au Tibet (Chine), avec plus de 4 700 personnes toujours portées disparues des deux côtés de la frontière au 31 août. Trente-deux ponts et près de 40 km de routes ont été détruits, dont l'axe reliant le Népal au Tibet via le poste-frontière de Rasuwagadhi.",
+      "en": "A series of flash floods and mudslides struck the Bhote Koshi river basin in Rasuwa district on August 26, according to CNN and Al Jazeera. At least 903 people have died in Nepal and 16 more in Tibet, China, with more than 4,700 still listed as missing on both sides of the border as of August 31. Thirty-two bridges and nearly 40km of roads were destroyed, including the route linking Nepal to Tibet via the Rasuwagadhi border crossing.",
+      "es": "Una serie de crecidas repentinas y coladas de barro golpeó la cuenca del río Bhote Koshi, en el distrito de Rasuwa, el 26 de agosto, según CNN y Al Jazeera. Al menos 903 personas han muerto en Nepal y otras 16 en el Tíbet (China), con más de 4.700 personas todavía desaparecidas a ambos lados de la frontera hasta el 31 de agosto. Treinta y dos puentes y casi 40 km de carreteras quedaron destruidos, incluida la vía que une Nepal con el Tíbet a través del paso fronterizo de Rasuwagadhi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Des crues soudaines dévastent la vallée de la Bhote Koshi, selon CNN.",
+          "en": "Flash floods devastate the Bhote Koshi valley, CNN reports.",
+          "es": "Crecidas repentinas devastan el valle del Bhote Koshi, según CNN."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint au moins 903 morts au Népal et 16 au Tibet, avec plus de 4 700 disparus ; l'Australie annonce une aide supplémentaire de 3 millions de dollars, selon Al Jazeera et l'ONU.",
+          "en": "The toll reaches at least 903 dead in Nepal and 16 in Tibet, with more than 4,700 missing; Australia announces an additional $3 million in aid, according to Al Jazeera and the UN.",
+          "es": "El balance llega a al menos 903 muertos en Nepal y 16 en el Tíbet, con más de 4.700 desaparecidos; Australia anuncia una ayuda adicional de 3 millones de dólares, según Al Jazeera y la ONU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "rosenheim-poignardage",
+    "coords": [
+      12.1288,
+      47.8561
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Associated Press / Washington Post",
+    "place": {
+      "fr": "Gare de Rosenheim, Bavière, Allemagne",
+      "en": "Rosenheim train station, Bavaria, Germany",
+      "es": "Estación de Rosenheim, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "Une Britannique de 31 ans meurt poignardée dans une gare bavaroise",
+      "en": "A 31-year-old British woman is fatally stabbed at a Bavarian train station",
+      "es": "Una británica de 31 años muere apuñalada en una estación bávara"
+    },
+    "summary": {
+      "fr": "Une femme britannique de 31 ans a été mortellement poignardée tôt samedi matin à la gare de Rosenheim, dans le sud de l'Allemagne, selon l'Associated Press. Elle est décédée à l'hôpital des suites de ses blessures. La police fédérale a interpellé un suspect allemand de 27 ans originaire du district voisin de Fürstenfeldbruck. Les autorités, qui n'ont pas communiqué l'identité des personnes impliquées conformément aux règles allemandes de protection de la vie privée, enquêtent toujours sur le mobile.",
+      "en": "A 31-year-old British woman was fatally stabbed in the early hours of Saturday morning at the train station in Rosenheim, southern Germany, the Associated Press reports. She died in hospital from her injuries. Federal police detained a 27-year-old German suspect from the nearby district of Fürstenfeldbruck. Authorities, who did not release the identities of those involved in line with German privacy rules, are still investigating the motive.",
+      "es": "Una mujer británica de 31 años murió apuñalada de madrugada el sábado en la estación de tren de Rosenheim, en el sur de Alemania, según Associated Press. Falleció en el hospital a causa de sus heridas. La policía federal detuvo a un sospechoso alemán de 27 años, originario del cercano distrito de Fürstenfeldbruck. Las autoridades, que no difundieron la identidad de los implicados conforme a las normas alemanas de protección de datos, siguen investigando el móvil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "30/08/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "Une Britannique de 31 ans est mortellement poignardée à la gare de Rosenheim ; un suspect allemand de 27 ans est interpellé, selon l'AP.",
+          "en": "A 31-year-old British woman is fatally stabbed at Rosenheim train station; a 27-year-old German suspect is detained, according to AP.",
+          "es": "Una británica de 31 años es apuñalada mortalmente en la estación de Rosenheim; un sospechoso alemán de 27 años es detenido, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "ceuta-crise-migratoire",
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Euronews",
+    "place": {
+      "fr": "Ceuta, enclave espagnole en Afrique du Nord",
+      "en": "Ceuta, Spanish enclave in North Africa",
+      "es": "Ceuta, enclave español en el norte de África"
+    },
+    "title": {
+      "fr": "Un mois après l'afflux massif de migrants, Ceuta reste sous tension",
+      "en": "A month after the mass migrant influx, Ceuta remains under strain",
+      "es": "Un mes después de la afluencia masiva de migrantes, Ceuta sigue bajo tensión"
+    },
+    "summary": {
+      "fr": "Fin juillet, environ 72 000 personnes sont entrées irrégulièrement dans l'enclave espagnole de Ceuta après l'ouverture de la frontière côté marocain, selon Al Jazeera. Le bilan des morts, dus notamment à des noyades et des mouvements de foule près de la digue frontalière, varie selon les sources : les autorités espagnoles ont d'abord fait état d'au moins 72 morts, tandis que d'autres médias évoquent un bilan bien plus lourd après la découverte de corps supplémentaires en mer. Un mois plus tard, entre 5 000 et 9 000 migrants selon les estimations restent dans la ville ; Madrid a annoncé le 30 août un plan d'urgence de 165 millions d'euros pour Ceuta, selon Euronews.",
+      "en": "In late July, around 72,000 people entered the Spanish enclave of Ceuta irregularly after the border gate on the Moroccan side was opened, according to Al Jazeera. The death toll — largely from drownings and crush injuries near the border breakwater — varies by source: Spanish authorities initially reported at least 72 dead, while other outlets have cited much higher figures after additional bodies were recovered at sea. A month later, an estimated 5,000 to 9,000 migrants, depending on the source, remain in the city; Madrid announced a €165 million emergency package for Ceuta on August 30, according to Euronews.",
+      "es": "A finales de julio, unas 72.000 personas entraron de forma irregular en el enclave español de Ceuta tras la apertura del paso fronterizo por el lado marroquí, según Al Jazeera. El número de muertos —en su mayoría por ahogamientos y aplastamientos cerca del espigón fronterizo— varía según la fuente: las autoridades españolas informaron inicialmente de al menos 72 fallecidos, mientras que otros medios citan cifras mucho más altas tras la recuperación de más cuerpos en el mar. Un mes después, entre 5.000 y 9.000 migrantes, según las estimaciones, permanecen en la ciudad; Madrid anunció el 30 de agosto un paquete de emergencia de 165 millones de euros para Ceuta, según Euronews."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/07/2026",
+          "en": "31/07/2026",
+          "es": "31/07/2026"
+        },
+        "d": {
+          "fr": "Environ 72 000 personnes franchissent la frontière en deux jours après l'ouverture du poste de Tarajal, selon Al Jazeera.",
+          "en": "About 72,000 people cross the border in two days after the Tarajal crossing is opened, according to Al Jazeera.",
+          "es": "Unas 72.000 personas cruzan la frontera en dos días tras la apertura del paso de Tarajal, según Al Jazeera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "30/08/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "L'Espagne annonce un plan d'urgence de 165 millions d'euros pour Ceuta alors que des milliers de migrants restent dans l'enclave, selon Euronews.",
+          "en": "Spain announces a €165 million emergency package for Ceuta as thousands of migrants remain in the enclave, according to Euronews.",
+          "es": "España anuncia un plan de emergencia de 165 millones de euros para Ceuta mientras miles de migrantes permanecen en el enclave, según Euronews."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "kyiv-frappe-depot",
+    "coords": [
+      30.3,
+      50.47
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / Kyiv Independent / Bloomberg",
+    "place": {
+      "fr": "Village de Myla, près de Kyiv, Ukraine",
+      "en": "Myla village, near Kyiv, Ukraine",
+      "es": "Aldea de Myla, cerca de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe sur un dépôt près de Kyiv fait au moins 37 morts",
+      "en": "Russian drone strike on a depot near Kyiv kills at least 37",
+      "es": "Un ataque ruso con drones contra un depósito cerca de Kiev deja al menos 37 muertos"
+    },
+    "summary": {
+      "fr": "Un drone russe a touché le 28 août une installation dans le village de Myla, à environ 5 km à l'ouest de Kyiv, provoquant une série d'explosions en chaîne, selon CNN et le Kyiv Independent. Le bilan s'élève à au moins 37 morts et une cinquantaine de bâtiments résidentiels endommagés ; 381 personnes, dont 59 enfants, ont été évacuées. Les autorités ukrainiennes évoquent la présence de munitions stockées sur le site. Kyiv a ensuite subi plusieurs nuits consécutives d'attaques de drones fin août.",
+      "en": "A Russian drone hit a facility in the village of Myla, about 5km west of Kyiv, on August 28, triggering a chain reaction of explosions, according to CNN and the Kyiv Independent. At least 37 people were killed and around 50 residential buildings were damaged; 381 people, including 59 children, were evacuated. Ukrainian officials say ammunition was likely stored at the site. Kyiv then endured several consecutive nights of drone attacks in late August.",
+      "es": "Un dron ruso impactó el 28 de agosto contra una instalación en la aldea de Myla, a unos 5 km al oeste de Kiev, provocando una cadena de explosiones, según CNN y Kyiv Independent. El balance es de al menos 37 muertos y unos 50 edificios residenciales dañados; 381 personas, entre ellas 59 niños, fueron evacuadas. Las autoridades ucranianas señalan que en el lugar probablemente había munición almacenada. Kiev sufrió después varias noches consecutivas de ataques con drones a finales de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Un drone russe frappe un dépôt près du village de Myla, déclenchant des explosions en chaîne ; le bilan atteint au moins 37 morts, selon CNN.",
+          "en": "A Russian drone strikes a depot near Myla village, triggering chain explosions; the toll reaches at least 37 dead, according to CNN.",
+          "es": "Un dron ruso golpea un depósito cerca de la aldea de Myla, provocando explosiones en cadena; el balance llega a al menos 37 muertos, según CNN."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29-30/08/2026",
+          "en": "29-30/08/2026",
+          "es": "29-30/08/2026"
+        },
+        "d": {
+          "fr": "Kyiv subit une troisième nuit consécutive d'attaques de drones russes, avec des alertes aériennes répétées, selon le Kyiv Independent.",
+          "en": "Kyiv endures a third consecutive night of Russian drone attacks, with repeated air-raid alerts, according to the Kyiv Independent.",
+          "es": "Kiev sufre una tercera noche consecutiva de ataques con drones rusos, con repetidas alertas aéreas, según Kyiv Independent."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "venezuela-accord-petrole",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢",
+    "source": "NPR / NBC News / CBS News",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Les États-Unis annoncent un accord pétrolier majeur avec le Venezuela",
+      "en": "United States announces major oil deal with Venezuela",
+      "es": "Estados Unidos anuncia un importante acuerdo petrolero con Venezuela"
+    },
+    "summary": {
+      "fr": "Le président américain Donald Trump a annoncé un accord donnant aux États-Unis le contrôle d'une nouvelle coentreprise détenant les droits sur 65 milliards de barils de réserves pétrolières vénézuéliennes, réparties sur 17 champs, selon NPR, NBC News et CBS News. Washington détiendrait 55 % de la coentreprise, négociée notamment par le secrétaire d'État Marco Rubio et la présidente par intérim du Venezuela Delcy Rodríguez. L'accord prévoit un versement de 19 dollars par baril à Caracas et pourrait générer plus de 209 milliards de dollars de recettes fiscales pour le Venezuela.",
+      "en": "US President Donald Trump announced a deal giving the United States control of a new joint venture holding rights to 65 billion barrels of Venezuelan oil reserves across 17 fields, according to NPR, NBC News and CBS News. Washington would hold a 55% stake in the venture, negotiated in part by Secretary of State Marco Rubio and Venezuela's interim President Delcy Rodríguez. The deal sets a $19-per-barrel payment to Caracas and could generate over $209 billion in tax revenue for Venezuela.",
+      "es": "El presidente estadounidense Donald Trump anunció un acuerdo que otorga a Estados Unidos el control de una nueva empresa conjunta con derechos sobre 65.000 millones de barriles de reservas petroleras venezolanas repartidas en 17 yacimientos, según NPR, NBC News y CBS News. Washington tendría una participación del 55% en la empresa, negociada en parte por el secretario de Estado Marco Rubio y la presidenta interina de Venezuela, Delcy Rodríguez. El acuerdo fija un pago de 19 dólares por barril a Caracas y podría generar más de 209.000 millones de dólares en ingresos fiscales para Venezuela."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Donald Trump annonce l'accord donnant aux États-Unis le contrôle de 65 milliards de barils de réserves vénézuéliennes, selon NPR.",
+          "en": "Donald Trump announces the deal giving the US control of 65 billion barrels of Venezuelan reserves, according to NPR.",
+          "es": "Donald Trump anuncia el acuerdo que otorga a EE. UU. el control de 65.000 millones de barriles de reservas venezolanas, según NPR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "canada-tarifs-douaniers",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "NPR / NBC News",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada suspend les discussions commerciales face à de nouveaux tarifs américains de 50 %",
+      "en": "Canada suspends trade talks as new 50% US tariffs take effect",
+      "es": "Canadá suspende las conversaciones comerciales ante nuevos aranceles estadounidenses del 50%"
+    },
+    "summary": {
+      "fr": "Le premier ministre canadien Mark Carney a suspendu les négociations commerciales avec les États-Unis après l'annonce par Washington de nouveaux tarifs douaniers de 50 % sur certaines importations canadiennes, qualifiant la mesure d'« erreur de calcul », selon NPR et NBC News. M. Carney a déclaré que son pays était désormais « en guerre » commerciale avec les États-Unis. Le Canada doit lancer des tarifs de rétorsion à partir du 8 septembre.",
+      "en": "Canadian Prime Minister Mark Carney suspended trade negotiations with the United States after Washington announced new 50% tariffs on certain Canadian imports, calling the move \"a miscalculation,\" according to NPR and NBC News. Carney said his country was now \"at war\" commercially with the United States. Canada is set to launch retaliatory tariffs starting September 8.",
+      "es": "El primer ministro canadiense, Mark Carney, suspendió las negociaciones comerciales con Estados Unidos después de que Washington anunciara nuevos aranceles del 50% sobre ciertas importaciones canadienses, calificando la medida de \"un error de cálculo\", según NPR y NBC News. Carney afirmó que su país estaba ahora \"en guerra\" comercial con Estados Unidos. Canadá prevé lanzar aranceles de represalia a partir del 8 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Mark Carney suspend les discussions commerciales avec Washington et annonce des tarifs de rétorsion, selon NPR.",
+          "en": "Mark Carney suspends trade talks with Washington and announces retaliatory tariffs, according to NPR.",
+          "es": "Mark Carney suspende las conversaciones comerciales con Washington y anuncia aranceles de represalia, según NPR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "mexique-garcialuna-recouvrement",
+    "coords": [
+      -99.1332,
+      19.4326
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "La Razón de México / La Jornada",
+    "place": {
+      "fr": "Mexico, Mexique",
+      "en": "Mexico City, Mexico",
+      "es": "Ciudad de México, México"
+    },
+    "title": {
+      "fr": "Le Mexique récupère 5,8 millions de dollars liés à l'affaire García Luna",
+      "en": "Mexico recovers $5.8 million linked to the García Luna case",
+      "es": "México recupera 5,8 millones de dólares vinculados al caso García Luna"
+    },
+    "summary": {
+      "fr": "L'État mexicain a récupéré 5,8 millions de dollars provenant de la liquidation de 12 propriétés en Floride et d'une police de cautionnement liées à l'ancien secrétaire à la Sécurité publique Genaro García Luna, condamné aux États-Unis pour corruption, selon La Razón de México et La Jornada. Les biens appartenaient à la famille Weinberg, condamnée en mai à indemniser le Mexique pour son rôle dans un système de contrats publics illicites. La présidente Claudia Sheinbaum a indiqué que ces fonds seraient consacrés à des écoles de la région défavorisée de la Montaña de Guerrero.",
+      "en": "The Mexican state recovered $5.8 million from the liquidation of 12 properties in Florida and a bond policy tied to former Public Security Secretary Genaro García Luna, who was convicted of corruption in the United States, according to La Razón de México and La Jornada. The properties belonged to the Weinberg family, ordered in May to compensate Mexico for its role in a scheme of illicit public contracts. President Claudia Sheinbaum said the funds would go toward schools in the impoverished Montaña de Guerrero region.",
+      "es": "El Estado mexicano recuperó 5,8 millones de dólares provenientes de la liquidación de 12 propiedades en Florida y una póliza de fianza vinculadas al exsecretario de Seguridad Pública Genaro García Luna, condenado por corrupción en Estados Unidos, según La Razón de México y La Jornada. Las propiedades pertenecían a la familia Weinberg, condenada en mayo a indemnizar a México por su papel en un esquema de contratos públicos ilícitos. La presidenta Claudia Sheinbaum señaló que los fondos se destinarán a escuelas de la empobrecida región de la Montaña de Guerrero."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement mexicain annonce la récupération de 5,8 millions de dollars liés à l'affaire García Luna, selon La Razón.",
+          "en": "The Mexican government announces the recovery of $5.8 million linked to the García Luna case, according to La Razón.",
+          "es": "El gobierno mexicano anuncia la recuperación de 5,8 millones de dólares vinculados al caso García Luna, según La Razón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "japon-fukui-alerte-pluies",
+    "coords": [
+      136.2217,
+      36.0652
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧",
+    "source": "The Japan Times / Agence météorologique du Japon",
+    "place": {
+      "fr": "Préfecture de Fukui, Japon",
+      "en": "Fukui Prefecture, Japan",
+      "es": "Prefectura de Fukui, Japón"
+    },
+    "title": {
+      "fr": "Le Japon place trois villes de Fukui en alerte maximale face au risque de glissements de terrain",
+      "en": "Japan issues top-level emergency warning for three Fukui cities over landslide risk",
+      "es": "Japón emite la alerta máxima para tres ciudades de Fukui ante el riesgo de deslizamientos"
+    },
+    "summary": {
+      "fr": "L'Agence météorologique japonaise a émis dimanche matin des alertes de niveau 5, le plus élevé, pour les villes de Fukui, Ono et Katsuyama, dans la préfecture de Fukui, en raison d'un risque accru de glissements de terrain et de crues soudaines après des pluies record, selon le Japan Times. L'alerte a ensuite été abaissée au niveau 4 dans la matinée. Aucun décès n'était signalé à ce stade. Cet épisode intervient deux semaines après des inondations dans la préfecture de Chiba qui avaient fait au moins 8 morts.",
+      "en": "Japan's Meteorological Agency issued Level 5 emergency warnings — the highest level — for the cities of Fukui, Ono and Katsuyama in Fukui Prefecture on Sunday morning, citing an increased risk of landslides and flash floods after record rainfall, according to the Japan Times. The warning was later downgraded to Level 4 during the morning. No deaths had been reported at this stage. The episode comes two weeks after flooding in Chiba Prefecture killed at least 8 people.",
+      "es": "La Agencia Meteorológica de Japón emitió el domingo por la mañana alertas de nivel 5, el más alto, para las ciudades de Fukui, Ono y Katsuyama, en la prefectura de Fukui, por el mayor riesgo de deslizamientos de tierra y crecidas repentinas tras lluvias récord, según Japan Times. La alerta se rebajó después a nivel 4 durante la mañana. Hasta el momento no se habían reportado muertes. El episodio se produce dos semanas después de que unas inundaciones en la prefectura de Chiba dejaran al menos 8 muertos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "30/08/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "L'Agence météorologique émet une alerte de niveau 5 pour trois villes de Fukui avant de l'abaisser au niveau 4, selon le Japan Times.",
+          "en": "The Meteorological Agency issues a Level 5 warning for three Fukui cities before downgrading it to Level 4, according to the Japan Times.",
+          "es": "La Agencia Meteorológica emite una alerta de nivel 5 para tres ciudades de Fukui antes de rebajarla a nivel 4, según Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-manifestations-corruption",
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Des milliers de manifestants réclament une répression de la corruption à Jakarta",
+      "en": "Thousands of protesters demand a corruption crackdown in Jakarta",
+      "es": "Miles de manifestantes exigen una represión de la corrupción en Yakarta"
+    },
+    "summary": {
+      "fr": "Des milliers d'Indonésiens ont manifesté devant le Parlement à Jakarta pour réclamer des sanctions plus sévères contre les fonctionnaires corrompus et dénoncer la « militarisation » croissante de la société, selon Al Jazeera. La police a déployé 18 500 agents et interpellé 65 personnes avant le rassemblement. Les manifestants demandaient aussi une baisse des prix alimentaires.",
+      "en": "Thousands of Indonesians marched on parliament in Jakarta to demand harsher punishment for corrupt officials and denounce the growing \"militarization\" of society, according to Al Jazeera. Police deployed 18,500 officers and detained 65 people ahead of the rally. Protesters also called for lower food prices.",
+      "es": "Miles de indonesios marcharon hasta el parlamento en Yakarta para exigir sanciones más severas contra los funcionarios corruptos y denunciar la creciente \"militarización\" de la sociedad, según Al Jazeera. La policía desplegó a 18.500 agentes y detuvo a 65 personas antes de la manifestación. Los manifestantes también pidieron una bajada de los precios de los alimentos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Des milliers de manifestants marchent sur le Parlement à Jakarta ; 65 personnes sont interpellées, selon Al Jazeera.",
+          "en": "Thousands of protesters march on parliament in Jakarta; 65 people are detained, according to Al Jazeera.",
+          "es": "Miles de manifestantes marchan hacia el parlamento en Yakarta; 65 personas son detenidas, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-enlevement-mosquee",
+    "coords": [
+      4.62,
+      9.93
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Reuters",
+    "place": {
+      "fr": "Village de Dekera, district de Borgu, État du Niger, Nigeria",
+      "en": "Dekera village, Borgu district, Niger State, Nigeria",
+      "es": "Aldea de Dekera, distrito de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent des centaines de fidèles dans une mosquée du centre-nord du Nigeria",
+      "en": "Gunmen abduct hundreds of worshippers from a mosque in north-central Nigeria",
+      "es": "Hombres armados secuestran a cientos de fieles en una mezquita del centro-norte de Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont enlevé jusqu'à 600 fidèles, en majorité des femmes, des enfants et des personnes âgées, lors de la prière du vendredi dans une mosquée du village de Dekera, dans le district de Borgu, État du Niger, selon Al Jazeera et Reuters. Un responsable local a fait état de 30 morts lors de l'attaque. Un groupe armé a diffusé une vidéo montrant les personnes enlevées. Si ce bilan est confirmé, il s'agirait de l'un des enlèvements de masse les plus importants de l'histoire récente du Nigeria. Le 5 août, les forces de sécurité avaient annoncé avoir libéré 308 personnes enlevées lors d'attaques distinctes dans les États du Kwara et du Niger.",
+      "en": "Gunmen abducted as many as 600 worshippers — mostly women, children and older people — during Friday prayers at a mosque in Dekera village, Borgu district, Niger State, according to Al Jazeera and Reuters. A local official said 30 people were killed during the attack. An armed group circulated a video showing the abducted people. If confirmed, this would rank among the largest mass kidnappings in Nigeria's recent history. On August 5, security forces said they had rescued 308 people abducted in separate attacks in Kwara and Niger states.",
+      "es": "Hombres armados secuestraron hasta 600 fieles —en su mayoría mujeres, niños y ancianos— durante la oración del viernes en una mezquita de la aldea de Dekera, distrito de Borgu, estado de Níger, según Al Jazeera y Reuters. Un funcionario local informó de 30 muertos durante el ataque. Un grupo armado difundió un vídeo con las personas secuestradas. De confirmarse, se trataría de uno de los mayores secuestros masivos de la historia reciente de Nigeria. El 5 de agosto, las fuerzas de seguridad habían anunciado el rescate de 308 personas secuestradas en ataques distintos en los estados de Kwara y Níger."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/08/2026",
+          "en": "05/08/2026",
+          "es": "05/08/2026"
+        },
+        "d": {
+          "fr": "Les forces de sécurité annoncent avoir secouru 308 personnes enlevées dans les États du Kwara et du Niger.",
+          "en": "Security forces announce the rescue of 308 people abducted in Kwara and Niger states.",
+          "es": "Las fuerzas de seguridad anuncian el rescate de 308 personas secuestradas en los estados de Kwara y Níger."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés enlèvent jusqu'à 600 fidèles dans une mosquée du village de Dekera ; un responsable local fait état de 30 morts, selon Al Jazeera.",
+          "en": "Gunmen abduct as many as 600 worshippers from a mosque in Dekera village; a local official reports 30 deaths, according to Al Jazeera.",
+          "es": "Hombres armados secuestran hasta 600 fieles en una mezquita de la aldea de Dekera; un funcionario local informa de 30 muertos, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "coree-boom-exportations",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Reuters / Bloomberg",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Banque de Corée relève sa prévision de croissance grâce au boom des exportations de puces IA",
+      "en": "Bank of Korea raises growth forecast on AI chip export boom",
+      "es": "El Banco de Corea eleva su previsión de crecimiento gracias al auge de las exportaciones de chips de IA"
+    },
+    "summary": {
+      "fr": "La Banque de Corée a relevé sa prévision de croissance pour 2026 à 3,3 %, sa plus haute estimation depuis 2021, portée par la demande mondiale de semi-conducteurs liés à l'intelligence artificielle, selon Reuters et Bloomberg. Samsung Electronics et SK Hynix ont porté les exportations sud-coréennes au-dessus de 100 milliards de dollars sur un seul mois, une première, après avoir déjà dépassé celles du Japon au premier semestre. L'indice boursier Kospi a progressé de près de 60 % depuis le début de l'année.",
+      "en": "The Bank of Korea raised its 2026 growth forecast to 3.3%, its highest estimate since 2021, driven by global demand for AI-related semiconductors, according to Reuters and Bloomberg. Samsung Electronics and SK Hynix pushed South Korean exports above $100 billion in a single month for the first time, having already overtaken Japan's exports in the first half of the year. The Kospi stock index has risen nearly 60% since the start of the year.",
+      "es": "El Banco de Corea elevó su previsión de crecimiento para 2026 al 3,3%, su estimación más alta desde 2021, impulsada por la demanda mundial de semiconductores vinculados a la inteligencia artificial, según Reuters y Bloomberg. Samsung Electronics y SK Hynix llevaron las exportaciones surcoreanas por encima de los 100.000 millones de dólares en un solo mes por primera vez, tras haber superado ya a Japón en exportaciones durante el primer semestre. El índice bursátil Kospi ha subido casi un 60% desde principios de año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "30/08/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "Les exportations sud-coréennes de puces dépassent 100 milliards de dollars sur un mois pour la première fois, selon Bloomberg.",
+          "en": "South Korean chip exports top $100 billion in a single month for the first time, according to Bloomberg.",
+          "es": "Las exportaciones surcoreanas de chips superan los 100.000 millones de dólares en un mes por primera vez, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "usopen-djokovic-elimination",
+    "coords": [
+      -73.8448,
+      40.7498
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "ATP Tour / ESPN",
+    "place": {
+      "fr": "Flushing Meadows, New York, États-Unis",
+      "en": "Flushing Meadows, New York, United States",
+      "es": "Flushing Meadows, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Novak Djokovic éliminé dès le 2e tour de l'US Open par Mariano Navone",
+      "en": "Novak Djokovic knocked out of the US Open in the second round by Mariano Navone",
+      "es": "Novak Djokovic, eliminado en segunda ronda del US Open por Mariano Navone"
+    },
+    "summary": {
+      "fr": "L'Argentin Mariano Navone a créé la surprise en éliminant le quadruple champion Novak Djokovic en cinq sets au deuxième tour de l'US Open 2026, selon l'ATP Tour. De son côté, Carlos Alcaraz, tenant du titre, effectue son retour à la compétition en simple après une blessure au poignet qui l'a tenu éloigné du Grand Chelem depuis Roland-Garros et Wimbledon. Chez les femmes, la double tenante du titre Aryna Sabalenka a débuté son tournoi face à Camila Osorio.",
+      "en": "Argentina's Mariano Navone pulled off an upset by beating four-time champion Novak Djokovic in five sets in the second round of the 2026 US Open, according to the ATP Tour. Meanwhile, defending champion Carlos Alcaraz is making his return to singles competition after a wrist injury that kept him out of the French Open and Wimbledon. In the women's draw, two-time defending champion Aryna Sabalenka opened her tournament against Camila Osorio.",
+      "es": "El argentino Mariano Navone dio la sorpresa al vencer al tetracampeón Novak Djokovic en cinco sets en la segunda ronda del US Open 2026, según ATP Tour. Por su parte, el vigente campeón Carlos Alcaraz regresa a la competición individual tras una lesión de muñeca que lo mantuvo alejado de Roland Garros y Wimbledon. En el cuadro femenino, la bicampeona defensora Aryna Sabalenka comenzó su torneo ante Camila Osorio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Mariano Navone élimine Novak Djokovic en cinq sets au deuxième tour, selon l'ATP Tour.",
+          "en": "Mariano Navone eliminates Novak Djokovic in five sets in the second round, according to the ATP Tour.",
+          "es": "Mariano Navone elimina a Novak Djokovic en cinco sets en la segunda ronda, según ATP Tour."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "caen-voiture-belier",
+    "coords": [
+      -0.3707,
+      49.1829
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "Associated Press / L'Orient Today",
+    "place": {
+      "fr": "Caen, Calvados, France",
+      "en": "Caen, Calvados, France",
+      "es": "Caen, Calvados, Francia"
+    },
+    "title": {
+      "fr": "Une voiture fonce sur des piétons à Caen, faisant deux morts",
+      "en": "Car rams into pedestrians in Caen, killing two",
+      "es": "Un coche embiste a peatones en Caen y deja dos muertos"
+    },
+    "summary": {
+      "fr": "Un automobiliste a délibérément foncé dans un groupe de personnes rassemblées devant un bar, en face de la gare de Caen, dans la nuit du 26 au 27 août, faisant deux morts et neuf blessés, selon l'Associated Press. Le suspect, un homme de 26 ans né en Russie, a été interpellé. Le maire de Caen a indiqué que l'événement semblait résulter d'une « bagarre qui a mal tourné » plutôt que d'un acte terroriste, une piste que les autorités n'ont pas retenue à ce stade.",
+      "en": "A driver deliberately rammed a car into a group of people gathered outside a bar opposite Caen's train station overnight on August 26-27, killing two people and injuring nine, according to the Associated Press. The suspect, a 26-year-old man born in Russia, was arrested. Caen's mayor said the incident appeared to stem from \"a fight that turned bad\" rather than a terrorist act, a line authorities have not pursued at this stage.",
+      "es": "Un conductor embistió deliberadamente contra un grupo de personas reunidas frente a un bar, enfrente de la estación de tren de Caen, durante la noche del 26 al 27 de agosto, matando a dos personas e hiriendo a nueve, según Associated Press. El sospechoso, un hombre de 26 años nacido en Rusia, fue detenido. El alcalde de Caen señaló que el hecho parecía derivar de \"una pelea que terminó mal\" y no de un acto terrorista, una hipótesis que las autoridades no han seguido por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/08/2026",
+          "en": "27/08/2026",
+          "es": "27/08/2026"
+        },
+        "d": {
+          "fr": "Une voiture fonce sur des piétons devant la gare de Caen, faisant deux morts et neuf blessés ; le conducteur est interpellé, selon l'AP.",
+          "en": "A car rams into pedestrians outside Caen's train station, killing two and injuring nine; the driver is arrested, according to AP.",
+          "es": "Un coche embiste a peatones frente a la estación de Caen, matando a dos personas e hiriendo a nueve; el conductor es detenido, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "inde-modi-asie-centrale",
+    "coords": [
+      69.2401,
+      41.2995
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Outlook India / Deccan Herald",
+    "place": {
+      "fr": "Tachkent, Ouzbékistan",
+      "en": "Tashkent, Uzbekistan",
+      "es": "Taskent, Uzbekistán"
+    },
+    "title": {
+      "fr": "L'Inde et l'Ouzbékistan élèvent leurs relations au rang de partenariat stratégique global",
+      "en": "India and Uzbekistan elevate ties to a Comprehensive Strategic Partnership",
+      "es": "India y Uzbekistán elevan sus relaciones a una Asociación Estratégica Integral"
+    },
+    "summary": {
+      "fr": "Lors d'une visite d'État de quatre jours en Asie centrale, le Premier ministre indien Narendra Modi a signé avec l'Ouzbékistan un accord élevant leurs relations au rang de partenariat stratégique global, avec un objectif d'échanges commerciaux de 5 milliards de dollars par an d'ici 2030, selon Outlook India et le Deccan Herald. Un cadre d'approvisionnement en uranium a également été conclu. M. Modi devait ensuite se rendre au Kirghizstan pour le 26e sommet de l'Organisation de coopération de Shanghai, où il devait rencontrer le président russe Vladimir Poutine en marge des discussions.",
+      "en": "During a four-day state visit to Central Asia, Indian Prime Minister Narendra Modi signed an agreement with Uzbekistan elevating their relationship to a Comprehensive Strategic Partnership, setting a $5 billion annual trade target by 2030, according to Outlook India and the Deccan Herald. A framework for long-term uranium supply was also agreed. Modi was then due to travel to Kyrgyzstan for the 26th Shanghai Cooperation Organisation summit, where he was expected to meet Russian President Vladimir Putin on the sidelines.",
+      "es": "Durante una visita de Estado de cuatro días a Asia Central, el primer ministro indio, Narendra Modi, firmó con Uzbekistán un acuerdo que eleva la relación bilateral a una Asociación Estratégica Integral, con una meta de 5.000 millones de dólares en comercio anual para 2030, según Outlook India y Deccan Herald. También se acordó un marco para el suministro de uranio a largo plazo. Modi viajaría después a Kirguistán para la 26ª cumbre de la Organización de Cooperación de Shanghái, donde se esperaba que se reuniera con el presidente ruso Vladimir Putin al margen de las conversaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "L'Inde et l'Ouzbékistan signent un partenariat stratégique global lors de la visite d'État de Narendra Modi, selon Outlook India.",
+          "en": "India and Uzbekistan sign a Comprehensive Strategic Partnership during Narendra Modi's state visit, according to Outlook India.",
+          "es": "India y Uzbekistán firman una Asociación Estratégica Integral durante la visita de Estado de Narendra Modi, según Outlook India."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "bresil-emploi-ralentissement",
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le marché de l'emploi formel brésilien ralentit nettement en juillet",
+      "en": "Brazil's formal job market slows sharply in July",
+      "es": "El mercado laboral formal de Brasil se desacelera con fuerza en julio"
+    },
+    "summary": {
+      "fr": "Le ministère brésilien du Travail a fait état du chiffre de juillet le plus faible depuis le début de sa série statistique en 2020 pour l'emploi formel, un résultat inférieur aux prévisions des économistes, selon le Rio Times. Le rythme des embauches nettes depuis le début de l'année reste en retrait par rapport à 2025. Cette annonce intervient alors que l'inflation sur douze mois a ralenti mi-août, tournant l'attention vers la prochaine décision de taux de la banque centrale.",
+      "en": "Brazil's Labor Ministry reported the weakest July figure for formal employment since its statistical series began in 2020, a result below economists' forecasts, according to the Rio Times. Net hiring so far this year continues to run below 2025's pace. The report comes as twelve-month inflation cooled in mid-August, turning attention to the central bank's next interest rate decision.",
+      "es": "El Ministerio de Trabajo de Brasil informó de la cifra de julio más débil para el empleo formal desde que comenzó su serie estadística en 2020, un resultado por debajo de las previsiones de los economistas, según Rio Times. El ritmo de contratación neta en lo que va de año sigue por debajo del de 2025. El informe llega mientras la inflación interanual se moderó a mediados de agosto, centrando la atención en la próxima decisión de tipos del banco central."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère du Travail publie le chiffre d'emploi formel de juillet, le plus faible depuis 2020, selon le Rio Times.",
+          "en": "The Labor Ministry publishes the July formal employment figure, the weakest since 2020, according to the Rio Times.",
+          "es": "El Ministerio de Trabajo publica la cifra de empleo formal de julio, la más débil desde 2020, según Rio Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
     "priority": 1
   }
 ]
