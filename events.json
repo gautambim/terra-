@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / Euronews / Foreign Policy",
+    "week": "2026-W36",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban. Le 30 août, de nouvelles frappes ont eu lieu : les États-Unis ont visé l'île iranienne de Larak, et l'Iran a répliqué contre des bases américaines en Jordanie et aux Émirats arabes unis, selon Al Jazeera, Euronews et Foreign Policy.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon. On August 30, fresh strikes took place: the United States targeted Iran's Larak Island, and Iran retaliated against US bases in Jordan and the United Arab Emirates, according to Al Jazeera, Euronews and Foreign Policy.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano. El 30 de agosto se produjeron nuevos ataques: Estados Unidos atacó la isla iraní de Larak, e Irán respondió contra bases estadounidenses en Jordania y los Emiratos Árabes Unidos, según Al Jazeera, Euronews y Foreign Policy."
     },
     "timeline": [
       {
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "08/30/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis frappent des lance-roquettes iraniens sur l'île de Larak, dans le détroit d'Ormuz ; l'Iran riposte en visant les bases américaines Al Azraq et Al Hussein en Jordanie ainsi qu'une base à Al Minhad, aux Émirats arabes unis, selon Al Jazeera, Euronews et Foreign Policy. La Jordanie affirme avoir intercepté huit missiles. Le président iranien Massoud Pezeshkian déclare que Téhéran « ne cherche pas la guerre » mais « ne restera jamais les bras croisés face à une agression ».",
+          "en": "The United States strikes Iranian rocket launchers on Larak Island, in the Strait of Hormuz; Iran retaliates by targeting the US-operated Al Azraq and King Hussein bases in Jordan as well as a base at Al Minhad in the United Arab Emirates, according to Al Jazeera, Euronews and Foreign Policy. Jordan says it intercepted eight missiles. Iranian President Masoud Pezeshkian says Tehran is \"not looking for war\" but \"will never sit still in the face of aggression\".",
+          "es": "Estados Unidos ataca lanzacohetes iraníes en la isla de Larak, en el estrecho de Ormuz; Irán responde atacando las bases estadounidenses de Al Azraq y Rey Hussein, en Jordania, así como una base en Al Minhad, en los Emiratos Árabes Unidos, según Al Jazeera, Euronews y Foreign Policy. Jordania afirma haber interceptado ocho misiles. El presidente iraní, Masoud Pezeshkian, declara que Teherán «no busca la guerra», pero «nunca se quedará de brazos cruzados ante una agresión»."
         },
         "active": true
       }
@@ -828,6 +841,739 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -115.1398,
+      36.1699
+    ],
+    "id": "tupac-verdict-usa",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NBC News / CNN / TMZ",
+    "place": {
+      "fr": "Las Vegas, Nevada, États-Unis",
+      "en": "Las Vegas, Nevada, United States",
+      "es": "Las Vegas, Nevada, Estados Unidos"
+    },
+    "title": {
+      "fr": "Duane Davis reconnu coupable du meurtre de Tupac Shakur, près de 30 ans après les faits",
+      "en": "Duane Davis found guilty of Tupac Shakur's murder, nearly 30 years after the killing",
+      "es": "Duane Davis declarado culpable del asesinato de Tupac Shakur, casi 30 años después de los hechos"
+    },
+    "summary": {
+      "fr": "Un jury de Las Vegas a déclaré coupable de meurtre au premier degré Duane « Keffe D » Davis, 63 ans, pour son rôle dans l'assassinat du rappeur Tupac Shakur en 1996, selon NBC News, CNN et TMZ. L'accusé n'a pas tiré lui-même mais est présenté par l'accusation comme le commanditaire de l'embuscade. La juge Carli Kierny a ordonné son maintien en détention jusqu'à sa condamnation, prévue le 13 octobre ; Davis a indiqué vouloir faire appel.",
+      "en": "A Las Vegas jury found Duane \"Keffe D\" Davis, 63, guilty of first-degree murder for his role in the 1996 killing of rapper Tupac Shakur, according to NBC News, CNN and TMZ. Davis did not fire the fatal shots himself but prosecutors described him as the organizer of the drive-by ambush. Judge Carli Kierny ordered him held until sentencing on October 13; Davis has said he intends to appeal.",
+      "es": "Un jurado de Las Vegas declaró culpable de asesinato en primer grado a Duane «Keffe D» Davis, de 63 años, por su papel en el asesinato del rapero Tupac Shakur en 1996, según NBC News, CNN y TMZ. Davis no disparó él mismo, pero la fiscalía lo señaló como el organizador de la emboscada. La jueza Carli Kierny ordenó mantenerlo detenido hasta la sentencia, prevista para el 13 de octubre; Davis afirmó que apelará."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le jury rend un verdict de culpabilité après moins de trois heures de délibération, au terme d'un procès de deux semaines.",
+          "en": "The jury returns a guilty verdict after fewer than three hours of deliberation, concluding a two-week trial.",
+          "es": "El jurado emite un veredicto de culpabilidad tras menos de tres horas de deliberación, al término de un juicio de dos semanas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      20.8886,
+      51.1125
+    ],
+    "id": "pologne-usine-drones-incendie",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Kyiv Post / Euronews / Al Jazeera / Bloomberg",
+    "place": {
+      "fr": "Skarżysko-Kamienna, Pologne",
+      "en": "Skarżysko-Kamienna, Poland",
+      "es": "Skarżysko-Kamienna, Polonia"
+    },
+    "title": {
+      "fr": "Incendie criminel présumé dans une usine de drones militaires polonaise",
+      "en": "Suspected arson fire at Polish military drone factory",
+      "es": "Presunto incendio provocado en una fábrica polaca de drones militares"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré tôt lundi 31 août dans une usine du groupe de défense WB Electronics à Skarżysko-Kamienna, qui fabrique des drones utilisés par les armées polonaise et ukrainienne, selon Euronews, Al Jazeera et Bloomberg. Le parquet polonais a ouvert une enquête pour terrorisme, évoquant un engin incendiaire déposé délibérément ; l'agence de sécurité intérieure (ABW) examine une possible implication d'un service de renseignement étranger, sans suspect identifié publiquement à ce stade. Les dégâts sont estimés à environ 15 millions de zlotys (3,46 millions d'euros).",
+      "en": "A fire broke out early Monday, August 31, at a factory belonging to defense group WB Electronics in Skarżysko-Kamienna, which manufactures drones used by both the Polish and Ukrainian militaries, according to Euronews, Al Jazeera and Bloomberg. Polish prosecutors opened a terrorism investigation, saying an incendiary device had been deliberately planted; the internal security agency (ABW) is examining possible involvement by a foreign intelligence service, with no suspect publicly named so far. Damage is estimated at roughly 15 million zloty (€3.46 million).",
+      "es": "Un incendio se produjo la madrugada del lunes 31 de agosto en una fábrica del grupo de defensa WB Electronics en Skarżysko-Kamienna, que fabrica drones utilizados por los ejércitos polaco y ucraniano, según Euronews, Al Jazeera y Bloomberg. La fiscalía polaca abrió una investigación por terrorismo, señalando que se colocó deliberadamente un artefacto incendiario; la agencia de seguridad interior (ABW) examina una posible implicación de un servicio de inteligencia extranjero, sin sospechosos identificados públicamente por ahora. Los daños se estiman en unos 15 millones de zlotys (3,46 millones de euros)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le feu détruit les entrepôts de l'usine vers 0h23 du matin ; le parquet ouvre une enquête pour terrorisme.",
+          "en": "The fire destroys the factory's warehouse facilities around 12:23am; prosecutors open a terrorism investigation.",
+          "es": "El fuego destruye los almacenes de la fábrica hacia las 00:23; la fiscalía abre una investigación por terrorismo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.5238,
+      50.4547
+    ],
+    "id": "kyiv-attaque-nocturne-01sept",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Post / administration militaire de Kyiv (KMVA)",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Nouvelle attaque russe de drones et missiles sur Kyiv, quatre blessés dont deux enfants",
+      "en": "New Russian drone and missile attack on Kyiv injures four, including two children",
+      "es": "Nuevo ataque ruso con drones y misiles sobre Kiev deja cuatro heridos, dos de ellos niños"
+    },
+    "summary": {
+      "fr": "La Russie a mené une nouvelle attaque aérienne dans la nuit du 31 août au 1er septembre contre Kyiv, selon le Kyiv Post et l'administration militaire de la ville (KMVA). Quatre personnes, dont deux enfants, ont été blessées dans le district de Solomianskyi. Des débris de drones ont provoqué des incendies dans les districts de Solomianskyi, Darnytskyi et Holosiivskyi. Le bilan reste provisoire et pourrait évoluer.",
+      "en": "Russia carried out another aerial attack overnight from August 31 into September 1 against Kyiv, according to the Kyiv Post and the city's military administration (KMVA). Four people, including two children, were injured in the Solomianskyi district. Drone debris sparked fires in the Solomianskyi, Darnytskyi and Holosiivskyi districts. The toll remains preliminary and could change.",
+      "es": "Rusia llevó a cabo un nuevo ataque aéreo durante la noche del 31 de agosto al 1 de septiembre contra Kiev, según el Kyiv Post y la administración militar de la ciudad (KMVA). Cuatro personas, dos de ellas niños, resultaron heridas en el distrito de Solomianskyi. Los restos de drones provocaron incendios en los distritos de Solomianskyi, Darnytskyi y Holosiivskyi. El balance sigue siendo provisional y podría cambiar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026 — vers 2h du matin",
+          "en": "09/01/2026 — around 2am",
+          "es": "01/09/2026 — hacia las 2:00"
+        },
+        "d": {
+          "fr": "L'administration militaire de Kyiv fait état de quatre blessés, dont deux enfants, dans le district de Solomianskyi.",
+          "en": "Kyiv's military administration reports four people injured, including two children, in the Solomianskyi district.",
+          "es": "La administración militar de Kiev informa de cuatro heridos, dos de ellos niños, en el distrito de Solomianskyi."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      12.1288,
+      47.8561
+    ],
+    "id": "allemagne-rosenheim-poignardage",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "LBC / The Irish Times / AOL",
+    "place": {
+      "fr": "Rosenheim, Allemagne",
+      "en": "Rosenheim, Germany",
+      "es": "Rosenheim, Alemania"
+    },
+    "title": {
+      "fr": "Une Britannique mortellement poignardée en gare de Rosenheim, un suspect arrêté",
+      "en": "British woman fatally stabbed at Rosenheim train station, suspect arrested",
+      "es": "Una británica muere apuñalada en la estación de tren de Rosenheim, sospechoso detenido"
+    },
+    "summary": {
+      "fr": "Une femme britannique de 31 ans, arrivée en Allemagne après un vol depuis Londres et qui devait poursuivre son trajet vers l'Autriche, a été poignardée vers 0h50 dimanche 30 août sur un quai de la gare de Rosenheim, en Bavière, selon LBC, The Irish Times et AOL. Transportée à l'hôpital, elle est décédée peu après. La police a arrêté et interroge un homme allemand de 27 ans, originaire de la région, sans domicile fixe connu. Le mobile de l'attaque reste flou et l'enquête se poursuit.",
+      "en": "A 31-year-old British woman, who had just arrived in Germany on a flight from London and was travelling onward to Austria, was stabbed around 12:50am on Sunday, August 30, on a platform at Rosenheim train station in Bavaria, according to LBC, The Irish Times and AOL. She was taken to hospital but died a short time later. Police arrested and are questioning a 27-year-old German man from the region, believed to be of no fixed address. The motive remains unclear and the investigation is ongoing.",
+      "es": "Una británica de 31 años, que acababa de llegar a Alemania en un vuelo desde Londres y viajaba hacia Austria, fue apuñalada hacia las 00:50 del domingo 30 de agosto en un andén de la estación de tren de Rosenheim, en Baviera, según LBC, The Irish Times y AOL. Fue trasladada al hospital, donde falleció poco después. La policía detuvo e interroga a un hombre alemán de 27 años, originario de la región, sin domicilio fijo conocido. El móvil del ataque sigue sin esclarecerse y la investigación continúa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026 — vers 0h50",
+          "en": "08/30/2026 — around 12:50am",
+          "es": "30/08/2026 — hacia las 00:50"
+        },
+        "d": {
+          "fr": "La victime est poignardée sur le quai de la gare ; elle décède peu après à l'hôpital.",
+          "en": "The victim is stabbed on the station platform; she dies a short time later in hospital.",
+          "es": "La víctima es apuñalada en el andén de la estación; fallece poco después en el hospital."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -102.2667,
+      22.5833
+    ],
+    "id": "mexique-zacatecas-attaque-explosif",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Excélsior / La Jornada / Infobae",
+    "place": {
+      "fr": "Ojocaliente, Zacatecas, Mexique",
+      "en": "Ojocaliente, Zacatecas, Mexico",
+      "es": "Ojocaliente, Zacatecas, México"
+    },
+    "title": {
+      "fr": "Attaque à l'explosif contre un poste de police à Ojocaliente, plusieurs blessés",
+      "en": "Explosive attack on police headquarters in Ojocaliente injures several",
+      "es": "Ataque con explosivo contra la comandancia de policía de Ojocaliente deja varios heridos"
+    },
+    "summary": {
+      "fr": "La commandanderie de la police municipale d'Ojocaliente, dans l'État de Zacatecas, a été visée par un véhicule piégé dans la soirée du dimanche 30 août, en pleine fête patronale, selon Excélsior, La Jornada et Infobae. Le secrétariat à la sécurité publique de l'État fait état d'au moins six civils et un policier blessés, ainsi que de plusieurs véhicules endommagés. Le procureur de l'État évoque un possible lien avec le cartel Jalisco Nouvelle Génération (CJNG), qui serait impliqué dans trois attaques similaires en moins d'une semaine dans la région.",
+      "en": "The municipal police headquarters in Ojocaliente, in the state of Zacatecas, was targeted by a car bomb on the evening of Sunday, August 30, during the town's annual fair, according to Excélsior, La Jornada and Infobae. The state public security secretariat reported at least six civilians and one police officer injured, along with several damaged vehicles. The state prosecutor said the attack may be linked to the Jalisco New Generation Cartel (CJNG), which is suspected in three similar attacks in the region in less than a week.",
+      "es": "La comandancia de la policía municipal de Ojocaliente, en el estado de Zacatecas, fue blanco de un coche bomba la noche del domingo 30 de agosto, en plena feria patronal, según Excélsior, La Jornada e Infobae. La Secretaría de Seguridad Pública del estado reportó al menos seis civiles y un policía heridos, además de varios vehículos dañados. El fiscal estatal señaló un posible vínculo con el Cártel Jalisco Nueva Generación (CJNG), sospechoso de tres ataques similares en la región en menos de una semana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026 — vers 20h",
+          "en": "08/30/2026 — around 8pm",
+          "es": "30/08/2026 — hacia las 20:00"
+        },
+        "d": {
+          "fr": "Un véhicule piégé explose devant la commandanderie de police, blessant au moins sept personnes.",
+          "en": "A car bomb explodes outside the police headquarters, injuring at least seven people.",
+          "es": "Un coche bomba explota frente a la comandancia de policía, hiriendo al menos a siete personas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      109.3425,
+      -0.0263
+    ],
+    "id": "indonesie-kalimantan-feux-brume",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "The Star / NASA Earthdata",
+    "place": {
+      "fr": "Kalimantan-Occidental, Bornéo, Indonésie",
+      "en": "West Kalimantan, Borneo, Indonesia",
+      "es": "Kalimantan Occidental, Borneo, Indonesia"
+    },
+    "title": {
+      "fr": "Les feux de forêt s'intensifient à Bornéo, une brume toxique touche des millions d'habitants",
+      "en": "Forest fires intensify in Borneo, toxic haze affects millions",
+      "es": "Los incendios forestales se intensifican en Borneo, una bruma tóxica afecta a millones de personas"
+    },
+    "summary": {
+      "fr": "Le nombre de foyers d'incendie a presque doublé en une journée dans le Kalimantan-Occidental, atteignant 7 377 points de chaleur lundi 31 août, selon The Star. Les feux, qui touchent aussi Sumatra, le Kalimantan, Sulawesi, Java et la Papouasie, exposent plus de cinq millions de personnes sur les îles de Bornéo et Sumatra à une brume dense, selon des données citées par NASA Earthdata. Le ministère de l'Environnement a identifié 42 entreprises susceptibles d'être poursuivies pour des feux détectés dans leurs concessions.",
+      "en": "The number of fire hotspots nearly doubled in a single day in West Kalimantan, reaching 7,377 on Monday, August 31, according to The Star. The fires, which are also affecting Sumatra, Kalimantan, Sulawesi, Java and Papua, are exposing more than five million people on the islands of Borneo and Sumatra to thick haze, according to data cited by NASA Earthdata. Indonesia's Environment Ministry has flagged 42 companies for possible legal action over fires detected within their concession areas.",
+      "es": "El número de focos de incendio casi se duplicó en un solo día en Kalimantan Occidental, alcanzando los 7.377 el lunes 31 de agosto, según The Star. Los incendios, que también afectan a Sumatra, Kalimantan, Célebes, Java y Papúa, exponen a más de cinco millones de personas en las islas de Borneo y Sumatra a una densa bruma, según datos citados por NASA Earthdata. El Ministerio de Medio Ambiente identificó a 42 empresas susceptibles de ser procesadas por incendios detectados en sus concesiones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Les points de chaleur détectés dans le Kalimantan-Occidental passent à 7 377, en forte hausse en une journée.",
+          "en": "Detected hotspots in West Kalimantan rise to 7,377, a sharp jump in a single day.",
+          "es": "Los focos de calor detectados en Kalimantan Occidental suben a 7.377, un fuerte aumento en un solo día."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      7.4898,
+      9.0765
+    ],
+    "id": "nigeria-hausse-prix-essence",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Legit.ng / FirstAwareness",
+    "place": {
+      "fr": "Abuja, Nigeria (impact national)",
+      "en": "Abuja, Nigeria (nationwide impact)",
+      "es": "Abuya, Nigeria (impacto nacional)"
+    },
+    "title": {
+      "fr": "Le prix de l'essence dépasse 1 300 nairas le litre au Nigeria",
+      "en": "Petrol price tops 1,300 naira per litre in Nigeria",
+      "es": "El precio de la gasolina supera los 1.300 nairas por litro en Nigeria"
+    },
+    "summary": {
+      "fr": "Le prix de l'essence a franchi la barre des 1 300 nairas le litre dans plusieurs régions du Nigeria fin août, après que la raffinerie Dangote a relevé son tarif de gros de 1 185 à 1 200 nairas le litre le 26 août, selon Legit.ng et FirstAwareness. Cette hausse en amont s'est répercutée en cascade sur les stations-service, certains distributeurs comme MRS facturant désormais jusqu'à 1 310 nairas le litre. Les chiffres exacts varient selon les régions et les sources.",
+      "en": "Petrol prices crossed 1,300 naira per litre in several parts of Nigeria in late August, after the Dangote refinery raised its wholesale price from 1,185 to 1,200 naira per litre on August 26, according to Legit.ng and FirstAwareness. The upstream increase cascaded down to retail stations, with some distributors such as MRS now charging up to 1,310 naira per litre. Exact figures vary by region and source.",
+      "es": "El precio de la gasolina superó los 1.300 nairas por litro en varias regiones de Nigeria a finales de agosto, después de que la refinería Dangote elevara su precio mayorista de 1.185 a 1.200 nairas por litro el 26 de agosto, según Legit.ng y FirstAwareness. Este aumento en origen se trasladó en cadena a las estaciones de servicio, con distribuidores como MRS cobrando ya hasta 1.310 nairas por litro. Las cifras exactas varían según la región y la fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "08/26/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Dangote relève son prix de gros de 1 185 à 1 200 nairas le litre, déclenchant une série de hausses au détail.",
+          "en": "Dangote raises its wholesale price from 1,185 to 1,200 naira per litre, triggering a wave of retail increases.",
+          "es": "Dangote eleva su precio mayorista de 1.185 a 1.200 nairas por litro, desencadenando una serie de subidas al por menor."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-emploi-ralentissement-juillet",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Reuters / Ministère du Travail (CAGED)",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le marché de l'emploi formel brésilien ralentit fortement en juillet",
+      "en": "Brazil's formal job market slows sharply in July",
+      "es": "El mercado laboral formal de Brasil se desacelera con fuerza en julio"
+    },
+    "summary": {
+      "fr": "Le Brésil n'a créé que 58 568 emplois formels nets en juillet, très en deçà des 112 000 attendus par les économistes et loin des 145 161 emplois de juin, selon les données CAGED relayées par Reuters. Il s'agit du plus faible résultat pour un mois de juillet depuis le début de cette série statistique en 2020. Le commerce est le seul des cinq grands secteurs à avoir détruit des emplois (-2 056), tandis que les services (+24 098), la construction (+12 691) et l'agriculture (+12 523) ont progressé.",
+      "en": "Brazil created a net 58,568 formal jobs in July, well short of the 112,000 economists had expected and far below June's 145,161, according to CAGED data reported by Reuters. It was the weakest July reading since the statistical series began in 2020. Commerce was the only one of the five main sectors to shed jobs (-2,056), while services (+24,098), construction (+12,691) and agriculture (+12,523) posted gains.",
+      "es": "Brasil creó apenas 58.568 empleos formales netos en julio, muy por debajo de los 112.000 previstos por los economistas y lejos de los 145.161 de junio, según datos de CAGED difundidos por Reuters. Es el resultado más débil para un mes de julio desde que comenzó esta serie estadística en 2020. El comercio fue el único de los cinco grandes sectores que destruyó empleo (-2.056), mientras que los servicios (+24.098), la construcción (+12.691) y la agricultura (+12.523) avanzaron."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le ministère du Travail publie les chiffres CAGED de juillet, confirmant le ralentissement des créations d'emplois.",
+          "en": "The Labor Ministry publishes July's CAGED figures, confirming the slowdown in job creation.",
+          "es": "El Ministerio de Trabajo publica las cifras de CAGED de julio, confirmando la desaceleración en la creación de empleo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "id": "japon-inflation-tokyo-aout",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Statistiques officielles du gouvernement japonais",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "L'inflation s'accélère à Tokyo pour le troisième mois consécutif",
+      "en": "Inflation accelerates in Tokyo for a third straight month",
+      "es": "La inflación se acelera en Tokio por tercer mes consecutivo"
+    },
+    "summary": {
+      "fr": "Les prix à la consommation dans le centre de Tokyo, un indicateur avancé de l'inflation nationale, ont augmenté de 1,8 % en août sur un an, une accélération pour le troisième mois d'affilée, portée par la hausse persistante des prix alimentaires. Dans le même temps, la chaîne de restaurants de curry CoCo Ichibanya a instauré une majoration de prix en soirée à partir du 1er septembre et relevé le tarif d'une douzaine d'accompagnements, invoquant la hausse des coûts des ingrédients, de l'emballage et de la main-d'œuvre.",
+      "en": "Consumer prices in central Tokyo, a leading indicator for nationwide inflation, rose 1.8% year-on-year in August, accelerating for a third consecutive month as food prices kept climbing. Separately, curry restaurant chain CoCo Ichibanya introduced a late-night surcharge starting September 1 and raised prices on a dozen toppings, citing higher costs for ingredients, packaging and labor.",
+      "es": "Los precios al consumo en el centro de Tokio, un indicador adelantado de la inflación nacional, subieron un 1,8% interanual en agosto, acelerándose por tercer mes consecutivo debido a la persistente subida de los precios de los alimentos. Por separado, la cadena de restaurantes de curry CoCo Ichibanya introdujo un recargo nocturno a partir del 1 de septiembre y subió el precio de una docena de acompañamientos, citando el aumento de los costos de ingredientes, embalaje y mano de obra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Les données officielles confirment une inflation de 1,8 % à Tokyo en août, en accélération.",
+          "en": "Official data confirm 1.8% inflation in Tokyo in August, an acceleration from July.",
+          "es": "Los datos oficiales confirman una inflación del 1,8% en Tokio en agosto, en aceleración."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.3811,
+      50.9077
+    ],
+    "id": "royaume-uni-festival-panneau-mortel",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "LadBible / NewsBeep",
+    "place": {
+      "fr": "Wiston Estate, Steyning, West Sussex, Royaume-Uni",
+      "en": "Wiston Estate, Steyning, West Sussex, United Kingdom",
+      "es": "Wiston Estate, Steyning, West Sussex, Reino Unido"
+    },
+    "title": {
+      "fr": "Un homme tué par une enseigne qui s'effondre au Big Church Festival",
+      "en": "Man killed by falling sign at Big Church Festival",
+      "es": "Un hombre muere al caerle un cartel en el Big Church Festival"
+    },
+    "summary": {
+      "fr": "Un pasteur de 41 ans, Robert Guanco, est mort après qu'une grande enseigne du festival chrétien Big Church Festival, organisé au domaine de Wiston, près de Steyning, s'est effondrée sous l'effet du vent le vendredi 28 août, selon LadBible et NewsBeep. Au moins six autres personnes ont été blessées, dont quatre transportées à l'hôpital. Les organisateurs ont annulé le reste de l'événement, initialement prévu jusqu'au dimanche.",
+      "en": "A 41-year-old pastor, Robert Guanco, died after a large sign at the Christian Big Church Festival, held at Wiston Estate near Steyning, collapsed in the wind on Friday, August 28, according to LadBible and NewsBeep. At least six other people were injured, four of whom were taken to hospital. Organizers cancelled the rest of the event, which had been scheduled to run through Sunday.",
+      "es": "Un pastor de 41 años, Robert Guanco, murió después de que un gran cartel del festival cristiano Big Church Festival, celebrado en la finca de Wiston, cerca de Steyning, se derrumbara por el viento el viernes 28 de agosto, según LadBible y NewsBeep. Al menos otras seis personas resultaron heridas, cuatro de ellas trasladadas al hospital. Los organizadores cancelaron el resto del evento, previsto hasta el domingo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "08/28/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "L'enseigne du festival s'effondre sous l'effet du vent, tuant un festivalier et en blessant plusieurs autres.",
+          "en": "The festival sign collapses in high winds, killing one attendee and injuring several others.",
+          "es": "El cartel del festival se derrumba por el viento, matando a un asistente y dejando varios heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      121.4737,
+      31.2304
+    ],
+    "id": "chine-pmi-contraction-aout",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Bureau national des statistiques / Trading Economics / CNBC",
+    "place": {
+      "fr": "Shanghai, Chine",
+      "en": "Shanghai, China",
+      "es": "Shanghái, China"
+    },
+    "title": {
+      "fr": "L'activité manufacturière chinoise reste en contraction malgré un indice PMI en légère hausse",
+      "en": "China's manufacturing activity stays in contraction despite a slight PMI uptick",
+      "es": "La actividad manufacturera china sigue en contracción pese a una ligera subida del PMI"
+    },
+    "summary": {
+      "fr": "L'indice PMI composite officiel chinois est passé de 49,3 en juillet à 49,5 en août, restant sous le seuil de 50 qui sépare expansion et contraction, avec un PMI manufacturier à 49,8 et un PMI non manufacturier à 49, selon des données officielles relayées par Trading Economics et CNBC. Dans le même temps, l'indice Shanghai Composite a progressé de 0,86 % le 31 août, à 3 986 points. Pékin a annoncé de nouvelles mesures de soutien au marché immobilier, en difficulté, notamment en n'autorisant les prêts hypothécaires qu'une fois les projets achevés.",
+      "en": "China's official composite PMI edged up from 49.3 in July to 49.5 in August, staying below the 50-point threshold separating expansion from contraction, with manufacturing PMI at 49.8 and non-manufacturing PMI at 49, according to official data reported by Trading Economics and CNBC. Meanwhile, the Shanghai Composite index rose 0.86% on August 31 to 3,986 points. Beijing announced fresh support measures for the struggling property market, including only allowing mortgages once projects are completed.",
+      "es": "El índice PMI compuesto oficial de China pasó de 49,3 en julio a 49,5 en agosto, permaneciendo por debajo del umbral de 50 que separa expansión de contracción, con un PMI manufacturero de 49,8 y un PMI no manufacturero de 49, según datos oficiales difundidos por Trading Economics y CNBC. Mientras tanto, el índice Shanghai Composite subió un 0,86% el 31 de agosto, hasta los 3.986 puntos. Pekín anunció nuevas medidas de apoyo al mercado inmobiliario, en dificultades, entre ellas autorizar hipotecas solo una vez terminados los proyectos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le Bureau national des statistiques publie un PMI composite d'août à 49,5, toujours en zone de contraction.",
+          "en": "The National Bureau of Statistics releases an August composite PMI of 49.5, still in contraction territory.",
+          "es": "La Oficina Nacional de Estadísticas publica un PMI compuesto de agosto de 49,5, aún en zona de contracción."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      31.4913,
+      30.0286
+    ],
+    "id": "egypte-incendie-centre-commercial-caire",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Egyptian Streets / Egypt Independent / Egypt Today",
+    "place": {
+      "fr": "Nouveau Caire (Cinquième Établissement), Égypte",
+      "en": "New Cairo (Fifth Settlement), Egypt",
+      "es": "Nuevo Cairo (Quinto Asentamiento), Egipto"
+    },
+    "title": {
+      "fr": "Un incendie ravage un centre commercial du Nouveau Caire, un blessé",
+      "en": "Fire tears through New Cairo shopping mall, one injured",
+      "es": "Un incendio arrasa un centro comercial de Nuevo Cairo, un herido"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré dimanche 30 août à l'August Mall, un centre commercial de trois étages du quartier du Cinquième Établissement, au Nouveau Caire, selon Egyptian Streets, Egypt Independent et Egypt Today. Une personne a été blessée ; aucun décès n'a été signalé. Les pompiers ont maîtrisé les flammes et empêché leur propagation aux commerces voisins. Le vice-ministre de l'Intérieur chargé de la sécurité du Caire s'est rendu sur place pour superviser l'intervention.",
+      "en": "A fire broke out on Sunday, August 30, at August Mall, a three-story shopping center in the Fifth Settlement district of New Cairo, according to Egyptian Streets, Egypt Independent and Egypt Today. One person was injured; no deaths were reported. Firefighters brought the blaze under control and prevented it from spreading to neighboring shops. The assistant interior minister for Cairo security travelled to the scene to oversee the response.",
+      "es": "Un incendio se produjo el domingo 30 de agosto en August Mall, un centro comercial de tres plantas en el distrito del Quinto Asentamiento, en Nuevo Cairo, según Egyptian Streets, Egypt Independent y Egypt Today. Una persona resultó herida; no se informó de muertes. Los bomberos controlaron las llamas y evitaron que se propagaran a los comercios vecinos. El viceministro del Interior para la seguridad de El Cairo acudió al lugar para supervisar la respuesta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/08/2026",
+          "en": "08/30/2026",
+          "es": "30/08/2026"
+        },
+        "d": {
+          "fr": "Le feu se déclare dans le centre commercial ; les secours le maîtrisent et évitent sa propagation.",
+          "en": "The fire breaks out at the mall; emergency crews bring it under control and prevent it from spreading.",
+          "es": "El fuego se declara en el centro comercial; los servicios de emergencia lo controlan y evitan su propagación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "coords": [
+      7.4898,
+      9.0765
+    ],
+    "id": "nigeria-efcc-recuperation-actifs",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Leadership / BusinessDay Nigeria",
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "La Commission anticorruption nigériane annonce la récupération de 1 233 milliards de nairas en 34 mois",
+      "en": "Nigeria's anti-corruption commission reports recovering 1.233 trillion naira in 34 months",
+      "es": "La comisión anticorrupción de Nigeria anuncia la recuperación de 1,233 billones de nairas en 34 meses"
+    },
+    "summary": {
+      "fr": "La Commission économique et financière des crimes (EFCC) a récupéré plus de 1 233 milliards de nairas, ainsi que 684,4 millions de dollars, 373 900 livres sterling et 9,34 millions d'euros de produits du crime entre octobre 2023 et juin 2026, a annoncé son président Ola Olukoyede, selon Leadership et BusinessDay Nigeria. Environ 67 % de ces sommes correspondent à des récupérations indirectes au profit d'agences publiques ; 661,3 milliards de nairas et 492 millions de dollars ont déjà été reversés aux bénéficiaires. La Commission revendique aussi 10 872 condamnations sur la période.",
+      "en": "Nigeria's Economic and Financial Crimes Commission (EFCC) has recovered more than 1.233 trillion naira, plus $684.4 million, £373,900 and €9.34 million in proceeds of crime between October 2023 and June 2026, its chairman Ola Olukoyede announced, according to Leadership and BusinessDay Nigeria. About 67% of the total consists of indirect recoveries on behalf of government agencies; 661.3 billion naira and $492 million have already been disbursed to beneficiaries. The commission also says it secured 10,872 convictions over the period.",
+      "es": "La Comisión de Delitos Económicos y Financieros (EFCC) de Nigeria recuperó más de 1,233 billones de nairas, además de 684,4 millones de dólares, 373.900 libras esterlinas y 9,34 millones de euros en activos producto del delito entre octubre de 2023 y junio de 2026, anunció su presidente Ola Olukoyede, según Leadership y BusinessDay Nigeria. Cerca del 67% del total corresponde a recuperaciones indirectas en beneficio de agencias públicas; ya se han desembolsado 661.300 millones de nairas y 492 millones de dólares a los beneficiarios. La comisión afirma también haber logrado 10.872 condenas en el período."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le président de l'EFCC, Ola Olukoyede, détaille le bilan des récupérations sur 34 mois.",
+          "en": "EFCC chairman Ola Olukoyede details the 34-month recovery record.",
+          "es": "El presidente de la EFCC, Ola Olukoyede, detalla el balance de recuperaciones de 34 meses."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -3.6056,
+      37.1069
+    ],
+    "id": "espagne-seisme-alhendin-grenade",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "Infobae / El Diario / El Español / IGN",
+    "place": {
+      "fr": "Alhendín, province de Grenade, Espagne",
+      "en": "Alhendín, Granada province, Spain",
+      "es": "Alhendín, provincia de Granada, España"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,2 secoue la région de Grenade, dégâts matériels et répliques",
+      "en": "Magnitude 5.2 earthquake shakes the Granada region, causing damage and aftershocks",
+      "es": "Un terremoto de magnitud 5,2 sacude la región de Granada, con daños materiales y réplicas"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 5,2 dont l'épicentre se trouvait à Alhendín a frappé l'agglomération de Grenade le 15 août à 1h04 du matin, provoquant chutes de corniches, fissures et dégâts aux façades dans plusieurs communes comme Armilla, selon Infobae, El Diario et El Español. Aucun blessé n'a été recensé lors du séisme principal, mais la Junte d'Andalousie a activé le plan d'urgence sismique. Une réplique de magnitude 4,8 le 18 août a fait au moins trois blessés légers. Les autorités locales continuaient, le 31 août, d'évaluer les dégâts avec la mairie de Cúllar Vega.",
+      "en": "A magnitude 5.2 earthquake centered on Alhendín struck the Granada metropolitan area on August 15 at 1:04am, causing falling cornices, cracks and facade damage in several towns including Armilla, according to Infobae, El Diario and El Español. No injuries were recorded in the main quake, but the Andalusian regional government activated its seismic emergency plan. A magnitude 4.8 aftershock on August 18 left at least three people with minor injuries. Local authorities were still assessing the damage together with the town of Cúllar Vega as of August 31.",
+      "es": "Un terremoto de magnitud 5,2 con epicentro en Alhendín sacudió el área metropolitana de Granada el 15 de agosto a la 1:04 horas, provocando caídas de cornisas, grietas y daños en fachadas en varios municipios como Armilla, según Infobae, El Diario y El Español. No se registraron heridos en el sismo principal, pero la Junta de Andalucía activó el plan de emergencia sísmica. Una réplica de magnitud 4,8 el 18 de agosto dejó al menos tres heridos leves. Las autoridades locales seguían, el 31 de agosto, evaluando los daños junto al ayuntamiento de Cúllar Vega."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/08/2026 — 1h04",
+          "en": "08/15/2026 — 1:04am",
+          "es": "15/08/2026 — 1:04"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 5,2 frappe l'agglomération de Grenade, provoquant des dégâts matériels.",
+          "en": "A magnitude 5.2 earthquake strikes the Granada metropolitan area, causing material damage.",
+          "es": "Un terremoto de magnitud 5,2 sacude el área metropolitana de Granada, causando daños materiales."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Les autorités régionales poursuivent l'évaluation des dégâts avec la mairie de Cúllar Vega.",
+          "en": "Regional authorities continue assessing the damage together with the town of Cúllar Vega.",
+          "es": "Las autoridades regionales continúan evaluando los daños junto al ayuntamiento de Cúllar Vega."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      2.5847,
+      49.2064
+    ],
+    "id": "france-paty-nouvelle-condamnation",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "franceinfo / CNews",
+    "place": {
+      "fr": "Senlis, Oise, France",
+      "en": "Senlis, Oise, France",
+      "es": "Senlis, Oise, Francia"
+    },
+    "title": {
+      "fr": "Un homme condamné dans l'affaire Samuel Paty de nouveau reconnu coupable, pour rupture de contrôle judiciaire",
+      "en": "Man convicted in the Samuel Paty case found guilty again, for breaching judicial supervision",
+      "es": "Un condenado en el caso Samuel Paty es declarado culpable de nuevo, por incumplir su control judicial"
+    },
+    "summary": {
+      "fr": "Azim Epsirkhanov, condamné pour avoir fourni le couteau utilisé lors de l'assassinat de l'enseignant Samuel Paty en 2020, a été condamné lundi 31 août à un an de prison par le tribunal de Senlis pour avoir enfreint son assignation à résidence en se rendant au Parc Astérix, dans l'Oise, selon franceinfo et CNews. Sa peine pour complicité, initialement de 16 ans, avait été ramenée à sept ans en appel en mars 2026, les faits ayant été requalifiés en association de malfaiteurs. Il était assigné au domicile de sa compagne, dans les Hauts-de-Seine, dans l'attente de son expulsion du territoire français.",
+      "en": "Azim Epsirkhanov, convicted for providing the knife used in the 2020 murder of teacher Samuel Paty, was sentenced Monday, August 31, to one year in prison by the Senlis court for breaching his house arrest by visiting the Parc Astérix theme park in the Oise department, according to franceinfo and CNews. His sentence for complicity, originally 16 years, had been reduced to seven years on appeal in March 2026, after the charges were reclassified as criminal conspiracy. He had been under house arrest at his partner's home in Hauts-de-Seine while awaiting expulsion from France.",
+      "es": "Azim Epsirkhanov, condenado por proporcionar el cuchillo utilizado en el asesinato en 2020 del profesor Samuel Paty, fue sentenciado el lunes 31 de agosto a un año de prisión por el tribunal de Senlis por incumplir su arresto domiciliario al acudir al parque temático Parc Astérix, en el departamento de Oise, según franceinfo y CNews. Su condena por complicidad, originalmente de 16 años, había sido reducida a siete en apelación en marzo de 2026, tras recalificarse los hechos como asociación de malhechores. Se encontraba en arresto domiciliario en casa de su pareja, en Hauts-de-Seine, a la espera de su expulsión de Francia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Senlis condamne Azim Epsirkhanov à un an de prison pour rupture de son assignation à résidence.",
+          "en": "The Senlis court sentences Azim Epsirkhanov to one year in prison for breaching his house arrest.",
+          "es": "El tribunal de Senlis condena a Azim Epsirkhanov a un año de prisión por incumplir su arresto domiciliario."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -73.8455,
+      40.7498
+    ],
+    "id": "france-fils-elimine-usopen",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "France 24 / ATP Tour / US Open (usopen.org)",
+    "place": {
+      "fr": "Flushing Meadows, New York, États-Unis",
+      "en": "Flushing Meadows, New York, United States",
+      "es": "Flushing Meadows, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Arthur Fils éliminé dès le premier tour de l'US Open par Stefanos Tsitsipas",
+      "en": "Arthur Fils knocked out in the first round of the US Open by Stefanos Tsitsipas",
+      "es": "Arthur Fils, eliminado en primera ronda del US Open por Stefanos Tsitsipas"
+    },
+    "summary": {
+      "fr": "Tête de série numéro 10, le Français Arthur Fils s'est incliné au premier tour de l'US Open face au Grec Stefanos Tsitsipas, 53e mondial, sur le score de 4-6, 7-6 (7/3), 6-1, 6-4, selon France 24 et l'ATP Tour. Fils, qui venait de remporter le Masters 1000 de Cincinnati une semaine plus tôt, menait pourtant un set à zéro et 5-3 dans le deuxième avant de craquer au moment de servir pour le match.",
+      "en": "French 10th seed Arthur Fils lost in the first round of the US Open to Greece's Stefanos Tsitsipas, ranked 53rd in the world, 4-6, 7-6 (7/3), 6-1, 6-4, according to France 24 and the ATP Tour. Fils, who had just won the Cincinnati Masters 1000 title a week earlier, had led by a set and 5-3 in the second before faltering while serving for the set.",
+      "es": "El francés Arthur Fils, cabeza de serie número 10, cayó en primera ronda del US Open ante el griego Stefanos Tsitsipas, número 53 del mundo, por 4-6, 7-6 (7/3), 6-1, 6-4, según France 24 y el ATP Tour. Fils, que acababa de ganar el Masters 1000 de Cincinnati una semana antes, llegó a ir un set arriba y 5-3 en el segundo antes de flaquear al sacar para cerrarlo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Stefanos Tsitsipas élimine Arthur Fils en quatre sets au premier tour, au stade Louis Armstrong.",
+          "en": "Stefanos Tsitsipas eliminates Arthur Fils in four sets in the first round, at Louis Armstrong Stadium.",
+          "es": "Stefanos Tsitsipas elimina a Arthur Fils en cuatro sets en primera ronda, en el estadio Louis Armstrong."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "week": "2026-W36",
     "priority": 1
   }
 ]
