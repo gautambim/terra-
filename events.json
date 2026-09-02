@@ -829,5 +829,761 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      56.2808,
+      27.1865
+    ],
+    "id": "iran-frappes-detroit-ormuz",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CENTCOM / NPR / CNBC / Bloomberg",
+    "place": {
+      "fr": "Bandar Abbas et détroit d'Ormuz, Iran",
+      "en": "Bandar Abbas and the Strait of Hormuz, Iran",
+      "es": "Bandar Abbas y el estrecho de Ormuz, Irán"
+    },
+    "title": {
+      "fr": "Nouvelle escalade militaire entre les États-Unis et l'Iran autour du détroit d'Ormuz",
+      "en": "New US-Iran military escalation around the Strait of Hormuz",
+      "es": "Nueva escalada militar entre Estados Unidos e Irán en el estrecho de Ormuz"
+    },
+    "summary": {
+      "fr": "Le 1er septembre, l'armée américaine a de nouveau frappé des cibles des Gardiens de la révolution (IRGC) en Iran, en représailles à des attaques contre des navires commerciaux dans le détroit d'Ormuz et contre des militaires américains dans la région, selon le Commandement central américain (CENTCOM). Des explosions ont été rapportées près de Bandar Abbas, sur l'île de Qeshm, à Chabahar, Jask et Sirik. L'Iran a annoncé une riposte visant des intérêts américains dans la région.",
+      "en": "On September 1, the US military again struck Islamic Revolutionary Guard Corps (IRGC) targets in Iran, in response to attacks on commercial vessels in the Strait of Hormuz and on American troops in the region, according to US Central Command (CENTCOM). Explosions were reported near Bandar Abbas, on Qeshm Island, and in Chabahar, Jask and Sirik. Iran announced a retaliatory operation targeting US interests in the region.",
+      "es": "El 1 de septiembre, el ejército estadounidense volvió a atacar objetivos de la Guardia Revolucionaria (IRGC) en Irán, en represalia por ataques contra buques comerciales en el estrecho de Ormuz y contra militares estadounidenses en la región, según el Mando Central de EE. UU. (CENTCOM). Se reportaron explosiones cerca de Bandar Abbas, en la isla de Qeshm, y en Chabahar, Jask y Sirik. Irán anunció una operación de represalia contra intereses estadounidenses en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "CENTCOM annonce avoir frappé des cibles de l'IRGC (défenses antiaériennes, radars, moyens maritimes) après des tentatives d'attaques contre des pétroliers près du détroit d'Ormuz.",
+          "en": "CENTCOM announces it struck IRGC targets (air defense sites, radar systems, maritime assets) after attempted attacks on tankers near the Strait of Hormuz.",
+          "es": "CENTCOM anuncia haber atacado objetivos del IRGC (defensas antiaéreas, radares, medios navales) tras intentos de ataque contra petroleros cerca del estrecho de Ormuz."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran affirme avoir lancé des missiles et des drones contre des sites régionaux liés aux États-Unis ; des explosions sont rapportées près d'Aqaba, en Jordanie. Le président Trump promet de nouvelles frappes.",
+          "en": "Iran says it launched missiles and drones at US-linked sites in the region; explosions are reported near Aqaba, Jordan. President Trump vows further strikes.",
+          "es": "Irán afirma haber lanzado misiles y drones contra sitios regionales vinculados a EE. UU.; se reportan explosiones cerca de Aqaba, Jordania. El presidente Trump promete nuevos ataques."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "kyiv-depot-ferroviaire-frappe",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚆",
+    "source": "Kyiv Independent / Ukrzaliznytsia",
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe sur un dépôt ferroviaire de Kiev tue sept employés",
+      "en": "Russian strike on a Kyiv railway depot kills seven employees",
+      "es": "Un ataque ruso contra un depósito ferroviario de Kiev mata a siete empleados"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 1er septembre, un missile balistique russe a frappé un dépôt et d'autres infrastructures ferroviaires à Kiev, tuant sept personnes, dont six employés de la compagnie ferroviaire publique Ukrzaliznytsia ; un autre cheminot a été hospitalisé. Un atelier a été entièrement détruit. Au total, au moins 12 personnes sont mortes et 21 ont été blessées cette nuit-là à Kiev et dans sa région, dans le cadre d'un barrage de missiles et de drones qui dure depuis plusieurs jours.",
+      "en": "On the night of September 1, a Russian ballistic missile struck a depot and other railway facilities in Kyiv, killing seven people, including six employees of state rail operator Ukrzaliznytsia; another rail worker was hospitalized. One workshop was completely destroyed. At least 12 people died and 21 were injured that night in Kyiv and its region, part of a days-long missile and drone barrage.",
+      "es": "En la noche del 1 de septiembre, un misil balístico ruso alcanzó un depósito y otras instalaciones ferroviarias en Kiev, matando a siete personas, entre ellas seis empleados de la empresa ferroviaria estatal Ukrzaliznytsia; otro ferroviario fue hospitalizado. Un taller quedó totalmente destruido. Al menos 12 personas murieron y 21 resultaron heridas esa noche en Kiev y su región, en el marco de una oleada de misiles y drones que dura varios días."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026 (nuit)",
+          "en": "09/01/2026 (night)",
+          "es": "01/09/2026 (noche)"
+        },
+        "d": {
+          "fr": "Un missile balistique russe frappe un dépôt ferroviaire de Kiev ; sept employés d'Ukrzaliznytsia sont tués.",
+          "en": "A Russian ballistic missile strikes a Kyiv railway depot; seven Ukrzaliznytsia employees are killed.",
+          "es": "Un misil balístico ruso golpea un depósito ferroviario de Kiev; mueren siete empleados de Ukrzaliznytsia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      85.32,
+      28.42
+    ],
+    "id": "gyirong-glissement-terrain",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Xinhua / Al Jazeera / China.org.cn",
+    "place": {
+      "fr": "Comté de Gyirong, région autonome du Tibet, Chine (frontière avec le Népal)",
+      "en": "Gyirong County, Tibet Autonomous Region, China (border with Nepal)",
+      "es": "Condado de Gyirong, Región Autónoma del Tíbet, China (frontera con Nepal)"
+    },
+    "title": {
+      "fr": "Le bilan des inondations et coulées de boue Népal-Tibet dépasse 1 000 morts",
+      "en": "Nepal-Tibet flood and mudslide death toll passes 1,000",
+      "es": "El balance de las inundaciones y aludes de barro Nepal-Tíbet supera los 1.000 muertos"
+    },
+    "summary": {
+      "fr": "Le 26 août, une avalanche de glace et de roche survenue côté népalais a provoqué une coulée de boue géante qui a dévalé des vallées himalayennes jusqu'au poste-frontière de Gyirong, ensevelissant des villages et détruisant routes, ponts et infrastructures hydroélectriques. Selon les autorités chinoises et népalaises citées par Xinhua et Al Jazeera, le bilan a dépassé 1 000 morts au 1er septembre (au moins 16 morts côté chinois, la majorité côté népalais), avec des centaines de personnes toujours portées disparues. Un lac de barrage instable formé à la frontière fait craindre de nouvelles inondations. Des cérémonies en mémoire des victimes ont eu lieu le 1er septembre à Gyirong.",
+      "en": "On August 26, an ice-and-rock avalanche on the Nepali side triggered a massive mudslide that swept down Himalayan valleys to the Gyirong border crossing, burying villages and destroying roads, bridges and hydropower facilities. According to Chinese and Nepali authorities cited by Xinhua and Al Jazeera, the death toll passed 1,000 by September 1 (at least 16 dead on the Chinese side, the majority on the Nepali side), with hundreds still missing. An unstable barrier lake that formed on the border has raised fears of further flooding. Memorial services for the victims were held in Gyirong on September 1.",
+      "es": "El 26 de agosto, una avalancha de hielo y roca en el lado nepalí provocó un enorme alud de barro que descendió por valles del Himalaya hasta el paso fronterizo de Gyirong, sepultando aldeas y destruyendo carreteras, puentes e infraestructuras hidroeléctricas. Según autoridades chinas y nepalíes citadas por Xinhua y Al Jazeera, el balance superó los 1.000 muertos el 1 de septiembre (al menos 16 en el lado chino, la mayoría en el lado nepalí), con cientos de personas aún desaparecidas. Un lago de contención inestable formado en la frontera hace temer nuevas inundaciones. El 1 de septiembre se celebraron ceremonias en memoria de las víctimas en Gyirong."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "08/26/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Une avalanche de glace et de roche déclenche des inondations et coulées de boue le long de la frontière Népal-Tibet.",
+          "en": "An ice-and-rock avalanche triggers floods and mudslides along the Nepal-Tibet border.",
+          "es": "Una avalancha de hielo y roca desencadena inundaciones y aludes de barro a lo largo de la frontera Nepal-Tíbet."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel dépasse 1 000 morts ; des cérémonies commémoratives se tiennent à Gyirong.",
+          "en": "The official death toll passes 1,000; memorial services are held in Gyirong.",
+          "es": "El balance oficial supera los 1.000 muertos; se celebran ceremonias conmemorativas en Gyirong."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -111.6585,
+      40.2338
+    ],
+    "id": "tyler-robinson-proces",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "NPR / Washington Post / CNN",
+    "place": {
+      "fr": "Provo, Utah, États-Unis",
+      "en": "Provo, Utah, United States",
+      "es": "Provo, Utah, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le suspect de l'assassinat de Charlie Kirk sera jugé, selon un juge de l'Utah",
+      "en": "Charlie Kirk assassination suspect will stand trial, Utah judge rules",
+      "es": "El sospechoso del asesinato de Charlie Kirk irá a juicio, según un juez de Utah"
+    },
+    "summary": {
+      "fr": "Le juge Tony Graf, du tribunal du quatrième district à Provo (Utah), a jugé le 1er septembre que les preuves étaient suffisantes pour que Tyler Robinson, 23 ans, soit jugé pour l'assassinat de l'activiste conservateur Charlie Kirk, tué le 10 septembre 2025 lors d'un rassemblement à l'université Utah Valley. Robinson est poursuivi pour meurtre aggravé, un chef passible de la peine de mort ; l'accusation dit disposer de vidéos, d'ADN, de preuves indirectes et d'aveux du suspect.",
+      "en": "Judge Tony Graf of the Fourth District Court in Provo, Utah, ruled on September 1 that there was enough evidence for Tyler Robinson, 23, to stand trial for the assassination of conservative activist Charlie Kirk, who was killed on September 10, 2025 at a rally at Utah Valley University. Robinson faces an aggravated murder charge that could carry the death penalty; prosecutors say they have video, DNA, circumstantial evidence and a confession from the suspect.",
+      "es": "El juez Tony Graf, del Tribunal del Cuarto Distrito en Provo, Utah, resolvió el 1 de septiembre que había pruebas suficientes para que Tyler Robinson, de 23 años, sea juzgado por el asesinato del activista conservador Charlie Kirk, asesinado el 10 de septiembre de 2025 en un acto en la Universidad Utah Valley. Robinson enfrenta un cargo de asesinato agravado que podría conllevar la pena de muerte; la fiscalía afirma contar con video, ADN, pruebas circunstanciales y una confesión del sospechoso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Après une audience préliminaire, le juge Tony Graf ordonne le renvoi de Tyler Robinson devant un tribunal pour meurtre aggravé.",
+          "en": "Following a preliminary hearing, Judge Tony Graf orders Tyler Robinson bound over for trial on aggravated murder charges.",
+          "es": "Tras una audiencia preliminar, el juez Tony Graf ordena que Tyler Robinson sea procesado por asesinato agravado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -93.6079,
+      29.7461
+    ],
+    "id": "edouard-tempete-louisiane",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "National Hurricane Center / CNN / Fox Weather",
+    "place": {
+      "fr": "Johnson Bayou, Louisiane, États-Unis (frontière Texas-Louisiane)",
+      "en": "Johnson Bayou, Louisiana, United States (Texas-Louisiana border)",
+      "es": "Johnson Bayou, Luisiana, Estados Unidos (frontera Texas-Luisiana)"
+    },
+    "title": {
+      "fr": "La tempête tropicale Edouard touche terre entre le Texas et la Louisiane",
+      "en": "Tropical Storm Edouard makes landfall on the Texas-Louisiana border",
+      "es": "La tormenta tropical Edouard toca tierra entre Texas y Luisiana"
+    },
+    "summary": {
+      "fr": "La tempête tropicale Edouard, cinquième tempête nommée de la saison atlantique 2026, a touché terre le 1er septembre près de Johnson Bayou (Louisiane) avec des vents soutenus d'environ 95 km/h. Elle a apporté des rafales de 80 à 95 km/h et 20 à 25 cm de pluie dans certaines zones, avec un risque d'inondations et de tornades isolées sur la basse vallée du Mississippi et les Grandes Plaines du Sud. Les services météorologiques prévoyaient un affaiblissement rapide du système dans la nuit du 2 au 3 septembre.",
+      "en": "Tropical Storm Edouard, the fifth named storm of the 2026 Atlantic season, made landfall on September 1 near Johnson Bayou, Louisiana, with sustained winds of about 60 mph. It brought wind gusts of 50-60 mph and 8-10 inches of rain to some areas, with a flood and isolated tornado risk across the lower Mississippi Valley and southern Plains. Forecasters expected the system to rapidly weaken overnight into September 3.",
+      "es": "La tormenta tropical Edouard, la quinta tormenta con nombre de la temporada atlántica 2026, tocó tierra el 1 de septiembre cerca de Johnson Bayou, Luisiana, con vientos sostenidos de unos 95 km/h. Provocó ráfagas de 80 a 95 km/h y entre 20 y 25 cm de lluvia en algunas zonas, con riesgo de inundaciones y tornados aislados en el bajo valle del Misisipi y las llanuras del sur. Los meteorólogos preveían que el sistema se debilitara rápidamente durante la noche del 2 al 3 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026, 14h20 (heure locale)",
+          "en": "09/01/2026, 2:20 PM (local time)",
+          "es": "01/09/2026, 14:20 (hora local)"
+        },
+        "d": {
+          "fr": "Edouard touche terre près de Johnson Bayou, en Louisiane, avec des vents de 95 km/h.",
+          "en": "Edouard makes landfall near Johnson Bayou, Louisiana, with 60 mph winds.",
+          "es": "Edouard toca tierra cerca de Johnson Bayou, Luisiana, con vientos de 95 km/h."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "id": "usa-financement-relais",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏛️",
+    "source": "Congrès américain / NPR",
+    "place": {
+      "fr": "Washington D.C., États-Unis",
+      "en": "Washington D.C., United States",
+      "es": "Washington D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Chambre des représentants adopte un financement relais pour éviter une paralysie budgétaire",
+      "en": "House passes stopgap funding bill to avert a government shutdown",
+      "es": "La Cámara de Representantes aprueba una financiación puente para evitar el cierre del gobierno"
+    },
+    "summary": {
+      "fr": "L'exercice budgétaire fédéral s'achève le 30 septembre, mais la Chambre des représentants a adopté un texte de financement relais maintenant les dépenses des agences à leur niveau actuel jusqu'au 11 décembre, reportant ainsi la prochaine bataille budgétaire après les élections de mi-mandat de novembre.",
+      "en": "The federal budget year ends September 30, but the House of Representatives passed a stopgap funding bill keeping agency spending at current levels until December 11, pushing the next budget fight past the November midterm elections.",
+      "es": "El año fiscal federal termina el 30 de septiembre, pero la Cámara de Representantes aprobó una ley de financiación puente que mantiene el gasto de las agencias en su nivel actual hasta el 11 de diciembre, aplazando así la próxima batalla presupuestaria hasta después de las elecciones legislativas de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01-02/09/2026",
+          "en": "09/01-02/2026",
+          "es": "01-02/09/2026"
+        },
+        "d": {
+          "fr": "La Chambre adopte un financement relais des agences fédérales jusqu'au 11 décembre, évitant une paralysie budgétaire avant l'échéance du 30 septembre.",
+          "en": "The House passes a stopgap bill funding federal agencies through December 11, averting a shutdown ahead of the September 30 deadline.",
+          "es": "La Cámara aprueba una ley puente que financia a las agencias federales hasta el 11 de diciembre, evitando un cierre antes del vencimiento del 30 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -47.8828,
+      -15.7939
+    ],
+    "id": "bresil-ue-suspension-boeuf",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🥩",
+    "source": "Commission européenne / France 24 / Euronews",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "L'UE suspend les importations de viande brésilienne pour non-conformité aux règles sur les antibiotiques",
+      "en": "EU suspends Brazilian meat imports over antibiotic-compliance concerns",
+      "es": "La UE suspende las importaciones de carne brasileña por incumplimiento de las normas sobre antibióticos"
+    },
+    "summary": {
+      "fr": "La Commission européenne a annoncé le 1er septembre la suspension, à partir du 3 septembre, des importations de viande, d'œufs, de miel et d'autres produits animaux en provenance du Brésil, estimant que le pays n'a pas apporté de garanties suffisantes sur le respect des règles européennes limitant l'usage d'antibiotiques dans l'élevage. Le Brésil était en 2025 le deuxième fournisseur de bœuf de l'UE, avec plus de 92 000 tonnes exportées pour plus de 713 millions d'euros. La reprise des exportations de volaille pourrait intervenir sous quelques semaines si les vérifications sont positives ; celle du bœuf prendrait plus de temps.",
+      "en": "The European Commission announced on September 1 that it would suspend, from September 3, imports of meat, eggs, honey and other animal products from Brazil, saying the country had not provided sufficient guarantees that it complies with EU rules limiting antibiotic use in livestock farming. Brazil was the EU's second-largest beef supplier in 2025, exporting more than 92,000 tonnes worth over €713 million. Poultry exports could resume within weeks if checks are positive; beef would take longer.",
+      "es": "La Comisión Europea anunció el 1 de septiembre que suspendería, a partir del 3 de septiembre, las importaciones de carne, huevos, miel y otros productos animales procedentes de Brasil, alegando que el país no ofreció garantías suficientes sobre el cumplimiento de las normas europeas que limitan el uso de antibióticos en la ganadería. Brasil fue en 2025 el segundo proveedor de carne de vacuno de la UE, con más de 92.000 toneladas exportadas por más de 713 millones de euros. Las exportaciones de aves podrían reanudarse en semanas si las verificaciones son positivas; las de vacuno tardarían más."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "La Commission européenne annonce la suspension des importations de viande brésilienne à compter du 3 septembre.",
+          "en": "The European Commission announces the suspension of Brazilian meat imports starting September 3.",
+          "es": "La Comisión Europea anuncia la suspensión de las importaciones de carne brasileña a partir del 3 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      5.83,
+      9.68
+    ],
+    "id": "nigeria-enlevement-niger-state",
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "District de Dekara, État du Niger, Nigeria",
+      "en": "Dekara district, Niger State, Nigeria",
+      "es": "Distrito de Dekara, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des hommes armés enlèvent des dizaines de fidèles dans une mosquée du centre du Nigeria",
+      "en": "Gunmen kidnap dozens of worshippers from a mosque in central Nigeria",
+      "es": "Hombres armados secuestran a decenas de fieles en una mezquita del centro de Nigeria"
+    },
+    "summary": {
+      "fr": "Selon Al Jazeera, des hommes armés ont attaqué les villages de Gidan-Zana et Kpenya avant de prendre d'assaut la mosquée de Kpenya, dans le district de Dekara (État du Niger), enlevant des dizaines de personnes. Des habitants font état de plus de 60 fidèles enlevés, un chiffre que la source ne peut confirmer de manière indépendante. Le Nigeria fait face à une multiplication des enlèvements contre rançon menés par des groupes armés dans les zones rurales à faible présence de l'État.",
+      "en": "According to Al Jazeera, armed men attacked the villages of Gidan-Zana and Kpenya before storming the Kpenya mosque in the Dekara district of Niger State, kidnapping dozens of people. Residents reported more than 60 worshippers abducted, a figure the source could not independently verify. Nigeria has faced a rise in ransom kidnappings by armed groups in rural areas with limited state presence.",
+      "es": "Según Al Jazeera, hombres armados atacaron las aldeas de Gidan-Zana y Kpenya antes de asaltar la mezquita de Kpenya, en el distrito de Dekara (estado de Níger), secuestrando a decenas de personas. Residentes reportan más de 60 fieles secuestrados, cifra que la fuente no pudo verificar de forma independiente. Nigeria enfrenta un aumento de secuestros por rescate cometidos por grupos armados en zonas rurales con escasa presencia del Estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "vers le 28/08/2026",
+          "en": "around 08/28/2026",
+          "es": "hacia el 28/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés attaquent des villages puis la mosquée de Kpenya, enlevant des dizaines de fidèles selon des témoignages locaux.",
+          "en": "Gunmen attack villages and then the Kpenya mosque, kidnapping dozens of worshippers according to local accounts.",
+          "es": "Hombres armados atacan aldeas y luego la mezquita de Kpenya, secuestrando a decenas de fieles según testimonios locales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "coords": [
+      98.392,
+      3.17
+    ],
+    "id": "indonesie-sinabung-eruption",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "PVMBG / Newsweek / ambassade des États-Unis en Indonésie",
+    "place": {
+      "fr": "Mont Sinabung, régence de Karo, Sumatra du Nord, Indonésie",
+      "en": "Mount Sinabung, Karo Regency, North Sumatra, Indonesia",
+      "es": "Monte Sinabung, regencia de Karo, Sumatra del Norte, Indonesia"
+    },
+    "title": {
+      "fr": "Le volcan Sinabung entre en éruption à Sumatra",
+      "en": "Mount Sinabung erupts in Sumatra",
+      "es": "El volcán Sinabung entra en erupción en Sumatra"
+    },
+    "summary": {
+      "fr": "Le mont Sinabung, dans la régence de Karo (Sumatra du Nord), est entré en éruption le 31 août, projetant une colonne de cendres d'environ 3 500 mètres au-dessus du sommet. L'ambassade des États-Unis en Indonésie a émis une alerte aux catastrophes naturelles à la suite de cette activité volcanique renouvelée. L'éruption survient alors que les autorités indonésiennes mènent par ailleurs, tout au long du mois de septembre, des opérations de lutte contre les feux de forêt et de tourbe qui ont déjà touché près de 286 000 hectares depuis janvier.",
+      "en": "Mount Sinabung, in Karo Regency, North Sumatra, erupted on August 31, sending an ash column about 3,500 meters above its summit. The US Embassy in Indonesia issued a natural disaster alert following the renewed volcanic activity. The eruption comes as Indonesian authorities are also running forest and peat fire-suppression operations throughout September, after nearly 286,000 hectares burned nationwide since January.",
+      "es": "El monte Sinabung, en la regencia de Karo, Sumatra del Norte, entró en erupción el 31 de agosto, lanzando una columna de ceniza de unos 3.500 metros sobre su cumbre. La Embajada de Estados Unidos en Indonesia emitió una alerta de desastre natural tras esta renovada actividad volcánica. La erupción se produce mientras las autoridades indonesias también realizan durante septiembre operaciones de contención de incendios forestales y de turberas, que ya han quemado cerca de 286.000 hectáreas desde enero."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le Sinabung entre en éruption, projetant des cendres à environ 3 500 mètres d'altitude.",
+          "en": "Sinabung erupts, sending ash roughly 3,500 meters into the air.",
+          "es": "El Sinabung entra en erupción, lanzando ceniza a unos 3.500 metros de altura."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      12.2367,
+      51.4239
+    ],
+    "id": "allemagne-drone-leipzig",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛸",
+    "source": "Gouvernement allemand / CNN / France 24",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Allemagne",
+      "en": "Leipzig/Halle Airport, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Alemania"
+    },
+    "title": {
+      "fr": "Berlin attribue à la Russie une tentative d'attaque au drone contre l'aéroport de Leipzig",
+      "en": "Berlin blames Russia for attempted drone attack on Leipzig airport",
+      "es": "Berlín atribuye a Rusia un intento de ataque con drones contra el aeropuerto de Leipzig"
+    },
+    "summary": {
+      "fr": "Le gouvernement allemand a annoncé le 1er septembre que des enquêteurs disposaient de preuves qu'un drone piégé retrouvé le 4 août près d'un avion-cargo ukrainien à l'aéroport de Leipzig/Halle, puis désamorcé, avait été piloté par des agents agissant pour le compte d'entités étatiques russes. Berlin a annoncé la fermeture d'un consulat russe en représailles. La présidente de la Commission européenne, Ursula von der Leyen, a exprimé sa « pleine solidarité » avec l'Allemagne et évoqué de nouvelles sanctions.",
+      "en": "The German government announced on September 1 that investigators had evidence that an explosive-laden drone found on August 4 near a Ukrainian cargo plane at Leipzig/Halle Airport, then defused, had been operated by agents acting on behalf of Russian state entities. Berlin announced the closure of a Russian consulate in response. European Commission President Ursula von der Leyen expressed 'full solidarity' with Germany and referenced additional sanctions.",
+      "es": "El gobierno alemán anunció el 1 de septiembre que los investigadores tenían pruebas de que un dron cargado de explosivos hallado el 4 de agosto cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle, y luego desactivado, había sido operado por agentes que actuaban en nombre de entidades estatales rusas. Berlín anunció el cierre de un consulado ruso en respuesta. La presidenta de la Comisión Europea, Ursula von der Leyen, expresó su 'plena solidaridad' con Alemania y mencionó nuevas sanciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "08/04/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Un drone piégé est découvert près d'un avion-cargo ukrainien à l'aéroport de Leipzig/Halle, puis désamorcé.",
+          "en": "An explosive-laden drone is found near a Ukrainian cargo plane at Leipzig/Halle Airport and defused.",
+          "es": "Se halla un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle y es desactivado."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Berlin attribue officiellement l'incident à des agents agissant pour la Russie et annonce la fermeture d'un consulat russe.",
+          "en": "Berlin officially attributes the incident to agents acting for Russia and announces the closure of a Russian consulate.",
+          "es": "Berlín atribuye oficialmente el incidente a agentes que actúan para Rusia y anuncia el cierre de un consulado ruso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -92.1547,
+      14.6819
+    ],
+    "id": "mexique-repliques-chiapas",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "Service sismologique national (Mexique)",
+    "place": {
+      "fr": "Au large de Ciudad Hidalgo, Chiapas, Mexique",
+      "en": "Off the coast near Ciudad Hidalgo, Chiapas, Mexico",
+      "es": "Frente a las costas de Ciudad Hidalgo, Chiapas, México"
+    },
+    "title": {
+      "fr": "Une nouvelle réplique secoue le Chiapas après le séisme de juillet",
+      "en": "New aftershock rattles Chiapas following July's major earthquake",
+      "es": "Una nueva réplica sacude Chiapas tras el terremoto de julio"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 4,3 a été enregistré le 1er septembre à 13h29 (heure locale), avec un épicentre situé à environ 135 km au sud-ouest de Ciudad Hidalgo, dans l'État du Chiapas, à 18 km de profondeur. Cette secousse s'inscrit dans la série de répliques du puissant séisme de magnitude 7,4 survenu le 17 juillet ; le service sismologique national mexicain avait recensé 2 214 répliques au 1er septembre, dont une de magnitude 6,5. Aucun dégât ni victime n'a été rapporté pour cette dernière secousse.",
+      "en": "A magnitude 4.3 earthquake was recorded on September 1 at 1:29 PM local time, with an epicenter about 135 km southwest of Ciudad Hidalgo, Chiapas, at a depth of 18 km. The tremor is part of the aftershock sequence from the powerful magnitude 7.4 earthquake on July 17; Mexico's national seismological service had recorded 2,214 aftershocks by September 1, including one of magnitude 6.5. No damage or casualties were reported from this latest tremor.",
+      "es": "Un sismo de magnitud 4,3 fue registrado el 1 de septiembre a las 13:29 hora local, con epicentro a unos 135 km al suroeste de Ciudad Hidalgo, Chiapas, a 18 km de profundidad. El temblor forma parte de la secuencia de réplicas del potente sismo de magnitud 7,4 del 17 de julio; el servicio sismológico nacional de México había registrado 2.214 réplicas hasta el 1 de septiembre, incluida una de magnitud 6,5. No se reportaron daños ni víctimas por este último temblor."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026, 13h29",
+          "en": "09/01/2026, 1:29 PM",
+          "es": "01/09/2026, 13:29"
+        },
+        "d": {
+          "fr": "Une réplique de magnitude 4,3 est enregistrée au large de Ciudad Hidalgo, dans la série de répliques du séisme du 17 juillet.",
+          "en": "A magnitude 4.3 aftershock is recorded off Ciudad Hidalgo, part of the aftershock sequence from the July 17 earthquake.",
+          "es": "Se registra una réplica de magnitud 4,3 frente a Ciudad Hidalgo, dentro de la secuencia de réplicas del sismo del 17 de julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.0665,
+      51.6043
+    ],
+    "id": "transferts-foot-record-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "TNT Sports / Al Jazeera / clubs officiels",
+    "place": {
+      "fr": "Londres, Angleterre, Royaume-Uni",
+      "en": "London, England, United Kingdom",
+      "es": "Londres, Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "Le mercato d'été européen se referme sur une journée à gros transferts",
+      "en": "Europe's summer transfer window closes with a flurry of big-money deals",
+      "es": "El mercado de fichajes de verano europeo cierra con una jornada de grandes traspasos"
+    },
+    "summary": {
+      "fr": "La fenêtre des transferts estivaux 2026 s'est refermée le 1er septembre en Premier League, Bundesliga et Ligue 1, et le 1er septembre également pour la Liga et la Serie A. Plusieurs transferts à prix élevés ont été bouclés dans les dernières heures, dont l'arrivée de Mateus Fernandes à Tottenham en provenance de West Ham (85 millions de livres) et celle d'Ayoub Bouaddi à Manchester City depuis Lille (100 millions d'euros), selon TNT Sports et Al Jazeera.",
+      "en": "Europe's 2026 summer transfer window closed on September 1 for the Premier League, Bundesliga and Ligue 1, and also on September 1 for La Liga and Serie A. Several high-value deals were completed in the final hours, including Mateus Fernandes' move to Tottenham from West Ham (£85 million) and Ayoub Bouaddi's transfer to Manchester City from Lille (€100 million), according to TNT Sports and Al Jazeera.",
+      "es": "La ventana de fichajes de verano de 2026 en Europa se cerró el 1 de septiembre para la Premier League, la Bundesliga y la Ligue 1, y también el 1 de septiembre para La Liga y la Serie A. Varios traspasos de gran valor se cerraron en las últimas horas, entre ellos el fichaje de Mateus Fernandes por el Tottenham procedente del West Ham (85 millones de libras) y el de Ayoub Bouaddi por el Manchester City desde el Lille (100 millones de euros), según TNT Sports y Al Jazeera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "La fenêtre des transferts se referme dans les principaux championnats européens après une journée de transactions à gros budget.",
+          "en": "The transfer window closes across Europe's top leagues after a day of big-money deals.",
+          "es": "La ventana de fichajes se cierra en las principales ligas europeas tras una jornada de grandes traspasos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "id": "russie-economie-stagnation",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "The Moscow Times / CSIS / Forbes",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "L'économie russe glisse vers la stagnation sous l'effet des sanctions et du coût de la guerre",
+      "en": "Russia's economy slides toward stagnation under sanctions and war costs",
+      "es": "La economía rusa se desliza hacia el estancamiento por las sanciones y el coste de la guerra"
+    },
+    "summary": {
+      "fr": "Selon plusieurs analyses économiques (The Moscow Times, CSIS, Forbes), la Russie devrait passer d'un ralentissement maîtrisé à une stagnation pure en 2026, avec une croissance attendue à seulement 0,4 %, sous l'effet du durcissement des sanctions occidentales et de la ponction budgétaire liée à la guerre en Ukraine. L'Union européenne a prolongé le 23 juillet son 21e train de sanctions jusqu'au 31 juillet 2027, tandis que les revenus pétroliers et gaziers russes, qui financent l'essentiel du budget de l'État, ont chuté de moitié en janvier 2026 par rapport à l'année précédente.",
+      "en": "According to several economic analyses (The Moscow Times, CSIS, Forbes), Russia is expected to slide from managed cooling into outright stagnation in 2026, with growth projected at just 0.4%, amid tightening Western sanctions and the fiscal strain of the war in Ukraine. The EU extended its 21st sanctions package on July 23 through July 31, 2027, while Russian oil and gas revenues, which fund most of the state budget, fell by half in January 2026 compared with the previous year.",
+      "es": "Según varios análisis económicos (The Moscow Times, CSIS, Forbes), se espera que Rusia pase de un enfriamiento controlado a un estancamiento total en 2026, con un crecimiento previsto de apenas el 0,4%, en medio del endurecimiento de las sanciones occidentales y la presión fiscal de la guerra en Ucrania. La UE prorrogó el 23 de julio su 21º paquete de sanciones hasta el 31 de julio de 2027, mientras que los ingresos petroleros y gasísticos rusos, que financian la mayor parte del presupuesto estatal, cayeron a la mitad en enero de 2026 respecto al año anterior."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/07/2026",
+          "en": "07/23/2026",
+          "es": "23/07/2026"
+        },
+        "d": {
+          "fr": "L'UE adopte son 21e train de sanctions contre la Russie, prolongé jusqu'à fin juillet 2027.",
+          "en": "The EU adopts its 21st sanctions package against Russia, extended through late July 2027.",
+          "es": "La UE adopta su 21º paquete de sanciones contra Rusia, prorrogado hasta finales de julio de 2027."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "début septembre 2026",
+          "en": "early September 2026",
+          "es": "principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Des analystes évaluent la trajectoire de l'économie russe pour 2026 à seulement 0,4 % de croissance.",
+          "en": "Analysts assess Russia's economic trajectory for 2026 at just 0.4% growth.",
+          "es": "Los analistas evalúan la trayectoria económica de Rusia para 2026 en apenas un 0,4% de crecimiento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.0983,
+      51.5136
+    ],
+    "id": "royaume-uni-ralentissement-economique",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "British Chambers of Commerce / CPA",
+    "place": {
+      "fr": "Londres (City), Royaume-Uni",
+      "en": "London (City), United Kingdom",
+      "es": "Londres (City), Reino Unido"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni s'attend à une contraction de son économie au troisième trimestre",
+      "en": "UK braces for economic contraction in the third quarter",
+      "es": "El Reino Unido se prepara para una contracción económica en el tercer trimestre"
+    },
+    "summary": {
+      "fr": "Selon la Chambre de commerce britannique (BCC), le PIB du Royaume-Uni devrait se contracter de 0,2 % au troisième trimestre avant une timide reprise de 0,1 % au quatrième, tandis que le chômage pourrait atteindre 5 % et l'inflation grimper jusqu'à 3,6 %. Les coûts d'emprunt du gouvernement ont atteint leur plus haut niveau en près de trente ans, réduisant la marge de manœuvre du chancelier de l'Échiquier avant le budget d'octobre ; l'escalade des tensions entre les États-Unis et l'Iran fait par ailleurs grimper les prix du pétrole et du gaz européen.",
+      "en": "According to the British Chambers of Commerce (BCC), UK GDP is expected to contract by 0.2% in the third quarter before a modest 0.1% rebound in the fourth, while unemployment could reach 5% and inflation climb to as high as 3.6%. Government borrowing costs have hit their highest level in almost three decades, narrowing the Chancellor's room for manoeuvre ahead of the October budget; escalating US-Iran tensions are also pushing up oil and European gas prices.",
+      "es": "Según la Cámara de Comercio Británica (BCC), se espera que el PIB del Reino Unido se contraiga un 0,2% en el tercer trimestre antes de una modesta recuperación del 0,1% en el cuarto, mientras que el desempleo podría alcanzar el 5% y la inflación subir hasta el 3,6%. Los costes de endeudamiento del gobierno han alcanzado su nivel más alto en casi tres décadas, reduciendo el margen de maniobra del ministro de Hacienda antes del presupuesto de octubre; la escalada de tensiones entre EE. UU. e Irán también está impulsando al alza los precios del petróleo y del gas europeo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La BCC prévoit une contraction du PIB britannique au troisième trimestre 2026 et une hausse du chômage.",
+          "en": "The BCC forecasts a contraction in UK GDP for the third quarter of 2026 and rising unemployment.",
+          "es": "La BCC pronostica una contracción del PIB británico en el tercer trimestre de 2026 y un aumento del desempleo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.5571,
+      31.5966
+    ],
+    "id": "japon-typhon-kyushu",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "Agence météorologique du Japon / Japan Times",
+    "place": {
+      "fr": "Kyushu, Japon",
+      "en": "Kyushu, Japan",
+      "es": "Kyushu, Japón"
+    },
+    "title": {
+      "fr": "Le typhon n°24 se forme et menace de s'approcher de Kyushu",
+      "en": "Typhoon No. 24 forms and threatens to approach Kyushu",
+      "es": "El tifón n.º 24 se forma y amenaza con acercarse a Kyushu"
+    },
+    "summary": {
+      "fr": "Le typhon n°24 de la saison s'est formé le 1er septembre au sud du Japon et pourrait s'approcher de l'île de Kyushu autour du 5 septembre, selon l'Agence météorologique japonaise citée par le Japan Times. Les autorités locales surveillent sa trajectoire ; aucun dégât n'est encore rapporté, la trajectoire précise restant incertaine plusieurs jours à l'avance.",
+      "en": "The season's Typhoon No. 24 formed on September 1 south of Japan and could approach the island of Kyushu around September 5, according to the Japan Meteorological Agency cited by the Japan Times. Local authorities are monitoring its track; no damage has been reported yet, and the precise path remains uncertain several days out.",
+      "es": "El tifón n.º 24 de la temporada se formó el 1 de septiembre al sur de Japón y podría acercarse a la isla de Kyushu alrededor del 5 de septiembre, según la Agencia Meteorológica de Japón citada por el Japan Times. Las autoridades locales están monitoreando su trayectoria; aún no se han reportado daños, y el rumbo exacto sigue siendo incierto con varios días de anticipación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le typhon n°24 se forme au sud du Japon ; une approche de Kyushu est envisagée vers le 5 septembre.",
+          "en": "Typhoon No. 24 forms south of Japan; an approach to Kyushu is expected around September 5.",
+          "es": "El tifón n.º 24 se forma al sur de Japón; se prevé que se acerque a Kyushu hacia el 5 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "coords": [
+      72.5714,
+      23.0225
+    ],
+    "id": "inde-alerte-bombe-vol",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Outlook India / Kashmir Observer",
+    "place": {
+      "fr": "Aéroport international d'Ahmedabad, Gujarat, Inde",
+      "en": "Ahmedabad International Airport, Gujarat, India",
+      "es": "Aeropuerto Internacional de Ahmedabad, Gujarat, India"
+    },
+    "title": {
+      "fr": "Un vol Air India Express dérouté après la découverte d'un mot évoquant une bombe",
+      "en": "Air India Express flight diverted after note mentioning a bomb is found",
+      "es": "Un vuelo de Air India Express es desviado tras hallarse una nota que mencionaba una bomba"
+    },
+    "summary": {
+      "fr": "Un vol Air India Express reliant Dammam à New Delhi a été dérouté le 31 août vers Ahmedabad après la découverte, par l'équipage, d'un mouchoir en papier portant l'inscription « BOMB » dans les toilettes de l'appareil. L'avion a atterri en urgence vers 16h30 ; les 32 passagers ont été évacués sans incident et les équipes de sécurité n'ont rien trouvé de suspect après une fouille complète de l'appareil.",
+      "en": "An Air India Express flight from Dammam to New Delhi was diverted on August 31 to Ahmedabad after crew found a tissue reading 'BOMB' in the aircraft's lavatory. The plane made an emergency landing at around 4:30 PM; all 32 passengers were safely evacuated and security teams found nothing suspicious after a full search of the aircraft.",
+      "es": "Un vuelo de Air India Express de Dammam a Nueva Delhi fue desviado el 31 de agosto a Ahmedabad después de que la tripulación encontrara un pañuelo de papel con la inscripción 'BOMB' en el baño de la aeronave. El avión realizó un aterrizaje de emergencia hacia las 16:30; los 32 pasajeros fueron evacuados sin incidentes y los equipos de seguridad no hallaron nada sospechoso tras registrar por completo la aeronave."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026, vers 16h30",
+          "en": "08/31/2026, around 4:30 PM",
+          "es": "31/08/2026, hacia las 16:30"
+        },
+        "d": {
+          "fr": "Le vol est dérouté et atterrit en urgence à Ahmedabad ; les passagers sont évacués sans blessure.",
+          "en": "The flight is diverted and makes an emergency landing in Ahmedabad; passengers are evacuated unharmed.",
+          "es": "El vuelo es desviado y realiza un aterrizaje de emergencia en Ahmedabad; los pasajeros son evacuados sin heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
   }
 ]
