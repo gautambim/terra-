@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / CENTCOM / Al Jazeera",
+    "week": "2026-W36",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran début juillet, avec un blocage répété du détroit d'Ormuz. Le conflit a connu une nouvelle escalade le 1er septembre : le Commandement central américain (CENTCOM) annonce avoir frappé des installations liées aux Gardiens de la révolution dans le sud de l'Iran, tandis que l'Iran réplique par des frappes de drones et de missiles contre des bases américaines et alliées dans le Golfe. Le gouvernement iranien avait précédemment fait état de 38 morts et plus de 400 blessés lors de frappes américaines en juillet ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran in early July, with the Strait of Hormuz repeatedly blocked. The conflict escalated further on September 1: US Central Command (CENTCOM) says it struck IRGC-linked facilities in southern Iran, while Iran retaliated with drone and missile strikes on US and allied bases in the Gulf. The Iranian government had earlier said US strikes in July killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán a principios de julio, con el estrecho de Ormuz bloqueado repetidamente. El conflicto se intensificó aún más el 1 de septiembre: el Mando Central de EE. UU. (CENTCOM) afirma haber atacado instalaciones vinculadas a la Guardia Revolucionaria en el sur de Irán, mientras que Irán respondió con ataques de drones y misiles contra bases estadounidenses y aliadas en el Golfo. El gobierno iraní había declarado anteriormente que los ataques estadounidenses de julio mataron a 38 personas y dejaron más de 400 heridas; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente."
     },
     "timeline": [
       {
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le CENTCOM annonce de nouvelles frappes dans le sud de l'Iran ; l'Iran réplique contre des bases américaines et alliées dans le Golfe.",
+          "en": "CENTCOM announces new strikes in southern Iran; Iran retaliates against US and allied bases in the Gulf.",
+          "es": "CENTCOM anuncia nuevos ataques en el sur de Irán; Irán responde contra bases estadounidenses y aliadas en el Golfo."
         },
         "active": true
       }
@@ -829,5 +842,962 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "usa-birthright-injonction",
+    "coords": [
+      -76.8755,
+      39.0068
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / ABC News (AP)",
+    "place": {
+      "fr": "Greenbelt, Maryland, États-Unis (tribunal fédéral)",
+      "en": "Greenbelt, Maryland, USA (federal court)",
+      "es": "Greenbelt, Maryland, Estados Unidos (tribunal federal)"
+    },
+    "title": {
+      "fr": "Une juge fédérale bloque le nouveau décret de Trump sur le droit du sol",
+      "en": "Federal judge blocks Trump's newest birthright-citizenship order",
+      "es": "Una jueza federal bloquea el nuevo decreto de Trump sobre el derecho de suelo"
+    },
+    "summary": {
+      "fr": "La juge fédérale Deborah Boardman, du tribunal du district du Maryland, a émis le 2 septembre une injonction préliminaire à l'échelle nationale bloquant le dernier décret de l'administration Trump restreignant le droit du sol. Elle a jugé la mesure « presque certainement inconstitutionnelle », au regard du 14e amendement. L'administration devrait faire appel.",
+      "en": "Federal judge Deborah Boardman, of the U.S. District Court for the District of Maryland, issued a nationwide preliminary injunction on September 2 blocking the Trump administration's newest executive order restricting birthright citizenship. She ruled the measure 'almost certainly unconstitutional' under the 14th Amendment. The administration is expected to appeal.",
+      "es": "La jueza federal Deborah Boardman, del Tribunal de Distrito de Maryland, emitió el 2 de septiembre una orden judicial preliminar a nivel nacional que bloquea el último decreto de la administración Trump que restringe el derecho de suelo. Consideró la medida 'casi con certeza inconstitucional' según la 14ª Enmienda. Se espera que la administración apele."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La juge Deborah Boardman bloque le décret présidentiel sur le droit du sol à l'échelle nationale.",
+          "en": "Judge Deborah Boardman blocks the presidential birthright-citizenship order nationwide.",
+          "es": "La jueza Deborah Boardman bloquea el decreto presidencial sobre el derecho de suelo a nivel nacional."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "usa-tempete-edouard",
+    "coords": [
+      -94.1266,
+      30.0802
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪",
+    "source": "CNN / Associated Press",
+    "place": {
+      "fr": "Beaumont et comté de Hardin, sud-est du Texas, États-Unis",
+      "en": "Beaumont and Hardin County, southeast Texas, USA",
+      "es": "Beaumont y el condado de Hardin, sureste de Texas, Estados Unidos"
+    },
+    "title": {
+      "fr": "La tempête tropicale Edouard provoque des inondations et des sauvetages au Texas",
+      "en": "Tropical Storm Edouard triggers flooding and rescues in Texas",
+      "es": "La tormenta tropical Edouard provoca inundaciones y rescates en Texas"
+    },
+    "summary": {
+      "fr": "Après avoir touché terre près de la frontière entre le Texas et la Louisiane avec des vents de 95 km/h, la tempête Edouard, affaiblie en dépression tropicale, a déversé entre 25 et 53 cm de pluie dans le sud-est du Texas fin août-début septembre. Les autorités du comté de Hardin ont recensé environ 12 sauvetages d'automobilistes et 2 sauvetages dans une maison inondée ; environ 70 000 foyers ont été privés d'électricité.",
+      "en": "After making landfall near the Texas-Louisiana border with 95 km/h winds, Edouard weakened into a tropical depression and dumped 25 to 53 cm of rain across southeast Texas in late August and early September. Hardin County officials reported about 12 rescues of stranded motorists and 2 rescues from a flooded home; roughly 70,000 homes and businesses lost power.",
+      "es": "Tras tocar tierra cerca de la frontera entre Texas y Luisiana con vientos de 95 km/h, Edouard se debilitó a depresión tropical y dejó entre 25 y 53 cm de lluvia en el sureste de Texas a finales de agosto y principios de septiembre. Las autoridades del condado de Hardin informaron de unos 12 rescates de automovilistas y 2 rescates en una vivienda inundada; unos 70.000 hogares y negocios se quedaron sin electricidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "La tempête tropicale Edouard touche terre près de la frontière Texas-Louisiane.",
+          "en": "Tropical Storm Edouard makes landfall near the Texas-Louisiana border.",
+          "es": "La tormenta tropical Edouard toca tierra cerca de la frontera entre Texas y Luisiana."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Inondations et sauvetages se poursuivent dans le sud-est du Texas ; environ 70 000 foyers sans électricité.",
+          "en": "Flooding and rescues continue across southeast Texas; roughly 70,000 homes without power.",
+          "es": "Continúan las inundaciones y los rescates en el sureste de Texas; unos 70.000 hogares sin electricidad."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "usa-wallstreet-taux",
+    "coords": [
+      -74.0113,
+      40.7069
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNBC / Associated Press",
+    "place": {
+      "fr": "New York (Wall Street), États-Unis",
+      "en": "New York (Wall Street), USA",
+      "es": "Nueva York (Wall Street), Estados Unidos"
+    },
+    "title": {
+      "fr": "Wall Street rebondit après les propos de la Fed de New York sur les taux",
+      "en": "Wall Street rebounds after New York Fed comments on rates",
+      "es": "Wall Street rebota tras los comentarios de la Fed de Nueva York sobre las tasas"
+    },
+    "summary": {
+      "fr": "Les indices américains ont rebondi le 2 septembre, le S&P 500 gagnant 0,46 % à 7 666,60 points, après que le président de la Fed de New York, John Williams, a tempéré les anticipations d'une prochaine hausse des taux. Le rendement des bons du Trésor à 10 ans a toutefois grimpé à 4,804 %, son plus haut niveau en 20 mois, reflétant l'inquiétude des investisseurs.",
+      "en": "US stock indexes rebounded on September 2, with the S&P 500 up 0.46% to 7,666.60, after New York Fed President John Williams tempered expectations of an imminent rate hike. The 10-year Treasury yield nonetheless climbed to 4.804%, its highest in 20 months, reflecting investor unease.",
+      "es": "Los índices bursátiles estadounidenses repuntaron el 2 de septiembre, con el S&P 500 subiendo un 0,46% hasta 7.666,60 puntos, después de que el presidente de la Fed de Nueva York, John Williams, moderara las expectativas de una subida inminente de tasas. El rendimiento del bono del Tesoro a 10 años subió no obstante a 4,804%, su nivel más alto en 20 meses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Le S&P 500 gagne 0,46 % tandis que le rendement des bons du Trésor à 10 ans atteint un plus haut de 20 mois.",
+          "en": "The S&P 500 gains 0.46% while the 10-year Treasury yield hits a 20-month high.",
+          "es": "El S&P 500 sube un 0,46% mientras el rendimiento del bono a 10 años alcanza un máximo de 20 meses."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "usopen-2026-2e-tour",
+    "coords": [
+      -73.8442,
+      40.7503
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "CBS Sports / ATP Tour",
+    "place": {
+      "fr": "Flushing Meadows (Queens), New York, États-Unis",
+      "en": "Flushing Meadows (Queens), New York, USA",
+      "es": "Flushing Meadows (Queens), Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "US Open : Alcaraz et Sabalenka passent le deuxième tour à Flushing Meadows",
+      "en": "US Open: Alcaraz and Sabalenka advance through the second round at Flushing Meadows",
+      "es": "US Open: Alcaraz y Sabalenka superan la segunda ronda en Flushing Meadows"
+    },
+    "summary": {
+      "fr": "Au deuxième tour de l'US Open, le 2 septembre, le numéro 2 mondial Carlos Alcaraz a battu le Portugais Jaime Faria (4-6, 6-0, 6-3, 6-2), tandis qu'Aryna Sabalenka a dominé Polina Iatcenko. Ben Shelton, Daniil Medvedev et Alex de Minaur se sont également qualifiés pour le tour suivant du dernier tournoi du Grand Chelem de la saison.",
+      "en": "In the US Open's second round on September 2, world No. 2 Carlos Alcaraz defeated Portugal's Jaime Faria 4-6, 6-0, 6-3, 6-2, while Aryna Sabalenka beat Polina Iatcenko. Ben Shelton, Daniil Medvedev and Alex de Minaur also advanced in the season's final Grand Slam tournament.",
+      "es": "En la segunda ronda del US Open, el 2 de septiembre, el número 2 del mundo, Carlos Alcaraz, venció al portugués Jaime Faria por 4-6, 6-0, 6-3, 6-2, mientras que Aryna Sabalenka superó a Polina Iatcenko. Ben Shelton, Daniil Medvedev y Alex de Minaur también avanzaron en el último Grand Slam de la temporada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Alcaraz et Sabalenka se qualifient pour le tour suivant à Flushing Meadows.",
+          "en": "Alcaraz and Sabalenka advance to the next round at Flushing Meadows.",
+          "es": "Alcaraz y Sabalenka avanzan a la siguiente ronda en Flushing Meadows."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "sydney-fusillades-crime-organise",
+    "coords": [
+      150.9819,
+      -33.8367
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "ABC News Australia",
+    "place": {
+      "fr": "Merrylands West et Glen Alpine, Sydney, Nouvelle-Galles du Sud, Australie",
+      "en": "Merrylands West and Glen Alpine, Sydney, New South Wales, Australia",
+      "es": "Merrylands West y Glen Alpine, Sídney, Nueva Gales del Sur, Australia"
+    },
+    "title": {
+      "fr": "Deux fusillades mortelles en deux jours secouent Sydney",
+      "en": "Two fatal shootings in two days rock Sydney",
+      "es": "Dos tiroteos mortales en dos días sacuden Sídney"
+    },
+    "summary": {
+      "fr": "Un étudiant, Marco Tapia, a été abattu à son domicile de Glen Alpine le 1er septembre. Le lendemain, un homme d'une quarantaine d'années a été tué par balle sur le pas de sa porte à Merrylands West, en présence de deux enfants. La police enquête sur ces deux fusillades, qu'elle relie à une escalade de violences liées au crime organisé, évoquant une possible erreur sur la personne dans au moins un des cas.",
+      "en": "A university student, Marco Tapia, was shot dead at his home in Glen Alpine on September 1. The next day, a man in his 40s was shot dead in a doorway in Merrylands West, with two children present. Police are investigating both shootings, linking them to an escalation of organised-crime violence and citing possible mistaken identity in at least one case.",
+      "es": "Un estudiante universitario, Marco Tapia, fue baleado en su casa en Glen Alpine el 1 de septiembre. Al día siguiente, un hombre de unos 40 años fue asesinado a tiros en la puerta de su casa en Merrylands West, con dos niños presentes. La policía investiga ambos tiroteos, vinculándolos a una escalada de violencia del crimen organizado y citando una posible confusión de identidad en al menos un caso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Un étudiant est abattu à son domicile de Glen Alpine.",
+          "en": "A university student is shot dead at his home in Glen Alpine.",
+          "es": "Un estudiante universitario es baleado en su casa en Glen Alpine."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Un homme est tué par balle à Merrylands West, en présence de deux enfants.",
+          "en": "A man is shot dead in Merrylands West, with two children present.",
+          "es": "Un hombre es asesinado a tiros en Merrylands West, con dos niños presentes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "australie-croissance-pib-t2",
+    "coords": [
+      149.13,
+      -35.2809
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Bureau australien de la statistique (ABS) / ABC News",
+    "place": {
+      "fr": "Canberra, Australie",
+      "en": "Canberra, Australia",
+      "es": "Canberra, Australia"
+    },
+    "title": {
+      "fr": "L'économie australienne croît de 0,4 % au deuxième trimestre",
+      "en": "Australian economy grows 0.4% in the June quarter",
+      "es": "La economía australiana crece un 0,4% en el segundo trimestre"
+    },
+    "summary": {
+      "fr": "Le Bureau australien de la statistique a annoncé le 2 septembre une croissance du PIB de 0,4 % au deuxième trimestre 2026, et de 2,1 % sur un an, légèrement supérieure aux attentes. Les importations ont porté l'essentiel de la croissance, tandis que les dépenses des ménages sont restées prudentes, les prix du carburant et des voyages ayant reculé dans un contexte de tensions au Moyen-Orient.",
+      "en": "The Australian Bureau of Statistics announced on September 2 that GDP grew 0.4% in the second quarter of 2026, and 2.1% year-on-year, slightly above expectations. Imports drove most of the growth, while household spending stayed cautious, with fuel and travel prices down amid Middle East tensions.",
+      "es": "La Oficina Australiana de Estadística anunció el 2 de septiembre que el PIB creció un 0,4% en el segundo trimestre de 2026, y un 2,1% interanual, ligeramente por encima de lo esperado. Las importaciones impulsaron la mayor parte del crecimiento, mientras que el gasto de los hogares se mantuvo cauteloso, con precios del combustible y los viajes a la baja en medio de las tensiones en Oriente Medio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "L'ABS publie une croissance du PIB de 0,4 % pour le deuxième trimestre 2026.",
+          "en": "The ABS reports 0.4% GDP growth for the second quarter of 2026.",
+          "es": "La ABS informa un crecimiento del PIB del 0,4% para el segundo trimestre de 2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "kyiv-frappes-drones-missiles",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Ukrinform",
+    "place": {
+      "fr": "Kiev (districts de Chevtchenko, Holossiivsky et Sviatochyne), Ukraine",
+      "en": "Kyiv (Shevchenkivskyi, Holosiivskyi and Sviatoshynskyi districts), Ukraine",
+      "es": "Kiev (distritos de Shevchenkivskyi, Holosiivskyi y Sviatoshynskyi), Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe massive de drones et missiles touche Kiev",
+      "en": "A massive Russian drone and missile strike hits Kyiv",
+      "es": "Un ataque masivo ruso con drones y misiles golpea Kiev"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 1er au 2 septembre, la Russie a lancé environ 174 drones et plusieurs missiles Iskander-M et Kh-59/69 contre l'Ukraine ; la défense antiaérienne ukrainienne dit en avoir neutralisé 141. Les frappes sur Kiev ont blessé au moins neuf personnes, dont deux médecins hospitalisés, endommagé un établissement de santé et cinq immeubles résidentiels, selon le maire Vitali Klitschko. La Russie n'a pas commenté publiquement les cibles de cette frappe précise.",
+      "en": "Overnight on September 1-2, Russia launched around 174 drones and several Iskander-M and Kh-59/69 missiles against Ukraine; Ukrainian air defense said it neutralized 141 of them. Strikes on Kyiv injured at least nine people, including two hospitalized doctors, damaged a medical facility and five residential buildings, according to Mayor Vitali Klitschko. Russia has not publicly commented on the specific targets of this strike.",
+      "es": "En la noche del 1 al 2 de septiembre, Rusia lanzó alrededor de 174 drones y varios misiles Iskander-M y Kh-59/69 contra Ucrania; la defensa aérea ucraniana dijo haber neutralizado 141. Los ataques sobre Kiev hirieron al menos a nueve personas, incluidos dos médicos hospitalizados, dañaron un centro de salud y cinco edificios residenciales, según el alcalde Vitali Klitschko. Rusia no ha comentado públicamente los objetivos concretos de este ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Une frappe massive de drones et missiles russes touche Kiev, au moins neuf blessés.",
+          "en": "A massive Russian drone and missile strike hits Kyiv, at least nine injured.",
+          "es": "Un ataque masivo ruso con drones y misiles golpea Kiev, al menos nueve heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ustluga-frappe-drones-ukrainiens"
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "ustluga-frappe-drones-ukrainiens",
+    "coords": [
+      28.3833,
+      59.6667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Reuters (The Moscow Times) / Bloomberg",
+    "place": {
+      "fr": "Port d'Oust-Louga, oblast de Léningrad, Russie",
+      "en": "Ust-Luga port, Leningrad Oblast, Russia",
+      "es": "Puerto de Ust-Luga, óblast de Leningrado, Rusia"
+    },
+    "title": {
+      "fr": "Une attaque de drones ukrainiens déclenche un incendie au terminal pétrolier d'Oust-Louga",
+      "en": "Ukrainian drone attack sparks fire at Ust-Luga oil terminal",
+      "es": "Un ataque con drones ucranianos provoca un incendio en la terminal petrolera de Ust-Luga"
+    },
+    "summary": {
+      "fr": "L'Ukraine a mené le 1er septembre une attaque de drones contre le terminal pétrolier d'Oust-Louga, principal port russe sur la Baltique, qui traite environ 700 000 barils de brut par jour. Le gouverneur de l'oblast de Léningrad, Alexandre Drozdenko, a fait état de l'interception de 52 drones lors d'un assaut de quatre heures, avec des dégâts et un incendie dans la zone portuaire. L'Ukraine affirme cibler des infrastructures qui financent l'effort de guerre russe ; des chasseurs de l'OTAN ont été déployés par l'Estonie après que des drones ont été signalés dans son espace aérien la même nuit.",
+      "en": "On September 1, Ukraine carried out a drone attack on the Ust-Luga oil terminal, Russia's largest Baltic port, which handles roughly 700,000 barrels of crude per day. Leningrad Oblast Governor Alexander Drozdenko said air defenses intercepted 52 drones during a four-hour assault, with damage and fire reported in the port area. Ukraine says it targets infrastructure that funds Russia's war effort; Estonia scrambled NATO jets after drones reportedly crossed into its airspace the same night.",
+      "es": "El 1 de septiembre, Ucrania llevó a cabo un ataque con drones contra la terminal petrolera de Ust-Luga, el mayor puerto ruso en el Báltico, que maneja unos 700.000 barriles de crudo al día. El gobernador del óblast de Leningrado, Alexander Drozdenko, dijo que la defensa aérea interceptó 52 drones durante un asalto de cuatro horas, con daños e incendio en la zona portuaria. Ucrania afirma atacar infraestructuras que financian el esfuerzo bélico ruso; Estonia envió cazas de la OTAN después de que se reportaran drones cruzando su espacio aéreo la misma noche."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent le terminal pétrolier d'Oust-Louga, provoquant un incendie.",
+          "en": "Ukrainian drones strike the Ust-Luga oil terminal, sparking a fire.",
+          "es": "Drones ucranianos atacan la terminal petrolera de Ust-Luga, provocando un incendio."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "kyiv-frappes-drones-missiles"
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "bresil-moraes-scandale-banco-master",
+    "coords": [
+      -47.8822,
+      -15.7942
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Brasília, District fédéral, Brésil",
+      "en": "Brasília, Federal District, Brazil",
+      "es": "Brasilia, Distrito Federal, Brasil"
+    },
+    "title": {
+      "fr": "Le juge qui a condamné Bolsonaro visé par des accusations de liens avec un banquier déchu",
+      "en": "Justice who sentenced Bolsonaro faces accusations over ties to disgraced banker",
+      "es": "El juez que condenó a Bolsonaro, señalado por presuntos vínculos con un banquero caído en desgracia"
+    },
+    "summary": {
+      "fr": "Alexandre de Moraes, juge de la Cour suprême brésilienne qui a condamné l'ex-président Jair Bolsonaro à 27 ans de prison pour tentative de coup d'État, fait l'objet de pressions pour démissionner après la publication de documents de la police fédérale. Ces documents, rendus publics par un autre juge, indiqueraient que Daniel Vorcaro, propriétaire de la Banco Master aujourd'hui visé par des accusations de fraude, aurait sollicité à plusieurs reprises les conseils d'une personne identifiée par les enquêteurs comme étant Moraes. Le quotidien Folha de S. Paulo estime qu'une procédure de destitution au Sénat devrait suivre s'il ne démissionne pas ; Moraes n'a pas donné de réponse détaillée dans les informations disponibles.",
+      "en": "Alexandre de Moraes, the Brazilian Supreme Court justice who sentenced former President Jair Bolsonaro to 27 years in prison for a coup plot, is under pressure to resign after federal police documents were made public by a fellow justice. The documents reportedly indicate that Daniel Vorcaro, owner of Banco Master and now facing fraud allegations, repeatedly sought advice from a person investigators identified as Moraes. Folha de S. Paulo says Senate impeachment proceedings should follow if he does not resign; Moraes has not given a detailed public response in available reporting.",
+      "es": "Alexandre de Moraes, el juez del Tribunal Supremo brasileño que condenó al expresidente Jair Bolsonaro a 27 años de prisión por un intento de golpe de Estado, está bajo presión para renunciar después de que documentos de la policía federal fueran hechos públicos por otro juez. Los documentos indicarían que Daniel Vorcaro, propietario del Banco Master y ahora señalado por fraude, buscó repetidamente el consejo de una persona identificada por los investigadores como Moraes. Folha de S. Paulo sostiene que debería seguir un proceso de destitución en el Senado si no renuncia; Moraes no ha dado una respuesta pública detallada según la información disponible."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Des documents de la police fédérale relient Moraes à Daniel Vorcaro, propriétaire de la Banco Master.",
+          "en": "Federal police documents link Moraes to Daniel Vorcaro, owner of Banco Master.",
+          "es": "Documentos de la policía federal vinculan a Moraes con Daniel Vorcaro, propietario del Banco Master."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "bresil-magalu-mercadolivre-accord",
+    "coords": [
+      -46.6333,
+      -23.5505
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Rio Times / ADVFN",
+    "place": {
+      "fr": "São Paulo, Brésil",
+      "en": "São Paulo, Brazil",
+      "es": "São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "Magazine Luiza s'allie à son rival Mercado Livre pour vendre sur sa marketplace",
+      "en": "Magazine Luiza partners with rival Mercado Livre to sell on its marketplace",
+      "es": "Magazine Luiza se alía con su rival Mercado Livre para vender en su marketplace"
+    },
+    "summary": {
+      "fr": "Le distributeur brésilien Magazine Luiza (Magalu) a annoncé le 2 septembre un accord pour vendre environ 27 000 de ses produits — électronique, ameublement, cosmétiques des marques KaBuM! et Época Cosméticos — sur la marketplace de son concurrent Mercado Livre. L'action Magalu a bondi jusqu'à 17 % à l'annonce. Cet accord fait suite à un partenariat similaire avec Amazon Brésil en juin, après un recul de 11,9 % des ventes en ligne propres de Magalu au deuxième trimestre.",
+      "en": "Brazilian retailer Magazine Luiza (Magalu) announced on September 2 a deal to sell about 27,000 of its products — electronics, furniture, and cosmetics from its KaBuM! and Época Cosméticos brands — on rival Mercado Livre's marketplace. Magalu shares jumped as much as 17% on the news. The deal follows a similar partnership with Amazon Brazil in June, after Magalu's own online sales fell 11.9% year-on-year in the second quarter.",
+      "es": "El minorista brasileño Magazine Luiza (Magalu) anunció el 2 de septiembre un acuerdo para vender unos 27.000 de sus productos —electrónica, muebles y cosméticos de las marcas KaBuM! y Época Cosméticos— en el marketplace de su rival Mercado Livre. Las acciones de Magalu subieron hasta un 17% tras el anuncio. El acuerdo sigue a una alianza similar con Amazon Brasil en junio, tras una caída del 11,9% interanual en las ventas en línea propias de Magalu en el segundo trimestre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Magalu annonce un accord de marketplace avec Mercado Livre ; l'action bondit jusqu'à 17 %.",
+          "en": "Magalu announces a marketplace deal with Mercado Livre; shares jump as much as 17%.",
+          "es": "Magalu anuncia un acuerdo de marketplace con Mercado Livre; las acciones suben hasta un 17%."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "inde-explosion-usine-petards-kaushambi",
+    "coords": [
+      81.3833,
+      25.3333
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Business Standard / AFP (Dawn)",
+    "place": {
+      "fr": "Village de Manori, district de Kaushambi, Uttar Pradesh, Inde",
+      "en": "Manori village, Kaushambi district, Uttar Pradesh, India",
+      "es": "Aldea de Manori, distrito de Kaushambi, Uttar Pradesh, India"
+    },
+    "title": {
+      "fr": "Une explosion dans une usine clandestine de pétards fait au moins 11 morts en Inde",
+      "en": "Explosion at illegal firecracker factory kills at least 11 in India",
+      "es": "Una explosión en una fábrica clandestina de petardos deja al menos 11 muertos en India"
+    },
+    "summary": {
+      "fr": "Une explosion a détruit le 1er septembre une usine clandestine de fabrication de pétards dans le village de Manori, district de Kaushambi (Uttar Pradesh), tuant au moins 11 personnes, dont 8 enfants âgés de 4 à 13 ans. Le souffle a provoqué l'effondrement de 5 à 6 maisons voisines. Le Premier ministre Narendra Modi a annoncé une compensation de 200 000 roupies par famille de victime ; la cause de l'explosion n'a pas été établie.",
+      "en": "An explosion destroyed an illegal firecracker manufacturing unit in Manori village, Kaushambi district (Uttar Pradesh), on September 1, killing at least 11 people, including 8 children aged 4 to 13. The blast caused 5 to 6 neighboring houses to collapse. Prime Minister Narendra Modi announced compensation of 200,000 rupees per victim's family; the cause of the blast has not been established.",
+      "es": "Una explosión destruyó el 1 de septiembre una unidad clandestina de fabricación de petardos en la aldea de Manori, distrito de Kaushambi (Uttar Pradesh), matando al menos a 11 personas, entre ellas 8 niños de entre 4 y 13 años. La onda expansiva provocó el derrumbe de entre 5 y 6 viviendas vecinas. El primer ministro Narendra Modi anunció una compensación de 200.000 rupias por familia de víctima; no se ha determinado la causa de la explosión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Une explosion détruit une usine clandestine de pétards à Manori, faisant au moins 11 morts.",
+          "en": "An explosion destroys an illegal firecracker factory in Manori, killing at least 11.",
+          "es": "Una explosión destruye una fábrica clandestina de petardos en Manori, matando al menos a 11 personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "chine-typhon-saudel-guangdong-fujian",
+    "coords": [
+      119.2965,
+      26.0745
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "China Daily / Global Times",
+    "place": {
+      "fr": "Côtes du Guangdong et du Fujian, et détroit de Taïwan, Chine",
+      "en": "Guangdong and Fujian coasts, and the Taiwan Strait, China",
+      "es": "Costas de Guangdong y Fujian, y el estrecho de Taiwán, China"
+    },
+    "title": {
+      "fr": "Le typhon Saudel stagne près du détroit de Taïwan, près de 248 000 évacuations",
+      "en": "Typhoon Saudel stalls near the Taiwan Strait, nearly 248,000 evacuated",
+      "es": "El tifón Saudel se estanca cerca del estrecho de Taiwán, casi 248.000 evacuados"
+    },
+    "summary": {
+      "fr": "Après avoir touché terre une première fois sur la côte Zhejiang-Fujian vers le 28 août, le typhon Saudel a effectué une boucle au-dessus de la mer de Chine méridionale et s'est renforcé de nouveau près du détroit de Taïwan. Les autorités du Guangdong ont ordonné l'évacuation de près de 248 000 personnes, rappelé les bateaux de pêche au port et suspendu les services ferroviaires et touristiques au Zhejiang et au Fujian. Aucun bilan de victimes n'était confirmé au 2 septembre.",
+      "en": "After first making landfall on the Zhejiang-Fujian coast around August 28, Typhoon Saudel looped back over the South China Sea and reintensified near the Taiwan Strait. Guangdong authorities ordered the evacuation of nearly 248,000 people, recalled fishing vessels to port, and suspended rail and tourism services in Zhejiang and Fujian. No death toll had been confirmed as of September 2.",
+      "es": "Tras tocar tierra por primera vez en la costa de Zhejiang-Fujian hacia el 28 de agosto, el tifón Saudel dio un giro sobre el mar de China Meridional y se reintensificó cerca del estrecho de Taiwán. Las autoridades de Guangdong ordenaron la evacuación de casi 248.000 personas, hicieron regresar los barcos pesqueros a puerto y suspendieron los servicios ferroviarios y turísticos en Zhejiang y Fujian. No se había confirmado ningún balance de víctimas hasta el 2 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "08/28/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le typhon Saudel touche terre une première fois sur la côte Zhejiang-Fujian.",
+          "en": "Typhoon Saudel makes its first landfall on the Zhejiang-Fujian coast.",
+          "es": "El tifón Saudel toca tierra por primera vez en la costa de Zhejiang-Fujian."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Le système se renforce de nouveau près du détroit de Taïwan ; près de 248 000 évacuations au Guangdong.",
+          "en": "The system reintensifies near the Taiwan Strait; nearly 248,000 evacuated in Guangdong.",
+          "es": "El sistema se reintensifica cerca del estrecho de Taiwán; casi 248.000 evacuados en Guangdong."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "japon-officier-limoge-intrusion-ambassade-chine",
+    "coords": [
+      139.7454,
+      35.6586
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🗡",
+    "source": "Xinhua / SCMP",
+    "place": {
+      "fr": "Ambassade de Chine, arrondissement de Minato, Tokyo, Japon",
+      "en": "Chinese Embassy, Minato ward, Tokyo, Japan",
+      "es": "Embajada de China, distrito de Minato, Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Japon limoge un officier après son intrusion armée à l'ambassade de Chine",
+      "en": "Japan dismisses officer over armed intrusion at Chinese Embassy",
+      "es": "Japón destituye a un oficial tras su intrusión armada en la embajada china"
+    },
+    "summary": {
+      "fr": "Les Forces terrestres d'autodéfense japonaises ont annoncé le 28 août la révocation du sous-lieutenant Kodai Murata pour son intrusion armée, le 24 mars 2026, à l'ambassade de Chine à Tokyo, où il avait escaladé une clôture barbelée muni d'une lame de 18 cm et menacé du personnel, sans faire de blessé. Le ministère chinois des Affaires étrangères a réagi les 31 août et 1er septembre, qualifiant l'épisode de « grave violation » de la Convention de Vienne et appelant le Japon à poursuivre Murata en justice au-delà de sa révocation.",
+      "en": "Japan's Ground Self-Defense Force announced on August 28 the dismissal of Third Lieutenant Kodai Murata over his armed intrusion, on March 24, 2026, into the Chinese Embassy in Tokyo, where he scaled a barbed-wire fence carrying an 18cm blade and threatened staff, without injuring anyone. China's Foreign Ministry responded on August 31 and September 1, calling the episode a 'grave violation' of the Vienna Convention and urging Japan to prosecute Murata beyond his dismissal.",
+      "es": "Las Fuerzas de Autodefensa Terrestre de Japón anunciaron el 28 de agosto la destitución del subteniente Kodai Murata por su intrusión armada, el 24 de marzo de 2026, en la embajada china en Tokio, donde escaló una valla de alambre de púas con una hoja de 18 cm y amenazó al personal, sin herir a nadie. El Ministerio de Asuntos Exteriores chino respondió el 31 de agosto y el 1 de septiembre, calificando el episodio de 'grave violación' de la Convención de Viena e instando a Japón a procesar a Murata más allá de su destitución."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "08/28/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "Le Japon annonce la révocation du sous-lieutenant Kodai Murata.",
+          "en": "Japan announces the dismissal of Third Lieutenant Kodai Murata.",
+          "es": "Japón anuncia la destitución del subteniente Kodai Murata."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "La Chine qualifie l'intrusion de « grave violation » de la Convention de Vienne et demande des poursuites.",
+          "en": "China calls the intrusion a 'grave violation' of the Vienna Convention and demands prosecution.",
+          "es": "China califica la intrusión de 'grave violación' de la Convención de Viena y exige un proceso judicial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-drone-aeroport-leipzig-russie",
+    "coords": [
+      12.2364,
+      51.4239
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛩",
+    "source": "CNN / NPR",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Saxe, Allemagne",
+      "en": "Leipzig/Halle Airport, Saxony, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne accuse la Russie d'une attaque de drones contre l'aéroport de Leipzig/Halle",
+      "en": "Germany accuses Russia of drone attack on Leipzig/Halle Airport",
+      "es": "Alemania acusa a Rusia de un ataque con drones contra el aeropuerto de Leipzig/Halle"
+    },
+    "summary": {
+      "fr": "Après la découverte d'un drone piégé près d'un cargo ukrainien à l'aéroport de Leipzig/Halle le 4 août, puis la collision d'un Boeing 757 avec un second drone, le ministre allemand de l'Intérieur Alexander Dobrindt a annoncé les 1er et 2 septembre que le gouvernement attribue cette « attaque hybride » à la Russie, sur la base d'une analyse technique et du renseignement. L'Allemagne a fermé le consulat russe de Bonn et mis fin au bail d'un centre culturel russe à Berlin. Le président russe Vladimir Poutine a démenti toute implication et accusé l'Allemagne d'avoir fabriqué des preuves.",
+      "en": "After an explosive-laden drone was found near a Ukrainian cargo plane at Leipzig/Halle Airport on August 4, and a Boeing 757 later collided with a second drone, German Interior Minister Alexander Dobrindt announced on September 1-2 that the government attributes this 'hybrid attack' to Russia, based on technical and intelligence analysis. Germany closed the Russian consulate in Bonn and ended the lease of a Russian cultural center in Berlin. Russian President Vladimir Putin denied any involvement and accused Germany of fabricating evidence.",
+      "es": "Tras hallarse un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle el 4 de agosto, y la posterior colisión de un Boeing 757 con un segundo dron, el ministro alemán del Interior, Alexander Dobrindt, anunció el 1 y 2 de septiembre que el gobierno atribuye este 'ataque híbrido' a Rusia, basándose en un análisis técnico y de inteligencia. Alemania cerró el consulado ruso en Bonn y puso fin al contrato de alquiler de un centro cultural ruso en Berlín. El presidente ruso, Vladímir Putin, negó cualquier implicación y acusó a Alemania de fabricar pruebas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "08/04/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Un drone piégé est découvert près d'un avion-cargo ukrainien à l'aéroport de Leipzig/Halle.",
+          "en": "An explosive-laden drone is found near a Ukrainian cargo plane at Leipzig/Halle Airport.",
+          "es": "Se halla un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Berlin attribue officiellement l'attaque à la Russie et ferme le consulat russe de Bonn.",
+          "en": "Berlin formally attributes the attack to Russia and closes the Russian consulate in Bonn.",
+          "es": "Berlín atribuye formalmente el ataque a Rusia y cierra el consulado ruso en Bonn."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "allemagne-sabotage-poste-electrique-brandebourg"
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-sabotage-poste-electrique-brandebourg",
+    "coords": [
+      14.45,
+      51.83
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Poste électrique de Turnow-Preilack, Brandebourg, Allemagne",
+      "en": "Turnow-Preilack substation, Brandenburg, Germany",
+      "es": "Subestación de Turnow-Preilack, Brandeburgo, Alemania"
+    },
+    "title": {
+      "fr": "Un sabotage suspecté vise un poste électrique stratégique en Allemagne",
+      "en": "Suspected sabotage targets strategic power substation in Germany",
+      "es": "Un presunto sabotaje apunta a una subestación eléctrica estratégica en Alemania"
+    },
+    "summary": {
+      "fr": "La police allemande enquête sur un sabotage présumé au poste électrique de Turnow-Preilack, nœud à haute tension reliant la centrale de Jänschwalde au réseau 50Hertz, où un engin incendiaire non explosé et plus de 20 dispositifs artisanaux de lancement de fusées ont été découverts le 1er septembre. L'incident a provoqué une brève coupure de courant et endommagé des lignes. La police du Brandebourg a ouvert une enquête pour possible formation d'une organisation terroriste ; ni acteur étatique étranger ni mouvance d'extrême gauche n'ont été formellement mis en cause à ce stade.",
+      "en": "German police are investigating a suspected sabotage attack at the Turnow-Preilack substation, a high-voltage node connecting the Jänschwalde power plant to the 50Hertz grid, where an unexploded incendiary device and more than 20 homemade rocket-launch devices were found on September 1. The incident caused a brief power outage and damaged lines. Brandenburg police opened an investigation into possible formation of a terrorist organization; neither a foreign state actor nor left-wing extremists have been formally implicated at this stage.",
+      "es": "La policía alemana investiga un presunto sabotaje en la subestación de Turnow-Preilack, un nodo de alta tensión que conecta la central de Jänschwalde con la red 50Hertz, donde el 1 de septiembre se hallaron un artefacto incendiario sin detonar y más de 20 dispositivos artesanales de lanzamiento de cohetes. El incidente provocó un breve corte de electricidad y dañó líneas. La policía de Brandeburgo abrió una investigación por posible formación de una organización terrorista; ni un actor estatal extranjero ni movimientos de extrema izquierda han sido formalmente implicados en esta etapa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Un engin incendiaire et des dispositifs de lancement artisanaux sont découverts près du poste électrique.",
+          "en": "An incendiary device and homemade launch devices are found near the substation.",
+          "es": "Se hallan un artefacto incendiario y dispositivos de lanzamiento artesanales cerca de la subestación."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "allemagne-drone-aeroport-leipzig-russie"
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "france-accident-bouee-tractee-saintcyprien",
+    "coords": [
+      3.0333,
+      42.6167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "France Télévisions (France 3 Occitanie / franceinfo)",
+    "place": {
+      "fr": "Saint-Cyprien (plage des Capellans), Pyrénées-Orientales, France",
+      "en": "Saint-Cyprien (Capellans beach), Pyrénées-Orientales, France",
+      "es": "Saint-Cyprien (playa de Capellans), Pirineos Orientales, Francia"
+    },
+    "title": {
+      "fr": "Deux morts dans un accident de bouée tractée au large de Saint-Cyprien",
+      "en": "Two dead in towed-buoy boating accident off Saint-Cyprien",
+      "es": "Dos muertos en un accidente de boya remolcada frente a Saint-Cyprien"
+    },
+    "summary": {
+      "fr": "Une bouée tractée transportant sept personnes a été percutée par le bateau qui la remorquait au large de Saint-Cyprien le 1er septembre, après que le pilote a été éjecté du bateau dans une mer agitée, provoquant un virage incontrôlé de l'embarcation vers la bouée. Un homme de 31 ans et une femme de 29 ans sont morts ; une troisième personne a été grièvement blessée et hospitalisée à Perpignan, quatre autres ont été blessées. Le parquet de Perpignan a ouvert une enquête.",
+      "en": "A towed inflatable buoy carrying seven people was struck by the towing boat off Saint-Cyprien on September 1, after the pilot was thrown from the vessel in rough seas, causing it to swing uncontrolled into the buoy. A 31-year-old man and a 29-year-old woman died; a third person was seriously injured and hospitalized in Perpignan, and four others were injured. The Perpignan prosecutor's office opened an investigation.",
+      "es": "Una boya inflable remolcada que transportaba a siete personas fue golpeada por el barco que la remolcaba frente a Saint-Cyprien el 1 de septiembre, después de que el piloto fuera arrojado de la embarcación en un mar agitado, provocando un giro incontrolado hacia la boya. Un hombre de 31 años y una mujer de 29 murieron; una tercera persona resultó gravemente herida y fue hospitalizada en Perpiñán, y otras cuatro resultaron heridas. La fiscalía de Perpiñán abrió una investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Une bouée tractée est percutée par son bateau remorqueur au large de Saint-Cyprien, deux morts.",
+          "en": "A towed buoy is struck by its towing boat off Saint-Cyprien, two dead.",
+          "es": "Una boya remolcada es golpeada por su barco remolcador frente a Saint-Cyprien, dos muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "italie-inflation-aout-2026",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Istat / ANSA",
+    "place": {
+      "fr": "Rome, Italie (Istat)",
+      "en": "Rome, Italy (Istat)",
+      "es": "Roma, Italia (Istat)"
+    },
+    "title": {
+      "fr": "L'inflation italienne atteint son plus haut niveau en trois ans",
+      "en": "Italian inflation hits near three-year high",
+      "es": "La inflación italiana alcanza su nivel más alto en casi tres años"
+    },
+    "summary": {
+      "fr": "Selon l'estimation préliminaire publiée le 1er septembre par l'institut national de statistique Istat, les prix à la consommation ont augmenté de 0,5 % sur un mois et de 3,3 % sur un an en août 2026 en Italie, contre 2,9 % en juillet — le taux annuel le plus élevé depuis septembre 2023. La hausse est principalement due à l'énergie, dont les prix ont grimpé de 17,0 % sur un an, contre 11,6 % le mois précédent. Le chiffre définitif est attendu le 16 septembre.",
+      "en": "According to the preliminary estimate released on September 1 by national statistics agency Istat, consumer prices in Italy rose 0.5% month-on-month and 3.3% year-on-year in August 2026, up from 2.9% in July — the highest annual rate since September 2023. The increase was driven mainly by energy prices, which rose 17.0% year-on-year, up from 11.6% the previous month. The final figure is due September 16.",
+      "es": "Según la estimación preliminar publicada el 1 de septiembre por el instituto nacional de estadística Istat, los precios al consumidor en Italia subieron un 0,5% mensual y un 3,3% interanual en agosto de 2026, frente al 2,9% de julio, la tasa anual más alta desde septiembre de 2023. El aumento se debió principalmente a los precios de la energía, que subieron un 17,0% interanual, frente al 11,6% del mes anterior. La cifra definitiva se espera el 16 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "L'Istat publie une estimation préliminaire de l'inflation à 3,3 % sur un an en août.",
+          "en": "Istat publishes a preliminary estimate of 3.3% year-on-year inflation for August.",
+          "es": "Istat publica una estimación preliminar de inflación interanual del 3,3% en agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-eruption-mont-sinabung",
+    "coords": [
+      98.3925,
+      3.1698
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Associated Press / Agence géologique indonésienne",
+    "place": {
+      "fr": "Mont Sinabung, régence de Karo, Sumatra du Nord, Indonésie",
+      "en": "Mount Sinabung, Karo Regency, North Sumatra, Indonesia",
+      "es": "Monte Sinabung, regencia de Karo, Sumatra del Norte, Indonesia"
+    },
+    "title": {
+      "fr": "Le mont Sinabung entre en éruption, environ 615 habitants évacués",
+      "en": "Mount Sinabung erupts, about 615 residents evacuated",
+      "es": "El monte Sinabung entra en erupción, unos 615 residentes evacuados"
+    },
+    "summary": {
+      "fr": "Le volcan Sinabung, sur l'île indonésienne de Sumatra, est entré en éruption le 31 août, projetant une colonne de cendres à environ 3 500 mètres au-dessus de son sommet. L'agence géologique indonésienne a relevé le niveau d'alerte à III (Siaga) et interdit toute activité dans un rayon de 3 à 4,5 km. Environ 615 habitants du village de Kuta Tengah ont été évacués et 21 vols à destination ou en provenance de l'aéroport de Kualanamu ont été annulés ; aucun décès n'a été signalé.",
+      "en": "The Sinabung volcano, on Indonesia's Sumatra island, erupted on August 31, sending an ash column about 3,500 meters above its summit. Indonesia's Geological Agency raised the alert to Level III (Siaga) and barred activity within a 3 to 4.5 km radius. About 615 residents of Kuta Tengah village were evacuated and 21 flights to and from Kualanamu Airport were canceled; no deaths were reported.",
+      "es": "El volcán Sinabung, en la isla indonesia de Sumatra, entró en erupción el 31 de agosto, enviando una columna de cenizas a unos 3.500 metros sobre su cima. La Agencia Geológica de Indonesia elevó la alerta al Nivel III (Siaga) y prohibió la actividad en un radio de 3 a 4,5 km. Unos 615 residentes de la aldea de Kuta Tengah fueron evacuados y se cancelaron 21 vuelos hacia y desde el aeropuerto de Kualanamu; no se reportaron muertes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le mont Sinabung entre en éruption, environ 615 personnes évacuées.",
+          "en": "Mount Sinabung erupts, about 615 people evacuated.",
+          "es": "El monte Sinabung entra en erupción, unas 615 personas evacuadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "coreedusud-condamnation-hak-ja-han",
+    "coords": [
+      127.0246,
+      37.5326
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Associated Press / Washington Post",
+    "place": {
+      "fr": "Tribunal central du district de Séoul, Corée du Sud",
+      "en": "Seoul Central District Court, South Korea",
+      "es": "Tribunal Central del Distrito de Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La dirigeante de l'Église de l'Unification condamnée à deux ans de prison",
+      "en": "Unification Church leader sentenced to two years in prison",
+      "es": "La líder de la Iglesia de la Unificación condenada a dos años de prisión"
+    },
+    "summary": {
+      "fr": "Un tribunal de Séoul a condamné le 31 août Hak Ja Han, 83 ans, dirigeante de l'Église de l'Unification et veuve de son fondateur Sun Myung Moon, à deux ans de prison pour corruption, détournement de fonds de l'Église et violation de la loi sur le financement politique. Le parquet avait requis 13 ans. L'affaire porte sur des accusations selon lesquelles elle aurait organisé des cadeaux de luxe pour l'ex-première dame Kim Keon-hee en échange de faveurs politiques. Han reste libre, une suspension de son arrestation liée à des problèmes de santé devant prendre fin le 2 septembre.",
+      "en": "A Seoul court sentenced Hak Ja Han, 83, leader of the Unification Church and widow of its founder Sun Myung Moon, to two years in prison on August 31 for bribery, embezzling church funds, and violating the political funds act. Prosecutors had sought 13 years. The case centers on allegations that she arranged luxury gifts for former first lady Kim Keon-hee in exchange for political favors. Han remains free, with a stay of arrest tied to health issues due to end September 2.",
+      "es": "Un tribunal de Seúl condenó el 31 de agosto a Hak Ja Han, de 83 años, líder de la Iglesia de la Unificación y viuda de su fundador Sun Myung Moon, a dos años de prisión por soborno, malversación de fondos de la Iglesia y violación de la ley de financiamiento político. La fiscalía había solicitado 13 años. El caso se centra en acusaciones de que organizó regalos de lujo para la ex primera dama Kim Keon-hee a cambio de favores políticos. Han permanece en libertad, con una suspensión de arresto por motivos de salud que debía terminar el 2 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Un tribunal de Séoul condamne Hak Ja Han à deux ans de prison pour corruption.",
+          "en": "A Seoul court sentences Hak Ja Han to two years in prison for bribery.",
+          "es": "Un tribunal de Seúl condena a Hak Ja Han a dos años de prisión por soborno."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-naira-plus-haut-deux-ans",
+    "coords": [
+      7.3986,
+      9.0765
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💹",
+    "source": "BusinessDay NG / Legit.ng",
+    "place": {
+      "fr": "Abuja, Nigeria (Banque centrale du Nigeria)",
+      "en": "Abuja, Nigeria (Central Bank of Nigeria)",
+      "es": "Abuya, Nigeria (Banco Central de Nigeria)"
+    },
+    "title": {
+      "fr": "Le naira atteint son plus haut niveau en plus de deux ans",
+      "en": "Nigeria's naira hits highest level in more than two years",
+      "es": "El naira de Nigeria alcanza su nivel más alto en más de dos años"
+    },
+    "summary": {
+      "fr": "Le naira s'est apprécié à 1 329 pour un dollar sur la fenêtre officielle de la Banque centrale du Nigeria le 1er septembre, son meilleur niveau depuis mai 2024, gagnant 6,50 nairas en une seule séance. Ce mouvement fait suite à la hausse des réserves de change, qui ont atteint 53,8 milliards de dollars le 31 août contre 45,57 milliards en début d'année, une amélioration que les analystes attribuent à une meilleure liquidité en devises.",
+      "en": "The naira strengthened to 1,329 per dollar on the Central Bank of Nigeria's official window on September 1, its best level since May 2024, gaining 6.50 naira in a single session. The move follows a rise in external reserves, which reached $53.8 billion on August 31, up from $45.57 billion at the start of the year, an improvement analysts attribute to better dollar liquidity.",
+      "es": "El naira se fortaleció a 1.329 por dólar en la ventana oficial del Banco Central de Nigeria el 1 de septiembre, su mejor nivel desde mayo de 2024, ganando 6,50 naira en una sola sesión. El movimiento sigue a un aumento de las reservas externas, que alcanzaron los 53.800 millones de dólares el 31 de agosto, frente a los 45.570 millones a principios de año, una mejora que los analistas atribuyen a una mejor liquidez en dólares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le naira grimpe à 1 329 pour un dollar, son meilleur niveau depuis mai 2024.",
+          "en": "The naira climbs to 1,329 per dollar, its best level since May 2024.",
+          "es": "El naira sube a 1.329 por dólar, su mejor nivel desde mayo de 2024."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
   }
 ]
