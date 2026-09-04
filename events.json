@@ -829,5 +829,918 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-vote-postal-bloque",
+    "coords": [
+      -71.0589,
+      42.3601
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "NBC News",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Boston, Massachusetts, États-Unis",
+      "en": "Boston, Massachusetts, United States",
+      "es": "Boston, Massachusetts, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un juge fédéral bloque à nouveau les nouvelles règles sur le vote par correspondance avant les élections de mi-mandat 2026",
+      "en": "Federal judge again blocks new mail-in ballot rules ahead of 2026 midterms",
+      "es": "Un juez federal vuelve a bloquear las nuevas normas sobre el voto por correo antes de las elecciones de mitad de mandato de 2026"
+    },
+    "summary": {
+      "fr": "Un juge fédéral de Boston a rendu une deuxième ordonnance bloquant de nouvelles règles du service postal américain qui auraient restreint le vote par correspondance, selon plusieurs médias américains. L'administration Trump affirme que ces règles visent à protéger l'intégrité du scrutin, tandis que des associations de défense du droit de vote et des responsables démocrates estiment que seuls les États et le Congrès peuvent fixer les procédures électorales. Cette décision fait suite à un arrêt de la Cour suprême, rendu quelques jours plus tôt, qui avait annulé un premier blocage pour des raisons de procédure.",
+      "en": "A federal judge in Boston issued a second order blocking new US Postal Service rules that would have restricted mail-in ballots, according to multiple US outlets. The Trump administration says the rules are meant to protect election integrity, while voting-rights groups and Democratic officials argue that only states and Congress can set election procedures. The order follows a Supreme Court ruling days earlier that had thrown out an initial block on procedural grounds.",
+      "es": "Un juez federal de Boston dictó una segunda orden que bloquea nuevas normas del servicio postal de EE. UU. que habrían restringido el voto por correo, según varios medios estadounidenses. La administración Trump afirma que las normas buscan proteger la integridad electoral, mientras que organizaciones de defensa del voto y funcionarios demócratas sostienen que solo los estados y el Congreso pueden fijar los procedimientos electorales. La orden llega después de un fallo de la Corte Suprema, días antes, que había anulado un primer bloqueo por motivos de procedimiento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/08/2026",
+          "en": "28/08/2026",
+          "es": "28/08/2026"
+        },
+        "d": {
+          "fr": "La juge fédérale Indira Talwani bloque pour 14 jours les nouvelles restrictions postales sur le vote par correspondance, quelques heures après leur entrée en vigueur, selon NBC News et Al Jazeera.",
+          "en": "US District Judge Indira Talwani blocks the postal service's new mail-ballot restrictions for 14 days, hours after they took effect, according to NBC News and Al Jazeera.",
+          "es": "La jueza federal Indira Talwani bloquea durante 14 días las nuevas restricciones postales al voto por correo, horas después de su entrada en vigor, según NBC News y Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "chine-nepal-crue-glaciaire",
+    "coords": [
+      85.271,
+      28.433
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Zone frontalière de Gyirong, préfecture de Shigatse, région autonome du Tibet, Chine (frontière Chine-Népal)",
+      "en": "Gyirong border area, Shigatse Prefecture, Tibet Autonomous Region, China (China-Nepal border)",
+      "es": "Zona fronteriza de Gyirong, prefectura de Shigatse, Región Autónoma del Tíbet, China (frontera China-Nepal)"
+    },
+    "title": {
+      "fr": "Un effondrement glaciaire déclenche une catastrophe meurtrière à la frontière Chine-Népal",
+      "en": "Glacial collapse triggers deadly flood disaster on China-Nepal border",
+      "es": "Un colapso glaciar provoca una catástrofe mortal en la frontera entre China y Nepal"
+    },
+    "summary": {
+      "fr": "Un effondrement glaciaire dans les montagnes surplombant la frontière entre la Chine et le Népal a déclenché une coulée de débris et des crues soudaines catastrophiques, détruisant le poste-frontière de Gyirong et ravageant la vallée de la rivière Trishuli des deux côtés de la frontière. Les médias d'État chinois ont fait état d'au moins 16 à 21 morts et de plus de 540 disparus côté tibétain, tandis que les autorités népalaises ont rapporté un bilan bien plus lourd de leur côté ; les opérations de recherche et de secours se poursuivaient début septembre.",
+      "en": "A glacial collapse in the mountains above the China-Nepal border triggered a catastrophic debris flow and flash flooding that destroyed the Gyirong border checkpoint and swept through the Trishuli River valley on both sides of the frontier. Chinese state media reported at least 16-21 deaths and over 540 people missing on the Tibetan side, while Nepalese authorities reported far higher tolls on their side, with search and rescue operations still under way in early September.",
+      "es": "Un colapso glaciar en las montañas sobre la frontera entre China y Nepal provocó un flujo catastrófico de escombros e inundaciones repentinas que destruyeron el puesto fronterizo de Gyirong y arrasaron el valle del río Trishuli a ambos lados de la frontera. Los medios estatales chinos informaron de al menos 16 a 21 muertos y más de 540 desaparecidos en el lado tibetano, mientras que las autoridades nepalíes reportaron un balance mucho mayor en su lado; las operaciones de búsqueda y rescate continuaban a principios de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Un effondrement de glace et de roche déclenche une coulée de débris et des crues soudaines le long de la frontière Chine-Népal, détruisant le poste-frontière de Gyirong, selon l'US Geological Survey et des reportages d'Al Jazeera et CNN.",
+          "en": "A glacial ice and rock collapse triggers a debris flow and flash flooding along the China-Nepal border, destroying the Gyirong checkpoint, according to the US Geological Survey and reporting by Al Jazeera and CNN.",
+          "es": "Un colapso de hielo y roca provoca un flujo de escombros e inundaciones repentinas a lo largo de la frontera entre China y Nepal, destruyendo el puesto fronterizo de Gyirong, según el Servicio Geológico de EE. UU. y reportajes de Al Jazeera y CNN."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "allemagne-augsburg-explosion",
+    "coords": [
+      10.8978,
+      48.3705
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Washington Post",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Augsbourg, Bavière, Allemagne",
+      "en": "Augsburg, Bavaria, Germany",
+      "es": "Augsburgo, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "Une explosion blesse deux personnes près de la gare centrale d'Augsbourg",
+      "en": "Explosion injures two near Augsburg's main train station",
+      "es": "Una explosión hiere a dos personas cerca de la estación central de Augsburgo"
+    },
+    "summary": {
+      "fr": "Une explosion près de la gare centrale d'Augsbourg a légèrement blessé deux adolescents ukrainiens, selon les autorités allemandes citées par plusieurs médias internationaux. Un second objet suspect, non explosé, a été découvert à proximité, ce qui a conduit la police à fermer la gare jusqu'à ce qu'il soit déclaré inoffensif. La cause de l'explosion restait à déterminer.",
+      "en": "An explosion near Augsburg's central train station injured two Ukrainian teenagers with minor trauma from the blast, according to German authorities cited by multiple international outlets. A second, unexploded suspicious object was found nearby, prompting police to close the station until it was declared harmless. The cause of the explosion remained under investigation.",
+      "es": "Una explosión cerca de la estación central de tren de Augsburgo hirió levemente a dos adolescentes ucranianos, según las autoridades alemanas citadas por varios medios internacionales. Se halló cerca un segundo objeto sospechoso sin detonar, por lo que la policía cerró la estación hasta declararlo inofensivo. La causa de la explosión seguía bajo investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "L'explosion se produit vers 3h15 du matin près de la gare centrale d'Augsbourg ; la police ferme la gare pendant plusieurs heures par précaution, selon le Washington Post et Euronews.",
+          "en": "The blast occurs around 3:15am near Augsburg Hauptbahnhof; police close the station for several hours as a precaution, according to the Washington Post and Euronews.",
+          "es": "La explosión ocurre hacia las 3:15 de la madrugada cerca de la estación central de Augsburgo; la policía cierra la estación durante varias horas como precaución, según Washington Post y Euronews."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-taux-obligataire",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Reuters",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le rendement des obligations d'État japonaises à 10 ans atteint 3 %, un plus haut depuis 30 ans",
+      "en": "Japan's 10-year bond yield hits 3%, highest in 30 years",
+      "es": "El rendimiento del bono japonés a 10 años alcanza el 3 %, el nivel más alto en 30 años"
+    },
+    "summary": {
+      "fr": "Le rendement de référence des obligations d'État japonaises à 10 ans a atteint 3 % pour la première fois depuis 1996, porté par les inquiétudes des investisseurs sur l'inflation, la santé budgétaire du pays et la pression exercée sur la Banque du Japon pour qu'elle relève encore ses taux, selon Reuters. Une adjudication obligataire qui a suivi a montré une demande solide, contribuant à stabiliser le marché légèrement sous ce niveau ; le gouvernement avait retenu une hypothèse de taux long terme de 3 % pour calculer le coût de sa dette dans le budget de l'exercice 2026.",
+      "en": "Japan's benchmark 10-year government bond yield rose to 3% for the first time since 1996, driven by investor concern over inflation, the country's fiscal health, and pressure on the Bank of Japan to raise rates further, according to Reuters. A subsequent bond auction showed solid demand, helping stabilize the market slightly below that level; the government had assumed a 3% long-term rate when calculating debt-servicing costs in its fiscal 2026 budget.",
+      "es": "El rendimiento de referencia del bono del Gobierno japonés a 10 años subió al 3 % por primera vez desde 1996, impulsado por la preocupación de los inversores por la inflación, la salud fiscal del país y la presión sobre el Banco de Japón para que suba aún más las tasas, según Reuters. Una subasta de bonos posterior mostró una demanda sólida, lo que ayudó a estabilizar el mercado ligeramente por debajo de ese nivel; el Gobierno había asumido una tasa a largo plazo del 3 % al calcular el costo de la deuda en su presupuesto del año fiscal 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le rendement des obligations à 10 ans atteint 3 % en cours de séance l'après-midi avant de refluer légèrement après une adjudication, selon Reuters.",
+          "en": "The 10-year JGB yield touches 3% during afternoon trading before easing slightly after a bond auction, according to Reuters.",
+          "es": "El rendimiento del bono a 10 años toca el 3 % durante la sesión de la tarde antes de moderarse levemente tras una subasta, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "france-budget-2027",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💶",
+    "source": "Le Parisien",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Le Premier ministre Lecornu esquisse un budget 2027 « réversible » dans un contexte politique fragile",
+      "en": "PM Lecornu outlines a 'reversible' 2027 budget plan amid political fragility",
+      "es": "El primer ministro Lecornu esboza un presupuesto 2027 'reversible' en un contexto político frágil"
+    },
+    "summary": {
+      "fr": "Dans un entretien publié par Le Parisien et largement repris par d'autres médias français, le Premier ministre Sébastien Lecornu a esquissé les premières orientations du budget 2027, le décrivant comme un texte largement réversible après l'élection présidentielle de 2027. Il a écarté toute hausse générale des impôts, réaffirmé qu'il n'était pas candidat à la présidentielle, et averti qu'un budget non voté ajouterait du désordre intérieur au désordre international.",
+      "en": "In an interview published by Le Parisien and widely reported by other French outlets, Prime Minister Sébastien Lecornu sketched initial orientations for France's 2027 budget, describing it as a plan that would be largely reversible after the 2027 presidential election. He ruled out general tax increases, reaffirmed he is not a presidential candidate, and warned that failing to pass a budget would add domestic disorder to international disorder.",
+      "es": "En una entrevista publicada por Le Parisien y ampliamente recogida por otros medios franceses, el primer ministro Sébastien Lecornu esbozó las primeras orientaciones del presupuesto de 2027, describiéndolo como un plan mayormente reversible tras las elecciones presidenciales de 2027. Descartó subidas generales de impuestos, reafirmó que no es candidato a la presidencia y advirtió de que no aprobar un presupuesto sumaría desorden interno al desorden internacional."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "L'entretien de Sébastien Lecornu esquissant les orientations du budget 2027 est publié par Le Parisien et relayé au niveau national par Europe1 et franceinfo, entre autres.",
+          "en": "Sébastien Lecornu's interview outlining the 2027 budget orientations is published by Le Parisien and picked up nationally by outlets including Europe1 and franceinfo.",
+          "es": "La entrevista de Sébastien Lecornu en la que esboza las orientaciones del presupuesto de 2027 se publica en Le Parisien y es recogida a nivel nacional por Europe1 y franceinfo, entre otros."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "uk-notting-hill-carnival-deces",
+    "coords": [
+      -0.2172,
+      51.5231
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "ITV News",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Kensal / Notting Hill, Londres, Royaume-Uni",
+      "en": "Kensal / Notting Hill, London, United Kingdom",
+      "es": "Kensal / Notting Hill, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Un homme meurt après être entré dans un canal en fuyant la police au carnaval de Notting Hill",
+      "en": "Man dies after entering canal while fleeing police at Notting Hill Carnival",
+      "es": "Un hombre muere tras entrar a un canal huyendo de la policía en el carnaval de Notting Hill"
+    },
+    "summary": {
+      "fr": "Un homme d'une vingtaine d'années est mort après être entré dans le canal Grand Union près de Meanwhile Gardens, alors qu'il semblait fuir des policiers ayant tenté de l'interpeller près de Harrow Road pendant le carnaval de Notting Hill. Des passants et des agents l'ont sorti de l'eau et ont pratiqué un massage cardiaque, mais son décès a été constaté à l'hôpital ; l'Independent Office for Police Conduct examine l'affaire, comme c'est la pratique habituelle pour tout décès survenu après un contact avec la police.",
+      "en": "A man in his 20s died after entering the Grand Union Canal near Meanwhile Gardens while apparently fleeing police who had tried to stop him near Harrow Road during Notting Hill Carnival. Bystanders and officers pulled him from the water and performed CPR, but he was pronounced dead in hospital; the Independent Office for Police Conduct is reviewing the case, as is standard practice for any death following police contact.",
+      "es": "Un hombre de unos veinte años murió tras entrar en el canal Grand Union cerca de Meanwhile Gardens, al parecer huyendo de agentes de policía que habían intentado detenerlo cerca de Harrow Road durante el carnaval de Notting Hill. Transeúntes y agentes lo sacaron del agua y le practicaron reanimación cardiopulmonar, pero fue declarado muerto en el hospital; la Oficina Independiente de Conducta Policial (IOPC) revisa el caso, como es habitual ante cualquier muerte tras un contacto con la policía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "L'homme est sorti du canal puis son décès est constaté à l'hôpital, selon ITV News et LBC, qui ont également fait état de 560 interpellations liées au carnaval durant le week-end.",
+          "en": "The man is pulled from the canal and later pronounced dead in hospital, according to ITV News and LBC, which also reported 560 carnival-related arrests over the weekend.",
+          "es": "El hombre es sacado del canal y posteriormente declarado muerto en el hospital, según ITV News y LBC, que también informaron de 560 detenciones vinculadas al carnaval durante el fin de semana."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "canada-toronto-tempete",
+    "coords": [
+      -79.3832,
+      43.6532
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "⛈️",
+    "source": "CBC News",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Toronto, Ontario, Canada",
+      "en": "Toronto, Ontario, Canada",
+      "es": "Toronto, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Une tempête « centennale » inonde Toronto et prive d'électricité des dizaines de milliers de foyers",
+      "en": "'100-year' storm floods Toronto, cuts power to tens of thousands",
+      "es": "Una tormenta 'de una vez cada 100 años' inunda Toronto y deja sin electricidad a decenas de miles de personas"
+    },
+    "summary": {
+      "fr": "Un puissant système orageux a déversé sur la région du Grand Toronto près d'un mois de pluie en une seule journée, inondant des axes routiers dont la Don Valley Parkway, provoquant des sauvetages nautiques et privant d'électricité environ 45 000 abonnés, selon CBC News et Al Jazeera. Les autorités municipales ont qualifié l'épisode de « tempête centennale », causée par la rencontre d'un front froid avec de l'air chaud et humide.",
+      "en": "A powerful thunderstorm system dropped close to a month's worth of rain on the Greater Toronto Area in a single day, flooding roads including the Don Valley Parkway, prompting water rescues, and cutting power to roughly 45,000 customers, according to CBC News and Al Jazeera. City officials described the event as a '100-year storm' caused by a cold front meeting hot, humid air.",
+      "es": "Un potente sistema de tormentas eléctricas dejó caer sobre el área metropolitana de Toronto casi la lluvia de un mes en un solo día, inundando vías como la Don Valley Parkway, provocando rescates acuáticos y dejando sin electricidad a unos 45.000 abonados, según CBC News y Al Jazeera. Las autoridades municipales calificaron el episodio de tormenta de cada 100 años, causada por el choque de un frente frío con aire cálido y húmedo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La tempête frappe la région du Grand Toronto, entraînant la fermeture de la Don Valley Parkway et des alertes aux inondations, selon CBC News et CTV News.",
+          "en": "The storm hits the Greater Toronto Area, closing the Don Valley Parkway and triggering flood warnings, according to CBC News and CTV News.",
+          "es": "La tormenta golpea el área metropolitana de Toronto, provocando el cierre de la Don Valley Parkway y alertas de inundación, según CBC News y CTV News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "italie-policoro-tornade",
+    "coords": [
+      16.6667,
+      40.2167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "ANSA",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Policoro, Basilicate, Italie",
+      "en": "Policoro, Basilicata, Italy",
+      "es": "Policoro, Basilicata, Italia"
+    },
+    "title": {
+      "fr": "Une violente tornade dévaste la ville côtière de Policoro",
+      "en": "Violent tornado devastates the coastal town of Policoro",
+      "es": "Un violento tornado devasta la localidad costera de Policoro"
+    },
+    "summary": {
+      "fr": "Une puissante tornade a frappé Policoro et la zone côtière environnante du Metapontino, déracinant des centaines d'arbres, arrachant toitures et panneaux solaires, et endommageant des serres ainsi que le réseau électrique, selon l'agence ANSA. Le maire Enrico Bianco a parlé d'un désastre, avec des dégâts estimés à plusieurs millions d'euros ; aucun mort ni blessé n'a été signalé, et la ville a demandé l'état de catastrophe naturelle.",
+      "en": "A powerful tornado struck Policoro and the surrounding Metapontino coastal area, uprooting hundreds of trees, tearing off roofs and solar panels, and damaging greenhouses and the electrical network, according to ANSA. Mayor Enrico Bianco called it a disaster with damages estimated in the millions of euros; no deaths or injuries were reported, and the town requested a state-of-emergency declaration.",
+      "es": "Un potente tornado azotó Policoro y la zona costera circundante del Metapontino, arrancando cientos de árboles, techos y paneles solares, y dañando invernaderos y la red eléctrica, según la agencia ANSA. El alcalde Enrico Bianco calificó lo ocurrido de desastre, con daños estimados en millones de euros; no se reportaron muertos ni heridos, y el municipio solicitó la declaración del estado de emergencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La tornade traverse Policoro, poussant le maire à demander l'état de catastrophe naturelle, selon ANSA.",
+          "en": "The tornado tears through Policoro, prompting the mayor to request a state of emergency, according to ANSA.",
+          "es": "El tornado arrasa Policoro, lo que lleva al alcalde a solicitar el estado de emergencia, según ANSA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ukraine-kyiv-frappe",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Associated Press",
+    "week": "2026-W36",
+    "place": {
+      "fr": "District de Holosiivskyi, Kyiv, Ukraine",
+      "en": "Holosiivskyi district, Kyiv, Ukraine",
+      "es": "Distrito de Holosiivskyi, Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe de drones et de missiles touche un immeuble résidentiel à Kyiv, faisant des blessés civils",
+      "en": "Russian drone-and-missile barrage hits Kyiv apartment building, injures civilians",
+      "es": "Un bombardeo ruso con drones y misiles alcanza un edificio residencial en Kiev y deja civiles heridos"
+    },
+    "summary": {
+      "fr": "Une attaque aérienne russe de grande ampleur a touché Kyiv, endommageant un immeuble résidentiel de neuf étages dans le district de Holosiivskyi et blessant au moins 10 personnes, dont un enfant et plusieurs membres du personnel médical intervenus sur place, selon les autorités ukrainiennes et l'agence AP. La même vague nocturne a également endommagé des habitations à Odessa et frappé des cibles dans la région de Dnipropetrovsk ; la Russie n'a pas commenté spécifiquement cette frappe visant des bâtiments civils, affirmant généralement que ce type d'attaque cible des infrastructures militaires et énergétiques.",
+      "en": "A large-scale Russian aerial attack struck Kyiv, damaging a nine-story residential building in the Holosiivskyi district and injuring at least 10 people, including a child and several medical personnel who responded, according to Ukrainian officials and AP. The same overnight barrage also damaged homes in Odesa and struck targets in the Dnipropetrovsk region; Russia has not issued specific public comment on this strike attributed to civilian buildings, while it generally says such attacks target military and energy infrastructure.",
+      "es": "Un ataque aéreo ruso a gran escala alcanzó Kiev, dañando un edificio residencial de nueve pisos en el distrito de Holosiivskyi e hiriendo al menos a 10 personas, entre ellas un niño y varios sanitarios que respondieron al ataque, según autoridades ucranianas y la agencia AP. La misma oleada nocturna también dañó viviendas en Odesa y alcanzó objetivos en la región de Dnipropetrovsk; Rusia no se ha pronunciado específicamente sobre este ataque atribuido a edificios civiles, aunque suele afirmar que este tipo de ataques apuntan a infraestructuras militares y energéticas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La vague de frappes touche Kyiv, Odessa et la région de Dnipropetrovsk dans la nuit, selon l'armée de l'air ukrainienne et des reportages du Kyiv Independent et d'Ukrinform.",
+          "en": "The barrage hits Kyiv, Odesa and Dnipropetrovsk region overnight, according to Ukraine's air force and reporting by the Kyiv Independent and Ukrinform.",
+          "es": "La oleada de ataques alcanza Kiev, Odesa y la región de Dnipropetrovsk durante la noche, según la fuerza aérea ucraniana y reportajes de Kyiv Independent y Ukrinform."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "iran-golfe-conflit",
+    "coords": [
+      56.2808,
+      27.1865
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Région de Bandar Abbas, province du Hormozgan, Iran, avec des frappes de représailles signalées en Jordanie, à Bahreïn, au Koweït et en Irak",
+      "en": "Bandar Abbas area, Hormozgan province, Iran, with retaliatory strikes reported in Jordan, Bahrain, Kuwait and Iraq",
+      "es": "Zona de Bandar Abbas, provincia de Hormozgán, Irán, con ataques de represalia reportados en Jordania, Bahrein, Kuwait e Irak"
+    },
+    "title": {
+      "fr": "Les États-Unis frappent des sites militaires iraniens près du détroit d'Ormuz ; l'Iran riposte contre des cibles liées aux États-Unis dans le Golfe",
+      "en": "US strikes Iranian military sites near the Strait of Hormuz; Iran retaliates against US-linked targets across the Gulf",
+      "es": "EE. UU. golpea instalaciones militares iraníes cerca del estrecho de Ormuz; Irán responde contra objetivos vinculados a EE. UU. en el Golfo"
+    },
+    "summary": {
+      "fr": "Le Commandement central américain (CENTCOM) a mené des frappes sur environ 100 sites liés aux Gardiens de la révolution islamique dans le sud de l'Iran, dont des positions de défense antiaérienne et des systèmes radar et anti-navires, en réponse selon Washington à des attaques contre des pétroliers commerciaux dans le détroit d'Ormuz. Des médias iraniens proches de l'État ont confirmé des frappes sur les sites mentionnés et dénoncé une agression américaine non provoquée, tandis que Washington a présenté son action comme une réponse aux incidents visant les pétroliers. En représailles, l'Iran a tiré des missiles et des drones vers des cibles liées aux États-Unis en Jordanie, à Bahreïn, au Koweït et en Irak ; l'armée jordanienne affirme avoir intercepté 10 des 13 missiles entrés dans son espace aérien, les autres étant tombés dans des zones inhabitées, sans aucune victime signalée en Jordanie, à Bahreïn ou au Koweït, selon Al Jazeera, Defense News et des responsables régionaux.",
+      "en": "US Central Command carried out strikes on roughly 100 Islamic Revolutionary Guard Corps sites in southern Iran, including air-defense positions and radar and anti-ship systems, which the US said followed attacks on commercial tankers in the Strait of Hormuz. Iran state-affiliated media confirmed strikes on the named locations and called the US action unprovoked aggression, while Washington described it as a response to the tanker incidents. In retaliation, Iran fired missiles and drones toward US-linked targets in Jordan, Bahrain, Kuwait and Iraq; Jordan's military said it intercepted 10 of 13 missiles that entered its airspace with the rest landing in unpopulated areas, and no casualties were reported in Jordan, Bahrain or Kuwait, according to Al Jazeera, Defense News and regional officials.",
+      "es": "El Mando Central de EE. UU. realizó ataques contra unos 100 emplazamientos vinculados a la Guardia Revolucionaria Islámica en el sur de Irán, incluidas posiciones de defensa antiaérea y sistemas de radar y antibuque, que según Washington respondían a ataques contra petroleros comerciales en el estrecho de Ormuz. Medios afines al Estado iraní confirmaron los ataques en los lugares señalados y calificaron la acción estadounidense de agresión no provocada, mientras que Washington la describió como una respuesta a los incidentes contra los petroleros. En represalia, Irán lanzó misiles y drones contra objetivos vinculados a EE. UU. en Jordania, Bahrein, Kuwait e Irak; el ejército jordano afirmó haber interceptado 10 de los 13 misiles que entraron en su espacio aéreo, con el resto cayendo en zonas despobladas, sin víctimas reportadas en Jordania, Bahrein o Kuwait, según Al Jazeera, Defense News y funcionarios regionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le Commandement central américain frappe une centaine de sites liés aux Gardiens de la révolution dans le sud de l'Iran, après des attaques signalées contre des pétroliers dans le détroit d'Ormuz, selon Al Jazeera et Defense News.",
+          "en": "US Central Command strikes about 100 IRGC-linked sites in southern Iran, following reported attacks on tankers in the Strait of Hormuz, according to Al Jazeera and Defense News.",
+          "es": "El Mando Central de EE. UU. ataca cerca de 100 emplazamientos vinculados a la Guardia Revolucionaria en el sur de Irán, tras ataques reportados contra petroleros en el estrecho de Ormuz, según Al Jazeera y Defense News."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran tire des missiles et des drones vers des cibles liées aux États-Unis en Jordanie, à Bahreïn, au Koweït et en Irak ; l'armée jordanienne indique avoir intercepté la majorité des missiles entrés dans son espace aérien et ne signale aucune victime, selon Al Jazeera et le Jerusalem Post.",
+          "en": "Iran fires missiles and drones toward US-linked targets in Jordan, Bahrain, Kuwait and Iraq; Jordan's armed forces say they intercepted most of the missiles entering their airspace and report no casualties, according to Al Jazeera and the Jerusalem Post.",
+          "es": "Irán lanza misiles y drones contra objetivos vinculados a EE. UU. en Jordania, Bahrein, Kuwait e Irak; el ejército jordano indica haber interceptado la mayoría de los misiles que entraron en su espacio aéreo y no reporta víctimas, según Al Jazeera y Jerusalem Post."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "coree-eglise-unification-jugement",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Associated Press",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Tribunal central du district de Séoul, Séoul, Corée du Sud",
+      "en": "Seoul Central District Court, Seoul, South Korea",
+      "es": "Tribunal Central del Distrito de Seúl, Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La dirigeante de l'Église de l'Unification, Han Hak-ja, condamnée à deux ans de prison",
+      "en": "Unification Church leader Han Hak-ja sentenced to two years in prison",
+      "es": "La líder de la Iglesia de la Unificación, Han Hak-ja, condenada a dos años de prisión"
+    },
+    "summary": {
+      "fr": "Le tribunal central du district de Séoul a condamné Han Hak-ja, 83 ans, dirigeante de l'Église de l'Unification, à une peine cumulée de deux ans de prison pour violation de la loi sur le financement politique, corruption et détournement de fonds, selon l'agence AP. Le tribunal a estimé qu'elle avait organisé l'offre de cadeaux de luxe, dont un collier de diamants et des sacs Chanel, à Kim Keon Hee, épouse de l'ancien président Yoon Suk Yeol, afin d'obtenir une influence politique ; un responsable de l'Église a été condamné à six mois de prison et deux autres personnes à des peines avec sursis dans des jugements liés.",
+      "en": "The Seoul Central District Court sentenced Han Hak-ja, the 83-year-old leader of the Unification Church, to a combined two years in prison for violating the political funds act, bribery and embezzlement, according to AP. The court found she had arranged for luxury gifts, including a diamond necklace and Chanel bags, to be given to Kim Keon Hee, wife of former President Yoon Suk Yeol, in pursuit of political influence; a church official received a six-month sentence and two others received suspended terms in related rulings.",
+      "es": "El Tribunal Central del Distrito de Seúl condenó a Han Hak-ja, de 83 años, líder de la Iglesia de la Unificación, a una pena combinada de dos años de prisión por violar la ley de fondos políticos, soborno y malversación, según la agencia AP. El tribunal determinó que había organizado la entrega de regalos de lujo, incluido un collar de diamantes y bolsos Chanel, a Kim Keon Hee, esposa del expresidente Yoon Suk Yeol, en busca de influencia política; un responsable de la iglesia recibió una condena de seis meses y otras dos personas penas suspendidas en fallos relacionados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal central du district de Séoul prononce la peine, selon l'AP et le Japan Times.",
+          "en": "The Seoul Central District Court hands down the sentence, according to AP and The Japan Times.",
+          "es": "El Tribunal Central del Distrito de Seúl dicta la sentencia, según AP y The Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "mexique-mazatlan-fusillade",
+    "coords": [
+      -106.4111,
+      23.2494
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Infobae México",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Mazatlán, Sinaloa, Mexique",
+      "en": "Mazatlán, Sinaloa, Mexico",
+      "es": "Mazatlán, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Des hommes armés tirent sur le coordinateur de la protection civile de Mazatlán",
+      "en": "Gunmen shoot Mazatlán's civil protection coordinator",
+      "es": "Sicarios disparan contra el coordinador de Protección Civil de Mazatlán"
+    },
+    "summary": {
+      "fr": "Des hommes armés circulant à moto ont ouvert le feu sur un véhicule de la direction de la Protection civile de Mazatlán, blessant le coordinateur Óscar Osuna ainsi qu'un autre occupant, selon le secrétariat à la sécurité publique de l'État de Sinaloa et Infobae México. La police d'État et une force de réaction rapide ont renforcé la sécurité dans la zone ; l'attaque survient dans un contexte de déploiement militaire et sécuritaire lié au conflit interne au sein du cartel de Sinaloa.",
+      "en": "Armed men on a motorcycle opened fire on a vehicle belonging to Mazatlán's Civil Protection department, wounding coordinator Óscar Osuna and another occupant, according to Sinaloa's public security secretariat and Infobae Mexico. State police and a rapid-reaction force deployed additional security in the area; the attack occurred amid an ongoing military and security buildup tied to internal conflict within the Sinaloa Cartel.",
+      "es": "Hombres armados a bordo de una motocicleta abrieron fuego contra un vehículo de la dirección de Protección Civil de Mazatlán, hiriendo al coordinador Óscar Osuna y a otro ocupante, según la Secretaría de Seguridad Pública de Sinaloa e Infobae México. La policía estatal y un grupo interinstitucional de reacción rápida reforzaron la seguridad en la zona; el ataque se produce en medio de un despliegue militar y de seguridad vinculado al conflicto interno dentro del Cartel de Sinaloa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés ouvrent le feu sur le véhicule du responsable à Mazatlán, selon Infobae México et Excélsior.",
+          "en": "Gunmen open fire on the official's vehicle in Mazatlán, according to Infobae Mexico and Excelsior.",
+          "es": "Hombres armados abren fuego contra el vehículo del funcionario en Mazatlán, según Infobae México y Excélsior."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "indonesie-orangs-outans-evacuation",
+    "coords": [
+      117.15,
+      -1.0167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ANTARA News",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Samboja, régence de Kutai Kartanegara, Kalimantan oriental, Indonésie",
+      "en": "Samboja, Kutai Kartanegara Regency, East Kalimantan, Indonesia",
+      "es": "Samboja, Regencia de Kutai Kartanegara, Kalimantan Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Onze orangs-outans évacués après qu'un incendie de forêt a atteint une réserve de réhabilitation",
+      "en": "Eleven orangutans evacuated as forest fire breaches rehabilitation reserve",
+      "es": "Once orangutanes evacuados tras un incendio forestal que alcanzó una reserva de rehabilitación"
+    },
+    "summary": {
+      "fr": "L'agence de conservation des ressources naturelles du Kalimantan oriental et des organisations partenaires ont évacué 11 orangs-outans d'un centre de réhabilitation à Samboja après qu'un incendie de forêt a franchi la limite de la réserve protégée où vivaient les animaux, selon ANTARA News. Les 11 animaux ont été transférés vers un site de soins temporaire et se portaient bien ; cet incident survient dans un contexte de multiplication des foyers d'incendies de forêt et de tourbières à travers le Kalimantan, liée au retard des pluies saisonnières.",
+      "en": "Indonesia's East Kalimantan Natural Resources Conservation Agency and partner organizations evacuated 11 orangutans from a rehabilitation facility in Samboja after a forest fire breached the boundary of the protected reserve where the animals were housed, according to ANTARA News. All 11 were moved to a temporary care site and reported healthy; the incident occurred amid a broader surge in forest and land fire hotspots across Kalimantan linked to delayed seasonal rains.",
+      "es": "La Agencia de Conservación de Recursos Naturales de Kalimantan Oriental y organizaciones asociadas evacuaron a 11 orangutanes de un centro de rehabilitación en Samboja después de que un incendio forestal traspasara el límite de la reserva protegida donde vivían los animales, según ANTARA News. Los 11 ejemplares fueron trasladados a un lugar de cuidado temporal y se reportaron sanos; el incidente ocurre en medio de un aumento de focos de incendios forestales y de turberas en Kalimantan, vinculado al retraso de las lluvias estacionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "La fumée et les flammes se rapprochent du centre, provoquant une évacuation d'urgence des orangs-outans, selon ANTARA News.",
+          "en": "Smoke and flames approach the facility, prompting an emergency evacuation of the orangutans, according to ANTARA News.",
+          "es": "El humo y las llamas se acercan al centro, lo que provoca una evacuación de emergencia de los orangutanes, según ANTARA News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "inde-uttar-pradesh-inondations",
+    "coords": [
+      84.1487,
+      25.7599
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Business Standard",
+    "week": "2026-W36",
+    "place": {
+      "fr": "District de Ballia, Uttar Pradesh, Inde (inondations touchant 23 des 35 districts de l'État)",
+      "en": "Ballia district, Uttar Pradesh, India (flooding affecting 23 of the state's 35 districts)",
+      "es": "Distrito de Ballia, Uttar Pradesh, India (inundaciones que afectan a 23 de los 35 distritos del estado)"
+    },
+    "title": {
+      "fr": "Les inondations de mousson déplacent des dizaines de milliers de personnes en Uttar Pradesh",
+      "en": "Monsoon floods displace tens of thousands in Uttar Pradesh",
+      "es": "Las inundaciones del monzón desplazan a decenas de miles de personas en Uttar Pradesh"
+    },
+    "summary": {
+      "fr": "La montée des eaux du Gange et de la Saryu, provoquée par les pluies de mousson, a déplacé environ 20 500 personnes dans le seul district de Ballia, dans le cadre d'inondations touchant 23 des 35 districts de l'Uttar Pradesh, selon les autorités de l'État citées par Business Standard. Les autorités ont fait état de près de 17 000 personnes évacuées au total, avec plus de 1 400 bateaux et 1 000 équipes médicales déployés ; certains médias ont rapporté trois décès liés aux inondations, dont un enfant de 18 mois, tandis qu'un rapport antérieur sur la même situation évolutive faisait état d'aucun décès, illustrant la rapidité avec laquelle le bilan a changé au fil de la catastrophe.",
+      "en": "Rising Ganga and Saryu river levels driven by monsoon rains displaced about 20,500 people in Ballia district alone, part of flooding affecting 23 of Uttar Pradesh's 35 districts, according to state authorities cited by Business Standard. State officials reported nearly 17,000 people evacuated overall, with over 1,400 boats and 1,000 medical teams deployed; some outlets reported three flood-related deaths, including an 18-month-old child, while an earlier report on the same evolving situation had stated no deaths, reflecting how quickly the toll changed as the disaster unfolded.",
+      "es": "La crecida de los ríos Ganges y Saryu, provocada por las lluvias monzónicas, desplazó a unas 20.500 personas solo en el distrito de Ballia, en el marco de inundaciones que afectan a 23 de los 35 distritos de Uttar Pradesh, según autoridades estatales citadas por Business Standard. Los funcionarios reportaron cerca de 17.000 personas evacuadas en total, con más de 1.400 embarcaciones y 1.000 equipos médicos desplegados; algunos medios informaron de tres muertes relacionadas con las inundaciones, entre ellas un niño de 18 meses, mientras que un informe anterior sobre la misma situación en desarrollo no reportaba muertes, lo que refleja la rapidez con que cambió el balance a medida que avanzaba el desastre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Les autorités de l'Uttar Pradesh communiquent les chiffres d'évacuation et confirment des décès liés aux inondations dans les districts de Pratapgarh et d'Amroha, selon Business Standard et National Herald India.",
+          "en": "Uttar Pradesh authorities report the evacuation figures and confirm flood-related deaths in Pratapgarh and Amroha districts, according to Business Standard and National Herald India.",
+          "es": "Las autoridades de Uttar Pradesh comunican las cifras de evacuación y confirman muertes relacionadas con las inundaciones en los distritos de Pratapgarh y Amroha, según Business Standard y National Herald India."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-ibovespa-hausse",
+    "coords": [
+      -46.6333,
+      -23.5505
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNN Brasil",
+    "week": "2026-W36",
+    "place": {
+      "fr": "São Paulo, Brésil (Bourse B3)",
+      "en": "São Paulo, Brazil (B3 stock exchange)",
+      "es": "São Paulo, Brasil (bolsa B3)"
+    },
+    "title": {
+      "fr": "L'Ibovespa bondit de 3 % après un sondage montrant un second tour Lula-Bolsonaro serré",
+      "en": "Ibovespa jumps 3% on poll showing tight Lula-Bolsonaro runoff race",
+      "es": "El Ibovespa sube un 3 % tras una encuesta que muestra una segunda vuelta reñida entre Lula y Bolsonaro"
+    },
+    "summary": {
+      "fr": "L'indice boursier brésilien Ibovespa a clôturé en hausse d'environ 3 %, à son plus haut niveau depuis près de quatre mois et pour une onzième séance consécutive dans le vert, tandis que le réal se renforçait face au dollar, selon CNN Brasil. Les investisseurs ont évoqué un sondage Quaest montrant le président Lula à égalité avec le sénateur Flávio Bolsonaro dans l'hypothèse d'un second tour, ce que les marchés ont interprété comme réduisant les risques d'un changement brutal de politique ; les actions de Vale, Petrobras et des grandes banques ont mené la hausse.",
+      "en": "Brazil's Ibovespa stock index closed up about 3%, its highest level in roughly four months and an 11th consecutive positive session, while the real strengthened against the dollar, according to CNN Brasil. Traders cited a Quaest poll showing President Lula and Senator Flavio Bolsonaro tied in a hypothetical second-round runoff, which markets read as lowering the odds of an abrupt policy shift; shares in Vale, Petrobras and major banks led the gains.",
+      "es": "El índice bursátil brasileño Ibovespa cerró con una subida de alrededor del 3 %, su nivel más alto en unos cuatro meses y en su undécima sesión positiva consecutiva, mientras el real se fortalecía frente al dólar, según CNN Brasil. Los operadores citaron una encuesta de Quaest que mostraba al presidente Lula empatado con el senador Flávio Bolsonaro en una hipotética segunda vuelta, lo que los mercados interpretaron como una menor probabilidad de un giro brusco de política; las acciones de Vale, Petrobras y grandes bancos lideraron las alzas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "L'Ibovespa clôture à son plus haut niveau depuis environ quatre mois, selon CNN Brasil et InfoMoney.",
+          "en": "The Ibovespa closes at its highest level in about four months, according to CNN Brasil and InfoMoney.",
+          "es": "El Ibovespa cierra en su nivel más alto en unos cuatro meses, según CNN Brasil e InfoMoney."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "egypte-bus-accident",
+    "coords": [
+      34.59,
+      28.76
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "Al Jazeera",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Route Dahab-Nuweiba, gouvernorat du Sud-Sinaï, Égypte",
+      "en": "Dahab-Nuweiba road, South Sinai Governorate, Egypt",
+      "es": "Carretera Dahab-Nuweiba, gobernación del Sinaí del Sur, Egipto"
+    },
+    "title": {
+      "fr": "Un accident de bus sur la route côtière du Sinaï fait plus de 20 morts",
+      "en": "Bus crash on Sinai coastal road kills over 20",
+      "es": "Un accidente de autobús en la carretera costera del Sinaí deja más de 20 muertos"
+    },
+    "summary": {
+      "fr": "Un autobus de passagers reliant Le Caire à Amman, en Jordanie, s'est renversé sur la route reliant les stations balnéaires de Dahab et Nuweiba, sur la mer Rouge, faisant entre 16 et 22 morts selon les premiers bilans, qui variaient selon les sources, et 28 blessés, selon Al Jazeera. Des médias jordaniens ont indiqué que 10 des victimes étaient des ressortissants jordaniens ; la presse locale a attribué l'accident à l'éclatement d'un pneu.",
+      "en": "A passenger bus traveling from Cairo toward Amman, Jordan, overturned on the road linking the Red Sea resort towns of Dahab and Nuweiba, killing at least 16 to 22 people according to varying early reports and injuring 28, according to Al Jazeera. Jordanian media said 10 of the dead were Jordanian nationals; local reporting attributed the crash to a tire blowout.",
+      "es": "Un autobús de pasajeros que viajaba de El Cairo a Amán, Jordania, volcó en la carretera que une las localidades turísticas de Dahab y Nuweiba, en el Mar Rojo, dejando entre 16 y 22 muertos según los primeros balances, que variaban según la fuente, y 28 heridos, según Al Jazeera. Medios jordanos indicaron que 10 de los fallecidos eran ciudadanos jordanos; la prensa local atribuyó el accidente al estallido de un neumático."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Le bus se renverse sur la route Dahab-Nuweiba, selon Al Jazeera et Daily News Egypt.",
+          "en": "The bus overturns on the Dahab-Nuweiba road, according to Al Jazeera and Daily News Egypt.",
+          "es": "El autobús vuelca en la carretera Dahab-Nuweiba, según Al Jazeera y Daily News Egypt."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "afsud-durban-refugies-violence",
+    "coords": [
+      31.0218,
+      -29.8587
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "IOL",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Che Guevara Road, Durban, Afrique du Sud (devant le bureau d'accueil des réfugiés du ministère de l'Intérieur)",
+      "en": "Che Guevara Road, Durban, South Africa (outside the Department of Home Affairs refugee reception office)",
+      "es": "Che Guevara Road, Durban, Sudáfrica (frente a la oficina de recepción de refugiados del Departamento del Interior)"
+    },
+    "title": {
+      "fr": "Une manifestation contre un campement de migrants près d'un bureau de l'immigration à Durban dégénère",
+      "en": "Protest against migrant camp outside Durban immigration office turns violent",
+      "es": "Una protesta contra un campamento de migrantes frente a una oficina de inmigración en Durban termina en violencia"
+    },
+    "summary": {
+      "fr": "Des membres d'un groupe opposé à l'immigration illégale ont organisé une manifestation face à un campement de réfugiés, majoritairement congolais, burundais et somaliens, installés depuis environ trois mois devant le bureau de l'Intérieur de Durban ; la manifestation a dégénéré, avec des jets de pierres et l'usage par la police de grenades assourdissantes, de gaz lacrymogène et de balles en caoutchouc pour disperser la foule, selon IOL. Les bilans des victimes varient selon les sources : certains médias font état d'une dizaine de manifestants blessés, un responsable communautaire évoque cinq ressortissants congolais blessés, et une personne étrangère a été arrêtée ; les manifestants invoquaient des problèmes d'hygiène, de bruit et de sécurité, tandis que les réfugiés affirmaient n'avoir aucune alternative sûre et appelaient le gouvernement à les protéger.",
+      "en": "Members of an anti-illegal-immigration group staged a demonstration confronting a camp of mostly Congolese, Burundian and Somali refugees who had been living outside Durban's Home Affairs office for roughly three months, and the protest turned violent, with stones thrown and police using stun grenades, tear gas and rubber bullets to disperse the crowd, according to IOL. Reports on casualties varied: some outlets said around 10 protesters were injured, a community leader said five Congolese nationals were hurt, and one foreign national was arrested; protesters cited sanitation, noise and safety complaints, while the refugees said they had no safe alternative and called on the government for protection.",
+      "es": "Miembros de un grupo contrario a la inmigración ilegal organizaron una protesta frente a un campamento de refugiados, en su mayoría congoleños, burundeses y somalíes, que llevaban unos tres meses viviendo frente a la oficina del Interior de Durban; la protesta derivó en violencia, con lanzamiento de piedras y el uso por parte de la policía de granadas aturdidoras, gas lacrimógeno y balas de goma para dispersar a la multitud, según IOL. Los reportes sobre víctimas variaron: algunos medios hablaron de una decena de manifestantes heridos, un líder comunitario mencionó a cinco ciudadanos congoleños heridos, y una persona extranjera fue detenida; los manifestantes citaron quejas de higiene, ruido y seguridad, mientras que los refugiados dijeron no tener una alternativa segura y pidieron protección al gobierno."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La manifestation dégénère devant le bureau de l'Intérieur, selon IOL et EWN.",
+          "en": "The demonstration turns violent outside the Home Affairs office, according to IOL and EWN.",
+          "es": "La protesta deriva en violencia frente a la oficina del Interior, según IOL y EWN."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "israel-gaza-plan-deplacement",
+    "coords": [
+      34.4668,
+      31.5017
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Bande de Gaza",
+      "en": "Gaza Strip",
+      "es": "Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des tirs israéliens tuent des Palestiniens à Gaza, tandis qu'un ministre israélien dévoile un plan de départ massif",
+      "en": "Israeli fire kills Palestinians in Gaza as Israeli minister unveils mass-emigration plan",
+      "es": "Fuego israelí mata a palestinos en Gaza mientras un ministro israelí presenta un plan de salida masiva"
+    },
+    "summary": {
+      "fr": "Des tirs israéliens ont tué au moins trois Palestiniens à Gaza dans le cadre d'opérations militaires en cours dans le territoire, selon des sources médicales locales citées par Al Jazeera. Le même jour, le ministre israélien de la Sécurité nationale Itamar Ben Gvir a présenté un plan baptisé « Désengagement 710 », proposant le départ de 250 000 Gazaouis la première année et jusqu'à 1,86 million sur sept ans, qu'il a présenté comme une émigration volontaire à l'approche des élections israéliennes d'octobre ; des représentants palestiniens, des gouvernements arabes et des organisations de défense des droits humains estiment que de telles propositions constituent un déplacement forcé, interdit par les conventions de Genève, une qualification que rejettent les partisans israéliens du plan.",
+      "en": "Israeli forces killed at least three Palestinians in Gaza amid ongoing military operations in the territory, according to local medical sources cited by Al Jazeera. The same day, Israeli National Security Minister Itamar Ben Gvir presented a plan he called 'Disengagement 710', proposing the departure of 250,000 Gazans in its first year and up to 1.86 million within seven years, which he described as voluntary emigration ahead of Israel's October election; Palestinian representatives, Arab governments and rights groups have said such proposals amount to forced displacement barred under the Geneva Conventions, a characterization Israeli proponents of the plan reject.",
+      "es": "Fuego israelí mató al menos a tres palestinos en Gaza en medio de operaciones militares en curso en el territorio, según fuentes médicas locales citadas por Al Jazeera. Ese mismo día, el ministro israelí de Seguridad Nacional, Itamar Ben Gvir, presentó un plan denominado Disengagement 710, que propone la salida de 250.000 habitantes de Gaza en su primer año y de hasta 1,86 millones en siete años, y que describió como emigración voluntaria de cara a las elecciones de octubre en Israel; representantes palestinos, gobiernos árabes y organizaciones de derechos humanos han afirmado que propuestas de este tipo equivalen a un desplazamiento forzoso, prohibido por los Convenios de Ginebra, calificación que rechazan los impulsores israelíes del plan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Les tirs et l'annonce du plan sont rapportés le même jour, selon Al Jazeera et Arab News.",
+          "en": "The killings and the announcement of the plan are reported the same day, according to Al Jazeera and Arab News.",
+          "es": "Las muertes y el anuncio del plan se reportan el mismo día, según Al Jazeera y Arab News."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "kenya-journaliste-enlevement",
+    "coords": [
+      36.3167,
+      -0.49
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Citizen Digital",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Route Gilgil-Nakuru, comté de Nakuru, Kenya (retrouvé près du barrage de Masinga, zone de Machakos/Kitui)",
+      "en": "Gilgil-Nakuru road, Nakuru County, Kenya (found near Masinga Dam, Machakos/Kitui area)",
+      "es": "Carretera Gilgil-Nakuru, condado de Nakuru, Kenia (hallado cerca de la presa de Masinga, zona de Machakos/Kitui)"
+    },
+    "title": {
+      "fr": "Un journaliste enlevé par des hommes armés, relâché quelques heures plus tard",
+      "en": "Journalist abducted by armed men, released hours later",
+      "es": "Un periodista es secuestrado por hombres armados y liberado horas después"
+    },
+    "summary": {
+      "fr": "Alex Kiprotich, rédacteur en chef adjoint du groupe Standard, a été enlevé par des hommes armés en civil après que son véhicule a été suivi puis pris en embuscade sur la route Gilgil-Nakuru ; il a été retrouvé vivant et relâché environ neuf heures plus tard près du barrage de Masinga, à environ 200 km de là, selon Citizen Digital. Le directeur général de Standard Media a indiqué qu'il s'agissait de la deuxième fois en deux mois que Kiprotich était visé ; le secrétaire du Cabinet à l'Intérieur, Kipchumba Murkomen, a condamné l'enlèvement et demandé une enquête, tandis que la Commission kényane des droits humains a exigé que les responsabilités soient établies.",
+      "en": "Standard Group associate editor Alex Kiprotich was abducted by armed men in civilian clothing after his vehicle was trailed and ambushed on the Gilgil-Nakuru road, and was found alive and released roughly nine hours later near Masinga Dam, about 200km away, according to Citizen Digital. Standard Media's CEO said this was the second time in two months Kiprotich had been targeted; Interior Cabinet Secretary Kipchumba Murkomen condemned the abduction and called for an investigation, and the Kenya Human Rights Commission demanded accountability.",
+      "es": "Alex Kiprotich, editor asociado del grupo Standard, fue secuestrado por hombres armados vestidos de civil después de que su vehículo fuera seguido y emboscado en la carretera Gilgil-Nakuru; fue hallado con vida y liberado unas nueve horas después cerca de la presa de Masinga, a unos 200 km de distancia, según Citizen Digital. El director ejecutivo de Standard Media señaló que era la segunda vez en dos meses que Kiprotich era blanco de un ataque; el secretario de Gabinete del Interior, Kipchumba Murkomen, condenó el secuestro y pidió una investigación, mientras que la Comisión Keniana de Derechos Humanos exigió que se determinen responsabilidades."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Kiprotich est retrouvé vivant et relâché près du barrage de Masinga, selon Citizen Digital et Kenyans.co.ke.",
+          "en": "Kiprotich is found alive and released near Masinga Dam, according to Citizen Digital and Kenyans.co.ke.",
+          "es": "Kiprotich es hallado con vida y liberado cerca de la presa de Masinga, según Citizen Digital y Kenyans.co.ke."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "colombie-cucuta-voiture-piegee",
+    "coords": [
+      -72.5083,
+      7.8583
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "El Espectador",
+    "week": "2026-W36",
+    "place": {
+      "fr": "Los Patios, Norte de Santander, Colombie (agglomération de Cúcuta)",
+      "en": "Los Patios, Norte de Santander, Colombia (Cúcuta metropolitan area)",
+      "es": "Los Patios, Norte de Santander, Colombia (área metropolitana de Cúcuta)"
+    },
+    "title": {
+      "fr": "Une voiture piégée explose devant un commissariat près de Cúcuta",
+      "en": "Car bomb explodes outside police station near Cúcuta",
+      "es": "Un carro bomba estalla frente a una estación de policía cerca de Cúcuta"
+    },
+    "summary": {
+      "fr": "Une voiture piégée a explosé devant le commissariat de Los Patios, dans l'agglomération de Cúcuta, tuant un civil et blessant une dizaine de personnes, dont deux policiers, et endommageant le bâtiment de la police, selon El Espectador. Le président Abelardo De la Espriella a convoqué un conseil de sécurité à la suite de l'attentat ; aucun groupe n'avait été formellement identifié comme responsable dans les premiers comptes rendus, qui soulignaient que l'attaque intervenait dans un contexte d'offensive sécuritaire renforcée contre l'ELN dans la région.",
+      "en": "A vehicle-borne explosive device detonated in front of the police station in Los Patios, part of the Cúcuta metropolitan area, killing one civilian and injuring around ten people, including two officers, and damaging the police facility, according to El Espectador. President Abelardo De la Espriella convened a security council in response; no group had been formally confirmed as responsible in initial reports, which noted the attack came amid an intensified security offensive against the ELN in the region.",
+      "es": "Un artefacto explosivo colocado en un vehículo detonó frente a la estación de policía de Los Patios, en el área metropolitana de Cúcuta, matando a un civil y dejando cerca de diez heridos, entre ellos dos agentes, además de daños en las instalaciones policiales, según El Espectador. El presidente Abelardo De la Espriella convocó un consejo de seguridad tras el atentado; ningún grupo había sido confirmado formalmente como responsable en los primeros reportes, que señalaron que el ataque se produjo en medio de una ofensiva de seguridad reforzada contra el ELN en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "La voiture piégée explose devant le commissariat de Los Patios, selon El Espectador et El Tiempo.",
+          "en": "The car bomb explodes outside the Los Patios police station, according to El Espectador and El Tiempo.",
+          "es": "El carro bomba estalla frente a la estación de policía de Los Patios, según El Espectador y El Tiempo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
