@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Reuters / Arab News",
+    "week": "2026-W36",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Une frappe américaine sur un mariage à Kuhestak, dans le comté de Sirik (province d'Hormozgan), fait 4 morts et plus de 60 blessés ; une analyse d'images vérifiées par Reuters indique qu'il s'agit probablement d'un tir direct d'une munition américaine. Les Gardiens de la révolution répliquent en tirant des missiles et des drones sur des installations militaires américaines en Jordanie et au Koweït.",
+          "en": "A US strike on a wedding in Kuhestak, Sirik County (Hormozgan province), kills 4 and injures more than 60; an analysis of images verified by Reuters indicates it was likely a direct hit by a US munition. Iran's Revolutionary Guard retaliates by firing missiles and drones at US military installations in Jordan and Kuwait.",
+          "es": "Un ataque estadounidense contra una boda en Kuhestak, condado de Sirik (provincia de Hormozgán), deja 4 muertos y más de 60 heridos; un análisis de imágenes verificadas por Reuters indica que probablemente fue un impacto directo de una munición estadounidense. La Guardia Revolucionaria iraní responde disparando misiles y drones contra instalaciones militares estadounidenses en Jordania y Kuwait."
         },
         "active": true
       }
@@ -829,5 +842,753 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      130.5581,
+      30.3855
+    ],
+    "id": "japon-yakushima-pluies",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌧️",
+    "source": "The Japan Times / Agence météorologique du Japon",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Yakushima (district d'Onoaida), préfecture de Kagoshima, Japon",
+      "en": "Yakushima (Onoaida district), Kagoshima Prefecture, Japan",
+      "es": "Yakushima (distrito de Onoaida), prefectura de Kagoshima, Japón"
+    },
+    "title": {
+      "fr": "Alerte maximale aux glissements de terrain sur l'île de Yakushima après des pluies record",
+      "en": "Highest-level landslide warning issued on Yakushima island after record rainfall",
+      "es": "Alerta máxima por deslizamientos en la isla de Yakushima tras lluvias récord"
+    },
+    "summary": {
+      "fr": "L'Agence météorologique du Japon a émis samedi 5 septembre son alerte de niveau 5 (la plus élevée) pour l'île de Yakushima, dans la préfecture de Kagoshima, après des pluies exceptionnelles liées au typhon Krovan et à une dépression tropicale. Dans le district d'Onoaida, 490,5 mm de pluie sont tombés en 24 heures, un record pour la zone. La Première ministre Sanae Takaichi a appelé les habitants à se mettre immédiatement en sécurité ; le gouvernement préfectoral a déclenché la loi sur les secours en cas de catastrophe.",
+      "en": "Japan's Meteorological Agency issued its highest-level (5) landslide warning on Saturday, September 5, for the island of Yakushima in Kagoshima Prefecture, after exceptional rainfall linked to Typhoon Krovan and a tropical depression. In the Onoaida district, 490.5 mm of rain fell in 24 hours, a record for the area. Prime Minister Sanae Takaichi urged residents to take immediate action to protect their lives; the prefectural government applied the disaster relief law.",
+      "es": "La Agencia Meteorológica de Japón emitió el sábado 5 de septiembre su alerta de nivel 5 (la más alta) por deslizamientos para la isla de Yakushima, en la prefectura de Kagoshima, tras lluvias excepcionales vinculadas al tifón Krovan y a una depresión tropical. En el distrito de Onoaida cayeron 490,5 mm de lluvia en 24 horas, un récord para la zona. La primera ministra Sanae Takaichi pidió a los residentes ponerse a salvo de inmediato; el gobierno prefectural aplicó la ley de ayuda en catástrofes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "L'alerte de niveau 5 est émise à 5h10 du matin puis abaissée au niveau 4 à 11h30, l'agence météorologique appelant néanmoins à rester vigilant face au risque de glissements de terrain.",
+          "en": "The level-5 warning is issued at 5:10 a.m. and lowered to level 4 at 11:30 a.m., with the weather agency still urging vigilance over landslide risk.",
+          "es": "La alerta de nivel 5 se emite a las 5:10 de la mañana y se rebaja a nivel 4 a las 11:30, aunque la agencia meteorológica sigue pidiendo vigilancia ante el riesgo de deslizamientos."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      4.5167,
+      9.8833
+    ],
+    "id": "nigeria-dekera-enlevements",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠️",
+    "source": "Al Jazeera / okayafrica",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Dekera, zone de gouvernement local de Borgu, État du Niger, Nigeria",
+      "en": "Dekera, Borgu Local Government Area, Niger State, Nigeria",
+      "es": "Dekera, área de gobierno local de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Deux semaines après l'attaque de Dekera, les familles de quelque 600 personnes enlevées restent sans nouvelles",
+      "en": "Two weeks after the Dekera attack, families of roughly 600 abducted people still await news",
+      "es": "Dos semanas después del ataque en Dekera, familias de unas 600 personas secuestradas siguen sin noticias"
+    },
+    "summary": {
+      "fr": "Le 22 août, des hommes armés ont attaqué la mosquée de Kpenya ainsi que les villages de Dekera et Gidan-Zana, dans la zone de Borgu (État du Niger), tuant au moins 40 personnes et enlevant environ 600 autres, en majorité des femmes, des enfants et des personnes âgées, selon Al Jazeera et la presse nigériane. Deux semaines plus tard, les familles disent n'avoir reçu aucun contact des ravisseurs ni constaté d'avancée concrète des secours, malgré l'ordre donné par le président Bola Tinubu aux forces de sécurité de libérer les otages.",
+      "en": "On August 22, armed men attacked the Kpenya mosque and the villages of Dekera and Gidan-Zana in Borgu Local Government Area, Niger State, killing at least 40 people and abducting around 600 others — mostly women, children and older people — according to Al Jazeera and Nigerian media. Two weeks later, families say they have received no contact from the kidnappers and seen little concrete government action, despite President Bola Tinubu ordering security agencies to rescue the hostages.",
+      "es": "El 22 de agosto, hombres armados atacaron la mezquita de Kpenya y las localidades de Dekera y Gidan-Zana, en el área de Borgu (estado de Níger), matando al menos a 40 personas y secuestrando a unas 600, en su mayoría mujeres, niños y ancianos, según Al Jazeera y medios nigerianos. Dos semanas después, las familias dicen no haber recibido contacto de los secuestradores ni ver avances concretos, pese a que el presidente Bola Tinubu ordenó a las fuerzas de seguridad rescatar a los rehenes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Attaque armée sur Dekera, Gidan-Zana et la mosquée de Kpenya : au moins 40 morts et environ 600 personnes enlevées.",
+          "en": "Armed attack on Dekera, Gidan-Zana and the Kpenya mosque: at least 40 killed and around 600 people abducted.",
+          "es": "Ataque armado en Dekera, Gidan-Zana y la mezquita de Kpenya: al menos 40 muertos y unas 600 personas secuestradas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Deux semaines après les faits, les familles n'ont toujours aucune nouvelle des otages ni des ravisseurs, selon la presse locale.",
+          "en": "Two weeks on, families still have no news of the hostages or the kidnappers, according to local media.",
+          "es": "Dos semanas después, las familias siguen sin noticias de los rehenes ni de los secuestradores, según medios locales."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "id": "bresil-liquidation-master",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Correio Braziliense / Rio Times",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Brasília, Brésil (siège de la Banque centrale)",
+      "en": "Brasília, Brazil (Central Bank headquarters)",
+      "es": "Brasilia, Brasil (sede del Banco Central)"
+    },
+    "title": {
+      "fr": "La Banque centrale du Brésil liquide deux sociétés liées à l'effondrement de Banco Master",
+      "en": "Brazil's Central Bank liquidates two firms tied to the Banco Master collapse",
+      "es": "El Banco Central de Brasil liquida dos firmas ligadas al colapso de Banco Master"
+    },
+    "summary": {
+      "fr": "La Banque centrale du Brésil a décrété le 3 septembre la liquidation des sociétés de courtage Trustee et Banvox, contrôlées par Maurício Quadrado, ancien associé de Daniel Vorcaro, fondateur de Banco Master, selon Correio Braziliense et le Rio Times. Les régulateurs les accusent d'avoir enfreint gravement les règles boursières brésiliennes ; les actifs personnels de leurs dirigeants ont été gelés. Les deux structures représentent ensemble moins de 1 % du secteur brésilien de la gestion d'actifs.",
+      "en": "Brazil's Central Bank ordered the liquidation on September 3 of securities firms Trustee and Banvox, controlled by Maurício Quadrado, a former business partner of Banco Master founder Daniel Vorcaro, according to Correio Braziliense and the Rio Times. Regulators say the firms seriously broke Brazil's securities rules; the personal assets of their controllers were frozen. Together the two firms account for less than 1% of Brazil's asset-management industry.",
+      "es": "El Banco Central de Brasil decretó el 3 de septiembre la liquidación de las corretoras Trustee y Banvox, controladas por Maurício Quadrado, antiguo socio de Daniel Vorcaro, fundador de Banco Master, según Correio Braziliense y Rio Times. Los reguladores las acusan de infringir gravemente las normas bursátiles brasileñas; se congelaron los activos personales de sus responsables. Ambas firmas representan en conjunto menos del 1% del sector brasileño de gestión de activos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale ordonne la liquidation de Trustee et Banvox et gèle les actifs de leurs dirigeants.",
+          "en": "The Central Bank orders the liquidation of Trustee and Banvox and freezes their controllers' assets.",
+          "es": "El Banco Central ordena la liquidación de Trustee y Banvox y congela los activos de sus responsables."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      30.7233,
+      46.4825
+    ],
+    "id": "ukraine-odessa-frappe-septembre",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Post / Meduza / RBC-Ukraine",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Odessa, Ukraine",
+      "en": "Odesa, Ukraine",
+      "es": "Odesa, Ucrania"
+    },
+    "title": {
+      "fr": "Une nouvelle frappe russe sur Odessa fait un mort et plusieurs blessés",
+      "en": "New Russian strike on Odesa kills one and injures several",
+      "es": "Un nuevo ataque ruso contra Odesa deja un muerto y varios heridos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 3 au 4 septembre, une frappe russe a touché un immeuble de neuf étages à Odessa, détruisant des appartements et endommageant des bâtiments voisins, selon le chef de l'administration militaire régionale Serhii Lysak et plusieurs médias (Kyiv Post, Meduza, RBC-Ukraine). Le bilan fait état d'au moins un mort et de trois à cinq blessés ; des drones ont également touché des habitations privées. Des artificiers ont retrouvé des fragments d'un missile porteur de munitions à sous-munitions dans un quartier résidentiel.",
+      "en": "Overnight between September 3 and 4, a Russian strike hit a nine-story building in Odesa, destroying apartments and damaging neighboring buildings, according to regional military administration head Serhii Lysak and several outlets (Kyiv Post, Meduza, RBC-Ukraine). At least one person was killed and three to five injured; drones also struck private homes. Bomb disposal experts found fragments of a cluster-munition missile in a residential area.",
+      "es": "En la noche del 3 al 4 de septiembre, un ataque ruso alcanzó un edificio de nueve pisos en Odesa, destruyendo apartamentos y dañando edificios vecinos, según el jefe de la administración militar regional, Serhii Lysak, y varios medios (Kyiv Post, Meduza, RBC-Ucrania). El balance es de al menos un muerto y entre tres y cinco heridos; drones también alcanzaron viviendas privadas. Artificieros hallaron fragmentos de un misil con municiones de racimo en una zona residencial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Frappe russe sur un immeuble résidentiel d'Odessa : au moins un mort et plusieurs blessés.",
+          "en": "Russian strike on a residential building in Odesa: at least one dead and several injured.",
+          "es": "Ataque ruso contra un edificio residencial de Odesa: al menos un muerto y varios heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "coords": [
+      -79.3832,
+      43.6532
+    ],
+    "id": "canada-toronto-orage",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌩️",
+    "source": "CBC News / CTV News / Al Jazeera",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Toronto, Ontario, Canada",
+      "en": "Toronto, Ontario, Canada",
+      "es": "Toronto, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Un orage qualifié de « centennal » inonde Toronto et prive 65 000 foyers d'électricité",
+      "en": "A '100-year storm' floods Toronto and cuts power to 65,000 homes",
+      "es": "Una tormenta \"centenaria\" inunda Toronto y deja sin electricidad a 65.000 hogares"
+    },
+    "summary": {
+      "fr": "De violents orages accompagnés de grêle et de vents forts se sont abattus le 2 septembre sur le Grand Toronto, provoquant des inondations, la fermeture de tronçons du Don Valley Parkway et jusqu'à 65 000 coupures de courant, selon CBC News, CTV News et Al Jazeera. Le directeur municipal Paul Johnson a qualifié l'épisode de « tempête centennale » ; certains secteurs ont reçu jusqu'à 110 mm de pluie. Les urgences de l'hôpital Michael Garron ont été perturbées par des infiltrations d'eau et plusieurs personnes ont dû être secourues de véhicules ou d'ascenseurs inondés.",
+      "en": "Violent thunderstorms with hail and strong winds hit the Greater Toronto Area on September 2, causing flooding, closing sections of the Don Valley Parkway and cutting power to as many as 65,000 homes, according to CBC News, CTV News and Al Jazeera. City manager Paul Johnson called it a '100-year storm'; some areas received up to 110 mm of rain. The emergency department at Michael Garron Hospital was disrupted by water infiltration, and rescuers pulled several people from flooded vehicles and elevators.",
+      "es": "Violentas tormentas con granizo y vientos fuertes azotaron el área metropolitana de Toronto el 2 de septiembre, provocando inundaciones, el cierre de tramos del Don Valley Parkway y hasta 65.000 cortes de electricidad, según CBC News, CTV News y Al Jazeera. El gerente municipal Paul Johnson calificó el episodio de \"tormenta centenaria\"; algunas zonas recibieron hasta 110 mm de lluvia. Las urgencias del hospital Michael Garron se vieron afectadas por filtraciones de agua y varias personas debieron ser rescatadas de vehículos y ascensores inundados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "De violents orages frappent le Grand Toronto, causant inondations, coupures de courant et plusieurs opérations de sauvetage.",
+          "en": "Violent storms hit the Greater Toronto Area, causing flooding, power outages and several rescue operations.",
+          "es": "Violentas tormentas azotan el área de Toronto, causando inundaciones, cortes de electricidad y varias operaciones de rescate."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      116.8529,
+      -0.9481
+    ],
+    "id": "indonesie-feux-brume",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ABC News (Australie) / Al Jazeera / Mongabay",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Bornéo et Sumatra, Indonésie (près de la nouvelle capitale Nusantara)",
+      "en": "Borneo and Sumatra, Indonesia (near the new capital Nusantara)",
+      "es": "Borneo y Sumatra, Indonesia (cerca de la nueva capital Nusantara)"
+    },
+    "title": {
+      "fr": "Les feux de forêt s'étendent en Indonésie, la brume touche plusieurs pays voisins",
+      "en": "Wildfires spread across Indonesia as haze reaches several neighboring countries",
+      "es": "Los incendios forestales se extienden en Indonesia y la bruma llega a varios países vecinos"
+    },
+    "summary": {
+      "fr": "Plus de 200 000 hectares ont brûlé depuis janvier à Bornéo et Sumatra, et les feux se rapprochent désormais de Nusantara, la nouvelle capitale en construction dans l'est de Bornéo, selon l'agence indonésienne de gestion des catastrophes citée par ABC News (Australie), Al Jazeera et Mongabay. Les autorités du projet Nusantara ont demandé des opérations d'ensemencement des nuages et de largage d'eau. La brume s'est propagée jusqu'en Malaisie, à Singapour, au Brunei et aux Philippines, dégradant fortement la qualité de l'air dans la région.",
+      "en": "More than 200,000 hectares have burned since January across Borneo and Sumatra, and fires are now approaching Nusantara, Indonesia's new capital under construction in East Kalimantan, according to Indonesia's disaster agency as cited by Australia's ABC News, Al Jazeera and Mongabay. Nusantara project authorities have requested cloud-seeding and water-bombing operations. The resulting haze has spread to Malaysia, Singapore, Brunei and the Philippines, sharply worsening regional air quality.",
+      "es": "Más de 200.000 hectáreas han ardido desde enero en Borneo y Sumatra, y los incendios se acercan ahora a Nusantara, la nueva capital en construcción en Kalimantan Oriental, según la agencia indonesia de gestión de desastres citada por ABC News (Australia), Al Jazeera y Mongabay. Las autoridades del proyecto Nusantara han pedido operaciones de siembra de nubes y descargas de agua. La bruma resultante se ha extendido a Malasia, Singapur, Brunéi y Filipinas, empeorando fuertemente la calidad del aire en la región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Les autorités du chantier de Nusantara demandent des opérations de largage d'eau face à la progression des feux.",
+          "en": "Nusantara project authorities request water-bombing operations as fires advance.",
+          "es": "Las autoridades del proyecto Nusantara piden operaciones de descarga de agua ante el avance de los incendios."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      14.2681,
+      40.8518
+    ],
+    "id": "italie-canicule-ecoles",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "The Local Italy / Wanted in Rome",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Sud de l'Italie (Naples et régions méridionales)",
+      "en": "Southern Italy (Naples and southern regions)",
+      "es": "Sur de Italia (Nápoles y regiones meridionales)"
+    },
+    "title": {
+      "fr": "Une sixième vague de chaleur relance le débat sur la fermeture des écoles dans le sud de l'Italie",
+      "en": "A sixth heatwave revives calls to keep schools closed in southern Italy",
+      "es": "Una sexta ola de calor reaviva el debate sobre el cierre de escuelas en el sur de Italia"
+    },
+    "summary": {
+      "fr": "Alors qu'une sixième vague de chaleur de l'année touche l'Italie à la rentrée scolaire, le groupe de médecine environnementale SIMA a demandé que les établissements scolaires du sud du pays restent fermés jusqu'à l'équinoxe d'automne, le 21 septembre, selon The Local Italy et Wanted in Rome. Seuls 11 % des écoles italiennes disposent de la climatisation, principalement dans les bureaux administratifs et non dans les salles de classe, qui dépendent surtout de ventilateurs.",
+      "en": "As the sixth heatwave of the year hits Italy at the start of the school term, the environmental medicine group SIMA has called for schools in the south of the country to stay closed until the autumn equinox on September 21, according to The Local Italy and Wanted in Rome. Only 11% of Italian schools have air conditioning, mainly in administrative offices rather than classrooms, which mostly rely on fans.",
+      "es": "Mientras una sexta ola de calor del año golpea Italia al inicio del curso escolar, el grupo de medicina ambiental SIMA ha pedido que los centros escolares del sur del país permanezcan cerrados hasta el equinoccio de otoño, el 21 de septiembre, según The Local Italy y Wanted in Rome. Solo el 11% de las escuelas italianas tiene aire acondicionado, principalmente en oficinas administrativas y no en las aulas, que dependen sobre todo de ventiladores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Le SIMA appelle à maintenir les écoles du sud fermées jusqu'au 21 septembre face à la sixième canicule de l'année.",
+          "en": "SIMA calls for schools in the south to stay closed until September 21 amid the year's sixth heatwave.",
+          "es": "SIMA pide mantener cerradas las escuelas del sur hasta el 21 de septiembre ante la sexta ola de calor del año."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -70.6675,
+      41.9584
+    ],
+    "id": "usa-clancy-proces-nul",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "NPR / CNN / ABC News",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Tribunal supérieur du comté de Plymouth, Massachusetts, États-Unis",
+      "en": "Plymouth County Superior Court, Massachusetts, United States",
+      "es": "Tribunal Superior del condado de Plymouth, Massachusetts, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le procès de Lindsay Clancy, accusée d'avoir tué ses trois enfants, se solde par une annulation",
+      "en": "Trial of Lindsay Clancy, accused of killing her three children, ends in a mistrial",
+      "es": "El juicio a Lindsay Clancy, acusada de matar a sus tres hijos, termina en juicio nulo"
+    },
+    "summary": {
+      "fr": "Le juge du tribunal du comté de Plymouth a déclaré le 4 septembre l'annulation du procès de Lindsay Clancy, ancienne infirmière de Duxbury (Massachusetts) accusée d'avoir tué ses trois enfants (Cora, 5 ans, Dawson, 3 ans, et Callan, nourrisson) en janvier 2023, après que le jury a annoncé ne pouvoir parvenir à un verdict unanime, selon NPR, CNN et ABC News. Un seul juré, sur les douze, refusait de rejoindre les autres après environ 38 heures de délibération sur six jours. La Cour judiciaire suprême du Massachusetts avait rejeté vendredi la demande d'appel d'urgence de la défense. L'avocat de Mme Clancy a indiqué qu'il demanderait, en cas de nouveau procès, la mise sous séquestre du jury.",
+      "en": "The judge at Plymouth County Superior Court declared a mistrial on September 4 in the case of Lindsay Clancy, a former nurse from Duxbury, Massachusetts, accused of killing her three children (5-year-old Cora, 3-year-old Dawson and infant son Callan) in January 2023, after the jury said it could not reach a unanimous verdict, according to NPR, CNN and ABC News. One of the twelve jurors refused to agree with the other eleven after about 38 hours of deliberation over six days. The Massachusetts Supreme Judicial Court had denied the defense's emergency appeal on Friday. Clancy's attorney said he would seek to have the jury sequestered if there is a retrial.",
+      "es": "El juez del Tribunal Superior del condado de Plymouth declaró el 4 de septiembre el juicio nulo en el caso de Lindsay Clancy, exenfermera de Duxbury (Massachusetts) acusada de matar a sus tres hijos (Cora, de 5 años; Dawson, de 3; y el bebé Callan) en enero de 2023, después de que el jurado dijera no poder alcanzar un veredicto unánime, según NPR, CNN y ABC News. Uno de los doce jurados se negó a coincidir con los otros once tras unas 38 horas de deliberación en seis días. La Corte Judicial Suprema de Massachusetts había rechazado el viernes la apelación de emergencia de la defensa. El abogado de Clancy dijo que pedirá el aislamiento del jurado en caso de un nuevo juicio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Le juge déclare l'annulation du procès après un jury dans l'impasse.",
+          "en": "The judge declares a mistrial after a deadlocked jury.",
+          "es": "El juez declara el juicio nulo tras un jurado estancado."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      85.322,
+      28.15
+    ],
+    "id": "nepal-tibet-inde-inondations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / autorités népalaises et chinoises",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "District de Rasuwa, Népal, et comté de Gyirong, région autonome du Tibet, Chine (répercussions jusqu'en Uttar Pradesh, Inde)",
+      "en": "Rasuwa District, Nepal, and Gyirong County, Tibet Autonomous Region, China (with effects reaching Uttar Pradesh, India)",
+      "es": "Distrito de Rasuwa, Nepal, y condado de Gyirong, región autónoma del Tíbet, China (con efectos hasta Uttar Pradesh, India)"
+    },
+    "title": {
+      "fr": "L'effondrement d'un glacier à la frontière Népal-Tibet a fait plus de 680 morts et des milliers de disparus",
+      "en": "Glacier collapse on the Nepal-Tibet border has killed more than 680 and left thousands missing",
+      "es": "El colapso de un glaciar en la frontera Nepal-Tíbet deja más de 680 muertos y miles de desaparecidos"
+    },
+    "summary": {
+      "fr": "Le 26 août, l'effondrement partiel d'un glacier dans l'Himalaya a provoqué une crue soudaine dévastatrice le long de la rivière Trishuli, à la frontière entre le Népal et la région chinoise du Tibet, détruisant le poste-frontière de Gyirong et des dizaines de localités, selon Al Jazeera. Au Népal, les autorités font état d'au moins 673 corps retrouvés et de 2 496 personnes toujours portées disparues, dont 517 étrangers ; côté chinois, au moins 7 morts et 554 disparus sont recensés au Tibet. Des corps ont été repêchés jusque dans les districts de Kushinagar et Maharajganj, en Uttar Pradesh (Inde), à plus de 240 km en aval. Plus de 17 500 personnes ont par ailleurs été évacuées par précaution dans l'Uttar Pradesh.",
+      "en": "On August 26, the partial collapse of a Himalayan glacier triggered a devastating flash flood along the Trishuli River on the Nepal-Tibet border, destroying the Gyirong border checkpoint and dozens of settlements, according to Al Jazeera. In Nepal, authorities report at least 673 bodies recovered and 2,496 people still missing, including 517 foreigners; on the Chinese side, at least 7 deaths and 554 missing have been recorded in Tibet. Bodies were recovered as far as Kushinagar and Maharajganj districts in Uttar Pradesh, India, more than 240 km downstream. More than 17,500 people were also evacuated as a precaution in Uttar Pradesh.",
+      "es": "El 26 de agosto, el colapso parcial de un glaciar del Himalaya provocó una devastadora crecida repentina a lo largo del río Trishuli, en la frontera entre Nepal y la región china del Tíbet, destruyendo el puesto fronterizo de Gyirong y decenas de poblaciones, según Al Jazeera. En Nepal, las autoridades informan de al menos 673 cuerpos recuperados y 2.496 personas aún desaparecidas, entre ellas 517 extranjeros; en el lado chino se han registrado al menos 7 muertos y 554 desaparecidos en el Tíbet. Se recuperaron cuerpos hasta en los distritos de Kushinagar y Maharajganj, en Uttar Pradesh (India), a más de 240 km río abajo. Más de 17.500 personas fueron además evacuadas por precaución en Uttar Pradesh."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Un glacier s'effondre dans l'Himalaya, provoquant une crue soudaine qui détruit le poste-frontière de Gyirong et des villages en aval.",
+          "en": "A glacier collapses in the Himalayas, triggering a flash flood that destroys the Gyirong border checkpoint and villages downstream.",
+          "es": "Un glaciar colapsa en el Himalaya, provocando una crecida repentina que destruye el puesto fronterizo de Gyirong y pueblos río abajo."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan népalais atteint 673 morts et 2 496 disparus ; des corps sont retrouvés en Inde, dans l'Uttar Pradesh, à plus de 240 km en aval.",
+          "en": "The Nepalese toll reaches 673 dead and 2,496 missing; bodies are recovered in India's Uttar Pradesh, more than 240 km downstream.",
+          "es": "El balance nepalí llega a 673 muertos y 2.496 desaparecidos; se recuperan cuerpos en Uttar Pradesh (India), a más de 240 km río abajo."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      10.8978,
+      48.3705
+    ],
+    "id": "allemagne-augsbourg-explosion",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Euronews / police bavaroise",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Gare d'Augsbourg, Bavière, Allemagne",
+      "en": "Augsburg train station, Bavaria, Germany",
+      "es": "Estación de tren de Augsburgo, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "Une explosion dans un passage souterrain de la gare d'Augsbourg fait deux blessés",
+      "en": "Explosion in an underpass at Augsburg train station injures two people",
+      "es": "Una explosión en un paso subterráneo de la estación de Augsburgo deja dos heridos"
+    },
+    "summary": {
+      "fr": "Un objet non identifié a explosé vers 3h15 du matin le 2 septembre dans un passage souterrain proche de la gare d'Augsbourg, en Bavière, blessant légèrement une jeune femme de 17 ans et un jeune homme de 18 ans, tous deux de nationalité ukrainienne, selon la police citée par Euronews. Un second objet suspect, découvert peu après dans le hall principal, a entraîné la fermeture temporaire de la gare ; il a finalement été jugé inoffensif et la gare a rouvert vers 10 heures.",
+      "en": "An unidentified object exploded around 3:15 a.m. on September 2 in an underpass near Augsburg train station in Bavaria, lightly injuring a 17-year-old girl and an 18-year-old man, both Ukrainian nationals, according to police cited by Euronews. A second suspicious object found shortly after in the main hall led to the station's temporary closure; it was later deemed harmless and the station reopened around 10 a.m.",
+      "es": "Un objeto no identificado estalló hacia las 3:15 de la madrugada del 2 de septiembre en un paso subterráneo cerca de la estación de tren de Augsburgo, en Baviera, hiriendo levemente a una joven de 17 años y a un joven de 18, ambos de nacionalidad ucraniana, según la policía citada por Euronews. Un segundo objeto sospechoso, hallado poco después en el vestíbulo principal, provocó el cierre temporal de la estación; finalmente se consideró inofensivo y la estación reabrió hacia las 10 de la mañana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Explosion dans un passage souterrain de la gare d'Augsbourg : deux blessés légers, la gare brièvement fermée par précaution.",
+          "en": "Explosion in an underpass at Augsburg station: two lightly injured, station briefly closed as a precaution.",
+          "es": "Explosión en un paso subterráneo de la estación de Augsburgo: dos heridos leves, estación cerrada brevemente por precaución."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      3.8767,
+      43.6108
+    ],
+    "id": "france-canicule-septembre",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Météo-France / France 24 / Connexion France",
+    "week": "2026-W36",
+    "priority": 1,
+    "place": {
+      "fr": "Sud-ouest de la France (Hérault, Gard)",
+      "en": "Southwestern France (Hérault, Gard)",
+      "es": "Suroeste de Francia (Hérault, Gard)"
+    },
+    "title": {
+      "fr": "Une sixième vague de chaleur de l'année amène jusqu'à 40°C dans le sud-ouest de la France",
+      "en": "The year's sixth heatwave brings temperatures up to 40°C to southwestern France",
+      "es": "La sexta ola de calor del año lleva hasta 40°C al suroeste de Francia"
+    },
+    "summary": {
+      "fr": "Des températures pouvant atteindre 40°C sont attendues entre le 4 et le 6 septembre dans le sud-ouest de la France, un niveau proche des records pour un mois de septembre, selon Météo-France citée par France 24 et Connexion France. Les départements de l'Hérault et du Gard ont été placés en vigilance canicule renforcée ; il s'agit du sixième épisode de vigilance canicule de l'année, dans un contexte de sécheresse persistante.",
+      "en": "Temperatures of up to 40°C are expected between September 4 and 6 in southwestern France, close to records for the month of September, according to Météo-France as cited by France 24 and Connexion France. The Hérault and Gard departments were placed under a heightened heatwave alert; this is the sixth heatwave alert of the year, amid persistent drought conditions.",
+      "es": "Se esperan temperaturas de hasta 40°C entre el 4 y el 6 de septiembre en el suroeste de Francia, cerca de los récords para un mes de septiembre, según Météo-France citada por France 24 y Connexion France. Los departamentos de Hérault y Gard fueron puestos en alerta reforzada por ola de calor; se trata del sexto episodio de alerta por calor del año, en un contexto de sequía persistente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "L'Hérault et le Gard sont placés en vigilance canicule renforcée alors que les températures doivent grimper jusqu'à 40°C.",
+          "en": "Hérault and Gard are placed under a heightened heatwave alert as temperatures are set to climb to 40°C.",
+          "es": "Hérault y Gard son puestos en alerta reforzada por calor mientras las temperaturas deben subir hasta los 40°C."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -94.8333,
+      17.8833
+    ],
+    "id": "mexique-veracruz-seisme",
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Servicio Sismológico Nacional / Milenio",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Sayula de Alemán, État de Veracruz, Mexique",
+      "en": "Sayula de Alemán, Veracruz State, Mexico",
+      "es": "Sayula de Alemán, estado de Veracruz, México"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 5,2 secoue le sud du Mexique sans dégâts signalés",
+      "en": "A magnitude 5.2 earthquake shakes southern Mexico with no reported damage",
+      "es": "Un sismo de magnitud 5,2 sacude el sur de México sin daños reportados"
+    },
+    "summary": {
+      "fr": "Une série de secousses, dont la principale de magnitude 5,2, a été enregistrée le 3 septembre près de Sayula de Alemán, dans l'État de Veracruz, selon le Service sismologique national (SSN) cité par le quotidien Milenio. Une activité sismique mineure s'est poursuivie dans la matinée dans le sud du pays, notamment dans le Chiapas voisin, sans dégâts significatifs signalés à ce stade.",
+      "en": "A series of tremors, the largest measuring magnitude 5.2, was recorded on September 3 near Sayula de Alemán in Veracruz State, according to the National Seismological Service (SSN) as reported by the newspaper Milenio. Minor seismic activity continued through the morning in southern Mexico, including in neighboring Chiapas, with no significant damage reported so far.",
+      "es": "Una serie de sismos, el principal de magnitud 5,2, fue registrada el 3 de septiembre cerca de Sayula de Alemán, en el estado de Veracruz, según el Servicio Sismológico Nacional (SSN), citado por el diario Milenio. La actividad sísmica menor continuó por la mañana en el sur del país, incluido el vecino Chiapas, sin daños significativos reportados hasta el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 5,2 est enregistré près de Sayula de Alemán, Veracruz, sans dégâts signalés.",
+          "en": "A magnitude 5.2 earthquake is recorded near Sayula de Alemán, Veracruz, with no reported damage.",
+          "es": "Se registra un sismo de magnitud 5,2 cerca de Sayula de Alemán, Veracruz, sin daños reportados."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -58.3816,
+      -34.6037
+    ],
+    "id": "argentine-malouines-tension",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "⚠️",
+    "source": "Al Jazeera / Foreign Policy",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Buenos Aires, Argentine",
+      "en": "Buenos Aires, Argentina",
+      "es": "Buenos Aires, Argentina"
+    },
+    "title": {
+      "fr": "Milei relance le dossier des Malouines et menace de sanctions les entreprises actives dans la zone",
+      "en": "Milei revives the Falklands dispute and threatens sanctions on firms operating in the area",
+      "es": "Milei reactiva el reclamo por las Malvinas y amenaza con sanciones a empresas activas en la zona"
+    },
+    "summary": {
+      "fr": "Le président argentin Javier Milei a annoncé le 3 septembre, dans une allocution télévisée, vouloir durcir les sanctions contre les entreprises opérant dans les eaux des Malouines sans l'autorisation de Buenos Aires, et évoqué la construction d'une base navale en Terre de Feu, après un infléchissement de la position américaine sur la souveraineté de l'archipel, selon Al Jazeera et Foreign Policy. Le président chilien José Antonio Kast a réaffirmé son soutien à la revendication argentine sur les Malouines, la Géorgie du Sud et les Sandwich du Sud lors d'une rencontre bilatérale à Santiago.",
+      "en": "Argentine President Javier Milei announced in a televised address on September 3 that he would toughen sanctions on companies operating in Falkland Islands waters without Buenos Aires's authorization, and raised the prospect of building a naval base in Tierra del Fuego, after a shift in the US position on the archipelago's sovereignty, according to Al Jazeera and Foreign Policy. Chilean President José Antonio Kast reaffirmed his support for Argentina's sovereignty claim over the Falklands, South Georgia and the South Sandwich Islands during a bilateral meeting in Santiago.",
+      "es": "El presidente argentino Javier Milei anunció el 3 de septiembre, en un discurso televisado, que endurecerá las sanciones contra empresas que operen en aguas de las Malvinas sin autorización de Buenos Aires, y planteó la construcción de una base naval en Tierra del Fuego, tras un giro en la postura de Estados Unidos sobre la soberanía del archipiélago, según Al Jazeera y Foreign Policy. El presidente chileno José Antonio Kast reafirmó su respaldo al reclamo argentino sobre las Malvinas, Georgia del Sur y Sandwich del Sur en un encuentro bilateral en Santiago."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Milei annonce un durcissement des sanctions contre les entreprises actives autour des Malouines et la construction d'une base navale en Terre de Feu.",
+          "en": "Milei announces tougher sanctions on companies active around the Falklands and the construction of a naval base in Tierra del Fuego.",
+          "es": "Milei anuncia un endurecimiento de las sanciones contra empresas activas en torno a las Malvinas y la construcción de una base naval en Tierra del Fuego."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      73.7711,
+      33.9853
+    ],
+    "id": "pakistan-bagh-attaque-dejouee",
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "ISPR (armée pakistanaise)",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Bagh, Cachemire administré par le Pakistan",
+      "en": "Bagh, Pakistan-administered Kashmir",
+      "es": "Bagh, Cachemira administrada por Pakistán"
+    },
+    "title": {
+      "fr": "L'armée pakistanaise déjoue une attaque coordonnée à Bagh, cinq blessés",
+      "en": "Pakistani army thwarts a coordinated attack in Bagh, five injured",
+      "es": "El ejército pakistaní frustra un ataque coordinado en Bagh, cinco heridos"
+    },
+    "summary": {
+      "fr": "Les services de relations publiques inter-services de l'armée pakistanaise (ISPR) ont annoncé le 4 septembre avoir déjoué une attaque « coordonnée » dans la région de Bagh, au Cachemire administré par le Pakistan, faisant état de cinq blessés et de la destruction d'un dépôt de munitions et d'engins explosifs improvisés. L'information provient pour l'instant d'une source militaire officielle unique ; elle n'a pas encore été recoupée par des médias indépendants.",
+      "en": "The Pakistani military's Inter-Services Public Relations (ISPR) announced on September 4 that it had thwarted a 'coordinated' attack in the Bagh area of Pakistan-administered Kashmir, reporting five people injured and the destruction of a cache of ammunition and improvised explosive devices. The information currently comes from a single official military source and has not yet been independently corroborated by other media.",
+      "es": "Los servicios de relaciones públicas interinstitucionales del ejército pakistaní (ISPR) anunciaron el 4 de septiembre haber frustrado un ataque \"coordinado\" en la zona de Bagh, en la Cachemira administrada por Pakistán, con un saldo de cinco heridos y la destrucción de un depósito de municiones y artefactos explosivos improvisados. La información proviene por ahora de una única fuente militar oficial y aún no ha sido corroborada de forma independiente por otros medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "L'ISPR annonce avoir déjoué une attaque coordonnée à Bagh et détruit un dépôt de munitions et d'engins explosifs.",
+          "en": "ISPR announces it thwarted a coordinated attack in Bagh and destroyed a cache of ammunition and explosive devices.",
+          "es": "El ISPR anuncia haber frustrado un ataque coordinado en Bagh y destruido un depósito de municiones y artefactos explosivos."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      28.9784,
+      41.0082
+    ],
+    "id": "turquie-avocats-detention",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Turkish Minute",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Istanbul, Turquie",
+      "en": "Istanbul, Turkey",
+      "es": "Estambul, Turquía"
+    },
+    "title": {
+      "fr": "La Turquie ordonne la détention de 31 avocats soupçonnés d'avoir utilisé des systèmes illégaux d'accès aux données",
+      "en": "Turkey orders the detention of 31 lawyers over alleged use of illegal data-access systems",
+      "es": "Turquía ordena la detención de 31 abogados por el presunto uso de sistemas ilegales de acceso a datos"
+    },
+    "summary": {
+      "fr": "Le parquet turc a émis le 4 septembre des mandats de détention contre 31 avocats accusés d'avoir utilisé des systèmes payants et illégaux d'interrogation de données pour accéder aux informations personnelles de citoyens turcs et les cibler avec de fausses créances, a annoncé le ministre de la Justice Akın Gürlek, cité par Turkish Minute. Des perquisitions ont été menées dans 39 cabinets d'avocats à Istanbul par l'unité de lutte contre la cybercriminalité de la police.",
+      "en": "Turkish prosecutors issued detention warrants on September 4 for 31 lawyers accused of using paid, illegal data-query systems to access Turkish citizens' personal information and target them with false debt claims, Justice Minister Akın Gürlek announced, as reported by Turkish Minute. Police cybercrime units carried out searches at 39 law offices in Istanbul.",
+      "es": "La fiscalía turca emitió el 4 de septiembre órdenes de detención contra 31 abogados acusados de usar sistemas de consulta de datos ilegales y de pago para acceder a información personal de ciudadanos turcos y dirigirles falsas reclamaciones de deuda, anunció el ministro de Justicia, Akın Gürlek, según Turkish Minute. La unidad de cibercrimen de la policía realizó registros en 39 despachos de abogados en Estambul."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Mandats de détention émis contre 31 avocats et perquisitions menées dans 39 cabinets à Istanbul.",
+          "en": "Detention warrants issued for 31 lawyers and searches carried out at 39 offices in Istanbul.",
+          "es": "Se emiten órdenes de detención contra 31 abogados y se realizan registros en 39 despachos en Estambul."
+        },
+        "active": true
+      }
+    ],
+    "related": []
+  },
+  {
+    "coords": [
+      -4.1499,
+      37.1773
+    ],
+    "id": "espagne-vuelta-etape13",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Cyclingnews / ProCyclingStats",
+    "week": "2026-W36",
+    "priority": 2,
+    "place": {
+      "fr": "Loja, province de Grenade, Espagne",
+      "en": "Loja, Granada province, Spain",
+      "es": "Loja, provincia de Granada, España"
+    },
+    "title": {
+      "fr": "Wout van Aert remporte au sprint la 13e étape de la Vuelta, Enric Mas conserve le maillot rouge",
+      "en": "Wout van Aert wins stage 13 of the Vuelta in a sprint, Enric Mas keeps the red jersey",
+      "es": "Wout van Aert gana al sprint la etapa 13 de la Vuelta, Enric Mas conserva el maillot rojo"
+    },
+    "summary": {
+      "fr": "Le Belge Wout van Aert (Visma-Lease a Bike) a remporté le 4 septembre la 13e étape de la Vuelta a España, entre Almuñécar et Loja, en devançant au sprint le Français Valentin Paret-Peintre (Soudal Quick-Step) au sein d'une échappée d'une quarantaine de coureurs, selon Cyclingnews et ProCyclingStats. L'Espagnol Enric Mas conserve le maillot de leader avant une nouvelle arrivée en altitude prévue le lendemain.",
+      "en": "Belgian rider Wout van Aert (Visma-Lease a Bike) won stage 13 of the Vuelta a España on September 4, from Almuñécar to Loja, outsprinting France's Valentin Paret-Peintre (Soudal Quick-Step) out of a roughly 40-rider breakaway, according to Cyclingnews and ProCyclingStats. Spain's Enric Mas retains the leader's red jersey ahead of another summit finish the following day.",
+      "es": "El belga Wout van Aert (Visma-Lease a Bike) ganó el 4 de septiembre la etapa 13 de la Vuelta a España, entre Almuñécar y Loja, superando al sprint al francés Valentin Paret-Peintre (Soudal Quick-Step) dentro de una escapada de unos 40 corredores, según Cyclingnews y ProCyclingStats. El español Enric Mas conserva el maillot rojo de líder antes de otra llegada en alto prevista al día siguiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Wout van Aert s'impose au sprint sur la 13e étape ; Enric Mas garde le maillot rouge.",
+          "en": "Wout van Aert wins the sprint on stage 13; Enric Mas keeps the red jersey.",
+          "es": "Wout van Aert gana al sprint en la etapa 13; Enric Mas conserva el maillot rojo."
+        },
+        "active": true
+      }
+    ],
+    "related": []
   }
 ]
