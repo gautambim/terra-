@@ -829,5 +829,1018 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-grand-canyon-inondation",
+    "coords": [
+      -112.1401,
+      36.0544
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Associated Press / National Park Service",
+    "place": {
+      "fr": "Parc national du Grand Canyon (rive sud), Arizona, États-Unis",
+      "en": "Grand Canyon National Park (South Rim), Arizona, United States",
+      "es": "Parque Nacional del Gran Cañón (borde sur), Arizona, Estados Unidos"
+    },
+    "title": {
+      "fr": "Des crues éclair endommagent gravement le pipeline du Grand Canyon, deux morts",
+      "en": "Flash floods severely damage Grand Canyon's water pipeline, killing two",
+      "es": "Inundaciones repentinas dañan gravemente el oleoducto del Gran Cañón y dejan dos muertos"
+    },
+    "summary": {
+      "fr": "Des crues éclair survenues le 29 août ont endommagé environ 40 % du pipeline Transcanyon qui alimente le parc en eau, selon les autorités du Service des parcs nationaux. Au moins deux personnes sont mortes et une autre reste portée disparue ; environ 80 personnes ont été secourues. Le parc a instauré son niveau maximal de restrictions d'eau et fermé plusieurs secteurs.",
+      "en": "Flash floods on August 29 damaged roughly 40% of the Transcanyon Pipeline that supplies the park's water, according to National Park Service officials. At least two people died and one remains missing; about 80 people were rescued. The park has imposed its highest level of water restrictions and closed several areas.",
+      "es": "Las inundaciones repentinas del 29 de agosto dañaron cerca del 40 % de la tubería Transcanyon que abastece de agua al parque, según autoridades del Servicio de Parques Nacionales. Al menos dos personas murieron y una permanece desaparecida; unas 80 personas fueron rescatadas. El parque impuso su nivel máximo de restricciones de agua y cerró varias zonas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026 – 01/09/2026",
+          "en": "08/29/2026 – 09/01/2026",
+          "es": "29/08/2026 – 01/09/2026"
+        },
+        "d": {
+          "fr": "Le Service des parcs nationaux annonce des dégâts majeurs sur le pipeline Transcanyon après des crues éclair, avec deux morts et une personne disparue, selon l'agence Associated Press.",
+          "en": "The National Park Service reports major damage to the Transcanyon Pipeline after flash floods, with two dead and one person missing, according to the Associated Press.",
+          "es": "El Servicio de Parques Nacionales informa de daños importantes en la tubería Transcanyon tras las inundaciones repentinas, con dos muertos y una persona desaparecida, según la agencia Associated Press."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "us-cour-supreme-ballroom",
+    "coords": [
+      -77.0365,
+      38.8977
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Post / NPR",
+    "place": {
+      "fr": "Maison-Blanche, Washington D.C., États-Unis",
+      "en": "White House, Washington D.C., United States",
+      "es": "Casa Blanca, Washington D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême autorise la poursuite du chantier de la salle de bal de 400 millions de dollars à la Maison-Blanche",
+      "en": "Supreme Court allows $400 million White House ballroom construction to proceed",
+      "es": "La Corte Suprema permite que continúe la construcción del salón de baile de 400 millones de dólares en la Casa Blanca"
+    },
+    "summary": {
+      "fr": "Par une décision non signée de 5 voix contre 4 rendue le 31 août, la Cour suprême des États-Unis a autorisé la poursuite de la construction d'une salle de bal de 400 millions de dollars sur le site de l'ancienne aile est, jugeant que l'association plaignante n'avait probablement pas qualité pour agir. Le président de la Cour, John Roberts, s'est dissocié de la majorité avec les trois juges progressistes.",
+      "en": "In an unsigned 5-4 ruling issued August 31, the U.S. Supreme Court allowed construction of a $400 million ballroom on the former East Wing site to continue, holding that the plaintiff organization likely lacked standing to sue. Chief Justice John Roberts dissented, joined by the three liberal justices.",
+      "es": "En un fallo no firmado de 5 votos contra 4 emitido el 31 de agosto, la Corte Suprema de Estados Unidos permitió que continuara la construcción de un salón de baile de 400 millones de dólares en el antiguo emplazamiento del Ala Este, al considerar que la organización demandante probablemente no tenía legitimidad para litigar. El presidente de la Corte, John Roberts, se opuso a la mayoría junto a los tres jueces progresistas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême rend une décision 5 contre 4 en faveur de la poursuite du chantier, selon le Washington Post et NPR.",
+          "en": "The Supreme Court issues a 5-4 ruling in favor of continuing construction, according to the Washington Post and NPR.",
+          "es": "La Corte Suprema emite un fallo de 5 contra 4 a favor de continuar la construcción, según el Washington Post y NPR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "golfe-iran-usa-escalade",
+    "coords": [
+      50.3167,
+      29.2333
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "CENTCOM / Reuters / Al Jazeera",
+    "place": {
+      "fr": "Golfe Persique et détroit d'Ormuz — île de Kharg et Jask, Iran",
+      "en": "Persian Gulf and Strait of Hormuz — Kharg Island and Jask, Iran",
+      "es": "Golfo Pérsico y estrecho de Ormuz — isla de Kharg y Jask, Irán"
+    },
+    "title": {
+      "fr": "Nouvelle escalade militaire entre les États-Unis et l'Iran dans le Golfe",
+      "en": "New military escalation between the United States and Iran in the Gulf",
+      "es": "Nueva escalada militar entre Estados Unidos e Irán en el Golfo"
+    },
+    "summary": {
+      "fr": "Le 5 septembre, les Gardiens de la révolution iraniens ont tiré des missiles balistiques sur un porte-avions et un destroyer américains ; selon le commandement central américain (CENTCOM), aucun des deux navires n'a été touché. En représailles, les forces américaines ont frappé trois pétroliers iraniens, en détruisant un et en désactivant deux autres au large de l'île de Kharg et de Jask, selon CENTCOM. Téhéran affirme de son côté, via ses médias d'État, que les navires américains ont été endommagés et contraints de se replier — une version non confirmée de manière indépendante.",
+      "en": "On September 5, Iran's Revolutionary Guard Corps fired ballistic missiles at a U.S. aircraft carrier and a destroyer; according to U.S. Central Command (CENTCOM), neither vessel was hit. In retaliation, U.S. forces struck three Iranian oil tankers, destroying one and disabling two others off Kharg Island and Jask, CENTCOM said. Iranian state media claim the U.S. ships were damaged and forced to retreat — a version not independently confirmed.",
+      "es": "El 5 de septiembre, la Guardia Revolucionaria de Irán lanzó misiles balísticos contra un portaaviones y un destructor estadounidenses; según el Mando Central de EE. UU. (CENTCOM), ninguno de los dos buques fue alcanzado. En represalia, las fuerzas estadounidenses atacaron tres petroleros iraníes, destruyendo uno e inutilizando otros dos frente a la isla de Kharg y Jask, según CENTCOM. Los medios estatales iraníes afirman que los buques estadounidenses resultaron dañados y obligados a retirarse, una versión no confirmada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026 — matin",
+          "en": "09/05/2026 — morning",
+          "es": "05/09/2026 — mañana"
+        },
+        "d": {
+          "fr": "L'Iran tire des missiles balistiques sur un porte-avions et un destroyer américains dans le Golfe ; les deux navires évitent les tirs sans dommage, selon CENTCOM.",
+          "en": "Iran fires ballistic missiles at a U.S. aircraft carrier and destroyer in the Gulf; both ships evade the attack without damage, according to CENTCOM.",
+          "es": "Irán dispara misiles balísticos contra un portaaviones y un destructor estadounidenses en el Golfo; ambos buques evaden el ataque sin daños, según CENTCOM."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Les forces américaines frappent trois pétroliers iraniens au large de Kharg Island et de Jask, en détruisant un et en désactivant deux autres, selon le commandant du CENTCOM, l'amiral Brad Cooper.",
+          "en": "U.S. forces strike three Iranian oil tankers off Kharg Island and Jask, destroying one and disabling two others, according to CENTCOM commander Adm. Brad Cooper.",
+          "es": "Las fuerzas estadounidenses atacan tres petroleros iraníes frente a Kharg Island y Jask, destruyendo uno e inutilizando otros dos, según el comandante del CENTCOM, almirante Brad Cooper."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-emissaires-moscou",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "CBS News / CNN / France 24",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Deux émissaires de Donald Trump rencontrent Vladimir Poutine à Moscou pour discuter de la guerre en Ukraine",
+      "en": "Two Trump envoys meet Vladimir Putin in Moscow to discuss the war in Ukraine",
+      "es": "Dos enviados de Donald Trump se reúnen con Vladímir Putin en Moscú para hablar de la guerra en Ucrania"
+    },
+    "summary": {
+      "fr": "Les émissaires américains Steve Witkoff et Jared Kushner ont atterri à Moscou le 5 septembre et se sont entretenus environ trois heures avec le président russe Vladimir Poutine autour de pistes pour mettre fin à la guerre en Ukraine, selon CBS News et CNN. Le conseiller du Kremlin Iouri Ouchakov a qualifié les échanges de « très utiles », sans annoncer de percée. Les émissaires devaient ensuite se rendre à Kiev.",
+      "en": "U.S. envoys Steve Witkoff and Jared Kushner landed in Moscow on September 5 and met for about three hours with Russian President Vladimir Putin to discuss ways to end the war in Ukraine, according to CBS News and CNN. Kremlin aide Yuri Ushakov called the talks \"highly useful\" without announcing a breakthrough. The envoys were then due to travel to Kyiv.",
+      "es": "Los enviados estadounidenses Steve Witkoff y Jared Kushner aterrizaron en Moscú el 5 de septiembre y se reunieron durante unas tres horas con el presidente ruso Vladímir Putin para hablar de posibles vías para poner fin a la guerra en Ucrania, según CBS News y CNN. El asesor del Kremlin Yuri Ushakov calificó las conversaciones de «muy útiles», sin anunciar ningún avance. Está previsto que los enviados viajen después a Kiev."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Steve Witkoff et Jared Kushner rencontrent Vladimir Poutine au Kremlin pendant environ trois heures, selon CBS News.",
+          "en": "Steve Witkoff and Jared Kushner meet Vladimir Putin at the Kremlin for about three hours, according to CBS News.",
+          "es": "Steve Witkoff y Jared Kushner se reúnen con Vladímir Putin en el Kremlin durante unas tres horas, según CBS News."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-frappes-kiev-dnipro"
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-frappes-kiev-dnipro",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / The Moscow Times",
+    "place": {
+      "fr": "Kiev (aéroport de Boryspil) et région de Dnipropetrovsk, Ukraine",
+      "en": "Kyiv (Boryspil Airport) and Dnipropetrovsk region, Ukraine",
+      "es": "Kiev (aeropuerto de Boryspil) y región de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie frappe les aéroports de Kiev et fait plusieurs morts dans la région de Dnipropetrovsk",
+      "en": "Russia strikes Kyiv's airports and kills several people in the Dnipropetrovsk region",
+      "es": "Rusia ataca los aeropuertos de Kiev y causa varios muertos en la región de Dnipropetrovsk"
+    },
+    "summary": {
+      "fr": "La Russie a frappé les aéroports de Kiev, dont celui de Boryspil, le 5 septembre, une attaque que le président Volodymyr Zelensky a présentée comme une réaction à une possible arrivée de la délégation américaine, selon le Moscow Times. La même nuit, des frappes russes sur la région de Dnipropetrovsk ont fait au moins cinq morts et une dizaine de blessés, selon Al Jazeera et des sources ukrainiennes.",
+      "en": "Russia struck Kyiv's airports, including Boryspil, on September 5, an attack President Volodymyr Zelensky described as a response to speculation the U.S. delegation might arrive there, according to the Moscow Times. The same night, Russian strikes on the Dnipropetrovsk region killed at least five people and injured around ten, according to Al Jazeera and Ukrainian sources.",
+      "es": "Rusia atacó los aeropuertos de Kiev, incluido el de Boryspil, el 5 de septiembre, un ataque que el presidente Volodímir Zelenski describió como una reacción ante la posibilidad de que la delegación estadounidense llegara allí, según The Moscow Times. Esa misma noche, ataques rusos en la región de Dnipropetrovsk mataron al menos a cinco personas e hirieron a una decena, según Al Jazeera y fuentes ucranianas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04-05/09/2026",
+          "en": "09/04-05/2026",
+          "es": "04-05/09/2026"
+        },
+        "d": {
+          "fr": "Des frappes russes touchent les aéroports de Kiev et la région de Dnipropetrovsk, faisant au moins cinq morts, selon Al Jazeera.",
+          "en": "Russian strikes hit Kyiv's airports and the Dnipropetrovsk region, killing at least five people, according to Al Jazeera.",
+          "es": "Ataques rusos golpean los aeropuertos de Kiev y la región de Dnipropetrovsk, matando al menos a cinco personas, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-emissaires-moscou"
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-leipzig-drone",
+    "coords": [
+      12.236,
+      51.4239
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛸",
+    "source": "CNN / Al Jazeera / NPR",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Saxe, Allemagne",
+      "en": "Leipzig/Halle Airport, Saxony, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Sajonia, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne accuse la Russie d'une attaque de drones piégés contre l'aéroport de Leipzig",
+      "en": "Germany accuses Russia of a booby-trapped drone attack on Leipzig airport",
+      "es": "Alemania acusa a Rusia de un ataque con drones trampa contra el aeropuerto de Leipzig"
+    },
+    "summary": {
+      "fr": "Début août, un drone chargé d'explosifs avait été découvert près d'un avion cargo ukrainien à l'aéroport de Leipzig/Halle, et un second drone avait heurté un Boeing 757. Le 1er septembre, le gouvernement allemand a formellement attribué cette attaque hybride à la Russie et annoncé la fermeture de la Maison russe à Berlin et du consulat russe de Bonn, selon CNN et Al Jazeera.",
+      "en": "In early August, an explosive-laden drone was found near a Ukrainian cargo plane at Leipzig/Halle Airport, and a second drone struck a Boeing 757. On September 1, the German government formally attributed the hybrid attack to Russia and announced the closure of the Russian House in Berlin and the Russian consulate in Bonn, according to CNN and Al Jazeera.",
+      "es": "A principios de agosto se halló un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle, y un segundo dron chocó contra un Boeing 757. El 1 de septiembre, el gobierno alemán atribuyó formalmente el ataque híbrido a Rusia y anunció el cierre de la Casa Rusa en Berlín y del consulado ruso en Bonn, según CNN y Al Jazeera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement allemand attribue officiellement l'attaque de drones à la Russie et ferme deux représentations russes, selon CNN.",
+          "en": "The German government formally attributes the drone attack to Russia and closes two Russian representations, according to CNN.",
+          "es": "El gobierno alemán atribuye oficialmente el ataque con drones a Rusia y cierra dos representaciones rusas, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-brandebourg-sabotage",
+    "coords": [
+      14.4667,
+      51.8333
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Tagesspiegel / ZDF",
+    "place": {
+      "fr": "Poste électrique de Turnow-Preilack, près de Jänschwalde, Brandebourg, Allemagne",
+      "en": "Turnow-Preilack substation, near Jänschwalde, Brandenburg, Germany",
+      "es": "Subestación de Turnow-Preilack, cerca de Jänschwalde, Brandeburgo, Alemania"
+    },
+    "title": {
+      "fr": "Un attentat à l'explosif visant une infrastructure électrique déjoué dans le Brandebourg",
+      "en": "Explosive attack targeting power infrastructure foiled in Brandenburg",
+      "es": "Frustrado un atentado con explosivos contra una infraestructura eléctrica en Brandeburgo"
+    },
+    "summary": {
+      "fr": "La police a découvert le 1er septembre une dizaine d'engins explosifs artisanaux au poste électrique de Turnow-Preilack, près de la centrale de Jänschwalde, dans le Brandebourg. Selon le ministre régional de l'Intérieur Jan Redmann, les auteurs voulaient provoquer une coupure de courant à grande échelle en tirant des projectiles sur les lignes à haute tension ; une enquête pour terrorisme a été ouverte.",
+      "en": "Police discovered around a dozen homemade explosive devices at the Turnow-Preilack substation near the Jänschwalde power plant in Brandenburg on September 1. According to regional Interior Minister Jan Redmann, the perpetrators aimed to trigger a large-scale power outage by firing projectiles at high-voltage lines; a terrorism investigation has been opened.",
+      "es": "La policía descubrió el 1 de septiembre una decena de artefactos explosivos artesanales en la subestación de Turnow-Preilack, cerca de la central eléctrica de Jänschwalde, en Brandeburgo. Según el ministro regional del Interior, Jan Redmann, los autores pretendían provocar un apagón a gran escala disparando proyectiles contra las líneas de alta tensión; se ha abierto una investigación por terrorismo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "La police découvre une dizaine d'engins explosifs visant le réseau électrique près de Jänschwalde, selon le Tagesspiegel.",
+          "en": "Police discover around a dozen explosive devices targeting the power grid near Jänschwalde, according to Tagesspiegel.",
+          "es": "La policía descubre una decena de artefactos explosivos dirigidos contra la red eléctrica cerca de Jänschwalde, según Tagesspiegel."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "france-toulouse-fusillade",
+    "coords": [
+      1.408,
+      43.573
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "France Info",
+    "place": {
+      "fr": "Quartier de la Faourette, Toulouse, France",
+      "en": "Faourette district, Toulouse, France",
+      "es": "Barrio de la Faourette, Toulouse, Francia"
+    },
+    "title": {
+      "fr": "Un homme de 23 ans tué par balles dans le quartier de la Faourette à Toulouse",
+      "en": "23-year-old man shot dead in Toulouse's Faourette district",
+      "es": "Un hombre de 23 años muere por disparos en el barrio de la Faourette en Toulouse"
+    },
+    "summary": {
+      "fr": "Un homme de 23 ans a été tué par balles dans la nuit du 4 au 5 septembre dans le quartier de la Faourette, à Toulouse, par un tireur sorti d'une voiture, selon France Info. Une enquête a été ouverte ; une autre fusillade a eu lieu la même nuit à Vaulx-en-Velin, près de Lyon.",
+      "en": "A 23-year-old man was shot dead overnight between September 4 and 5 in Toulouse's Faourette district by a gunman who emerged from a car, according to France Info. An investigation has been opened; another shooting occurred the same night in Vaulx-en-Velin, near Lyon.",
+      "es": "Un hombre de 23 años murió por disparos en la noche del 4 al 5 de septiembre en el barrio de la Faourette, en Toulouse, a manos de un tirador que salió de un coche, según France Info. Se ha abierto una investigación; esa misma noche se produjo otro tiroteo en Vaulx-en-Velin, cerca de Lyon."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04-05/09/2026",
+          "en": "09/04-05/2026",
+          "es": "04-05/09/2026"
+        },
+        "d": {
+          "fr": "Un homme de 23 ans est tué par balles à la Faourette, selon France Info.",
+          "en": "A 23-year-old man is shot dead in Faourette, according to France Info.",
+          "es": "Un hombre de 23 años muere por disparos en la Faourette, según France Info."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-eleve-agression-professeure",
+    "coords": [
+      -3.9436,
+      51.6214
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Crown Prosecution Service / ITV News",
+    "place": {
+      "fr": "Cour de la Couronne de Swansea (agression au Milford Haven Comprehensive School), Pays de Galles, Royaume-Uni",
+      "en": "Swansea Crown Court (offense at Milford Haven Comprehensive School), Wales, United Kingdom",
+      "es": "Tribunal de la Corona de Swansea (agresión en Milford Haven Comprehensive School), Gales, Reino Unido"
+    },
+    "title": {
+      "fr": "Un adolescent condamné pour avoir poignardé une enseignante dans un lycée gallois",
+      "en": "Teenager sentenced for stabbing a teacher at a Welsh school",
+      "es": "Un adolescente condenado por apuñalar a una profesora en un instituto galés"
+    },
+    "summary": {
+      "fr": "Un garçon de 16 ans (15 ans au moment des faits) a été condamné le 3 septembre à quatre ans et demi de détention pour mineurs après avoir poignardé à la tête une enseignante avec un couteau de cuisine au Milford Haven Comprehensive School, le 5 février 2026, selon le Crown Prosecution Service. Le jury l'a reconnu coupable de coups et blessures volontaires mais l'a acquitté de tentative de meurtre.",
+      "en": "A 16-year-old boy (15 at the time of the offense) was sentenced on September 3 to four and a half years in youth detention after stabbing a teacher in the head with a kitchen knife at Milford Haven Comprehensive School on February 5, 2026, according to the Crown Prosecution Service. The jury convicted him of wounding with intent but acquitted him of attempted murder.",
+      "es": "Un chico de 16 años (15 en el momento de los hechos) fue condenado el 3 de septiembre a cuatro años y medio de detención juvenil tras apuñalar en la cabeza a una profesora con un cuchillo de cocina en el Milford Haven Comprehensive School el 5 de febrero de 2026, según la Fiscalía de la Corona (CPS). El jurado lo declaró culpable de lesiones con intención, pero lo absolvió de intento de asesinato."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "09/03/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Swansea condamne l'adolescent à quatre ans et demi de détention, selon le CPS.",
+          "en": "Swansea Crown Court sentences the teenager to four and a half years in detention, according to the CPS.",
+          "es": "El Tribunal de la Corona de Swansea condena al adolescente a cuatro años y medio de detención, según la CPS."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "italie-rome-matricide",
+    "coords": [
+      12.5667,
+      41.87
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Il Fatto Quotidiano / Il Messaggero",
+    "place": {
+      "fr": "Quartier de Centocelle, Rome, Italie",
+      "en": "Centocelle district, Rome, Italy",
+      "es": "Barrio de Centocelle, Roma, Italia"
+    },
+    "title": {
+      "fr": "Un adolescent de 16 ans tue sa mère à coups de poing à Rome",
+      "en": "16-year-old kills his mother in a beating in Rome",
+      "es": "Un adolescente de 16 años mata a golpes a su madre en Roma"
+    },
+    "summary": {
+      "fr": "Un garçon de 16 ans a battu à mort sa mère de 50 ans à leur domicile du quartier de Centocelle, à Rome, le 31 août, avant d'appeler lui-même les secours, selon Il Fatto Quotidiano et Il Messaggero. La victime est décédée quelques heures plus tard à l'hôpital Policlinico Tor Vergata ; l'adolescent a été placé en unité psychiatrique.",
+      "en": "A 16-year-old boy beat his 50-year-old mother to death at their home in Rome's Centocelle district on August 31, then called emergency services himself, according to Il Fatto Quotidiano and Il Messaggero. The victim died hours later at Policlinico Tor Vergata hospital; the teenager was placed in a psychiatric unit.",
+      "es": "Un chico de 16 años golpeó hasta la muerte a su madre de 50 años en su domicilio del barrio de Centocelle, en Roma, el 31 de agosto, y después llamó él mismo a emergencias, según Il Fatto Quotidiano e Il Messaggero. La víctima falleció horas después en el hospital Policlinico Tor Vergata; el adolescente fue ingresado en una unidad psiquiátrica."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "08/31/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Un adolescent bat à mort sa mère à Centocelle et appelle lui-même les secours, selon Il Fatto Quotidiano.",
+          "en": "A teenager beats his mother to death in Centocelle and calls emergency services himself, according to Il Fatto Quotidiano.",
+          "es": "Un adolescente golpea hasta la muerte a su madre en Centocelle y llama él mismo a emergencias, según Il Fatto Quotidiano."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "espagne-azpeitia-taxi",
+    "coords": [
+      -2.2667,
+      43.1833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Cope.es",
+    "place": {
+      "fr": "Azpeitia, Guipuscoa, Pays basque, Espagne",
+      "en": "Azpeitia, Gipuzkoa, Basque Country, Spain",
+      "es": "Azpeitia, Guipúzcoa, País Vasco, España"
+    },
+    "title": {
+      "fr": "Un chauffeur de taxi tué par balles après avoir été percuté volontairement à Azpeitia",
+      "en": "Taxi driver shot dead after being deliberately rammed in Azpeitia",
+      "es": "Un taxista muere por disparos tras ser embestido deliberadamente en Azpeitia"
+    },
+    "summary": {
+      "fr": "Le 1er septembre, un chauffeur de taxi d'une trentaine d'années a été percuté volontairement par un véhicule à Azpeitia ; lorsqu'il est descendu pour constater les dégâts, l'occupant de l'autre voiture l'a abattu, selon Cope.es. Le suspect, âgé de 43 ans, s'est rendu à la police le 5 septembre dans un commissariat d'Ondarroa.",
+      "en": "On September 1, a taxi driver in his thirties was deliberately rammed by a vehicle in Azpeitia; when he got out to inspect the damage, the occupant of the other car shot him dead, according to Cope.es. The 43-year-old suspect turned himself in at a police station in Ondarroa on September 5.",
+      "es": "El 1 de septiembre, un taxista de unos treinta años fue embestido deliberadamente por un vehículo en Azpeitia; cuando bajó a comprobar los daños, el ocupante del otro coche le disparó y lo mató, según Cope.es. El sospechoso, de 43 años, se entregó a la policía el 5 de septiembre en una comisaría de Ondarroa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Un chauffeur de taxi est abattu après avoir été percuté volontairement à Azpeitia, selon Cope.es.",
+          "en": "A taxi driver is shot dead after being deliberately rammed in Azpeitia, according to Cope.es.",
+          "es": "Un taxista muere por disparos tras ser embestido deliberadamente en Azpeitia, según Cope.es."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le suspect de 43 ans se rend à la police dans un commissariat d'Ondarroa, selon Cope.es.",
+          "en": "The 43-year-old suspect turns himself in at a police station in Ondarroa, according to Cope.es.",
+          "es": "El sospechoso de 43 años se entrega a la policía en una comisaría de Ondarroa, según Cope.es."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-enlevement-mosquee",
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Al Jazeera / France 24",
+    "place": {
+      "fr": "État du Niger, Nigeria (localisation précise du village non confirmée par les sources — région de Dekera/Dekara)",
+      "en": "Niger State, Nigeria (exact village not confirmed by sources — Dekera/Dekara area)",
+      "es": "Estado de Níger, Nigeria (localización exacta de la aldea no confirmada por las fuentes — zona de Dekera/Dekara)"
+    },
+    "title": {
+      "fr": "Enlèvement massif de fidèles dans une mosquée de l'État du Niger, au Nigeria",
+      "en": "Mass abduction of worshippers from a mosque in Nigeria's Niger State",
+      "es": "Secuestro masivo de fieles en una mezquita del estado de Níger, en Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont enlevé plusieurs centaines de fidèles, en majorité des femmes, des enfants et des personnes âgées, lors de raids coordonnés contre plusieurs communautés de l'État du Niger pendant la prière du vendredi, fin août, selon Al Jazeera et France 24. Le président Bola Tinubu a ordonné le déploiement de l'armée, de la police et des services de renseignement ; environ 2 000 habitants ont fui vers le Bénin voisin.",
+      "en": "Armed men abducted several hundred worshippers, mostly women, children and the elderly, in coordinated raids on several communities in Niger State during Friday prayers in late August, according to Al Jazeera and France 24. President Bola Tinubu ordered the deployment of the military, police and intelligence services; around 2,000 residents fled to neighboring Benin.",
+      "es": "Hombres armados secuestraron a varios cientos de fieles, en su mayoría mujeres, niños y ancianos, en asaltos coordinados contra varias comunidades del estado de Níger durante la oración del viernes, a finales de agosto, según Al Jazeera y France 24. El presidente Bola Tinubu ordenó el despliegue del ejército, la policía y los servicios de inteligencia; unos 2000 residentes huyeron al vecino Benín."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22-24/08/2026",
+          "en": "08/22-24/2026",
+          "es": "22-24/08/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés enlèvent plusieurs centaines de fidèles dans des mosquées de l'État du Niger ; le président Tinubu ordonne une opération de sauvetage, selon Al Jazeera.",
+          "en": "Armed men abduct several hundred worshippers from mosques in Niger State; President Tinubu orders a rescue operation, according to Al Jazeera.",
+          "es": "Hombres armados secuestran a varios cientos de fieles en mezquitas del estado de Níger; el presidente Tinubu ordena una operación de rescate, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "egypte-condamnation-presentatrice",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Agences régionales égyptiennes",
+    "place": {
+      "fr": "Tribunal criminel du Caire, Égypte",
+      "en": "Cairo Criminal Court, Egypt",
+      "es": "Tribunal Penal de El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Une ex-présentatrice de télévision condamnée à mort en Égypte pour trafic de stupéfiants",
+      "en": "Former Egyptian TV presenter sentenced to death for drug trafficking",
+      "es": "Una expresentadora de televisión egipcia condenada a muerte por narcotráfico"
+    },
+    "summary": {
+      "fr": "Le tribunal criminel du Caire a condamné le 5 septembre l'ancienne présentatrice et productrice Sara Khalifa Hamada, ainsi que 11 coaccusés, à la peine de mort par pendaison pour fabrication et trafic de stupéfiants dans le cadre de « l'affaire des grands trafiquants de drogue ». Neuf autres accusés ont été condamnés à la perpétuité et sept ont été acquittés ; la décision est susceptible d'appel.",
+      "en": "Cairo Criminal Court sentenced former TV presenter and producer Sara Khalifa Hamada, along with 11 co-defendants, to death by hanging on September 5 for manufacturing and trafficking narcotics in the so-called \"Major Drug Case.\" Nine other defendants received life sentences and seven were acquitted; the ruling is subject to appeal.",
+      "es": "El Tribunal Penal de El Cairo condenó el 5 de septiembre a la expresentadora y productora Sara Khalifa Hamada, junto a otros 11 coacusados, a la pena de muerte en la horca por fabricación y tráfico de estupefacientes en el llamado «caso de los grandes traficantes de droga». Otros nueve acusados recibieron cadena perpetua y siete fueron absueltos; el fallo puede ser apelado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal criminel du Caire prononce la peine de mort contre Sara Khalifa Hamada et 11 coaccusés.",
+          "en": "Cairo Criminal Court hands down the death sentence against Sara Khalifa Hamada and 11 co-defendants.",
+          "es": "El Tribunal Penal de El Cairo dicta la pena de muerte contra Sara Khalifa Hamada y otros 11 coacusados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "afriquesud-mines-illegales-johannesburg",
+    "coords": [
+      28.0473,
+      -26.2041
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏",
+    "source": "France 24 / Eyewitness News",
+    "place": {
+      "fr": "Johannesburg, Afrique du Sud",
+      "en": "Johannesburg, South Africa",
+      "es": "Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "L'exploitation minière illégale fragilise les infrastructures de Johannesburg",
+      "en": "Illegal mining is undermining Johannesburg's infrastructure",
+      "es": "La minería ilegal socava la infraestructura de Johannesburgo"
+    },
+    "summary": {
+      "fr": "Des dynamitages menés par des mineurs clandestins, estimés à environ 34 000 dans le pays, provoquent l'effondrement de routes et l'apparition de dolines dans plusieurs quartiers de Johannesburg, endommageant réseaux électriques, canalisations et habitations, selon France 24 et Eyewitness News. Des violences liées à la concurrence entre gangs pour le contrôle des puits sont également signalées.",
+      "en": "Blasting carried out by illegal miners, estimated at around 34,000 nationwide, is causing roads to collapse and sinkholes to appear in several Johannesburg neighborhoods, damaging power networks, pipes and homes, according to France 24 and Eyewitness News. Gang-related violence over control of mine shafts is also being reported.",
+      "es": "Las voladuras realizadas por mineros ilegales, estimados en unos 34 000 en todo el país, están provocando el colapso de calles y la aparición de dolinas en varios barrios de Johannesburgo, dañando redes eléctricas, tuberías y viviendas, según France 24 y Eyewitness News. También se informa de violencia entre bandas por el control de los pozos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02-04/09/2026",
+          "en": "09/02-04/2026",
+          "es": "02-04/09/2026"
+        },
+        "d": {
+          "fr": "Des effondrements de routes et des dolines apparaissent à Johannesburg à cause des mines illégales, selon France 24.",
+          "en": "Road collapses and sinkholes appear in Johannesburg due to illegal mining, according to France 24.",
+          "es": "Aparecen colapsos de calles y dolinas en Johannesburgo por la minería ilegal, según France 24."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "afriquesud-rugby-black-ferns",
+    "coords": [
+      27.9828,
+      -26.2338
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏉",
+    "source": "Daily Maverick / IOL",
+    "place": {
+      "fr": "Stade FNB, Soweto, Johannesburg, Afrique du Sud",
+      "en": "FNB Stadium, Soweto, Johannesburg, South Africa",
+      "es": "Estadio FNB, Soweto, Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Les Black Ferns néo-zélandaises dominent les Springbok Women à Soweto",
+      "en": "New Zealand's Black Ferns defeat the Springbok Women in Soweto",
+      "es": "Las Black Ferns de Nueva Zelanda vencen a las Springbok Women en Soweto"
+    },
+    "summary": {
+      "fr": "Les Black Ferns de Nouvelle-Zélande ont battu les Springbok Women 52 à 20 au stade FNB de Soweto, le 5 septembre, inscrivant huit essais dans le cadre de leur tournée en Afrique du Sud, selon le Daily Maverick et IOL.",
+      "en": "New Zealand's Black Ferns beat the Springbok Women 52-20 at FNB Stadium in Soweto on September 5, scoring eight tries as part of their tour of South Africa, according to the Daily Maverick and IOL.",
+      "es": "Las Black Ferns de Nueva Zelanda vencieron a las Springbok Women por 52 a 20 en el estadio FNB de Soweto el 5 de septiembre, anotando ocho ensayos en el marco de su gira por Sudáfrica, según Daily Maverick e IOL."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "La Nouvelle-Zélande bat l'Afrique du Sud 52-20 au stade FNB, selon IOL.",
+          "en": "New Zealand beats South Africa 52-20 at FNB Stadium, according to IOL.",
+          "es": "Nueva Zelanda vence a Sudáfrica 52-20 en el estadio FNB, según IOL."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "nepal-glacier-effondrement",
+    "coords": [
+      85.3524,
+      28.2159
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏔️",
+    "source": "Police du Népal / Al Jazeera",
+    "place": {
+      "fr": "District de Rasuwa (Syabrubesi, Timure, Rasuwagadhi), Népal",
+      "en": "Rasuwa District (Syabrubesi, Timure, Rasuwagadhi), Nepal",
+      "es": "Distrito de Rasuwa (Syabrubesi, Timure, Rasuwagadhi), Nepal"
+    },
+    "title": {
+      "fr": "Plus de 1 300 morts après l'effondrement d'un glacier au Népal, des milliers de personnes toujours portées disparues",
+      "en": "Over 1,300 dead after glacier collapse in Nepal, thousands still missing",
+      "es": "Más de 1300 muertos tras el colapso de un glaciar en Nepal, miles de personas siguen desaparecidas"
+    },
+    "summary": {
+      "fr": "Un pan du glacier de Langtang Lirung s'est effondré le 26 août au-dessus du district de Rasuwa, envoyant des coulées de débris jusque dans la vallée de la Trishuli et détruisant notamment les localités de Timure et Rasuwagadhi. Selon la police népalaise, le bilan officiel s'élève au 5 septembre à 1 344 morts et près de 5 000 disparus, dont 589 étrangers ; plus de 13 000 personnes ont été secourues. Le 5 septembre, un ouvrier chinois a été retiré vivant d'un tunnel hydroélectrique inondé, dix jours après la catastrophe.",
+      "en": "A section of the Langtang Lirung glacier collapsed on August 26 above Rasuwa district, sending debris flows down into the Trishuli valley and destroying the towns of Timure and Rasuwagadhi, among others. According to Nepal Police, the official toll stood at 1,344 dead and nearly 5,000 missing as of September 5, including 589 foreign nationals; more than 13,000 people have been rescued. On September 5, a Chinese worker was pulled alive from a flooded hydropower tunnel, ten days after the disaster.",
+      "es": "Una sección del glaciar Langtang Lirung se derrumbó el 26 de agosto sobre el distrito de Rasuwa, provocando flujos de escombros que bajaron hasta el valle del Trishuli y destruyeron, entre otras, las localidades de Timure y Rasuwagadhi. Según la Policía de Nepal, el balance oficial era, a 5 de septiembre, de 1344 muertos y cerca de 5000 desaparecidos, entre ellos 589 extranjeros; más de 13 000 personas han sido rescatadas. El 5 de septiembre, un trabajador chino fue rescatado con vida de un túnel hidroeléctrico inundado, diez días después de la catástrofe."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "08/26/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Le glacier de Langtang Lirung s'effondre, provoquant des coulées de débris dévastatrices dans le district de Rasuwa, selon la police népalaise.",
+          "en": "The Langtang Lirung glacier collapses, causing devastating debris flows in Rasuwa district, according to Nepal Police.",
+          "es": "El glaciar Langtang Lirung se derrumba, provocando devastadores flujos de escombros en el distrito de Rasuwa, según la Policía de Nepal."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 1 344 morts et près de 5 000 disparus ; un ouvrier chinois est sauvé dix jours après la catastrophe, selon Al Jazeera.",
+          "en": "The official toll reaches 1,344 dead and nearly 5,000 missing; a Chinese worker is rescued ten days after the disaster, according to Al Jazeera.",
+          "es": "El balance oficial alcanza los 1344 muertos y cerca de 5000 desaparecidos; un trabajador chino es rescatado diez días después de la catástrofe, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
+  },
+  {
+    "id": "chine-nexperia-gel-actifs",
+    "coords": [
+      113.7633,
+      23.0207
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "South China Morning Post",
+    "place": {
+      "fr": "Tribunal intermédiaire de Dongguan, province du Guangdong, Chine",
+      "en": "Dongguan Intermediate People's Court, Guangdong province, China",
+      "es": "Tribunal Intermedio de Dongguan, provincia de Guangdong, China"
+    },
+    "title": {
+      "fr": "Un tribunal chinois gèle 318 millions de dollars d'actifs liés au fabricant de puces Nexperia",
+      "en": "Chinese court freezes $318 million in assets linked to chipmaker Nexperia",
+      "es": "Un tribunal chino congela 318 millones de dólares en activos vinculados al fabricante de chips Nexperia"
+    },
+    "summary": {
+      "fr": "Le tribunal intermédiaire de Dongguan a gelé 2,14 milliards de yuans (environ 318 millions de dollars) d'actifs liés aux filiales chinoises du fabricant de semi-conducteurs néerlandais Nexperia, dans le cadre du conflit actionnarial qui l'oppose à son propriétaire chinois Wingtech, selon le South China Morning Post. Cette information repose pour l'instant sur une seule source ; elle mérite d'être recoupée.",
+      "en": "The Dongguan Intermediate People's Court froze 2.14 billion yuan (about $318 million) in assets linked to the Chinese subsidiaries of Dutch chipmaker Nexperia, amid the ownership dispute with its Chinese owner Wingtech, according to the South China Morning Post. This information currently relies on a single source and warrants further corroboration.",
+      "es": "El Tribunal Intermedio de Dongguan congeló 2140 millones de yuanes (unos 318 millones de dólares) en activos vinculados a las filiales chinas del fabricante de semiconductores neerlandés Nexperia, en medio de la disputa accionarial con su propietario chino, Wingtech, según el South China Morning Post. Esta información se basa por ahora en una sola fuente y conviene contrastarla."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "début septembre 2026",
+          "en": "early September 2026",
+          "es": "principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Dongguan gèle 2,14 milliards de yuans d'actifs liés à Nexperia, selon le South China Morning Post.",
+          "en": "The Dongguan court freezes 2.14 billion yuan in assets linked to Nexperia, according to the South China Morning Post.",
+          "es": "El tribunal de Dongguan congela 2140 millones de yuanes en activos vinculados a Nexperia, según South China Morning Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "inde-cachemire-commandant-let-tue",
+    "coords": [
+      74.652,
+      33.983
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎯",
+    "source": "India TV News",
+    "place": {
+      "fr": "Yousmarg, district de Budgam, Jammu-et-Cachemire, Inde",
+      "en": "Yousmarg, Budgam district, Jammu and Kashmir, India",
+      "es": "Yousmarg, distrito de Budgam, Jammu y Cachemira, India"
+    },
+    "title": {
+      "fr": "Un commandant du groupe Lashkar-e-Taiba tué dans un accrochage au Cachemire indien",
+      "en": "Lashkar-e-Taiba commander killed in gunfight in Indian Kashmir",
+      "es": "Un comandante de Lashkar-e-Taiba muere en un tiroteo en la Cachemira india"
+    },
+    "summary": {
+      "fr": "Les forces de sécurité indiennes ont tué le 5 septembre un commandant du groupe pakistanais Lashkar-e-Taiba, identifié sous le nom de « Yasir », lors d'un accrochage à Yousmarg, dans le district de Budgam, au terme d'une opération de trois mois dans la région du Pir Panjal, selon India TV News.",
+      "en": "Indian security forces killed a commander of the Pakistan-based Lashkar-e-Taiba group, identified as \"Yasir,\" in a gunfight at Yousmarg, Budgam district, on September 5, at the end of a three-month operation in the Pir Panjal region, according to India TV News.",
+      "es": "Las fuerzas de seguridad indias mataron el 5 de septiembre a un comandante del grupo paquistaní Lashkar-e-Taiba, identificado como «Yasir», en un tiroteo en Yousmarg, distrito de Budgam, al término de una operación de tres meses en la región de Pir Panjal, según India TV News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Les forces spéciales indiennes tuent le commandant du LeT « Yasir » à Yousmarg, selon India TV News.",
+          "en": "Indian special forces kill LeT commander \"Yasir\" in Yousmarg, according to India TV News.",
+          "es": "Las fuerzas especiales indias matan al comandante de LeT «Yasir» en Yousmarg, según India TV News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-anak-krakatau-eruption",
+    "coords": [
+      105.423,
+      -6.1022
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Ambassade des États-Unis en Indonésie / Associated Press",
+    "place": {
+      "fr": "Détroit de la Sonde (volcan Anak Krakatau), Indonésie",
+      "en": "Sunda Strait (Anak Krakatau volcano), Indonesia",
+      "es": "Estrecho de la Sonda (volcán Anak Krakatau), Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption continue du volcan Anak Krakatau perturbe le trafic aérien en Indonésie",
+      "en": "Ongoing eruption of Anak Krakatau disrupts air traffic in Indonesia",
+      "es": "La erupción continua del volcán Anak Krakatau interrumpe el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau, dans le détroit de la Sonde, est en éruption continue depuis le 4 septembre, projetant des cendres jusqu'à 15 km d'altitude, selon l'ambassade des États-Unis en Indonésie et l'Associated Press. Les aéroports de Jakarta (Soekarno-Hatta) et de Lampung ont suspendu des vols ; les écoles et la pêche ont été interrompues dans les zones concernées. Aucune victime n'a été rapportée.",
+      "en": "The Anak Krakatau volcano in the Sunda Strait has been continuously erupting since September 4, throwing ash up to 15 km in altitude, according to the U.S. Embassy in Indonesia and the Associated Press. Jakarta's Soekarno-Hatta and Lampung airports have suspended flights, and schools and fishing have been halted in affected areas. No casualties have been reported.",
+      "es": "El volcán Anak Krakatau, en el estrecho de la Sonda, se encuentra en erupción continua desde el 4 de septiembre, arrojando cenizas hasta 15 km de altitud, según la embajada de Estados Unidos en Indonesia y Associated Press. Los aeropuertos de Yakarta (Soekarno-Hatta) y Lampung han suspendido vuelos, y las escuelas y la pesca se han detenido en las zonas afectadas. No se han reportado víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04-06/09/2026",
+          "en": "09/04-06/2026",
+          "es": "04-06/09/2026"
+        },
+        "d": {
+          "fr": "Anak Krakatau entre en éruption continue, perturbant les vols et la vie locale, selon l'AP.",
+          "en": "Anak Krakatau enters continuous eruption, disrupting flights and local life, according to AP.",
+          "es": "Anak Krakatau entra en erupción continua, alterando los vuelos y la vida local, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "bresil-crise-stf-banco-master",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Associated Press / Washington Post",
+    "place": {
+      "fr": "Brasília, Brésil (Tribunal fédéral suprême)",
+      "en": "Brasília, Brazil (Federal Supreme Court)",
+      "es": "Brasilia, Brasil (Tribunal Supremo Federal)"
+    },
+    "title": {
+      "fr": "Crise institutionnelle au sein de la Cour suprême brésilienne autour du scandale Banco Master",
+      "en": "Institutional crisis within Brazil's Supreme Court over the Banco Master scandal",
+      "es": "Crisis institucional en el Tribunal Supremo de Brasil por el escándalo del Banco Master"
+    },
+    "summary": {
+      "fr": "Deux juges de la Cour suprême brésilienne (STF), Alexandre de Moraes et André Mendonça, ont demandé des sanctions l'un contre l'autre dans le cadre de l'enquête sur la faillite de Banco Master, après que la police fédérale a révélé qu'un contrat de 130 millions de reais liait l'épouse de Moraes à cette banque, selon l'Associated Press et le Washington Post. Le procureur général a demandé l'annulation de l'enquête, à quelques semaines de l'élection présidentielle d'octobre.",
+      "en": "Two Brazilian Supreme Court (STF) justices, Alexandre de Moraes and André Mendonça, have sought sanctions against each other amid the investigation into the collapse of Banco Master, after federal police revealed a 130 million reais contract linking Moraes's wife to the bank, according to the Associated Press and the Washington Post. The Prosecutor General has asked for the investigation to be annulled, weeks ahead of the October presidential election.",
+      "es": "Dos jueces del Tribunal Supremo Federal (STF) de Brasil, Alexandre de Moraes y André Mendonça, han solicitado sanciones el uno contra el otro en medio de la investigación sobre el colapso del Banco Master, después de que la policía federal revelara un contrato de 130 millones de reales que vincula a la esposa de Moraes con el banco, según Associated Press y The Washington Post. El fiscal general ha pedido anular la investigación, semanas antes de las elecciones presidenciales de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02-04/09/2026",
+          "en": "09/02-04/2026",
+          "es": "02-04/09/2026"
+        },
+        "d": {
+          "fr": "Moraes et Mendonça demandent des sanctions l'un contre l'autre au sujet du dossier Banco Master, selon l'AP.",
+          "en": "Moraes and Mendonça seek sanctions against each other over the Banco Master case, according to AP.",
+          "es": "Moraes y Mendonça piden sanciones el uno contra el otro por el caso Banco Master, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 2
+  },
+  {
+    "id": "canada-banque-taux",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Banque du Canada / CBC News",
+    "place": {
+      "fr": "Ottawa, Ontario, Canada",
+      "en": "Ottawa, Ontario, Canada",
+      "es": "Ottawa, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "La Banque du Canada maintient son taux directeur, prudente face aux tarifs douaniers et à la hausse du pétrole",
+      "en": "Bank of Canada holds policy rate steady, wary of tariffs and rising oil prices",
+      "es": "El Banco de Canadá mantiene estable su tasa de referencia, cauteloso ante los aranceles y la subida del petróleo"
+    },
+    "summary": {
+      "fr": "La Banque du Canada a maintenu le 2 septembre son taux directeur à 2,25 % pour la septième fois consécutive, avertissant que les nouveaux tarifs douaniers américains, les contre-tarifs canadiens et la hausse des prix du pétrole liée au conflit dans le Golfe risquaient de pousser l'inflation au-delà de sa cible de 2 %, selon la banque centrale et CBC News.",
+      "en": "The Bank of Canada held its policy rate at 2.25% for a seventh consecutive time on September 2, warning that new U.S. tariffs, Canadian counter-tariffs, and rising oil prices linked to the Gulf conflict could push inflation above its 2% target, according to the central bank and CBC News.",
+      "es": "El Banco de Canadá mantuvo el 2 de septiembre su tasa de referencia en el 2,25 % por séptima vez consecutiva, advirtiendo de que los nuevos aranceles estadounidenses, los contraaranceles canadienses y la subida de los precios del petróleo vinculada al conflicto en el Golfo podrían llevar la inflación por encima de su objetivo del 2 %, según el banco central y CBC News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La Banque du Canada maintient son taux à 2,25 % pour la septième fois d'affilée, selon CBC News.",
+          "en": "The Bank of Canada holds its rate at 2.25% for the seventh time in a row, according to CBC News.",
+          "es": "El Banco de Canadá mantiene su tasa en el 2,25 % por séptima vez consecutiva, según CBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 1
+  },
+  {
+    "id": "vietnam-miss-world-2026",
+    "coords": [
+      109.1967,
+      12.2388
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "👑",
+    "source": "Gulf News / Philippine Inquirer",
+    "place": {
+      "fr": "Place du 2-Avril, Nha Trang, Vietnam",
+      "en": "April 2nd Square, Nha Trang, Vietnam",
+      "es": "Plaza 2 de Abril, Nha Trang, Vietnam"
+    },
+    "title": {
+      "fr": "La Dominicaine Joheirry Mola Dominguez sacrée Miss Monde 2026 au Vietnam",
+      "en": "Dominican Joheirry Mola Dominguez crowned Miss World 2026 in Vietnam",
+      "es": "La dominicana Joheirry Mola Dominguez es coronada Miss Mundo 2026 en Vietnam"
+    },
+    "summary": {
+      "fr": "Joheirry Mola Dominguez, représentante de la République dominicaine, a été couronnée Miss Monde 2026 le 5 septembre lors de la 73e édition du concours, organisée place du 2-Avril à Nha Trang, au Vietnam, devant plus d'une centaine de candidates, selon Gulf News et le Philippine Inquirer. Il s'agit du deuxième titre de Miss Monde pour son pays, après celui de 1982.",
+      "en": "Joheirry Mola Dominguez, representing the Dominican Republic, was crowned Miss World 2026 on September 5 at the 73rd edition of the pageant, held at April 2nd Square in Nha Trang, Vietnam, among more than a hundred contestants, according to Gulf News and the Philippine Inquirer. It is her country's second Miss World title, after 1982.",
+      "es": "Joheirry Mola Dominguez, representante de República Dominicana, fue coronada Miss Mundo 2026 el 5 de septiembre en la 73.ª edición del certamen, celebrada en la plaza 2 de Abril de Nha Trang, Vietnam, entre más de un centenar de concursantes, según Gulf News y Philippine Inquirer. Es el segundo título de Miss Mundo para su país, tras el de 1982."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Joheirry Mola Dominguez (République dominicaine) est couronnée Miss Monde 2026 à Nha Trang, selon Gulf News.",
+          "en": "Joheirry Mola Dominguez (Dominican Republic) is crowned Miss World 2026 in Nha Trang, according to Gulf News.",
+          "es": "Joheirry Mola Dominguez (República Dominicana) es coronada Miss Mundo 2026 en Nha Trang, según Gulf News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W36",
+    "priority": 3
   }
 ]
