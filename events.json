@@ -829,5 +829,911 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "canada-inondations-capebreton",
+    "coords": [
+      -60.85,
+      45.65
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CBC News / CTV News / Global News",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Cap-Breton (comté de Richmond), Nouvelle-Écosse, Canada",
+      "en": "Cape Breton (Richmond County), Nova Scotia, Canada",
+      "es": "Cabo Bretón (condado de Richmond), Nueva Escocia, Canadá"
+    },
+    "title": {
+      "fr": "Crues éclair meurtrières sur l'île du Cap-Breton",
+      "en": "Deadly flash flooding hits Cape Breton Island",
+      "es": "Inundaciones repentinas mortales golpean la isla de Cabo Bretón"
+    },
+    "summary": {
+      "fr": "Une tempête a déversé entre 200 et 250 mm de pluie sur l'île du Cap-Breton entre le 4 et le 6 septembre 2026, emportant routes et ponts et isolant plusieurs communautés. Une femme de 46 ans portée disparue le 5 septembre a été retrouvée morte dans une zone inondée du comté de Richmond. L'état d'urgence reste en vigueur dans les comtés de Richmond, Inverness et Victoria.",
+      "en": "A slow-moving storm dropped 200-250mm of rain on Cape Breton Island between September 4 and 6, 2026, washing out roads and bridges and cutting off several communities. A 46-year-old woman reported missing on September 5 was later found dead in a flooded area of Richmond County. A state of emergency remains in effect for Richmond, Inverness and Victoria counties.",
+      "es": "Una tormenta de movimiento lento dejó entre 200 y 250 mm de lluvia en la isla de Cabo Bretón entre el 4 y el 6 de septiembre de 2026, arrastrando carreteras y puentes y aislando varias comunidades. Una mujer de 46 años dada por desaparecida el 5 de septiembre fue hallada muerta en una zona inundada del condado de Richmond. El estado de emergencia sigue vigente en los condados de Richmond, Inverness y Victoria."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "La police confirme la mort d'une femme de 46 ans, disparue lors des inondations dans le comté de Richmond.",
+          "en": "Police confirm the death of a 46-year-old woman who went missing during flooding in Richmond County.",
+          "es": "La policía confirma la muerte de una mujer de 46 años, desaparecida durante las inundaciones en el condado de Richmond."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "temascalcingo-explosion-pyrotechnique",
+    "coords": [
+      -100.03,
+      19.9
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "La Jornada / N+",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Santa María Canchesdá, Temascalcingo, État de Mexico, Mexique",
+      "en": "Santa María Canchesdá, Temascalcingo, State of Mexico, Mexico",
+      "es": "Santa María Canchesdá, Temascalcingo, Estado de México, México"
+    },
+    "title": {
+      "fr": "Une explosion de pièces pyrotechniques fait 10 morts lors d'une fête patronale",
+      "en": "Fireworks explosion kills 10 at patronal festival",
+      "es": "Una explosión de pirotecnia deja 10 muertos en una fiesta patronal"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 5 septembre 2026, du matériel pyrotechnique entreposé a explosé près de l'église de Santa María Canchesdá, à Temascalcingo (État de Mexico), pendant les festivités de la veille de la fête de la Vierge de la Lumière. L'explosion a fait s'effondrer le toit et un mur, ensevelissant des personnes présentes. Les autorités ont confirmé 10 morts et 64 blessés, dont deux prêtres.",
+      "en": "On the night of September 5, 2026, stored pyrotechnic material exploded near the church of Santa María Canchesdá in Temascalcingo, State of Mexico, during eve-of-festival celebrations for the Virgin of Light. The blast collapsed the roof and a wall, burying people underneath. Authorities confirmed 10 dead and 64 injured, including two priests.",
+      "es": "En la noche del 5 de septiembre de 2026, material pirotécnico almacenado explotó cerca de la iglesia de Santa María Canchesdá, en Temascalcingo, Estado de México, durante los festejos previos a la fiesta de la Virgen de la Luz. La explosión derrumbó el techo y un muro, sepultando a varias personas. Las autoridades confirmaron 10 muertos y 64 heridos, entre ellos dos sacerdotes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement de l'État de Mexico confirme le bilan de 10 morts et 64 blessés.",
+          "en": "The State of Mexico government confirms a toll of 10 dead and 64 injured.",
+          "es": "El gobierno del Estado de México confirma un saldo de 10 muertos y 64 heridos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "minneapolis-fusillade-loringpark",
+    "coords": [
+      -93.28,
+      44.97
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "MPR News / Star Tribune",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Loring Park, Minneapolis, Minnesota, États-Unis",
+      "en": "Loring Park, Minneapolis, Minnesota, United States",
+      "es": "Loring Park, Minneapolis, Minnesota, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade dans une tour d'habitation de Minneapolis : deux morts, trois policiers blessés",
+      "en": "Mass shooting at Minneapolis apartment tower kills two, wounds officers",
+      "es": "Un tiroteo en una torre de apartamentos de Minneapolis deja dos muertos y varios policías heridos"
+    },
+    "summary": {
+      "fr": "Le 2 septembre 2026, un homme de 35 ans a tiré sur la mère de son enfant lors d'un échange de garde devant l'immeuble Shoreline Plaza, à Loring Park, avant d'entrer dans le bâtiment et de blesser quatre autres personnes. Deux résidents sont morts et trois policiers venus intervenir ont été blessés avant que l'assaillant ne soit abattu par la police.",
+      "en": "On September 2, 2026, a 35-year-old man shot the mother of his child during a custody exchange outside the Shoreline Plaza building in Loring Park, then entered the building and shot four more people. Two residents were killed and three responding police officers were wounded before the gunman was shot dead by police.",
+      "es": "El 2 de septiembre de 2026, un hombre de 35 años disparó contra la madre de su hijo durante un intercambio de custodia frente al edificio Shoreline Plaza, en Loring Park, y luego entró en el edificio y disparó contra otras cuatro personas. Dos residentes murieron y tres policías que respondieron resultaron heridos antes de que el atacante fuera abatido por la policía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La police de Minneapolis confirme l'identité des deux victimes décédées et des trois officiers blessés.",
+          "en": "Minneapolis police confirm the identities of the two deceased victims and the three wounded officers.",
+          "es": "La policía de Minneapolis confirma la identidad de las dos víctimas fallecidas y de los tres agentes heridos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "flamengo-remo-belem",
+    "coords": [
+      -48.48,
+      -1.46
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "Agência Brasil / ESPN",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Estádio Mangueirão, Belém, Pará, Brésil",
+      "en": "Estádio Mangueirão, Belém, Pará, Brazil",
+      "es": "Estádio Mangueirão, Belém, Pará, Brasil"
+    },
+    "title": {
+      "fr": "Le Flamengo prend la tête provisoire du Brasileirão en battant le Remo à Belém",
+      "en": "Flamengo takes provisional Brasileirão lead with win over Remo in Belém",
+      "es": "Flamengo toma el liderato provisional del Brasileirão al vencer a Remo en Belém"
+    },
+    "summary": {
+      "fr": "Le 6 septembre 2026, le Flamengo a battu le Remo 1-0 sous une forte pluie au stade Mangueirão de Belém, lors de la 26e journée du championnat brésilien. Le but victorieux a été marqué par Samuel Lino. Ce résultat place provisoirement le Flamengo en tête du classement avec 54 points, deux de plus que Palmeiras, tandis que le Remo reste dans la zone de relégation.",
+      "en": "On September 6, 2026, Flamengo beat Remo 1-0 in heavy rain at Estádio Mangueirão in Belém, in round 26 of Brazil's Série A. The winning goal was scored by Samuel Lino. The result put Flamengo provisionally atop the table with 54 points, two ahead of Palmeiras, while Remo remained in the relegation zone.",
+      "es": "El 6 de septiembre de 2026, Flamengo venció 1-0 a Remo bajo una fuerte lluvia en el Estádio Mangueirão de Belém, en la jornada 26 del campeonato brasileño. El gol de la victoria fue de Samuel Lino. El resultado colocó a Flamengo provisionalmente en lo alto de la tabla con 54 puntos, dos más que Palmeiras, mientras Remo permanece en zona de descenso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Fin du match : Flamengo 1-0 Remo, Samuel Lino auteur du but.",
+          "en": "Final whistle: Flamengo 1-0 Remo, with Samuel Lino scoring the goal.",
+          "es": "Final del partido: Flamengo 1-0 Remo, con gol de Samuel Lino."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "canada-contre-tarifs-usa",
+    "coords": [
+      -75.7,
+      45.42
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Gouvernement du Canada (ministère des Finances)",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Ottawa, Ontario, Canada",
+      "en": "Ottawa, Ontario, Canada",
+      "es": "Ottawa, Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Les contre-tarifs douaniers canadiens visant les produits américains entrent en vigueur",
+      "en": "Canada's counter-tariffs on U.S. goods take effect",
+      "es": "Entran en vigor los aranceles de represalia de Canadá contra productos estadounidenses"
+    },
+    "summary": {
+      "fr": "Le ministère des Finances du Canada a confirmé que des contre-tarifs de 15 %, 25 % et 50 % sur une liste de produits américains (acier, produits laitiers, électroménager, équipement agricole, pâte à papier, électronique) entrent en vigueur le 8 septembre 2026, dans le cadre de la réponse d'Ottawa aux tensions commerciales persistantes avec Washington.",
+      "en": "Canada's Department of Finance confirmed that counter-tariffs of 15%, 25% and 50% on a list of U.S. goods (steel, dairy, appliances, agricultural equipment, pulp/paper, electronics) take effect on September 8, 2026, part of Ottawa's response to ongoing trade tensions with Washington.",
+      "es": "El Ministerio de Finanzas de Canadá confirmó que aranceles de represalia del 15 %, 25 % y 50 % sobre una lista de productos estadounidenses (acero, lácteos, electrodomésticos, maquinaria agrícola, pasta de papel, electrónica) entran en vigor el 8 de septiembre de 2026, como parte de la respuesta de Ottawa a las tensiones comerciales con Washington."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Entrée en vigueur officielle des contre-tarifs annoncés par le gouvernement canadien.",
+          "en": "Official entry into force of the counter-tariffs announced by the Canadian government.",
+          "es": "Entrada en vigor oficial de los aranceles de represalia anunciados por el gobierno canadiense."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "ukraine-russie-pause-frappes",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "ABC News (Australie) / TIME",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Kiev, Ukraine et Moscou, Russie",
+      "en": "Kyiv, Ukraine and Moscow, Russia",
+      "es": "Kiev, Ucrania y Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Poutine et Zelensky s'accordent sur une pause des frappes sur les capitales, sous la médiation d'émissaires américains",
+      "en": "Putin and Zelensky agree pause on capital strikes as US envoys push peace talks",
+      "es": "Putin y Zelenski acuerdan una pausa en los ataques contra las capitales, con la mediación de enviados estadounidenses"
+    },
+    "summary": {
+      "fr": "Le 5 septembre 2026, Vladimir Poutine a ordonné une suspension de 72 heures des frappes sur Kiev à partir de minuit le 6 septembre, alors que les émissaires américains Steve Witkoff et Jared Kushner se rendaient à Moscou puis à Kiev pour relancer les négociations de paix. Volodymyr Zelensky a dit l'Ukraine prête à des discussions « constructives ». Les combats se sont toutefois poursuivis ailleurs : l'état-major ukrainien a fait état de 206 accrochages et 59 frappes aériennes russes le 6 septembre, tandis que des drones ukrainiens visaient des dépôts pétroliers près de Sotchi.",
+      "en": "On September 5, 2026, Vladimir Putin ordered a 72-hour halt to strikes on Kyiv starting at midnight on September 6, as US envoys Steve Witkoff and Jared Kushner visited Moscow and then Kyiv to push renewed peace negotiations. Volodymyr Zelensky said Ukraine was ready for 'constructive' talks. Fighting continued elsewhere, however: Ukraine's General Staff reported 206 combat engagements and 59 Russian air strikes on September 6, while Ukrainian drones struck oil-storage tanks near Sochi.",
+      "es": "El 5 de septiembre de 2026, Vladímir Putin ordenó una pausa de 72 horas en los ataques contra Kiev a partir de la medianoche del 6 de septiembre, mientras los enviados estadounidenses Steve Witkoff y Jared Kushner visitaban Moscú y luego Kiev para impulsar nuevas negociaciones de paz. Volodímir Zelenski dijo que Ucrania estaba lista para conversaciones 'constructivas'. Sin embargo, los combates continuaron en otros frentes: el Estado Mayor ucraniano informó de 206 enfrentamientos y 59 ataques aéreos rusos el 6 de septiembre, mientras drones ucranianos atacaban depósitos de petróleo cerca de Sochi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Annonce de la pause de 72 heures sur les frappes visant Kiev, en marge de la visite d'émissaires américains.",
+          "en": "Announcement of the 72-hour pause on strikes targeting Kyiv, amid the visit of US envoys.",
+          "es": "Anuncio de la pausa de 72 horas en los ataques contra Kiev, en el marco de la visita de enviados estadounidenses."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "allemagne-afd-saxeanhalt",
+    "coords": [
+      11.6276,
+      52.1205
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "NPR / Bloomberg",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Saxe-Anhalt, Allemagne",
+      "en": "Saxony-Anhalt, Germany",
+      "es": "Sajonia-Anhalt, Alemania"
+    },
+    "title": {
+      "fr": "L'AfD (extrême droite) remporte une large victoire aux élections régionales de Saxe-Anhalt",
+      "en": "Far-right AfD wins landslide in Saxony-Anhalt state election",
+      "es": "La ultraderechista AfD logra una amplia victoria en las elecciones regionales de Sajonia-Anhalt"
+    },
+    "summary": {
+      "fr": "Lors du scrutin régional du 6 septembre 2026, l'AfD a obtenu 43,8 % des voix, plus du double du score de la CDU du chancelier Friedrich Merz (17,2 %), manquant de trois sièges la majorité absolue (39 sièges sur 83). Il s'agit du meilleur résultat jamais obtenu par le parti d'extrême droite, le plus proche d'une victoire régionale depuis la Seconde Guerre mondiale, bien que les autres partis refusent toujours de gouverner avec lui.",
+      "en": "In the September 6, 2026 state election, the AfD won 43.8% of the vote, more than double the score of Chancellor Friedrich Merz's CDU (17.2%), falling three seats short of an outright majority (39 of 83 seats). It is the far-right party's strongest result yet, the closest it has come to a state government win since World War II, though other parties still refuse to govern with it.",
+      "es": "En las elecciones regionales del 6 de septiembre de 2026, la AfD obtuvo el 43,8 % de los votos, más del doble que la CDU del canciller Friedrich Merz (17,2 %), a solo tres escaños de la mayoría absoluta (39 de 83 escaños). Es el mejor resultado obtenido hasta ahora por el partido de extrema derecha, el más cercano a ganar un gobierno regional desde la Segunda Guerra Mundial, aunque el resto de partidos sigue negándose a gobernar con él."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Publication des résultats officiels du scrutin régional de Saxe-Anhalt.",
+          "en": "Official results of the Saxony-Anhalt state election are published.",
+          "es": "Se publican los resultados oficiales de las elecciones regionales de Sajonia-Anhalt."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "volkswagen-plan-2030",
+    "coords": [
+      10.7865,
+      52.4227
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "Rio Times / Tech Times",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Wolfsbourg, Allemagne (siège de Volkswagen)",
+      "en": "Wolfsburg, Germany (Volkswagen headquarters)",
+      "es": "Wolfsburgo, Alemania (sede de Volkswagen)"
+    },
+    "title": {
+      "fr": "Volkswagen approuve un vaste plan de restructuration prévoyant 50 000 suppressions de postes supplémentaires",
+      "en": "Volkswagen approves sweeping restructuring plan with 50,000 more job cuts",
+      "es": "Volkswagen aprueba un amplio plan de reestructuración con 50.000 despidos adicionales"
+    },
+    "summary": {
+      "fr": "Le 3 septembre 2026, le conseil de surveillance de Volkswagen a approuvé à l'unanimité sa plus grande restructuration en 89 ans, prévoyant la suppression de 50 000 emplois dans le monde d'ici 2030. Quatre usines allemandes (Emden, Zwickau, Hanovre, et Neckarsulm chez Audi) sont maintenues pour l'instant, mais devront présenter une stratégie de production viable avant juin 2027. L'action Volkswagen a bondi de 7,9 % le jour de l'annonce, dans un contexte de ralentissement industriel plus large en Allemagne.",
+      "en": "On September 3, 2026, Volkswagen's supervisory board unanimously approved its biggest restructuring in 89 years, cutting 50,000 jobs worldwide by 2030. Four German plants (Emden, Zwickau, Hanover, and Audi's Neckarsulm) are being kept on for now but must present a viable production strategy by June 2027. Volkswagen shares jumped 7.9% on the day of the announcement, amid a broader industrial slowdown in Germany.",
+      "es": "El 3 de septiembre de 2026, el consejo de supervisión de Volkswagen aprobó por unanimidad su mayor reestructuración en 89 años, con el recorte de 50.000 empleos en todo el mundo de aquí a 2030. Cuatro plantas alemanas (Emden, Zwickau, Hannover y Neckarsulm de Audi) se mantienen por ahora, pero deberán presentar una estrategia de producción viable antes de junio de 2027. Las acciones de Volkswagen subieron un 7,9 % el día del anuncio, en un contexto de desaceleración industrial más amplia en Alemania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Le conseil de surveillance de Volkswagen approuve le plan « Future Plan 2030 ».",
+          "en": "Volkswagen's supervisory board approves the 'Future Plan 2030'.",
+          "es": "El consejo de supervisión de Volkswagen aprueba el 'Future Plan 2030'."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "espagne-ayna-course-taureaux",
+    "coords": [
+      -2.0961,
+      38.5811
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🐂",
+    "source": "The Olive Press / TodoAlicante",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Ayna, province d'Albacete, Castille-La Manche, Espagne",
+      "en": "Ayna, Albacete province, Castilla-La Mancha, Spain",
+      "es": "Ayna, provincia de Albacete, Castilla-La Mancha, España"
+    },
+    "title": {
+      "fr": "Une touriste mortellement encornée lors d'un lâcher de taureaux à Ayna",
+      "en": "Tourist gored to death during bull run at Ayna festival",
+      "es": "Una turista muere corneada durante un encierro de toros en Ayna"
+    },
+    "summary": {
+      "fr": "Une femme de 64 ans en visite depuis la Catalogne a été mortellement encornée vers 10h55 le samedi 5 septembre 2026, lors du premier lâcher de taureaux de la fête patronale de Santa María de lo Alto, à Ayna. Un homme d'une soixantaine d'années a également été blessé. La victime est décédée alors qu'elle était évacuée par hélicoptère. La commune, qui compte environ 700 habitants, a annulé la suite des festivités du week-end.",
+      "en": "A 64-year-old woman visiting from Catalonia was fatally gored around 10:55 a.m. on Saturday, September 5, 2026, during the first bull run of the Santa María de lo Alto patronal festival in Ayna. A man in his sixties was also injured. The victim died while being evacuated by helicopter. The town, with a population of around 700, cancelled the rest of the weekend's festivities.",
+      "es": "Una mujer de 64 años, visitante procedente de Cataluña, murió corneada hacia las 10:55 del sábado 5 de septiembre de 2026 durante el primer encierro de la fiesta patronal de Santa María de lo Alto, en Ayna. Un hombre de unos sesenta años también resultó herido. La víctima falleció mientras era evacuada en helicóptero. El municipio, de unos 700 habitantes, canceló el resto de los festejos del fin de semana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Décès de la touriste catalane pendant son évacuation médicale ; les festivités sont suspendues.",
+          "en": "The Catalan tourist dies during medical evacuation; festivities are suspended.",
+          "es": "La turista catalana fallece durante su evacuación médica; se suspenden los festejos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "monza-antonelli-victoire",
+    "coords": [
+      9.2814,
+      45.5845
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏎️",
+    "source": "Formula1.com / Sky Sports",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Monza, Lombardie, Italie",
+      "en": "Monza, Lombardy, Italy",
+      "es": "Monza, Lombardía, Italia"
+    },
+    "title": {
+      "fr": "Kimi Antonelli remporte le Grand Prix d'Italie après être parti 19e sur la grille",
+      "en": "Kimi Antonelli wins Italian Grand Prix from 19th on the grid",
+      "es": "Kimi Antonelli gana el Gran Premio de Italia tras salir 19º en la parrilla"
+    },
+    "summary": {
+      "fr": "Le 6 septembre 2026, le pilote Mercedes Kimi Antonelli, 20 ans, a remporté le Grand Prix d'Italie à Monza après être parti 19e en raison d'une pénalité sur la grille, devançant notamment son coéquipier George Russell (2e) et Max Verstappen (3e). Il devient le premier pilote italien à s'imposer à Monza depuis 1966, au terme d'une course marquée par une voiture de sécurité virtuelle et un drapeau rouge.",
+      "en": "On September 6, 2026, 20-year-old Mercedes driver Kimi Antonelli won the Italian Grand Prix at Monza after starting 19th due to a grid penalty, overtaking rivals including teammate George Russell (2nd) and Max Verstappen (3rd). He is the first Italian driver to win at Monza since 1966, in a race marked by a Virtual Safety Car and a red flag.",
+      "es": "El 6 de septiembre de 2026, el piloto de Mercedes Kimi Antonelli, de 20 años, ganó el Gran Premio de Italia en Monza tras salir 19º por una sanción en la parrilla, superando a rivales como su compañero George Russell (2º) y Max Verstappen (3º). Se convierte en el primer piloto italiano en ganar en Monza desde 1966, en una carrera marcada por un coche de seguridad virtual y una bandera roja."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Kimi Antonelli franchit la ligne d'arrivée en tête du Grand Prix d'Italie.",
+          "en": "Kimi Antonelli crosses the finish line first at the Italian Grand Prix.",
+          "es": "Kimi Antonelli cruza la línea de meta en primer lugar en el Gran Premio de Italia."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "chine-coulee-boue-jiangxi",
+    "coords": [
+      114.52,
+      26.32
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Associated Press / Taipei Times",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "District de Suichuan, Ji'an, province du Jiangxi, Chine",
+      "en": "Suichuan County, Ji'an, Jiangxi Province, China",
+      "es": "Distrito de Suichuan, Ji'an, provincia de Jiangxi, China"
+    },
+    "title": {
+      "fr": "Une coulée de boue fait plusieurs morts et disparus dans le Jiangxi après le passage de la tempête Saudel",
+      "en": "Mudslide kills several, leaves people missing in Jiangxi after storm Saudel",
+      "es": "Un alud de barro deja varios muertos y desaparecidos en Jiangxi tras el paso de la tormenta Saudel"
+    },
+    "summary": {
+      "fr": "Une coulée de boue a frappé un village du district de Suichuan, dans la province du Jiangxi, tôt le samedi 5 septembre 2026, après plusieurs jours de pluies torrentielles liées à la tempête tropicale Saudel. Les premiers bilans faisaient état de 1 à 2 morts et 10 à 11 disparus ; au 7 septembre, le bilan était monté à 3 morts et 9 disparus selon le Taipei Times, les chiffres restant susceptibles d'évoluer.",
+      "en": "A mudslide struck a village in Suichuan County, Jiangxi Province, in the early hours of Saturday, September 5, 2026, following days of torrential rain from tropical storm Saudel. Initial reports cited 1-2 dead and 10-11 missing; by September 7 the toll had risen to 3 dead and 9 missing according to the Taipei Times, with figures still subject to revision.",
+      "es": "Un alud de barro golpeó una aldea del distrito de Suichuan, provincia de Jiangxi, en la madrugada del sábado 5 de septiembre de 2026, tras varios días de lluvias torrenciales por la tormenta tropical Saudel. Los primeros informes hablaban de 1 a 2 muertos y de 10 a 11 desaparecidos; para el 7 de septiembre el balance había subido a 3 muertos y 9 desaparecidos según Taipei Times, con cifras aún sujetas a revisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "La coulée de boue détruit une douzaine de maisons ; les secours recherchent les personnes disparues.",
+          "en": "The mudslide destroys about a dozen houses; rescuers search for the missing.",
+          "es": "El alud destruye una docena de viviendas; los equipos de rescate buscan a los desaparecidos."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan est révisé à 3 morts et 9 disparus selon la presse locale.",
+          "en": "The toll is revised to 3 dead and 9 missing according to local press.",
+          "es": "El balance se revisa a 3 muertos y 9 desaparecidos según la prensa local."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "inde-cour-supreme-acquittement-hyderabad",
+    "coords": [
+      77.241,
+      28.6224
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "LiveLaw / India Legal",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Cour suprême de l'Inde, New Delhi (affaire originaire d'Hyderabad, Telangana)",
+      "en": "Supreme Court of India, New Delhi (case originating in Hyderabad, Telangana)",
+      "es": "Corte Suprema de la India, Nueva Delhi (caso originado en Hyderabad, Telangana)"
+    },
+    "title": {
+      "fr": "La Cour suprême indienne acquitte un homme dans une affaire d'enlèvement-meurtre à Hyderabad, dénonçant une enquête « bâclée »",
+      "en": "Supreme Court acquits man in Hyderabad kidnap-murder case, cites 'shoddy' probe",
+      "es": "La Corte Suprema de la India absuelve a un hombre en un caso de secuestro y asesinato en Hyderabad y denuncia una investigación 'chapucera'"
+    },
+    "summary": {
+      "fr": "Le jeudi 3 septembre 2026, une formation de la Cour suprême a acquitté le dernier condamné survivant dans une affaire d'enlèvement contre rançon et de meurtre survenue à Hyderabad, jugeant que l'enquête policière reposait sur des aveux irrecevables plutôt que sur des faits légalement établis. La famille de la victime avait versé une rançon avant que son corps ne soit retrouvé caché dans un réfrigérateur. Les juridictions inférieures avaient condamné cinq accusés ; la Haute Cour en avait déjà acquitté quatre.",
+      "en": "On Thursday, September 3, 2026, a Supreme Court bench acquitted the sole surviving convict in a kidnapping-for-ransom and murder case that originated in Hyderabad, ruling the police investigation rested on inadmissible confessions rather than legally established facts. The victim's family had paid a ransom before his body was found hidden in a refrigerator. Lower courts had convicted five people; the High Court had already acquitted four of them.",
+      "es": "El jueves 3 de septiembre de 2026, una sala de la Corte Suprema absolvió al último condenado sobreviviente en un caso de secuestro con fines de rescate y asesinato originado en Hyderabad, al considerar que la investigación policial se basaba en confesiones inadmisibles y no en hechos legalmente establecidos. La familia de la víctima había pagado un rescate antes de que su cuerpo fuera hallado escondido en un refrigerador. Los tribunales inferiores habían condenado a cinco personas; el Tribunal Superior ya había absuelto a cuatro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême rend son arrêt d'acquittement final dans l'affaire.",
+          "en": "The Supreme Court hands down its final acquittal ruling in the case.",
+          "es": "La Corte Suprema dicta su fallo final de absolución en el caso."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "japon-pluies-record-yakushima-tokyo",
+    "coords": [
+      139.99,
+      35.61
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "The Japan Times / Xinhua",
+    "priority": 1,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Île de Yakushima (Kagoshima) et région de Tokyo/Chiba, Japon",
+      "en": "Yakushima Island (Kagoshima) and Tokyo/Chiba region, Japan",
+      "es": "Isla de Yakushima (Kagoshima) y región de Tokio/Chiba, Japón"
+    },
+    "title": {
+      "fr": "Des pluies record déclenchent des alertes maximales aux glissements de terrain à Yakushima, puis des inondations dans la région de Tokyo",
+      "en": "Record rainfall triggers highest-level landslide warning on Yakushima, then floods Tokyo region",
+      "es": "Lluvias récord provocan alertas máximas de deslizamientos en Yakushima y luego inundaciones en la región de Tokio"
+    },
+    "summary": {
+      "fr": "Le 5 septembre 2026, l'Agence météorologique japonaise a émis une alerte spéciale de niveau 5 (maximal) aux glissements de terrain pour la ville de Yakushima, le typhon Krovanh se combinant à un front pluvieux automnal pour produire des précipitations sans précédent ; l'alerte a été abaissée au niveau 4 dans la matinée. Le 7 septembre, des pluies record ont ensuite touché Tokyo et les préfectures voisines — l'île d'Izu Oshima a enregistré 555 mm en 24 heures — entraînant une alerte de niveau 4 pour la ville de Chiba et des mises en garde contre glissements de terrain, crues et inondations.",
+      "en": "On September 5, 2026, the Japan Meteorological Agency issued a Level 5 (highest) landslide special warning for Yakushima town, as Typhoon Krovanh combined with an autumn rain front to produce unprecedented rainfall; the warning was downgraded to Level 4 later that morning. On September 7, record rain then hit Tokyo and surrounding prefectures — Izu Oshima Island recorded 555mm in 24 hours — prompting a Level 4 heavy-rain warning for Chiba city and alerts for landslides, rising rivers and flooding.",
+      "es": "El 5 de septiembre de 2026, la Agencia Meteorológica de Japón emitió una alerta especial de nivel 5 (máximo) por deslizamientos de tierra para la ciudad de Yakushima, cuando el tifón Krovanh se combinó con un frente de lluvias otoñal y produjo precipitaciones sin precedentes; la alerta se rebajó a nivel 4 esa misma mañana. El 7 de septiembre, lluvias récord golpearon Tokio y las prefecturas vecinas —la isla de Izu Oshima registró 555 mm en 24 horas—, lo que provocó una alerta de nivel 4 para la ciudad de Chiba y avisos por deslizamientos, crecidas e inundaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Alerte spéciale de niveau 5 émise pour Yakushima, puis abaissée au niveau 4.",
+          "en": "Level 5 special warning issued for Yakushima, later downgraded to Level 4.",
+          "es": "Se emite la alerta especial de nivel 5 para Yakushima, luego rebajada a nivel 4."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Des pluies record frappent Tokyo et Chiba, avec 555 mm relevés en 24h sur l'île d'Izu Oshima.",
+          "en": "Record rain hits Tokyo and Chiba, with 555mm recorded in 24 hours on Izu Oshima Island.",
+          "es": "Lluvias récord golpean Tokio y Chiba, con 555 mm registrados en 24 horas en la isla de Izu Oshima."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "indonesie-eruption-anakkrakatau",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Anak Krakatau, détroit de la Sonde, Indonésie",
+      "en": "Anak Krakatau, Sunda Strait, Indonesia",
+      "es": "Anak Krakatau, estrecho de la Sonda, Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption de l'Anak Krakatau bloque plus de 270 000 voyageurs et ferme huit aéroports indonésiens",
+      "en": "Anak Krakatau eruption strands over 270,000 travelers, shuts eight Indonesian airports",
+      "es": "La erupción del Anak Krakatau deja varados a más de 270.000 viajeros y cierra ocho aeropuertos indonesios"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau, situé dans le détroit de la Sonde entre Java et Sumatra, est entré en éruption dans la soirée du 5 septembre 2026, projetant des cendres sur les routes aériennes. Huit aéroports, dont Soekarno-Hatta et Halim à Jakarta, ont suspendu leurs opérations ; plus de 270 000 passagers ont été affectés par des retards, déroutements ou annulations touchant environ 2 300 vols durant le week-end. Au 7 septembre, sept aéroports restaient fermés en raison de la persistance des cendres.",
+      "en": "Mount Anak Krakatau, located in the Sunda Strait between Java and Sumatra, erupted on the evening of September 5, 2026, sending ash into flight paths. Eight airports, including Jakarta's Soekarno-Hatta and Halim, suspended operations; more than 270,000 passengers were affected by delays, diversions or cancellations of around 2,300 flights over the weekend. As of September 7, seven airports remained closed due to continuing ash fall.",
+      "es": "El volcán Anak Krakatau, situado en el estrecho de la Sonda entre Java y Sumatra, entró en erupción en la noche del 5 de septiembre de 2026, lanzando ceniza sobre las rutas aéreas. Ocho aeropuertos, incluidos Soekarno-Hatta y Halim en Yakarta, suspendieron sus operaciones; más de 270.000 pasajeros se vieron afectados por retrasos, desvíos o cancelaciones de unos 2.300 vuelos durante el fin de semana. Hasta el 7 de septiembre, siete aeropuertos seguían cerrados por la persistencia de la ceniza."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "L'éruption entraîne la fermeture de huit aéroports indonésiens.",
+          "en": "The eruption leads to the closure of eight Indonesian airports.",
+          "es": "La erupción provoca el cierre de ocho aeropuertos indonesios."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "coreedusud-inflation-aout",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Statistics Korea (Office national des données) / Korea Herald",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "L'inflation sud-coréenne accélère à 3,1 % en août, son rythme le plus rapide depuis des mois",
+      "en": "South Korea's August inflation accelerates to 3.1%, fastest pace in months",
+      "es": "La inflación de Corea del Sur se acelera al 3,1 % en agosto, su ritmo más rápido en meses"
+    },
+    "summary": {
+      "fr": "L'indice des prix à la consommation sud-coréen a augmenté de 3,1 % sur un an en août 2026, contre 2,8 % en juillet, selon les données publiées le 2 septembre 2026 par l'Office national des données (Statistics Korea). Cette accélération reflète un renforcement de la demande intérieure, porté en partie par l'essor des exportations de semi-conducteurs ; certains économistes s'attendent désormais à ce que la Banque de Corée relève sa prévision de croissance 2026 au-dessus de 3 %.",
+      "en": "South Korea's Consumer Price Index rose 3.1% year-on-year in August 2026, up from 2.8% in July, according to data released on September 2, 2026 by the National Data Office (Statistics Korea). The uptick reflects strengthening domestic demand, driven in part by a semiconductor export boom; some economists now expect the Bank of Korea to raise its 2026 growth forecast above 3%.",
+      "es": "El índice de precios al consumidor de Corea del Sur subió un 3,1 % interanual en agosto de 2026, frente al 2,8 % de julio, según datos publicados el 2 de septiembre de 2026 por la Oficina Nacional de Datos (Statistics Korea). El repunte refleja un fortalecimiento de la demanda interna, impulsado en parte por el auge de las exportaciones de semiconductores; algunos economistas esperan ahora que el Banco de Corea eleve su previsión de crecimiento para 2026 por encima del 3 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Publication des données officielles d'inflation du mois d'août.",
+          "en": "Official August inflation data is published.",
+          "es": "Se publican los datos oficiales de inflación de agosto."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "nigeria-bokoharam-borno",
+    "coords": [
+      13.69,
+      11.52
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "AFP / Al Jazeera / France 24",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Darul Jamal, zone de gouvernement local de Bama, État de Borno, Nigeria",
+      "en": "Darul Jamal, Bama Local Government Area, Borno State, Nigeria",
+      "es": "Darul Jamal, área de gobierno local de Bama, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "Des combattants de Boko Haram tuent des dizaines de personnes dans un raid contre une communauté réinstallée à Borno",
+      "en": "Boko Haram militants kill dozens in raid on resettled community in Borno",
+      "es": "Combatientes de Boko Haram matan a decenas de personas en un ataque contra una comunidad reasentada en Borno"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 5 septembre 2026, des combattants de Boko Haram ont attaqué Darul Jamal, un village abritant une base militaire où des familles venaient d'être réinstallées après la fermeture d'un camp de déplacés à Bama. Le gouverneur Babagana Zulum a indiqué qu'au moins cinq soldats figuraient parmi les morts ; d'autres sources font état d'un bilan total d'environ 60 personnes tuées, civils compris. Les bilans varient selon les sources et restent à confirmer.",
+      "en": "On the night of September 5, 2026, Boko Haram fighters attacked Darul Jamal, a village hosting a military base where families had recently been resettled after the closure of an IDP camp in Bama. Governor Babagana Zulum said at least five soldiers were among the dead; other sources cite a total toll of around 60 people killed, including civilians. Death tolls vary by source and remain to be confirmed.",
+      "es": "En la noche del 5 de septiembre de 2026, combatientes de Boko Haram atacaron Darul Jamal, una aldea que alberga una base militar donde familias habían sido reasentadas recientemente tras el cierre de un campo de desplazados en Bama. El gobernador Babagana Zulum indicó que al menos cinco soldados estaban entre los muertos; otras fuentes citan un total de unas 60 personas fallecidas, incluidos civiles. Los balances varían según la fuente y aún deben confirmarse."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Attaque nocturne contre Darul Jamal ; le gouverneur de Borno confirme la mort de soldats.",
+          "en": "Overnight attack on Darul Jamal; Borno's governor confirms soldiers among the dead.",
+          "es": "Ataque nocturno contra Darul Jamal; el gobernador de Borno confirma soldados entre los muertos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "iran-petroliers-frappes-usa",
+    "coords": [
+      50.32,
+      29.23
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CENTCOM (États-Unis) / CNN / Washington Post",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Île de Kharg et environs de Jask, golfe Persique / golfe d'Oman, Iran",
+      "en": "Kharg Island and near Jask, Persian Gulf / Gulf of Oman, Iran",
+      "es": "Isla de Kharg y cercanías de Jask, golfo Pérsico / golfo de Omán, Irán"
+    },
+    "title": {
+      "fr": "Les États-Unis détruisent des pétroliers iraniens après une attaque de missiles des Gardiens de la révolution contre des navires de guerre américains",
+      "en": "US destroys Iranian oil tankers after IRGC missile attack on US warships",
+      "es": "EE. UU. destruye petroleros iraníes tras un ataque con misiles de la Guardia Revolucionaria contra buques de guerra estadounidenses"
+    },
+    "summary": {
+      "fr": "Le 5 septembre 2026, le commandement militaire américain pour le Moyen-Orient (CENTCOM) a annoncé avoir « rendu définitivement inopérants » deux pétroliers liés aux Gardiens de la révolution iraniens (près de l'île de Kharg et près de Jask) et en avoir « entièrement détruit » un troisième dans le golfe d'Oman, les présentant comme faisant partie d'un réseau clandestin finançant les Gardiens de la révolution. Ces frappes ont suivi le tir de missiles balistiques iraniens contre un porte-avions et un destroyer américains près du détroit d'Ormuz, que Washington affirme avoir évités sans pertes.",
+      "en": "On September 5, 2026, US Central Command (CENTCOM) said it had 'permanently disabled' two Iranian Revolutionary Guard Corps-linked oil tankers (near Kharg Island and near Jask) and 'completely destroyed' a third in the Gulf of Oman, describing them as part of a shadow network funding the IRGC. The strikes followed Iranian ballistic missiles fired at a US aircraft carrier and destroyer near the Strait of Hormuz, which Washington said it evaded with no casualties.",
+      "es": "El 5 de septiembre de 2026, el Mando Central de EE. UU. (CENTCOM) afirmó haber 'inutilizado permanentemente' dos petroleros vinculados a la Guardia Revolucionaria iraní (cerca de la isla de Kharg y de Jask) y haber 'destruido por completo' un tercero en el golfo de Omán, describiéndolos como parte de una red clandestina que financia a la Guardia Revolucionaria. Los ataques siguieron al lanzamiento de misiles balísticos iraníes contra un portaaviones y un destructor estadounidenses cerca del estrecho de Ormuz, que Washington afirma haber evadido sin bajas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "CENTCOM annonce officiellement la destruction ou la mise hors service de trois pétroliers liés aux Gardiens de la révolution.",
+          "en": "CENTCOM officially announces the destruction or disabling of three IRGC-linked oil tankers.",
+          "es": "CENTCOM anuncia oficialmente la destrucción o inutilización de tres petroleros vinculados a la Guardia Revolucionaria."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "liban-frappes-israeliennes-nabatieh",
+    "coords": [
+      35.48,
+      33.38
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Times of Israel / Haaretz / Arab News",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Nabatieh al-Fawqa et Nabatieh al-Tahta, sud du Liban",
+      "en": "Nabatieh al-Fawqa and Nabatieh al-Tahta, southern Lebanon",
+      "es": "Nabatieh al-Fawqa y Nabatieh al-Tahta, sur del Líbano"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes tuent sept personnes dans le sud du Liban et détruisent un ancien hôpital",
+      "en": "Israeli strikes kill seven in southern Lebanon, destroy former hospital building",
+      "es": "Ataques israelíes matan a siete personas en el sur del Líbano y destruyen un antiguo hospital"
+    },
+    "summary": {
+      "fr": "Le 6 septembre 2026, des frappes israéliennes dans le sud du Liban ont tué au moins sept personnes — quatre lors de frappes initiales, trois autres lors d'une frappe de drone séparée sur Nabatieh al-Tahta —, dont deux femmes. Israël affirme avoir agi après que le Hezbollah a lancé deux drones explosifs contre ses troupes dans la zone tampon occupée, et avoir détruit l'ancien hôpital Gandour à Nabatieh al-Fawqa, qu'il présente comme un centre de commandement du Hezbollah. La présidence libanaise a qualifié ces frappes, qui ont aussi endommagé un bâtiment du ministère des Finances, d'« escalade dangereuse » visant des infrastructures civiles.",
+      "en": "On September 6, 2026, Israeli strikes on southern Lebanon killed at least seven people — four in initial strikes, three more in a separate drone strike on Nabatieh al-Tahta — including two women. Israel said it acted after Hezbollah launched two explosive drones at its troops in the occupied buffer zone, and that it destroyed the disused Gandour Hospital building in Nabatieh al-Fawqa, which it says Hezbollah used as a command center. The Lebanese presidency called the strikes, which also damaged a finance ministry building, 'a dangerous escalation' targeting civilian infrastructure.",
+      "es": "El 6 de septiembre de 2026, ataques israelíes en el sur del Líbano mataron al menos a siete personas —cuatro en ataques iniciales y tres más en un ataque de dron separado en Nabatieh al-Tahta—, entre ellas dos mujeres. Israel afirmó haber actuado después de que Hezbolá lanzara dos drones explosivos contra sus tropas en la zona de amortiguación ocupada, y haber destruido el antiguo edificio del Hospital Gandour en Nabatieh al-Fawqa, que según Israel era usado por Hezbolá como centro de mando. La presidencia libanesa calificó los ataques, que también dañaron un edificio del ministerio de Finanzas, de 'escalada peligrosa' contra infraestructura civil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Les frappes font sept morts ; la présidence libanaise dénonce une escalade dangereuse.",
+          "en": "The strikes leave seven dead; the Lebanese presidency denounces a dangerous escalation.",
+          "es": "Los ataques dejan siete muertos; la presidencia libanesa denuncia una escalada peligrosa."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "afriquesud-rugby-blackferns",
+    "coords": [
+      27.98,
+      -26.23
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏉",
+    "source": "SA Rugby / 1News",
+    "priority": 3,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Stade FNB, Soweto, Johannesburg, Afrique du Sud",
+      "en": "FNB Stadium, Soweto, Johannesburg, South Africa",
+      "es": "Estadio FNB, Soweto, Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Les Black Ferns écrasent les Springbok Women 52-20 dans un test-match historique",
+      "en": "Black Ferns rout Springbok Women 52-20 in landmark Test",
+      "es": "Las Black Ferns golean 52-20 a las Springbok Women en un histórico test match"
+    },
+    "summary": {
+      "fr": "Le 5 septembre 2026, les Black Ferns néo-zélandaises ont battu les Springbok Women sud-africaines 52-20 (24-10 à la mi-temps) au stade FNB de Soweto, inscrivant huit essais. Ce match, disputé dans le cadre de la tournée féminine 2026 de la Nouvelle-Zélande, a attiré une large foule alors que le rugby féminin sud-africain gagne en visibilité, peu après la démission surprise du sélectionneur des Springbok Women, Swys de Bruin.",
+      "en": "On September 5, 2026, New Zealand's Black Ferns defeated South Africa's Springbok Women 52-20 (halftime 24-10) at FNB Stadium in Soweto, scoring eight tries. The match, part of New Zealand's 2026 women's rugby tour, drew a large crowd as South African women's rugby's profile grows, shortly after the surprise resignation of Springbok Women's head coach Swys de Bruin.",
+      "es": "El 5 de septiembre de 2026, las Black Ferns de Nueva Zelanda vencieron 52-20 (24-10 al descanso) a las Springbok Women de Sudáfrica en el Estadio FNB de Soweto, anotando ocho ensayos. El partido, parte de la gira femenina de Nueva Zelanda de 2026, atrajo a una gran multitud mientras el rugby femenino sudafricano gana visibilidad, poco después de la sorpresiva dimisión del entrenador de las Springbok Women, Swys de Bruin."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Fin du match : Black Ferns 52 - Springbok Women 20.",
+          "en": "Final whistle: Black Ferns 52 - Springbok Women 20.",
+          "es": "Final del partido: Black Ferns 52 - Springbok Women 20."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "egypte-visite-xijinping-caire",
+    "coords": [
+      31.33,
+      30.08
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Al Jazeera",
+    "priority": 2,
+    "week": "2026-W37",
+    "place": {
+      "fr": "Palais présidentiel d'Ittihadia, Le Caire, Égypte",
+      "en": "Ittihadia Presidential Palace, Cairo, Egypt",
+      "es": "Palacio presidencial de Ittihadia, El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Xi Jinping se rend au Caire et appelle à un nouveau cadre de sécurité pour le Moyen-Orient",
+      "en": "China's Xi Jinping visits Cairo, urges new Middle East security framework",
+      "es": "Xi Jinping visita El Cairo e insta a un nuevo marco de seguridad para Oriente Medio"
+    },
+    "summary": {
+      "fr": "Le 2 septembre 2026, le président chinois Xi Jinping a rencontré son homologue égyptien Abdel Fattah al-Sissi au Caire — sa première visite en Égypte depuis dix ans —, dans le but de renforcer les liens économiques et militaires alors que Pékin étend son influence régionale. Xi Jinping a appelé les États du Moyen-Orient à résister aux « influences extérieures » et à envisager une refonte de l'ordre sécuritaire régional, une visite largement interprétée comme un signe de l'équilibre que Le Caire cherche à maintenir entre Washington et Pékin dans un contexte de tensions régionales liées à l'Iran.",
+      "en": "On September 2, 2026, Chinese President Xi Jinping met Egyptian President Abdel Fattah el-Sisi in Cairo — Xi's first visit to Egypt in a decade — aiming to deepen economic and military ties as Beijing expands its regional influence. Xi called on Middle East states to resist 'external influence' and consider reshaping the region's security order, a visit widely seen as Cairo balancing ties between Washington and Beijing amid ongoing regional tensions linked to Iran.",
+      "es": "El 2 de septiembre de 2026, el presidente chino Xi Jinping se reunió con su homólogo egipcio Abdel Fattah al-Sisi en El Cairo —su primera visita a Egipto en una década—, con el objetivo de profundizar los lazos económicos y militares mientras Pekín amplía su influencia regional. Xi pidió a los estados de Oriente Medio resistir a la 'influencia externa' y considerar una remodelación del orden de seguridad regional, una visita interpretada ampliamente como un intento de El Cairo de equilibrar sus relaciones entre Washington y Pekín en medio de las tensiones regionales vinculadas a Irán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Rencontre officielle entre Xi Jinping et Abdel Fattah al-Sissi au palais d'Ittihadia.",
+          "en": "Official meeting between Xi Jinping and Abdel Fattah el-Sisi at Ittihadia Palace.",
+          "es": "Reunión oficial entre Xi Jinping y Abdel Fattah al-Sisi en el Palacio de Ittihadia."
+        },
+        "active": true
+      }
+    ]
   }
 ]
