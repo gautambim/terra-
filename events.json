@@ -472,7 +472,7 @@
     "severe": true,
     "category": "securite",
     "icon": "🏚️",
-    "source": "La Presse",
+    "source": "La Presse / Associated Press",
     "place": {
       "fr": "Nord du Venezuela (région de Caracas)",
       "en": "Northern Venezuela (Caracas region)",
@@ -500,10 +500,23 @@
           "en": "Venezuelan authorities publish an official toll of nearly 3,000 deaths.",
           "es": "Las autoridades venezolanas publican un balance oficial cercano a los 3000 muertos."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "L'aéroport international Simón Bolívar rouvre partiellement au trafic commercial, près de dix semaines après sa fermeture, dans des installations temporaires installées sur le parking, selon l'Associated Press.",
+          "en": "Simón Bolívar International Airport partially reopens to commercial traffic, nearly ten weeks after closing, using temporary facilities set up in the parking lot, according to the Associated Press.",
+          "es": "El Aeropuerto Internacional Simón Bolívar reabre parcialmente al tráfico comercial, casi diez semanas después de su cierre, en instalaciones temporales habilitadas en el estacionamiento, según Associated Press."
+        },
         "active": true
       }
     ],
-    "week": "2026-W29",
+    "week": "2026-W37",
     "priority": 3
   },
   {
@@ -692,8 +705,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Associated Press",
+    "week": "2026-W37",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +746,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran annonce la création prochaine d'une « zone d'exclusion » près du détroit d'Ormuz pour les navires tentant d'y transiter, au lendemain de frappes américaines sur trois pétroliers iraniens et de tirs de missiles balistiques iraniens sur des navires de guerre américains, selon l'Associated Press.",
+          "en": "Iran announces plans for a new \"exclusion zone\" near the Strait of Hormuz targeting vessels attempting to transit it, a day after US strikes on three Iranian oil tankers and Iranian ballistic missile fire at US warships, according to the Associated Press.",
+          "es": "Irán anuncia planes para crear una nueva \"zona de exclusión\" cerca del estrecho de Ormuz dirigida a los buques que intenten transitarlo, un día después de ataques estadounidenses contra tres petroleros iraníes y del lanzamiento de misiles balísticos iraníes contra buques de guerra estadounidenses, según Associated Press."
         },
         "active": true
       }
@@ -829,5 +855,800 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      77.1858,
+      28.5657
+    ],
+    "id": "delhi-effondrement-immeuble",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "PTI / The Tribune",
+    "place": {
+      "fr": "Satya Niketan (Delhi Sud), Inde",
+      "en": "Satya Niketan (South Delhi), India",
+      "es": "Satya Niketan (sur de Delhi), India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble à Satya Niketan, à Delhi : au moins 6 morts",
+      "en": "Building collapse in Satya Niketan, Delhi kills at least 6",
+      "es": "Derrumbe de un edificio en Satya Niketan, Delhi, deja al menos 6 muertos"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages abritant un foyer étudiant s'est effondré dimanche 6 septembre à Satya Niketan, près du campus sud de l'université de Delhi, selon PTI et The Tribune. Le bâtiment, vieux d'une cinquantaine d'années et toujours en travaux, avait déjà été loué à des étudiants dès le mois d'août malgré des rénovations inachevées. Le bilan reste incertain : au moins 6 morts selon les autorités locales, certains médias indiens évoquant 7 décès.",
+      "en": "A five-storey building housing a student hostel collapsed on Sunday, September 6, in Satya Niketan, near Delhi University's South Campus, according to PTI and The Tribune. The roughly 50-year-old structure was still undergoing renovation but had already been rented out to students since August. The toll remains uncertain: local authorities report at least 6 dead, while some Indian outlets put the figure at 7.",
+      "es": "Un edificio de cinco pisos que albergaba una residencia estudiantil se derrumbó el domingo 6 de septiembre en Satya Niketan, cerca del campus sur de la Universidad de Delhi, según PTI y The Tribune. La estructura, de unos 50 años, seguía en obras pese a que ya se alquilaba a estudiantes desde agosto. El balance sigue siendo incierto: las autoridades locales hablan de al menos 6 muertos, mientras algunos medios indios mencionan 7."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "09/06/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'immeuble s'effondre dimanche après-midi ; au moins 12 personnes sont dégagées des décombres, le propriétaire est activement recherché et un immeuble voisin fragilisé doit être démoli, selon PTI.",
+          "en": "The building collapses on Sunday afternoon; at least 12 people are pulled from the rubble, the owner is being actively sought, and a weakened neighbouring building is to be demolished, according to PTI.",
+          "es": "El edificio se derrumba el domingo por la tarde; al menos 12 personas son rescatadas de los escombros, se busca activamente al propietario y un edificio vecino debilitado será demolido, según PTI."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      85.5382,
+      28.2096
+    ],
+    "id": "nepal-chine-inondations-glaciaires",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / Euronews",
+    "place": {
+      "fr": "Vallée de Langtang, Népal (et région du Xizang, Chine)",
+      "en": "Langtang valley, Nepal (and Xizang region, China)",
+      "es": "Valle de Langtang, Nepal (y región de Xizang, China)"
+    },
+    "title": {
+      "fr": "Le bilan des inondations glaciaires au Népal dépasse 1 000 morts",
+      "en": "Death toll from glacial floods in Nepal passes 1,000",
+      "es": "El balance de las inundaciones glaciares en Nepal supera los 1.000 muertos"
+    },
+    "summary": {
+      "fr": "Déclenchées le 26 août par l'effondrement d'un glacier dans l'Himalaya, des crues torrentielles ont détruit plusieurs villages de la vallée de Langtang, au Népal, et touché la région chinoise du Xizang, selon Al Jazeera et Euronews. Au 5 septembre, le bilan officiel s'élevait à 1 355 morts côté népalais et 16 côté chinois, avec près de 5 000 personnes toujours portées disparues. Près de 12 000 personnes ont été secourues au Népal.",
+      "en": "Triggered on August 26 by a glacial collapse high in the Himalayas, flash floods destroyed several villages in Nepal's Langtang valley and also affected China's Xizang region, according to Al Jazeera and Euronews. As of September 5, the official toll stood at 1,355 dead in Nepal and 16 in China, with nearly 5,000 people still unaccounted for. Close to 12,000 people have been rescued in Nepal.",
+      "es": "Desencadenadas el 26 de agosto por el colapso de un glaciar en el Himalaya, las crecidas repentinas destruyeron varios pueblos del valle de Langtang, en Nepal, y afectaron también a la región china de Xizang, según Al Jazeera y Euronews. Hasta el 5 de septiembre, el balance oficial era de 1.355 muertos en Nepal y 16 en China, con cerca de 5.000 personas aún desaparecidas. Casi 12.000 personas han sido rescatadas en Nepal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan officiel atteint 1 355 morts au Népal et 16 en Chine, selon les autorités citées par Euronews.",
+          "en": "The official toll reaches 1,355 dead in Nepal and 16 in China, according to authorities cited by Euronews.",
+          "es": "El balance oficial alcanza 1.355 muertos en Nepal y 16 en China, según las autoridades citadas por Euronews."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      13.68,
+      11.1
+    ],
+    "id": "nigeria-treve-boko-haram",
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "The New Humanitarian",
+    "place": {
+      "fr": "Ngoshe, État de Borno, Nigeria",
+      "en": "Ngoshe, Borno State, Nigeria",
+      "es": "Ngoshe, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "Le Nigeria aurait conclu une trêve secrète avec Boko Haram dans le nord-est",
+      "en": "Nigeria reportedly struck a secret ceasefire with Boko Haram in the northeast",
+      "es": "Nigeria habría alcanzado una tregua secreta con Boko Haram en el noreste"
+    },
+    "summary": {
+      "fr": "Selon une enquête de The New Humanitarian publiée le 7 septembre, le gouvernement nigérian maintiendrait depuis trois mois une trêve non officielle avec Boko Haram autour de Ngoshe, dans l'État de Borno, après des négociations ayant permis la libération en juin de 360 civils enlevés en mars lors d'une attaque contre une base militaire voisine. Une rançon de 3,7 millions de dollars aurait été versée, ce que le gouvernement dément. Ces informations n'ont pas été confirmées de façon indépendante.",
+      "en": "According to an investigation by The New Humanitarian published on September 7, the Nigerian government has reportedly maintained an unofficial three-month truce with Boko Haram around Ngoshe, in Borno State, following negotiations that led to the June release of 360 civilians abducted in March during an attack on a nearby military base. A ransom of $3.7 million was allegedly paid, which the government denies. This information has not been independently confirmed.",
+      "es": "Según una investigación de The New Humanitarian publicada el 7 de septiembre, el gobierno nigeriano mantendría desde hace tres meses una tregua no oficial con Boko Haram en torno a Ngoshe, en el estado de Borno, tras negociaciones que permitieron la liberación en junio de 360 civiles secuestrados en marzo durante un ataque a una base militar cercana. Se habría pagado un rescate de 3,7 millones de dólares, algo que el gobierno niega. Esta información no ha sido confirmada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "The New Humanitarian révèle l'existence d'une trêve secrète, qui pourrait être prolongée de 40 jours.",
+          "en": "The New Humanitarian reveals the existence of a secret truce, which could be extended by 40 days.",
+          "es": "The New Humanitarian revela la existencia de una tregua secreta, que podría prorrogarse 40 días."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "id": "indonesie-eruption-anak-krakatau",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Détroit de la Sonde, Indonésie",
+      "en": "Sunda Strait, Indonesia",
+      "es": "Estrecho de la Sonda, Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption de l'Anak Krakatau paralyse le trafic aérien en Indonésie",
+      "en": "Anak Krakatau eruption paralyzes air traffic in Indonesia",
+      "es": "La erupción del Anak Krakatau paraliza el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau est entré en éruption continue pendant environ 25 heures dans la nuit du 4 au 6 septembre, projetant des cendres jusqu'à 6 000 mètres d'altitude, selon CNN et Al Jazeera. Huit aéroports, dont le principal aéroport de Jakarta, ont suspendu leurs opérations, perturbant plus de 1 500 vols et bloquant plus de 270 000 passagers. Le volcan reste au niveau d'alerte III, avec une zone d'exclusion de 3 km ; les autorités indonésiennes écartent tout risque imminent de tsunami.",
+      "en": "The Anak Krakatau volcano erupted continuously for about 25 hours overnight from September 4 to 6, throwing ash up to 6,000 meters, according to CNN and Al Jazeera. Eight airports, including Jakarta's main airport, suspended operations, disrupting more than 1,500 flights and stranding over 270,000 passengers. The volcano remains at alert level III, with a 3km exclusion zone; Indonesian authorities rule out any imminent tsunami risk.",
+      "es": "El volcán Anak Krakatau entró en erupción continua durante unas 25 horas en la noche del 4 al 6 de septiembre, arrojando ceniza hasta 6.000 metros de altura, según CNN y Al Jazeera. Ocho aeropuertos, incluido el principal de Yakarta, suspendieron operaciones, afectando a más de 1.500 vuelos y dejando varados a más de 270.000 pasajeros. El volcán permanece en nivel de alerta III, con una zona de exclusión de 3 km; las autoridades indonesias descartan un riesgo inminente de tsunami."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "09/06/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'éruption continue prend fin après 25 heures ; les huit aéroports touchés commencent à rouvrir progressivement, selon Al Jazeera.",
+          "en": "The continuous eruption ends after 25 hours; the eight affected airports begin gradually reopening, according to Al Jazeera.",
+          "es": "La erupción continua termina tras 25 horas; los ocho aeropuertos afectados comienzan a reabrir gradualmente, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      140.888,
+      37.05
+    ],
+    "id": "japon-pluies-record-fukushima",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌧️",
+    "source": "Xinhua / Agence météorologique du Japon",
+    "place": {
+      "fr": "Iwaki, préfecture de Fukushima, Japon",
+      "en": "Iwaki, Fukushima Prefecture, Japan",
+      "es": "Iwaki, prefectura de Fukushima, Japón"
+    },
+    "title": {
+      "fr": "Une femme meurt dans sa voiture submergée après des pluies record au Japon",
+      "en": "Woman dies in submerged car after record rainfall in Japan",
+      "es": "Una mujer muere en su coche sumergido tras lluvias récord en Japón"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles ont touché le Japon le 7 septembre, l'Agence météorologique japonaise émettant des alertes de niveau 5 pour glissements de terrain sur les îles Izu, où les cumuls ont battu des records (581,5 mm à Oshima). À Iwaki, dans la préfecture de Fukushima, une femme d'une soixantaine d'années a été retrouvée morte dans sa voiture submergée dans un passage inférieur, selon Xinhua. La ville a brièvement ordonné l'évacuation de l'ensemble de sa population avant de lever l'alerte.",
+      "en": "Torrential rain hit Japan on September 7, with the Japan Meteorological Agency issuing Level 5 landslide warnings for the Izu Islands, where rainfall totals broke records (581.5 mm in Oshima). In Iwaki, Fukushima Prefecture, a woman in her sixties was found dead in her car after it became submerged in an underpass, according to Xinhua. The city briefly ordered a citywide evacuation before lifting the alert.",
+      "es": "Lluvias torrenciales azotaron Japón el 7 de septiembre, y la Agencia Meteorológica de Japón emitió alertas de nivel 5 por deslizamientos en las islas Izu, donde se batieron récords de precipitación (581,5 mm en Oshima). En Iwaki, prefectura de Fukushima, una mujer de unos sesenta años fue hallada muerta en su coche tras quedar sumergido en un paso subterráneo, según Xinhua. La ciudad ordenó brevemente la evacuación de toda la población antes de levantar la alerta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Iwaki confirme un décès dans son bilan de 15h ; deux autres personnes sont légèrement blessées dans la préfecture de Chiba, selon Xinhua.",
+          "en": "Iwaki confirms one death in its 3 p.m. report; two other people are lightly injured in Chiba Prefecture, according to Xinhua.",
+          "es": "Iwaki confirma un fallecimiento en su balance de las 15h; otras dos personas resultan levemente heridas en la prefectura de Chiba, según Xinhua."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "id": "japon-pib-t2-revise",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Reuters",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le PIB japonais du deuxième trimestre révisé à la hausse",
+      "en": "Japan's second-quarter GDP revised upward",
+      "es": "El PIB japonés del segundo trimestre se revisa al alza"
+    },
+    "summary": {
+      "fr": "Le cabinet du Premier ministre japonais a publié le 8 septembre une révision de la croissance du deuxième trimestre à 1,4 % en rythme annualisé, contre 1,1 % en première estimation, selon Reuters. La révision reflète des dépenses d'investissement des entreprises moins faibles qu'estimé initialement. Ces chiffres renforcent les anticipations d'une hausse des taux de la Banque du Japon, dans un contexte de rendements obligataires proches de leurs plus hauts en 30 ans.",
+      "en": "Japan's Cabinet Office released a revision on September 8 putting second-quarter growth at an annualized 1.4%, up from an initial estimate of 1.1%, according to Reuters. The revision reflects business capital expenditure that was less weak than first estimated. The figures reinforce expectations of a Bank of Japan rate hike, amid bond yields near 30-year highs.",
+      "es": "La Oficina del Gabinete de Japón publicó el 8 de septiembre una revisión que sitúa el crecimiento del segundo trimestre en un 1,4% anualizado, frente al 1,1% de la primera estimación, según Reuters. La revisión refleja un gasto de capital empresarial menos débil de lo estimado inicialmente. Las cifras refuerzan las expectativas de una subida de tipos del Banco de Japón, en un contexto de rendimientos de bonos cercanos a máximos de 30 años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement publie la révision officielle du PIB du deuxième trimestre, selon Reuters.",
+          "en": "The government releases the official second-quarter GDP revision, according to Reuters.",
+          "es": "El gobierno publica la revisión oficial del PIB del segundo trimestre, según Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "id": "canada-contre-tarifs-etats-unis",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Gouvernement du Canada / Al Jazeera",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada impose des contre-tarifs de 19,9 milliards de dollars sur les produits américains",
+      "en": "Canada imposes $19.9 billion in counter-tariffs on US goods",
+      "es": "Canadá impone contraaranceles por 19.900 millones de dólares a productos estadounidenses"
+    },
+    "summary": {
+      "fr": "Des contre-tarifs de 15, 25 et 50 % sont entrés en vigueur le 8 septembre sur plus de 700 produits américains, en réponse aux droits de douane américains au titre des sections 232 et 338, selon le gouvernement du Canada et Al Jazeera. La mesure, annoncée par le premier ministre Mark Carney après l'échec des négociations commerciales avec Washington, touche notamment l'acier, l'aluminium, les produits laitiers et l'électroménager. Ottawa a par ailleurs annoncé un plan de soutien de 7,5 milliards de dollars pour les travailleurs et entreprises canadiens affectés.",
+      "en": "Counter-tariffs of 15%, 25% and 50% took effect on September 8 on more than 700 US products, in response to US Section 232 and Section 338 tariffs, according to the Canadian government and Al Jazeera. The move, announced by Prime Minister Mark Carney after trade talks with Washington collapsed, targets steel, aluminum, dairy and appliances among other sectors. Ottawa also announced a $7.5 billion support package for affected Canadian workers and businesses.",
+      "es": "Contraaranceles del 15%, 25% y 50% entraron en vigor el 8 de septiembre sobre más de 700 productos estadounidenses, en respuesta a los aranceles de EE. UU. bajo las secciones 232 y 338, según el gobierno de Canadá y Al Jazeera. La medida, anunciada por el primer ministro Mark Carney tras el fracaso de las negociaciones comerciales con Washington, afecta al acero, el aluminio, los lácteos y los electrodomésticos, entre otros sectores. Ottawa anunció además un paquete de apoyo de 7.500 millones de dólares para los trabajadores y empresas canadienses afectados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les contre-tarifs canadiens entrent en vigueur après l'échec des pourparlers commerciaux avec les États-Unis.",
+          "en": "Canadian counter-tariffs take effect after trade talks with the United States collapse.",
+          "es": "Los contraaranceles canadienses entran en vigor tras el fracaso de las negociaciones comerciales con Estados Unidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-taxe-blusinhas-permanente",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le Congrès brésilien rend permanente l'exonération sur les achats en ligne à l'étranger",
+      "en": "Brazil's Congress makes tax exemption on small overseas purchases permanent",
+      "es": "El Congreso de Brasil hace permanente la exención fiscal a las compras en línea en el extranjero"
+    },
+    "summary": {
+      "fr": "La commission mixte du Congrès brésilien a approuvé le 2 septembre, avant l'échéance du 8 septembre, un texte de la sénatrice Leila Barros rendant permanente l'exonération de taxe sur les achats internationaux jusqu'à 50 dollars, selon le Rio Times. Le texte abaisse aussi de 60 % à 30 % la taxe sur les envois entre 50 et 3 000 dollars. Il doit encore être promulgué par le président Lula pour entrer en vigueur.",
+      "en": "Brazil's joint congressional committee approved a bill on September 2, ahead of the September 8 deadline, from Senator Leila Barros making permanent the tax exemption on international purchases up to $50, according to the Rio Times. The bill also cuts the tax on shipments between $50 and $3,000 from 60% to 30%. It still needs to be signed into law by President Lula to take effect.",
+      "es": "La comisión mixta del Congreso brasileño aprobó el 2 de septiembre, antes del plazo del 8 de septiembre, un proyecto de la senadora Leila Barros que hace permanente la exención del impuesto sobre las compras internacionales de hasta 50 dólares, según Rio Times. El texto también reduce del 60% al 30% el impuesto sobre los envíos de entre 50 y 3.000 dólares. Aún debe ser promulgado por el presidente Lula para entrar en vigor."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La commission mixte du Congrès approuve le texte avant l'expiration de l'exonération temporaire, selon le Rio Times.",
+          "en": "The joint congressional committee approves the bill before the temporary exemption's expiry, according to the Rio Times.",
+          "es": "La comisión mixta del Congreso aprueba el texto antes de que expire la exención temporal, según Rio Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      8.0473,
+      52.2799
+    ],
+    "id": "allemagne-volkswagen-usine-defense",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "Bloomberg / CNN",
+    "place": {
+      "fr": "Osnabrück, Allemagne",
+      "en": "Osnabrück, Germany",
+      "es": "Osnabrück, Alemania"
+    },
+    "title": {
+      "fr": "Volkswagen va reconvertir son usine d'Osnabrück pour la défense israélienne",
+      "en": "Volkswagen to convert its Osnabrück plant into an Israeli defense facility",
+      "es": "Volkswagen convertirá su planta de Osnabrück en una fábrica de defensa israelí"
+    },
+    "summary": {
+      "fr": "Volkswagen a conclu le 7 septembre un accord préliminaire avec le fonds israélien Aurelius Capital pour transformer son usine d'Osnabrück, vieille de 125 ans, en site de fabrication d'équipements de défense en partenariat avec l'entreprise israélienne Rafael, selon Bloomberg et CNN. Aurelius et le Land de Basse-Saxe deviendraient actionnaires majoritaires de la coentreprise, qui produirait notamment des composants de défense antiaérienne. L'accord, encore soumis à approbation réglementaire, vise à préserver environ 1 400 des 1 800 emplois du site, menacé par l'arrêt de la production automobile prévu l'an prochain.",
+      "en": "Volkswagen signed a preliminary agreement on September 7 with Israeli fund Aurelius Capital to convert its 125-year-old Osnabrück plant into a defense equipment manufacturing site in partnership with Israeli company Rafael, according to Bloomberg and CNN. Aurelius and the state of Lower Saxony would become majority shareholders in the joint venture, which would produce air-defense components among other things. The deal, still subject to regulatory approval, aims to preserve about 1,400 of the plant's 1,800 jobs, threatened by the planned end of car production next year.",
+      "es": "Volkswagen firmó el 7 de septiembre un acuerdo preliminar con el fondo israelí Aurelius Capital para convertir su planta de Osnabrück, de 125 años de antigüedad, en un centro de fabricación de equipos de defensa en asociación con la empresa israelí Rafael, según Bloomberg y CNN. Aurelius y el land de Baja Sajonia se convertirían en accionistas mayoritarios de la empresa conjunta, que produciría entre otras cosas componentes de defensa antiaérea. El acuerdo, aún sujeto a aprobación regulatoria, busca preservar unos 1.400 de los 1.800 empleos de la planta, amenazados por el fin previsto de la producción de automóviles el próximo año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Volkswagen et Aurelius Capital annoncent leur accord préliminaire, selon Bloomberg.",
+          "en": "Volkswagen and Aurelius Capital announce their preliminary agreement, according to Bloomberg.",
+          "es": "Volkswagen y Aurelius Capital anuncian su acuerdo preliminar, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-frappes-kiev-septembre",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Kiev et région d'Odessa, Ukraine",
+      "en": "Kyiv and Odesa region, Ukraine",
+      "es": "Kiev y región de Odesa, Ucrania"
+    },
+    "title": {
+      "fr": "Des frappes russes sur Kiev font 2 morts, mettant fin à une accalmie",
+      "en": "Russian strikes on Kyiv kill 2, ending a lull in attacks",
+      "es": "Ataques rusos sobre Kiev matan a 2 personas y ponen fin a una calma"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 7 au 8 septembre, la Russie a frappé Kiev avec des missiles balistiques, de croisière et des drones Shahed, tuant deux personnes et en blessant au moins dix, selon l'Associated Press. Les forces ukrainiennes affirment avoir intercepté deux missiles balistiques, 31 missiles de croisière et 142 drones ; des infrastructures civiles ont été endommagées dans 16 sites de la capitale et des incendies se sont déclarés dans au moins cinq arrondissements. L'attaque, qui a aussi visé la région d'Odessa, met fin à une accalmie survenue lors de la première visite à Kiev des émissaires américains Steve Witkoff et Jared Kushner.",
+      "en": "Overnight from September 7 to 8, Russia struck Kyiv with ballistic and cruise missiles and Shahed drones, killing two people and injuring at least ten, according to the Associated Press. Ukrainian forces say they intercepted two ballistic missiles, 31 cruise missiles and 142 drones; civilian infrastructure was damaged at 16 sites in the capital, and fires broke out in at least five districts. The attack, which also targeted the Odesa region, ends a lull that coincided with the first visit to Kyiv by US envoys Steve Witkoff and Jared Kushner.",
+      "es": "Durante la noche del 7 al 8 de septiembre, Rusia atacó Kiev con misiles balísticos, de crucero y drones Shahed, matando a dos personas e hiriendo al menos a diez, según Associated Press. Las fuerzas ucranianas afirman haber interceptado dos misiles balísticos, 31 misiles de crucero y 142 drones; se dañó infraestructura civil en 16 puntos de la capital y se declararon incendios en al menos cinco distritos. El ataque, que también alcanzó la región de Odesa, pone fin a una calma coincidente con la primera visita a Kiev de los enviados estadounidenses Steve Witkoff y Jared Kushner."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "L'attaque combinée fait 2 morts et au moins 10 blessés à Kiev, selon les services d'urgence ukrainiens.",
+          "en": "The combined attack kills 2 and injures at least 10 in Kyiv, according to Ukrainian emergency services.",
+          "es": "El ataque combinado deja 2 muertos y al menos 10 heridos en Kiev, según los servicios de emergencia ucranianos."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      149.13,
+      -35.2809
+    ],
+    "id": "australie-loi-algorithmes-reseaux",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Canberra, Australie",
+      "en": "Canberra, Australia",
+      "es": "Canberra, Australia"
+    },
+    "title": {
+      "fr": "L'Australie propose de forcer les réseaux sociaux à permettre de désactiver leurs algorithmes",
+      "en": "Australia proposes forcing social platforms to let users turn off algorithms",
+      "es": "Australia propone obligar a las redes sociales a permitir desactivar sus algoritmos"
+    },
+    "summary": {
+      "fr": "La ministre australienne des Communications, Anika Wells, a présenté le 8 septembre un projet de loi qui obligerait les plateformes comme Meta, Google et TikTok à offrir à leurs utilisateurs la possibilité de désactiver les algorithmes de recommandation, sous peine de sanctions, selon Bloomberg. La mesure s'inscrit dans une série d'initiatives réglementaires australiennes visant les grandes entreprises technologiques, après l'interdiction des réseaux sociaux aux moins de 16 ans entrée en vigueur plus tôt cette année.",
+      "en": "Australian Communications Minister Anika Wells presented a bill on September 8 that would require platforms such as Meta, Google and TikTok to give users the option to turn off recommendation algorithms, or face penalties, according to Bloomberg. The measure is part of a series of Australian regulatory moves targeting Big Tech, following the under-16 social media ban that took effect earlier this year.",
+      "es": "La ministra australiana de Comunicaciones, Anika Wells, presentó el 8 de septiembre un proyecto de ley que obligaría a plataformas como Meta, Google y TikTok a ofrecer a los usuarios la opción de desactivar los algoritmos de recomendación, bajo pena de sanciones, según Bloomberg. La medida forma parte de una serie de iniciativas regulatorias australianas dirigidas a las grandes tecnológicas, tras la prohibición de las redes sociales a menores de 16 años que entró en vigor a principios de este año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La ministre Anika Wells dévoile le projet de loi, selon Bloomberg.",
+          "en": "Minister Anika Wells unveils the bill, according to Bloomberg.",
+          "es": "La ministra Anika Wells presenta el proyecto de ley, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      32.8597,
+      39.9334
+    ],
+    "id": "turquie-russie-accord-engrais",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Ankara, Turquie",
+      "en": "Ankara, Turkey",
+      "es": "Ankara, Turquía"
+    },
+    "title": {
+      "fr": "La Turquie s'apprête à signer un accord avec la Russie pour importer plus d'engrais",
+      "en": "Turkey set to sign deal with Russia to boost fertilizer imports",
+      "es": "Turquía se prepara para firmar un acuerdo con Rusia para aumentar las importaciones de fertilizantes"
+    },
+    "summary": {
+      "fr": "Le ministère turc de l'Agriculture a annoncé s'attendre à signer le 8 septembre un protocole d'accord avec la Russie pour accroître les importations d'engrais azotés, afin de pallier les difficultés d'approvisionnement en urée auprès des producteurs du Golfe, selon Bloomberg.",
+      "en": "Turkey's Agriculture Ministry said it expected to sign a memorandum of understanding with Russia on September 8 to import larger volumes of nitrogen fertilizer, to overcome difficulties sourcing urea from Persian Gulf producers, according to Bloomberg.",
+      "es": "El Ministerio de Agricultura de Turquía anunció que esperaba firmar el 8 de septiembre un memorando de entendimiento con Rusia para importar mayores volúmenes de fertilizante nitrogenado, con el fin de superar las dificultades de abastecimiento de urea desde productores del Golfo Pérsico, según Bloomberg."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le ministère turc de l'Agriculture annonce la signature imminente de l'accord, selon Bloomberg.",
+          "en": "Turkey's Agriculture Ministry announces the imminent signing of the deal, according to Bloomberg.",
+          "es": "El Ministerio de Agricultura turco anuncia la firma inminente del acuerdo, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      120.9842,
+      14.5995
+    ],
+    "id": "philippines-proces-destitution-duterte",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "GMA News",
+    "place": {
+      "fr": "Manille, Philippines",
+      "en": "Manila, Philippines",
+      "es": "Manila, Filipinas"
+    },
+    "title": {
+      "fr": "Le procès en destitution de la vice-présidente Sara Duterte se poursuit à Manille",
+      "en": "Vice President Sara Duterte's impeachment trial continues in Manila",
+      "es": "El juicio de destitución de la vicepresidenta Sara Duterte continúa en Manila"
+    },
+    "summary": {
+      "fr": "Le procès en destitution de la vice-présidente philippine Sara Duterte, accusée d'avoir détourné des fonds confidentiels de son bureau et du ministère de l'Éducation, s'est poursuivi le 8 septembre avec l'audition de nouveaux témoins de l'accusation, selon GMA News. Des témoignages récents ont pointé des bénéficiaires présumés de ces fonds correspondant, dans les registres de l'état civil, à des personnes déjà décédées ou à des enfants. Le tribunal doit suspendre les audiences le 9 septembre pour le classement des pièces à conviction.",
+      "en": "The impeachment trial of Philippine Vice President Sara Duterte, accused of misusing confidential funds from her office and the Department of Education, continued on September 8 with new prosecution witnesses, according to GMA News. Recent testimony has pointed to alleged fund recipients matching, in civil registry records, deceased individuals or children. The court is set to suspend hearings on September 9 for exhibit marking.",
+      "es": "El juicio de destitución de la vicepresidenta filipina Sara Duterte, acusada de malversar fondos confidenciales de su oficina y del Departamento de Educación, continuó el 8 de septiembre con nuevos testigos de la fiscalía, según GMA News. Testimonios recientes han señalado que presuntos beneficiarios de esos fondos coinciden, en los registros civiles, con personas fallecidas o menores de edad. El tribunal suspenderá las audiencias el 9 de septiembre para el marcado de pruebas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "De nouveaux témoins de l'accusation sont entendus sur le premier article de mise en accusation, selon GMA News.",
+          "en": "New prosecution witnesses are heard on the first article of impeachment, according to GMA News.",
+          "es": "Se escucha a nuevos testigos de la fiscalía sobre el primer artículo de destitución, según GMA News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "coords": [
+      -93.2828,
+      44.9689
+    ],
+    "id": "usa-fusillade-loring-park-minneapolis",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Star Tribune / MPR News",
+    "place": {
+      "fr": "Minneapolis, Minnesota, États-Unis",
+      "en": "Minneapolis, Minnesota, United States",
+      "es": "Minneapolis, Minnesota, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade dans une tour d'habitation près de Loring Park à Minneapolis : 3 morts",
+      "en": "Shooting at apartment tower near Minneapolis' Loring Park leaves 3 dead",
+      "es": "Tiroteo en una torre de apartamentos cerca de Loring Park, en Minneapolis, deja 3 muertos"
+    },
+    "summary": {
+      "fr": "Une fusillade est survenue le 2 septembre à la tour d'habitation Shoreline Plaza, près de Loring Park à Minneapolis, selon le Star Tribune et MPR News. Le tireur, identifié comme Carlton Neal Johnson II, 35 ans, est mort sur les lieux après avoir tué deux résidents de l'immeuble, Dale Henry Spry (63 ans) et Muse Abdi Afrah (61 ans). Trois policiers ainsi que la gestionnaire de l'immeuble ont également été blessés par balle ; le mobile n'a pas été établi.",
+      "en": "A shooting occurred on September 2 at the Shoreline Plaza apartment tower near Loring Park in Minneapolis, according to the Star Tribune and MPR News. The gunman, identified as 35-year-old Carlton Neal Johnson II, died at the scene after killing two building residents, Dale Henry Spry, 63, and Muse Abdi Afrah, 61. Three police officers and the building manager were also shot and wounded; a motive has not been established.",
+      "es": "Un tiroteo ocurrió el 2 de septiembre en la torre de apartamentos Shoreline Plaza, cerca de Loring Park en Minneapolis, según Star Tribune y MPR News. El tirador, identificado como Carlton Neal Johnson II, de 35 años, murió en el lugar tras matar a dos residentes del edificio, Dale Henry Spry (63) y Muse Abdi Afrah (61). Tres policías y la administradora del edificio también resultaron heridos de bala; no se ha determinado un móvil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "La fusillade fait 3 morts, dont le tireur, et 6 blessés, selon le Star Tribune.",
+          "en": "The shooting leaves 3 dead, including the gunman, and 6 injured, according to the Star Tribune.",
+          "es": "El tiroteo deja 3 muertos, incluido el tirador, y 6 heridos, según Star Tribune."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -76.6122,
+      39.2904
+    ],
+    "id": "usa-justice-droit-du-sol",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Washington Post / NBC News",
+    "place": {
+      "fr": "Baltimore, Maryland, États-Unis",
+      "en": "Baltimore, Maryland, United States",
+      "es": "Baltimore, Maryland, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une juge fédérale bloque le nouveau décret de Trump limitant le droit du sol",
+      "en": "Federal judge blocks Trump's new order limiting birthright citizenship",
+      "es": "Una jueza federal bloquea el nuevo decreto de Trump que limita el derecho de nacimiento"
+    },
+    "summary": {
+      "fr": "La juge fédérale Deborah Boardman, du tribunal du district du Maryland, a bloqué le 3 septembre le décret présidentiel d'août visant à restreindre le droit du sol pour certaines catégories de personnes nées aux États-Unis, le jugeant « presque certainement inconstitutionnel », selon le Washington Post et NBC News. Sa décision s'appuie sur un arrêt de la Cour suprême de juin réaffirmant ce droit. Le décret ciblait notamment le « tourisme de naissance » et les enfants de représentants de gouvernements étrangers.",
+      "en": "Federal Judge Deborah Boardman of the District of Maryland blocked, on September 3, the president's August executive order aimed at restricting birthright citizenship for certain categories of people born in the United States, calling it \"almost certainly unconstitutional,\" according to the Washington Post and NBC News. Her ruling relies on a June Supreme Court decision reaffirming that right. The order had targeted so-called \"birth tourism\" and children of foreign government officials.",
+      "es": "La jueza federal Deborah Boardman, del tribunal del distrito de Maryland, bloqueó el 3 de septiembre el decreto presidencial de agosto que buscaba restringir el derecho de nacimiento para ciertas categorías de personas nacidas en Estados Unidos, calificándolo de \"casi con certeza inconstitucional\", según The Washington Post y NBC News. Su fallo se basa en una decisión de la Corte Suprema de junio que reafirmó ese derecho. El decreto apuntaba en particular al llamado \"turismo de nacimiento\" y a los hijos de funcionarios de gobiernos extranjeros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "09/03/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La juge Boardman émet une injonction préliminaire bloquant le décret, selon le Washington Post.",
+          "en": "Judge Boardman issues a preliminary injunction blocking the order, according to the Washington Post.",
+          "es": "La jueza Boardman emite una orden preliminar que bloquea el decreto, según The Washington Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1276,
+      51.5072
+    ],
+    "id": "royaume-uni-interdiction-colonies",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📜",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni interdit le commerce des produits des colonies israéliennes en Cisjordanie",
+      "en": "UK bans trade in goods from Israeli settlements in the West Bank",
+      "es": "Reino Unido prohíbe el comercio de productos de los asentamientos israelíes en Cisjordania"
+    },
+    "summary": {
+      "fr": "Le secrétaire aux Affaires étrangères Ed Miliband a annoncé le 8 septembre devant la Chambre des communes une interdiction du commerce de biens et de certains services issus des colonies israéliennes de Cisjordanie, ainsi que des sanctions ciblées, selon des médias dont l'Associated Press. Le Royaume-Uni reconnaît pour la première fois l'avis de la Cour internationale de justice de 2024 jugeant illégale l'occupation israélienne des territoires palestiniens. La mesure ne constitue pas un boycott général des produits israéliens.",
+      "en": "Foreign Secretary Ed Miliband announced before the House of Commons on September 8 a ban on trade in goods and some services from Israeli settlements in the West Bank, along with targeted sanctions, according to several outlets including the Associated Press. The UK is for the first time formally accepting the 2024 International Court of Justice opinion finding Israel's occupation of the Palestinian territories unlawful. The measure does not amount to a blanket boycott of Israeli goods.",
+      "es": "El secretario de Exteriores Ed Miliband anunció el 8 de septiembre ante la Cámara de los Comunes una prohibición del comercio de bienes y algunos servicios procedentes de los asentamientos israelíes en Cisjordania, junto con sanciones específicas, según varios medios, entre ellos Associated Press. El Reino Unido acepta por primera vez formalmente la opinión de 2024 de la Corte Internacional de Justicia que declaró ilegal la ocupación israelí de los territorios palestinos. La medida no constituye un boicot general a los productos israelíes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Ed Miliband annonce la mesure devant le Parlement britannique.",
+          "en": "Ed Miliband announces the measure before the UK Parliament.",
+          "es": "Ed Miliband anuncia la medida ante el Parlamento británico."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "id": "chine-exportations-aout",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Les exportations chinoises bondissent de 25 % en août",
+      "en": "China's exports jump 25% in August",
+      "es": "Las exportaciones chinas se disparan un 25% en agosto"
+    },
+    "summary": {
+      "fr": "L'administration générale des douanes chinoises a annoncé le 8 septembre une hausse de 25 % des exportations en août sur un an, un rythme supérieur à celui de juillet (près de 24 %), selon Bloomberg. Les exportations de semi-conducteurs ont presque doublé en valeur, portant l'excédent commercial cumulé de la Chine proche de 806 milliards de dollars sur l'année.",
+      "en": "China's General Administration of Customs announced on September 8 that exports rose 25% year-on-year in August, faster than July's pace of nearly 24%, according to Bloomberg. Semiconductor exports nearly doubled in value, pushing China's cumulative trade surplus for the year close to $806 billion.",
+      "es": "La Administración General de Aduanas de China anunció el 8 de septiembre que las exportaciones subieron un 25% interanual en agosto, un ritmo superior al de julio (casi 24%), según Bloomberg. Las exportaciones de semiconductores casi se duplicaron en valor, llevando el superávit comercial acumulado de China en el año a cerca de 806.000 millones de dólares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les douanes chinoises publient les données commerciales d'août, selon Bloomberg.",
+          "en": "Chinese customs release August trade data, according to Bloomberg.",
+          "es": "Aduanas de China publica los datos comerciales de agosto, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.1963,
+      39.0333
+    ],
+    "id": "espagne-vuelta-etape8",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "ProCyclingStats",
+    "place": {
+      "fr": "De Puçol à Xeraco, Espagne",
+      "en": "Puçol to Xeraco, Spain",
+      "es": "De Puçol a Xeraco, España"
+    },
+    "title": {
+      "fr": "Bryan Coquard remporte la 8e étape de la Vuelta a España",
+      "en": "Bryan Coquard wins Stage 8 of the Vuelta a España",
+      "es": "Bryan Coquard gana la 8ª etapa de la Vuelta a España"
+    },
+    "summary": {
+      "fr": "Le Français Bryan Coquard a remporté le 8 septembre la 8e étape de la Vuelta a España, disputée entre Puçol et Xeraco, devant Mads Pedersen et Jordi Meeus, selon ProCyclingStats. La course, partie le 22 août, doit s'achever le 13 septembre à Grenade.",
+      "en": "French rider Bryan Coquard won Stage 8 of the Vuelta a España on September 8, run between Puçol and Xeraco, ahead of Mads Pedersen and Jordi Meeus, according to ProCyclingStats. The race, which started on August 22, is set to finish on September 13 in Granada.",
+      "es": "El francés Bryan Coquard ganó el 8 de septiembre la 8ª etapa de la Vuelta a España, disputada entre Puçol y Xeraco, por delante de Mads Pedersen y Jordi Meeus, según ProCyclingStats. La carrera, iniciada el 22 de agosto, debe finalizar el 13 de septiembre en Granada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Bryan Coquard s'impose au sprint sur la 8e étape, selon ProCyclingStats.",
+          "en": "Bryan Coquard wins the sprint on Stage 8, according to ProCyclingStats.",
+          "es": "Bryan Coquard se impone al sprint en la 8ª etapa, según ProCyclingStats."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
   }
 ]
