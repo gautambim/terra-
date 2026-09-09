@@ -692,7 +692,7 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
+    "source": "La Presse / franceinfo / Radio-Canada / CENTCOM / NBC News / CBS News",
     "week": "2026-W29",
     "place": {
       "fr": "Téhéran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le commandement militaire américain (CENTCOM) affirme avoir détruit cinq pétroliers iraniens (quatre dans le golfe d'Oman, un près de l'île de Kharg) après que les Gardiens de la révolution ont visé à deux reprises un navire de guerre américain avec des missiles balistiques ; les équipages avaient reçu l'ordre d'évacuer avant les frappes et aucun soldat américain n'a été blessé, selon CENTCOM.",
+          "en": "US Central Command (CENTCOM) says it destroyed five Iranian oil tankers (four in the Gulf of Oman, one near Kharg Island) after the Revolutionary Guard twice targeted a US Navy warship with ballistic missiles; crews had been ordered to evacuate before the strikes and no American personnel were harmed, according to CENTCOM.",
+          "es": "El Mando Central de EE. UU. (CENTCOM) afirma haber destruido cinco petroleros iraníes (cuatro en el golfo de Omán, uno cerca de la isla de Kharg) después de que la Guardia Revolucionaria atacara dos veces un buque de guerra estadounidense con misiles balísticos; las tripulaciones habían recibido la orden de evacuar antes de los ataques y ningún militar estadounidense resultó herido, según CENTCOM."
         },
         "active": true
       }
@@ -828,6 +841,749 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "kyiv-frappe-drones-missiles-sept",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "CNN / Bloomberg / Kyiv Independent / Al Jazeera",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie frappe de nouveau Kyiv, plusieurs morts, après le passage des émissaires américains",
+      "en": "Russia strikes Kyiv again, several dead, after US envoys' visit",
+      "es": "Rusia vuelve a atacar Kiev, varios muertos, tras la visita de enviados estadounidenses"
+    },
+    "summary": {
+      "fr": "Un barrage de missiles et de drones russes s'est abattu sur Kyiv dans la nuit du 7 au 8 septembre, mettant fin à une pause de trois jours observée pendant la visite des émissaires américains Steve Witkoff et Jared Kushner à Moscou puis à Kyiv. Le bilan varie selon les sources : Kyiv Independent fait état de 5 morts et 63 blessés à l'échelle de l'Ukraine, tandis que Bloomberg et CNN rapportent au moins 2 morts et plusieurs blessés dans la seule capitale. Des incendies ont touché plusieurs quartiers, endommageant au moins 14 immeubles, un dortoir étudiant, une école et une clinique, selon les autorités ukrainiennes citées par ces médias.",
+      "en": "A barrage of Russian missiles and drones hit Kyiv overnight on September 7-8, ending a three-day pause observed during a visit by US envoys Steve Witkoff and Jared Kushner to Moscow and then Kyiv. Casualty figures vary by source: the Kyiv Independent reports 5 dead and 63 injured across Ukraine, while Bloomberg and CNN report at least 2 dead and several injured in the capital alone. Fires broke out in several districts, damaging at least 14 residential buildings, a student dormitory, a school and a clinic, according to Ukrainian officials cited by these outlets.",
+      "es": "Una oleada de misiles y drones rusos golpeó Kiev en la noche del 7 al 8 de septiembre, poniendo fin a una pausa de tres días observada durante la visita de los enviados estadounidenses Steve Witkoff y Jared Kushner a Moscú y luego a Kiev. El balance varía según la fuente: Kyiv Independent informa de 5 muertos y 63 heridos en toda Ucrania, mientras que Bloomberg y CNN reportan al menos 2 muertos y varios heridos solo en la capital. Incendios afectaron a varios distritos, dañando al menos 14 edificios residenciales, una residencia estudiantil, una escuela y una clínica, según las autoridades ucranianas citadas por estos medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La Russie reprend ses frappes sur Kyiv dès la fin de la visite des émissaires américains ; les bilans diffèrent selon les médias.",
+          "en": "Russia resumes strikes on Kyiv as soon as the US envoys' visit ends; tolls differ between outlets.",
+          "es": "Rusia reanuda los ataques sobre Kiev apenas termina la visita de los enviados estadounidenses; los balances difieren según los medios."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "delhi-effondrement-satya-niketan",
+    "coords": [
+      77.19,
+      28.563
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚",
+    "source": "Deccan Herald / Outlook India",
+    "place": {
+      "fr": "Satya Niketan, New Delhi, Inde",
+      "en": "Satya Niketan, New Delhi, India",
+      "es": "Satya Niketan, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble à Satya Niketan, à New Delhi : le bilan grimpe à 7 morts",
+      "en": "Building collapse in Satya Niketan, New Delhi: death toll rises to 7",
+      "es": "Derrumbe de un edificio en Satya Niketan, Nueva Delhi: el balance sube a 7 muertos"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages abritant un foyer étudiant s'est effondré dimanche 6 septembre dans une ruelle étroite de Satya Niketan, près du campus sud de l'université de Delhi, alors qu'il faisait l'objet de travaux de rénovation, selon le Deccan Herald et Outlook India. Le bilan est passé à 7 morts et 11 personnes ont été secourues des décombres. Le propriétaire présumé du bâtiment, Hari Ram, a été appréhendé à Bhiwadi ; la Haute Cour de Delhi a accepté d'examiner en urgence une plainte sur la responsabilité des autorités municipales et universitaires.",
+      "en": "A five-storey building housing a student hostel collapsed on Sunday, September 6 in a narrow lane in Satya Niketan, near Delhi University's South Campus, while undergoing renovation work, according to the Deccan Herald and Outlook India. The death toll has risen to 7, and 11 people were rescued from the rubble. The building's alleged owner, Hari Ram, was apprehended in Bhiwadi; the Delhi High Court has agreed to urgently hear a petition on the accountability of municipal and university authorities.",
+      "es": "Un edificio de cinco pisos que albergaba una residencia estudiantil se derrumbó el domingo 6 de septiembre en un callejón estrecho de Satya Niketan, cerca del campus sur de la Universidad de Delhi, mientras era objeto de obras de renovación, según Deccan Herald y Outlook India. El balance subió a 7 muertos y 11 personas fueron rescatadas de los escombros. El presunto propietario del edificio, Hari Ram, fue detenido en Bhiwadi; el Tribunal Superior de Delhi aceptó examinar con urgencia una demanda sobre la responsabilidad de las autoridades municipales y universitarias."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'immeuble s'effondre dimanche après-midi ; les opérations de secours débutent.",
+          "en": "The building collapses on Sunday afternoon; rescue operations begin.",
+          "es": "El edificio se derrumba el domingo por la tarde; comienzan las operaciones de rescate."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan grimpe à 7 morts, le propriétaire présumé est appréhendé et la Haute Cour de Delhi se saisit du dossier.",
+          "en": "The toll rises to 7 dead, the alleged owner is apprehended and the Delhi High Court takes up the case.",
+          "es": "El balance sube a 7 muertos, el presunto propietario es detenido y el Tribunal Superior de Delhi asume el caso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-anak-krakatau-eruption",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera / Antara News",
+    "place": {
+      "fr": "Détroit de la Sonde (Anak Krakatau), Indonésie",
+      "en": "Sunda Strait (Anak Krakatau), Indonesia",
+      "es": "Estrecho de la Sonda (Anak Krakatau), Indonesia"
+    },
+    "title": {
+      "fr": "Le volcan Anak Krakatau perturbe le trafic aérien en Indonésie",
+      "en": "Anak Krakatau volcano disrupts air traffic in Indonesia",
+      "es": "El volcán Anak Krakatau altera el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau, dans le détroit de la Sonde, est entré en éruption continue le vendredi 5 septembre au soir, provoquant la fermeture de l'aéroport international Soekarno-Hatta de Jakarta, le deuxième plus fréquenté d'Asie du Sud-Est, ainsi que de quatre autres aéroports, selon CNN, Al Jazeera et l'agence Antara. Plus de 340 000 voyageurs et environ 2 900 vols ont été affectés. Les autorités ont rouvert les aéroports tôt le 8 septembre après dissipation des cendres, tout en maintenant le niveau d'alerte 3 sur une échelle de 4 ; de nouvelles éruptions, moins intenses, ont encore été enregistrées ce même jour.",
+      "en": "Anak Krakatau volcano, in the Sunda Strait, entered continuous eruption on the evening of Friday, September 5, forcing the closure of Jakarta's Soekarno-Hatta International Airport, Southeast Asia's second-busiest, along with four other airports, according to CNN, Al Jazeera and the Antara news agency. More than 340,000 travellers and around 2,900 flights were affected. Authorities reopened the airports early on September 8 after the ash cleared, while keeping the alert level at 3 out of 4; further, less intense eruptions were recorded that same day.",
+      "es": "El volcán Anak Krakatau, en el estrecho de la Sonda, entró en erupción continua la noche del viernes 5 de septiembre, obligando al cierre del aeropuerto internacional Soekarno-Hatta de Yakarta, el segundo más concurrido del Sudeste Asiático, junto con otros cuatro aeropuertos, según CNN, Al Jazeera y la agencia Antara. Más de 340.000 viajeros y unos 2.900 vuelos se vieron afectados. Las autoridades reabrieron los aeropuertos a primera hora del 8 de septiembre tras disiparse la ceniza, manteniendo el nivel de alerta en 3 sobre 4; ese mismo día se registraron nuevas erupciones, de menor intensidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Début d'une éruption continue de l'Anak Krakatau, fermeture des aéroports de Jakarta et de Bandung.",
+          "en": "Continuous eruption of Anak Krakatau begins, Jakarta and Bandung airports close.",
+          "es": "Comienza una erupción continua del Anak Krakatau; cierran los aeropuertos de Yakarta y Bandung."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les cinq aéroports rouvrent après dissipation des cendres, malgré de nouvelles éruptions plus faibles.",
+          "en": "All five airports reopen after the ash clears, despite further, weaker eruptions.",
+          "es": "Los cinco aeropuertos reabren tras disiparse la ceniza, pese a nuevas erupciones más débiles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "chine-antidumping-dichlorosilane-japon",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "Bloomberg / Nikkei Asia / The Japan Times",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine impose des taxes anti-dumping sur un composant chimique japonais essentiel aux semi-conducteurs",
+      "en": "China imposes anti-dumping duties on a Japanese chemical essential to semiconductors",
+      "es": "China impone aranceles antidumping a un componente químico japonés esencial para los semiconductores"
+    },
+    "summary": {
+      "fr": "Le ministère chinois du Commerce a instauré, à partir du 8 septembre, des dépôts de garantie anti-dumping provisoires pouvant atteindre 99,2 % sur les importations de dichlorosilane japonais, un composant utilisé pour transformer les plaquettes de silicium en semi-conducteurs, selon Bloomberg, Nikkei Asia et le Japan Times. Les taux ont été fixés à 99,2 % pour Shin-Etsu Chemical et 80,8 % pour Denka. Cette mesure, issue d'une enquête ouverte en janvier, s'ajoute au différend commercial et diplomatique entre Pékin et Tokyo depuis les propos de la Première ministre japonaise Sanae Takaichi en novembre dernier sur Taïwan.",
+      "en": "China's Commerce Ministry imposed provisional anti-dumping cash deposits of up to 99.2% on imports of Japanese dichlorosilane, a chemical used to process silicon wafers into semiconductors, effective September 8, according to Bloomberg, Nikkei Asia and The Japan Times. Rates were set at 99.2% for Shin-Etsu Chemical and 80.8% for Denka. The measure, resulting from an investigation opened in January, adds to the trade and diplomatic dispute between Beijing and Tokyo since Japanese Prime Minister Sanae Takaichi's remarks on Taiwan last November.",
+      "es": "El Ministerio de Comercio de China impuso, a partir del 8 de septiembre, depósitos de garantía antidumping provisionales de hasta el 99,2% sobre las importaciones de diclorosilano japonés, un componente usado para procesar obleas de silicio en semiconductores, según Bloomberg, Nikkei Asia y The Japan Times. Las tasas se fijaron en 99,2% para Shin-Etsu Chemical y 80,8% para Denka. La medida, resultado de una investigación abierta en enero, se suma a la disputa comercial y diplomática entre Pekín y Tokio desde las declaraciones de la primera ministra japonesa Sanae Takaichi sobre Taiwán en noviembre pasado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les dépôts de garantie anti-dumping sur le dichlorosilane japonais entrent en vigueur.",
+          "en": "Anti-dumping cash deposits on Japanese dichlorosilane take effect.",
+          "es": "Entran en vigor los depósitos de garantía antidumping sobre el diclorosilano japonés."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "canada-tarifs-retorsion-usa",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛃",
+    "source": "NPR / CNBC / Al Jazeera",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada active des tarifs de représailles de 20 milliards de dollars sur des produits américains",
+      "en": "Canada activates $20 billion in retaliatory tariffs on US goods",
+      "es": "Canadá activa aranceles de represalia por 20.000 millones de dólares sobre productos estadounidenses"
+    },
+    "summary": {
+      "fr": "Les tarifs de représailles canadiens sur environ 27,6 milliards de dollars canadiens (près de 20 milliards de dollars américains) de produits américains sont entrés en vigueur le 8 septembre, en réponse à de nouveaux droits de douane imposés par Washington, selon NPR, CNBC et Al Jazeera. Des taux de 15 %, 25 % et 50 % s'appliquent à environ 700 produits, dont l'acier, l'aluminium, le mobilier, le fromage et l'électronique. Ottawa a aussi annoncé un plan de soutien de 7,5 milliards de dollars canadiens pour les entreprises et les travailleurs affectés, après l'échec des discussions visant à éviter ces tarifs.",
+      "en": "Canada's retaliatory tariffs on roughly C$27.6 billion (about US$20 billion) of US goods took effect on September 8, in response to new duties imposed by Washington, according to NPR, CNBC and Al Jazeera. Rates of 15%, 25% and 50% apply to about 700 products, including steel, aluminum, furniture, cheese and electronics. Ottawa also announced a C$7.5 billion support package for affected businesses and workers, after talks aimed at averting the tariffs collapsed.",
+      "es": "Los aranceles de represalia de Canadá sobre unos 27.600 millones de dólares canadienses (cerca de 20.000 millones de dólares estadounidenses) en productos de EE. UU. entraron en vigor el 8 de septiembre, en respuesta a nuevos aranceles impuestos por Washington, según NPR, CNBC y Al Jazeera. Se aplican tasas de 15%, 25% y 50% a unos 700 productos, entre ellos acero, aluminio, mobiliario, queso y electrónica. Ottawa también anunció un paquete de apoyo de 7.500 millones de dólares canadienses para empresas y trabajadores afectados, tras el fracaso de las conversaciones para evitar estos aranceles."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les tarifs de représailles canadiens entrent en vigueur sur environ 700 produits américains.",
+          "en": "Canada's retaliatory tariffs take effect on about 700 US products.",
+          "es": "Los aranceles de represalia canadienses entran en vigor sobre unos 700 productos estadounidenses."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "bresil-taxe-blusinhas-maintien",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📦",
+    "source": "Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le Congrès brésilien maintient l'exonération de taxe sur les petits achats en ligne",
+      "en": "Brazil's Congress preserves the tax exemption on small online purchases",
+      "es": "El Congreso de Brasil mantiene la exención de impuestos para pequeñas compras en línea"
+    },
+    "summary": {
+      "fr": "Le Congrès brésilien a voté le 3 septembre le maintien du taux zéro sur les achats internationaux en ligne jusqu'à 50 dollars, la règle dite des « blusinhas », évitant de justesse le retour automatique d'une taxe de 20 % prévu si aucun accord n'était trouvé avant l'échéance du 8 septembre, selon le Rio Times. Le texte doit désormais être promulgué par le président Lula pour rendre l'exonération permanente ; les milieux industriels avaient averti qu'une suppression de la mesure menacerait environ 109 000 emplois.",
+      "en": "Brazil's Congress voted on September 3 to keep the zero-tax rate on international online purchases up to $50, the so-called \"blusinhas\" rule, narrowly avoiding the automatic return of a 20% tax that would have kicked in without an agreement before the September 8 deadline, according to the Rio Times. President Lula must now sign the bill into law to make the exemption permanent; industry groups had warned that scrapping the measure would threaten around 109,000 jobs.",
+      "es": "El Congreso de Brasil votó el 3 de septiembre mantener la tasa cero sobre las compras internacionales en línea de hasta 50 dólares, la llamada regla de las «blusinhas», evitando por poco el regreso automático de un impuesto del 20% que se habría aplicado sin un acuerdo antes del plazo del 8 de septiembre, según el Rio Times. El presidente Lula debe ahora promulgar la ley para que la exención sea permanente; los sectores industriales habían advertido de que eliminar la medida pondría en riesgo unos 109.000 empleos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Le Congrès vote le maintien du taux zéro, évitant le retour de la taxe de 20 % à l'échéance du 8 septembre.",
+          "en": "Congress votes to keep the zero rate, averting the return of the 20% tax at the September 8 deadline.",
+          "es": "El Congreso vota mantener la tasa cero, evitando el regreso del impuesto del 20% en el plazo del 8 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-treve-secrete-boko-haram",
+    "coords": [
+      13.667,
+      10.933
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊",
+    "source": "The New Humanitarian / allAfrica / The Guardian Nigeria",
+    "place": {
+      "fr": "Ngoshe, État de Borno, Nigeria",
+      "en": "Ngoshe, Borno State, Nigeria",
+      "es": "Ngoshe, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "Le Nigeria aurait conclu une trêve secrète avec Boko Haram après la libération de 360 civils",
+      "en": "Nigeria reportedly struck a secret ceasefire with Boko Haram after 360 civilians were freed",
+      "es": "Nigeria habría alcanzado una tregua secreta con Boko Haram tras la liberación de 360 civiles"
+    },
+    "summary": {
+      "fr": "Selon une enquête de The New Humanitarian, corroborée par plusieurs médias nigérians et africains dont The Guardian Nigeria et allAfrica, le gouvernement nigérian observerait depuis environ trois mois une trêve non déclarée avec une faction de Boko Haram, négociée après l'enlèvement en mars de civils du village de Ngoshe lors d'une attaque contre une base militaire voisine. Cette trêve aurait permis la libération de 360 civils. Le rapport évoque une rançon d'environ 3,7 millions de dollars (soit 5 milliards de nairas), une affirmation que le gouvernement fédéral dément. L'armée nigériane n'a pas confirmé l'existence de cet accord. Selon les sources du média, la trêve pourrait être prolongée d'environ 40 jours ; le groupe rival Iswap n'y est pas partie.",
+      "en": "According to an investigation by The New Humanitarian, corroborated by several Nigerian and African outlets including The Guardian Nigeria and allAfrica, the Nigerian government has reportedly observed an undeclared ceasefire with a Boko Haram faction for about three months, negotiated after the March abduction of civilians from Ngoshe village during an attack on a nearby military base. The truce reportedly led to the release of 360 civilians. The report cites a ransom of roughly $3.7 million (around 5 billion naira), a claim the federal government denies. The Nigerian military has not confirmed the existence of the agreement. According to the outlet's sources, the truce could be extended by around 40 days; the rival group ISWAP is not party to it.",
+      "es": "Según una investigación de The New Humanitarian, corroborada por varios medios nigerianos y africanos, entre ellos The Guardian Nigeria y allAfrica, el gobierno nigeriano mantendría desde hace unos tres meses una tregua no declarada con una facción de Boko Haram, negociada tras el secuestro en marzo de civiles de la aldea de Ngoshe durante un ataque a una base militar cercana. La tregua habría permitido la liberación de 360 civiles. El informe menciona un rescate de unos 3,7 millones de dólares (unos 5.000 millones de nairas), una afirmación que el gobierno federal niega. El ejército nigeriano no ha confirmado la existencia del acuerdo. Según las fuentes del medio, la tregua podría prorrogarse unos 40 días más; el grupo rival ISWAP no forma parte de ella."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "The New Humanitarian révèle l'existence d'une trêve secrète, aussitôt reprise par d'autres médias ; le gouvernement dément le versement d'une rançon.",
+          "en": "The New Humanitarian reveals the existence of a secret truce, quickly picked up by other outlets; the government denies paying a ransom.",
+          "es": "The New Humanitarian revela la existencia de una tregua secreta, rápidamente retomada por otros medios; el gobierno niega haber pagado un rescate."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-trafic-enfants-oyo",
+    "coords": [
+      3.947,
+      7.3775
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Vanguard / Radio Nigeria Ibadan / Kanyi Daily",
+    "place": {
+      "fr": "Ibadan, État d'Oyo, Nigeria",
+      "en": "Ibadan, Oyo State, Nigeria",
+      "es": "Ibadan, estado de Oyo, Nigeria"
+    },
+    "title": {
+      "fr": "La police nigériane démantèle un réseau de trafic d'enfants dans l'État d'Oyo, 17 enfants secourus",
+      "en": "Nigerian police dismantle a child-trafficking network in Oyo State, 17 children rescued",
+      "es": "La policía nigeriana desmantela una red de tráfico de menores en el estado de Oyo, 17 niños rescatados"
+    },
+    "summary": {
+      "fr": "La police de l'État d'Oyo a démantelé un réseau interétatique de vol et de trafic d'enfants, secourant 17 enfants et arrêtant sept suspects, selon Vanguard, Radio Nigeria Ibadan et Kanyi Daily. L'enquête a démarré après la disparition, le 29 juin, d'un enfant de trois ans lors d'un festival de masques à Oyo. Une suspecte clé, arrêtée le 4 août, a reconnu avoir participé au vol et à la vente d'enfants pris dans des églises et des fêtes ; l'opération s'est étendue le 2 septembre jusqu'à l'État du Delta, où quatre enfants supplémentaires ont été récupérés. Des allégations, non confirmées à ce stade, évoquent un possible lien avec des pratiques rituelles ; deux autres suspects font l'objet d'une enquête à ce sujet.",
+      "en": "Police in Oyo State dismantled an interstate child-stealing and trafficking network, rescuing 17 children and arresting seven suspects, according to Vanguard, Radio Nigeria Ibadan and Kanyi Daily. The investigation began after a three-year-old child went missing during a masquerade festival in Oyo on June 29. A key suspect, arrested on August 4, admitted to involvement in stealing and selling children taken from churches and parties; the operation extended on September 2 into Delta State, where four more children were recovered. Allegations, unconfirmed at this stage, point to a possible link to ritual practices; two further suspects are being investigated over this.",
+      "es": "La policía del estado de Oyo desmanteló una red interestatal de robo y tráfico de menores, rescatando a 17 niños y deteniendo a siete sospechosos, según Vanguard, Radio Nigeria Ibadan y Kanyi Daily. La investigación comenzó tras la desaparición, el 29 de junio, de un niño de tres años durante un festival de máscaras en Oyo. Una sospechosa clave, detenida el 4 de agosto, admitió haber participado en el robo y venta de niños tomados de iglesias y fiestas; la operación se extendió el 2 de septiembre al estado de Delta, donde se recuperaron cuatro niños más. Alegaciones, no confirmadas por el momento, apuntan a un posible vínculo con prácticas rituales; otros dos sospechosos están siendo investigados por este motivo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La police annonce le bilan de l'opération : 17 enfants secourus et sept suspects arrêtés.",
+          "en": "Police announce the outcome of the operation: 17 children rescued and seven suspects arrested.",
+          "es": "La policía anuncia el resultado de la operación: 17 niños rescatados y siete sospechosos detenidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "russie-collision-su35-koursk",
+    "coords": [
+      36.192,
+      51.73
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈",
+    "source": "Kyiv Post / Meduza / Newsweek",
+    "place": {
+      "fr": "Oblast de Koursk, Russie",
+      "en": "Kursk Oblast, Russia",
+      "es": "Óblast de Kursk, Rusia"
+    },
+    "title": {
+      "fr": "Deux chasseurs russes Su-35 entrent en collision au-dessus de Koursk, selon des sources non officielles",
+      "en": "Two Russian Su-35 fighter jets collide over Kursk, according to unofficial sources",
+      "es": "Dos cazas rusos Su-35 colisionan sobre Kursk, según fuentes no oficiales"
+    },
+    "summary": {
+      "fr": "Deux chasseurs Su-35S russes seraient entrés en collision en vol le 7 septembre au-dessus de l'oblast de Koursk, selon la chaîne Telegram Fighterbomber et le média Pepel, relayés par Kyiv Post, Meduza et Newsweek. Un pilote aurait été tué et l'autre, éjecté, blessé. La cause de l'accident n'est pas connue et le ministère russe de la Défense n'a pas confirmé officiellement l'incident à ce stade.",
+      "en": "Two Russian Su-35S fighter jets reportedly collided in mid-air on September 7 over Kursk Oblast, according to the Telegram channel Fighterbomber and the outlet Pepel, relayed by Kyiv Post, Meduza and Newsweek. One pilot was reportedly killed and the other, who ejected, was injured. The cause of the incident is unknown, and Russia's Ministry of Defence has not officially confirmed it at this stage.",
+      "es": "Dos cazas rusos Su-35S habrían colisionado en pleno vuelo el 7 de septiembre sobre el óblast de Kursk, según el canal de Telegram Fighterbomber y el medio Pepel, recogido por Kyiv Post, Meduza y Newsweek. Un piloto habría muerto y el otro, que se eyectó, resultó herido. Se desconoce la causa del incidente y el Ministerio de Defensa ruso no lo ha confirmado oficialmente por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Des sources non officielles font état d'une collision entre deux Su-35 au-dessus de Koursk, sans confirmation de Moscou.",
+          "en": "Unofficial sources report a collision between two Su-35 jets over Kursk, without confirmation from Moscow.",
+          "es": "Fuentes no oficiales informan de una colisión entre dos Su-35 sobre Kursk, sin confirmación de Moscú."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "egypte-croissance-pib-51",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Xinhua / Arab News / Egypt Today",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'économie égyptienne enregistre sa plus forte croissance annuelle depuis trois ans",
+      "en": "Egypt's economy posts its strongest annual growth in three years",
+      "es": "La economía egipcia registra su mayor crecimiento anual en tres años"
+    },
+    "summary": {
+      "fr": "Le ministre égyptien de la Planification et du Développement économique, Ahmed Rostom, a annoncé une croissance du PIB de 5,1 % pour l'exercice budgétaire 2025/2026 (clos fin juin), contre 4,4 % l'année précédente, selon Xinhua, Arab News et Egypt Today. L'industrie, le commerce et les télécommunications ont porté près de la moitié de cette croissance, avec une nette reprise de l'activité du canal de Suez.",
+      "en": "Egypt's Minister of Planning and Economic Development, Ahmed Rostom, announced GDP growth of 5.1% for the 2025/2026 fiscal year (ending in June), up from 4.4% the previous year, according to Xinhua, Arab News and Egypt Today. Industry, trade and telecommunications drove nearly half of this growth, alongside a clear recovery in Suez Canal activity.",
+      "es": "El ministro egipcio de Planificación y Desarrollo Económico, Ahmed Rostom, anunció un crecimiento del PIB del 5,1% para el año fiscal 2025/2026 (cerrado a fines de junio), frente al 4,4% del año anterior, según Xinhua, Arab News y Egypt Today. La industria, el comercio y las telecomunicaciones impulsaron casi la mitad de ese crecimiento, junto con una clara recuperación de la actividad del canal de Suez."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement annonce une croissance du PIB de 5,1 % pour l'exercice 2025/2026.",
+          "en": "The government announces 5.1% GDP growth for fiscal year 2025/2026.",
+          "es": "El gobierno anuncia un crecimiento del PIB del 5,1% para el ejercicio 2025/2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "royaume-uni-sanctions-colonies-cisjordanie",
+    "coords": [
+      -0.1276,
+      51.5074
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚫",
+    "source": "NBC News / NPR / CNBC",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni annonce un embargo sur les produits des colonies israéliennes de Cisjordanie",
+      "en": "The UK announces an import ban on goods from Israeli settlements in the West Bank",
+      "es": "El Reino Unido anuncia un embargo a los productos de los asentamientos israelíes en Cisjordania"
+    },
+    "summary": {
+      "fr": "Le secrétaire britannique aux Affaires étrangères, Ed Miliband, a annoncé le 8 septembre un embargo sur les importations de biens issus des colonies israéliennes en Cisjordanie, des sanctions contre des entreprises et individus liés à leur expansion, ainsi que le refus de certaines licences d'exportation, selon NBC News, NPR et CNBC. Londres a justifié ces mesures en évoquant ce qu'il qualifie de « nettoyage ethnique » de Palestiniens perpétré selon lui par des « colons extrémistes » dans certaines zones ; la France et le Canada ont indiqué vouloir adopter des mesures similaires. Le gouvernement israélien a rejeté ces accusations et annoncé en retour la fermeture du consulat britannique à Jérusalem.",
+      "en": "UK Foreign Secretary Ed Miliband announced on September 8 an import ban on goods from Israeli settlements in the West Bank, sanctions against companies and individuals linked to their expansion, and the refusal of certain export licenses, according to NBC News, NPR and CNBC. London justified the measures by citing what it called \"ethnic cleansing\" of Palestinians, which it said was being carried out by \"extremist settlers\" in some areas; France and Canada said they intend to adopt similar measures. The Israeli government rejected the accusations and announced in response that it would close the British consulate in Jerusalem.",
+      "es": "El secretario de Exteriores británico, Ed Miliband, anunció el 8 de septiembre un embargo a la importación de bienes procedentes de los asentamientos israelíes en Cisjordania, sanciones contra empresas e individuos vinculados a su expansión, y la denegación de ciertas licencias de exportación, según NBC News, NPR y CNBC. Londres justificó las medidas alegando lo que calificó de «limpieza étnica» de palestinos, que según afirma es perpetrada por «colonos extremistas» en algunas zonas; Francia y Canadá indicaron que adoptarán medidas similares. El gobierno israelí rechazó las acusaciones y anunció en respuesta el cierre del consulado británico en Jerusalén."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Londres annonce l'embargo et des sanctions ; Israël réplique en annonçant la fermeture de son consulat.",
+          "en": "London announces the ban and sanctions; Israel responds by announcing the closure of its consulate.",
+          "es": "Londres anuncia el embargo y las sanciones; Israel responde anunciando el cierre de su consulado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "espagne-vuelta-chaleur-mas-en-tete",
+    "coords": [
+      -4.7794,
+      37.8882
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Cyclingnews / ESPN / FloBikes",
+    "place": {
+      "fr": "Córdoba, Espagne",
+      "en": "Córdoba, Spain",
+      "es": "Córdoba, España"
+    },
+    "title": {
+      "fr": "Vuelta a España : la chaleur extrême écourte une étape, Enric Mas conserve la tête",
+      "en": "Vuelta a España: extreme heat cuts a stage short, Enric Mas keeps the overall lead",
+      "es": "Vuelta a España: el calor extremo acorta una etapa, Enric Mas conserva el liderato"
+    },
+    "summary": {
+      "fr": "Les organisateurs de la Vuelta a España ont raccourci d'environ 80 km la 15e étape (Palma del Río–Córdoba) le 6 septembre en raison de températures dépassant 40°C, remportée par Wout van Aert, selon Cyclingnews et FloBikes. L'Espagnol Enric Mas conserve la tête du classement général avec 2 min 6 s d'avance sur Felix Gall, un an après avoir hérité du maillot rouge à la suite de l'abandon du champion du monde Tadej Pogačar, victime le 29 août d'une lourde chute (commotion, fracture de la clavicule, fracture de la vertèbre C7) qui a mis fin à sa saison, selon ESPN. Le 8 septembre, Matthew Brennan a remporté la 16e étape, disputée elle aussi sous une forte chaleur.",
+      "en": "Vuelta a España organisers cut the 15th stage (Palma del Río–Córdoba) short by about 80 km on September 6 due to temperatures above 40°C; the stage was won by Wout van Aert, according to Cyclingnews and FloBikes. Spaniard Enric Mas continues to hold the overall lead, 2 minutes 6 seconds ahead of Felix Gall, having inherited the red jersey after world champion Tadej Pogačar abandoned the race following a heavy crash on August 29 (concussion, a broken collarbone, a fractured C7 vertebra) that ended his season, according to ESPN. On September 8, Matthew Brennan won stage 16, also raced in intense heat.",
+      "es": "Los organizadores de la Vuelta a España acortaron unos 80 km la 15ª etapa (Palma del Río–Córdoba) el 6 de septiembre debido a temperaturas superiores a los 40°C; la etapa la ganó Wout van Aert, según Cyclingnews y FloBikes. El español Enric Mas mantiene el liderato general, con 2 minutos y 6 segundos de ventaja sobre Felix Gall, tras heredar el maillot rojo después de que el campeón del mundo Tadej Pogačar abandonara la carrera tras una fuerte caída el 29 de agosto (conmoción cerebral, fractura de clavícula, fractura de la vértebra C7) que puso fin a su temporada, según ESPN. El 8 de septiembre, Matthew Brennan ganó la 16ª etapa, disputada también con un calor intenso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/08/2026",
+          "en": "29/08/2026",
+          "es": "29/08/2026"
+        },
+        "d": {
+          "fr": "Tadej Pogačar chute lourdement à l'étape 8 et abandonne la course, mettant fin à sa saison.",
+          "en": "Tadej Pogačar suffers a heavy crash in stage 8 and abandons the race, ending his season.",
+          "es": "Tadej Pogačar sufre una fuerte caída en la etapa 8 y abandona la carrera, poniendo fin a su temporada."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'étape 15 est raccourcie en raison de la chaleur ; Enric Mas conserve son avance au classement général.",
+          "en": "Stage 15 is shortened due to the heat; Enric Mas keeps his lead in the general classification.",
+          "es": "La etapa 15 se acorta por el calor; Enric Mas mantiene su ventaja en la clasificación general."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "argentine-bresil-foot-sudamericana",
+    "coords": [
+      -58.3648,
+      -34.6356
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "CONMEBOL / Yahoo Sports",
+    "place": {
+      "fr": "La Bombonera, Buenos Aires, Argentine",
+      "en": "La Bombonera, Buenos Aires, Argentina",
+      "es": "La Bombonera, Buenos Aires, Argentina"
+    },
+    "title": {
+      "fr": "Copa Sudamericana : Boca Juniors bat São Paulo 1-0 à l'aller des quarts de finale",
+      "en": "Copa Sudamericana: Boca Juniors beat São Paulo 1-0 in the quarter-final first leg",
+      "es": "Copa Sudamericana: Boca Juniors vence 1-0 a São Paulo en la ida de cuartos de final"
+    },
+    "summary": {
+      "fr": "Boca Juniors a battu São Paulo 1-0 à la Bombonera de Buenos Aires le 8 septembre, lors de la manche aller des quarts de finale de la Copa Sudamericana, selon la CONMEBOL et Yahoo Sports. L'unique but a été inscrit par Miguel Merentiel peu après le début de la seconde période. Le match retour est prévu le 15 septembre au stade MorumBIS de São Paulo.",
+      "en": "Boca Juniors beat São Paulo 1-0 at La Bombonera in Buenos Aires on September 8, in the first leg of the Copa Sudamericana quarter-finals, according to CONMEBOL and Yahoo Sports. The only goal was scored by Miguel Merentiel shortly after the start of the second half. The return leg is scheduled for September 15 at the MorumBIS stadium in São Paulo.",
+      "es": "Boca Juniors venció 1-0 a São Paulo en la Bombonera de Buenos Aires el 8 de septiembre, en la ida de los cuartos de final de la Copa Sudamericana, según CONMEBOL y Yahoo Sports. El único gol lo marcó Miguel Merentiel poco después de comenzar el segundo tiempo. La vuelta está prevista para el 15 de septiembre en el estadio MorumBIS de São Paulo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Boca Juniors s'impose 1-0 face à São Paulo au match aller.",
+          "en": "Boca Juniors win 1-0 against São Paulo in the first leg.",
+          "es": "Boca Juniors se impone 1-0 ante São Paulo en el partido de ida."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-abuja-effondrement-wuse",
+    "coords": [
+      7.4833,
+      9.0667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚",
+    "source": "Channels Television / Vanguard / TVC News",
+    "place": {
+      "fr": "Wuse, Abuja, Nigeria",
+      "en": "Wuse, Abuja, Nigeria",
+      "es": "Wuse, Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "Un immeuble s'effondre à Abuja quelques heures après avoir été scellé par les autorités",
+      "en": "A building collapses in Abuja hours after being sealed off by authorities",
+      "es": "Un edificio se derrumba en Abuya horas después de ser sellado por las autoridades"
+    },
+    "summary": {
+      "fr": "Un immeuble de trois étages s'est effondré vers 19h45 le 7 septembre dans le quartier de Wuse, à Abuja, quelques heures seulement après avoir été scellé par les services de contrôle du développement de la FCTA, qui y avaient repéré des fissures et ordonné son évacuation, selon Channels Television, Vanguard et TVC News. Une opération de secours a été engagée par la police, l'Agence nationale de gestion des urgences (NEMA) et les pompiers fédéraux ; au moment des premiers signalements, aucun bilan officiel de victimes n'avait été communiqué.",
+      "en": "A three-storey building collapsed around 7:45 p.m. on September 7 in the Wuse district of Abuja, just hours after it had been sealed off by the FCT Administration's development control department, which had spotted cracks and ordered it evacuated, according to Channels Television, Vanguard and TVC News. A rescue operation was launched by police, the National Emergency Management Agency (NEMA) and federal fire services; at the time of initial reports, no official casualty toll had been released.",
+      "es": "Un edificio de tres pisos se derrumbó hacia las 19:45 horas del 7 de septiembre en el barrio de Wuse, en Abuya, apenas horas después de haber sido sellado por el departamento de control de desarrollo de la FCTA, que había detectado grietas y ordenado su evacuación, según Channels Television, Vanguard y TVC News. Policía, la Agencia Nacional de Gestión de Emergencias (NEMA) y los bomberos federales iniciaron una operación de rescate; al momento de los primeros informes no se había difundido un balance oficial de víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'immeuble s'effondre à Wuse peu après avoir été scellé ; les secours sont mobilisés.",
+          "en": "The building collapses in Wuse shortly after being sealed off; emergency services are mobilised.",
+          "es": "El edificio se derrumba en Wuse poco después de ser sellado; se moviliza a los servicios de emergencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "japon-pib-revision-t2",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Reuters",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le Japon révise à la hausse la croissance de son PIB au deuxième trimestre",
+      "en": "Japan revises second-quarter GDP growth upward",
+      "es": "Japón revisa al alza el crecimiento de su PIB del segundo trimestre"
+    },
+    "summary": {
+      "fr": "Le Bureau du Cabinet japonais a révisé le 8 septembre la croissance du PIB du deuxième trimestre à un rythme annualisé de 1,4 %, contre 1,1 % en première estimation, selon Reuters. Hors annualisation, la croissance ressort à 0,4 %, conforme aux prévisions des économistes. Les dépenses d'investissement des entreprises ont été révisées à -0,9 % (contre -1,2 % initialement annoncé), tandis que la consommation des ménages est restée stable. Cette publication renforce les anticipations d'une prochaine hausse des taux de la Banque du Japon.",
+      "en": "Japan's Cabinet Office revised second-quarter GDP growth upward on September 8 to an annualised 1.4%, from an initial estimate of 1.1%, according to Reuters. On a non-annualised basis, growth came in at 0.4%, in line with economists' forecasts. Corporate capital expenditure was revised to -0.9% (from an initially reported -1.2%), while household consumption remained flat. The data strengthens expectations of an upcoming Bank of Japan rate hike.",
+      "es": "La Oficina del Gabinete de Japón revisó al alza el 8 de septiembre el crecimiento del PIB del segundo trimestre a una tasa anualizada del 1,4%, frente al 1,1% de la estimación inicial, según Reuters. Sin anualizar, el crecimiento fue del 0,4%, en línea con las previsiones de los economistas. El gasto de capital empresarial se revisó a -0,9% (frente al -1,2% informado inicialmente), mientras que el consumo de los hogares se mantuvo estable. El dato refuerza las expectativas de una próxima subida de tipos del Banco de Japón."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le Bureau du Cabinet publie une révision à la hausse du PIB du deuxième trimestre.",
+          "en": "The Cabinet Office publishes an upward revision of second-quarter GDP.",
+          "es": "La Oficina del Gabinete publica una revisión al alza del PIB del segundo trimestre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "france-samp-t-ukraine",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🛡",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "La France confirme l'envoi prévu de systèmes de défense antiaérienne SAMP/T à l'Ukraine",
+      "en": "France confirms planned delivery of SAMP/T air defence systems to Ukraine",
+      "es": "Francia confirma el envío previsto de sistemas de defensa aérea SAMP/T a Ucrania"
+    },
+    "summary": {
+      "fr": "Un responsable de la présidence française a indiqué le 7 septembre que le plan d'envoi de systèmes de défense antiaérienne SAMP/T à l'Ukraine restait sur les rails, selon Bloomberg. Kyiv doit recevoir un premier système cet automne, l'Ukraine devenant ainsi le premier pays à recevoir la nouvelle génération SAMP/T NG, développée par la France et l'Italie, en plus de systèmes de génération précédente déjà convenus lors d'entretiens avec le président Emmanuel Macron.",
+      "en": "An official in French President Emmanuel Macron's office said on September 7 that the plan to send SAMP/T air defence systems to Ukraine remained on track, according to Bloomberg. Kyiv is due to receive a first system this autumn, making Ukraine the first country to receive the new-generation SAMP/T NG, developed jointly by France and Italy, in addition to previous-generation systems already agreed during talks with President Macron.",
+      "es": "Un responsable de la presidencia francesa indicó el 7 de septiembre que el plan de envío de sistemas de defensa aérea SAMP/T a Ucrania sigue en marcha, según Bloomberg. Kiev debe recibir un primer sistema este otoño, convirtiendo a Ucrania en el primer país en recibir la nueva generación SAMP/T NG, desarrollada conjuntamente por Francia e Italia, además de sistemas de generación anterior ya acordados en conversaciones con el presidente Emmanuel Macron."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'Élysée confirme que la livraison des systèmes SAMP/T à l'Ukraine reste programmée pour l'automne.",
+          "en": "The Élysée confirms the SAMP/T delivery to Ukraine remains scheduled for the autumn.",
+          "es": "El Elíseo confirma que la entrega de los sistemas SAMP/T a Ucrania sigue prevista para el otoño."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
     "priority": 1
   }
 ]
