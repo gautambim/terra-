@@ -692,22 +692,22 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Washington Post / Al Jazeera / CNBC",
+    "week": "2026-W37",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
       "es": "Teherán, Irán"
     },
     "title": {
-      "fr": "Le conflit entre les États-Unis, Israël et l'Iran reprend après le cessez-le-feu d'avril",
-      "en": "Conflict between the United States, Israel and Iran resumes after the April ceasefire",
-      "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
+      "fr": "Le conflit entre les États-Unis, Israël et l'Iran s'aggrave : frappes sur des pétroliers et missiles sur une base jordanienne",
+      "en": "US-Israel-Iran conflict escalates: tanker strikes and missiles on a Jordanian base",
+      "es": "El conflicto entre Estados Unidos, Israel e Irán se agrava: ataques a petroleros y misiles contra una base jordana"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026 puis rompu le 7 juillet, le conflit s'est encore aggravé début septembre. Les forces américaines ont frappé le 5 septembre trois pétroliers iraniens, dont le M/T Downy au large de l'île de Kharg, après que l'Iran a tiré des missiles en direction de deux navires de guerre américains, selon le Washington Post, Al Jazeera et CNBC. Les Gardiens de la révolution iraniens affirment de leur côté avoir frappé trois pétroliers et trois navires liés aux États-Unis dans le détroit d'Ormuz. Le 8 septembre, l'Iran a tiré une vingtaine de missiles balistiques sur la base aérienne d'Al Azraq en Jordanie, utilisée par les forces américaines ; l'armée jordanienne indique en avoir intercepté 18, les deux autres étant tombés en zone inhabitée, sans faire de victime selon un responsable américain. Ces bilans, avancés par les parties au conflit, n'ont pas été confirmés de façon indépendante.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, then broken on July 7, the conflict escalated further in early September. US forces struck three Iranian oil tankers on September 5, including the M/T Downy off Kharg Island, after Iran fired missiles toward two US Navy warships, according to the Washington Post, Al Jazeera and CNBC. Iran's Revolutionary Guards say they separately struck three oil tankers and three US-linked vessels in the Strait of Hormuz. On September 8, Iran fired about 20 ballistic missiles at the Al Azraq air base in Jordan, used by US forces; Jordan's military said it intercepted 18, with the other two landing in unpopulated areas, causing no casualties according to a US official. These tolls, put forward by parties to the conflict, have not been independently confirmed.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026 y roto el 7 de julio, el conflicto se agravó aún más a principios de septiembre. Las fuerzas estadounidenses atacaron el 5 de septiembre tres petroleros iraníes, entre ellos el M/T Downy frente a la isla de Kharg, después de que Irán disparara misiles hacia dos buques de guerra estadounidenses, según el Washington Post, Al Jazeera y CNBC. Los Guardianes de la Revolución iraníes afirman haber atacado por su parte tres petroleros y tres embarcaciones vinculadas a Estados Unidos en el estrecho de Ormuz. El 8 de septiembre, Irán disparó unos 20 misiles balísticos contra la base aérea de Al Azraq en Jordania, utilizada por fuerzas estadounidenses; el ejército jordano indicó haber interceptado 18, y los otros dos cayeron en zonas deshabitadas, sin causar víctimas según un funcionario estadounidense. Estos balances, presentados por las partes del conflicto, no han sido confirmados de forma independiente."
     },
     "timeline": [
       {
@@ -733,6 +733,32 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Les forces américaines frappent trois pétroliers iraniens après des tirs de missiles iraniens vers deux navires de guerre américains, selon le Washington Post.",
+          "en": "US forces strike three Iranian oil tankers after Iranian missile fire toward two US warships, according to the Washington Post.",
+          "es": "Las fuerzas estadounidenses atacan tres petroleros iraníes tras disparos de misiles iraníes hacia dos buques de guerra estadounidenses, según el Washington Post."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran tire une vingtaine de missiles balistiques sur la base d'Al Azraq en Jordanie ; la Jordanie affirme en avoir intercepté 18, selon Al Jazeera.",
+          "en": "Iran fires about 20 ballistic missiles at the Al Azraq base in Jordan; Jordan says it intercepted 18, according to Al Jazeera.",
+          "es": "Irán dispara unos 20 misiles balísticos contra la base de Al Azraq en Jordania; Jordania afirma haber interceptado 18, según Al Jazeera."
         },
         "active": true
       }
@@ -829,5 +855,860 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      -80.287,
+      25.7959
+    ],
+    "id": "miami-avion-cargo",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Time / NPR / CNN",
+    "place": {
+      "fr": "Aéroport international de Miami, Floride, États-Unis",
+      "en": "Miami International Airport, Florida, United States",
+      "es": "Aeropuerto Internacional de Miami, Florida, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un avion-cargo sort de piste à l'aéroport de Miami, cinq morts",
+      "en": "Cargo plane overruns runway at Miami airport, five dead",
+      "es": "Un avión de carga se sale de la pista en el aeropuerto de Miami, cinco muertos"
+    },
+    "summary": {
+      "fr": "Un Boeing 767-300 cargo affrété pour Amazon, en provenance de San Juan (Porto Rico), a dépassé la piste de l'aéroport international de Miami d'environ 400 mètres samedi 6 septembre vers 14h, selon CNN, NPR et Time. L'appareil a heurté des équipements de navigation et une camionnette transportant du personnel au sol, tuant au moins cinq personnes. Le NTSB a récupéré les enregistreurs de vol et examine plusieurs pistes, dont une possible défaillance mécanique et les conditions orageuses, sans avoir établi de cause à ce stade.",
+      "en": "A Boeing 767-300 cargo plane chartered for Amazon, arriving from San Juan, Puerto Rico, overran the runway at Miami International Airport by roughly 400 metres on Saturday, September 6 around 2 p.m., according to CNN, NPR and Time. The aircraft struck navigational equipment and a van carrying ground personnel, killing at least five people. The NTSB has recovered the flight recorders and is examining several possibilities, including mechanical failure and stormy weather, without having established a cause at this stage.",
+      "es": "Un Boeing 767-300 de carga fletado para Amazon, procedente de San Juan (Puerto Rico), se salió de la pista del aeropuerto internacional de Miami unos 400 metros el sábado 6 de septiembre hacia las 14h, según CNN, NPR y Time. La aeronave golpeó equipos de navegación y una furgoneta que transportaba personal de tierra, matando al menos a cinco personas. El NTSB recuperó las cajas negras y examina varias pistas, entre ellas un posible fallo mecánico y las condiciones tormentosas, sin haber determinado una causa por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026, 14h00",
+          "en": "06/09/2026, 2:00 PM",
+          "es": "06/09/2026, 14:00"
+        },
+        "d": {
+          "fr": "L'avion-cargo sort de piste à l'aéroport de Miami et heurte des équipements et un véhicule, faisant au moins cinq morts, selon CNN, NPR et Time.",
+          "en": "The cargo plane overruns the runway at Miami airport and strikes equipment and a vehicle, killing at least five people, according to CNN, NPR and Time.",
+          "es": "El avión de carga se sale de la pista del aeropuerto de Miami y golpea equipos y un vehículo, causando al menos cinco muertos, según CNN, NPR y Time."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -70.672,
+      42.0459
+    ],
+    "id": "massachusetts-clancy-proces",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "source": "WBUR / Boston.com",
+    "place": {
+      "fr": "Duxbury, Massachusetts, États-Unis",
+      "en": "Duxbury, Massachusetts, United States",
+      "es": "Duxbury, Massachusetts, Estados Unidos"
+    },
+    "title": {
+      "fr": "Procès pour irresponsabilité pénale : le jury ne parvient pas à un verdict dans l'affaire Lindsay Clancy",
+      "en": "Insanity-defense trial: jury fails to reach verdict in Lindsay Clancy case",
+      "es": "Juicio por enajenación mental: el jurado no llega a un veredicto en el caso Lindsay Clancy"
+    },
+    "summary": {
+      "fr": "Un juge du Massachusetts a prononcé l'annulation du procès de Lindsay Clancy, 36 ans, vendredi 4 septembre, après qu'un jury de 12 personnes a délibéré environ une semaine sans parvenir à un verdict unanime, selon WBUR et Boston.com. Clancy a reconnu avoir étranglé ses trois enfants en janvier 2023 mais invoquait l'irresponsabilité pénale pour cause de troubles mentaux ; la présidente du jury a indiqué qu'un juré refusait d'appliquer les instructions du juge sur le doute raisonnable. Le ministère public doit encore décider s'il engage un nouveau procès.",
+      "en": "A Massachusetts judge declared a mistrial in the case of Lindsay Clancy, 36, on Friday, September 4, after a 12-person jury deliberated for about a week without reaching a unanimous verdict, according to WBUR and Boston.com. Clancy has admitted to strangling her three children in January 2023 but argued she was not criminally responsible due to mental illness; the jury foreperson said one juror refused to apply the judge's instructions on reasonable doubt. Prosecutors have yet to decide whether to pursue a retrial.",
+      "es": "Un juez de Massachusetts declaró la nulidad del juicio de Lindsay Clancy, de 36 años, el viernes 4 de septiembre, después de que un jurado de 12 personas deliberara durante aproximadamente una semana sin llegar a un veredicto unánime, según WBUR y Boston.com. Clancy ha admitido haber estrangulado a sus tres hijos en enero de 2023, pero alegó no ser penalmente responsable por enfermedad mental; la portavoz del jurado dijo que un miembro se negó a aplicar las instrucciones del juez sobre la duda razonable. La fiscalía aún no ha decidido si solicitará un nuevo juicio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Le juge prononce l'annulation du procès après l'impossibilité du jury de parvenir à un verdict unanime, selon WBUR.",
+          "en": "The judge declares a mistrial after the jury is unable to reach a unanimous verdict, according to WBUR.",
+          "es": "El juez declara la nulidad del juicio tras la imposibilidad del jurado de llegar a un veredicto unánime, según WBUR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -73.8458,
+      40.7498
+    ],
+    "id": "usopen-shelton-alcaraz",
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "CBS Sports / CNN / Al Jazeera",
+    "place": {
+      "fr": "Stade Arthur Ashe, New York, États-Unis",
+      "en": "Arthur Ashe Stadium, New York, United States",
+      "es": "Estadio Arthur Ashe, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Ben Shelton élimine le champion en titre Carlos Alcaraz à l'US Open",
+      "en": "Ben Shelton knocks out defending champion Carlos Alcaraz at the US Open",
+      "es": "Ben Shelton elimina al campeón defensor Carlos Alcaraz en el US Open"
+    },
+    "summary": {
+      "fr": "L'Américain Ben Shelton a battu le tenant du titre Carlos Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(7) en quart de finale de l'US Open, dans un match achevé à 3h33 du matin mercredi 9 septembre, la fin de rencontre la plus tardive de l'histoire du tournoi, selon CBS Sports, CNN et Al Jazeera. Il s'agit de la première victoire de Shelton contre un joueur du top 3 ; il affrontera son compatriote Frances Tiafoe en demi-finale.",
+      "en": "American Ben Shelton beat defending champion Carlos Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(7) in the US Open quarterfinal, in a match that ended at 3:33 a.m. on Wednesday, September 9 — the latest finish in tournament history, according to CBS Sports, CNN and Al Jazeera. It was Shelton's first win over a top-3 player; he will face fellow American Frances Tiafoe in the semifinal.",
+      "es": "El estadounidense Ben Shelton venció al campeón defensor Carlos Alcaraz 6-7(5), 6-1, 6-3, 1-6, 7-6(7) en cuartos de final del US Open, en un partido que terminó a las 3:33 de la madrugada del miércoles 9 de septiembre, el final más tardío en la historia del torneo, según CBS Sports, CNN y Al Jazeera. Fue la primera victoria de Shelton ante un jugador del top 3; se enfrentará a su compatriota Frances Tiafoe en semifinales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026, 3h33",
+          "en": "09/09/2026, 3:33 AM",
+          "es": "09/09/2026, 3:33"
+        },
+        "d": {
+          "fr": "Ben Shelton bat Carlos Alcaraz en cinq sets lors du match le plus tardif de l'histoire de l'US Open, selon CBS Sports.",
+          "en": "Ben Shelton beats Carlos Alcaraz in five sets in the latest-finishing match in US Open history, according to CBS Sports.",
+          "es": "Ben Shelton vence a Carlos Alcaraz en cinco sets en el partido que terminó más tarde en la historia del US Open, según CBS Sports."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "id": "chine-inflation-producteurs",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Bureau national des statistiques (Chine) / Xinhua / People's Daily",
+    "place": {
+      "fr": "Pékin, Chine (données nationales)",
+      "en": "Beijing, China (national data)",
+      "es": "Pekín, China (datos nacionales)"
+    },
+    "title": {
+      "fr": "L'inflation des prix à la production accélère à 3,8 % en Chine",
+      "en": "China's producer price inflation accelerates to 3.8%",
+      "es": "La inflación de precios al productor se acelera al 3,8 % en China"
+    },
+    "summary": {
+      "fr": "L'indice des prix à la production a augmenté de 3,8 % sur un an en août, contre 3,5 % en juillet, tandis que l'indice des prix à la consommation a progressé de 0,8 % sur un an, selon des données publiées le 9 septembre par le Bureau national des statistiques et relayées par Xinhua et le Quotidien du Peuple. L'institut attribue cette hausse à la répercussion des prix mondiaux des matières premières et à une demande industrielle intérieure plus forte, avec une hausse marquée des prix des métaux non ferreux et du raffinage pétrolier.",
+      "en": "The producer price index rose 3.8% year-on-year in August, up from 3.5% in July, while the consumer price index climbed 0.8% year-on-year, according to data released September 9 by the National Bureau of Statistics and reported by Xinhua and People's Daily. The agency attributed the rise to higher global commodity prices feeding through and stronger domestic industrial demand, with sharp increases in non-ferrous metal and oil-refining prices.",
+      "es": "El índice de precios al productor subió un 3,8 % interanual en agosto, frente al 3,5 % de julio, mientras que el índice de precios al consumidor avanzó un 0,8 % interanual, según datos publicados el 9 de septiembre por la Oficina Nacional de Estadísticas y difundidos por Xinhua y People's Daily. El organismo atribuyó el aumento al traslado de los precios mundiales de las materias primas y a una demanda industrial interna más fuerte, con fuertes alzas en los precios de los metales no ferrosos y el refino de petróleo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Le Bureau national des statistiques publie les données d'inflation d'août montrant une accélération des prix à la production, selon Xinhua.",
+          "en": "The National Bureau of Statistics releases August inflation data showing accelerating producer prices, according to Xinhua.",
+          "es": "La Oficina Nacional de Estadísticas publica los datos de inflación de agosto que muestran una aceleración de los precios al productor, según Xinhua."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "id": "japon-nagoya-inondations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Japan Times / The Weather Network",
+    "place": {
+      "fr": "Nagoya, préfecture d'Aichi, Japon",
+      "en": "Nagoya, Aichi Prefecture, Japan",
+      "es": "Nagoya, prefectura de Aichi, Japón"
+    },
+    "title": {
+      "fr": "Des pluies record inondent Nagoya, dizaines de blessés",
+      "en": "Record rainfall floods Nagoya, dozens injured",
+      "es": "Lluvias récord inundan Nagoya, decenas de heridos"
+    },
+    "summary": {
+      "fr": "Nagoya a enregistré 104,5 mm de pluie en une heure le 8 septembre, un record absolu pour la station, avec 219,5 mm sur la journée, déclenchant l'alerte inondation de niveau maximal de l'Agence météorologique japonaise pour 14 villes des préfectures d'Aichi et de Gifu, selon le Japan Times et The Weather Network. Au moins 41 personnes ont été blessées, le Shinkansen Tokaido a été suspendu, environ 305 mètres de voie de la ligne JR Chuo ont été submergés et environ 2700 personnes ont été évacuées vers des centres d'hébergement. Les organisateurs des Jeux asiatiques, qui débutent le 19 septembre à Nagoya, ont confirmé leur maintien.",
+      "en": "Nagoya recorded 104.5mm of rain in one hour on September 8, an all-time record for the station, with 219.5mm for the day, triggering the Japan Meteorological Agency's highest-level flood warning for 14 cities in Aichi and Gifu prefectures, according to the Japan Times and The Weather Network. At least 41 people were injured, Tokaido Shinkansen service was suspended, about 305 metres of JR Chuo Line track were submerged, and roughly 2,700 people took shelter in evacuation centres. Organizers of the Asian Games, due to start September 19 in Nagoya, confirmed the event will proceed.",
+      "es": "Nagoya registró 104,5 mm de lluvia en una hora el 8 de septiembre, un récord absoluto para la estación meteorológica, con 219,5 mm en el día, lo que desencadenó la alerta de inundación de nivel máximo de la Agencia Meteorológica de Japón para 14 ciudades de las prefecturas de Aichi y Gifu, según Japan Times y The Weather Network. Al menos 41 personas resultaron heridas, se suspendió el servicio del Shinkansen Tokaido, unos 305 metros de vía de la línea JR Chuo quedaron sumergidos y cerca de 2700 personas fueron evacuadas a centros de acogida. Los organizadores de los Juegos Asiáticos, previstos para comenzar el 19 de septiembre en Nagoya, confirmaron que se mantendrán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Des pluies torrentielles record frappent Nagoya, provoquant inondations et au moins 41 blessés, selon le Japan Times.",
+          "en": "Record torrential rain hits Nagoya, causing flooding and at least 41 injuries, according to the Japan Times.",
+          "es": "Lluvias torrenciales récord golpean Nagoya, provocando inundaciones y al menos 41 heridos, según Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      6.283,
+      50.812
+    ],
+    "id": "allemagne-sabotage-electrique",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "Washington Post / ABC News",
+    "place": {
+      "fr": "Weisweiler, Rhénanie-du-Nord-Westphalie, Allemagne",
+      "en": "Weisweiler, North Rhine-Westphalia, Germany",
+      "es": "Weisweiler, Renania del Norte-Westfalia, Alemania"
+    },
+    "title": {
+      "fr": "Un suspect arrêté après une série de sabotages du réseau électrique allemand",
+      "en": "Suspect arrested after string of attacks on Germany's power grid",
+      "es": "Detenido un sospechoso tras una serie de sabotajes a la red eléctrica alemana"
+    },
+    "summary": {
+      "fr": "La police allemande a arrêté le 8 septembre un homme de 48 ans près de la centrale de Weisweiler, au terme d'une traque de plusieurs jours, selon le Washington Post et ABC News. Il est soupçonné d'avoir utilisé des fusées artisanales pour projeter des câbles sur des lignes à haute tension afin de provoquer des courts-circuits sur des sites en Rhénanie-du-Nord-Westphalie, au Brandebourg et en Saxe, visant des infrastructures liées au charbon. Il transportait des engins explosifs supplémentaires au moment de son arrestation et n'a pas résisté ; des courriers retrouvés présenteraient les attaques comme un acte de militantisme anti-énergies fossiles.",
+      "en": "German police arrested a 48-year-old man near the Weisweiler power plant on September 8, after a multi-day manhunt, according to the Washington Post and ABC News. He is suspected of using homemade rockets to fling cables across high-voltage lines to cause short circuits at sites in North Rhine-Westphalia, Brandenburg and Saxony, targeting coal-linked infrastructure. He was carrying additional explosive devices at the time of his arrest and offered no resistance; letters found reportedly framed the attacks as anti-fossil-fuel activism.",
+      "es": "La policía alemana detuvo el 8 de septiembre a un hombre de 48 años cerca de la central de Weisweiler, tras una persecución de varios días, según el Washington Post y ABC News. Se le sospecha de usar cohetes artesanales para lanzar cables sobre líneas de alta tensión y provocar cortocircuitos en instalaciones de Renania del Norte-Westfalia, Brandeburgo y Sajonia, dirigidas contra infraestructuras vinculadas al carbón. Portaba explosivos adicionales en el momento de su detención y no opuso resistencia; cartas halladas presentarían los ataques como activismo contra los combustibles fósiles."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La police arrête un suspect près de la centrale de Weisweiler après une série de sabotages du réseau électrique, selon le Washington Post.",
+          "en": "Police arrest a suspect near the Weisweiler plant after a string of power-grid sabotage attacks, according to the Washington Post.",
+          "es": "La policía detiene a un sospechoso cerca de la central de Weisweiler tras una serie de sabotajes a la red eléctrica, según el Washington Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.3762,
+      51.5085
+    ],
+    "id": "londres-southall-fuite-diesel",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛢️",
+    "source": "Ealing.News / London Now",
+    "place": {
+      "fr": "Southall, Londres, Royaume-Uni",
+      "en": "Southall, London, United Kingdom",
+      "es": "Southall, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Une fuite de gazole force l'évacuation d'une tour à Londres",
+      "en": "Diesel fuel leak forces evacuation of London tower block",
+      "es": "Una fuga de gasóleo obliga a evacuar una torre en Londres"
+    },
+    "summary": {
+      "fr": "Une fuite de gazole rouge provenant de réservoirs situés à la base de Sheringham Tower, un immeuble de 13 étages géré par le conseil municipal d'Ealing à Southall, a entraîné l'évacuation des 72 foyers du bâtiment (plus de 150 habitants) le soir du 1er septembre, selon Ealing.News et London Now. Plusieurs équipes de pompiers londoniens sont intervenues et les habitants ont été relogés dans un centre d'accueil. Au 9 septembre, ils restaient déplacés, le conseil n'ayant pas encore précisé la quantité de gazole ayant fui, la cause de l'incident ni de date de retour.",
+      "en": "A red diesel leak from tanks at the base of Sheringham Tower, a 13-storey block managed by Ealing Council in Southall, forced the evacuation of all 72 households in the building (more than 150 residents) on the evening of September 1, according to Ealing.News and London Now. Several London fire crews responded and residents were moved to a rest centre. As of September 9, they remained displaced, with the council yet to disclose how much diesel leaked, its cause, or a return date.",
+      "es": "Una fuga de gasóleo rojo procedente de depósitos situados en la base de Sheringham Tower, un edificio de 13 plantas gestionado por el ayuntamiento de Ealing en Southall, obligó a evacuar los 72 hogares del inmueble (más de 150 residentes) la noche del 1 de septiembre, según Ealing.News y London Now. Varios equipos de bomberos de Londres respondieron y los residentes fueron trasladados a un centro de acogida. Hasta el 9 de septiembre seguían desplazados, sin que el ayuntamiento haya precisado la cantidad de gasóleo derramado, su causa ni una fecha de regreso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "01/09/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Une fuite de gazole force l'évacuation des 72 foyers de Sheringham Tower à Southall, selon Ealing.News.",
+          "en": "A diesel leak forces the evacuation of all 72 households at Sheringham Tower in Southall, according to Ealing.News.",
+          "es": "Una fuga de gasóleo obliga a evacuar los 72 hogares de Sheringham Tower en Southall, según Ealing.News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -64.7782,
+      46.0878
+    ],
+    "id": "canada-moncton-fusillade",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CTV News / CBC",
+    "place": {
+      "fr": "Moncton, Nouveau-Brunswick, Canada",
+      "en": "Moncton, New Brunswick, Canada",
+      "es": "Moncton, Nuevo Brunswick, Canadá"
+    },
+    "title": {
+      "fr": "Une femme grièvement blessée par balle à Moncton",
+      "en": "Woman critically injured in Moncton shooting",
+      "es": "Una mujer resulta gravemente herida de bala en Moncton"
+    },
+    "summary": {
+      "fr": "La police régionale de Codiac a été appelée vers 22h20 samedi 5 septembre à une résidence de la rue Marsh, à Moncton, après qu'une femme a été atteinte par balle, selon CTV News et CBC. Elle a été hospitalisée dans un état jugé critique. Aucune arrestation n'avait été annoncée le lendemain, mais la police a indiqué qu'il n'y avait pas de menace continue pour le public, les personnes impliquées se connaissant.",
+      "en": "Codiac Regional RCMP were called to a residence on Marsh Street in Moncton around 10:20 p.m. on Saturday, September 5, after a woman was shot, according to CTV News and CBC. She was hospitalized in critical condition. No arrest had been announced the following day, but police said there was no ongoing threat to the public, as those involved knew each other.",
+      "es": "La policía regional de Codiac fue llamada hacia las 22:20 del sábado 5 de septiembre a una residencia de la calle Marsh, en Moncton, después de que una mujer recibiera un disparo, según CTV News y CBC. Fue hospitalizada en estado crítico. No se había anunciado ninguna detención al día siguiente, pero la policía indicó que no existía una amenaza continua para el público, ya que los implicados se conocían entre sí."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026, 22h20",
+          "en": "05/09/2026, 10:20 PM",
+          "es": "05/09/2026, 22:20"
+        },
+        "d": {
+          "fr": "Une femme est atteinte par balle dans une résidence de Moncton et hospitalisée dans un état critique, selon CTV News.",
+          "en": "A woman is shot at a residence in Moncton and hospitalized in critical condition, according to CTV News.",
+          "es": "Una mujer recibe un disparo en una residencia de Moncton y es hospitalizada en estado crítico, según CTV News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -99.1332,
+      19.4326
+    ],
+    "id": "mexique-budget-2027",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "source": "Infobae / Expansión Política",
+    "place": {
+      "fr": "Mexico, Mexique (Palais national)",
+      "en": "Mexico City, Mexico (National Palace)",
+      "es": "Ciudad de México, México (Palacio Nacional)"
+    },
+    "title": {
+      "fr": "Le Mexique présente son projet de budget 2027, sans nouvel impôt",
+      "en": "Mexico unveils its 2027 economic package, with no new taxes",
+      "es": "México presenta su Paquete Económico 2027, sin nuevos impuestos"
+    },
+    "summary": {
+      "fr": "Le ministère mexicain des Finances a remis au Congrès le Paquete Económico 2027 le 8 septembre, que la présidente Claudia Sheinbaum a présenté publiquement au Palais national le lendemain, selon Infobae et Expansión Política. Le plan prévoit environ 10 500 milliards de pesos de dépenses nettes, en hausse d'environ 0,7 % en termes réels par rapport à 2026, sans nouvel impôt ni hausse du prix des carburants ; il met l'accent sur la lutte contre l'évasion fiscale, une nouvelle loi sur l'économie numérique et des hausses de dépenses en éducation, santé et sécurité.",
+      "en": "Mexico's Finance Ministry delivered the 2027 Economic Package to Congress on September 8, which President Claudia Sheinbaum publicly presented at the National Palace the following day, according to Infobae and Expansión Política. The plan proposes about 10.5 trillion pesos in net spending, roughly 0.7% higher in real terms than 2026, with no new taxes or fuel-price increases; it emphasizes anti-tax-evasion measures, a new Digital Economy Law, and increased spending on education, health and security.",
+      "es": "La Secretaría de Hacienda de México entregó el Paquete Económico 2027 al Congreso el 8 de septiembre, que la presidenta Claudia Sheinbaum presentó públicamente en el Palacio Nacional al día siguiente, según Infobae y Expansión Política. El plan prevé cerca de 10.5 billones de pesos en gasto neto, un 0.7 % más en términos reales que en 2026, sin nuevos impuestos ni aumento en el precio de los combustibles; hace hincapié en medidas contra la evasión fiscal, una nueva Ley de Economía Digital y aumentos de gasto en educación, salud y seguridad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "La présidente Sheinbaum présente le projet de budget 2027 au Palais national, selon Infobae.",
+          "en": "President Sheinbaum presents the 2027 budget proposal at the National Palace, according to Infobae.",
+          "es": "La presidenta Sheinbaum presenta el proyecto de presupuesto 2027 en el Palacio Nacional, según Infobae."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      123.51,
+      -8.36
+    ],
+    "id": "indonesie-ili-lewotolok-eruption",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Antara News / Malay Mail",
+    "place": {
+      "fr": "Île de Lembata, Nusa Tenggara oriental, Indonésie",
+      "en": "Lembata Island, East Nusa Tenggara, Indonesia",
+      "es": "Isla de Lembata, Nusa Tenggara Oriental, Indonesia"
+    },
+    "title": {
+      "fr": "Le volcan Ili Lewotolok entre en éruption à répétition, aéroport fermé",
+      "en": "Mount Ili Lewotolok erupts repeatedly, forcing airport closure",
+      "es": "El volcán Ili Lewotolok entra en erupción varias veces, aeropuerto cerrado"
+    },
+    "summary": {
+      "fr": "Le volcan Ili Lewotolok, sur l'île de Lembata, est entré en éruption à quatre reprises entre le 9 et la mi-journée du 10 septembre, projetant des colonnes de cendres jusqu'à environ 2400 mètres, selon l'agence Antara News et le Malay Mail. Ces éruptions ont entraîné la fermeture de l'aéroport de Wunopito, à Lewoleba, jusqu'au matin du 11 septembre. Cet épisode survient peu après la réouverture de huit aéroports indonésiens, dont celui de Jakarta, fermés en raison des cendres d'une précédente éruption de l'Anak Krakatau.",
+      "en": "Mount Ili Lewotolok, on Lembata Island, erupted four times between September 9 and midday on September 10, sending ash columns up to roughly 2,400 metres, according to state news agency Antara and the Malay Mail. The eruptions forced the closure of Wunopito Airport in Lewoleba through the morning of September 11. This came shortly after eight Indonesian airports, including Jakarta's, reopened following ash disruption from an earlier Anak Krakatau eruption.",
+      "es": "El volcán Ili Lewotolok, en la isla de Lembata, entró en erupción cuatro veces entre el 9 y el mediodía del 10 de septiembre, lanzando columnas de ceniza de hasta unos 2400 metros, según la agencia estatal Antara y Malay Mail. Las erupciones obligaron a cerrar el aeropuerto de Wunopito, en Lewoleba, hasta la mañana del 11 de septiembre. Esto ocurrió poco después de que ocho aeropuertos indonesios, incluido el de Yakarta, reabrieran tras la interrupción por cenizas de una erupción anterior del Anak Krakatau."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09-10/09/2026",
+          "en": "09-10/09/2026",
+          "es": "09-10/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan Ili Lewotolok entre en éruption à quatre reprises, forçant la fermeture de l'aéroport de Wunopito, selon Antara News.",
+          "en": "Mount Ili Lewotolok erupts four times, forcing the closure of Wunopito Airport, according to Antara News.",
+          "es": "El volcán Ili Lewotolok entra en erupción cuatro veces, obligando a cerrar el aeropuerto de Wunopito, según Antara News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      77.1897,
+      28.5699
+    ],
+    "id": "inde-delhi-effondrement-immeuble",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Washington Post / Deccan Herald",
+    "place": {
+      "fr": "Satya Niketan, New Delhi, Inde",
+      "en": "Satya Niketan, New Delhi, India",
+      "es": "Satya Niketan, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble à New Delhi : sept morts",
+      "en": "Building collapse in New Delhi kills seven",
+      "es": "Derrumbe de un edificio en Nueva Delhi deja siete muertos"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages servant de pension pour étudiants s'est effondré vers midi le 6 septembre à Satya Niketan, près du campus sud de l'université de Delhi, selon le Washington Post et le Deccan Herald. Le bilan est passé à sept morts après deux jours d'opérations de secours de la NDRF et de la police. La ministre en chef de Delhi, Rekha Gupta, a indiqué que l'accumulation d'eau liée à des travaux de réparation du sous-sol aurait contribué à l'effondrement. Le propriétaire du bâtiment a été arrêté au Rajasthan, un entrepreneur a également été interpellé, et cinq fonctionnaires municipaux ont été suspendus.",
+      "en": "A five-storey building operating as a student paying-guest hostel collapsed around midday on September 6 in Satya Niketan, near Delhi University's South Campus, according to the Washington Post and Deccan Herald. The death toll rose to seven over two days of rescue operations by the NDRF and police. Delhi Chief Minister Rekha Gupta said water accumulation from ongoing basement repair work contributed to the collapse. The building's owner was arrested in Rajasthan, a contractor was also detained, and five municipal officials were suspended.",
+      "es": "Un edificio de cinco plantas que funcionaba como residencia estudiantil se derrumbó hacia el mediodía del 6 de septiembre en Satya Niketan, cerca del campus sur de la Universidad de Delhi, según el Washington Post y Deccan Herald. El número de muertos ascendió a siete tras dos días de operaciones de rescate de la NDRF y la policía. La jefa de gobierno de Delhi, Rekha Gupta, indicó que la acumulación de agua por obras de reparación en el sótano habría contribuido al derrumbe. El propietario del edificio fue detenido en Rajastán, también se detuvo a un contratista, y cinco funcionarios municipales fueron suspendidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Un immeuble de cinq étages s'effondre à Satya Niketan, déclenchant une opération de secours, selon le Washington Post.",
+          "en": "A five-storey building collapses in Satya Niketan, triggering a rescue operation, according to the Washington Post.",
+          "es": "Un edificio de cinco plantas se derrumba en Satya Niketan, lo que desencadena una operación de rescate, según el Washington Post."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint sept morts et le propriétaire de l'immeuble est arrêté au Rajasthan, selon le Deccan Herald.",
+          "en": "The death toll reaches seven and the building's owner is arrested in Rajasthan, according to the Deccan Herald.",
+          "es": "El número de muertos llega a siete y el propietario del edificio es detenido en Rajastán, según Deccan Herald."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "ukraine-kyiv-frappes-drones-septembre",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Al Jazeera / NBC News",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie reprend ses frappes de drones sur Kyiv, au moins un mort",
+      "en": "Russia resumes drone strikes on Kyiv, at least one dead",
+      "es": "Rusia reanuda los ataques con drones sobre Kiev, al menos un muerto"
+    },
+    "summary": {
+      "fr": "La Russie a repris ses attaques de drones sur Kyiv le matin du 9 septembre, quelques jours après une pause liée aux visites des émissaires américains Steve Witkoff et Jared Kushner, selon le Kyiv Independent, Al Jazeera et NBC News. Un drone a touché un immeuble résidentiel de 24 étages dans le quartier de Darnytskyi, provoquant un incendie au 12e étage ; un entrepôt a également pris feu dans le quartier de Dniprovskyi après la chute d'un drone. Les autorités ukrainiennes font état d'au moins un mort et 16 blessés, dont deux enfants, lors des frappes du 9 septembre, après un précédent bombardement le 8 septembre ayant fait cinq morts selon les mêmes sources. L'armée ukrainienne affirme de son côté avoir visé la base navale russe de Novorossiïsk et une frégate la même nuit ; la Russie n'a pas commenté cette affirmation dans les sources consultées.",
+      "en": "Russia resumed drone attacks on Kyiv on the morning of September 9, days after a pause tied to visits by US envoys Steve Witkoff and Jared Kushner, according to the Kyiv Independent, Al Jazeera and NBC News. A drone struck a 24-storey residential building in the Darnytskyi district, sparking a fire on the 12th floor; a warehouse also caught fire in the Dniprovskyi district after a drone crash. Ukrainian authorities report at least one dead and 16 injured, including two children, in the September 9 strikes, following an earlier barrage on September 8 that killed five, according to the same sources. Ukraine's military says it separately struck Russia's Novorossiysk naval base and a frigate the same night; Russia has not commented on that claim in the sources reviewed.",
+      "es": "Rusia reanudó los ataques con drones sobre Kiev la mañana del 9 de septiembre, días después de una pausa vinculada a las visitas de los enviados estadounidenses Steve Witkoff y Jared Kushner, según Kyiv Independent, Al Jazeera y NBC News. Un dron impactó un edificio residencial de 24 plantas en el distrito de Darnytskyi, provocando un incendio en el piso 12; también se incendió un almacén en el distrito de Dniprovskyi tras la caída de un dron. Las autoridades ucranianas informan de al menos un muerto y 16 heridos, incluidos dos niños, en los ataques del 9 de septiembre, tras un bombardeo anterior el 8 de septiembre que dejó cinco muertos, según las mismas fuentes. El ejército ucraniano afirma haber atacado por su parte la base naval rusa de Novorossiisk y una fragata la misma noche; Rusia no ha comentado esta afirmación en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Un bombardement russe fait cinq morts en Ukraine, selon le Kyiv Independent.",
+          "en": "A Russian bombardment kills five people in Ukraine, according to the Kyiv Independent.",
+          "es": "Un bombardeo ruso deja cinco muertos en Ucrania, según Kyiv Independent."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Des drones russes touchent un immeuble résidentiel et un entrepôt à Kyiv, faisant au moins un mort et 16 blessés, selon Al Jazeera.",
+          "en": "Russian drones hit a residential building and a warehouse in Kyiv, killing at least one and injuring 16, according to Al Jazeera.",
+          "es": "Drones rusos impactan un edificio residencial y un almacén en Kiev, dejando al menos un muerto y 16 heridos, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -5.4526,
+      36.1408
+    ],
+    "id": "espagne-europol-el-tigre",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "source": "Diario Área / The Local Spain",
+    "place": {
+      "fr": "Algésiras, Espagne",
+      "en": "Algeciras, Spain",
+      "es": "Algeciras, España"
+    },
+    "title": {
+      "fr": "Europol place un narcotrafiquant espagnol présumé sur sa liste des plus recherchés",
+      "en": "Europol adds alleged Spanish drug trafficker to its most-wanted list",
+      "es": "Europol incluye a un presunto narcotraficante español en su lista de más buscados"
+    },
+    "summary": {
+      "fr": "Europol a inscrit Alejandro Salgado Vega, alias « El Tigre », 48 ans, sur sa liste des criminels les plus recherchés d'Europe, selon Diario Área et The Local Spain. La police espagnole le présente comme le chef présumé de l'un des plus importants réseaux mondiaux de distribution de cocaïne, lié à une saisie de 13 tonnes de cocaïne dissimulée dans une cargaison de fruits au port d'Algésiras et à une autre saisie de deux tonnes en provenance du Paraguay. Il est recherché pour trafic de stupéfiants, blanchiment d'argent et criminalité organisée ; il se trouverait entre Dubaï et le Qatar, sans localisation précise confirmée.",
+      "en": "Europol placed Alejandro Salgado Vega, alias 'El Tigre,' 48, on its list of Europe's most-wanted criminals, according to Diario Área and The Local Spain. Spanish police describe him as the alleged leader of one of the world's largest cocaine-distribution networks, linked to a 13-tonne cocaine seizure hidden in a fruit shipment at the Port of Algeciras and a separate 2-tonne seizure from Paraguay. He is wanted for drug trafficking, money laundering and organized crime; he is believed to be sheltering between Dubai and Qatar, though his precise location has not been confirmed.",
+      "es": "Europol incluyó a Alejandro Salgado Vega, alias 'El Tigre', de 48 años, en su lista de los criminales más buscados de Europa, según Diario Área y The Local Spain. La policía española lo presenta como el presunto líder de una de las mayores redes de distribución de cocaína del mundo, vinculada a una incautación de 13 toneladas de cocaína ocultas en un cargamento de fruta en el puerto de Algeciras y a otra de dos toneladas procedente de Paraguay. Está buscado por narcotráfico, blanqueo de capitales y crimen organizado; se cree que se esconde entre Dubái y Catar, aunque su ubicación exacta no ha sido confirmada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Europol place Alejandro Salgado Vega, alias « El Tigre », sur sa liste des criminels les plus recherchés, selon Diario Área.",
+          "en": "Europol places Alejandro Salgado Vega, alias 'El Tigre,' on its most-wanted list, according to Diario Área.",
+          "es": "Europol incluye a Alejandro Salgado Vega, alias 'El Tigre', en su lista de más buscados, según Diario Área."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "id": "italie-ranucci-lavitola-detention",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "source": "ANSA / Adnkronos",
+    "place": {
+      "fr": "Rome, Italie (tribunal du réexamen)",
+      "en": "Rome, Italy (review court)",
+      "es": "Roma, Italia (tribunal de revisión)"
+    },
+    "title": {
+      "fr": "L'Italie maintient en détention le commanditaire présumé de l'attentat visant le journaliste Ranucci",
+      "en": "Italy keeps alleged mastermind of bomb attack on journalist Ranucci in detention",
+      "es": "Italia mantiene en prisión al presunto autor intelectual del atentado contra el periodista Ranucci"
+    },
+    "summary": {
+      "fr": "Le tribunal du réexamen de Rome a rejeté le 10 septembre la demande d'assignation à résidence formulée par la défense de Valter Lavitola et a confirmé son maintien en détention provisoire ainsi que la circonstance aggravante de « méthode mafieuse », en lien avec l'attentat à la bombe visant le journaliste d'investigation Sigfrido Ranucci devant son domicile de Pomezia en octobre 2025, selon l'ANSA et Adnkronos. Lavitola a déclaré devant le tribunal assumer « toute la responsabilité » en tant que commanditaire de l'attaque. Son avocat a annoncé son intention de se pourvoir devant la Cour de cassation.",
+      "en": "Rome's review court rejected on September 10 a request by Valter Lavitola's defense for house arrest and upheld both his continued pretrial detention and the aggravating 'mafia method' circumstance, related to the bomb attack on investigative journalist Sigfrido Ranucci outside his home in Pomezia in October 2025, according to ANSA and Adnkronos. Lavitola told the court he takes 'full responsibility' as the person who commissioned the attack. His lawyer announced plans to appeal to Italy's Court of Cassation.",
+      "es": "El tribunal de revisión de Roma rechazó el 10 de septiembre la solicitud de arresto domiciliario presentada por la defensa de Valter Lavitola y confirmó tanto su prisión preventiva como la agravante de 'método mafioso', en relación con el atentado con bomba contra el periodista de investigación Sigfrido Ranucci frente a su domicilio en Pomezia en octubre de 2025, según ANSA y Adnkronos. Lavitola declaró ante el tribunal asumir 'toda la responsabilidad' como autor intelectual del ataque. Su abogado anunció su intención de recurrir ante la Corte de Casación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal du réexamen de Rome confirme la détention de Valter Lavitola et la circonstance de méthode mafieuse, selon l'ANSA.",
+          "en": "Rome's review court upholds Valter Lavitola's detention and the mafia-method circumstance, according to ANSA.",
+          "es": "El tribunal de revisión de Roma confirma la prisión de Valter Lavitola y la agravante de método mafioso, según ANSA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      149.13,
+      -35.2809
+    ],
+    "id": "australie-rapport-violences-sexuelles",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "source": "AAP (Newcastle Herald / Examiner)",
+    "place": {
+      "fr": "Canberra, Australie",
+      "en": "Canberra, Australia",
+      "es": "Canberra, Australia"
+    },
+    "title": {
+      "fr": "Les signalements de violences sexuelles au plus haut niveau depuis 33 ans en Australie",
+      "en": "Sexual violence reports hit 33-year high in Australia",
+      "es": "Las denuncias de violencia sexual alcanzan su nivel más alto en 33 años en Australia"
+    },
+    "summary": {
+      "fr": "La commissaire australienne aux violences domestiques, familiales et sexuelles, Micaela Cronin, a présenté le 9 septembre au Parlement son troisième rapport annuel, constatant que les signalements de violences sexuelles atteignent leur niveau le plus élevé depuis le début des relevés nationaux il y a 33 ans, selon une dépêche AAP reprise par plusieurs médias régionaux. Le rapport indique que près de six agressions sexuelles enregistrées par la police sur dix surviennent hors du cadre familial ou conjugal. Mme Cronin a jugé que les progrès des pouvoirs publics et de la société restaient insuffisants et a appelé à un financement accru.",
+      "en": "Australia's Domestic, Family and Sexual Violence Commissioner, Micaela Cronin, presented her third annual report to Parliament on September 9, finding that sexual violence reports are at their highest level since national recording began 33 years ago, according to an AAP wire story republished by several regional outlets. The report found that nearly six in ten police-recorded sexual assaults occur outside family or intimate-partner relationships. Cronin said government and community progress remains insufficient and called for increased funding.",
+      "es": "La comisionada australiana de Violencia Doméstica, Familiar y Sexual, Micaela Cronin, presentó el 9 de septiembre ante el Parlamento su tercer informe anual, en el que constató que las denuncias de violencia sexual están en su nivel más alto desde que comenzó el registro nacional hace 33 años, según un despacho de AAP reproducido por varios medios regionales. El informe señala que casi seis de cada diez agresiones sexuales registradas por la policía ocurren fuera de relaciones familiares o de pareja. Cronin consideró que los avances del gobierno y la comunidad siguen siendo insuficientes y pidió más financiación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "La commissaire Cronin présente au Parlement un rapport faisant état du plus haut niveau de signalements de violences sexuelles en 33 ans, selon AAP.",
+          "en": "Commissioner Cronin presents a report to Parliament showing the highest level of sexual violence reports in 33 years, according to AAP.",
+          "es": "La comisionada Cronin presenta ante el Parlamento un informe que revela el nivel más alto de denuncias de violencia sexual en 33 años, según AAP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "coords": [
+      126.7803,
+      37.8154
+    ],
+    "id": "coreedusud-paju-congelateur",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🧊",
+    "source": "Korea Herald / Korea Times",
+    "place": {
+      "fr": "Paju, province du Gyeonggi, Corée du Sud",
+      "en": "Paju, Gyeonggi Province, South Korea",
+      "es": "Paju, provincia de Gyeonggi, Corea del Sur"
+    },
+    "title": {
+      "fr": "Corps découvert dans le congélateur d'un café à Paju, le gérant arrêté",
+      "en": "Body found in cafe freezer in Paju, owner arrested",
+      "es": "Hallan un cadáver en el congelador de una cafetería en Paju, detienen al dueño"
+    },
+    "summary": {
+      "fr": "Le corps d'une femme d'une soixantaine d'années, portée disparue à Séoul, a été retrouvé dans un congélateur installé près d'un café à Paju, dans la province du Gyeonggi, selon le Korea Herald et le Korea Times. Le gérant du café, un homme d'une trentaine d'années, a été arrêté, soupçonné de l'avoir attirée et tuée ; la police indique qu'il avait fait installer le congélateur une semaine avant les faits et avait menti aux enquêteurs pendant les recherches. L'affaire serait liée à un système de fraude par faux bons cadeaux, et au moins trois complices présumés seraient impliqués selon les enquêteurs.",
+      "en": "The body of a woman in her 60s, reported missing from Seoul, was found in a freezer installed next to a cafe in Paju, Gyeonggi Province, according to the Korea Herald and Korea Times. The cafe's owner, a man in his 30s, was arrested on suspicion of luring and killing her; police say he had the freezer installed a week before the crime and lied to investigators during the missing-person search. The case is believed to be linked to a counterfeit gift-certificate fraud scheme, with investigators suspecting at least three accomplices.",
+      "es": "El cuerpo de una mujer de unos 60 años, reportada como desaparecida en Seúl, fue hallado en un congelador instalado junto a una cafetería en Paju, provincia de Gyeonggi, según Korea Herald y Korea Times. El dueño de la cafetería, un hombre de unos 30 años, fue detenido bajo sospecha de haberla atraído y matado; la policía indica que había instalado el congelador una semana antes del hecho y mintió a los investigadores durante la búsqueda. Se cree que el caso está vinculado a un esquema de fraude con vales de regalo falsos, y los investigadores sospechan de al menos tres cómplices."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Le gérant du café est arrêté après la découverte du corps dans le congélateur, selon le Korea Herald.",
+          "en": "The cafe owner is arrested after the body is found in the freezer, according to the Korea Herald.",
+          "es": "El dueño de la cafetería es detenido tras el hallazgo del cuerpo en el congelador, según Korea Herald."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      7.4951,
+      9.0765
+    ],
+    "id": "nigeria-orya-appel-confirme",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "source": "Vanguard / Ripples Nigeria",
+    "place": {
+      "fr": "Abuja, Nigeria (Cour d'appel)",
+      "en": "Abuja, Nigeria (Court of Appeal)",
+      "es": "Abuya, Nigeria (Tribunal de Apelaciones)"
+    },
+    "title": {
+      "fr": "Le Nigeria confirme en appel la peine de l'ex-directeur de la NEXIM Bank",
+      "en": "Nigeria's appeals court upholds sentence of ex-NEXIM Bank chief",
+      "es": "Nigeria confirma en apelación la condena del expresidente del NEXIM Bank"
+    },
+    "summary": {
+      "fr": "La Cour d'appel d'Abuja a rejeté à l'unanimité, le 8 septembre, le recours de Robert Orya, ancien directeur général de la NEXIM Bank, confirmant sa condamnation pour fraude portant sur 2,4 milliards de nairas, selon Vanguard et Ripples Nigeria. Il avait été reconnu coupable en février 2026 sur 49 chefs d'accusation (faux, escroquerie, fausses déclarations) portés par la Commission des délits économiques et financiers (EFCC), et condamné à dix ans de prison par chef d'accusation, les peines devant être purgées simultanément, soit une peine effective de dix ans.",
+      "en": "Abuja's Court of Appeal unanimously dismissed the appeal of Robert Orya, former managing director of NEXIM Bank, on September 8, upholding his conviction on fraud charges involving 2.4 billion naira, according to Vanguard and Ripples Nigeria. He was found guilty in February 2026 on 49 counts (forgery, advance-fee fraud, false pretences) brought by the Economic and Financial Crimes Commission (EFCC), and sentenced to ten years per count, to run concurrently — an effective ten-year term.",
+      "es": "El Tribunal de Apelaciones de Abuya desestimó por unanimidad, el 8 de septiembre, el recurso de Robert Orya, exdirector general del NEXIM Bank, confirmando su condena por fraude por 2400 millones de nairas, según Vanguard y Ripples Nigeria. Había sido declarado culpable en febrero de 2026 de 49 cargos (falsificación, estafa y falsas declaraciones) presentados por la Comisión de Delitos Económicos y Financieros (EFCC), y condenado a diez años de prisión por cargo, a cumplirse de forma simultánea, es decir, una pena efectiva de diez años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La Cour d'appel d'Abuja confirme à l'unanimité la condamnation de Robert Orya, selon Vanguard.",
+          "en": "Abuja's Court of Appeal unanimously upholds Robert Orya's conviction, according to Vanguard.",
+          "es": "El Tribunal de Apelaciones de Abuya confirma por unanimidad la condena de Robert Orya, según Vanguard."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -60.049,
+      -3.081
+    ],
+    "id": "bresil-manaus-fusillade-plage",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "O Chefão da Notícia / Portal Ponta Negra Manaus",
+    "place": {
+      "fr": "Plage de Ponta Negra, Manaus, Brésil",
+      "en": "Ponta Negra beach, Manaus, Brazil",
+      "es": "Playa de Ponta Negra, Manaos, Brasil"
+    },
+    "title": {
+      "fr": "Un homme tué par balle sur la plage bondée de Ponta Negra à Manaus",
+      "en": "Man shot dead at crowded Ponta Negra beach in Manaus",
+      "es": "Un hombre muere baleado en la concurrida playa de Ponta Negra en Manaos"
+    },
+    "summary": {
+      "fr": "Un homme de 21 ans, identifié comme Victor Moriz de Sena, a été atteint de six balles et tué par des hommes armés sur la plage de Ponta Negra, lieu de baignade fréquenté de Manaus, un dimanche après-midi très fréquenté, selon plusieurs médias locaux dont O Chefão da Notícia et le Portal Ponta Negra Manaus. Des témoins ont décrit une scène de panique, des vidéos de la fuite des baigneurs ayant circulé sur les réseaux sociaux. La victime avait des antécédents d'arrestations liées au trafic de drogue et à la détention d'armes illégales ; la police n'avait pas identifié de suspect au moment des premières informations.",
+      "en": "A 21-year-old man, identified as Victor Moriz de Sena, was shot six times and killed by armed men at Ponta Negra beach, a popular riverside spot in Manaus, during a busy Sunday afternoon, according to several local outlets including O Chefão da Notícia and Portal Ponta Negra Manaus. Witnesses described panic among beachgoers, with videos of people fleeing circulating on social media. The victim reportedly had prior arrests for drug trafficking and illegal firearm possession; police had not identified a suspect as of initial reporting.",
+      "es": "Un hombre de 21 años, identificado como Victor Moriz de Sena, recibió seis disparos y murió a manos de hombres armados en la playa de Ponta Negra, un popular lugar ribereño de Manaos, durante una concurrida tarde de domingo, según varios medios locales, entre ellos O Chefão da Notícia y Portal Ponta Negra Manaus. Testigos describieron pánico entre los bañistas, y circularon videos de personas huyendo en redes sociales. La víctima tenía antecedentes de detenciones por tráfico de drogas y posesión ilegal de armas; la policía no había identificado a ningún sospechoso al momento de las primeras informaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Un homme est abattu par des hommes armés sur la plage de Ponta Negra, provoquant un mouvement de panique, selon les médias locaux.",
+          "en": "A man is shot dead by armed men at Ponta Negra beach, sparking panic, according to local media.",
+          "es": "Un hombre muere baleado por hombres armados en la playa de Ponta Negra, lo que provoca pánico, según medios locales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "coords": [
+      31.8,
+      30.03
+    ],
+    "id": "egypte-jeux-universitaires-africains",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Egypt State Information Service / AUC",
+    "place": {
+      "fr": "Nouvelle capitale administrative, près du Caire, Égypte",
+      "en": "New Administrative Capital, near Cairo, Egypt",
+      "es": "Nueva Capital Administrativa, cerca de El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'Égypte ouvre les 12es Jeux universitaires panafricains",
+      "en": "Egypt opens the 12th All-Africa University Games",
+      "es": "Egipto inaugura los XII Juegos Universitarios Panafricanos"
+    },
+    "summary": {
+      "fr": "L'Égypte a accueilli le 9 septembre la cérémonie d'ouverture des 12es Jeux universitaires panafricains dans la Nouvelle capitale administrative, une première pour le pays, selon le Service d'information de l'État égyptien et l'Université américaine du Caire. Environ 2000 étudiants-athlètes issus de 59 universités de 17 pays africains participent à 21 disciplines jusqu'au 16 septembre, sous le slogan « Une flamme, un continent », précédé d'un relais de la flamme de style olympique.",
+      "en": "Egypt hosted the opening ceremony of the 12th All-Africa University Games on September 9 at the New Administrative Capital, a first for the country, according to the Egyptian State Information Service and the American University in Cairo. About 2,000 student-athletes from 59 universities in 17 African countries are competing in 21 sports through September 16, under the slogan 'One Flame, One Continent,' preceded by an Olympic-style torch relay.",
+      "es": "Egipto acogió el 9 de septiembre la ceremonia de apertura de los XII Juegos Universitarios Panafricanos en la Nueva Capital Administrativa, una primicia para el país, según el Servicio de Información del Estado egipcio y la Universidad Americana de El Cairo. Cerca de 2000 estudiantes-atletas de 59 universidades de 17 países africanos compiten en 21 disciplinas hasta el 16 de septiembre, bajo el lema 'Una llama, un continente', precedido por un relevo de antorcha al estilo olímpico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "La cérémonie d'ouverture des Jeux universitaires panafricains se tient dans la Nouvelle capitale administrative, selon le SIS égyptien.",
+          "en": "The opening ceremony of the All-Africa University Games is held at the New Administrative Capital, according to Egypt's SIS.",
+          "es": "La ceremonia de apertura de los Juegos Universitarios Panafricanos se celebra en la Nueva Capital Administrativa, según el SIS egipcio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
   }
 ]
