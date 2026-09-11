@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W37",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Des missiles tirés depuis l'Iran endommagent un avion d'attaque A-10 et plusieurs F-15 américains sur la base aérienne jordanienne de Muwaffaq Salti ; les forces américaines et jordaniennes tirent une trentaine d'intercepteurs Patriot en réponse, selon des responsables américains cités par Reuters.",
+          "en": "Missiles fired from Iran damage a US A-10 attack aircraft and several F-15s at Jordan's Muwaffaq Salti Air Base; US and Jordanian forces fire roughly 30 Patriot interceptors in response, according to US officials cited by Reuters.",
+          "es": "Misiles lanzados desde Irán dañan un avión de ataque A-10 y varios F-15 estadounidenses en la base aérea jordana de Muwaffaq Salti; fuerzas estadounidenses y jordanas disparan unos 30 interceptores Patriot en respuesta, según funcionarios estadounidenses citados por Reuters."
         },
         "active": true
       }
@@ -828,6 +841,1143 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bresil-pf-stf-crise",
+    "coords": [
+      -47.8645,
+      -15.7998
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Agência Brasil / ConJur",
+    "place": {
+      "fr": "Brasília (STF), Brésil",
+      "en": "Brasília (Supreme Court), Brazil",
+      "es": "Brasilia (STF), Brasil"
+    },
+    "title": {
+      "fr": "Crise institutionnelle : le STF écarte puis réintègre les chefs de la Police fédérale",
+      "en": "Institutional crisis: Supreme Court removes, then reinstates federal police chiefs",
+      "es": "Crisis institucional: el STF destituye y luego reincorpora a los jefes de la Policía Federal"
+    },
+    "summary": {
+      "fr": "Le 8 septembre 2026, le juge André Mendonça, de la Cour suprême (STF), a écarté le directeur général de la Police fédérale, Andrei Rodrigues, et le directeur du renseignement, Leandro Almada da Costa, affirmant avoir fait l'objet d'une surveillance illégale liée à l'enquête sur la banque Master. Le lendemain, le président du STF, Edson Fachin, a suspendu cette décision ainsi qu'une décision similaire du juge Flávio Dino, réintégré les deux responsables et convoqué une séance plénière extraordinaire pour le 15 septembre.",
+      "en": "On September 8, 2026, Supreme Federal Court (STF) Justice André Mendonça removed the Federal Police's director-general, Andrei Rodrigues, and its intelligence director, Leandro Almada da Costa, saying he had been unlawfully monitored in connection with the Banco Master fraud investigation. The next day, STF president Edson Fachin suspended that decision and a similar one by Justice Flávio Dino, reinstated the two officials, and called an extraordinary plenary session for September 15 to resolve the dispute.",
+      "es": "El 8 de septiembre de 2026, el ministro André Mendonça, de la Corte Suprema (STF), destituyó al director general de la Policía Federal, Andrei Rodrigues, y al director de inteligencia, Leandro Almada da Costa, alegando haber sido vigilado ilegalmente en relación con la investigación sobre el banco Master. Al día siguiente, el presidente del STF, Edson Fachin, suspendió esa decisión y otra similar del ministro Flávio Dino, reincorporó a ambos funcionarios y convocó una sesión plenaria extraordinaria para el 15 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le ministre André Mendonça ordonne l'éloignement du directeur général de la PF et du directeur du renseignement, invoquant une surveillance illégale le visant.",
+          "en": "Justice André Mendonça orders the removal of the Federal Police's director-general and intelligence director, citing unlawful surveillance targeting him.",
+          "es": "El ministro André Mendonça ordena la destitución del director general de la PF y del director de inteligencia, alegando vigilancia ilegal en su contra."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Le président du STF, Edson Fachin, suspend la décision et convoque une séance plénière extraordinaire pour le 15 septembre.",
+          "en": "STF president Edson Fachin suspends the decision and calls an extraordinary plenary session for September 15.",
+          "es": "El presidente del STF, Edson Fachin, suspende la decisión y convoca una sesión plenaria extraordinaria para el 15 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "bresil-taxe-carburant",
+    "coords": [
+      -47.8656,
+      -15.7997
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Lula signe des mesures de baisse des taxes sur les carburants avant l'élection",
+      "en": "Lula signs measures cutting fuel taxes ahead of election",
+      "es": "Lula firma medidas para reducir impuestos a los combustibles antes de la elección"
+    },
+    "summary": {
+      "fr": "Le 9 septembre 2026, le président Luiz Inácio Lula da Silva a signé un décret et une mesure provisoire réduisant pendant 30 jours (du 10 septembre au 9 octobre) les taxes à l'importation et à la vente d'éthanol et d'essence, et instaurant une subvention d'un real (0,19 dollar) par litre pour les producteurs et importateurs de diesel. La mesure vise à limiter l'impact, pour les consommateurs, de la hausse des prix des carburants liée à la guerre entre les États-Unis et l'Iran, à quelques semaines de l'élection présidentielle d'octobre.",
+      "en": "On September 9, 2026, President Luiz Inácio Lula da Silva signed a decree and a provisional measure cutting, for 30 days (September 10 to October 9), import and sales taxes on ethanol and gasoline, and creating a subsidy of one real ($0.19) per liter for diesel producers and importers. The measure is meant to shield consumers from fuel price increases linked to the US-Iran war, weeks ahead of Brazil's October presidential election.",
+      "es": "El 9 de septiembre de 2026, el presidente Luiz Inácio Lula da Silva firmó un decreto y una medida provisional que reduce durante 30 días (del 10 de septiembre al 9 de octubre) los impuestos a la importación y venta de etanol y gasolina, y crea un subsidio de un real (0,19 dólares) por litro para productores e importadores de diésel. La medida busca proteger a los consumidores del alza en los precios de los combustibles vinculada a la guerra entre Estados Unidos e Irán, semanas antes de la elección presidencial de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Lula signe le décret et la mesure provisoire réduisant les taxes sur les carburants et créant une subvention pour le diesel.",
+          "en": "Lula signs the decree and provisional measure cutting fuel taxes and creating the diesel subsidy.",
+          "es": "Lula firma el decreto y la medida provisional que reduce los impuestos a los combustibles y crea el subsidio al diésel."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "apatzingan-hotel-attaque",
+    "coords": [
+      -102.3527,
+      19.0865
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "El Heraldo de México / Quadratín",
+    "place": {
+      "fr": "Apatzingán, Michoacán, Mexique",
+      "en": "Apatzingán, Michoacán, Mexico",
+      "es": "Apatzingán, Michoacán, México"
+    },
+    "title": {
+      "fr": "Attaque armée dans un hôtel d'Apatzingán : quatre morts",
+      "en": "Armed attack at hotel in Apatzingán leaves four dead",
+      "es": "Ataque armado en hotel de Apatzingán deja cuatro muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 9 septembre 2026, des hommes armés ont fait irruption dans l'hôtel Chula Vista, à Apatzingán, dans l'État mexicain du Michoacán, et ont ouvert le feu, tuant deux hommes et deux femmes. Les assaillants ont pris la fuite ; selon les premières informations, aucune arrestation n'avait été réalisée et le mobile de l'attaque restait inconnu.",
+      "en": "On the night of September 9, 2026, armed men stormed the Hotel Chula Vista in Apatzingán, in the Mexican state of Michoacán, and opened fire, killing two men and two women. The attackers fled the scene; according to initial reports, no arrests had been made and the motive remained unknown.",
+      "es": "En la noche del 9 de septiembre de 2026, hombres armados irrumpieron en el hotel Chula Vista, en Apatzingán, estado de Michoacán, México, y abrieron fuego, matando a dos hombres y dos mujeres. Los agresores huyeron del lugar; según los primeros reportes, no se habían realizado detenciones y se desconocía el móvil del ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Des hommes armés ouvrent le feu dans l'hôtel Chula Vista vers 20h10, tuant quatre personnes.",
+          "en": "Gunmen open fire inside the Hotel Chula Vista around 8:10 p.m., killing four people.",
+          "es": "Hombres armados abren fuego dentro del hotel Chula Vista alrededor de las 20:10 horas, matando a cuatro personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "inde-effondrement-satya-niketan",
+    "coords": [
+      77.1686,
+      28.588
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "NDTV / Press Trust of India",
+    "place": {
+      "fr": "Satya Niketan, New Delhi, Inde",
+      "en": "Satya Niketan, New Delhi, India",
+      "es": "Satya Niketan, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble étudiant près de l'université de Delhi, sept morts",
+      "en": "Building collapse near Delhi University kills seven",
+      "es": "El derrumbe de un edificio cerca de la Universidad de Delhi mata a siete personas"
+    },
+    "summary": {
+      "fr": "Le 6 septembre 2026, un immeuble de cinq étages abritant un foyer pour étudiants s'est effondré dans le quartier de Satya Niketan, près du campus sud de l'université de Delhi, tuant sept personnes et en blessant plusieurs autres. La Haute Cour de Delhi a jugé l'université et la municipalité également responsables, et la Cour suprême a examiné l'affaire le 10 septembre.",
+      "en": "On 6 September 2026, a five-storey building housing a boys' paying-guest hostel collapsed in the Satya Niketan neighbourhood near Delhi University's South Campus, killing seven people and injuring several others. The Delhi High Court held the university and the municipal corporation also responsible, and the Supreme Court took up the case on 10 September.",
+      "es": "El 6 de septiembre de 2026, un edificio de cinco plantas que albergaba una residencia estudiantil se derrumbó en el barrio de Satya Niketan, cerca del campus sur de la Universidad de Delhi, matando a siete personas y dejando varios heridos. El Tribunal Superior de Delhi consideró también responsables a la universidad y al municipio, y la Corte Suprema examinó el caso el 10 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Un immeuble de cinq étages s'effondre à Satya Niketan; les secours évacuent des survivants des décombres.",
+          "en": "A five-storey building collapses in Satya Niketan; rescuers pull survivors from the rubble.",
+          "es": "Un edificio de cinco plantas se derrumba en Satya Niketan; los equipos de rescate sacan a supervivientes de los escombros."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint sept morts; le propriétaire du foyer, son épouse et son fils sont arrêtés.",
+          "en": "The death toll reaches seven; the hostel's owner, his wife and son are arrested.",
+          "es": "El número de muertos llega a siete; el propietario de la residencia, su esposa y su hijo son arrestados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "La Haute Cour de Delhi estime que l'université et la municipalité portent aussi une part de responsabilité; la Cour suprême se saisit de l'affaire.",
+          "en": "The Delhi High Court finds the university and the municipal corporation also bear responsibility; the Supreme Court takes up the case.",
+          "es": "El Tribunal Superior de Delhi determina que la universidad y el municipio también son responsables; la Corte Suprema asume el caso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "indonesie-eruption-anak-krakatau",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Détroit de la Sonde (volcan Anak Krakatau), Indonésie",
+      "en": "Sunda Strait (Anak Krakatau volcano), Indonesia",
+      "es": "Estrecho de la Sonda (volcán Anak Krakatau), Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption du volcan Anak Krakatau paralyse le trafic aérien en Indonésie",
+      "en": "Anak Krakatau eruption disrupts air travel across Indonesia",
+      "es": "La erupción del volcán Anak Krakatau paraliza el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "À partir du 4 septembre 2026, le volcan Anak Krakatau, situé dans le détroit de la Sonde, a connu plusieurs éruptions projetant des panaches de cendres, entraînant la fermeture de huit aéroports, dont l'aéroport international de Jakarta, et bloquant plus de 270 000 passagers. Les autorités ont rouvert la plupart des aéroports début septembre après dissipation des cendres, tandis que le volcan restait actif.",
+      "en": "Starting on 4 September 2026, Indonesia's Anak Krakatau volcano in the Sunda Strait erupted repeatedly, sending ash plumes into the air and forcing the closure of eight airports, including Jakarta's main international airport, stranding more than 270,000 passengers. Authorities reopened most airports in early September as the ash cleared, though the volcano remained active.",
+      "es": "A partir del 4 de septiembre de 2026, el volcán Anak Krakatau, situado en el estrecho de la Sonda, entró en erupción en varias ocasiones, lanzando columnas de cenizas y obligando al cierre de ocho aeropuertos, entre ellos el principal aeropuerto internacional de Yakarta, lo que dejó varados a más de 270.000 pasajeros. Las autoridades reabrieron la mayoría de los aeropuertos a principios de septiembre tras disiparse la ceniza, aunque el volcán siguió activo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan Anak Krakatau entre en éruption en fin de soirée, projetant des fontaines de lave et des panaches de cendres.",
+          "en": "Anak Krakatau erupts late in the evening, producing lava fountains and ash plumes.",
+          "es": "El volcán Anak Krakatau entra en erupción a última hora de la noche, generando fuentes de lava y columnas de ceniza."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Huit aéroports indonésiens, dont celui de Jakarta, suspendent leurs vols; plus de 270 000 passagers sont bloqués.",
+          "en": "Eight Indonesian airports, including Jakarta's, suspend flights; more than 270,000 passengers are stranded.",
+          "es": "Ocho aeropuertos indonesios, incluido el de Yakarta, suspenden los vuelos; más de 270.000 pasajeros quedan varados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les aéroports rouvrent progressivement après dissipation des cendres, mais le volcan connaît de nouvelles éruptions.",
+          "en": "Airports gradually reopen as the ash clears, but the volcano produces further eruptions.",
+          "es": "Los aeropuertos reabren gradualmente tras disiparse la ceniza, pero el volcán registra nuevas erupciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "coree-divorce-record-smilegate",
+    "coords": [
+      127.0089,
+      37.4936
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Yonhap News Agency",
+    "place": {
+      "fr": "Tribunal des affaires familiales de Séoul, Corée du Sud",
+      "en": "Seoul Family Court, South Korea",
+      "es": "Tribunal de Familia de Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Un tribunal sud-coréen ordonne un divorce record de 1,9 milliard de dollars",
+      "en": "South Korean court orders record $1.9 billion divorce settlement",
+      "es": "Un tribunal surcoreano ordena un divorcio récord de 1.900 millones de dólares"
+    },
+    "summary": {
+      "fr": "Le 9 septembre 2026, le tribunal des affaires familiales de Séoul a ordonné au fondateur de l'entreprise de jeux vidéo Smilegate, Kwon Hyuk-bin, de céder 35 % de ses parts dans la société — soit environ 2 550 milliards de wons (1,9 milliard de dollars) — à son ex-épouse, Lee. Il s'agit du plus important règlement de divorce jamais enregistré en Corée du Sud; la décision, rendue en première instance, peut faire l'objet d'un appel.",
+      "en": "On 9 September 2026, the Seoul Family Court ordered Smilegate founder Kwon Hyuk-bin to transfer 35% of his stake in the gaming company — worth roughly 2.55 trillion won ($1.9 billion) — to his ex-wife, Lee. It is the largest divorce settlement ever recorded in South Korea; the first-instance ruling can be appealed.",
+      "es": "El 9 de septiembre de 2026, el Tribunal de Familia de Seúl ordenó al fundador de la empresa de videojuegos Smilegate, Kwon Hyuk-bin, transferir el 35% de su participación en la compañía —valorada en unos 2,55 billones de wones (1.900 millones de dólares)— a su exesposa, Lee. Es el mayor acuerdo de divorcio registrado en Corea del Sur; el fallo, de primera instancia, puede ser apelado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal accorde le divorce et attribue 35 % des parts de Smilegate à l'ex-épouse, rejetant sa demande de dommages et intérêts.",
+          "en": "The court grants the divorce and awards 35% of Smilegate's shares to the ex-wife, while rejecting her claim for damages.",
+          "es": "El tribunal concede el divorcio y otorga el 35% de las acciones de Smilegate a la exesposa, aunque rechaza su demanda de indemnización."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "sumy-manufaktura",
+    "coords": [
+      34.7991,
+      50.9174
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent",
+    "place": {
+      "fr": "Soumy, Ukraine",
+      "en": "Sumy, Ukraine",
+      "es": "Sumy, Ucrania"
+    },
+    "title": {
+      "fr": "Frappe de drone russe sur un centre commercial à Soumy",
+      "en": "Russian drone strike hits shopping mall in Sumy",
+      "es": "Ataque con dron ruso golpea un centro comercial en Sumy"
+    },
+    "summary": {
+      "fr": "Un drone russe a frappé le centre commercial Manufaktura, dans le centre de Soumy, le soir du 9 septembre 2026 vers 20h, alors que de nombreux habitants s'y trouvaient. Selon le gouverneur régional Oleh Hryhorov, l'attaque a fait deux morts et une vingtaine de blessés, dont plusieurs enfants, après un bilan initial ayant évoqué trois morts.",
+      "en": "A Russian drone struck the Manufaktura shopping centre in central Sumy on the evening of September 9, 2026, around 8 p.m., while many residents were inside. Regional governor Oleh Hryhorov said the attack killed two people and wounded about twenty others, including several children, after an initial toll had put the death count at three.",
+      "es": "Un dron ruso golpeó el centro comercial Manufaktura, en el centro de Sumy, la noche del 9 de septiembre de 2026 hacia las 20:00, cuando muchos residentes se encontraban dentro. El gobernador regional Oleh Hryhorov dijo que el ataque mató a dos personas y dejó heridas a unas veinte más, incluidos varios niños, tras un balance inicial que situaba el número de muertos en tres."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Un drone russe frappe le centre commercial Manufaktura à Soumy vers 20h, faisant des morts et des blessés parmi les civils.",
+          "en": "A Russian drone hits the Manufaktura shopping centre in Sumy around 8 p.m., killing and wounding civilians.",
+          "es": "Un dron ruso golpea el centro comercial Manufaktura en Sumy hacia las 20:00, matando e hiriendo a civiles."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Les autorités régionales réajustent le bilan à deux morts et environ vingt blessés; le président Zelensky appelle les partenaires internationaux à agir contre ces frappes.",
+          "en": "Regional authorities revise the toll to two dead and about twenty wounded; President Zelensky urges international partners to act against such strikes.",
+          "es": "Las autoridades regionales revisan el balance a dos muertos y unos veinte heridos; el presidente Zelensky pide a los socios internacionales actuar contra estos ataques."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "novy-urengoy-gaz",
+    "coords": [
+      76.683,
+      66.083
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Ukrainska Pravda",
+    "place": {
+      "fr": "Novy Ourengoï, Russie",
+      "en": "Novy Urengoy, Russia",
+      "es": "Novy Urengói, Rusia"
+    },
+    "title": {
+      "fr": "L'Ukraine frappe des installations gazières russes à plus de 3 000 km, un record de guerre",
+      "en": "Ukraine strikes Russian gas facilities over 3,000 km away, a wartime record",
+      "es": "Ucrania golpea instalaciones de gas rusas a más de 3.000 km, un récord de la guerra"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 9 septembre 2026, des drones ukrainiens ont visé les complexes de traitement de condensat de gaz de Novy Ourengoï et de Pourovsk, dans le district autonome de Iamalo-Nénétsie, à plus de 3 000 km de la frontière ukrainienne. Les forces spéciales ukrainiennes ont revendiqué cette frappe, qu'elles disent être la plus profonde de la guerre; les autorités russes ont confirmé un incendie sur une installation énergétique, l'attribuant à la chute de débris de drones, sans faire état de victimes.",
+      "en": "Overnight on September 9, 2026, Ukrainian drones targeted the Novy Urengoy and Purovsky gas-condensate processing plants in Russia's Yamalo-Nenets Autonomous Okrug, more than 3,000 km from the Ukrainian border. Ukraine's special operations forces claimed the strike, calling it the deepest of the war; Russian authorities confirmed a fire broke out at an energy facility, attributing it to falling drone debris, and reported no casualties.",
+      "es": "En la noche del 9 de septiembre de 2026, drones ucranianos atacaron las plantas de procesamiento de condensado de gas de Novy Urengói y Purovsk, en el Distrito Autónomo de Yamalia-Nenetsia, a más de 3.000 km de la frontera con Ucrania. Las fuerzas especiales ucranianas reivindicaron el ataque, calificándolo como el más profundo de la guerra; las autoridades rusas confirmaron un incendio en una instalación energética, atribuyéndolo a la caída de restos de drones, sin informar víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent les sites gaziers de Novy Ourengoï et Pourovsk; Moscou confirme un incendie sur place, sans victimes.",
+          "en": "Ukrainian drones strike the Novy Urengoy and Purovsky gas sites; Moscow confirms a fire there, with no casualties.",
+          "es": "Drones ucranianos atacan los sitios de gas de Novy Urengói y Purovsk; Moscú confirma un incendio allí, sin víctimas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "ryazan-raffinerie",
+    "coords": [
+      39.7484,
+      54.5715
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Reuters",
+    "place": {
+      "fr": "Riazan, Russie",
+      "en": "Ryazan, Russia",
+      "es": "Riazán, Rusia"
+    },
+    "title": {
+      "fr": "La raffinerie russe de Riazan à l'arrêt après une attaque de drones ukrainiens",
+      "en": "Russia's Ryazan refinery halts operations after Ukrainian drone attack",
+      "es": "La refinería rusa de Riazán detiene sus operaciones tras un ataque de drones ucranianos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 6 septembre 2026, des drones ukrainiens ont touché la raffinerie de Riazan, propriété de Rosneft et responsable d'environ 5% des capacités de raffinage russes, provoquant un incendie sur l'unité d'isomérisation Isomal-2. Selon des sources industrielles citées par Reuters le 10 septembre, l'installation a depuis suspendu ses deux principales unités de distillation de brut (CDU-6 et CDU-4); aucune victime n'a été signalée.",
+      "en": "Overnight on September 6, 2026, Ukrainian drones struck the Rosneft-owned Ryazan refinery, which accounts for roughly 5% of Russia's refining capacity, sparking a fire at its Isomal-2 isomerization unit. Industry sources cited by Reuters on September 10 said the plant has since shut down its two main crude distillation units (CDU-6 and CDU-4); no casualties were reported.",
+      "es": "En la noche del 6 de septiembre de 2026, drones ucranianos atacaron la refinería de Riazán, propiedad de Rosneft y responsable de aproximadamente el 5% de la capacidad de refinación de Rusia, provocando un incendio en su unidad de isomerización Isomal-2. Fuentes de la industria citadas por Reuters el 10 de septiembre indicaron que la planta ha suspendido desde entonces sus dos principales unidades de destilación de crudo (CDU-6 y CDU-4); no se informaron víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent la raffinerie de Riazan, déclenchant un incendie sur l'unité Isomal-2.",
+          "en": "Ukrainian drones strike the Ryazan refinery, sparking a fire at the Isomal-2 unit.",
+          "es": "Drones ucranianos atacan la refinería de Riazán y provocan un incendio en la unidad Isomal-2."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Selon Reuters, les deux principales unités de distillation de la raffinerie restent à l'arrêt depuis l'attaque.",
+          "en": "According to Reuters, the refinery's two main distillation units remain shut down since the attack.",
+          "es": "Según Reuters, las dos principales unidades de destilación de la refinería permanecen paradas desde el ataque."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "latisana-inondation-2026",
+    "coords": [
+      12.9951,
+      45.7766
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ANSA",
+    "place": {
+      "fr": "Latisana, Frioul-Vénétie Julienne, Italie",
+      "en": "Latisana, Friuli-Venezia Giulia, Italy",
+      "es": "Latisana, Friuli-Venecia Julia, Italia"
+    },
+    "title": {
+      "fr": "Une femme meurt noyée dans un passage souterrain inondé dans le nord de l'Italie",
+      "en": "Woman drowns in flooded underpass in northern Italy",
+      "es": "Una mujer muere ahogada en un paso subterráneo inundado en el norte de Italia"
+    },
+    "summary": {
+      "fr": "Une femme est morte noyée après que sa voiture s'est retrouvée piégée dans un passage souterrain inondé à Latisana (province d'Udine), le 10 septembre 2026, lors d'un violent épisode orageux touchant le nord de l'Italie. Un carabinier a plongé pour tenter de la secourir mais n'a pas pu la sauver. Les autorités locales ont recensé environ 130 mm de pluie dans la zone, avec des inondations également signalées en Ligurie et en Lombardie.",
+      "en": "A woman drowned after her car became trapped in a flooded underpass in Latisana (Udine province) on 10 September 2026, during a violent storm system hitting northern Italy. A police officer (carabiniere) dove in to try to rescue her but could not save her. Local authorities reported around 130mm of rain in the area, with flooding also reported in Liguria and Lombardy.",
+      "es": "Una mujer murió ahogada después de que su coche quedara atrapado en un paso subterráneo inundado en Latisana (provincia de Udine) el 10 de septiembre de 2026, durante un violento temporal que azotó el norte de Italia. Un carabinero se sumergió en el agua para intentar rescatarla, pero no pudo salvarla. Las autoridades locales registraron unos 130 mm de lluvia en la zona, con inundaciones también en Liguria y Lombardía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Décès d'une femme piégée par la crue dans un sous-passage",
+          "en": "Woman dies trapped by floodwater in an underpass",
+          "es": "Muerte de una mujer atrapada por la crecida en un paso subterráneo"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "bromley-high-street-stabbing-2026",
+    "coords": [
+      0.0132,
+      51.406
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "BBC News",
+    "place": {
+      "fr": "Bromley, Londres, Royaume-Uni",
+      "en": "Bromley, London, United Kingdom",
+      "es": "Bromley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Quatre hommes poignardés lors d'une rixe sur la grand-rue de Bromley, à Londres",
+      "en": "Four men stabbed in mass altercation on Bromley High Street, London",
+      "es": "Cuatro hombres apuñalados en una reyerta en Bromley High Street, Londres"
+    },
+    "summary": {
+      "fr": "Quatre hommes ont été blessés au couteau — certains témoins évoquant des machettes, un détail non confirmé officiellement — lors d'une altercation survenue vers 14h15 le 10 septembre 2026 sur Bromley High Street, dans le sud-est de Londres. L'un d'eux est dans un état critique, les trois autres souffrant de blessures sans menace vitale. Sept hommes ont été arrêtés; la police indique ne pas craindre de menace plus large pour le public.",
+      "en": "Four men were stabbed — some witnesses described machetes, a detail not officially confirmed — during an altercation around 2:15pm on 10 September 2026 on Bromley High Street, south-east London. One is in critical condition, the other three have non-life-threatening injuries. Seven men were arrested; police say there is no wider threat to the public.",
+      "es": "Cuatro hombres fueron apuñalados -algunos testigos hablaron de machetes, un detalle no confirmado oficialmente- durante un altercado hacia las 14:15 del 10 de septiembre de 2026 en Bromley High Street, al sureste de Londres. Uno está en estado crítico y los otros tres presentan heridas sin riesgo vital. Siete hombres fueron arrestados; la policía descarta una amenaza más amplia para el público."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Quadruple agression au couteau, sept arrestations",
+          "en": "Quadruple stabbing, seven arrests",
+          "es": "Cuádruple apuñalamiento, siete arrestos"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "espana-supremo-ley-nietos-2026",
+    "coords": [
+      -3.6932,
+      40.4269
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "EFE",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "Le Tribunal suprême espagnol suspend les inscriptions électorales issues de la 'loi des petits-enfants'",
+      "en": "Spain's Supreme Court suspends electoral registrations under the 'grandchildren's law'",
+      "es": "El Tribunal Supremo suspende las altas en el censo electoral por la 'ley de nietos'"
+    },
+    "summary": {
+      "fr": "Le 9 septembre 2026, le Tribunal suprême espagnol a ordonné la suspension provisoire des nouvelles inscriptions au registre électoral des Espagnols de l'étranger (CERA) obtenues via la 'loi des petits-enfants', qui permet aux descendants d'exilés de la guerre civile et du franquisme d'acquérir la nationalité espagnole. La Cour invoque un 'danger réel' que la forte hausse du corps électoral — les estimations citées par la presse variant entre environ 383 000 et plus de 400 000 personnes — ne compromette la transparence des prochaines élections.",
+      "en": "On 9 September 2026, Spain's Supreme Court ordered the provisional suspension of new registrations in the electoral roll for Spaniards abroad (CERA) obtained through the so-called 'grandchildren's law,' which lets descendants of people exiled during the Civil War and Francoist dictatorship acquire Spanish nationality. The Court cited a 'real danger' that the sharp rise in the electorate — press estimates range from roughly 383,000 to over 400,000 people — could undermine the transparency of upcoming elections.",
+      "es": "El 9 de septiembre de 2026, el Tribunal Supremo ordenó la suspensión cautelar de las nuevas altas en el censo electoral de españoles residentes en el exterior (CERA) obtenidas mediante la llamada 'ley de nietos', que permite a los descendientes de exiliados de la Guerra Civil y el franquismo acceder a la nacionalidad española. El tribunal invoca un 'peligro real' de que el fuerte incremento del censo —las cifras citadas por la prensa oscilan entre unas 383.000 y más de 400.000 personas— comprometa la transparencia de los próximos procesos electorales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Le Supremo ordonne la suspension cautionnaire des inscriptions au CERA",
+          "en": "Supreme Court orders precautionary suspension of CERA registrations",
+          "es": "El Supremo ordena la suspensión cautelar de las altas en el CERA"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "dijon-fontaine-douche-proces-2026",
+    "coords": [
+      4.994,
+      47.315
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "🔫",
+    "source": "ici Bourgogne (Radio France)",
+    "place": {
+      "fr": "Dijon (Fontaine d'Ouche), France",
+      "en": "Dijon (Fontaine d'Ouche), France",
+      "es": "Dijon (Fontaine d'Ouche), Francia"
+    },
+    "title": {
+      "fr": "Trois hommes condamnés pour une fusillade dans le quartier de la Fontaine d'Ouche à Dijon",
+      "en": "Three men sentenced over Fontaine d'Ouche shooting in Dijon",
+      "es": "Tres hombres condenados por un tiroteo en el barrio de Fontaine d'Ouche, Dijon"
+    },
+    "summary": {
+      "fr": "Le tribunal correctionnel de Dijon a condamné, le 10 septembre 2026, trois hommes âgés de 26 à 38 ans à des peines de 6, 7 et 8 ans de prison pour avoir organisé ou participé à une fusillade survenue le 13 mars 2024 dans le quartier de la Fontaine d'Ouche, au cours de laquelle un adolescent de 17 ans avait été blessé par balle au bras. L'affaire serait liée à un règlement de comptes autour d'un point de vente de drogue repris par des concurrents. Les peines prononcées sont inférieures aux réquisitions du parquet, qui demandait de 8 à 13 ans.",
+      "en": "On 10 September 2026, the Dijon criminal court sentenced three men aged 26 to 38 to prison terms of 6, 7 and 8 years for organizing or taking part in a shooting on 13 March 2024 in the Fontaine d'Ouche district, in which a 17-year-old was shot in the arm. The case reportedly stemmed from a dispute over a drug-dealing spot taken over by rivals. The sentences handed down were lighter than the 8-to-13-year terms sought by prosecutors.",
+      "es": "El 10 de septiembre de 2026, el tribunal penal de Dijon condenó a tres hombres de entre 26 y 38 años a penas de 6, 7 y 8 años de prisión por organizar o participar en un tiroteo ocurrido el 13 de marzo de 2024 en el barrio de Fontaine d'Ouche, en el que un adolescente de 17 años recibió un disparo en el brazo. El caso estaría relacionado con un ajuste de cuentas por un punto de venta de droga ocupado por rivales. Las penas impuestas fueron inferiores a las solicitadas por la fiscalía, que pedía entre 8 y 13 años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Verdict rendu : 6, 7 et 8 ans de prison pour trois prévenus",
+          "en": "Verdict delivered: 6, 7 and 8-year prison terms for three defendants",
+          "es": "Veredicto: 6, 7 y 8 años de prisión para tres acusados"
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "gifu-cake-shop-arson",
+    "coords": [
+      136.6786,
+      35.483
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "The Japan Times / Jiji Press",
+    "place": {
+      "fr": "Motosu, préfecture de Gifu, Japon",
+      "en": "Motosu, Gifu Prefecture, Japan",
+      "es": "Motosu, prefectura de Gifu, Japón"
+    },
+    "title": {
+      "fr": "Trois morts dans un incendie criminel et une attaque au couteau dans une pâtisserie",
+      "en": "Three dead in suspected arson and stabbing at cake shop",
+      "es": "Tres muertos en un incendio provocado y un ataque con cuchillo en una pastelería"
+    },
+    "summary": {
+      "fr": "Trois personnes sont mortes après un incendie volontaire et une agression au couteau survenus samedi soir dans une pâtisserie de Motosu, préfecture de Gifu. Selon la police, un invité non convié, un dirigeant d'entreprise de 70 ans également retrouvé mort sur les lieux, aurait poignardé un homme et répandu de l'essence avant que le feu ne se déclare, lors d'une réunion privée réunissant une dizaine de personnes.",
+      "en": "Three people died after a stabbing and arson attack on the evening of Saturday, September 5, 2026, at a confectionery shop in Motosu, Gifu Prefecture. Police believe an uninvited guest — a 70-year-old company executive who was also found dead at the scene — stabbed a man and spread gasoline before the fire broke out during a private gathering of about ten people.",
+      "es": "Tres personas murieron tras un apuñalamiento y un incendio provocado la noche del sábado 5 de septiembre de 2026 en una pastelería de Motosu, prefectura de Gifu. La policía cree que un invitado no convidado —un ejecutivo de empresa de 70 años también hallado muerto en el lugar— apuñaló a un hombre y roció gasolina antes de que se iniciara el incendio, durante una reunión privada de unas diez personas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Incendie et agression au couteau signalés vers 21h dans une pâtisserie de Motosu ; trois personnes décèdent.",
+          "en": "Fire and stabbing reported around 9 p.m. at a confectionery shop in Motosu; three people die.",
+          "es": "Incendio y apuñalamiento reportados alrededor de las 21h en una pastelería de Motosu; tres personas mueren."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "La police découvre plusieurs couteaux sur les lieux et poursuit son enquête sur les circonstances et le mobile.",
+          "en": "Police find several knives at the scene and continue investigating the circumstances and motive.",
+          "es": "La policía halla varios cuchillos en el lugar y continúa investigando las circunstancias y el motivo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "jiangxi-suichuan-landslides",
+    "coords": [
+      114.521,
+      26.314
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧️",
+    "source": "Associated Press (citant Xinhua)",
+    "place": {
+      "fr": "Comté de Suichuan, province du Jiangxi, Chine",
+      "en": "Suichuan County, Jiangxi Province, China",
+      "es": "Condado de Suichuan, provincia de Jiangxi, China"
+    },
+    "title": {
+      "fr": "Des coulées de boue font 16 morts dans le sud-est de la Chine",
+      "en": "Mudslides kill 16 in southeastern China",
+      "es": "Deslizamientos de lodo matan a 16 personas en el sureste de China"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles provoquées par le passage du typhon Saudel ont déclenché des coulées de boue dans trois bourgs du comté de Suichuan (Jiangxi), tuant au moins 16 personnes : 13 dans le bourg de Gaoping, deux à Zuo'an et une à Tanghu. Plus de 18 000 personnes ont été évacuées, selon l'agence officielle Xinhua.",
+      "en": "Torrential rain from Typhoon Saudel triggered mudslides across three towns in Suichuan County, Jiangxi Province, killing at least 16 people: 13 in Gaoping town, two in Zuo'an and one in Tanghu. More than 18,000 people have been evacuated, according to the official Xinhua news agency.",
+      "es": "Lluvias torrenciales provocadas por el paso del tifón Saudel desencadenaron deslizamientos de lodo en tres localidades del condado de Suichuan (Jiangxi), matando a al menos 16 personas: 13 en la localidad de Gaoping, dos en Zuo'an y una en Tanghu. Más de 18.000 personas fueron evacuadas, según la agencia oficial Xinhua."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Une coulée de boue frappe le bourg de Gaoping vers 4h du matin après plusieurs jours de pluie liés au typhon Saudel.",
+          "en": "A mudslide strikes Gaoping town around 4 a.m. after days of rain linked to Typhoon Saudel.",
+          "es": "Un deslizamiento de lodo golpea la localidad de Gaoping hacia las 4h tras días de lluvia vinculados al tifón Saudel."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan est porté à 16 morts après la découverte d'un nouveau corps ; les recherches se poursuivent.",
+          "en": "The death toll rises to 16 after another body is found; search efforts continue.",
+          "es": "El balance sube a 16 muertos tras el hallazgo de otro cuerpo; continúan las labores de búsqueda."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "hk-tiananmen-vigil-sentencing",
+    "coords": [
+      114.1533,
+      22.3311
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Reuters / AFP",
+    "place": {
+      "fr": "Tribunal de West Kowloon, Hong Kong, Chine",
+      "en": "West Kowloon Law Courts Building, Hong Kong, China",
+      "es": "Tribunal de West Kowloon, Hong Kong, China"
+    },
+    "title": {
+      "fr": "Trois anciens dirigeants des veillées de Tiananmen condamnés à de lourdes peines à Hong Kong",
+      "en": "Three former Tiananmen vigil leaders sentenced to lengthy prison terms in Hong Kong",
+      "es": "Tres exlíderes de las vigilias de Tiananmen condenados a largas penas en Hong Kong"
+    },
+    "summary": {
+      "fr": "Un collège de la Haute Cour siégeant au tribunal de West Kowloon a condamné le 11 septembre 2026 trois anciens responsables de la dissoute Alliance de Hong Kong pour incitation à la subversion, en vertu de la loi sur la sécurité nationale imposée par Pékin. Chow Hang-tung a reçu 7 ans et 3 mois de prison, Lee Cheuk-yan 7 ans, et Albert Ho 5 ans et 2 mois (peine réduite pour plaidoyer de culpabilité) ; l'Alliance elle-même a été condamnée à une amende de 1,5 million de dollars hongkongais.",
+      "en": "A High Court panel sitting at the West Kowloon Law Courts Building sentenced three former leaders of the now-disbanded Hong Kong Alliance on September 11, 2026, for inciting subversion under the Beijing-imposed national security law. Chow Hang-tung received 7 years and 3 months, Lee Cheuk-yan 7 years, and Albert Ho 5 years and 2 months (reduced for pleading guilty); the Alliance itself was fined HK$1.5 million.",
+      "es": "Un panel del Tribunal Superior, reunido en el edificio judicial de West Kowloon, condenó el 11 de septiembre de 2026 a tres antiguos líderes de la disuelta Alianza de Hong Kong por incitación a la subversión bajo la ley de seguridad nacional impuesta por Pekín. Chow Hang-tung recibió 7 años y 3 meses de prisión, Lee Cheuk-yan 7 años, y Albert Ho 5 años y 2 meses (pena reducida por declararse culpable); la Alianza fue multada con 1,5 millones de dólares hongkoneses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/08/2026",
+          "en": "20/08/2026",
+          "es": "20/08/2026"
+        },
+        "d": {
+          "fr": "L'Alliance, Lee Cheuk-yan et Chow Hang-tung sont reconnus coupables d'incitation à la subversion ; Albert Ho avait plaidé coupable.",
+          "en": "The Alliance, Lee Cheuk-yan and Chow Hang-tung are convicted of inciting subversion; Albert Ho had pleaded guilty.",
+          "es": "La Alianza, Lee Cheuk-yan y Chow Hang-tung son declarados culpables de incitación a la subversión; Albert Ho ya se había declarado culpable."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "11/09/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Les peines sont prononcées : jusqu'à 7 ans et 3 mois de prison, et une amende pour l'Alliance.",
+          "en": "Sentences are handed down: up to 7 years and 3 months in prison, plus a fine for the Alliance.",
+          "es": "Se dictan las sentencias: hasta 7 años y 3 meses de prisión, además de una multa para la Alianza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-sokoto-tofa-attaque",
+    "coords": [
+      5.517,
+      13.117
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Premium Times",
+    "place": {
+      "fr": "Tofa, État de Sokoto, Nigeria",
+      "en": "Tofa, Sokoto State, Nigeria",
+      "es": "Tofa, estado de Sokoto, Nigeria"
+    },
+    "title": {
+      "fr": "Attaque de bandits armés contre le village de Tofa au Nigeria",
+      "en": "Armed bandits attack Tofa village in Nigeria",
+      "es": "Bandidos armados atacan la localidad de Tofa en Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué le village de Tofa, dans la zone de gouvernement local de Rabah (État de Sokoto), dans la nuit du 7 au 8 septembre 2026, tuant plusieurs habitants et enlevant des dizaines d'autres. Les bilans varient selon les sources, entre 7 et 10 morts et entre 27 et 40 personnes enlevées.",
+      "en": "Armed men attacked Tofa village in Rabah Local Government Area, Sokoto State, overnight on 7-8 September 2026, killing several residents and abducting dozens more. Death tolls vary by source, ranging from 7 to 10 killed and between 27 and 40 people abducted.",
+      "es": "Hombres armados atacaron la localidad de Tofa, en el área de gobierno local de Rabah (estado de Sokoto), durante la noche del 7 al 8 de septiembre de 2026, matando a varios residentes y secuestrando a decenas más. Las cifras varían según la fuente, entre 7 y 10 muertos y entre 27 y 40 personas secuestradas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Des bandits attaquent Tofa pendant environ quatre heures, tuent des habitants et enlèvent des dizaines de personnes.",
+          "en": "Bandits attack Tofa for about four hours, killing residents and abducting dozens.",
+          "es": "Bandidos atacan Tofa durante unas cuatro horas, matan a residentes y secuestran a decenas de personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "egypte-sarah-khalifa-condamnation",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Une présentatrice télé égyptienne condamnée à mort pour trafic de drogue",
+      "en": "Egyptian TV presenter sentenced to death in drug trafficking case",
+      "es": "Presentadora de televisión egipcia condenada a muerte por narcotráfico"
+    },
+    "summary": {
+      "fr": "Un tribunal criminel du Caire a condamné à mort par pendaison la présentatrice de télévision Sarah Khalifa et onze autres accusés, le 5 septembre 2026, pour avoir formé un réseau criminel organisé de fabrication et de trafic de drogues de synthèse. Neuf autres accusés ont été condamnés à la réclusion à perpétuité et sept ont été acquittés, sur 28 accusés au total ; plus de 750 kg de stupéfiants avaient été saisis. Le verdict devrait faire l'objet d'un appel.",
+      "en": "A Cairo criminal court sentenced television presenter Sarah Khalifa and eleven other defendants to death by hanging on 5 September 2026 for forming an organized criminal gang to manufacture and traffic synthetic drugs. Nine other defendants received life sentences and seven were acquitted, out of 28 defendants in total; more than 750 kg of narcotics had been seized. The verdict is expected to be appealed.",
+      "es": "Un tribunal penal de El Cairo condenó a muerte en la horca a la presentadora de televisión Sarah Khalifa y a otros once acusados el 5 de septiembre de 2026, por formar una red criminal organizada para fabricar y traficar drogas sintéticas. Otros nueve acusados recibieron cadena perpetua y siete fueron absueltos, de 28 acusados en total; se habían incautado más de 750 kg de narcóticos. Se espera que el veredicto sea apelado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal criminel du Caire condamne Sarah Khalifa et 11 autres accusés à mort pour trafic de drogue.",
+          "en": "Cairo criminal court sentences Sarah Khalifa and 11 other defendants to death for drug trafficking.",
+          "es": "El tribunal penal de El Cairo condena a muerte a Sarah Khalifa y a otros 11 acusados por narcotráfico."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "afsud-proces-cat-matlala",
+    "coords": [
+      28.0436,
+      -26.2051
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "News24",
+    "place": {
+      "fr": "Johannesburg, Afrique du Sud",
+      "en": "Johannesburg, South Africa",
+      "es": "Johannesburgo, Sudáfrica"
+    },
+    "title": {
+      "fr": "Chaos au tribunal lors du procès pour tentative de meurtre de \"Cat\" Matlala",
+      "en": "Courtroom chaos at 'Cat' Matlala attempted murder trial",
+      "es": "Caos en la sala durante el juicio por intento de asesinato contra 'Cat' Matlala"
+    },
+    "summary": {
+      "fr": "Le procès pour tentative de meurtre de l'homme d'affaires sud-africain Vusimuzi \"Cat\" Matlala et de quatre coaccusés a été perturbé par des incidents le 8 septembre 2026 à la Haute Cour de Johannesburg, lorsque des policiers ont empêché les accusés de consulter leurs avocats. Le procès, qui porte sur trois fusillades commanditées entre 2022 et 2024, a ensuite été reporté après que la défense a présenté de nouvelles preuves jugées tardives par l'accusation. L'affaire est également liée à des soupçons plus larges de corruption au sein de la police sud-africaine.",
+      "en": "The attempted murder trial of South African businessman Vusimuzi 'Cat' Matlala and four co-accused was disrupted by an altercation on 8 September 2026 at the Johannesburg High Court, after police officers blocked the accused from consulting their lawyers. The trial, which concerns three contract shootings between 2022 and 2024, was then postponed after the defence submitted new evidence the state called belated. The case is also linked to wider corruption allegations within the South African Police Service.",
+      "es": "El juicio por intento de asesinato contra el empresario sudafricano Vusimuzi 'Cat' Matlala y otros cuatro coacusados se vio alterado por un incidente el 8 de septiembre de 2026 en el Tribunal Superior de Johannesburgo, después de que agentes de policía impidieran a los acusados consultar con sus abogados. El juicio, centrado en tres ataques armados por encargo entre 2022 y 2024, fue luego postergado tras presentar la defensa nuevas pruebas que la fiscalía calificó de tardías. El caso también está vinculado a denuncias más amplias de corrupción dentro de la policía sudafricana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Des heurts éclatent entre les accusés et la police lorsque celle-ci leur refuse l'accès à leurs avocats.",
+          "en": "A clash breaks out between the accused and police after they are denied access to their lawyers.",
+          "es": "Estalla un altercado entre los acusados y la policía tras negarles el acceso a sus abogados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "L'accusation affirme que la défense l'a prise par surprise avec de nouvelles preuves juste avant la clôture de son dossier.",
+          "en": "The state says the defence ambushed it with new evidence just before closing its case.",
+          "es": "La fiscalía afirma que la defensa la sorprendió con nuevas pruebas justo antes de cerrar su caso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "frederick-ice-clash",
+    "coords": [
+      -77.4219,
+      39.3989
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "CBS News Baltimore / The Frederick News-Post / The Baltimore Banner",
+    "place": {
+      "fr": "Frederick, Maryland (quartier Taskers Chance), États-Unis",
+      "en": "Frederick, Maryland (Taskers Chance neighborhood), USA",
+      "es": "Frederick, Maryland (barrio Taskers Chance), Estados Unidos"
+    },
+    "title": {
+      "fr": "Affrontement entre agents de l'ICE et manifestants à Frederick, Maryland",
+      "en": "Clash Between ICE Agents and Protesters Turns Violent in Frederick, Maryland",
+      "es": "Enfrentamiento entre agentes de ICE y manifestantes se vuelve violento en Frederick, Maryland"
+    },
+    "summary": {
+      "fr": "Des agents fédéraux de l'immigration (ICE) ont surveillé le quartier de Taskers Chance à Frederick, dans le Maryland, pendant plus de 40 heures à partir du 3 septembre, après la fuite d'un homme lors d'un contrôle routier. Dans la nuit du 4 septembre, les agents se sont heurtés à plus d'une centaine de manifestants qui bloquaient une rue en se tenant par les bras; plusieurs ont été blessés, certains nécessitant une hospitalisation. Des élus locaux et des organisations de défense des droits ont demandé une enquête fédérale.",
+      "en": "Federal immigration agents (ICE) staked out the Taskers Chance neighborhood in Frederick, Maryland for more than 40 hours starting September 3, after a man fled a traffic stop. On the night of September 4, agents clashed with more than 100 protesters who had linked arms to block a street; several were injured, some requiring hospital treatment. Local officials and advocacy groups have called for a federal investigation.",
+      "es": "Agentes federales de inmigración (ICE) vigilaron el barrio de Taskers Chance en Frederick, Maryland, durante más de 40 horas a partir del 3 de septiembre, tras la huida de un hombre durante un control de tráfico. En la noche del 4 de septiembre, los agentes se enfrentaron a más de 100 manifestantes que habían bloqueado una calle tomados del brazo; varios resultaron heridos, algunos requiriendo atención hospitalaria. Autoridades locales y organizaciones de defensa de derechos han pedido una investigación federal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "04/09/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Des agents de l'ICE et des manifestants s'affrontent violemment; plusieurs blessés signalés.",
+          "en": "ICE agents and protesters clash violently; several injuries reported.",
+          "es": "Agentes de ICE y manifestantes se enfrentan violentamente; se reportan varios heridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "L'organisation CAIR demande une enquête fédérale sur l'intervention de l'ICE.",
+          "en": "Advocacy group CAIR calls for a federal investigation into the ICE operation.",
+          "es": "La organización CAIR solicita una investigación federal sobre la operación de ICE."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "missouri-map-blocked",
+    "coords": [
+      -92.1735,
+      38.5767
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "CNN / The Washington Post / Al Jazeera",
+    "place": {
+      "fr": "Jefferson City, Missouri, États-Unis",
+      "en": "Jefferson City, Missouri, USA",
+      "es": "Jefferson City, Misuri, Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême des États-Unis refuse de rétablir la carte électorale républicaine du Missouri",
+      "en": "US Supreme Court Declines to Reinstate Missouri's Republican-Drawn Congressional Map",
+      "es": "La Corte Suprema de EE. UU. rechaza restablecer el mapa congresional republicano de Misuri"
+    },
+    "summary": {
+      "fr": "Le 9 septembre 2026, le juge Brett Kavanaugh a rejeté la demande d'urgence des autorités du Missouri visant à rétablir une nouvelle carte électorale favorable aux républicains pour les élections de mi-mandat de novembre. La décision maintient en vigueur une carte plus ancienne comportant six sièges gagnables pour les républicains plutôt que sept, tandis que le litige se poursuit devant les tribunaux inférieurs. La Cour suprême du Missouri avait déjà bloqué la nouvelle carte le 3 septembre, ordonnant qu'elle soit soumise à un référendum.",
+      "en": "On September 9, 2026, Justice Brett Kavanaugh rejected an emergency request from Missouri officials to reinstate a new Republican-backed congressional map for the November midterm elections. The order leaves in place an older map with six rather than seven seats favorable to Republicans, while litigation continues in lower courts. The Missouri Supreme Court had already blocked the new map on September 3, ordering it be put to a statewide referendum.",
+      "es": "El 9 de septiembre de 2026, el juez Brett Kavanaugh rechazó la solicitud de emergencia de las autoridades de Misuri para restablecer un nuevo mapa congresional favorable a los republicanos para las elecciones de mitad de mandato de noviembre. La orden mantiene vigente un mapa anterior con seis escaños favorables a los republicanos en lugar de siete, mientras continúa el litigio en tribunales inferiores. La Corte Suprema de Misuri ya había bloqueado el nuevo mapa el 3 de septiembre, ordenando que se sometiera a un referéndum estatal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/09/2026",
+          "en": "03/09/2026",
+          "es": "03/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême du Missouri bloque la nouvelle carte électorale et ordonne un référendum.",
+          "en": "Missouri Supreme Court blocks the new congressional map and orders a statewide referendum.",
+          "es": "La Corte Suprema de Misuri bloquea el nuevo mapa congresional y ordena un referéndum estatal."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême des États-Unis refuse de rétablir la carte pour les élections de novembre.",
+          "en": "The US Supreme Court declines to reinstate the map for the November elections.",
+          "es": "La Corte Suprema de EE. UU. rechaza restablecer el mapa para las elecciones de noviembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "us-ppi-diesel-surge",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "U.S. Bureau of Labor Statistics / CNBC",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., USA",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Les prix à la production bondissent aux États-Unis, tirés par l'envolée du diesel",
+      "en": "US Producer Prices Jump, Driven by Surging Diesel Costs",
+      "es": "Los precios al productor se disparan en EE. UU. impulsados por el alza del diésel"
+    },
+    "summary": {
+      "fr": "Le Bureau of Labor Statistics a annoncé le 10 septembre 2026 que l'indice des prix à la production (PPI) aux États-Unis a augmenté de 0,4 % en août, portant le taux annuel à 5,4 %. La hausse est attribuée en grande partie à une envolée de 4,2 % des prix de l'énergie, dont un bond de 24,1 % du prix du diesel, une donnée scrutée avant la réunion de politique monétaire de la Réserve fédérale le 16 septembre.",
+      "en": "The Bureau of Labor Statistics reported on September 10, 2026 that the US Producer Price Index rose 0.4% in August, pushing the annual rate to 5.4%. The increase was driven largely by a 4.2% jump in energy prices, including a 24.1% surge in diesel fuel costs, data closely watched ahead of the Federal Reserve's September 16 policy meeting.",
+      "es": "La Oficina de Estadísticas Laborales informó el 10 de septiembre de 2026 que el Índice de Precios al Productor de EE. UU. subió un 0,4 % en agosto, llevando la tasa anual al 5,4 %. El aumento se debió principalmente a un alza del 4,2 % en los precios de la energía, incluido un salto del 24,1 % en el costo del diésel, un dato observado de cerca antes de la reunión de política monetaria de la Reserva Federal del 16 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le BLS publie le rapport PPI d'août : hausse de 0,4 %, taux annuel de 5,4 %, tirée par le diesel.",
+          "en": "BLS releases August PPI report: up 0.4%, annual rate 5.4%, driven by diesel prices.",
+          "es": "El BLS publica el informe del IPP de agosto: sube 0,4 %, tasa anual de 5,4 %, impulsado por el diésel."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
     "priority": 1
   }
 ]
