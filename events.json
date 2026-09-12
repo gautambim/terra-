@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W37",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -734,10 +734,26 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Le président de la commission de sécurité nationale du Parlement iranien, Ebrahim Azizi, affirme que des négociations avec les États-Unis seraient vaines tant que Washington n'accepte pas toutes les demandes de Téhéran, selon le CNRI (NCRI). Le conflit régional continue de toucher l'Arabie saoudite et le Yémen.",
+          "en": "The head of the Iranian parliament's National Security Committee, Ebrahim Azizi, says negotiations with the United States would be futile unless Washington accepts all of Tehran's demands, according to the NCRI. The regional conflict continues to affect Saudi Arabia and Yemen.",
+          "es": "El presidente de la comisión de seguridad nacional del Parlamento iraní, Ebrahim Azizi, afirma que las negociaciones con Estados Unidos serían inútiles a menos que Washington acepte todas las exigencias de Teherán, según el NCRI. El conflicto regional sigue afectando a Arabia Saudí y Yemen."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "arabie-saoudite-pipeline",
+      "yemen-houthis-detroit"
+    ],
     "priority": 2
   },
   {
@@ -828,6 +844,850 @@
       }
     ],
     "related": [],
+    "priority": 1
+  },
+  {
+    "id": "yemen-houthis-detroit",
+    "coords": [
+      43.4167,
+      12.6667
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Euronews / NBC News / The Week",
+    "related": [
+      "iran-conflit-reprise",
+      "arabie-saoudite-pipeline"
+    ],
+    "place": {
+      "fr": "Île de Perim et Dhubab, détroit de Bab-el-Mandeb, Yémen",
+      "en": "Perim Island and Dhubab, Bab al-Mandab Strait, Yemen",
+      "es": "Isla de Perim y Dhubab, estrecho de Bab-el-Mandeb, Yemen"
+    },
+    "title": {
+      "fr": "Les Houthis achèvent la prise de contrôle du détroit de Bab-el-Mandeb",
+      "en": "Houthis complete takeover of the Bab al-Mandab Strait",
+      "es": "Los hutíes completan la toma de control del estrecho de Bab-el-Mandeb"
+    },
+    "summary": {
+      "fr": "Les forces houthies, soutenues par l'Iran, ont atteint l'île stratégique de Perim après le retrait des forces gouvernementales yéménites, complétant leur prise de la côte de la mer Rouge après avoir déjà pris la ville de Dhubab, selon Euronews, NBC News et The Week. Un porte-parole militaire houthi a affirmé que la navigation restait sûre pour toutes les compagnies « sauf les navires saoudiens ». L'événement fait craindre une menace accrue sur l'une des routes maritimes commerciales les plus importantes au monde.",
+      "en": "Iran-aligned Houthi forces reached the strategic island of Perim after Yemeni government forces withdrew, completing their takeover of the Red Sea coastline after earlier seizing the town of Dhubab, according to Euronews, NBC News and The Week. A Houthi military spokesman said shipping remained safe for all companies “except Saudi ships.” The development raises concerns about a greater threat to one of the world's most important commercial shipping routes.",
+      "es": "Fuerzas hutíes alineadas con Irán llegaron a la estratégica isla de Perim tras la retirada de las fuerzas gubernamentales yemeníes, completando así su control de la costa del mar Rojo después de haber tomado antes la localidad de Dhubab, según Euronews, NBC News y The Week. Un portavoz militar hutí afirmó que la navegación seguía siendo segura para todas las compañías “salvo los buques saudíes”. El hecho aumenta el temor a una mayor amenaza sobre una de las rutas marítimas comerciales más importantes del mundo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Les Houthis atteignent l'île de Perim et achèvent leur contrôle du détroit de Bab-el-Mandeb, selon Euronews et NBC News.",
+          "en": "Houthi forces reach Perim Island and complete their control of the Bab al-Mandab Strait, according to Euronews and NBC News.",
+          "es": "Las fuerzas hutíes alcanzan la isla de Perim y completan su control del estrecho de Bab-el-Mandeb, según Euronews y NBC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "arabie-saoudite-pipeline",
+    "coords": [
+      39.6142,
+      24.5247
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / CNN / ABC News",
+    "related": [
+      "iran-conflit-reprise",
+      "yemen-houthis-detroit"
+    ],
+    "place": {
+      "fr": "Oléoduc Est-Ouest, régions de Riyad et Médine, Arabie saoudite",
+      "en": "East-West Pipeline, Riyadh and Madinah regions, Saudi Arabia",
+      "es": "Oleoducto Este-Oeste, regiones de Riad y Medina, Arabia Saudí"
+    },
+    "title": {
+      "fr": "L'oléoduc Est-Ouest saoudien visé par des tirs de drones, le pipeline fermé",
+      "en": "Saudi East-West pipeline hit by drone strikes, pipeline shut down",
+      "es": "El oleoducto Este-Oeste saudí es alcanzado por drones y se cierra por precaución"
+    },
+    "summary": {
+      "fr": "Le ministère saoudien de l'Énergie a annoncé que l'oléoduc Est-Ouest, capable de transporter jusqu'à 7 millions de barils de pétrole par jour vers Yanbu sur la mer Rouge, a été visé à plusieurs reprises le 10 septembre par des drones, selon Al Jazeera, CNN et ABC News. Des stations de pompage ont pris feu. Riyad affirme que les drones provenaient d'Irak ; le ministère saoudien des Affaires étrangères a évoqué des engins « lancés depuis l'Iran » sans plus de précisions indépendantes, et a indiqué ne pas vouloir riposter dans l'immédiat, à la demande du Premier ministre irakien.",
+      "en": "Saudi Arabia's Energy Ministry said the East-West Pipeline, which can carry up to 7 million barrels of oil a day to Yanbu on the Red Sea, was targeted multiple times on September 10 by drones, according to Al Jazeera, CNN and ABC News. Pump stations caught fire. Riyadh says the drones were launched from Iraq; the Saudi Foreign Ministry referred to drones “launched from Iran” without further independent confirmation, and said it would not retaliate for now at the request of the Iraqi prime minister.",
+      "es": "El Ministerio de Energía saudí informó de que el oleoducto Este-Oeste, capaz de transportar hasta 7 millones de barriles de petróleo al día hasta Yanbu, en el mar Rojo, fue atacado varias veces el 10 de septiembre por drones, según Al Jazeera, CNN y ABC News. Varias estaciones de bombeo se incendiaron. Riad afirma que los drones partieron de Irak; el Ministerio de Exteriores saudí habló de aparatos “lanzados desde Irán” sin confirmación independiente adicional, y dijo que no tomará represalias por ahora a petición del primer ministro iraquí."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Plusieurs drones frappent des stations de pompage de l'oléoduc Est-Ouest ; le pipeline est fermé par précaution, selon CNN.",
+          "en": "Multiple drones strike pump stations on the East-West Pipeline; the pipeline is shut down as a precaution, according to CNN.",
+          "es": "Varios drones alcanzan estaciones de bombeo del oleoducto Este-Oeste, que se cierra por precaución, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "coree-nord-missiles-12sept",
+    "coords": [
+      127.4325,
+      39.1547
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "The Korea Herald / Joint Chiefs of Staff (Corée du Sud)",
+    "place": {
+      "fr": "Région de Wonsan, Corée du Nord — réunion d'urgence à Séoul, Corée du Sud",
+      "en": "Wonsan area, North Korea — emergency meeting in Seoul, South Korea",
+      "es": "Zona de Wonsan, Corea del Norte — reunión de emergencia en Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La Corée du Sud tient une réunion de sécurité d'urgence après des tirs de missiles nord-coréens",
+      "en": "South Korea holds emergency security meeting after North Korean missile launches",
+      "es": "Corea del Sur celebra una reunión de seguridad de emergencia tras el lanzamiento de misiles norcoreanos"
+    },
+    "summary": {
+      "fr": "Le Bureau de la sécurité nationale de la présidence sud-coréenne a tenu une réunion d'urgence samedi après que la Corée du Nord a tiré plusieurs missiles balistiques de courte portée depuis la région de Wonsan vers la mer de l'Est, selon le Korea Herald et l'état-major interarmées sud-coréen. Les missiles, lancés vers 5h20 du matin, ont parcouru environ 250 kilomètres. Séoul et Washington analysent le type d'engins utilisés.",
+      "en": "South Korea's presidential National Security Office held an emergency meeting on Saturday after North Korea fired several short-range ballistic missiles from the Wonsan area toward the East Sea, according to the Korea Herald and South Korea's Joint Chiefs of Staff. The missiles, launched around 5:20 a.m., flew about 250 kilometers. Seoul and Washington are analyzing the type of weapons used.",
+      "es": "La Oficina de Seguridad Nacional de la presidencia surcoreana celebró una reunión de emergencia el sábado después de que Corea del Norte disparara varios misiles balísticos de corto alcance desde la zona de Wonsan hacia el mar del Este, según el Korea Herald y el Estado Mayor Conjunto de Corea del Sur. Los misiles, lanzados hacia las 5:20 de la madrugada, recorrieron unos 250 kilómetros. Seúl y Washington analizan el tipo de armamento empleado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026 — vers 05h20",
+          "en": "09/12/2026 — around 5:20 a.m.",
+          "es": "12/09/2026 — hacia las 05:20"
+        },
+        "d": {
+          "fr": "La Corée du Nord tire plusieurs missiles balistiques de courte portée vers la mer de l'Est ; Séoul convoque une réunion de sécurité d'urgence.",
+          "en": "North Korea fires several short-range ballistic missiles toward the East Sea; Seoul convenes an emergency security meeting.",
+          "es": "Corea del Norte dispara varios misiles balísticos de corto alcance hacia el mar del Este; Seúl convoca una reunión de seguridad de emergencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "zaporijjia-frappe-drone-12sept",
+    "coords": [
+      35.1396,
+      47.8388
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Post / Ukrinform / UA.News",
+    "place": {
+      "fr": "Zaporijjia, Ukraine",
+      "en": "Zaporizhzhia, Ukraine",
+      "es": "Zaporiyia, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe touche une habitation à Zaporijjia",
+      "en": "Russian drone strike hits a home in Zaporizhzhia",
+      "es": "Un ataque con drones rusos alcanza una vivienda en Zaporiyia"
+    },
+    "summary": {
+      "fr": "Un drone russe a frappé une zone résidentielle de Zaporijjia dans la nuit du 11 au 12 septembre, détruisant une maison et provoquant des incendies, selon le Kyiv Post et Ukrinform. Le bilan varie selon les sources : le Kyiv Post fait état d'une femme tuée, tandis qu'Ukrinform évoque deux morts. Cette frappe survient après une précédente attaque de drones sur Zaporijjia ayant blessé une femme de 32 ans et son fils de 10 ans, selon UA.News.",
+      "en": "A Russian drone struck a residential area of Zaporizhzhia overnight on September 11-12, destroying a house and sparking fires, according to Kyiv Post and Ukrinform. Reports of the toll vary: Kyiv Post reported one woman killed, while Ukrinform reported two deaths. The strike follows an earlier drone attack on Zaporizhzhia that wounded a 32-year-old woman and her 10-year-old son, according to UA.News.",
+      "es": "Un dron ruso alcanzó una zona residencial de Zaporiyia en la noche del 11 al 12 de septiembre, destruyendo una vivienda y provocando incendios, según Kyiv Post y Ukrinform. El balance varía según la fuente: Kyiv Post informó de una mujer muerta, mientras que Ukrinform habló de dos fallecidos. El ataque se produce después de un bombardeo con drones anterior sobre Zaporiyia que hirió a una mujer de 32 años y a su hijo de 10, según UA.News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026 — nuit du 11 au 12",
+          "en": "09/12/2026 — overnight Sept. 11-12",
+          "es": "12/09/2026 — noche del 11 al 12"
+        },
+        "d": {
+          "fr": "Un drone russe détruit une maison dans une zone résidentielle de Zaporijjia ; au moins une victime est recensée, selon le Kyiv Post.",
+          "en": "A Russian drone destroys a house in a residential area of Zaporizhzhia; at least one death is reported, according to Kyiv Post.",
+          "es": "Un dron ruso destruye una vivienda en una zona residencial de Zaporiyia; se informa de al menos una víctima, según Kyiv Post."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "ue-aide-defense-ukraine-sept",
+    "coords": [
+      4.3517,
+      50.8503
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛡️",
+    "source": "Service européen pour l'action extérieure (EEAS)",
+    "place": {
+      "fr": "Bruxelles, Belgique (Commission européenne)",
+      "en": "Brussels, Belgium (European Commission)",
+      "es": "Bruselas, Bélgica (Comisión Europea)"
+    },
+    "title": {
+      "fr": "La Commission européenne approuve 6,1 milliards d'euros supplémentaires pour la défense de l'Ukraine",
+      "en": "European Commission approves an additional €6.1 billion for Ukraine's defense",
+      "es": "La Comisión Europea aprueba otros 6.100 millones de euros para la defensa de Ucrania"
+    },
+    "summary": {
+      "fr": "La Commission européenne a approuvé 6,1 milliards d'euros supplémentaires pour permettre à l'Ukraine d'acquérir des systèmes de défense aérienne et antimissile, des munitions, des drones et des équipements de guerre électronique, selon un communiqué du Service européen pour l'action extérieure. Cette décision finalise l'allocation des 28,3 milliards d'euros prévus pour le soutien à la défense ukrainienne en 2026, dans un contexte d'intensification des frappes russes.",
+      "en": "The European Commission has approved an additional €6.1 billion to allow Ukraine to procure air and missile defense systems, ammunition, drones and electronic warfare equipment, according to a statement from the European External Action Service. The decision completes the allocation of the €28.3 billion earmarked for Ukraine's 2026 defense support, amid intensifying Russian strikes.",
+      "es": "La Comisión Europea ha aprobado otros 6.100 millones de euros para que Ucrania pueda adquirir sistemas de defensa aérea y antimisiles, munición, drones y equipos de guerra electrónica, según un comunicado del Servicio Europeo de Acción Exterior. La decisión completa la asignación de los 28.300 millones de euros previstos para el apoyo a la defensa ucraniana en 2026, en un contexto de intensificación de los ataques rusos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "La Commission européenne annonce l'approbation de 6,1 milliards d'euros pour la défense antiaérienne et antimissile ukrainienne.",
+          "en": "The European Commission announces the approval of €6.1 billion for Ukrainian air and missile defense.",
+          "es": "La Comisión Europea anuncia la aprobación de 6.100 millones de euros para la defensa aérea y antimisiles de Ucrania."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "brics-sommet-delhi-2026",
+    "coords": [
+      77.2432,
+      28.6141
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Sources gouvernementales indiennes / agences internationales",
+    "place": {
+      "fr": "Bharat Mandapam, New Delhi, Inde",
+      "en": "Bharat Mandapam, New Delhi, India",
+      "es": "Bharat Mandapam, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Le 18e sommet des BRICS s'ouvre à New Delhi sous présidence indienne",
+      "en": "18th BRICS summit opens in New Delhi under India's chairship",
+      "es": "Se inaugura en Nueva Delhi la 18ª cumbre de los BRICS bajo la presidencia de India"
+    },
+    "summary": {
+      "fr": "Le sommet des BRICS s'est ouvert les 12 et 13 septembre au centre Bharat Mandapam de New Delhi, l'Inde assurant sa quatrième présidence du groupe. Des dirigeants du Brésil, de Russie, de Chine, d'Afrique du Sud et d'autres pays membres et partenaires, dont l'Égypte, participent aux discussions axées sur la coopération économique et le développement. La capitale indienne est placée sous haute sécurité, avec d'importantes perturbations de circulation.",
+      "en": "The BRICS summit opened on September 12-13 at the Bharat Mandapam center in New Delhi, with India holding its fourth chairship of the group. Leaders from Brazil, Russia, China, South Africa and other member and partner countries, including Egypt, are taking part in talks focused on economic cooperation and development. The Indian capital is under heavy security, with major traffic disruption.",
+      "es": "La cumbre de los BRICS se inauguró el 12 y 13 de septiembre en el centro Bharat Mandapam de Nueva Delhi, con India ejerciendo su cuarta presidencia del grupo. Líderes de Brasil, Rusia, China, Sudáfrica y otros países miembros y socios, entre ellos Egipto, participan en conversaciones centradas en la cooperación económica y el desarrollo. La capital india está bajo fuerte dispositivo de seguridad, con importantes alteraciones del tráfico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Ouverture du sommet des BRICS à New Delhi ; sécurité renforcée et perturbations de circulation dans la ville.",
+          "en": "The BRICS summit opens in New Delhi; heightened security and traffic disruption across the city.",
+          "es": "Se inaugura la cumbre de los BRICS en Nueva Delhi; seguridad reforzada y alteraciones del tráfico en la ciudad."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "wallstreet-rebond-septembre",
+    "coords": [
+      -74.0113,
+      40.7069
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Données de marché (NYSE/Nasdaq)",
+    "place": {
+      "fr": "Wall Street, New York, États-Unis",
+      "en": "Wall Street, New York, United States",
+      "es": "Wall Street, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Wall Street rebondit après quatre séances de baisse, les taux à 10 ans au plus haut depuis 2023",
+      "en": "Wall Street rebounds after a four-session slide as 10-year yields hit their highest since 2023",
+      "es": "Wall Street rebota tras cuatro sesiones a la baja, con los tipos a 10 años en máximos desde 2023"
+    },
+    "summary": {
+      "fr": "Les indices américains ont mis fin vendredi à quatre séances consécutives de baisse : le Dow Jones a gagné 0,98 % à 52 573 points, le S&P 500 0,86 % à 7 657 points et le Nasdaq 0,96 % à 26 333 points, portés par des chiffres de l'inflation conformes aux attentes et un recul des prix du pétrole. Le rendement des bons du Trésor à 10 ans s'est établi à 4,974 %, son plus haut niveau depuis qu'il avait brièvement dépassé 5 % en octobre 2023.",
+      "en": "US indexes snapped a four-session losing streak on Friday: the Dow Jones rose 0.98% to 52,573, the S&P 500 gained 0.86% to 7,657 and the Nasdaq climbed 0.96% to 26,333, helped by inflation data that came in line with expectations and retreating oil prices. The 10-year Treasury yield stood at 4.974%, its highest level since briefly topping 5% in October 2023.",
+      "es": "Los índices estadounidenses cortaron el viernes una racha de cuatro sesiones a la baja: el Dow Jones subió un 0,98 % hasta 52.573 puntos, el S&P 500 un 0,86 % hasta 7.657 y el Nasdaq un 0,96 % hasta 26.333, impulsados por unos datos de inflación acordes con lo previsto y un retroceso del petróleo. El rendimiento del bono del Tesoro a 10 años se situó en el 4,974 %, su nivel más alto desde que superara brevemente el 5 % en octubre de 2023."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Wall Street clôture en hausse, mettant fin à quatre séances de baisse consécutives.",
+          "en": "Wall Street closes higher, ending four consecutive sessions of losses.",
+          "es": "Wall Street cierra al alza, poniendo fin a cuatro sesiones consecutivas de pérdidas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-bbc-coupes",
+    "coords": [
+      -0.1461,
+      51.5186
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📺",
+    "source": "The Wrap / The Irish Times / LBC",
+    "place": {
+      "fr": "Broadcasting House, Londres, Royaume-Uni",
+      "en": "Broadcasting House, London, United Kingdom",
+      "es": "Broadcasting House, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "La BBC commence à notifier les suppressions de postes liées à son plan de réduction des coûts de 10 %",
+      "en": "BBC begins notifying job cuts under its 10% cost-reduction plan",
+      "es": "La BBC empieza a notificar los recortes de empleo de su plan de reducción de costes del 10 %"
+    },
+    "summary": {
+      "fr": "La BBC, qui avait annoncé en début d'année viser une réduction de 10 % de sa base de coûts sur trois ans en raison de « pressions financières », a commencé en septembre à notifier aux salariés concernés les postes supprimés, selon The Wrap, The Irish Times et LBC. Le groupe emploie environ 21 500 personnes et prévoit de supprimer environ 2 000 postes, un plan qui doit s'achever avant le rapport annuel 2028-2029.",
+      "en": "The BBC, which announced earlier this year it was targeting a 10% reduction to its cost base over three years due to “financial pressures,” began in September notifying affected staff of job cuts, according to The Wrap, The Irish Times and LBC. The broadcaster employs about 21,500 people and plans to cut around 2,000 positions, with the plan due to be completed before its 2028-2029 annual report.",
+      "es": "La BBC, que a principios de año anunció su objetivo de reducir un 10 % su base de costes en tres años por “presiones financieras”, comenzó en septiembre a notificar a los empleados afectados los puestos suprimidos, según The Wrap, The Irish Times y LBC. La cadena emplea a unas 21.500 personas y prevé eliminar alrededor de 2.000 puestos, un plan que debe completarse antes de su informe anual de 2028-2029."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026 — semaine du",
+          "en": "09/12/2026 — week of",
+          "es": "12/09/2026 — semana del"
+        },
+        "d": {
+          "fr": "Les employés concernés par les suppressions de postes commencent à être notifiés, selon la presse britannique.",
+          "en": "Staff affected by the job cuts begin to be notified, according to British media.",
+          "es": "Los empleados afectados por los recortes empiezan a ser notificados, según la prensa británica."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-dangote-ipo",
+    "coords": [
+      3.5352,
+      6.4531
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Bloomberg / Vanguard / CNBC Africa",
+    "place": {
+      "fr": "Raffinerie Dangote, Lekki, Lagos, Nigeria",
+      "en": "Dangote Refinery, Lekki, Lagos, Nigeria",
+      "es": "Refinería Dangote, Lekki, Lagos, Nigeria"
+    },
+    "title": {
+      "fr": "La raffinerie Dangote lance une introduction en Bourse de 1,6 milliard de dollars",
+      "en": "Dangote Refinery launches a $1.6 billion stock market listing",
+      "es": "La refinería Dangote lanza una salida a bolsa de 1.600 millones de dólares"
+    },
+    "summary": {
+      "fr": "Aliko Dangote a présidé à Lagos la signature des documents officiels de l'introduction en Bourse de sa raffinerie, une opération de 1,6 milliard de dollars présentée comme la plus importante jamais réalisée en Afrique, selon Bloomberg, Vanguard et CNBC Africa. L'offre, qui porte sur 4,1 milliards d'actions à 525 nairas chacune, doit se dérouler du 14 septembre au 13 octobre. Le groupe prévoit aussi de porter la capacité de la raffinerie de 700 000 à 1,4 million de barils par jour.",
+      "en": "Aliko Dangote presided over the signing of official documents in Lagos for his refinery's stock market listing, a $1.6 billion deal described as Africa's largest-ever, according to Bloomberg, Vanguard and CNBC Africa. The offer, comprising 4.1 billion shares at 525 naira each, is set to run from September 14 to October 13. The group also plans to raise the refinery's capacity from 700,000 to 1.4 million barrels per day.",
+      "es": "Aliko Dangote presidió en Lagos la firma de los documentos oficiales de la salida a bolsa de su refinería, una operación de 1.600 millones de dólares descrita como la mayor de la historia de África, según Bloomberg, Vanguard y CNBC Africa. La oferta, de 4.100 millones de acciones a 525 nairas cada una, se desarrollará del 14 de septiembre al 13 de octubre. El grupo también prevé aumentar la capacidad de la refinería de 700.000 a 1,4 millones de barriles diarios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Aliko Dangote préside la cérémonie de signature des documents de l'introduction en Bourse à Lagos.",
+          "en": "Aliko Dangote presides over the signing ceremony for the IPO documents in Lagos.",
+          "es": "Aliko Dangote preside la ceremonia de firma de los documentos de la OPV en Lagos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "mexique-mazatlan-hotel-attaque",
+    "coords": [
+      -106.4111,
+      23.2494
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Infobae / AM / SDPnoticias",
+    "place": {
+      "fr": "Hôtel Isla del Mar, avenue del Mar, Mazatlán, Sinaloa, Mexique",
+      "en": "Hotel Isla del Mar, Avenida del Mar, Mazatlán, Sinaloa, Mexico",
+      "es": "Hotel Isla del Mar, avenida del Mar, Mazatlán, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Un agent de la Garde nationale tué par balles dans un hôtel de Mazatlán",
+      "en": "National Guard officer shot dead in a Mazatlán hotel",
+      "es": "Un agente de la Guardia Nacional muere a balazos en un hotel de Mazatlán"
+    },
+    "summary": {
+      "fr": "Un agent de la Garde nationale mexicaine, originaire de Mazatlán et affecté à Oaxaca, a été tué par balles avec un second homme dans la nuit du 9 au 10 septembre à l'hôtel Isla del Mar, dans la zone touristique de Mazatlán (Sinaloa), selon Infobae, AM et SDPnoticias. Des hommes vêtus de noir se seraient dirigés vers sa chambre avant de faire feu et de prendre la fuite. Le parquet a ouvert une enquête ; des douilles de calibre 9 mm ont été retrouvées sur les lieux. L'identité du second homme tué restait à établir.",
+      "en": "A Mexican National Guard officer, originally from Mazatlán and stationed in Oaxaca, was shot dead along with a second man overnight on September 9-10 at the Hotel Isla del Mar in Mazatlán's tourist zone (Sinaloa state), according to Infobae, AM and SDPnoticias. Witnesses said men dressed in black headed to his room before opening fire and fleeing. Prosecutors opened an investigation; 9mm shell casings were recovered at the scene. The identity of the second victim had not been established.",
+      "es": "Un agente de la Guardia Nacional mexicana, originario de Mazatlán y adscrito a Oaxaca, murió a balazos junto a otro hombre en la madrugada del 9 al 10 de septiembre en el hotel Isla del Mar, en la zona turística de Mazatlán (Sinaloa), según Infobae, AM y SDPnoticias. Según testigos, varios hombres vestidos de negro se dirigieron a su habitación antes de disparar y huir. La fiscalía abrió una investigación; se recuperaron casquillos de calibre 9 mm en el lugar. La identidad del segundo fallecido no había sido establecida."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026 — vers 03h00",
+          "en": "09/10/2026 — around 3:00 a.m.",
+          "es": "10/09/2026 — hacia las 03:00"
+        },
+        "d": {
+          "fr": "Un agent de la Garde nationale et un autre homme sont tués par balles dans un hôtel de Mazatlán, selon Infobae.",
+          "en": "A National Guard officer and another man are shot dead in a Mazatlán hotel, according to Infobae.",
+          "es": "Un agente de la Guardia Nacional y otro hombre mueren a balazos en un hotel de Mazatlán, según Infobae."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "pakistan-mousson-finale-punjab",
+    "coords": [
+      74.3587,
+      31.5497
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌧️",
+    "source": "PDMA Punjab / Aaj English / Pakistan Today",
+    "place": {
+      "fr": "Punjab, Pakistan (Lahore, Rawalpindi, Gujranwala, Faisalabad et environs)",
+      "en": "Punjab, Pakistan (Lahore, Rawalpindi, Gujranwala, Faisalabad and surrounding districts)",
+      "es": "Punyab, Pakistán (Lahore, Rawalpindi, Gujranwala, Faisalabad y distritos vecinos)"
+    },
+    "title": {
+      "fr": "Le Pendjab pakistanais se prépare au neuvième et dernier épisode de mousson, le bilan saisonnier atteint 183 morts",
+      "en": "Pakistan's Punjab braces for ninth and final monsoon spell as season's death toll reaches 183",
+      "es": "El Punyab paquistaní se prepara para el noveno y último episodio del monzón, con un balance estacional de 183 muertos"
+    },
+    "summary": {
+      "fr": "L'Autorité provinciale de gestion des catastrophes (PDMA) du Pendjab a émis une alerte pour un neuvième et dernier épisode de mousson attendu du 12 au 17 septembre dans la plupart des districts, dont Lahore, Rawalpindi, Gujranwala et Faisalabad, selon Aaj English et Pakistan Today. Le directeur général de la PDMA, Saif Anwar Jappa, a mis en garde contre des inondations urbaines et des risques de glissements de terrain dans les zones vallonnées comme Murree. Le bilan de la saison de mousson au Pakistan s'élève désormais à 183 morts et 515 blessés selon la météorologie nationale (PMD), le Khyber Pakhtunkhwa étant la province la plus touchée avec 74 décès, suivi du Pendjab avec 64.",
+      "en": "Punjab's Provincial Disaster Management Authority (PDMA) issued an alert for a ninth and final monsoon spell expected from September 12 to 17 across most districts, including Lahore, Rawalpindi, Gujranwala and Faisalabad, according to Aaj English and Pakistan Today. PDMA Director General Saif Anwar Jappa warned of urban flooding and landslide risks in hilly areas such as Murree. Pakistan's monsoon season death toll now stands at 183, with 515 injured, according to the national weather department (PMD); Khyber Pakhtunkhwa is the worst-hit province with 74 deaths, followed by Punjab with 64.",
+      "es": "La Autoridad Provincial de Gestión de Desastres (PDMA) de Punyab emitió una alerta por un noveno y último episodio del monzón previsto del 12 al 17 de septiembre en la mayoría de los distritos, entre ellos Lahore, Rawalpindi, Gujranwala y Faisalabad, según Aaj English y Pakistan Today. El director general de la PDMA, Saif Anwar Jappa, advirtió de inundaciones urbanas y riesgo de deslizamientos en zonas montañosas como Murree. El balance de la temporada de monzón en Pakistán asciende ya a 183 muertos y 515 heridos, según el servicio meteorológico nacional (PMD); Khyber Pakhtunkhwa es la provincia más afectada con 74 muertes, seguida de Punyab con 64."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "La PDMA place le Pendjab en alerte pour le neuvième et dernier épisode de mousson de la saison.",
+          "en": "PDMA places Punjab on alert for the season's ninth and final monsoon spell.",
+          "es": "La PDMA pone en alerta a Punyab por el noveno y último episodio del monzón de la temporada."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "indonesie-seisme-java-12sept",
+    "coords": [
+      106.9,
+      -5.08
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "USGS / The Watchers",
+    "place": {
+      "fr": "Mer de Java, au nord de Jakarta (environ 125 km au nord de Teluknaga), Indonésie",
+      "en": "Java Sea, north of Jakarta (about 125 km north of Teluknaga), Indonesia",
+      "es": "Mar de Java, al norte de Yakarta (unos 125 km al norte de Teluknaga), Indonesia"
+    },
+    "title": {
+      "fr": "Un séisme de magnitude 6,6 frappe la mer de Java au nord de Jakarta",
+      "en": "Magnitude 6.6 earthquake strikes the Java Sea north of Jakarta",
+      "es": "Un terremoto de magnitud 6,6 sacude el mar de Java al norte de Yakarta"
+    },
+    "summary": {
+      "fr": "Un séisme de magnitude 6,6 a frappé la mer de Java à environ 125 km au nord de Jakarta le 11 septembre à 21h23 UTC (4h23 heure locale le 12 septembre), à une profondeur de 358 km, selon l'USGS et The Watchers. Aucune alerte au tsunami n'a été émise et l'USGS a classé l'événement en alerte verte, indiquant une faible probabilité de victimes ou de dégâts en raison de la grande profondeur du foyer sismique.",
+      "en": "A magnitude 6.6 earthquake struck the Java Sea about 125 km north of Jakarta on September 11 at 21:23 UTC (04:23 local time on September 12), at a depth of 358 km, according to the USGS and The Watchers. No tsunami warning was issued, and the USGS classified the event with a green alert, indicating a low likelihood of casualties or damage due to the quake's great depth.",
+      "es": "Un terremoto de magnitud 6,6 sacudió el mar de Java, unos 125 km al norte de Yakarta, el 11 de septiembre a las 21:23 UTC (04:23 hora local del 12 de septiembre), a una profundidad de 358 km, según el USGS y The Watchers. No se emitió alerta de tsunami y el USGS clasificó el suceso con alerta verde, lo que indica una baja probabilidad de víctimas o daños debido a la gran profundidad del sismo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026 — 04h23 (heure locale)",
+          "en": "09/12/2026 — 4:23 a.m. local time",
+          "es": "12/09/2026 — 04:23 (hora local)"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 6,6 est enregistré en mer de Java ; l'USGS classe l'événement en alerte verte, sans risque de tsunami.",
+          "en": "A magnitude 6.6 earthquake is recorded in the Java Sea; the USGS classifies it with a green alert and no tsunami risk.",
+          "es": "Se registra un terremoto de magnitud 6,6 en el mar de Java; el USGS lo clasifica con alerta verde y sin riesgo de tsunami."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "australie-mildura-hopital-dossiers",
+    "coords": [
+      142.1367,
+      -34.2081
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "🏥",
+    "source": "ABC News (Australie)",
+    "place": {
+      "fr": "Mildura Base Public Hospital, Victoria, Australie",
+      "en": "Mildura Base Public Hospital, Victoria, Australia",
+      "es": "Mildura Base Public Hospital, Victoria, Australia"
+    },
+    "title": {
+      "fr": "Un patient meurt après un dossier « oublié » dans une boîte à l'hôpital de Mildura",
+      "en": "Patient dies after referral was “forgotten” in a box at Mildura hospital",
+      "es": "Un paciente muere tras un informe “olvidado” en una caja del hospital de Mildura"
+    },
+    "summary": {
+      "fr": "Un patient de l'hôpital public de Mildura, dans l'État de Victoria, est mort après que sa demande d'orientation médicale, sur papier, a été laissée de côté pendant plus d'un an, selon la ministre fantôme de la Santé de l'État et ABC News. Jusqu'à 150 patients auraient attendu des soins pendant plus d'un an après que des boîtes de dossiers papier ont été « oubliées » à l'hôpital, notamment des personnes présentant des symptômes de cancer nécessitant des coloscopies. L'établissement, qui dépend encore largement de dossiers papier, a signalé les cas à l'organisme public Safer Care Victoria et mène une évaluation interne.",
+      "en": "A patient at the public hospital in Mildura, Victoria, died after his paper referral was left aside for more than a year, according to the state's shadow health minister and ABC News. Up to 150 patients are believed to have waited more than a year for care after boxes of paper referrals were “forgotten” at the hospital, including patients with cancer symptoms requiring colonoscopies. The hospital, which still relies heavily on paper records, has reported the cases to the state body Safer Care Victoria and is conducting an internal review.",
+      "es": "Un paciente del hospital público de Mildura, en el estado de Victoria, murió después de que su solicitud de derivación médica en papel quedara olvidada durante más de un año, según la ministra de Salud en la sombra del estado y ABC News. Se cree que hasta 150 pacientes esperaron más de un año para recibir atención después de que cajas de referencias en papel fueran “olvidadas” en el hospital, entre ellos personas con síntomas de cáncer que necesitaban colonoscopias. El hospital, que todavía depende en gran medida de registros en papel, notificó los casos al organismo estatal Safer Care Victoria y lleva a cabo una revisión interna."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "La ministre fantôme de la Santé de Victoria révèle la mort d'un patient dont le dossier avait été oublié à l'hôpital de Mildura, selon ABC News.",
+          "en": "Victoria's shadow health minister reveals the death of a patient whose referral had been forgotten at Mildura hospital, according to ABC News.",
+          "es": "La ministra de Salud en la sombra de Victoria revela la muerte de un paciente cuyo informe había sido olvidado en el hospital de Mildura, según ABC News."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "canada-zelensky-calgary-drones",
+    "coords": [
+      -114.0719,
+      51.0447
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Yahoo News Canada / Western Standard",
+    "place": {
+      "fr": "Calgary et Banff, Alberta, Canada",
+      "en": "Calgary and Banff, Alberta, Canada",
+      "es": "Calgary y Banff, Alberta, Canadá"
+    },
+    "title": {
+      "fr": "Zelensky se rend en Alberta et annonce un partenariat canado-ukrainien sur les drones",
+      "en": "Zelensky visits Alberta and announces a Canada-Ukraine drone production partnership",
+      "es": "Zelenski visita Alberta y anuncia una asociación canadiense-ucraniana para la producción de drones"
+    },
+    "summary": {
+      "fr": "Le président ukrainien Volodymyr Zelensky s'est rendu le 10 septembre à Calgary, en Alberta, où il a annoncé avec le premier ministre canadien Mark Carney un nouveau partenariat de production conjointe de drones, selon Yahoo News Canada et le Western Standard. Zelensky s'est ensuite adressé aux ministres libéraux réunis en retraite à Banff. Le cabinet du premier ministre canadien a indiqué que la visite visait à souligner « le leadership continu du Canada » dans son soutien à l'Ukraine.",
+      "en": "Ukrainian President Volodymyr Zelensky traveled on September 10 to Calgary, Alberta, where he and Canadian Prime Minister Mark Carney announced a new joint drone-production partnership, according to Yahoo News Canada and the Western Standard. Zelensky then addressed Liberal ministers gathered for a cabinet retreat in Banff. The Canadian prime minister's office said the visit underscored “Canada's continued leadership” in supporting Ukraine.",
+      "es": "El presidente ucraniano Volodímir Zelenski viajó el 10 de septiembre a Calgary, Alberta, donde junto al primer ministro canadiense Mark Carney anunció una nueva asociación para la producción conjunta de drones, según Yahoo News Canada y Western Standard. Zelenski se dirigió después a los ministros liberales reunidos en un retiro de gabinete en Banff. La oficina del primer ministro canadiense señaló que la visita subrayaba “el liderazgo continuo de Canadá” en su apoyo a Ucrania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Volodymyr Zelensky et Mark Carney annoncent à Calgary un partenariat sur la production de drones.",
+          "en": "Volodymyr Zelensky and Mark Carney announce a drone-production partnership in Calgary.",
+          "es": "Volodímir Zelenski y Mark Carney anuncian en Calgary una asociación para la producción de drones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "egypte-grece-gregy-interconnexion",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🔌",
+    "source": "Egypt Independent / Egypt Oil & Gas",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'Égypte et la Grèce avancent sur le projet d'interconnexion électrique GREGY",
+      "en": "Egypt and Greece advance the GREGY electricity interconnection project",
+      "es": "Egipto y Grecia avanzan en el proyecto de interconexión eléctrica GREGY"
+    },
+    "summary": {
+      "fr": "Le président égyptien Abdel Fattah al-Sissi a évoqué le 8 puis le 10 septembre avec le Premier ministre grec Kyriakos Mitsotakis les avancées du projet d'interconnexion électrique GREGY entre l'Égypte et la Grèce, le qualifiant d'étape stratégique pour la sécurité énergétique régionale, selon Egypt Independent et Egypt Oil & Gas. Une étude d'ingénierie de base (FEED) doit débuter fin 2026 ; le projet, qui vise à faire de la Grèce un pôle énergétique pour l'Europe du Sud-Est, ne devrait pas être opérationnel avant sept à huit ans.",
+      "en": "Egyptian President Abdel Fattah al-Sisi discussed progress on the GREGY electricity interconnection project between Egypt and Greece with Greek Prime Minister Kyriakos Mitsotakis on September 8 and again on September 10, calling it a strategic step for regional energy security, according to Egypt Independent and Egypt Oil & Gas. A Front End Engineering Design (FEED) study is due to begin in late 2026; the project, meant to position Greece as an energy hub for southeastern Europe, is not expected to be operational for seven to eight years.",
+      "es": "El presidente egipcio Abdel Fattah al-Sisi conversó el 8 y de nuevo el 10 de septiembre con el primer ministro griego Kyriakos Mitsotakis sobre los avances del proyecto de interconexión eléctrica GREGY entre Egipto y Grecia, calificándolo de paso estratégico para la seguridad energética regional, según Egypt Independent y Egypt Oil & Gas. Un estudio de ingeniería básica (FEED) debe comenzar a finales de 2026; el proyecto, que busca convertir a Grecia en un centro energético para el sudeste de Europa, no estaría operativo hasta dentro de siete u ocho años."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le président Sissi affirme l'importance du projet GREGY pour l'intégration énergétique régionale, selon Egypt Independent.",
+          "en": "President Sisi affirms the importance of the GREGY project for regional energy integration, according to Egypt Independent.",
+          "es": "El presidente Al Sisi afirma la importancia del proyecto GREGY para la integración energética regional, según Egypt Independent."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-ue-data-act",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "IamExpat / Commission européenne",
+    "place": {
+      "fr": "Allemagne (règlement applicable dans toute l'Union européenne)",
+      "en": "Germany (regulation applicable across the European Union)",
+      "es": "Alemania (reglamento aplicable en toda la Unión Europea)"
+    },
+    "title": {
+      "fr": "Le règlement européen sur les données (Data Act) entre dans une nouvelle phase le 12 septembre",
+      "en": "The EU Data Act enters a new phase on September 12",
+      "es": "El Reglamento de Datos de la UE entra en una nueva fase el 12 de septiembre"
+    },
+    "summary": {
+      "fr": "Le règlement européen sur les données (Data Act) impose depuis le 12 septembre aux fabricants opérant dans l'Union européenne de concevoir leurs produits connectés — télévisions, montres connectées, vélos électriques, systèmes de chauffage ou véhicules — pour que les données personnelles collectées soient plus facilement accessibles aux consommateurs, selon des informations relayées par IamExpat. La mesure s'applique aux nouveaux produits connectés mis sur le marché européen, notamment en Allemagne.",
+      "en": "Since September 12, the EU Data Act has required manufacturers operating in the European Union to design connected products — smart TVs, fitness trackers, e-bikes, connected heating systems or vehicles — so that the personal data they gather is more easily accessible to consumers, according to reporting relayed by IamExpat. The measure applies to new connected products placed on the European market, including in Germany.",
+      "es": "Desde el 12 de septiembre, el Reglamento de Datos de la UE obliga a los fabricantes que operan en la Unión Europea a diseñar sus productos conectados —televisores inteligentes, pulseras de actividad, bicicletas eléctricas, sistemas de calefacción conectados o vehículos— de forma que los datos personales recogidos sean más accesibles para los consumidores, según informaciones recogidas por IamExpat. La medida se aplica a los nuevos productos conectados que se comercialicen en el mercado europeo, incluida Alemania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Une nouvelle phase du règlement européen sur les données entre en vigueur pour les fabricants d'objets connectés.",
+          "en": "A new phase of the EU Data Act takes effect for makers of connected devices.",
+          "es": "Entra en vigor una nueva fase del Reglamento de Datos de la UE para los fabricantes de dispositivos conectados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "espagne-vuelta-pogacar-abandon",
+    "coords": [
+      -3.5986,
+      37.1773
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🚴",
+    "source": "Cyclingnews",
+    "place": {
+      "fr": "Vuelta a España, Andalousie, Espagne (arrivée finale à Grenade le 13 septembre)",
+      "en": "Vuelta a España, Andalusia, Spain (final finish in Granada on September 13)",
+      "es": "Vuelta a España, Andalucía, España (llegada final a Granada el 13 de septiembre)"
+    },
+    "title": {
+      "fr": "Tadej Pogačar abandonne la Vuelta après une chute, Enric Mas prend la tête du classement général",
+      "en": "Tadej Pogačar abandons the Vuelta after a crash, Enric Mas takes the overall lead",
+      "es": "Tadej Pogačar abandona la Vuelta tras una caída, Enric Mas asume el liderato general"
+    },
+    "summary": {
+      "fr": "Tadej Pogačar, qui participait à sa première Vuelta a España depuis ses débuts en 2019, a dû abandonner la course après une chute survenue lors de la 8e étape, souffrant de blessures à l'épaule et au visage, selon Cyclingnews. Enric Mas a hérité de la tête du classement général à l'approche de la dernière étape, prévue le 13 septembre à Grenade.",
+      "en": "Tadej Pogačar, competing in his first Vuelta a España since his 2019 debut, was forced to abandon the race after a crash during stage 8, suffering shoulder and facial injuries, according to Cyclingnews. Enric Mas inherited the overall lead as the race heads into its final stage, due to finish in Granada on September 13.",
+      "es": "Tadej Pogačar, que corría su primera Vuelta a España desde su debut en 2019, se vio obligado a abandonar la carrera tras una caída en la 8ª etapa, con lesiones en el hombro y la cara, según Cyclingnews. Enric Mas heredó el liderato de la general de cara a la última etapa, que finaliza en Granada el 13 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026 — étape 8",
+          "en": "09/05/2026 — stage 8",
+          "es": "05/09/2026 — etapa 8"
+        },
+        "d": {
+          "fr": "Tadej Pogačar chute et doit abandonner la course ; Enric Mas prend la tête du classement général.",
+          "en": "Tadej Pogačar crashes and is forced to abandon the race; Enric Mas takes the overall lead.",
+          "es": "Tadej Pogačar cae y se ve obligado a abandonar la carrera; Enric Mas asume el liderato de la general."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "hongrie-athletisme-budapest",
+    "coords": [
+      19.0402,
+      47.4979
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏃",
+    "source": "World Athletics",
+    "place": {
+      "fr": "Centre national d'athlétisme Gyula Zsivotzky, Budapest, Hongrie",
+      "en": "Gyula Zsivotzky National Athletics Centre, Budapest, Hungary",
+      "es": "Centro Nacional de Atletismo Gyula Zsivotzky, Budapest, Hungría"
+    },
+    "title": {
+      "fr": "Budapest accueille les premiers Championnats du monde ultimes d'athlétisme",
+      "en": "Budapest hosts the inaugural World Athletics Ultimate Championship",
+      "es": "Budapest acoge el primer Campeonato Mundial Absoluto de Atletismo"
+    },
+    "summary": {
+      "fr": "La première édition des Championnats du monde ultimes d'athlétisme s'est ouverte le 11 septembre à Budapest et se poursuit jusqu'au 13, selon World Athletics. Parmi les résultats déjà connus figurent la victoire de Masai Russell (12,22 s) devant la Nigériane Tobi Amusan (12,34 s) au 100 m haies femmes, et celle des États-Unis au relais mixte 4x100 m.",
+      "en": "The first edition of the World Athletics Ultimate Championship opened on September 11 in Budapest and runs through September 13, according to World Athletics. Results so far include a win for Masai Russell (12.22s) ahead of Nigeria's Tobi Amusan (12.34s) in the women's 100m hurdles, and a US victory in the mixed 4x100m relay.",
+      "es": "La primera edición del Campeonato Mundial Absoluto de Atletismo se inauguró el 11 de septiembre en Budapest y se prolonga hasta el 13, según World Athletics. Entre los resultados conocidos hasta ahora figura la victoria de Masai Russell (12,22 s) por delante de la nigeriana Tobi Amusan (12,34 s) en los 100 m vallas femeninos, y el triunfo de Estados Unidos en el relevo mixto 4x100 m."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Ouverture des Championnats du monde ultimes d'athlétisme à Budapest.",
+          "en": "The World Athletics Ultimate Championship opens in Budapest.",
+          "es": "Se inaugura el Campeonato Mundial Absoluto de Atletismo en Budapest."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "italie-tornade-cigole",
+    "coords": [
+      10.1167,
+      45.3667
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "Il Giorno",
+    "place": {
+      "fr": "Cigole, province de Brescia, Lombardie, Italie",
+      "en": "Cigole, Province of Brescia, Lombardy, Italy",
+      "es": "Cigole, provincia de Brescia, Lombardía, Italia"
+    },
+    "title": {
+      "fr": "Une tornade dévaste la zone industrielle de Cigole, près de Brescia",
+      "en": "Tornado devastates the industrial area of Cigole, near Brescia",
+      "es": "Un tornado devasta la zona industrial de Cigole, cerca de Brescia"
+    },
+    "summary": {
+      "fr": "Une tornade s'est abattue à l'aube du 9 septembre sur la zone industrielle de Cigole, dans la province de Brescia, arrachant les toits de plusieurs entrepôts et détruisant de nombreux panneaux solaires, selon Il Giorno. Un employé a raconté s'être réfugié dans un bureau tant la violence du vent lui faisait craindre un effondrement. Aucune victime n'a été recensée, mais les dégâts matériels sont importants.",
+      "en": "A tornado struck the industrial area of Cigole, in the province of Brescia, at dawn on September 9, tearing roofs off several warehouses and destroying numerous solar panels, according to Il Giorno. One worker said he took shelter in an office as the wind's violence made him fear a collapse. No casualties were reported, but material damage was extensive.",
+      "es": "Un tornado azotó al amanecer del 9 de septiembre la zona industrial de Cigole, en la provincia de Brescia, arrancando los tejados de varias naves y destruyendo numerosos paneles solares, según Il Giorno. Un trabajador relató que se refugió en una oficina porque la violencia del viento le hacía temer un derrumbe. No se registraron víctimas, pero los daños materiales fueron considerables."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026 — à l'aube",
+          "en": "09/09/2026 — at dawn",
+          "es": "09/09/2026 — al amanecer"
+        },
+        "d": {
+          "fr": "Une tornade frappe la zone industrielle de Cigole, endommageant des entrepôts et des panneaux solaires, sans faire de victime.",
+          "en": "A tornado strikes the industrial area of Cigole, damaging warehouses and solar panels, with no casualties.",
+          "es": "Un tornado golpea la zona industrial de Cigole, dañando naves industriales y paneles solares, sin víctimas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
     "priority": 1
   }
 ]
