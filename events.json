@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / NBC News / CNN / Al Jazeera",
+    "week": "2026-W37",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, les frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz. Les combats se sont depuis intensifiés : le 1er septembre, les États-Unis ont mené de nouvelles frappes près du détroit et l'Iran a riposté contre des bases américaines et alliées dans le Golfe, notamment par une frappe de missiles ayant endommagé des appareils à la base aérienne jordanienne de Muwaffaq Salti les 8 et 9 septembre. Au 13 septembre, aucun cessez-le-feu n'était confirmé et le trafic commercial dans le détroit d'Ormuz restait fortement perturbé. Les bilans avancés par les parties au conflit n'ont pas été confirmés de façon indépendante.",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again. Fighting has since escalated further: on September 1, the US carried out additional strikes near the strait and Iran retaliated against US and allied bases across the Gulf, including a missile strike that damaged aircraft at Jordan's Muwaffaq Salti Air Base on September 8-9. As of September 13, no ceasefire has been confirmed and commercial shipping through the Strait of Hormuz remains severely disrupted. Casualty figures given by parties to the conflict have not been independently confirmed.",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz. Los combates se han intensificado desde entonces: el 1 de septiembre, Estados Unidos realizó nuevos ataques cerca del estrecho e Irán respondió contra bases estadounidenses y aliadas en el Golfo, incluido un ataque con misiles que dañó aeronaves en la base aérea jordana de Muwaffaq Salti los días 8 y 9 de septiembre. Al 13 de septiembre no se había confirmado ningún alto el fuego y el tráfico comercial por el estrecho de Ormuz seguía muy perturbado. Los balances presentados por las partes del conflicto no han sido confirmados de forma independiente."
     },
     "timeline": [
       {
@@ -733,6 +733,32 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis mènent de nouvelles frappes près du détroit d'Ormuz ; l'Iran riposte contre des bases américaines et alliées dans plusieurs pays du Golfe.",
+          "en": "The US carries out further strikes near the Strait of Hormuz; Iran retaliates against US and allied bases across the Gulf region.",
+          "es": "Estados Unidos lleva a cabo nuevos ataques cerca del estrecho de Ormuz; Irán responde contra bases estadounidenses y aliadas en varios países del Golfo."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08-09/09/2026",
+          "en": "09/08-09/2026",
+          "es": "08-09/09/2026"
+        },
+        "d": {
+          "fr": "Des missiles iraniens frappent la base aérienne de Muwaffaq Salti, en Jordanie, endommageant des appareils américains et jordaniens ; le trafic commercial dans le détroit d'Ormuz reste fortement perturbé, sans cessez-le-feu confirmé au 13 septembre.",
+          "en": "Iranian missiles strike Muwaffaq Salti Air Base in Jordan, damaging US and Jordanian aircraft; commercial shipping through the Strait of Hormuz remains severely disrupted, with no ceasefire confirmed as of September 13.",
+          "es": "Misiles iraníes atacan la base aérea de Muwaffaq Salti, en Jordania, dañando aeronaves estadounidenses y jordanas; el tráfico comercial por el estrecho de Ormuz sigue muy perturbado, sin alto el fuego confirmado al 13 de septiembre."
         },
         "active": true
       }
@@ -829,5 +855,992 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-minneapolis-custody-shooting",
+    "coords": [
+      -93.2777,
+      44.9719
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / NBC News / ABC News / MPR News",
+    "place": {
+      "fr": "Minneapolis, Minnesota, États-Unis",
+      "en": "Minneapolis, Minnesota, United States",
+      "es": "Minneapolis, Minnesota, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un tireur tue trois personnes et blesse des policiers lors d'une fusillade à Minneapolis débutée pendant un échange de garde d'enfant",
+      "en": "Gunman kills three, wounds police officers in Minneapolis shooting that began during a custody exchange",
+      "es": "Un tirador mata a tres personas y hiere a agentes de policía en un tiroteo en Minneapolis que comenzó durante un intercambio de custodia"
+    },
+    "summary": {
+      "fr": "Le 2 septembre 2026, vers 16h30, un échange de garde d'enfant prévu près du centre-ville de Minneapolis a dégénéré lorsqu'un homme de 35 ans aurait tiré sur la mère de son enfant avant de pénétrer dans l'immeuble Shoreline Plaza/Loring Towers. La police l'a poursuivi jusqu'au 9e étage, où des échanges de tirs ont eu lieu. Deux résidents, âgés de 63 et 61 ans, ont été tués, et trois policiers ont été blessés, tous devant se rétablir ; le tireur a été abattu par la police. L'enfant concerné par l'échange de garde n'a pas été blessé.",
+      "en": "On September 2, 2026, around 4:30 p.m., a scheduled child-custody exchange near downtown Minneapolis turned violent when a 35-year-old man allegedly shot the mother of his child before entering the Shoreline Plaza/Loring Towers apartment building. Police pursued him to the 9th floor, where he exchanged gunfire with officers. Two residents, aged 63 and 61, were killed, and three police officers were wounded, all expected to recover; the gunman was killed by police. The child involved in the exchange was unharmed.",
+      "es": "El 2 de septiembre de 2026, hacia las 16:30, un intercambio de custodia programado cerca del centro de Minneapolis se tornó violento cuando un hombre de 35 años presuntamente disparó contra la madre de su hijo antes de entrar al edificio Shoreline Plaza/Loring Towers. La policía lo persiguió hasta el noveno piso, donde se produjo un intercambio de disparos. Dos residentes, de 63 y 61 años, murieron, y tres agentes de policía resultaron heridos, todos con pronóstico de recuperación; el tirador fue abatido por la policía. El menor involucrado en el intercambio de custodia no sufrió daños."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Une fusillade éclate lors d'un échange de garde d'enfant dans le centre-ville de Minneapolis ; deux résidents tués, trois policiers blessés, le tireur abattu par la police.",
+          "en": "Shooting begins during a custody exchange in downtown Minneapolis; two residents killed, three officers wounded, gunman killed by police.",
+          "es": "Comienza un tiroteo durante un intercambio de custodia en el centro de Minneapolis; dos residentes mueren, tres agentes resultan heridos y la policía abate al tirador."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "china-qingdao-shipyard-fire",
+    "coords": [
+      120.38,
+      36.1
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "CBC News / NBC News / ABC News Australia / Euronews / FreightWaves",
+    "place": {
+      "fr": "Qingdao, province du Shandong, Chine",
+      "en": "Qingdao, Shandong Province, China",
+      "es": "Qingdao, provincia de Shandong, China"
+    },
+    "title": {
+      "fr": "Un incendie à bord d'un cargo dans un chantier naval de Qingdao, en Chine, fait 25 morts",
+      "en": "Fire aboard cargo ship at Qingdao shipyard in China kills 25",
+      "es": "Un incendio a bordo de un carguero en un astillero de Qingdao, China, deja 25 muertos"
+    },
+    "summary": {
+      "fr": "Le 10 septembre 2026, un incendie s'est déclaré à bord de l'Ocean Melody, un cargo battant pavillon libérien en réparation au chantier naval Beihai Shipbuilding, à Qingdao. Sur les 42 personnes présentes à bord, 25 sont mortes, 12 ont été évacuées saines et sauves et 5 ont été blessées. Le feu a été maîtrisé en environ trois heures ; le président Xi Jinping a appelé à intensifier les opérations de secours, et la cause de l'incendie n'avait pas été officiellement établie.",
+      "en": "On September 10, 2026, a fire broke out aboard the Ocean Melody, a Liberian-flagged cargo ship undergoing repairs at the Beihai Shipbuilding shipyard in Qingdao. Of 42 people aboard, 25 were killed, 12 evacuated safely and 5 injured. The blaze was extinguished within about three hours; President Xi Jinping called for intensified rescue efforts, and the cause had not been officially determined.",
+      "es": "El 10 de septiembre de 2026, se declaró un incendio a bordo del Ocean Melody, un carguero de bandera liberiana que estaba en reparación en el astillero Beihai Shipbuilding de Qingdao. De las 42 personas a bordo, 25 murieron, 12 fueron evacuadas ilesas y 5 resultaron heridas. El fuego fue controlado en unas tres horas; el presidente Xi Jinping pidió intensificar las labores de rescate, y la causa del incendio no había sido determinada oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Un incendie se déclare à bord de l'Ocean Melody pendant des travaux de réparation au chantier Beihai ; 25 des 42 personnes à bord sont tuées.",
+          "en": "Fire breaks out aboard the Ocean Melody during repairs at the Beihai shipyard; 25 of 42 people aboard are killed.",
+          "es": "Se declara un incendio a bordo del Ocean Melody durante trabajos de reparación en el astillero Beihai; mueren 25 de las 42 personas a bordo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "china-tibet-nepal-flood-toll",
+    "coords": [
+      85.27,
+      28.85
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Al Jazeera / ABC News / NPR / Asia Times",
+    "place": {
+      "fr": "Gyirong, région autonome du Tibet, Chine (frontière avec le Népal)",
+      "en": "Gyirong, Tibet Autonomous Region, China (border with Nepal)",
+      "es": "Gyirong, Región Autónoma del Tíbet, China (frontera con Nepal)"
+    },
+    "title": {
+      "fr": "Le bilan des inondations à la frontière Népal-Tibet dépasse 1 300 morts, dans un climat de controverse sur la couverture chinoise",
+      "en": "Death toll from Nepal-Tibet border floods climbs past 1,300 amid dispute over China's reporting",
+      "es": "El saldo de muertos por las inundaciones en la frontera Nepal-Tíbet supera los 1.300, en medio de una disputa sobre la cobertura de China"
+    },
+    "summary": {
+      "fr": "Des crues soudaines et des coulées de débris, que l'on pense causées par l'effondrement d'un glacier sur le mont Langtang Lirung le 26 août 2026, ont détruit le poste-frontière de Gyirong entre la région autonome chinoise du Tibet et le Népal, et dévasté des localités le long de la rivière Trishuli, au Népal. Vers le 12 septembre, le bilan côté népalais s'élevait à environ 1 386 morts et 5 130 disparus, selon les autorités népalaises, tandis que les autorités chinoises faisaient état séparément de plusieurs dizaines de morts et de centaines de disparus côté tibétain. Une controverse est également apparue autour de la couverture de l'événement par les médias d'État chinois, certains observateurs estimant qu'elle s'est concentrée sur les opérations de secours de l'armée plutôt que sur le bilan pour les populations locales ; les chiffres exacts côté tibétain restent incertains.",
+      "en": "Flash floods and debris flows, believed to have been triggered by a glacier collapse on Langtang Lirung on August 26, 2026, destroyed the Gyirong border crossing between China's Tibet Autonomous Region and Nepal and devastated settlements along Nepal's Trishuli River. By around September 12, Nepal's death toll had risen to roughly 1,386 people with about 5,130 still missing, according to Nepali government figures, while Chinese authorities separately reported dozens dead and hundreds missing on the Tibetan side. A dispute also developed over Chinese state media's coverage, which some observers say has focused on rescue efforts by the military rather than the toll on local communities; exact figures for the Tibetan side remain unsettled.",
+      "es": "Inundaciones repentinas y flujos de escombros, que se cree fueron provocados por el colapso de un glaciar en el monte Langtang Lirung el 26 de agosto de 2026, destruyeron el paso fronterizo de Gyirong entre la Región Autónoma del Tíbet, en China, y Nepal, y devastaron poblaciones a lo largo del río Trishuli, en Nepal. Hacia el 12 de septiembre, el balance de víctimas en Nepal había subido a unas 1.386 personas, con cerca de 5.130 desaparecidas, según cifras del gobierno nepalí, mientras que las autoridades chinas informaron por separado de varias decenas de muertos y cientos de desaparecidos en el lado tibetano. También surgió una controversia sobre la cobertura del desastre por parte de los medios estatales chinos, que según algunos observadores se centró en las labores de rescate del ejército más que en el impacto sobre las comunidades locales; las cifras exactas del lado tibetano siguen sin confirmarse."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "08/26/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Un possible effondrement glaciaire sur le Langtang Lirung déclenche des crues soudaines qui détruisent le poste-frontière de Gyirong et dévastent des zones le long de la rivière Trishuli, au Népal.",
+          "en": "A suspected glacier collapse on Langtang Lirung triggers flash floods that destroy the Gyirong border crossing and devastate areas along Nepal's Trishuli River.",
+          "es": "Un presunto colapso glaciar en el Langtang Lirung provoca inundaciones repentinas que destruyen el paso fronterizo de Gyirong y devastan zonas a lo largo del río Trishuli, en Nepal."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan confirmé au Népal atteint environ 1 386 morts, avec près de 5 130 personnes toujours portées disparues, tandis que des interrogations grandissent sur la communication chinoise concernant le versant tibétain de la catastrophe.",
+          "en": "Nepal's confirmed death toll reaches about 1,386 with roughly 5,130 people still missing, as questions grow over China's reporting on the Tibetan side of the disaster.",
+          "es": "El balance confirmado en Nepal alcanza unas 1.386 muertes, con cerca de 5.130 personas aún desaparecidas, mientras crecen las dudas sobre la información difundida por China sobre el lado tibetano del desastre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "india-delhi-satya-niketan-collapse",
+    "coords": [
+      77.1857,
+      28.5651
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Al Jazeera / Outlook India / News24",
+    "place": {
+      "fr": "Satya Niketan, Delhi Sud, Inde",
+      "en": "Satya Niketan, South Delhi, India",
+      "es": "Satya Niketan, Delhi Sur, India"
+    },
+    "title": {
+      "fr": "L'effondrement d'un immeuble de cinq étages dans un quartier étudiant de Delhi fait sept morts",
+      "en": "Five-storey building collapse in Delhi student housing area kills seven",
+      "es": "El derrumbe de un edificio de cinco pisos en una zona de alojamiento estudiantil de Delhi deja siete muertos"
+    },
+    "summary": {
+      "fr": "Le 7 septembre 2026, vers 13h30, un vieil immeuble de cinq étages utilisé comme résidence étudiante à Satya Niketan, dans le sud de Delhi, s'est effondré alors que des travaux de réparation étaient en cours dans son sous-sol, apparemment après une accumulation d'eau selon la cheffe du gouvernement de Delhi. Jusqu'à 40 personnes ont d'abord été craintes prisonnières des décombres ; une opération de secours utilisant des engins de chantier et des chiens détecteurs a permis de sortir 11 à 12 personnes vivantes, tandis que le bilan des morts est passé à sept. Le propriétaire de l'immeuble a ensuite été arrêté.",
+      "en": "On September 7, 2026, around 1:30 p.m., an old five-storey building used as student housing in Satya Niketan, South Delhi, collapsed while repair work was underway in its basement, reportedly after water accumulation according to Delhi's chief minister. Up to 40 people were initially feared trapped; a rescue operation using earthmovers and detection dogs pulled 11-12 people out alive, while the death toll rose to seven. The building's owner was later arrested.",
+      "es": "El 7 de septiembre de 2026, hacia la 1:30 de la tarde, un antiguo edificio de cinco pisos usado como alojamiento estudiantil en Satya Niketan, en el sur de Delhi, se derrumbó mientras se realizaban obras de reparación en su sótano, presuntamente tras una acumulación de agua, según la jefa de gobierno de Delhi. En un primer momento se temió que hasta 40 personas estuvieran atrapadas; una operación de rescate con maquinaria pesada y perros detectores logró sacar con vida a entre 11 y 12 personas, mientras el número de muertos subió a siete. El propietario del edificio fue detenido posteriormente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'immeuble s'effondre vers 13h30 pendant des travaux de réparation au sous-sol ; une vaste opération de secours est lancée.",
+          "en": "The building collapses around 1:30 p.m. during basement repair work; a large-scale rescue operation begins.",
+          "es": "El edificio se derrumba hacia la 1:30 de la tarde durante obras de reparación en el sótano; comienza una amplia operación de rescate."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan confirmé passe à sept morts à la fin de l'opération de secours ; le propriétaire de l'immeuble est arrêté par la suite.",
+          "en": "The confirmed death toll rises to seven as the rescue operation concludes; the building's owner is later arrested.",
+          "es": "El balance confirmado sube a siete muertos al concluir la operación de rescate; el propietario del edificio es detenido posteriormente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "india-brics-summit",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Press Information Bureau (Gouvernement indien) / NPR / Al Jazeera / CNBC",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Les dirigeants des BRICS adoptent la déclaration de New Delhi lors du sommet organisé par l'Inde",
+      "en": "BRICS leaders adopt New Delhi Declaration at summit hosted by India",
+      "es": "Los líderes de los BRICS adoptan la Declaración de Nueva Delhi en la cumbre organizada por India"
+    },
+    "summary": {
+      "fr": "L'Inde a accueilli le 18e sommet des BRICS à New Delhi les 12 et 13 septembre 2026, sur le thème « Bâtir la résilience, l'innovation, la coopération et la durabilité ». Des dirigeants tels que le président chinois Xi Jinping, le président russe Vladimir Poutine, le président iranien Masoud Pezeshkian, le président sud-africain Cyril Ramaphosa, le président égyptien Abdel Fattah al-Sissi et le président indonésien Prabowo Subianto y ont participé, aux côtés du premier ministre Narendra Modi. Le 12 septembre, le bloc a adopté une déclaration de New Delhi appelant à la retenue dans le conflit entre les États-Unis, Israël et l'Iran ainsi que dans la guerre en Ukraine, et demandant une fluidification du commerce mondial face aux tensions tarifaires américaines.",
+      "en": "India hosted the 18th BRICS Summit in New Delhi on September 12-13, 2026, under the theme 'Building for Resilience, Innovation, Cooperation and Sustainability.' Leaders including China's Xi Jinping, Russia's Vladimir Putin, Iran's Masoud Pezeshkian, South Africa's Cyril Ramaphosa, Egypt's Abdel Fattah el-Sisi and Indonesia's Prabowo Subianto attended alongside Prime Minister Narendra Modi. On September 12, the bloc adopted a New Delhi Declaration urging restraint amid the US-Israel-Iran conflict and the war in Ukraine, and calling for smoother global trade amid US tariff tensions.",
+      "es": "India fue anfitriona de la 18ª Cumbre de los BRICS en Nueva Delhi los días 12 y 13 de septiembre de 2026, bajo el lema «Construir resiliencia, innovación, cooperación y sostenibilidad». Asistieron líderes como el presidente chino Xi Jinping, el presidente ruso Vladimir Putin, el presidente iraní Masoud Pezeshkian, el presidente sudafricano Cyril Ramaphosa, el presidente egipcio Abdel Fattah al-Sisi y el presidente indonesio Prabowo Subianto, junto con el primer ministro Narendra Modi. El 12 de septiembre, el bloque adoptó una Declaración de Nueva Delhi que pide contención en el conflicto entre Estados Unidos, Israel e Irán y en la guerra en Ucrania, además de reclamar una mayor fluidez en el comercio mundial ante las tensiones arancelarias estadounidenses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "09/12/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Réunis à New Delhi, les dirigeants des BRICS adoptent à l'unanimité la déclaration de New Delhi.",
+          "en": "BRICS leaders meeting in New Delhi unanimously adopt the New Delhi Declaration.",
+          "es": "Reunidos en Nueva Delhi, los líderes de los BRICS adoptan por unanimidad la Declaración de Nueva Delhi."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "brazil-stf-moraes-mendonca-crisis",
+    "coords": [
+      -47.8608,
+      -15.8004
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "CNN Brasil / US News / Poder360 / DOL",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La Cour suprême du Brésil plongée dans la crise après que deux juges ont demandé des enquêtes l'un contre l'autre",
+      "en": "Brazil's Supreme Court plunged into crisis as two justices seek investigations against each other",
+      "es": "La Corte Suprema de Brasil entra en crisis tras pedirse mutuamente investigación dos de sus jueces"
+    },
+    "summary": {
+      "fr": "Début septembre 2026, le juge de la Cour suprême brésilienne André Mendonça a rendu public un rapport de la police fédérale suggérant des contacts inappropriés entre son collègue Alexandre de Moraes et un banquier au cœur d'une importante enquête pour fraude. Moraes a en retour accusé Mendonça d'abus d'autorité pour avoir divulgué ces documents, chacun demandant l'ouverture d'une enquête contre l'autre. Le président de la Cour, Edson Fachin, a programmé deux séances plénières distinctes — le 15 septembre sur une éventuelle enquête visant Moraes, et le 23 septembre sur la conduite de Mendonça lui-même — dans ce que des commentateurs décrivent comme l'une des plus grandes épreuves de crédibilité de la Cour depuis des années, à quelques semaines des élections générales du 4 octobre au Brésil.",
+      "en": "In early September 2026, Brazilian Supreme Court justice André Mendonça released a federal police report suggesting improper contact between fellow justice Alexandre de Moraes and a banker at the center of a major fraud investigation. Moraes in turn accused Mendonça of abuse of authority for releasing the documents, and each requested that the other be investigated. Court president Edson Fachin scheduled two separate plenary sessions — September 15 on a possible investigation into Moraes, and September 23 on Mendonça's own conduct — in what commentators describe as one of the biggest tests of the court's credibility in years, weeks before Brazil's October 4 general election.",
+      "es": "A principios de septiembre de 2026, el juez de la Corte Suprema de Brasil André Mendonça hizo público un informe de la policía federal que sugería contactos indebidos entre su colega Alexandre de Moraes y un banquero en el centro de una importante investigación por fraude. Moraes, a su vez, acusó a Mendonça de abuso de autoridad por divulgar esos documentos, y cada uno pidió que se investigara al otro. El presidente de la Corte, Edson Fachin, programó dos sesiones plenarias distintas —el 15 de septiembre sobre una posible investigación a Moraes, y el 23 de septiembre sobre la conducta del propio Mendonça—, en lo que los analistas describen como una de las mayores pruebas de credibilidad del tribunal en años, semanas antes de las elecciones generales del 4 de octubre en Brasil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "09/04/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "Les juges Mendonça et Moraes déposent des demandes concurrentes d'enquête l'un contre l'autre.",
+          "en": "Justices Mendonça and Moraes file competing requests for investigations against each other.",
+          "es": "Los jueces Mendonça y Moraes presentan solicitudes de investigación cruzadas entre sí."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le plénum de la Cour suprême doit décider s'il ouvre une enquête formelle visant le juge Moraes.",
+          "en": "The Supreme Court's plenary is set to decide whether to open a formal investigation into Justice Moraes.",
+          "es": "El pleno de la Corte Suprema debe decidir si abre una investigación formal contra el juez Moraes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "leipzig-drone-attack-russia-blame",
+    "coords": [
+      12.2416,
+      51.4324
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "CNN / NPR / Al Jazeera / Defense News",
+    "place": {
+      "fr": "Aéroport de Leipzig/Halle, Allemagne",
+      "en": "Leipzig/Halle Airport, Germany",
+      "es": "Aeropuerto de Leipzig/Halle, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne accuse la Russie d'une attaque de drone piégé à l'aéroport de Leipzig et relève son niveau de menace",
+      "en": "Germany blames Russia for explosive-laden drone attack at Leipzig airport, raises threat level",
+      "es": "Alemania culpa a Rusia de un ataque con drones cargados de explosivos en el aeropuerto de Leipzig y eleva su nivel de amenaza"
+    },
+    "summary": {
+      "fr": "Le ministre allemand de l'Intérieur Alexander Dobrindt a annoncé le 1er septembre 2026 que le gouvernement fédéral avait conclu que la Russie était responsable d'un incident de drone à l'aéroport de Leipzig/Halle, où un drone chargé d'explosifs avait été découvert le 4 août près d'un avion-cargo ukrainien, d'autres drones ayant été signalés à proximité dans les semaines suivantes. M. Dobrindt a relevé le niveau de menace de l'Allemagne, le faisant passer de « général » à « élevé », affirmant que le pays est « une cible quotidienne d'attaques hybrides ». En réponse, l'Allemagne a ordonné la fermeture du consulat général de Russie à Bonn et d'un centre culturel russe à Berlin.",
+      "en": "German Interior Minister Alexander Dobrindt announced on September 1, 2026 that the federal government had concluded Russia was responsible for a drone incident at Leipzig/Halle Airport, where an explosive-laden drone was found near a Ukrainian cargo plane on August 4, with further drones reported nearby in subsequent weeks. Dobrindt raised Germany's threat assessment from 'general' to 'high', saying the country is 'a daily target of hybrid attacks.' Germany ordered the closure of Russia's consulate general in Bonn and a Russian cultural centre in Berlin in response.",
+      "es": "El ministro alemán del Interior, Alexander Dobrindt, anunció el 1 de septiembre de 2026 que el gobierno federal había concluido que Rusia era responsable de un incidente con drones en el aeropuerto de Leipzig/Halle, donde el 4 de agosto se había hallado un dron cargado de explosivos cerca de un avión de carga ucraniano, y donde se reportaron más drones en las semanas siguientes. Dobrindt elevó el nivel de amenaza de Alemania de 'general' a 'alto', afirmando que el país es 'un blanco diario de ataques híbridos'. En respuesta, Alemania ordenó el cierre del consulado general de Rusia en Bonn y de un centro cultural ruso en Berlín."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/08/2026",
+          "en": "08/04/2026",
+          "es": "04/08/2026"
+        },
+        "d": {
+          "fr": "Un drone chargé d'explosifs est découvert près d'un avion-cargo ukrainien à l'aéroport de Leipzig/Halle et désamorcé.",
+          "en": "An explosive-laden drone is found near a Ukrainian cargo plane at Leipzig/Halle Airport and defused.",
+          "es": "Se halla y desactiva un dron cargado de explosivos cerca de un avión de carga ucraniano en el aeropuerto de Leipzig/Halle."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/09/2026",
+          "en": "09/01/2026",
+          "es": "01/09/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement allemand accuse publiquement la Russie de cet incident et relève son niveau de menace national à « élevé ».",
+          "en": "Germany's government publicly blames Russia for the incident and raises its national threat level to 'high'.",
+          "es": "El gobierno alemán culpa públicamente a Rusia del incidente y eleva su nivel de amenaza nacional a 'alto'."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "italy-storm-deaths-sinalunga-latisana",
+    "coords": [
+      11.7333,
+      43.3333
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪️",
+    "source": "ANSA / Sky TG24 / Il Fatto Quotidiano / La Nazione",
+    "place": {
+      "fr": "Sinalunga, Toscane, Italie",
+      "en": "Sinalunga, Tuscany, Italy",
+      "es": "Sinalunga, Toscana, Italia"
+    },
+    "title": {
+      "fr": "De violents orages font deux mortes en Toscane et en Frioul-Vénétie Julienne, en Italie",
+      "en": "Violent storms kill two women in Tuscany and Friuli-Venezia Giulia, Italy",
+      "es": "Fuertes tormentas dejan dos mujeres muertas en Toscana y Friuli-Venecia Julia, Italia"
+    },
+    "summary": {
+      "fr": "Un violent système orageux a balayé le centre et le nord de l'Italie les 9 et 10 septembre 2026, provoquant des inondations, la chute d'arbres et des centaines d'interventions d'urgence. À Sinalunga (province de Sienne, Toscane), une femme d'une quatre-vingtaine d'années est morte après qu'une tornade a brisé une fenêtre, un éclat de verre lui ayant sectionné une artère de la jambe. Par ailleurs, à Latisana (province d'Udine, Frioul-Vénétie Julienne), une femme s'est noyée après que sa voiture est restée bloquée dans un passage souterrain inondé. D'importants dégâts matériels ont également été signalés dans la région de Sienne.",
+      "en": "A severe storm system swept across central-northern Italy on September 9-10, 2026, causing flooding, fallen trees and hundreds of emergency call-outs. In Sinalunga (Siena province, Tuscany), a woman in her eighties died after a tornado shattered a window, with broken glass severing an artery in her leg. Separately, in Latisana (Udine province, Friuli-Venezia Giulia), a woman drowned after her car became trapped in a flooded underpass. Significant material damage was also reported in the Siena area.",
+      "es": "Un fuerte sistema de tormentas azotó el centro-norte de Italia los días 9 y 10 de septiembre de 2026, provocando inundaciones, caída de árboles y cientos de intervenciones de emergencia. En Sinalunga (provincia de Siena, Toscana), una mujer de unos ochenta años murió después de que un tornado rompiera una ventana y un fragmento de vidrio le seccionara una arteria de la pierna. Por separado, en Latisana (provincia de Udine, Friuli-Venecia Julia), una mujer murió ahogada tras quedar atrapado su coche en un paso subterráneo inundado. También se reportaron importantes daños materiales en la zona de Siena."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Une tornade tue une femme âgée à Sinalunga tandis qu'une inondation soudaine noie une femme à Latisana.",
+          "en": "A tornado kills an elderly woman in Sinalunga while a separate flash flood drowns a woman in Latisana.",
+          "es": "Un tornado mata a una mujer mayor en Sinalunga mientras que una inundación repentina ahoga a una mujer en Latisana."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "airbus-spain-strike-pause",
+    "coords": [
+      -3.7327,
+      40.3057
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "✈️",
+    "source": "Aviación Digital / Merca2 / Aerotime",
+    "place": {
+      "fr": "Getafe, région de Madrid, Espagne",
+      "en": "Getafe, Madrid Region, Spain",
+      "es": "Getafe, Comunidad de Madrid, España"
+    },
+    "title": {
+      "fr": "Les salariés d'Airbus en Espagne se prononcent sur la levée d'une grève illimitée après un préaccord salarial",
+      "en": "Airbus workers in Spain vote on lifting indefinite strike after pay pre-agreement",
+      "es": "Los trabajadores de Airbus en España votan sobre el levantamiento de una huelga indefinida tras un preacuerdo salarial"
+    },
+    "summary": {
+      "fr": "Une grève illimitée dans les usines espagnoles d'Airbus (Getafe, Puerto Real/Cadix, Tablada-Séville, Illescas et Albacete), déclenchée le 25 août 2026 sur la question des salaires, a abouti à un préaccord vers les 4-5 septembre grâce à une médiation du ministère espagnol de l'Industrie. Les 7 et 8 septembre, les assemblées de site ont voté sur la levée de la grève : les salariés de Cadix, Illescas, Tablada et Albacete ont voté pour la suspendre, tandis que Getafe — le plus grand site, avec environ 9 000 salariés — a voté de justesse pour la poursuivre. Malgré ce résultat partagé, l'intersyndicale a levé les piquets de grève dans tout le pays, un référendum contraignant sur l'accord global étant attendu plus tard en septembre.",
+      "en": "An indefinite strike at Airbus's Spanish plants (Getafe, Puerto Real/Cádiz, Tablada-Sevilla, Illescas and Albacete), which began on August 25, 2026 over pay, reached a preliminary agreement around September 4-5 following mediation by Spain's Ministry of Industry. On September 7-8, plant assemblies voted on whether to lift the strike: workers at Cádiz, Illescas, Tablada and Albacete voted to pause it, while Getafe — the largest site, with around 9,000 workers — voted narrowly to continue. Despite the split result, the strike committee removed pickets nationwide, with a binding referendum on the full agreement expected later in September.",
+      "es": "Una huelga indefinida en las plantas españolas de Airbus (Getafe, Puerto Real/Cádiz, Tablada-Sevilla, Illescas y Albacete), iniciada el 25 de agosto de 2026 por cuestiones salariales, llegó a un preacuerdo hacia el 4-5 de septiembre gracias a la mediación del Ministerio de Industria español. Los días 7 y 8 de septiembre, las asambleas de cada planta votaron sobre el levantamiento de la huelga: los trabajadores de Cádiz, Illescas, Tablada y Albacete votaron a favor de suspenderla, mientras que Getafe —la planta más grande, con unos 9.000 trabajadores— votó por escaso margen a favor de continuarla. Pese a este resultado dividido, el comité de huelga retiró los piquetes en todo el país, y se espera un referéndum vinculante sobre el acuerdo completo a finales de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "08/25/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Une grève illimitée débute dans les usines espagnoles d'Airbus sur la question des salaires.",
+          "en": "An indefinite strike begins across Airbus's Spanish plants over pay.",
+          "es": "Comienza una huelga indefinida en las plantas españolas de Airbus por cuestiones salariales."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les votes site par site donnent un résultat partagé ; l'intersyndicale suspend le mouvement dans tout le pays dans l'attente d'un référendum contraignant.",
+          "en": "Plant-by-plant votes produce a split result; the strike committee pauses the action nationwide pending a binding referendum.",
+          "es": "Las votaciones planta por planta arrojan un resultado dividido; el comité de huelga suspende la acción en todo el país a la espera de un referéndum vinculante."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "japan-kanto-record-rain",
+    "coords": [
+      140.88,
+      37.05
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌧️",
+    "source": "The Japan Times / Seoul Economic Daily / News On Japan",
+    "place": {
+      "fr": "Iwaki, préfecture de Fukushima, Japon",
+      "en": "Iwaki, Fukushima Prefecture, Japan",
+      "es": "Iwaki, prefectura de Fukushima, Japón"
+    },
+    "title": {
+      "fr": "Des pluies record inondent l'est du Japon, faisant un mort et provoquant des évacuations massives",
+      "en": "Record rainfall floods eastern Japan, killing one and forcing mass evacuations",
+      "es": "Lluvias récord inundan el este de Japón, dejando un muerto y provocando evacuaciones masivas"
+    },
+    "summary": {
+      "fr": "Les 7 et 8 septembre 2026, de l'air chaud et humide lié à un typhon, se combinant à un front pluvieux automnal, a déversé des pluies record sur l'est du Japon, y compris la région de Tokyo. À Iwaki, dans la préfecture de Fukushima, une femme d'une soixantaine d'années est morte après que sa voiture a été retrouvée submergée dans un passage souterrain inondé ; la ville a enregistré 199,5 mm de pluie en 24 heures, battant son précédent record de septembre. À Takahagi, dans la préfecture d'Ibaraki, des ordres d'évacuation ont été émis pour plus de 8 600 habitants, et l'installation anti-inondation dite « Temple souterrain » de Kasukabe, près de Tokyo, a été activée pour évacuer l'eau.",
+      "en": "On September 7-8, 2026, warm, humid air linked to a typhoon interacting with an autumn rain front dumped record rainfall on eastern Japan, including the Tokyo region. In Iwaki, Fukushima Prefecture, a woman in her sixties died after her car was found submerged in a flooded underpass; the city recorded 199.5mm of rain in 24 hours, breaking its previous September record. In Takahagi, Ibaraki Prefecture, evacuation orders were issued for over 8,600 residents, and Tokyo's 'Underground Temple' flood-control facility in Kasukabe was activated to divert floodwater.",
+      "es": "Los días 7 y 8 de septiembre de 2026, aire cálido y húmedo asociado a un tifón, combinado con un frente de lluvias otoñal, descargó lluvias récord sobre el este de Japón, incluida la región de Tokio. En Iwaki, prefectura de Fukushima, una mujer de unos sesenta años murió después de que su coche fuera hallado sumergido en un paso subterráneo inundado; la ciudad registró 199,5 mm de lluvia en 24 horas, batiendo su anterior récord de septiembre. En Takahagi, prefectura de Ibaraki, se emitieron órdenes de evacuación para más de 8.600 residentes, y se activó la instalación de control de inundaciones conocida como 'Templo Subterráneo', en Kasukabe, cerca de Tokio, para desviar el agua."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Des pluies record inondent l'est du Japon ; une femme meurt à Iwaki et des ordres d'évacuation massive sont émis dans la préfecture d'Ibaraki.",
+          "en": "Record rain floods eastern Japan; a woman dies in Iwaki and mass evacuation orders are issued in Ibaraki Prefecture.",
+          "es": "Lluvias récord inundan el este de Japón; una mujer muere en Iwaki y se emiten órdenes de evacuación masiva en la prefectura de Ibaraki."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-borno-darajamal-attack",
+    "coords": [
+      13.69,
+      11.52
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚔️",
+    "source": "Guardian Nigeria / BusinessDay NG / Vanguard NG",
+    "place": {
+      "fr": "Darajamal, près de Bama, État de Borno, Nigeria",
+      "en": "Darajamal, near Bama, Borno State, Nigeria",
+      "es": "Darajamal, cerca de Bama, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "Une faction de Boko Haram tue plus de 60 personnes dans l'attaque d'un village réinstallé de l'État de Borno",
+      "en": "Boko Haram faction kills over 60 people in attack on resettled Borno village",
+      "es": "Una facción de Boko Haram mata a más de 60 personas en el ataque a una aldea reasentada del estado de Borno"
+    },
+    "summary": {
+      "fr": "Dans la soirée du 5 septembre 2026, des combattants d'une faction dissidente de Boko Haram ont attaqué Darajamal, un village récemment réinstallé avec environ 3 000 personnes déplacées, près de Bama, dans l'État de Borno. Le coordinateur humanitaire de l'ONU pour le Nigeria a indiqué que les premiers rapports faisaient état d'environ 63 morts — environ 5 soldats et 58 civils — et d'au moins 28 maisons incendiées. L'armée nigériane aurait riposté par des frappes aériennes alors que les assaillants se retiraient, et l'ONU a publiquement appelé les autorités à traduire les responsables en justice.",
+      "en": "On the evening of September 5, 2026, fighters from a Boko Haram splinter faction attacked Darajamal, a village near Bama, Borno State, that had recently been resettled with about 3,000 displaced people. The UN's Humanitarian Coordinator for Nigeria said preliminary reports indicated around 63 people were killed — about 5 soldiers and 58 civilians — with at least 28 homes burned. The Nigerian military reportedly responded with airstrikes as the attackers withdrew, and the UN publicly urged authorities to bring the perpetrators to justice.",
+      "es": "En la noche del 5 de septiembre de 2026, combatientes de una facción escindida de Boko Haram atacaron Darajamal, una aldea recientemente reasentada con unas 3.000 personas desplazadas, cerca de Bama, en el estado de Borno. El coordinador humanitario de la ONU para Nigeria indicó que los primeros informes señalaban unos 63 muertos —unos 5 soldados y 58 civiles—, además de al menos 28 viviendas incendiadas. El ejército nigeriano habría respondido con ataques aéreos mientras los atacantes se retiraban, y la ONU pidió públicamente a las autoridades que llevaran a los responsables ante la justicia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Des combattants d'une faction de Boko Haram attaquent le village de Darajamal, incendiant des maisons et tuant des dizaines de personnes.",
+          "en": "Boko Haram faction fighters attack Darajamal village, burning homes and killing dozens.",
+          "es": "Combatientes de una facción de Boko Haram atacan la aldea de Darajamal, incendiando viviendas y matando a decenas de personas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "09/07/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'ONU chiffre publiquement le bilan à environ 63 morts et appelle à l'arrestation des responsables.",
+          "en": "The UN publicly puts the death toll at around 63 and calls for the perpetrators to be arrested.",
+          "es": "La ONU cifra públicamente el balance en unas 63 víctimas y pide la detención de los responsables."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "egypt-sarah-khalifa-death-sentence",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Al Jazeera / CNN / France 24 / Egypt Today",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Un tribunal du Caire condamne à mort la présentatrice télé Sarah Khalifa et 11 autres personnes dans une affaire de trafic de drogue",
+      "en": "Cairo court sentences TV presenter Sarah Khalifa and 11 others to death in drug-trafficking case",
+      "es": "Un tribunal de El Cairo condena a muerte a la presentadora de televisión Sarah Khalifa y a otras 11 personas en un caso de narcotráfico"
+    },
+    "summary": {
+      "fr": "Le 6 septembre 2026, un tribunal criminel du Caire a condamné à mort la présentatrice de télévision Sarah Khalifa, animatrice d'une émission consacrée aux affaires criminelles, ainsi que 11 coaccusés, dans une affaire impliquant 28 accusés et un gang organisé soupçonné d'avoir importé des substances destinées à la fabrication de stupéfiants de synthèse et détenu illégalement des armes à feu. Selon l'accusation, plus de 750 kg de stupéfiants et de précurseurs ont été saisis. Neuf autres accusés ont été condamnés à la perpétuité et sept ont été acquittés ; Sarah Khalifa a nié les faits et son avocat a annoncé qu'elle ferait appel.",
+      "en": "On September 6, 2026, a Cairo criminal court sentenced television presenter Sarah Khalifa, host of a crime program, along with 11 co-defendants, to death, in a 28-defendant case involving an organized gang accused of importing materials to manufacture synthetic narcotics and of illegal firearm possession. Prosecutors said more than 750 kg of narcotics and precursor materials were seized. Nine other defendants received life sentences and seven were acquitted; Khalifa has denied the charges and her lawyer said she will appeal.",
+      "es": "El 6 de septiembre de 2026, un tribunal penal de El Cairo condenó a muerte a la presentadora de televisión Sarah Khalifa, conductora de un programa sobre crímenes, junto con otros 11 coacusados, en una causa con 28 acusados relacionada con una banda organizada acusada de importar materiales para fabricar narcóticos sintéticos y de posesión ilegal de armas de fuego. La fiscalía indicó que se incautaron más de 750 kg de narcóticos y precursores. Otros nueve acusados recibieron cadena perpetua y siete fueron absueltos; Khalifa ha negado los cargos y su abogado anunció que apelará."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "09/06/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal criminel du Caire rend son verdict : 12 condamnations à mort, 9 peines de perpétuité et 7 acquittements.",
+          "en": "The Cairo Criminal Court hands down verdicts: 12 death sentences, 9 life terms and 7 acquittals.",
+          "es": "El tribunal penal de El Cairo dicta su veredicto: 12 condenas a muerte, 9 cadenas perpetuas y 7 absoluciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "indonesia-anak-krakatau-eruption",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera / Antara News",
+    "place": {
+      "fr": "Mont Anak Krakatau, détroit de la Sonde, Indonésie",
+      "en": "Mount Anak Krakatau, Sunda Strait, Indonesia",
+      "es": "Monte Anak Krakatau, estrecho de la Sonda, Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption de l'Anak Krakatau bloque des centaines de milliers de passagers aériens et recouvre de cendres des villages de Sumatra",
+      "en": "Anak Krakatau eruption strands hundreds of thousands of air passengers, blankets Sumatra villages in ash",
+      "es": "La erupción del Anak Krakatau deja varados a cientos de miles de pasajeros aéreos y cubre de ceniza a aldeas de Sumatra"
+    },
+    "summary": {
+      "fr": "À partir de la fin du 4 septembre 2026, le mont Anak Krakatau a connu une éruption continue d'environ 25 heures, avec des panaches de cendres atteignant environ 15 000 mètres, suivie de nouvelles éruptions les 6 et 8 septembre. Huit aéroports, dont le principal aéroport international de Jakarta, ont suspendu temporairement leurs opérations, entraînant l'annulation d'environ 1 558 vols et bloquant environ 270 000 passagers ; les cendres ont touché 146 villages et plus de 32 000 habitants dans le sud de Lampung. Aucune victime ni évacuation obligatoire n'a été signalée, et l'agence indonésienne de gestion des catastrophes a indiqué qu'il n'y avait pas de risque imminent de tsunami, bien que le volcan reste sous haute alerte avec une zone d'exclusion en vigueur.",
+      "en": "Beginning late on September 4, 2026, Mount Anak Krakatau produced a roughly 25-hour continuous eruption with ash plumes reaching about 50,000 feet, followed by further eruptions on September 6 and 8. Eight airports, including Jakarta's main international airport, temporarily suspended operations, cancelling around 1,558 flights and stranding an estimated 270,000 passengers; ash affected 146 villages and more than 32,000 residents in South Lampung. No casualties or mandatory evacuations were reported, and Indonesia's disaster agency said there was no imminent tsunami risk, though the volcano remained on high alert with an exclusion zone in place.",
+      "es": "Desde la noche del 4 de septiembre de 2026, el monte Anak Krakatau registró una erupción continua de unas 25 horas, con columnas de ceniza que alcanzaron cerca de 15.000 metros, seguida de nuevas erupciones el 6 y el 8 de septiembre. Ocho aeropuertos, incluido el principal aeropuerto internacional de Yakarta, suspendieron temporalmente sus operaciones, cancelando alrededor de 1.558 vuelos y dejando varados a unos 270.000 pasajeros; la ceniza afectó a 146 aldeas y a más de 32.000 residentes en el sur de Lampung. No se reportaron víctimas ni evacuaciones obligatorias, y la agencia indonesia de gestión de desastres indicó que no había riesgo inminente de tsunami, aunque el volcán se mantiene en alerta alta con una zona de exclusión vigente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "09/04/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "L'Anak Krakatau entame une éruption continue d'environ 25 heures, envoyant des panaches de cendres sur la région du détroit de la Sonde.",
+          "en": "Anak Krakatau begins a roughly 25-hour continuous eruption, sending ash plumes over the Sunda Strait region.",
+          "es": "El Anak Krakatau inicia una erupción continua de unas 25 horas, enviando columnas de ceniza sobre la región del estrecho de la Sonda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan entre de nouveau en éruption ; les autorités maintiennent un niveau d'alerte élevé et une zone d'exclusion de 3 km.",
+          "en": "The volcano erupts again; authorities maintain a high alert level and a 3km exclusion zone.",
+          "es": "El volcán entra en erupción de nuevo; las autoridades mantienen un nivel de alerta alto y una zona de exclusión de 3 km."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "ca-us-retaliatory-tariffs",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛃",
+    "source": "Gouvernement du Canada / CNN Business / Al Jazeera / Time",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Les tarifs de rétorsion du Canada contre les produits américains entrent en vigueur, aggravant la guerre commerciale",
+      "en": "Canada's retaliatory tariffs on US goods take effect, escalating trade war",
+      "es": "Entran en vigor los aranceles de represalia de Canadá contra productos estadounidenses, agravando la guerra comercial"
+    },
+    "summary": {
+      "fr": "À compter du 8 septembre 2026, le Canada a imposé des droits de douane de rétorsion de 15 %, 25 % et 50 % sur plus de 700 catégories de produits américains — soit environ 27,6 milliards de dollars canadiens d'importations, incluant l'acier, l'aluminium, les produits laitiers, l'électroménager et l'électronique — en réponse à des tarifs américains antérieurs. Cette mesure fait suite à l'imposition par les États-Unis, le 22 août 2026, d'un tarif de 50 % sur une valeur comparable de produits canadiens, après l'échec des négociations commerciales fin août ; le premier ministre de l'Ontario a évoqué publiquement la possibilité de couper les exportations d'électricité vers les États-Unis si le différend s'aggrave.",
+      "en": "Effective September 8, 2026, Canada imposed counter-tariffs of 15%, 25% and 50% on more than 700 categories of American goods — covering roughly CA$27.6 billion in imports, including steel, aluminum, dairy, appliances and electronics — matching earlier US tariffs. The move followed the United States imposing a 50% tariff on a similar value of Canadian goods on August 22, 2026, after trade talks broke down in late August; Ontario's premier has publicly floated cutting off electricity exports to the US if the dispute worsens further.",
+      "es": "A partir del 8 de septiembre de 2026, Canadá impuso aranceles de represalia del 15%, 25% y 50% sobre más de 700 categorías de productos estadounidenses —unos 27.600 millones de dólares canadienses en importaciones, incluidos acero, aluminio, lácteos, electrodomésticos y electrónica—, en respuesta a aranceles estadounidenses anteriores. La medida se produjo después de que Estados Unidos impusiera, el 22 de agosto de 2026, un arancel del 50% sobre un valor similar de productos canadienses, tras el fracaso de las negociaciones comerciales a fines de agosto; el primer ministro de Ontario planteó públicamente la posibilidad de cortar las exportaciones de electricidad a Estados Unidos si la disputa empeora."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "08/22/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis imposent un tarif de 50 % sur un large éventail de produits canadiens.",
+          "en": "The United States imposes a 50% tariff on a broad range of Canadian goods.",
+          "es": "Estados Unidos impone un arancel del 50% sobre una amplia gama de productos canadienses."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les tarifs de rétorsion canadiens visant plus de 700 catégories de produits américains entrent en vigueur.",
+          "en": "Canada's matching counter-tariffs on over 700 categories of US goods take effect.",
+          "es": "Entran en vigor los aranceles de represalia canadienses sobre más de 700 categorías de productos estadounidenses."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 1
+  },
+  {
+    "id": "southkorea-yoon-acquittal",
+    "coords": [
+      126.98,
+      37.5
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "South China Morning Post / The Korea Herald / The Korea Times",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Un tribunal de Séoul acquitte l'ancien président Yoon Suk Yeol dans une affaire liée à la noyade d'un marin",
+      "en": "Seoul court acquits former President Yoon Suk Yeol in case tied to a marine's drowning death",
+      "es": "Un tribunal de Seúl absuelve al expresidente Yoon Suk Yeol en un caso vinculado a la muerte por ahogamiento de un marine"
+    },
+    "summary": {
+      "fr": "Le 11 septembre 2026, le tribunal du district central de Séoul a acquitté l'ancien président sud-coréen Yoon Suk Yeol, poursuivi pour abus de pouvoir après avoir nommé, en 2023, un ancien ministre de la Défense ambassadeur en Australie afin de l'aider à échapper à une enquête pénale sur la noyade, la même année, du caporal des marines Chae Su-geun lors d'une opération de recherche et de secours après des inondations. Le procureur spécial indépendant avait requis une peine de cinq ans de prison ; le tribunal a estimé ne pas pouvoir établir de façon certaine que cette nomination visait à entraver l'enquête. Deux coaccusés ont également été acquittés.",
+      "en": "On September 11, 2026, the Seoul Central District Court acquitted former South Korean President Yoon Suk Yeol of charges that he abused his power by appointing a former defense minister as ambassador to Australia in 2023 in order to help him evade a criminal investigation into the 2023 drowning death of Marine Corporal Chae Su-geun during a flood search-and-rescue operation. The independent counsel had sought a five-year prison sentence; the court ruled it could not conclusively determine the appointment was meant to obstruct the investigation. Two co-defendants were also acquitted.",
+      "es": "El 11 de septiembre de 2026, el Tribunal del Distrito Central de Seúl absolvió al expresidente surcoreano Yoon Suk Yeol de los cargos de abuso de poder por nombrar en 2023 a un exministro de Defensa como embajador en Australia con el fin de ayudarlo a evadir una investigación penal por la muerte por ahogamiento, ese mismo año, del cabo de marines Chae Su-geun durante una operación de búsqueda y rescate tras unas inundaciones. El fiscal especial independiente había pedido una pena de cinco años de prisión; el tribunal determinó que no podía establecerse de forma concluyente que el nombramiento buscara obstruir la investigación. Otros dos coacusados también fueron absueltos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal du district central de Séoul acquitte Yoon Suk Yeol et deux coaccusés de toutes les charges.",
+          "en": "The Seoul Central District Court acquits Yoon Suk Yeol and two co-defendants of all charges.",
+          "es": "El Tribunal del Distrito Central de Seúl absuelve a Yoon Suk Yeol y a dos coacusados de todos los cargos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "mx-tecalitlan-cjng-hospital",
+    "coords": [
+      -103.25,
+      19.47
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏥",
+    "source": "Al Jazeera / El Financiero / El Universal",
+    "place": {
+      "fr": "Tecalitlán, Jalisco, Mexique",
+      "en": "Tecalitlán, Jalisco, Mexico",
+      "es": "Tecalitlán, Jalisco, México"
+    },
+    "title": {
+      "fr": "Les autorités mexicaines démantèlent un « hôpital » clandestin du cartel CJNG et libèrent huit captifs",
+      "en": "Mexican authorities dismantle clandestine CJNG cartel 'hospital', freeing eight captives",
+      "es": "Autoridades mexicanas desmantelan un 'hospital' clandestino del cártel CJNG y liberan a ocho cautivos"
+    },
+    "summary": {
+      "fr": "Le 10 septembre 2026, une opération conjointe des autorités fédérales et de l'État de Jalisco a permis de perquisitionner une propriété rurale à Tecalitlán, que le cartel Jalisco Nouvelle Génération (CJNG) utilisait selon les enquêteurs comme clinique pour soigner des hommes armés blessés. Les enquêteurs, à la recherche d'un jeune homme porté disparu depuis juillet, l'ont retrouvé vivant aux côtés de huit autres hommes âgés de 16 à 43 ans, qui auraient été enrôlés de force par le cartel. Six gardes présumés ont été arrêtés, et les autorités ont saisi du matériel médical, des vêtements tactiques et des munitions.",
+      "en": "On September 10, 2026, a joint state-federal operation raided a rural property in Tecalitlán, Jalisco, that the Jalisco New Generation Cartel (CJNG) was allegedly using as a clinic to treat wounded gunmen. Investigators, searching for a young man reported missing since July, found him alive along with eight other men aged 16-43 who had allegedly been forced into cartel service. Six suspected guards were arrested, and authorities seized medical supplies, tactical clothing and ammunition.",
+      "es": "El 10 de septiembre de 2026, un operativo conjunto estatal y federal allanó una propiedad rural en Tecalitlán, Jalisco, que el Cártel Jalisco Nueva Generación (CJNG) presuntamente usaba como clínica para tratar a pistoleros heridos. Los investigadores, que buscaban a un joven desaparecido desde julio, lo encontraron con vida junto a otros ocho hombres de entre 16 y 43 años que habrían sido reclutados a la fuerza por el cártel. Seis presuntos vigilantes fueron detenidos, y las autoridades incautaron insumos médicos, ropa táctica y municiones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Les autorités perquisitionnent la clinique clandestine de Tecalitlán, secourant neuf captifs et arrêtant six gardes présumés.",
+          "en": "Authorities raid the clandestine clinic in Tecalitlán, rescuing nine captives and arresting six suspected guards.",
+          "es": "Las autoridades allanan la clínica clandestina de Tecalitlán, rescatando a nueve cautivos y deteniendo a seis presuntos vigilantes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "kyiv-strikes-resume-sept8-2026",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / CNN / ABC News / Al Jazeera",
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "La Russie frappe Kiev avec des drones et des missiles, faisant cinq morts, mettant fin à une pause liée à une mission de paix américaine",
+      "en": "Russia strikes Kyiv with drones and missiles, killing five, as pause tied to US peace mission ends",
+      "es": "Rusia ataca Kiev con drones y misiles, matando a cinco personas, poniendo fin a una pausa vinculada a una misión de paz estadounidense"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 8 septembre 2026, des drones et des missiles russes ont frappé Kiev, faisant au moins cinq morts et des dizaines de blessés, selon les autorités ukrainiennes. Les frappes ont endommagé plus d'une dizaine de bâtiments, dont une école, un dortoir et une clinique, dans plusieurs quartiers. L'attaque a eu lieu immédiatement après une brève pause survenue lors d'une visite d'émissaires américains à Kiev et à Moscou dans le cadre de nouvelles négociations de paix ; aucun cessez-le-feu ni désescalade n'avait été confirmé au 13 septembre.",
+      "en": "In the early hours of September 8, 2026, Russian drones and missiles struck Kyiv, killing at least five people and injuring dozens, according to Ukrainian officials. The strikes damaged more than a dozen buildings including a school, a dormitory and a clinic across several districts. The attack came immediately after a brief pause during a visit by US envoys to Kyiv and Moscow for renewed peace talks; no ceasefire or de-escalation had been confirmed as of September 13.",
+      "es": "En las primeras horas del 8 de septiembre de 2026, drones y misiles rusos atacaron Kiev, matando al menos a cinco personas e hiriendo a decenas, según las autoridades ucranianas. Los ataques dañaron más de una decena de edificios, incluidos una escuela, una residencia estudiantil y una clínica, en varios distritos. El ataque se produjo inmediatamente después de una breve pausa durante una visita de enviados estadounidenses a Kiev y Moscú para retomar las negociaciones de paz; hasta el 13 de septiembre no se había confirmado ningún alto el fuego ni desescalada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Des drones et des missiles russes frappent Kiev dans la nuit, tuant au moins cinq personnes et endommageant des habitations, une école et une clinique.",
+          "en": "Russian drones and missiles strike Kyiv overnight, killing at least five people and damaging homes, a school and a clinic.",
+          "es": "Drones y misiles rusos atacan Kiev durante la noche, matando al menos a cinco personas y dañando viviendas, una escuela y una clínica."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "week": "2026-W37",
+    "priority": 2
+  },
+  {
+    "id": "pakistan-monsoon-floods-sept2026",
+    "coords": [
+      71.5249,
+      34.0151
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "The Express Tribune / PropPakistani / Daily Times / NDMA Pakistan",
+    "place": {
+      "fr": "Khyber Pakhtunkhwa, Pakistan",
+      "en": "Khyber Pakhtunkhwa, Pakistan",
+      "es": "Jyber Pajtunjuá, Pakistán"
+    },
+    "title": {
+      "fr": "Le bilan de la mousson 2026 au Pakistan atteint 180 morts, les autorités émettant de nouvelles alertes aux inondations",
+      "en": "Pakistan's 2026 monsoon death toll reaches 180 as authorities issue fresh flood alerts",
+      "es": "El balance de muertos por el monzón de 2026 en Pakistán llega a 180 mientras las autoridades emiten nuevas alertas de inundación"
+    },
+    "summary": {
+      "fr": "L'Autorité nationale pakistanaise de gestion des catastrophes a indiqué que les incidents liés à la mousson survenus entre le 26 juin et le 3 septembre 2026 avaient fait 180 morts, dont 82 enfants, et 509 blessés à travers le pays. Le 4 septembre, l'agence a déclaré « critiques » les 72 heures suivantes, avertissant de fortes pluies, de crues soudaines, de glissements de terrain et d'un risque de vidange brutale de lac glaciaire dans le Gilgit-Baltistan, l'Azad Jammu-et-Cachemire et le nord du Khyber Pakhtunkhwa, un nouvel épisode de mousson étant prévu mi-septembre pour menacer les villes du Pendjab.",
+      "en": "Pakistan's National Disaster Management Authority reported that monsoon-related incidents between June 26 and September 3, 2026 had killed 180 people, including 82 children, and injured 509 others nationwide. On September 4, the agency declared the following 72 hours 'critical', warning of heavy rain, flash floods, landslides and glacial lake outburst flood risk across Gilgit-Baltistan, Azad Jammu and Kashmir, and upper Khyber Pakhtunkhwa, with a further monsoon spell forecast to threaten Punjab's cities in mid-September.",
+      "es": "La Autoridad Nacional de Gestión de Desastres de Pakistán informó de que los incidentes relacionados con el monzón entre el 26 de junio y el 3 de septiembre de 2026 habían dejado 180 muertos, incluidos 82 niños, y 509 heridos en todo el país. El 4 de septiembre, la agencia declaró 'críticas' las siguientes 72 horas, advirtiendo de fuertes lluvias, inundaciones repentinas, deslizamientos de tierra y riesgo de vaciado brusco de lagos glaciares en Gilgit-Baltistán, Azad Jammu y Cachemira, y el norte de Khyber Pakhtunkhwa, con un nuevo episodio de monzón previsto a mediados de septiembre que amenaza las ciudades de Punyab."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/09/2026",
+          "en": "09/04/2026",
+          "es": "04/09/2026"
+        },
+        "d": {
+          "fr": "La NDMA fait état d'un bilan cumulé de 180 morts depuis le 26 juin liés à la mousson et déclare critiques les 72 heures suivantes pour le nord du Pakistan.",
+          "en": "NDMA reports a cumulative monsoon death toll of 180 since June 26 and declares the next 72 hours critical for northern Pakistan.",
+          "es": "La NDMA informa de un balance acumulado de 180 muertos desde el 26 de junio por el monzón y declara críticas las siguientes 72 horas para el norte de Pakistán."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "bangladesh-rab-dissolution-srb-act-sept2026",
+    "coords": [
+      90.3792,
+      23.7627
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Dhaka Tribune / The Business Standard / The Daily Ittefaq",
+    "place": {
+      "fr": "Dacca, Bangladesh",
+      "en": "Dhaka, Bangladesh",
+      "es": "Daca, Bangladés"
+    },
+    "title": {
+      "fr": "Le Parlement du Bangladesh adopte une loi abolissant le Bataillon d'action rapide",
+      "en": "Bangladesh's parliament passes law abolishing the Rapid Action Battalion",
+      "es": "El Parlamento de Bangladés aprueba una ley que abole el Batallón de Acción Rápida"
+    },
+    "summary": {
+      "fr": "Le 10 septembre 2026, le Parlement du Bangladesh a adopté la loi sur le Bataillon de réponse spéciale (SRB), ouvrant formellement la voie à la dissolution du Bataillon d'action rapide (RAB), une force paramilitaire longtemps accusée d'exécutions extrajudiciaires et de disparitions forcées sous le gouvernement précédent. Le nouveau SRB reprend directement le personnel, les moyens et les prérogatives du RAB au sein de la police nationale. Des parlementaires de l'opposition et Transparency International Bangladesh ont averti que la nouvelle force pourrait n'être en réalité que « le RAB sous un autre nom », avec de faibles garanties de reddition de comptes.",
+      "en": "On September 10, 2026, Bangladesh's parliament passed the Special Response Battalion (SRB) Act, formally paving the way for the dissolution of the Rapid Action Battalion (RAB), a paramilitary force long accused of extrajudicial killings and enforced disappearances under the previous government. The new SRB directly inherits RAB's personnel, assets and powers under the national police. Opposition lawmakers and Transparency International Bangladesh warned the new force could effectively be 'RAB under a different name' with weak accountability safeguards.",
+      "es": "El 10 de septiembre de 2026, el Parlamento de Bangladés aprobó la Ley del Batallón de Respuesta Especial (SRB), que abre formalmente el camino para la disolución del Batallón de Acción Rápida (RAB), una fuerza paramilitar acusada durante años de ejecuciones extrajudiciales y desapariciones forzadas bajo el gobierno anterior. El nuevo SRB hereda directamente el personal, los bienes y las atribuciones del RAB dentro de la policía nacional. Legisladores de la oposición y Transparencia Internacional Bangladés advirtieron de que la nueva fuerza podría ser en la práctica 'el RAB con otro nombre', con débiles garantías de rendición de cuentas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le Parlement adopte la loi SRB à main levée, ouvrant la voie à la dissolution du RAB.",
+          "en": "Parliament passes the SRB Act by voice vote, paving the way for RAB's dissolution.",
+          "es": "El Parlamento aprueba la Ley SRB por votación a mano alzada, abriendo el camino a la disolución del RAB."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
+  },
+  {
+    "id": "dr-congo-bukavu-school-fire",
+    "coords": [
+      28.8608,
+      -2.5083
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / Africanews",
+    "place": {
+      "fr": "Bukavu, Sud-Kivu, République démocratique du Congo",
+      "en": "Bukavu, South Kivu, Democratic Republic of the Congo",
+      "es": "Bukavu, Kivu del Sur, República Democrática del Congo"
+    },
+    "title": {
+      "fr": "Un incendie ravage des habitations et deux écoles à Bukavu, sous contrôle rebelle en RDC, tuant au moins 24 enfants",
+      "en": "Fire tears through homes and two schools in rebel-held Bukavu, DR Congo, killing at least 24 children",
+      "es": "Un incendio arrasa viviendas y dos escuelas en Bukavu, bajo control rebelde en la RD del Congo, matando al menos a 24 niños"
+    },
+    "summary": {
+      "fr": "Dans la matinée du 10 septembre 2026, un incendie s'est déclaré dans une habitation du quartier de Chimpunda, à Bukavu, chef-lieu de la province du Sud-Kivu, et s'est rapidement propagé à des centaines d'habitations voisines avant d'atteindre deux écoles. Selon les informations disponibles, le bilan se situe entre 24 et 29 morts, presque tous des écoliers, et environ 29 autres personnes ont été blessées. Entre 300 et 500 habitations ainsi qu'un dispensaire voisin auraient été détruits ; la cause exacte n'avait pas été établie officiellement. Bukavu est sous le contrôle de la coalition rebelle AFC/M23, soutenue par le Rwanda, depuis février 2025.",
+      "en": "On the morning of September 10, 2026, a fire broke out in a home in the Chimpunda neighbourhood of Bukavu, capital of South Kivu province, and spread rapidly through hundreds of nearby homes before reaching two schools. Reports put the death toll at between 24 and 29, almost all schoolchildren, with around 29 more injured. Between 300 and 500 homes and a nearby clinic were reportedly destroyed; the exact cause had not been officially established. Bukavu has been controlled by the Rwanda-backed AFC/M23 rebel coalition since February 2025.",
+      "es": "En la mañana del 10 de septiembre de 2026, se declaró un incendio en una vivienda del barrio de Chimpunda, en Bukavu, capital de la provincia de Kivu del Sur, que se propagó rápidamente por cientos de viviendas cercanas antes de alcanzar dos escuelas. Según los informes, el balance de víctimas se sitúa entre 24 y 29 muertos, casi todos escolares, y unas 29 personas más resultaron heridas. Entre 300 y 500 viviendas y una clínica cercana habrían sido destruidas; la causa exacta no había sido establecida oficialmente. Bukavu está bajo el control de la coalición rebelde AFC/M23, respaldada por Ruanda, desde febrero de 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Un incendie parti d'une habitation se propage dans le quartier de Chimpunda et à deux écoles, tuant au moins 24 enfants.",
+          "en": "A fire starting in a home spreads through the Chimpunda neighbourhood and two schools, killing at least 24 children.",
+          "es": "Un incendio iniciado en una vivienda se propaga por el barrio de Chimpunda y dos escuelas, matando al menos a 24 niños."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W37",
+    "priority": 3
   }
 ]
