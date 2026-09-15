@@ -829,5 +829,1080 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "missouri-redecoupage",
+    "coords": [
+      -92.1735,
+      38.5767
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / The Washington Post / Al Jazeera",
+    "place": {
+      "fr": "Missouri, États-Unis",
+      "en": "Missouri, United States",
+      "es": "Misuri, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le découpage électoral du Missouri plongé dans l'incertitude juridique",
+      "en": "Missouri's congressional map thrown into legal limbo",
+      "es": "El nuevo mapa electoral de Misuri queda en un limbo legal"
+    },
+    "summary": {
+      "fr": "La Cour suprême des États-Unis a refusé de rétablir une nouvelle carte électorale favorable aux républicains dans le Missouri, avant qu'un juge fédéral n'ordonne, quelques heures plus tard, l'utilisation de cette même carte pour les élections de mi-mandat de novembre. La situation juridique reste confuse à quelques semaines du scrutin.",
+      "en": "The U.S. Supreme Court declined to reinstate a new Republican-favored congressional map in Missouri, only for a federal judge to order its use for the November midterms hours later. The legal situation remains unsettled weeks before the vote.",
+      "es": "La Corte Suprema de Estados Unidos se negó a restablecer un nuevo mapa electoral favorable a los republicanos en Misuri, pero horas después un juez federal ordenó usar ese mismo mapa para las elecciones de mitad de mandato de noviembre. La situación legal sigue sin resolverse semanas antes de la votación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême, via le juge Brett Kavanaugh, rejette la demande républicaine de rétablir la carte électorale controversée.",
+          "en": "The Supreme Court, via Justice Brett Kavanaugh, rejects the Republican request to reinstate the contested map.",
+          "es": "La Corte Suprema, a través del juez Brett Kavanaugh, rechaza la solicitud republicana de restablecer el mapa impugnado."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Un juge fédéral, Stephen Clark, ordonne à l'inverse d'utiliser cette carte pour les élections de novembre, créant une contradiction judiciaire.",
+          "en": "Federal judge Stephen Clark instead orders the map to be used for the November elections, creating a judicial contradiction.",
+          "es": "El juez federal Stephen Clark ordena, en cambio, usar ese mapa para las elecciones de noviembre, generando una contradicción judicial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "lucas-fire-californie",
+    "coords": [
+      -123.0,
+      39.3
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "CAL FIRE / San Francisco Chronicle",
+    "place": {
+      "fr": "Comtés de Lake et Mendocino, Californie, États-Unis",
+      "en": "Lake and Mendocino counties, California, United States",
+      "es": "Condados de Lake y Mendocino, California, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le feu de forêt « Lucas » progresse en Californie, évacuations en cours",
+      "en": "The Lucas Fire spreads in California, evacuations under way",
+      "es": "El incendio forestal «Lucas» avanza en California, evacuaciones en curso"
+    },
+    "summary": {
+      "fr": "Un incendie déclenché le 10 septembre près de la limite des comtés de Lake et Mendocino a rapidement progressé sous l'effet du vent, atteignant plus de 4 100 acres. Des ordres d'évacuation obligatoire ont été émis pour plusieurs secteurs du comté de Lake.",
+      "en": "A wildfire that broke out on September 10 near the Lake-Mendocino county line spread rapidly in windy conditions, reaching more than 4,100 acres. Mandatory evacuation orders were issued for several zones in Lake County.",
+      "es": "Un incendio que estalló el 10 de septiembre cerca del límite entre los condados de Lake y Mendocino se propagó rápidamente por el viento, superando las 4.100 hectáreas (acres). Se emitieron órdenes de evacuación obligatoria para varias zonas del condado de Lake."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Le feu Lucas se déclare près de la limite des comtés de Lake et Mendocino et atteint environ 1 099 acres en 24 heures.",
+          "en": "The Lucas Fire ignites near the Lake-Mendocino county line and reaches about 1,099 acres within 24 hours.",
+          "es": "El incendio Lucas se declara cerca del límite de los condados de Lake y Mendocino y alcanza unas 1.099 hectáreas en 24 horas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "L'incendie atteint environ 4 109 acres et est contenu à 25 %, après avoir déclenché des évacuations obligatoires dans huit secteurs du comté de Lake.",
+          "en": "The fire reaches about 4,109 acres and is 25% contained, after triggering mandatory evacuations in eight Lake County zones.",
+          "es": "El incendio alcanza unas 4.109 hectáreas y está contenido en un 25 %, tras provocar evacuaciones obligatorias en ocho zonas del condado de Lake."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "canada-contre-tarifs",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛃",
+    "source": "Gouvernement du Canada / Bloomberg",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada active ses contre-tarifs face aux droits de douane américains",
+      "en": "Canada activates counter-tariffs against U.S. duties",
+      "es": "Canadá activa sus aranceles de represalia frente a los derechos de aduana de EE. UU."
+    },
+    "summary": {
+      "fr": "Depuis le 8 septembre, le Canada applique des contre-tarifs de 15 %, 25 % et 50 % sur environ 20 à 27,6 milliards de dollars canadiens de produits américains, en réponse aux droits de douane imposés par Washington sur les exportations canadiennes. Le premier ministre Mark Carney reconnaît un coût pour les consommateurs canadiens mais défend une réponse « proportionnée ».",
+      "en": "Since September 8, Canada has applied counter-tariffs of 15%, 25% and 50% on roughly CAD 20-27.6 billion of U.S. goods, in response to duties imposed by Washington on Canadian exports. Prime Minister Mark Carney acknowledges a cost for Canadian consumers but defends a 'proportionate' response.",
+      "es": "Desde el 8 de septiembre, Canadá aplica aranceles de represalia del 15 %, 25 % y 50 % sobre unos 20.000 a 27.600 millones de dólares canadienses en productos estadounidenses, en respuesta a los derechos de aduana impuestos por Washington a las exportaciones canadienses. El primer ministro Mark Carney reconoce un costo para los consumidores canadienses, pero defiende una respuesta «proporcionada»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/08/2026",
+          "en": "22/08/2026",
+          "es": "22/08/2026"
+        },
+        "d": {
+          "fr": "Le Canada annonce ses contre-mesures, en réaction à un droit de douane américain de 50 % sur environ 27,6 milliards de dollars de produits canadiens.",
+          "en": "Canada announces its countermeasures, in response to a 50% U.S. tariff on about $27.6 billion of Canadian goods.",
+          "es": "Canadá anuncia sus contramedidas, en respuesta a un arancel estadounidense del 50 % sobre unos 27.600 millones de dólares en productos canadienses."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les contre-tarifs canadiens entrent en vigueur, visant l'acier, les produits laitiers, l'électroménager et l'électronique américains.",
+          "en": "Canada's counter-tariffs take effect, targeting U.S. steel, dairy, appliances and electronics.",
+          "es": "Los aranceles de represalia canadienses entran en vigor, dirigidos al acero, los lácteos, los electrodomésticos y la electrónica estadounidenses."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "culiacan-marche-paix",
+    "coords": [
+      -107.394,
+      24.8091
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "AFP",
+    "place": {
+      "fr": "Culiacán, État de Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa State, Mexico",
+      "es": "Culiacán, estado de Sinaloa, México"
+    },
+    "title": {
+      "fr": "Marche blanche à Culiacán contre les violences du cartel de Sinaloa",
+      "en": "White march in Culiacán against Sinaloa cartel violence",
+      "es": "Marcha blanca en Culiacán contra la violencia del cártel de Sinaloa"
+    },
+    "summary": {
+      "fr": "Plusieurs milliers d'habitants de Culiacán ont défilé le 13 septembre, vêtus de blanc, pour réclamer la fin de la guerre interne que se livrent des factions du cartel de Sinaloa depuis septembre 2024. La marche, organisée par l'Église catholique et des familles de disparus, a suivi la mort de deux jeunes frères pris dans les violences.",
+      "en": "Several thousand residents of Culiacán marched on September 13, dressed in white, to demand an end to the internal war being waged by factions of the Sinaloa cartel since September 2024. The march, organized by the Catholic Church and families of missing persons, followed the killing of two young brothers caught up in the violence.",
+      "es": "Varios miles de habitantes de Culiacán marcharon el 13 de septiembre, vestidos de blanco, para exigir el fin de la guerra interna entre facciones del cártel de Sinaloa que dura desde septiembre de 2024. La marcha, organizada por la Iglesia católica y familias de personas desaparecidas, se produjo tras la muerte de dos hermanos jóvenes atrapados en la violencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "12/09/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Une nouvelle flambée de violence à Culiacán fait plusieurs morts, dont deux femmes, dans des fusillades distinctes.",
+          "en": "A fresh wave of violence in Culiacán leaves several dead, including two women, in separate shootings.",
+          "es": "Un nuevo brote de violencia en Culiacán deja varios muertos, entre ellos dos mujeres, en tiroteos distintos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Des milliers de personnes marchent jusqu'à la cathédrale de Culiacán pour exiger l'arrêt des violences entre factions rivales.",
+          "en": "Thousands march to Culiacán's cathedral to demand an end to the violence between rival factions.",
+          "es": "Miles de personas marchan hasta la catedral de Culiacán para exigir el fin de la violencia entre facciones rivales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "stf-moraes-vorcaro",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Agência Brasil / O Povo",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Session inédite de la Cour suprême brésilienne sur les échanges entre un juge et un banquier déchu",
+      "en": "Unprecedented Brazilian Supreme Court session over exchanges between a justice and a fallen banker",
+      "es": "Sesión inédita del Supremo brasileño sobre los mensajes entre un juez y un banquero caído"
+    },
+    "summary": {
+      "fr": "Le Tribunal fédéral suprême (STF) a tenu le 15 septembre une session exceptionnelle pour examiner d'éventuelles poursuites contre le juge Alexandre de Moraes, après la divulgation de conversations avec Daniel Vorcaro, ex-dirigeant de la banque Master, dont l'effondrement a déclenché une crise institutionnelle.",
+      "en": "Brazil's Supreme Federal Tribunal (STF) held an exceptional session on September 15 to consider possible proceedings against Justice Alexandre de Moraes, after the disclosure of conversations with Daniel Vorcaro, former head of Banco Master, whose collapse triggered an institutional crisis.",
+      "es": "El Tribunal Supremo Federal (STF) celebró el 15 de septiembre una sesión excepcional para examinar posibles actuaciones contra el juez Alexandre de Moraes, tras conocerse conversaciones con Daniel Vorcaro, exdirectivo del Banco Master, cuyo colapso desencadenó una crisis institucional."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Le président du STF, Edson Fachin, fixe les règles de la session après avoir retiré le dossier au juge André Mendonça.",
+          "en": "STF President Edson Fachin sets the session's rules after reassigning the case away from Justice André Mendonça.",
+          "es": "El presidente del STF, Edson Fachin, fija las reglas de la sesión tras retirar el caso al juez André Mendonça."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le STF ouvre une session plénière inédite pour décider s'il autorise une enquête sur le juge Alexandre de Moraes.",
+          "en": "The STF opens an unprecedented plenary session to decide whether to authorize an investigation into Justice Alexandre de Moraes.",
+          "es": "El STF abre una sesión plenaria inédita para decidir si autoriza una investigación sobre el juez Alexandre de Moraes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "vale-ribeira-inondations",
+    "coords": [
+      -48.4967,
+      -24.7761
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "O Povo / ND Mais",
+    "place": {
+      "fr": "Vale do Ribeira, État de São Paulo, Brésil",
+      "en": "Vale do Ribeira, São Paulo State, Brazil",
+      "es": "Vale do Ribeira, estado de São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "Crues dans le Vale do Ribeira : plus de 150 familles déplacées",
+      "en": "Flooding in Vale do Ribeira displaces more than 150 families",
+      "es": "Crecidas en el Vale do Ribeira desplazan a más de 150 familias"
+    },
+    "summary": {
+      "fr": "De fortes pluies survenues entre le 11 et le 13 septembre ont fait déborder le fleuve Ribeira, submergeant partiellement la ville d'Eldorado et isolant plusieurs quartiers. Environ 152 familles ont été relogées dans 19 abris temporaires ; les municipalités de Barra do Turvo, Iporanga et Eldorado ont décrété l'état d'urgence.",
+      "en": "Heavy rain between September 11 and 13 caused the Ribeira River to overflow, partially submerging the town of Eldorado and cutting off several neighborhoods. About 152 families were moved into 19 temporary shelters; the municipalities of Barra do Turvo, Iporanga and Eldorado declared a state of emergency.",
+      "es": "Las fuertes lluvias entre el 11 y el 13 de septiembre hicieron desbordar el río Ribeira, sumergiendo parcialmente la localidad de Eldorado y aislando varios barrios. Unas 152 familias fueron trasladadas a 19 refugios temporales; los municipios de Barra do Turvo, Iporanga y Eldorado declararon el estado de emergencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Le fleuve Ribeira sort de son lit et submerge partiellement la ville d'Eldorado.",
+          "en": "The Ribeira River overflows and partially submerges the town of Eldorado.",
+          "es": "El río Ribeira se desborda y sumerge parcialmente la localidad de Eldorado."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur de São Paulo déploie 16 bateaux et deux hélicoptères ; les autorités visitent cinq communautés quilombolas isolées à Eldorado.",
+          "en": "São Paulo's governor deploys 16 boats and two helicopters; authorities visit five isolated quilombola communities in Eldorado.",
+          "es": "El gobernador de São Paulo despliega 16 botes y dos helicópteros; las autoridades visitan cinco comunidades quilombolas aisladas en Eldorado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "gyirong-crue-glaciaire",
+    "coords": [
+      85.3,
+      28.85
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏔️",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Gyirong, région autonome du Tibet, Chine",
+      "en": "Gyirong, Tibet Autonomous Region, China",
+      "es": "Gyirong, región autónoma del Tíbet, China"
+    },
+    "title": {
+      "fr": "Le poste-frontière de Gyirong dévasté par une crue glaciaire venue de l'Himalaya",
+      "en": "Gyirong border crossing devastated by a Himalayan glacial flood",
+      "es": "El paso fronterizo de Gyirong, devastado por una crecida glaciar del Himalaya"
+    },
+    "summary": {
+      "fr": "L'effondrement d'un glacier sur le mont Langtang Lirung, le 26 août, a provoqué une coulée de débris qui a détruit le poste-frontière de Gyirong, entre la Chine et le Népal, ainsi que plusieurs villages. Le bilan combiné des deux côtés de la frontière dépassait 1 000 morts début septembre, avec plusieurs milliers de personnes toujours portées disparues ; les chiffres précis côté chinois restent incertains.",
+      "en": "The collapse of a glacier on Langtang Lirung on August 26 triggered a debris flow that destroyed the Gyirong border crossing between China and Nepal, along with several villages. The combined toll on both sides of the border exceeded 1,000 dead by early September, with thousands still missing; precise figures for the Chinese side remain uncertain.",
+      "es": "El colapso de un glaciar en el monte Langtang Lirung, el 26 de agosto, provocó un flujo de escombros que destruyó el paso fronterizo de Gyirong, entre China y Nepal, además de varias aldeas. El balance combinado de ambos lados de la frontera superaba los 1.000 muertos a principios de septiembre, con miles de personas aún desaparecidas; las cifras precisas del lado chino siguen siendo inciertas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Un glacier s'effondre sur le mont Langtang Lirung, déclenchant une coulée de débris dévastatrice le long du bassin du Bhote Koshi.",
+          "en": "A glacier collapses on Langtang Lirung, triggering a devastating debris flow down the Bhote Koshi basin.",
+          "es": "Un glaciar colapsa en el monte Langtang Lirung, desencadenando un flujo de escombros devastador en la cuenca del Bhote Koshi."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les secours rouvrent la route menant au poste de Gyirong, toujours fermé au trafic non essentiel ; le sort de centaines de personnes reste incertain.",
+          "en": "Rescue teams reopen the road to the Gyirong crossing, still closed to non-essential traffic; the fate of hundreds remains unknown.",
+          "es": "Los equipos de rescate reabren la carretera hacia el paso de Gyirong, aún cerrado al tráfico no esencial; se desconoce el destino de cientos de personas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "delhi-effondrement-satya-niketan",
+    "coords": [
+      77.164,
+      28.567
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚️",
+    "source": "Deccan Herald / agences",
+    "place": {
+      "fr": "Satya Niketan, New Delhi, Inde",
+      "en": "Satya Niketan, New Delhi, India",
+      "es": "Satya Niketan, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble-résidence étudiante à New Delhi",
+      "en": "Student residence building collapses in New Delhi",
+      "es": "Se derrumba un edificio de residencia estudiantil en Nueva Delhi"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages abritant un foyer pour étudiants s'est effondré le 6 septembre dans le quartier de Satya Niketan, près de l'université de Delhi. Au moins six à sept personnes sont mortes ; les autorités locales évoquent une infiltration d'eau dans les fondations combinée à des travaux non autorisés sur un bâtiment vieux de plusieurs décennies.",
+      "en": "A five-storey building housing a student hostel collapsed on September 6 in the Satya Niketan neighborhood, near Delhi University. At least six to seven people died; local authorities point to water accumulation in the foundations combined with unauthorized work on a decades-old structure.",
+      "es": "Un edificio de cinco pisos que albergaba una residencia estudiantil se derrumbó el 6 de septiembre en el barrio de Satya Niketan, cerca de la Universidad de Delhi. Al menos seis o siete personas murieron; las autoridades locales apuntan a una acumulación de agua en los cimientos combinada con obras no autorizadas en una estructura de varias décadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'immeuble s'effondre en fin de journée ; les secours retirent plusieurs étudiants des décombres.",
+          "en": "The building collapses in the late afternoon; rescuers pull several students from the rubble.",
+          "es": "El edificio se derrumba al final de la tarde; los rescatistas sacan a varios estudiantes de los escombros."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "La cheffe du gouvernement de Delhi, Rekha Gupta, attribue le drame à une infiltration d'eau et à des travaux de rénovation non autorisés.",
+          "en": "Delhi Chief Minister Rekha Gupta attributes the disaster to water infiltration and unauthorized renovation work.",
+          "es": "La jefa de Gobierno de Delhi, Rekha Gupta, atribuye la tragedia a una infiltración de agua y a obras de renovación no autorizadas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-incendies-brume",
+    "coords": [
+      113.921,
+      -2.21
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "ABC News Australia / Bloomberg",
+    "place": {
+      "fr": "Kalimantan et Sumatra, Indonésie",
+      "en": "Kalimantan and Sumatra, Indonesia",
+      "es": "Kalimantan y Sumatra, Indonesia"
+    },
+    "title": {
+      "fr": "Pire saison d'incendies en onze ans en Indonésie, la brume s'étend à plusieurs pays voisins",
+      "en": "Indonesia's worst fire season in 11 years sends haze across neighboring countries",
+      "es": "La peor temporada de incendios en once años en Indonesia extiende la bruma a países vecinos"
+    },
+    "summary": {
+      "fr": "Une sécheresse sévère a favorisé une flambée d'incendies de forêt et de tourbières dans le Kalimantan central et méridional ainsi qu'à Sumatra, avec des émissions ayant brièvement dépassé celles de la Russie début septembre. La brume touche la Malaisie, Singapour, Brunei et les Philippines ; le ministère indonésien de la Santé signale un doublement des infections respiratoires en une semaine.",
+      "en": "Severe drought has fueled a surge of forest and peatland fires in central and southern Kalimantan as well as Sumatra, with emissions briefly surpassing Russia's in early September. Haze has reached Malaysia, Singapore, Brunei and the Philippines; Indonesia's health ministry reports respiratory infections have more than doubled in a week.",
+      "es": "Una sequía severa ha impulsado un aumento de incendios forestales y de turberas en el centro y sur de Kalimantan, así como en Sumatra, con emisiones que a principios de septiembre superaron brevemente a las de Rusia. La bruma llega a Malasia, Singapur, Brunéi y Filipinas; el ministerio de Salud indonesio informa de que las infecciones respiratorias se han más que duplicado en una semana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Les émissions liées aux incendies indonésiens (19,7 millions de tonnes en une semaine) dépassent brièvement celles de la Russie.",
+          "en": "Emissions from Indonesian fires (19.7 million tonnes in one week) briefly overtake Russia's.",
+          "es": "Las emisiones de los incendios indonesios (19,7 millones de toneladas en una semana) superan brevemente a las de Rusia."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Le Kalimantan central et méridional prolongent leur état d'alerte aux incendies et à la sécheresse jusqu'au 31 octobre.",
+          "en": "Central and South Kalimantan extend their fire and drought emergency alerts through October 31.",
+          "es": "Kalimantan Central y del Sur prorrogan su alerta de emergencia por incendios y sequía hasta el 31 de octubre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "yahodyn-frappe-drone",
+    "coords": [
+      23.8959,
+      51.1981
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / France 24 / RTÉ",
+    "place": {
+      "fr": "Yahodyn, région de Volyn, Ukraine (frontière polonaise)",
+      "en": "Yahodyn, Volyn Oblast, Ukraine (Polish border)",
+      "es": "Yahodyn, óblast de Volinia, Ucrania (frontera con Polonia)"
+    },
+    "title": {
+      "fr": "Un drone russe frappe une gare ukrainienne près de la frontière polonaise, peu après le passage d'un train de responsables occidentaux",
+      "en": "Russian drone strikes Ukrainian train station near Polish border shortly after Western officials' train passed through",
+      "es": "Un dron ruso golpea una estación ucraniana cerca de la frontera polaca poco después del paso de un tren con responsables occidentales"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 13 au 14 septembre, un drone russe a frappé un train à l'arrêt en gare de Yahodyn, à environ deux kilomètres de la frontière polonaise, quelques minutes après qu'un train diplomatique transportant notamment l'ancien Premier ministre britannique Boris Johnson et l'ex-directeur de la CIA David Petraeus eut franchi la frontière. Aucun blessé n'a été signalé. Le chemin de fer ukrainien juge « fort probable » que le train des officiels ait été visé ; le ministère russe de la Défense évoque une frappe contre des « infrastructures ferroviaires » sans commenter la présence des dignitaires.",
+      "en": "On the night of September 13-14, a Russian drone struck a stationary train at Yahodyn station, about two kilometers from the Polish border, minutes after a diplomatic train carrying former UK Prime Minister Boris Johnson and ex-CIA director David Petraeus, among others, had crossed the border. No injuries were reported. Ukraine's rail operator says it is 'quite likely' the officials' train was the target; Russia's Defence Ministry described the strike as targeting 'railway infrastructure' without commenting on the dignitaries' presence.",
+      "es": "En la noche del 13 al 14 de septiembre, un dron ruso golpeó un tren detenido en la estación de Yahodyn, a unos dos kilómetros de la frontera polaca, minutos después de que un tren diplomático que transportaba, entre otros, al exprimer ministro británico Boris Johnson y al exdirector de la CIA David Petraeus, cruzara la frontera. No se informaron heridos. El operador ferroviario ucraniano considera «muy probable» que el tren de los funcionarios fuera el objetivo; el Ministerio de Defensa ruso describió el ataque como dirigido a «infraestructura ferroviaria», sin comentar la presencia de los dignatarios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Un train transportant des responsables occidentaux revenant d'une conférence à Kyiv franchit la frontière polonaise.",
+          "en": "A train carrying Western officials returning from a conference in Kyiv crosses into Poland.",
+          "es": "Un tren con responsables occidentales que regresaban de una conferencia en Kiev cruza hacia Polonia."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Un drone russe frappe la gare de Yahodyn quelques minutes plus tard ; la Pologne fait décoller des avions par précaution et dénonce une « escalade ».",
+          "en": "A Russian drone strikes Yahodyn station minutes later; Poland scrambles aircraft as a precaution and denounces an 'escalation'.",
+          "es": "Un dron ruso golpea la estación de Yahodyn minutos después; Polonia despliega aviones como precaución y denuncia una «escalada»."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-ifo-croissance",
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "ifo Institute / MarketScreener",
+    "place": {
+      "fr": "Munich, Allemagne",
+      "en": "Munich, Germany",
+      "es": "Múnich, Alemania"
+    },
+    "title": {
+      "fr": "L'institut ifo relève nettement sa prévision de croissance pour l'Allemagne",
+      "en": "Ifo Institute sharply raises its growth forecast for Germany",
+      "es": "El instituto ifo eleva notablemente su previsión de crecimiento para Alemania"
+    },
+    "summary": {
+      "fr": "L'institut économique ifo a relevé le 7 septembre sa prévision de croissance du PIB allemand pour 2026 à 1,4 %, soit 0,6 point de plus que sa précédente estimation, citant une demande extérieure plus forte et une hausse des dépenses d'infrastructure et de défense. L'institut prévoit toutefois une inflation en hausse et une dette publique passant de 62,7 % à 67,9 % du PIB d'ici 2028.",
+      "en": "The ifo economic institute raised its 2026 German GDP growth forecast to 1.4% on September 7, up 0.6 percentage points from its previous estimate, citing stronger foreign demand and higher infrastructure and defense spending. It also projects rising inflation and public debt climbing from 62.7% to 67.9% of GDP by 2028.",
+      "es": "El instituto económico ifo elevó el 7 de septiembre su previsión de crecimiento del PIB alemán para 2026 al 1,4 %, 0,6 puntos más que su estimación anterior, citando una demanda externa más fuerte y un mayor gasto en infraestructura y defensa. El instituto prevé además un aumento de la inflación y una deuda pública que pasará del 62,7 % al 67,9 % del PIB de aquí a 2028."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "L'ifo publie sa nouvelle prévision de croissance, portée par la demande extérieure et les dépenses publiques.",
+          "en": "Ifo publishes its new growth forecast, driven by foreign demand and public spending.",
+          "es": "El ifo publica su nueva previsión de crecimiento, impulsada por la demanda externa y el gasto público."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "proces-daillet-mia",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "France 3 Régions / CNews",
+    "place": {
+      "fr": "Tribunal de Paris, France",
+      "en": "Paris Criminal Court, France",
+      "es": "Tribunal de París, Francia"
+    },
+    "title": {
+      "fr": "Ouverture à Paris du procès Daillet, lié à l'enlèvement de la petite Mia",
+      "en": "Daillet trial, linked to the kidnapping of young Mia, opens in Paris",
+      "es": "Se abre en París el juicio contra Daillet, vinculado al secuestro de la pequeña Mia"
+    },
+    "summary": {
+      "fr": "Le procès du conspirationniste Rémy Daillet-Wiedemann et de 14 coaccusés s'est ouvert le 15 septembre devant le tribunal correctionnel de Paris, pour environ trois semaines. Il porte notamment sur l'enlèvement en avril 2021 de la petite Mia Montemaggi, 8 ans, dans les Vosges, que les enquêteurs présentent comme une répétition d'un projet de coup d'État.",
+      "en": "The trial of conspiracist Rémy Daillet-Wiedemann and 14 co-defendants opened on September 15 at the Paris criminal court, expected to run about three weeks. It centers on the April 2021 kidnapping of 8-year-old Mia Montemaggi in the Vosges, which investigators describe as a dry run for an attempted coup.",
+      "es": "El juicio contra el conspiracionista Rémy Daillet-Wiedemann y sus 14 coacusados se abrió el 15 de septiembre en el tribunal correccional de París, con una duración prevista de tres semanas. Se centra en el secuestro en abril de 2021 de la pequeña Mia Montemaggi, de 8 años, en los Vosgos, que los investigadores describen como un ensayo de un intento de golpe de Estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le procès s'ouvre à Paris ; Rémy Daillet-Wiedemann et 14 coaccusés comparaissent pour association de malfaiteurs terroriste et séquestration.",
+          "en": "The trial opens in Paris; Rémy Daillet-Wiedemann and 14 co-defendants appear on charges of terrorist criminal association and unlawful confinement.",
+          "es": "El juicio se abre en París; Rémy Daillet-Wiedemann y 14 coacusados comparecen por asociación criminal terrorista y secuestro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "swindon-espionnage-gru",
+    "coords": [
+      -1.7797,
+      51.5558
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕵️",
+    "source": "Crown Prosecution Service / Al Jazeera",
+    "place": {
+      "fr": "Swindon, Angleterre, Royaume-Uni",
+      "en": "Swindon, England, United Kingdom",
+      "es": "Swindon, Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "Un homme inculpé au Royaume-Uni pour avoir aidé le renseignement militaire russe",
+      "en": "Man charged in the UK with assisting Russian military intelligence",
+      "es": "Un hombre es imputado en el Reino Unido por ayudar a la inteligencia militar rusa"
+    },
+    "summary": {
+      "fr": "Joshua Cammidge, 31 ans, a été inculpé après avoir transmis à un groupe lié au GRU (renseignement militaire russe) des captures d'écran de sites de fabrication de drones à Swindon, selon le Crown Prosecution Service. Il est poursuivi pour aide à un service de renseignement étranger et préparation d'un acte de sabotage, une audience à l'Old Bailey étant prévue le 25 septembre.",
+      "en": "Joshua Cammidge, 31, has been charged after providing a group linked to the GRU (Russian military intelligence) with screenshots of drone-manufacturing sites in Swindon, according to the Crown Prosecution Service. He is charged with assisting a foreign intelligence service and preparing an act of sabotage, with an Old Bailey hearing set for September 25.",
+      "es": "Joshua Cammidge, de 31 años, fue imputado tras proporcionar a un grupo vinculado al GRU (inteligencia militar rusa) capturas de pantalla de plantas de fabricación de drones en Swindon, según la Fiscalía de la Corona (CPS). Se le acusa de asistir a un servicio de inteligencia extranjero y de preparar un acto de sabotaje; una audiencia en el Old Bailey está prevista para el 25 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Joshua Cammidge est formellement inculpé après son arrestation par la police antiterroriste de Londres.",
+          "en": "Joshua Cammidge is formally charged following his arrest by Counter Terrorism Policing London.",
+          "es": "Joshua Cammidge es formalmente imputado tras su arresto por la policía antiterrorista de Londres."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Il comparaît devant le tribunal de Westminster ; l'affaire est renvoyée devant l'Old Bailey.",
+          "en": "He appears before Westminster Magistrates' Court; the case is sent to the Old Bailey.",
+          "es": "Comparece ante el tribunal de Westminster; el caso se remite al Old Bailey."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "italie-transfert-41bis",
+    "coords": [
+      8.95,
+      39.283
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🚔",
+    "source": "Ministero della Giustizia / Il Dubbio",
+    "place": {
+      "fr": "Uta, Sardaigne, Italie",
+      "en": "Uta, Sardinia, Italy",
+      "es": "Uta, Cerdeña, Italia"
+    },
+    "title": {
+      "fr": "L'Italie transfère 88 détenus mafieux du régime 41-bis vers la Sardaigne",
+      "en": "Italy transfers 88 mafia-linked 41-bis inmates to Sardinia",
+      "es": "Italia traslada a 88 reclusos mafiosos del régimen 41-bis a Cerdeña"
+    },
+    "summary": {
+      "fr": "Le ministère italien de la Justice a mené les 5 et 6 septembre une opération nationale transférant 88 détenus soumis au régime carcéral d'exception « 41-bis » vers la prison d'Uta, en Sardaigne, en provenance de neuf établissements dont Milan, L'Aquila et Viterbe. L'opération vise à renforcer la sécurité autour de ces prisonniers liés à la criminalité organisée.",
+      "en": "Italy's Justice Ministry carried out a nationwide operation on September 5-6, transferring 88 inmates held under the '41-bis' special prison regime to the Uta facility in Sardinia, from nine institutions including Milan, L'Aquila and Viterbo. The operation aims to tighten security around these organized-crime-linked prisoners.",
+      "es": "El Ministerio de Justicia italiano llevó a cabo el 5 y 6 de septiembre una operación nacional que trasladó a 88 reclusos sometidos al régimen carcelario especial «41-bis» a la prisión de Uta, en Cerdeña, procedentes de nueve centros, entre ellos Milán, L'Aquila y Viterbo. La operación busca reforzar la seguridad en torno a estos presos vinculados al crimen organizado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "L'opération « Alto Impatto – Sicurezza Nazionale 41-bis » transfère simultanément 88 détenus vers la prison d'Uta.",
+          "en": "Operation 'Alto Impatto – Sicurezza Nazionale 41-bis' simultaneously transfers 88 inmates to Uta prison.",
+          "es": "La operación «Alto Impatto – Sicurezza Nazionale 41-bis» traslada simultáneamente a 88 reclusos a la prisión de Uta."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "Le vice-ministre de la Justice, Alberto Balboni, annonce publiquement l'opération et la création d'une nouvelle unité mobile de surveillance.",
+          "en": "Deputy Justice Minister Alberto Balboni publicly announces the operation and the creation of a new mobile surveillance unit.",
+          "es": "El viceministro de Justicia, Alberto Balboni, anuncia públicamente la operación y la creación de una nueva unidad móvil de vigilancia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-treve-boko-haram",
+    "coords": [
+      13.69,
+      11.08
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "The New Humanitarian / Al Jazeera",
+    "place": {
+      "fr": "Ngoshe, État de Borno, Nigeria",
+      "en": "Ngoshe, Borno State, Nigeria",
+      "es": "Ngoshe, estado de Borno, Nigeria"
+    },
+    "title": {
+      "fr": "Le Nigeria maintiendrait une trêve secrète avec une faction de Boko Haram",
+      "en": "Nigeria reportedly maintains a secret ceasefire with a Boko Haram faction",
+      "es": "Nigeria mantendría en secreto una tregua con una facción de Boko Haram"
+    },
+    "summary": {
+      "fr": "Selon une enquête de The New Humanitarian corroborée par plusieurs médias, le gouvernement nigérian entretiendrait depuis juin 2026 une trêve secrète avec une faction de Boko Haram, négociée par les services de sécurité. Cet accord aurait permis la libération de 360 civils enlevés à Ngoshe en mars 2026 ; les autorités fédérales démentent tout paiement de rançon.",
+      "en": "According to an investigation by The New Humanitarian, corroborated by several other outlets, the Nigerian government has reportedly maintained a secret ceasefire with a Boko Haram faction since June 2026, negotiated by security services. The deal is said to have secured the release of 360 civilians abducted in Ngoshe in March 2026; federal authorities deny paying any ransom.",
+      "es": "Según una investigación de The New Humanitarian corroborada por varios medios, el Gobierno nigeriano mantendría en secreto desde junio de 2026 una tregua con una facción de Boko Haram, negociada por los servicios de seguridad. El acuerdo habría permitido la liberación de 360 civiles secuestrados en Ngoshe en marzo de 2026; las autoridades federales niegan haber pagado un rescate."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/06/2026",
+          "en": "01/06/2026",
+          "es": "01/06/2026"
+        },
+        "d": {
+          "fr": "Une trêve non officielle entrerait en vigueur entre l'État nigérian et une faction de Boko Haram, selon des sources sécuritaires.",
+          "en": "An unofficial truce reportedly takes effect between the Nigerian state and a Boko Haram faction, according to security sources.",
+          "es": "Una tregua no oficial entraría en vigor entre el Estado nigeriano y una facción de Boko Haram, según fuentes de seguridad."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/09/2026",
+          "en": "07/09/2026",
+          "es": "07/09/2026"
+        },
+        "d": {
+          "fr": "The New Humanitarian révèle l'existence de cette trêve, reconduite depuis trois mois ; le gouvernement dément avoir versé une rançon.",
+          "en": "The New Humanitarian reveals the existence of the truce, extended for three months; the government denies paying any ransom.",
+          "es": "The New Humanitarian revela la existencia de la tregua, prorrogada durante tres meses; el Gobierno niega haber pagado un rescate."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "alexandrie-naufrage-migrants",
+    "coords": [
+      29.92,
+      31.2
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛟",
+    "source": "Ahram Online / Masrawy",
+    "place": {
+      "fr": "Au large d'Alexandrie, Égypte",
+      "en": "Off the coast of Alexandria, Egypt",
+      "es": "Frente a la costa de Alejandría, Egipto"
+    },
+    "title": {
+      "fr": "Naufrage d'une embarcation de migrants au large d'Alexandrie",
+      "en": "Migrant boat sinks off the coast of Alexandria",
+      "es": "Naufraga una embarcación de migrantes frente a Alejandría"
+    },
+    "summary": {
+      "fr": "Une embarcation transportant 42 migrants, principalement égyptiens et soudanais, a chaviré le 12 septembre au large d'Alexandrie. Trois personnes sont mortes et 39 ont été secourues et hospitalisées à Alexandrie.",
+      "en": "A boat carrying 42 migrants, mostly Egyptian and Sudanese nationals, capsized on September 12 off the coast of Alexandria. Three people died and 39 were rescued and taken to hospitals in Alexandria.",
+      "es": "Una embarcación con 42 migrantes, principalmente de nacionalidad egipcia y sudanesa, volcó el 12 de septiembre frente a la costa de Alejandría. Tres personas murieron y 39 fueron rescatadas y trasladadas a hospitales de Alejandría."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "12/09/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "L'embarcation chavire en mer Méditerranée ; les secours égyptiens interviennent au large d'Alexandrie.",
+          "en": "The boat capsizes in the Mediterranean; Egyptian rescue services respond off Alexandria.",
+          "es": "La embarcación vuelca en el Mediterráneo; los servicios de rescate egipcios intervienen frente a Alejandría."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "afrique-sud-accident-n1",
+    "coords": [
+      22.0,
+      -32.26
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "AP / News24",
+    "place": {
+      "fr": "Route N1, entre Prince Albert et Leeu-Gamka, Cap-Occidental, Afrique du Sud",
+      "en": "N1 highway, between Prince Albert and Leeu-Gamka, Western Cape, South Africa",
+      "es": "Autopista N1, entre Prince Albert y Leeu-Gamka, Cabo Occidental, Sudáfrica"
+    },
+    "title": {
+      "fr": "Au moins 21 morts dans une collision de minibus dans le Cap-Occidental",
+      "en": "At least 21 killed in minibus collision in the Western Cape",
+      "es": "Al menos 21 muertos en una colisión de microbuses en el Cabo Occidental"
+    },
+    "summary": {
+      "fr": "Deux minibus-taxis se sont percutés de front dans la nuit du 13 au 14 septembre sur la route N1, avant qu'un véhicule utilitaire ne percute l'épave. Au moins 21 personnes sont mortes et plusieurs autres ont été grièvement blessées ; la cause de l'accident fait l'objet d'une enquête.",
+      "en": "Two minibus taxis collided head-on on the night of September 13-14 on the N1 highway, before an SUV crashed into the wreckage. At least 21 people died and several others were seriously injured; the cause of the crash is under investigation.",
+      "es": "Dos microbuses taxi colisionaron de frente en la noche del 13 al 14 de septiembre en la autopista N1, antes de que una camioneta se estrellara contra los restos. Al menos 21 personas murieron y varias más resultaron gravemente heridas; la causa del accidente está bajo investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "La collision fait au moins 21 morts ; la route N1 est fermée dans les deux sens.",
+          "en": "The collision leaves at least 21 dead; the N1 highway is closed in both directions.",
+          "es": "La colisión deja al menos 21 muertos; la autopista N1 se cierra en ambos sentidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "iran-hausse-executions",
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚠",
+    "source": "ONU / Human Rights Watch",
+    "place": {
+      "fr": "Iran (à l'échelle nationale)",
+      "en": "Iran (nationwide)",
+      "es": "Irán (a escala nacional)"
+    },
+    "title": {
+      "fr": "Forte hausse des exécutions en Iran, l'ONU et des ONG s'alarment",
+      "en": "Sharp rise in executions in Iran alarms UN and rights groups",
+      "es": "Fuerte aumento de las ejecuciones en Irán alarma a la ONU y a ONG"
+    },
+    "summary": {
+      "fr": "Au moins 82 personnes ont été exécutées en Iran en août, dont six femmes et plusieurs personnes liées aux manifestations de 2026, selon Iran Human Rights. Le Haut-Commissariat de l'ONU aux droits de l'homme et Human Rights Watch dénoncent une utilisation de la peine de mort pour instiller la peur et réprimer la dissidence.",
+      "en": "At least 82 people were executed in Iran in August, including six women and several people linked to the 2026 protests, according to Iran Human Rights. The UN Human Rights Office and Human Rights Watch denounce the use of the death penalty to instill fear and suppress dissent.",
+      "es": "Al menos 82 personas fueron ejecutadas en Irán en agosto, entre ellas seis mujeres y varias personas vinculadas a las protestas de 2026, según Iran Human Rights. La Oficina de Derechos Humanos de la ONU y Human Rights Watch denuncian el uso de la pena de muerte para infundir miedo y reprimir la disidencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "31/08/2026",
+          "en": "31/08/2026",
+          "es": "31/08/2026"
+        },
+        "d": {
+          "fr": "Le bilan du mois d'août fait état d'au moins 82 exécutions en Iran, un chiffre en forte hausse selon plusieurs organisations de défense des droits humains.",
+          "en": "The August tally shows at least 82 executions in Iran, a sharp increase according to several human rights organizations.",
+          "es": "El balance de agosto registra al menos 82 ejecuciones en Irán, una cifra en fuerte aumento según varias organizaciones de derechos humanos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Human Rights Watch dénonce une « campagne d'exécutions illégales » visant notamment des personnes liées aux manifestations.",
+          "en": "Human Rights Watch denounces an 'ongoing unlawful execution campaign' targeting, among others, people linked to the protests.",
+          "es": "Human Rights Watch denuncia una «campaña de ejecuciones ilegales en curso» dirigida, entre otros, contra personas vinculadas a las protestas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "gaza-frappes-treve",
+    "coords": [
+      34.46,
+      31.51
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Middle East Monitor",
+    "place": {
+      "fr": "Ville de Gaza et Rafah, territoires palestiniens",
+      "en": "Gaza City and Rafah, Palestinian territories",
+      "es": "Ciudad de Gaza y Rafah, territorios palestinos"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes font des morts à Gaza malgré le cessez-le-feu",
+      "en": "Israeli strikes kill people in Gaza despite the ceasefire",
+      "es": "Ataques israelíes causan muertos en Gaza pese al alto el fuego"
+    },
+    "summary": {
+      "fr": "Le 14 septembre, une frappe israélienne a visé une tente abritant des déplacés près du stade al-Yarmouk, à Gaza, faisant deux morts et plus de dix blessés selon les autorités sanitaires et les secours palestiniens ; une autre personne a été tuée par balle à Rafah le même jour. Les sources palestiniennes décrivent des victimes civiles, tandis que l'armée israélienne indique avoir mené plusieurs frappes visant des combattants ce jour-là, sans commenter directement la frappe sur la tente. Le ministère de la Santé de Gaza recense 1 372 morts depuis l'entrée en vigueur du cessez-le-feu en octobre dernier.",
+      "en": "On September 14, an Israeli strike hit a tent sheltering displaced people near al-Yarmouk Stadium in Gaza, killing two and wounding more than ten according to Palestinian health and rescue officials; another person was shot dead in Rafah the same day. Palestinian sources describe the casualties as civilians, while the Israeli military says it carried out several strikes targeting militants that day, without directly addressing the tent strike. Gaza's Health Ministry counts 1,372 deaths since the ceasefire took effect last October.",
+      "es": "El 14 de septiembre, un ataque israelí alcanzó una tienda que albergaba a desplazados cerca del estadio al-Yarmouk, en Gaza, matando a dos personas y hiriendo a más de diez, según las autoridades sanitarias y de rescate palestinas; otra persona murió por disparos en Rafah el mismo día. Las fuentes palestinas describen a las víctimas como civiles, mientras que el ejército israelí afirma haber realizado varios ataques contra combatientes ese día, sin referirse directamente al ataque contra la tienda. El Ministerio de Salud de Gaza contabiliza 1.372 muertos desde la entrada en vigor del alto el fuego el pasado octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Une frappe touche une tente de déplacés près du stade al-Yarmouk ; un homme est tué par balle à Rafah le même jour.",
+          "en": "A strike hits a displacement tent near al-Yarmouk Stadium; a man is shot dead in Rafah the same day.",
+          "es": "Un ataque golpea una tienda de desplazados cerca del estadio al-Yarmouk; un hombre muere por disparos en Rafah el mismo día."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "budapest-athletisme-ultimate",
+    "coords": [
+      19.04,
+      47.5
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "World Athletics / NBC Sports",
+    "place": {
+      "fr": "Budapest, Hongrie",
+      "en": "Budapest, Hungary",
+      "es": "Budapest, Hungría"
+    },
+    "title": {
+      "fr": "Budapest accueille les premiers championnats « Ultimate » d'athlétisme",
+      "en": "Budapest hosts the inaugural World Athletics Ultimate Championship",
+      "es": "Budapest acoge el primer Campeonato «Ultimate» de atletismo"
+    },
+    "summary": {
+      "fr": "Le premier World Athletics Ultimate Championship, doté d'une bourse de 10 millions de dollars, s'est déroulé du 11 au 13 septembre à Budapest. L'Américaine Melissa Jefferson-Wooden a remporté le doublé 100 m/200 m, tandis que l'Ukrainienne Yaroslava Mahuchikh s'est imposée en hauteur.",
+      "en": "The first World Athletics Ultimate Championship, with a $10 million prize purse, took place September 11-13 in Budapest. American Melissa Jefferson-Wooden won the 100m/200m double, while Ukraine's Yaroslava Mahuchikh won the high jump.",
+      "es": "El primer Campeonato Mundial de Atletismo «Ultimate», dotado con una bolsa de 10 millones de dólares, se celebró del 11 al 13 de septiembre en Budapest. La estadounidense Melissa Jefferson-Wooden logró el doblete en 100 m y 200 m, mientras que la ucraniana Yaroslava Mahuchikh se impuso en salto de altura."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "11/09/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Ouverture à Budapest du premier championnat « Ultimate » d'athlétisme, nouveau format sur invitation.",
+          "en": "The inaugural Ultimate Championship in athletics, a new invitational format, opens in Budapest.",
+          "es": "Se abre en Budapest el primer Campeonato «Ultimate» de atletismo, un nuevo formato por invitación."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "La compétition se conclut ; Melissa Jefferson-Wooden réalise le doublé 100 m/200 m chez les femmes.",
+          "en": "The competition concludes; Melissa Jefferson-Wooden completes the women's 100m/200m double.",
+          "es": "La competición concluye; Melissa Jefferson-Wooden logra el doblete femenino de 100 m y 200 m."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
   }
 ]
