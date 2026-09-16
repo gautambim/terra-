@@ -734,6 +734,32 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Donald Trump écarte l'idée d'un nouvel accord avec l'Iran et prévient que le pays serait frappé plus durement en cas de représailles, selon Axios et le Council on Foreign Relations.",
+          "en": "Donald Trump waves off the idea of a new deal with Iran and warns the country would be hit harder if it retaliates, according to Axios and the Council on Foreign Relations.",
+          "es": "Donald Trump descarta la idea de un nuevo acuerdo con Irán y advierte de que el país sería golpeado con más fuerza si toma represalias, según Axios y el Council on Foreign Relations."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran affirme qu'un pétrolier a heurté des mines dans le détroit d'Ormuz ; le commandement militaire américain (CENTCOM) dément, évoquant une campagne de désinformation. Le baril de Brent dépasse 100 dollars depuis début septembre, la circulation de navires dans le détroit ayant chuté d'environ 95 %, selon Dawn.com et le Washington Times.",
+          "en": "Iran claims a tanker struck mines in the Strait of Hormuz; US Central Command (CENTCOM) denies this, calling it a disinformation campaign. Brent crude has traded above $100 a barrel since early September, as vessel traffic through the strait has dropped by about 95%, according to Dawn.com and the Washington Times.",
+          "es": "Irán afirma que un petrolero chocó con minas en el estrecho de Ormuz; el Mando Central de EE. UU. (CENTCOM) lo desmiente y habla de una campaña de desinformación. El barril de Brent cotiza por encima de los 100 dólares desde principios de septiembre, tras caer el tráfico de buques en el estrecho un 95 % aproximadamente, según Dawn.com y The Washington Times."
+        },
         "active": true
       }
     ],
@@ -829,5 +855,741 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      134.1,
+      35.95
+    ],
+    "id": "japon-drone-globalhawk-crash",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🛩️",
+    "source": "The Japan Times / Nikkei Asia",
+    "place": {
+      "fr": "Au large de la préfecture de Tottori, Japon (mer du Japon)",
+      "en": "Off Tottori Prefecture, Japan (Sea of Japan)",
+      "es": "Frente a la prefectura de Tottori, Japón (mar de Japón)"
+    },
+    "title": {
+      "fr": "Un drone de reconnaissance de l'armée japonaise disparaît en mer",
+      "en": "Japanese military reconnaissance drone goes missing at sea",
+      "es": "Un dron de reconocimiento del ejército japonés desaparece en el mar"
+    },
+    "summary": {
+      "fr": "Les Forces d'autodéfense aérienne japonaises ont perdu le contact avec un drone de reconnaissance RQ-4 Global Hawk le mardi 15 septembre, alors qu'il évoluait à environ 50 km au large de la préfecture de Tottori, dans l'ouest du Japon, selon The Japan Times et Nikkei Asia. Des débris et une nappe d'hydrocarbures ont été repérés dans la zone où le signal a été perdu, ce qui laisse penser que l'appareil s'est écrasé. Aucun blessé n'est à déplorer, l'appareil étant sans pilote.",
+      "en": "Japan's Air Self-Defense Force lost contact with an RQ-4 Global Hawk reconnaissance drone on Tuesday, September 15, while it was operating about 50 km off the coast of Tottori Prefecture in western Japan, according to The Japan Times and Nikkei Asia. Debris and an oil sheen were spotted in the area where the signal was lost, suggesting the aircraft crashed. No injuries were reported, as the aircraft was unmanned.",
+      "es": "Las Fuerzas de Autodefensa Aérea de Japón perdieron el contacto con un dron de reconocimiento RQ-4 Global Hawk el martes 15 de septiembre, mientras operaba a unos 50 km de la costa de la prefectura de Tottori, en el oeste de Japón, según The Japan Times y Nikkei Asia. Se localizaron restos y una mancha de hidrocarburos en la zona donde se perdió la señal, lo que sugiere que el aparato se estrelló. No se informaron heridos, ya que la aeronave no tenía piloto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026 — vers 12h58 (heure locale)",
+          "en": "09/15/2026 — around 12:58 pm (local time)",
+          "es": "15/09/2026 — alrededor de las 12:58 (hora local)"
+        },
+        "d": {
+          "fr": "Le ministère de la Défense annonce la perte de contact avec le drone, basé à la base aérienne de Misawa.",
+          "en": "The Defense Ministry announces loss of contact with the drone, based at Misawa Air Base.",
+          "es": "El Ministerio de Defensa anuncia la pérdida de contacto con el dron, con base en la base aérea de Misawa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -2.8909,
+      53.1935
+    ],
+    "id": "uk-letby-enquete-rapport",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / The Guardian",
+    "place": {
+      "fr": "Chester, Angleterre, Royaume-Uni (Countess of Chester Hospital)",
+      "en": "Chester, England, United Kingdom (Countess of Chester Hospital)",
+      "es": "Chester, Inglaterra, Reino Unido (Countess of Chester Hospital)"
+    },
+    "title": {
+      "fr": "Une enquête publique pointe des défaillances majeures de l'hôpital dans l'affaire Lucy Letby",
+      "en": "Public inquiry finds major hospital failures in Lucy Letby case",
+      "es": "Una investigación pública señala fallas hospitalarias graves en el caso Lucy Letby"
+    },
+    "summary": {
+      "fr": "Le rapport de l'enquête publique dirigée par la juge Kathryn Thirlwall, publié le 15 septembre, dénonce une « défaillance totale à tous les niveaux » de la direction du Countess of Chester Hospital pour protéger les nourrissons du service de néonatalogie où l'infirmière Lucy Letby, condamnée pour le meurtre de sept bébés entre 2015 et 2016, exerçait, selon CNN et The Guardian. Selon le rapport, une partie des décès aurait probablement pu être évitée si la direction avait réagi plus tôt aux soupçons des médecins. L'enquête ne s'est pas prononcée sur la culpabilité de Lucy Letby, déjà établie par la justice, mais sur la réponse du système de santé.",
+      "en": "The report of the public inquiry led by Justice Kathryn Thirlwall, published on September 15, denounces a 'complete failure at all levels' by the leadership of Countess of Chester Hospital to protect infants in the neonatal unit where nurse Lucy Letby, convicted of murdering seven babies between 2015 and 2016, worked, according to CNN and The Guardian. According to the report, some of the deaths could probably have been prevented had hospital leadership responded sooner to doctors' suspicions. The inquiry did not rule on Letby's guilt, already established by the courts, but on the health system's response.",
+      "es": "El informe de la investigación pública dirigida por la jueza Kathryn Thirlwall, publicado el 15 de septiembre, denuncia un «fallo total a todos los niveles» de la dirección del Countess of Chester Hospital para proteger a los bebés en la unidad de neonatología donde trabajaba la enfermera Lucy Letby, condenada por asesinar a siete bebés entre 2015 y 2016, según CNN y The Guardian. Según el informe, parte de las muertes probablemente podrían haberse evitado si la dirección hubiera respondido antes a las sospechas de los médicos. La investigación no se pronunció sobre la culpabilidad de Letby, ya establecida por la justicia, sino sobre la respuesta del sistema de salud."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Publication du rapport Thirlwall ; le gouvernement britannique annonce des réformes du NHS.",
+          "en": "Publication of the Thirlwall report; the UK government announces NHS reforms.",
+          "es": "Publicación del informe Thirlwall; el gobierno británico anuncia reformas del NHS."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "kyiv-attaque-drones-stations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Euromaidan Press",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une attaque de drones russes fait un mort et plusieurs blessés à Kyiv",
+      "en": "Russian drone attack kills one, injures several in Kyiv",
+      "es": "Un ataque con drones rusos deja un muerto y varios heridos en Kiev"
+    },
+    "summary": {
+      "fr": "Des drones russes ont frappé au moins deux stations-service dans les districts de Solomianskyi et de Holosiivskyi à Kyiv dans la matinée du 15 septembre, selon le Kyiv Independent et Euromaidan Press. Un homme grièvement blessé est mort à l'hôpital ; au moins huit personnes ont été blessées. Il s'agissait du sixième jour consécutif de frappes russes sur la capitale ukrainienne.",
+      "en": "Russian drones struck at least two gas stations in the Solomianskyi and Holosiivskyi districts of Kyiv on the morning of September 15, according to the Kyiv Independent and Euromaidan Press. A critically injured man died in hospital; at least eight people were injured. It was the sixth consecutive day of Russian strikes on the Ukrainian capital.",
+      "es": "Drones rusos alcanzaron al menos dos gasolineras en los distritos de Solomianskyi y Holosiivskyi de Kiev en la mañana del 15 de septiembre, según Kyiv Independent y Euromaidan Press. Un hombre gravemente herido murió en el hospital; al menos ocho personas resultaron heridas. Fue el sexto día consecutivo de ataques rusos contra la capital ucraniana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Des drones frappent deux stations-service ; un homme meurt de ses blessures à l'hôpital.",
+          "en": "Drones strike two gas stations; a man dies of his injuries in hospital.",
+          "es": "Drones alcanzan dos gasolineras; un hombre muere por sus heridas en el hospital."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-selic-taux",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💹",
+    "source": "Reuters / Exame / Investing.com",
+    "place": {
+      "fr": "Brasília, Brésil (siège de la Banque centrale)",
+      "en": "Brasília, Brazil (Central Bank headquarters)",
+      "es": "Brasilia, Brasil (sede del Banco Central)"
+    },
+    "title": {
+      "fr": "La banque centrale du Brésil abaisse de nouveau son taux directeur",
+      "en": "Brazil's central bank cuts its benchmark interest rate again",
+      "es": "El banco central de Brasil vuelve a recortar su tasa de interés de referencia"
+    },
+    "summary": {
+      "fr": "Le Comité de politique monétaire (Copom) de la Banque centrale du Brésil a abaissé, le 16 septembre, son taux directeur Selic de 0,25 point, le faisant passer de 14,00 % à 13,75 %, selon Reuters et la presse économique brésilienne (Exame, Investing.com). Il s'agit de la quatrième baisse consécutive depuis juin, portant l'assouplissement total à 100 points de base depuis le pic de 15,00 % atteint en 2025, dans un contexte de ralentissement de l'inflation.",
+      "en": "Brazil's central bank Monetary Policy Committee (Copom) cut its benchmark Selic rate by 0.25 percentage points on September 16, from 14.00% to 13.75%, according to Reuters and Brazilian financial outlets (Exame, Investing.com). It was the fourth consecutive cut since June, bringing total easing to 100 basis points from the 15.00% peak reached in 2025, amid slowing inflation.",
+      "es": "El Comité de Política Monetaria (Copom) del banco central de Brasil recortó el 16 de septiembre su tasa de referencia Selic en 0,25 puntos porcentuales, del 14,00 % al 13,75 %, según Reuters y medios económicos brasileños (Exame, Investing.com). Fue el cuarto recorte consecutivo desde junio, con lo que la flexibilización total alcanza 100 puntos básicos desde el máximo de 15,00 % registrado en 2025, en un contexto de desaceleración de la inflación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le Copom annonce la baisse du taux Selic à 13,75 %, une décision largement anticipée par les marchés.",
+          "en": "Copom announces the Selic rate cut to 13.75%, a decision widely anticipated by markets.",
+          "es": "El Copom anuncia el recorte de la tasa Selic al 13,75 %, una decisión ampliamente anticipada por los mercados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "id": "indonesie-anak-krakatau-eruption",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Détroit de la Sonde, Indonésie (volcan Anak Krakatau)",
+      "en": "Sunda Strait, Indonesia (Anak Krakatau volcano)",
+      "es": "Estrecho de la Sonda, Indonesia (volcán Anak Krakatau)"
+    },
+    "title": {
+      "fr": "L'éruption du volcan Anak Krakatau perturbe le trafic aérien en Indonésie",
+      "en": "Anak Krakatau volcano eruption disrupts air traffic in Indonesia",
+      "es": "La erupción del volcán Anak Krakatau interrumpe el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau, situé dans le détroit de la Sonde, est entré en éruption le 5 septembre, projetant des cendres qui ont contraint plusieurs aéroports indonésiens, dont l'aéroport international Soekarno-Hatta de Jakarta, à suspendre leurs vols le week-end suivant, selon CNN et Al Jazeera. Plus de 270 000 passagers ont été affectés. Les aéroports ont rouvert depuis, mais le volcan restait au niveau d'alerte 3 sur une échelle de 4 après de nouvelles explosions début septembre.",
+      "en": "Anak Krakatau volcano, located in the Sunda Strait, erupted on September 5, sending up ash that forced several Indonesian airports, including Jakarta's Soekarno-Hatta International Airport, to suspend flights the following weekend, according to CNN and Al Jazeera. More than 270,000 passengers were affected. The airports have since reopened, but the volcano remained at alert level 3 on a four-tier scale after further explosions in early September.",
+      "es": "El volcán Anak Krakatau, ubicado en el estrecho de la Sonda, entró en erupción el 5 de septiembre, arrojando cenizas que obligaron a varios aeropuertos indonesios, entre ellos el aeropuerto internacional Soekarno-Hatta de Yakarta, a suspender vuelos el fin de semana siguiente, según CNN y Al Jazeera. Más de 270.000 pasajeros se vieron afectados. Los aeropuertos han reabierto desde entonces, pero el volcán permanecía en el nivel de alerta 3 de una escala de cuatro tras nuevas explosiones a principios de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan entre en éruption, entraînant la fermeture de plusieurs aéroports indonésiens.",
+          "en": "The volcano erupts, leading to the closure of several Indonesian airports.",
+          "es": "El volcán entra en erupción, lo que provoca el cierre de varios aeropuertos indonesios."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07-08/09/2026",
+          "en": "09/07-08/2026",
+          "es": "07-08/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan connaît trois nouvelles explosions ; les autorités maintiennent l'alerte au niveau 3.",
+          "en": "The volcano undergoes three further explosions; authorities maintain the level 3 alert.",
+          "es": "El volcán registra tres nuevas explosiones; las autoridades mantienen la alerta en nivel 3."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      73.0479,
+      33.6844
+    ],
+    "id": "pakistan-inondations-mousson",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Al Jazeera / Daily Independent Pakistan",
+    "place": {
+      "fr": "Islamabad, Pakistan (mousson touchant plusieurs provinces)",
+      "en": "Islamabad, Pakistan (monsoon affecting several provinces)",
+      "es": "Islamabad, Pakistán (monzón que afecta a varias provincias)"
+    },
+    "title": {
+      "fr": "Le Pakistan se prépare à de nouvelles inondations, le bilan de la mousson dépassant 180 morts",
+      "en": "Pakistan braces for fresh flooding as monsoon death toll passes 180",
+      "es": "Pakistán se prepara para nuevas inundaciones mientras el balance del monzón supera los 180 muertos"
+    },
+    "summary": {
+      "fr": "Le Premier ministre Shehbaz Sharif a demandé le 15 septembre à toutes les institutions de rester en alerte face au risque de nouvelles inondations, alors que de fortes pluies de mousson continuent de toucher le Pendjab, le Khyber Pakhtunkhwa, le Sind, le Baloutchistan et le Gilgit-Baltistan, selon Al Jazeera et Daily Independent Pakistan. Depuis le début de la mousson 2026, plus de 180 personnes sont mortes et environ 1 700 habitations ont été endommagées ; l'Autorité nationale de gestion des catastrophes (NDMA) a averti d'un risque de crues éclair et de glissements de terrain dans les jours suivants.",
+      "en": "Prime Minister Shehbaz Sharif asked all institutions on September 15 to remain on alert for further flooding, as heavy monsoon rains continue to affect Punjab, Khyber Pakhtunkhwa, Sindh, Balochistan and Gilgit-Baltistan, according to Al Jazeera and Daily Independent Pakistan. Since the start of the 2026 monsoon, more than 180 people have died and around 1,700 homes have been damaged; the National Disaster Management Authority (NDMA) warned of flash floods and landslides in the following days.",
+      "es": "El primer ministro Shehbaz Sharif pidió el 15 de septiembre a todas las instituciones mantenerse alerta ante el riesgo de nuevas inundaciones, mientras las fuertes lluvias monzónicas continúan afectando Punjab, Khyber Pakhtunkhwa, Sindh, Baluchistán y Gilgit-Baltistán, según Al Jazeera y Daily Independent Pakistan. Desde el inicio del monzón de 2026, más de 180 personas han muerto y unas 1.700 viviendas han resultado dañadas; la Autoridad Nacional de Gestión de Desastres (NDMA) advirtió sobre riesgo de crecidas repentinas y deslizamientos en los días siguientes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le Premier ministre ordonne aux institutions de rester préparées face à un nouveau risque de crues.",
+          "en": "The Prime Minister orders institutions to remain prepared for a fresh flood risk.",
+          "es": "El primer ministro ordena a las instituciones mantenerse preparadas ante un nuevo riesgo de inundaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      28.2293,
+      -26.101
+    ],
+    "id": "afrique-du-sud-ekurhuleni-meurtres",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Citizen / EWN",
+    "place": {
+      "fr": "Ekurhuleni (Kempton Park / Tembisa), province de Gauteng, Afrique du Sud",
+      "en": "Ekurhuleni (Kempton Park / Tembisa), Gauteng province, South Africa",
+      "es": "Ekurhuleni (Kempton Park / Tembisa), provincia de Gauteng, Sudáfrica"
+    },
+    "title": {
+      "fr": "Un septième corps relié à la série de meurtres de femmes à Ekurhuleni",
+      "en": "Seventh body linked to string of women's killings in Ekurhuleni",
+      "es": "Un séptimo cuerpo se vincula a la serie de asesinatos de mujeres en Ekurhuleni"
+    },
+    "summary": {
+      "fr": "La police sud-africaine a confirmé le 15 septembre qu'un septième corps de femme, retrouvé le 7 septembre dans une rivière à Olifantsfontein, près du centre commercial Tembisa Mall, est lié à l'enquête sur une série de meurtres dans la région d'Ekurhuleni, province de Gauteng, selon The Citizen et EWN. Les six autres corps ont été découverts depuis juillet 2026 dans les zones de Kempton Park et Ekurhuleni, la plupart dénudés et portant des signes de violence sexuelle. Les enquêteurs n'ont pas confirmé qu'un même auteur soit responsable de l'ensemble de ces meurtres.",
+      "en": "South African police confirmed on September 15 that a seventh female body, found on September 7 in a river at Olifantsfontein near Tembisa Mall, is linked to the investigation into a string of killings in the Ekurhuleni area of Gauteng province, according to The Citizen and EWN. The other six bodies have been found since July 2026 in the Kempton Park and Ekurhuleni areas, most of them undressed and showing signs of sexual assault. Investigators have not confirmed that a single perpetrator is responsible for all the killings.",
+      "es": "La policía sudafricana confirmó el 15 de septiembre que un séptimo cuerpo de mujer, hallado el 7 de septiembre en un río en Olifantsfontein, cerca del centro comercial Tembisa Mall, está vinculado a la investigación de una serie de asesinatos en la zona de Ekurhuleni, provincia de Gauteng, según The Citizen y EWN. Los otros seis cuerpos se han encontrado desde julio de 2026 en las zonas de Kempton Park y Ekurhuleni, la mayoría desnudos y con signos de agresión sexual. Los investigadores no han confirmado que un único autor sea responsable de todos los asesinatos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "La police confirme le lien entre le septième corps retrouvé et l'enquête sur les meurtres d'Ekurhuleni.",
+          "en": "Police confirm the link between the seventh body found and the Ekurhuleni murder investigation.",
+          "es": "La policía confirma el vínculo entre el séptimo cuerpo hallado y la investigación de los asesinatos de Ekurhuleni."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      38.0637,
+      24.0895
+    ],
+    "id": "arabie-saoudite-pipeline-attaque-drone",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛢️",
+    "source": "Al Jazeera",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Oléoduc Est-Ouest, Arabie saoudite (littoral de la mer Rouge)",
+      "en": "East-West Pipeline, Saudi Arabia (Red Sea coast)",
+      "es": "Oleoducto Este-Oeste, Arabia Saudita (costa del mar Rojo)"
+    },
+    "title": {
+      "fr": "L'Arabie saoudite ferme temporairement son oléoduc Est-Ouest après une attaque de drones",
+      "en": "Saudi Arabia temporarily shuts East-West oil pipeline after drone attack",
+      "es": "Arabia Saudita cierra temporalmente su oleoducto Este-Oeste tras un ataque con drones"
+    },
+    "summary": {
+      "fr": "L'Arabie saoudite a temporairement fermé son oléoduc Est-Ouest, long de 1 200 km et reliant les champs pétroliers de l'est du pays au littoral de la mer Rouge, après une attaque de drones survenue le 11 septembre, selon Al Jazeera. Les drones auraient été lancés depuis l'Irak, où une enquête est en cours ; aucune revendication n'a été confirmée de façon indépendante. Cette fermeture s'ajoute aux perturbations déjà causées par le blocage du détroit d'Ormuz depuis mars, dans le contexte du conflit entre les États-Unis, Israël et l'Iran.",
+      "en": "Saudi Arabia temporarily shut its 1,200 km East-West oil pipeline, which links the country's eastern oil fields to its Red Sea coast, after a drone attack on September 11, according to Al Jazeera. The drones were reportedly launched from Iraq, where an investigation is underway; no claim has been independently confirmed. The closure adds to disruption already caused by the blockage of the Strait of Hormuz since March, amid the conflict between the United States, Israel and Iran.",
+      "es": "Arabia Saudita cerró temporalmente su oleoducto Este-Oeste, de 1.200 km, que conecta los yacimientos petroleros del este del país con su costa en el mar Rojo, tras un ataque con drones el 11 de septiembre, según Al Jazeera. Los drones habrían sido lanzados desde Irak, donde se lleva a cabo una investigación; ninguna reivindicación ha sido confirmada de forma independiente. El cierre se suma a las interrupciones ya causadas por el bloqueo del estrecho de Ormuz desde marzo, en el contexto del conflicto entre Estados Unidos, Israel e Irán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Des drones frappent l'oléoduc Est-Ouest, provoquant sa fermeture temporaire.",
+          "en": "Drones strike the East-West pipeline, causing its temporary closure.",
+          "es": "Drones atacan el oleoducto Este-Oeste, provocando su cierre temporal."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.88,
+      36.92
+    ],
+    "id": "turquie-antalya-incendies",
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Daily Sabah / Turkish Minute",
+    "place": {
+      "fr": "District d'Aksu, province d'Antalya, Turquie",
+      "en": "Aksu district, Antalya province, Turkey",
+      "es": "Distrito de Aksu, provincia de Antalya, Turquía"
+    },
+    "title": {
+      "fr": "Un mort et des centaines d'évacués dans une série d'incendies de forêt dans le sud de la Turquie",
+      "en": "One dead, hundreds evacuated as forest fires sweep southern Turkey",
+      "es": "Un muerto y cientos de evacuados por una serie de incendios forestales en el sur de Turquía"
+    },
+    "summary": {
+      "fr": "Une série d'incendies de forêt et de broussailles a touché le sud de la Turquie début septembre, faisant un mort, endommageant plus de 20 habitations et entraînant l'évacuation de plus de 1 500 personnes, selon Daily Sabah et Turkish Minute. Le feu le plus important a débuté le 7 septembre dans le quartier de Karaöz, dans le district d'Aksu (province d'Antalya), avant de se propager vers Kepez sous l'effet de vents violents ; d'autres foyers ont touché les districts de Serik et Kumluca.",
+      "en": "A series of forest and brush fires hit southern Turkey in early September, killing one person, damaging more than 20 homes, and forcing the evacuation of more than 1,500 people, according to Daily Sabah and Turkish Minute. The largest fire began on September 7 in the Karaöz neighborhood of Aksu district (Antalya province) before spreading toward Kepez, driven by strong winds; other blazes hit the Serik and Kumluca districts.",
+      "es": "Una serie de incendios forestales y de matorral afectó el sur de Turquía a principios de septiembre, causando la muerte de una persona, dañando más de 20 viviendas y obligando a evacuar a más de 1.500 personas, según Daily Sabah y Turkish Minute. El incendio más grande comenzó el 7 de septiembre en el barrio de Karaöz, en el distrito de Aksu (provincia de Antalya), antes de propagarse hacia Kepez por fuertes vientos; otros focos afectaron los distritos de Serik y Kumluca."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07-09/09/2026",
+          "en": "09/07-09/2026",
+          "es": "07-09/09/2026"
+        },
+        "d": {
+          "fr": "Plusieurs incendies se propagent dans la province d'Antalya ; un mort et plus de 1 500 évacués.",
+          "en": "Several fires spread across Antalya province; one dead and more than 1,500 evacuated.",
+          "es": "Varios incendios se propagan por la provincia de Antalya; un muerto y más de 1.500 evacuados."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "id": "chine-donnees-economiques-aout",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Bloomberg / National Bureau of Statistics of China",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine publie des indicateurs économiques contrastés pour le mois d'août",
+      "en": "China posts mixed economic indicators for August",
+      "es": "China publica indicadores económicos mixtos para agosto"
+    },
+    "summary": {
+      "fr": "Le Bureau national des statistiques chinois a annoncé le 15 septembre que la production industrielle a progressé de 5,2 % en août sur un an, en accélération par rapport à juillet, tandis que les ventes au détail n'ont augmenté que de 0,4 %, un ralentissement pour le deuxième mois consécutif, selon Bloomberg. L'investissement en immobilisations s'est quant à lui contracté de 7,2 % sur un an. Ces chiffres illustrent la faiblesse persistante de la consommation intérieure malgré la résistance de l'appareil industriel.",
+      "en": "China's National Bureau of Statistics announced on September 15 that industrial production rose 5.2% year-on-year in August, an acceleration from July, while retail sales grew just 0.4%, slowing for a second consecutive month, according to Bloomberg. Fixed-asset investment contracted 7.2% year-on-year. The figures illustrate persistent weakness in domestic consumption despite resilient industrial output.",
+      "es": "La Oficina Nacional de Estadísticas de China anunció el 15 de septiembre que la producción industrial creció un 5,2 % interanual en agosto, una aceleración respecto a julio, mientras que las ventas minoristas solo aumentaron un 0,4 %, desacelerándose por segundo mes consecutivo, según Bloomberg. La inversión en activos fijos se contrajo un 7,2 % interanual. Las cifras ilustran la persistente debilidad del consumo interno pese a la resiliencia del sector industrial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Publication des données d'août : production industrielle en hausse, ventes au détail en ralentissement.",
+          "en": "August data published: industrial output rises, retail sales slow.",
+          "es": "Se publican los datos de agosto: la producción industrial sube y las ventas minoristas se desaceleran."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      3.6,
+      6.45
+    ],
+    "id": "nigeria-dangote-ipo",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "CNBC Africa / ThisDay",
+    "place": {
+      "fr": "Zone franche de Lekki, Lagos, Nigeria",
+      "en": "Lekki Free Trade Zone, Lagos, Nigeria",
+      "es": "Zona franca de Lekki, Lagos, Nigeria"
+    },
+    "title": {
+      "fr": "Lancement de l'introduction en Bourse « populaire » de la raffinerie Dangote",
+      "en": "Dangote refinery launches 'people's IPO'",
+      "es": "Se lanza la 'OPI popular' de la refinería Dangote"
+    },
+    "summary": {
+      "fr": "Le milliardaire nigérian Aliko Dangote a lancé le 14 septembre l'introduction en Bourse de sa raffinerie pétrolière, présentée comme la plus importante offre d'actions jamais réalisée en Afrique, avec l'objectif de lever jusqu'à 2,1 milliards de dollars, selon CNBC Africa et ThisDay. L'offre, ouverte jusqu'au 13 octobre, propose 4,1 milliards d'actions à 525 nairas chacune et vise notamment les petits épargnants nigérians, y compris dans la diaspora. Des valorisations récentes situent la raffinerie entre 40 et 50 milliards de dollars.",
+      "en": "Nigerian billionaire Aliko Dangote launched the IPO of his oil refinery on September 14, described as Africa's largest-ever share sale, aiming to raise up to $2.1 billion, according to CNBC Africa and ThisDay. The offer, open until October 13, comprises 4.1 billion shares at ₦525 each and specifically targets small Nigerian savers, including in the diaspora. Recent valuations put the refinery at $40-50 billion.",
+      "es": "El multimillonario nigeriano Aliko Dangote lanzó el 14 de septiembre la OPI de su refinería petrolera, descrita como la mayor venta de acciones jamás realizada en África, con el objetivo de recaudar hasta 2.100 millones de dólares, según CNBC Africa y ThisDay. La oferta, abierta hasta el 13 de octubre, comprende 4.100 millones de acciones a 525 nairas cada una y se dirige especialmente a pequeños ahorradores nigerianos, incluida la diáspora. Valoraciones recientes sitúan la refinería entre 40.000 y 50.000 millones de dólares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "09/14/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Ouverture de l'offre publique d'achat d'actions de la raffinerie Dangote.",
+          "en": "The Dangote refinery's public share offer opens.",
+          "es": "Se abre la oferta pública de acciones de la refinería Dangote."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      55.2708,
+      25.2048
+    ],
+    "id": "inde-cricket-asia-cup-feminin",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏏",
+    "source": "Press Trust of India / ANI",
+    "place": {
+      "fr": "Dubaï, Émirats arabes unis (finale de l'Asia Cup féminine)",
+      "en": "Dubai, United Arab Emirates (Women's Asia Cup final)",
+      "es": "Dubái, Emiratos Árabes Unidos (final de la Copa Asia femenina)"
+    },
+    "title": {
+      "fr": "L'Inde remporte la Coupe d'Asie féminine de cricket à Dubaï",
+      "en": "India wins Women's Cricket Asia Cup in Dubai",
+      "es": "India gana la Copa Asia femenina de cricket en Dubái"
+    },
+    "summary": {
+      "fr": "L'équipe féminine de cricket de l'Inde a remporté le titre de l'Asia Cup 2026 à Dubaï, une victoire saluée par le Premier ministre indien Narendra Modi, qui a félicité l'équipe pour sa constance et son esprit de compétition, selon la presse indienne (Press Trust of India, ANI). Il s'agit d'un nouveau titre continental pour l'équipe nationale féminine.",
+      "en": "India's women's cricket team won the 2026 Asia Cup title in Dubai, a victory praised by Indian Prime Minister Narendra Modi, who congratulated the team for its consistency and competitive spirit, according to Indian press reports (Press Trust of India, ANI). It marks another continental title for the national women's team.",
+      "es": "El equipo femenino de cricket de India ganó el título de la Copa Asia 2026 en Dubái, una victoria elogiada por el primer ministro indio, Narendra Modi, quien felicitó al equipo por su constancia y espíritu competitivo, según la prensa india (Press Trust of India, ANI). Se trata de un nuevo título continental para el equipo nacional femenino."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "septembre 2026",
+          "en": "September 2026",
+          "es": "septiembre de 2026"
+        },
+        "d": {
+          "fr": "L'Inde bat son adversaire en finale et décroche le titre de l'Asia Cup féminine.",
+          "en": "India beats its opponent in the final to clinch the Women's Asia Cup title.",
+          "es": "India vence a su rival en la final y se hace con el título de la Copa Asia femenina."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -103.3496,
+      20.6597
+    ],
+    "id": "mexique-guadalajara-crise-eau-electricite",
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "💧",
+    "source": "Mexico News Daily",
+    "place": {
+      "fr": "Guadalajara, État de Jalisco, Mexique",
+      "en": "Guadalajara, Jalisco state, Mexico",
+      "es": "Guadalajara, estado de Jalisco, México"
+    },
+    "title": {
+      "fr": "Crise de l'eau et coupures d'électricité prolongées à Guadalajara",
+      "en": "Water crisis and prolonged power outages in Guadalajara",
+      "es": "Crisis del agua y cortes de electricidad prolongados en Guadalajara"
+    },
+    "summary": {
+      "fr": "La présidente Claudia Sheinbaum s'est entretenue avec le gouverneur de Jalisco, Pablo Lemus, au sujet de la crise de l'eau qui touche l'agglomération de Guadalajara, alors que plusieurs quartiers, dont Providencia, subissent des coupures de courant pouvant durer jusqu'à 20 heures, selon Mexico News Daily. La Commission fédérale d'électricité (CFE) attribue ces coupures aux fortes pluies et aux vents de la saison. La ville perdrait par ailleurs environ la moitié de son approvisionnement en eau chaque année en raison de fuites, de vols et d'erreurs de comptage.",
+      "en": "President Claudia Sheinbaum met with Jalisco Governor Pablo Lemus regarding the water crisis affecting the Guadalajara metropolitan area, as several neighborhoods, including Providencia, endure power outages lasting up to 20 hours, according to Mexico News Daily. The Federal Electricity Commission (CFE) attributes the outages to seasonal heavy rains and winds. The city is also estimated to lose about half of its water supply each year to leaks, theft and metering errors.",
+      "es": "La presidenta Claudia Sheinbaum se reunió con el gobernador de Jalisco, Pablo Lemus, sobre la crisis del agua que afecta al área metropolitana de Guadalajara, mientras varias colonias, entre ellas Providencia, sufren cortes de electricidad de hasta 20 horas, según Mexico News Daily. La Comisión Federal de Electricidad (CFE) atribuye los cortes a las fuertes lluvias y vientos de la temporada. Se estima además que la ciudad pierde cerca de la mitad de su suministro de agua cada año por fugas, robos y errores de medición."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "septembre 2026",
+          "en": "September 2026",
+          "es": "septiembre de 2026"
+        },
+        "d": {
+          "fr": "La présidente rencontre le gouverneur de Jalisco pour discuter de la crise de l'eau et de l'électricité.",
+          "en": "The president meets with the Jalisco governor to discuss the water and power crisis.",
+          "es": "La presidenta se reúne con el gobernador de Jalisco para abordar la crisis del agua y la electricidad."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "coords": [
+      137.5833,
+      -33.0333
+    ],
+    "id": "australie-whyalla-acierie-emplois",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "ABC News Australia",
+    "place": {
+      "fr": "Whyalla, Australie-Méridionale, Australie",
+      "en": "Whyalla, South Australia, Australia",
+      "es": "Whyalla, Australia Meridional, Australia"
+    },
+    "title": {
+      "fr": "Plus de 500 emplois supprimés à l'aciérie de Whyalla après la fermeture du haut-fourneau",
+      "en": "More than 500 jobs cut at Whyalla steelworks after blast furnace closure",
+      "es": "Más de 500 empleos eliminados en la acería de Whyalla tras el cierre del alto horno"
+    },
+    "summary": {
+      "fr": "Les gouvernements australien et sud-australien ont annoncé un plan d'aide de 10,2 millions de dollars australiens pour les centaines de salariés qui perdront leur emploi à la suite de la fermeture définitive du haut-fourneau de l'aciérie de Whyalla, en Australie-Méridionale, selon ABC News. Les effectifs passeront d'environ 1 700 à 1 200 employés, auxquels s'ajoute une centaine de travailleurs intérimaires également licenciés. Le processus de vente de l'aciérie, placée sous administration judiciaire, a été reporté à la fin de l'année 2026.",
+      "en": "The Australian and South Australian governments announced a A$10.2 million support package for hundreds of workers who will lose their jobs following the permanent closure of the blast furnace at the Whyalla steelworks in South Australia, according to ABC News. The workforce will shrink from about 1,700 to 1,200 employees, with around 100 labour-hire workers also losing their jobs. The sale process for the steelworks, which is under administration, has been pushed back to the end of 2026.",
+      "es": "Los gobiernos de Australia y de Australia Meridional anunciaron un paquete de ayuda de 10,2 millones de dólares australianos para los cientos de trabajadores que perderán su empleo tras el cierre definitivo del alto horno de la acería de Whyalla, en Australia Meridional, según ABC News. La plantilla se reducirá de unos 1.700 a 1.200 empleados, a lo que se suman unos 100 trabajadores temporales también despedidos. El proceso de venta de la acería, que está bajo administración judicial, se ha aplazado hasta finales de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "09/14/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Les administrateurs judiciaires informent le personnel des suppressions d'emplois et du plan d'aide.",
+          "en": "Administrators brief staff on the job cuts and the support package.",
+          "es": "Los administradores informan al personal sobre los despidos y el paquete de ayuda."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -76.2667,
+      4.9667
+    ],
+    "id": "colombie-seisme-choco-bilan",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🏚️",
+    "source": "CARE International / CBS News",
+    "place": {
+      "fr": "San José del Palmar, département du Chocó, Colombie",
+      "en": "San José del Palmar, Chocó department, Colombia",
+      "es": "San José del Palmar, departamento del Chocó, Colombia"
+    },
+    "title": {
+      "fr": "Un mois après le séisme du Chocó, le bilan atteint 331 morts en Colombie",
+      "en": "One month after Chocó earthquake, Colombia's death toll reaches 331",
+      "es": "Un mes después del terremoto de Chocó, el balance en Colombia llega a 331 muertos"
+    },
+    "summary": {
+      "fr": "Un mois après le séisme de magnitude 7,4 qui a frappé la région de San José del Palmar, dans le département du Chocó, le 10 août, le bilan s'élève à 331 morts et environ 466 000 personnes affectées, selon un bilan de l'ONG CARE publié le 10 septembre. Les premiers bilans, rapportés par CBS News et CNN au lendemain du séisme, faisaient état d'au moins 111 à 132 morts ; le nombre de victimes confirmées a donc plus que doublé au cours du mois qui a suivi.",
+      "en": "One month after the magnitude 7.4 earthquake that struck the San José del Palmar area in Chocó department on August 10, the death toll stands at 331, with about 466,000 people affected, according to a tally published by aid group CARE on September 10. Initial tolls reported by CBS News and CNN the day after the quake put the number of dead at 111 to 132; the confirmed death toll has thus more than doubled in the month since.",
+      "es": "Un mes después del terremoto de magnitud 7,4 que sacudió la zona de San José del Palmar, en el departamento del Chocó, el 10 de agosto, el balance se sitúa en 331 muertos y unas 466.000 personas afectadas, según una cifra publicada por la ONG CARE el 10 de septiembre. Los primeros balances, difundidos por CBS News y CNN al día siguiente del sismo, situaban el número de muertos entre 111 y 132; la cifra confirmada de víctimas se ha más que duplicado en el mes transcurrido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/08/2026",
+          "en": "08/10/2026",
+          "es": "10/08/2026"
+        },
+        "d": {
+          "fr": "Un séisme de magnitude 7,4 frappe le Chocó ; un premier bilan fait état d'une centaine de morts.",
+          "en": "A magnitude 7.4 earthquake strikes Chocó; an initial toll reports about a hundred deaths.",
+          "es": "Un terremoto de magnitud 7,4 sacude el Chocó; un primer balance reporta un centenar de muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "09/10/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "L'ONG CARE porte le bilan à 331 morts et 466 000 personnes affectées, un mois après le séisme.",
+          "en": "Aid group CARE raises the toll to 331 dead and 466,000 affected, one month after the quake.",
+          "es": "La ONG CARE eleva el balance a 331 muertos y 466.000 afectados, un mes después del terremoto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "id": "egypte-croissance-pib",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Egypt Independent / Xinhua",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'économie égyptienne a crû de 5,1 % sur l'exercice budgétaire 2025/2026",
+      "en": "Egypt's economy grew 5.1% in fiscal year 2025/26",
+      "es": "La economía de Egipto creció un 5,1 % en el año fiscal 2025/26"
+    },
+    "summary": {
+      "fr": "Le ministère égyptien de la Planification a annoncé début septembre que le produit intérieur brut de l'Égypte a progressé de 5,1 % au cours de l'exercice budgétaire 2025/2026, contre 4,4 % l'année précédente, dépassant la prévision de 4,6 % du FMI, selon Egypt Independent et l'agence Xinhua. L'industrie, le commerce et les télécommunications ont représenté 48 % de cette croissance, tandis que l'activité du canal de Suez a nettement rebondi.",
+      "en": "Egypt's Planning Ministry announced in early September that GDP grew 5.1% during the 2025/26 fiscal year, up from 4.4% the previous year, beating the IMF's 4.6% forecast, according to Egypt Independent and Xinhua. Industry, trade and telecommunications accounted for 48% of the growth, while Suez Canal activity rebounded strongly.",
+      "es": "El Ministerio de Planificación de Egipto anunció a principios de septiembre que el PIB creció un 5,1 % durante el año fiscal 2025/26, frente al 4,4 % del año anterior, superando la previsión del FMI del 4,6 %, según Egypt Independent y la agencia Xinhua. La industria, el comercio y las telecomunicaciones representaron el 48 % de ese crecimiento, mientras que la actividad del Canal de Suez repuntó con fuerza."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "début septembre 2026",
+          "en": "early September 2026",
+          "es": "principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Le ministère de la Planification publie les chiffres définitifs de croissance de l'exercice 2025/2026.",
+          "en": "The Planning Ministry publishes final growth figures for the 2025/26 fiscal year.",
+          "es": "El Ministerio de Planificación publica las cifras definitivas de crecimiento del año fiscal 2025/26."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
   }
 ]
