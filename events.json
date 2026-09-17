@@ -829,5 +829,849 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "losangeles-helico-crash",
+    "coords": [
+      -118.6009,
+      34.2381
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚁",
+    "source": "The Washington Post",
+    "place": {
+      "fr": "Chatsworth, Los Angeles, États-Unis",
+      "en": "Chatsworth, Los Angeles, United States",
+      "es": "Chatsworth, Los Ángeles, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un hélicoptère de télévision s'écrase à Los Angeles, trois morts",
+      "en": "News helicopter crashes in Los Angeles, killing three",
+      "es": "Un helicóptero de televisión se estrella en Los Ángeles y deja tres muertos"
+    },
+    "summary": {
+      "fr": "Un hélicoptère d'information des chaînes NBC4 et Telemundo 52 s'est écrasé mardi soir dans le quartier de Chatsworth, au nord de Los Angeles, alors qu'il couvrait en direct un accident entre un bus et un véhicule. Le pilote George Marciniw et la journaliste Eliana Moreno, à bord de l'appareil, ainsi qu'une personne au sol, Edy Gutierrez Mejia, ont été tués. Les causes du crash n'ont pas été précisées.",
+      "en": "A news helicopter operated for NBC4 and Telemundo 52 crashed Tuesday evening in the Chatsworth neighborhood of northern Los Angeles while covering a live bus-and-vehicle collision. Pilot George Marciniw and photojournalist Eliana Moreno aboard the aircraft, along with a person on the ground, Edy Gutierrez Mejia, were killed. The cause of the crash has not been determined.",
+      "es": "Un helicóptero de noticias operado para NBC4 y Telemundo 52 se estrelló la noche del martes en el barrio de Chatsworth, al norte de Los Ángeles, mientras cubría en directo una colisión entre un autobús y un vehículo. El piloto George Marciniw y la periodista Eliana Moreno, a bordo de la aeronave, además de una persona en tierra, Edy Gutierrez Mejia, murieron. No se ha determinado la causa del accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "L'hélicoptère NewsChopper4, exploité par Angel City Air pour NBC4/Telemundo 52, s'écrase à Chatsworth peu avant 19h alors qu'il couvrait un accident de bus. Trois personnes meurent, dont le pilote et la journaliste à bord.",
+          "en": "The NewsChopper4 helicopter, operated by Angel City Air for NBC4/Telemundo 52, crashes in Chatsworth just before 7 p.m. while covering a bus accident. Three people die, including the pilot and the journalist aboard.",
+          "es": "El helicóptero NewsChopper4, operado por Angel City Air para NBC4/Telemundo 52, se estrella en Chatsworth poco antes de las 19:00 mientras cubría un accidente de autobús. Mueren tres personas, incluidos el piloto y la periodista a bordo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "californie-incendies-2026",
+    "coords": [
+      -121.4,
+      35.95
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Cal Fire",
+    "place": {
+      "fr": "Côte de Big Sur, comté de Monterey, Californie, États-Unis",
+      "en": "Big Sur coast, Monterey County, California, United States",
+      "es": "Costa de Big Sur, condado de Monterey, California, Estados Unidos"
+    },
+    "title": {
+      "fr": "La Californie affronte une saison des feux de forêt parmi les plus intenses",
+      "en": "California faces one of its most intense wildfire seasons",
+      "es": "California enfrenta una de sus temporadas de incendios forestales más intensas"
+    },
+    "summary": {
+      "fr": "Selon Cal Fire, plus de 322 000 acres sont partis en fumée en Californie depuis le début de l'année 2026. Le Plaskett Fire, qui brûle dans la forêt nationale de Los Padres le long de la côte de Big Sur, a détruit près de 29 900 acres et n'était contenu qu'à 37 %. Pompiers fédéraux et locaux alertent sur un manque criant de moyens face à une saison qu'ils qualifient de point de bascule.",
+      "en": "According to Cal Fire, more than 322,000 acres have burned across California since the start of 2026. The Plaskett Fire, burning in Los Padres National Forest along the Big Sur coast, has scorched nearly 29,900 acres and was only 37% contained. Federal and local firefighters warn of a severe shortage of resources during a season they describe as a tipping point.",
+      "es": "Según Cal Fire, más de 322.000 acres han ardido en California desde comienzos de 2026. El incendio Plaskett, que arde en el Bosque Nacional Los Padres a lo largo de la costa de Big Sur, ha quemado cerca de 29.900 acres y solo estaba contenido en un 37 %. Los bomberos federales y locales advierten de una grave falta de medios en una temporada que califican de punto de inflexión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Cal Fire recense plus de 322 000 acres brûlés depuis janvier ; le Plaskett Fire, actif depuis fin août sur la côte de Big Sur, atteint 29 862 acres et 37 % de confinement.",
+          "en": "Cal Fire reports more than 322,000 acres burned since January; the Plaskett Fire, active since late August on the Big Sur coast, has reached 29,862 acres and 37% containment.",
+          "es": "Cal Fire registra más de 322.000 acres quemados desde enero; el incendio Plaskett, activo desde finales de agosto en la costa de Big Sur, alcanza 29.862 acres y un 37 % de contención."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "chine-bourse-treve-commerciale",
+    "coords": [
+      121.4737,
+      31.2304
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNBC",
+    "place": {
+      "fr": "Shanghai, Chine",
+      "en": "Shanghai, China",
+      "es": "Shanghái, China"
+    },
+    "title": {
+      "fr": "Les Bourses chinoises progressent dans l'attente du sommet Trump-Xi",
+      "en": "Chinese stocks rise as Trump-Xi summit approaches",
+      "es": "Las bolsas chinas suben ante la proximidad de la cumbre Trump-Xi"
+    },
+    "summary": {
+      "fr": "L'indice Shanghai Composite a gagné environ 0,7 % mercredi et le Shenzhen Component plus de 1 %, portés par des signes de progrès dans les discussions commerciales sino-américaines. Le secrétaire au Trésor américain Scott Bessent doit rencontrer le vice-premier ministre chinois He Lifeng ce week-end, avant un sommet prévu entre Donald Trump et Xi Jinping le 24 septembre.",
+      "en": "The Shanghai Composite gained about 0.7% on Wednesday and the Shenzhen Component rose more than 1%, buoyed by signs of progress in US-China trade talks. US Treasury Secretary Scott Bessent is due to meet Chinese Vice Premier He Lifeng this weekend, ahead of a summit planned between Donald Trump and Xi Jinping on September 24.",
+      "es": "El índice Shanghai Composite subió cerca de un 0,7 % el miércoles y el Shenzhen Component más de un 1 %, impulsados por señales de avance en las conversaciones comerciales entre EE. UU. y China. El secretario del Tesoro estadounidense, Scott Bessent, se reunirá este fin de semana con el viceprimer ministro chino He Lifeng, antes de una cumbre prevista entre Donald Trump y Xi Jinping el 24 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le Shanghai Composite clôture à environ 3 894 points (+0,7 %), porté par l'espoir d'une prolongation de la trêve commerciale entre Washington et Pékin.",
+          "en": "The Shanghai Composite closes at about 3,894 points (+0.7%), lifted by hopes of an extension of the trade truce between Washington and Beijing.",
+          "es": "El Shanghai Composite cierra en torno a los 3.894 puntos (+0,7 %), impulsado por la esperanza de una prórroga de la tregua comercial entre Washington y Pekín."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-sabotage-reseau-electrique",
+    "coords": [
+      6.3167,
+      50.8167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "The World (PRX)",
+    "place": {
+      "fr": "Weisweiler, Rhénanie-du-Nord-Westphalie, Allemagne",
+      "en": "Weisweiler, North Rhine-Westphalia, Germany",
+      "es": "Weisweiler, Renania del Norte-Westfalia, Alemania"
+    },
+    "title": {
+      "fr": "Un suspect arrêté après une série de sabotages du réseau électrique allemand",
+      "en": "Suspect arrested after a string of attacks on Germany's power grid",
+      "es": "Detenido un sospechoso tras una serie de sabotajes a la red eléctrica alemana"
+    },
+    "summary": {
+      "fr": "La police allemande a arrêté le 8 septembre, près d'une centrale électrique de Weisweiler, un homme de 48 ans soupçonné d'avoir mené plusieurs attaques contre des lignes à haute tension en Rhénanie-du-Nord-Westphalie, dans le Brandebourg et en Saxe, dont un tir de plus de 20 projectiles reliés par des câbles conducteurs visant la centrale de Jänschwalde le 1er septembre. Le ministre de l'Intérieur évoque un mobile lié à l'« extrémisme climatique » ; des explosifs ont été retrouvés à son domicile.",
+      "en": "German police arrested a 48-year-old man near a power plant in Weisweiler on September 8, suspected of carrying out several attacks on high-voltage lines in North Rhine-Westphalia, Brandenburg and Saxony, including firing more than 20 wire-trailing projectiles at the Jänschwalde plant on September 1. The interior minister has pointed to a motive linked to \"climate extremism\"; explosives were found at his home.",
+      "es": "La policía alemana detuvo el 8 de septiembre, cerca de una central eléctrica en Weisweiler, a un hombre de 48 años sospechoso de haber llevado a cabo varios ataques contra líneas de alta tensión en Renania del Norte-Westfalia, Brandeburgo y Sajonia, entre ellos el disparo de más de 20 proyectiles con cables conductores contra la central de Jänschwalde el 1 de septiembre. El ministro del Interior apunta a un móvil de «extremismo climático»; se hallaron explosivos en su domicilio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Un homme de 48 ans est arrêté près de Weisweiler, soupçonné d'avoir mené une série d'attaques par projectiles contre des lignes à haute tension dans trois Länder.",
+          "en": "A 48-year-old man is arrested near Weisweiler, suspected of carrying out a series of projectile attacks on high-voltage lines across three states.",
+          "es": "Un hombre de 48 años es detenido cerca de Weisweiler, sospechoso de haber llevado a cabo una serie de ataques con proyectiles contra líneas de alta tensión en tres estados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "L'enquête se poursuit et alimente le débat sur la qualification d'« extrémisme climatique » à retenir contre le suspect.",
+          "en": "The investigation continues, fueling debate over whether the suspect should be charged under \"climate extremism\" statutes.",
+          "es": "La investigación continúa y alimenta el debate sobre si al sospechoso se le debe imputar bajo la calificación de «extremismo climático»."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "japon-drone-global-hawk-disparu",
+    "coords": [
+      134.2,
+      35.9
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛩️",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Mer du Japon, au large de la préfecture de Tottori, Japon",
+      "en": "Sea of Japan, off Tottori Prefecture, Japan",
+      "es": "Mar de Japón, frente a la prefectura de Tottori, Japón"
+    },
+    "title": {
+      "fr": "Un drone de surveillance japonais RQ-4 Global Hawk s'abîme en mer",
+      "en": "Japanese RQ-4 Global Hawk surveillance drone crashes into the sea",
+      "es": "Un dron de vigilancia japonés RQ-4 Global Hawk se estrella en el mar"
+    },
+    "summary": {
+      "fr": "Un drone de reconnaissance RQ-4B Global Hawk de la Force aérienne d'autodéfense japonaise, décollé de la base de Misawa, a disparu des radars mardi vers 13h à environ 50 km au nord de la préfecture de Tottori. Des débris et des traces d'hydrocarbures ont été repérés en mer l'après-midi même. Il s'agit de la première perte de ce type d'appareil, en service depuis 2022 et évalué à environ 110 millions de dollars ; l'armée n'a pas précisé la nature de la mission.",
+      "en": "A JASDF RQ-4B Global Hawk reconnaissance drone, which had taken off from Misawa Air Base, disappeared from radar around 1 p.m. Tuesday roughly 50 km north of Tottori Prefecture. Debris and an oil slick were spotted at sea that same afternoon. It is the first loss of this aircraft type, in service since 2022 and valued at about $110 million; the military has not disclosed the nature of the mission.",
+      "es": "Un dron de reconocimiento RQ-4B Global Hawk de la Fuerza Aérea de Autodefensa de Japón, que había despegado de la base aérea de Misawa, desapareció de los radares hacia la 1 de la tarde del martes, a unos 50 km al norte de la prefectura de Tottori. Esa misma tarde se localizaron restos y una mancha de combustible en el mar. Es la primera pérdida de este tipo de aparato, en servicio desde 2022 y valorado en unos 110 millones de dólares; el ejército no ha revelado la naturaleza de la misión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le drone disparaît des radars à 13h ; des débris et une nappe d'hydrocarbures sont repérés en mer l'après-midi même, confirmant la perte de l'appareil.",
+          "en": "The drone disappears from radar at 1 p.m.; debris and an oil slick are spotted at sea that same afternoon, confirming the loss of the aircraft.",
+          "es": "El dron desaparece de los radares a la 1 de la tarde; esa misma tarde se localizan restos y una mancha de combustible en el mar, confirmando la pérdida del aparato."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "france-diplomatie-petroliere",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Agence Anadolu",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Macron multiplie les appels pour sécuriser l'approvisionnement pétrolier",
+      "en": "Macron steps up calls to secure oil supplies",
+      "es": "Macron intensifica las gestiones para asegurar el suministro de petróleo"
+    },
+    "summary": {
+      "fr": "Le président Emmanuel Macron a indiqué mercredi que la France travaillait à sécuriser ses approvisionnements en pétrole et à limiter la pression sur les prix des carburants. Après des échanges avec le Premier ministre irakien plus tôt dans la semaine, il s'est entretenu avec le prince héritier saoudien Mohammed ben Salmane et l'émir du Qatar, cherchant à ouvrir des routes alternatives afin de réduire la dépendance au détroit d'Ormuz, perturbé par les tensions régionales.",
+      "en": "President Emmanuel Macron said Wednesday that France is working to secure its oil supplies and ease pressure on fuel prices. After talks with the Iraqi prime minister earlier in the week, he spoke with Saudi Crown Prince Mohammed bin Salman and the Emir of Qatar, seeking to open alternative routes to reduce dependence on the Strait of Hormuz, which has been disrupted by regional tensions.",
+      "es": "El presidente Emmanuel Macron afirmó el miércoles que Francia trabaja para asegurar su suministro de petróleo y aliviar la presión sobre los precios de los combustibles. Tras conversar con el primer ministro iraquí a principios de semana, habló con el príncipe heredero saudí Mohamed bin Salmán y el emir de Catar, buscando abrir rutas alternativas para reducir la dependencia del estrecho de Ormuz, perturbado por las tensiones regionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Macron s'entretient avec le prince héritier saoudien et l'émir du Qatar afin de sécuriser les routes pétrolières alternatives au détroit d'Ormuz.",
+          "en": "Macron speaks with the Saudi crown prince and the Emir of Qatar to secure alternative oil routes to the Strait of Hormuz.",
+          "es": "Macron conversa con el príncipe heredero saudí y el emir de Catar para asegurar rutas petroleras alternativas al estrecho de Ormuz."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "canada-etatsunis-marches-publics",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📋",
+    "source": "CBC News",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Washington exclut les produits canadiens des marchés publics fédéraux",
+      "en": "Washington moves to exclude Canadian goods from federal procurement",
+      "es": "Washington excluye los productos canadienses de la contratación pública federal"
+    },
+    "summary": {
+      "fr": "Donald Trump a signé mercredi un mémorandum présidentiel demandant l'identification et le retrait des produits d'origine canadienne des achats du gouvernement fédéral américain. La Maison-Blanche justifie la mesure par des pratiques jugées discriminatoires du Canada envers les entreprises américaines dans ses propres marchés publics. Cette décision intervient une semaine après l'interdiction par Washington de certains produits canadiens, dont l'alcool et les motos, dans le cadre de l'escalade commerciale entre les deux pays.",
+      "en": "Donald Trump signed a presidential memorandum on Wednesday directing officials to identify and remove Canadian-origin goods from US federal government purchasing. The White House justified the move by pointing to what it called discriminatory Canadian procurement practices against American firms. The decision comes a week after Washington banned certain Canadian products, including alcohol and motorcycles, amid an escalating trade dispute between the two countries.",
+      "es": "Donald Trump firmó el miércoles un memorando presidencial que ordena identificar y retirar los productos de origen canadiense de las compras del gobierno federal estadounidense. La Casa Blanca justificó la medida señalando prácticas de contratación pública canadienses que considera discriminatorias contra empresas estadounidenses. La decisión llega una semana después de que Washington prohibiera ciertos productos canadienses, entre ellos alcohol y motocicletas, en medio de una disputa comercial cada vez más intensa entre ambos países."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Trump signe un mémorandum ordonnant l'identification et le retrait des produits canadiens des marchés publics fédéraux américains.",
+          "en": "Trump signs a memorandum directing officials to identify and remove Canadian goods from US federal procurement.",
+          "es": "Trump firma un memorando que ordena identificar y retirar los productos canadienses de la contratación pública federal de EE. UU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "inde-effondrement-satya-niketan",
+    "coords": [
+      77.19,
+      28.566
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🏚️",
+    "source": "Bar and Bench",
+    "place": {
+      "fr": "Satya Niketan, New Delhi, Inde",
+      "en": "Satya Niketan, New Delhi, India",
+      "es": "Satya Niketan, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "La justice indienne dénonce une conduite « criminelle » après l'effondrement d'un foyer étudiant à Delhi",
+      "en": "Indian court calls Delhi student housing collapse result of 'criminal conduct'",
+      "es": "La justicia india denuncia una conducta «criminal» tras el derrumbe de una residencia estudiantil en Delhi"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages servant de foyer privé pour étudiants s'est effondré le 6 septembre dans le quartier de Satya Niketan, près du campus sud de l'université de Delhi, faisant au moins sept morts, dont plusieurs étudiants, en pleins travaux de rénovation. Le 16 septembre, la Haute Cour de Delhi a jugé que le drame résultait d'une conduite « négligente et criminelle », pointant l'absence de logements universitaires officiels et la prolifération de foyers privés non réglementés.",
+      "en": "A five-story building used as private student housing collapsed on September 6 in the Satya Niketan neighborhood near Delhi University's South Campus, killing at least seven people, including several students, during renovation work. On September 16, the Delhi High Court ruled that the disaster resulted from \"callous and criminal\" conduct, pointing to the shortage of official university housing and the spread of unregulated private hostels.",
+      "es": "Un edificio de cinco plantas utilizado como residencia privada para estudiantes se derrumbó el 6 de septiembre en el barrio de Satya Niketan, cerca del campus sur de la Universidad de Delhi, matando al menos a siete personas, entre ellas varios estudiantes, durante trabajos de renovación. El 16 de septiembre, el Tribunal Superior de Delhi dictaminó que la tragedia fue resultado de una conducta «negligente y criminal», señalando la escasez de alojamiento universitario oficial y la proliferación de residencias privadas sin regular."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "09/06/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Un foyer étudiant de cinq étages s'effondre à Satya Niketan pendant des travaux de rénovation, faisant au moins sept morts.",
+          "en": "A five-story student hostel collapses in Satya Niketan during renovation work, killing at least seven people.",
+          "es": "Una residencia estudiantil de cinco plantas se derrumba en Satya Niketan durante obras de renovación y deja al menos siete muertos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "La Haute Cour de Delhi qualifie l'effondrement de conduite « négligente et criminelle » et pointe le manque de logements universitaires régulés.",
+          "en": "The Delhi High Court calls the collapse the result of \"callous and criminal\" conduct and points to the lack of regulated university housing.",
+          "es": "El Tribunal Superior de Delhi califica el derrumbe de conducta «negligente y criminal» y señala la falta de alojamiento universitario regulado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-frappe-drone-bus-nikopol",
+    "coords": [
+      34.6,
+      47.57
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Région de Nikopol, oblast de Dnipropetrovsk, Ukraine",
+      "en": "Nikopol area, Dnipropetrovsk region, Ukraine",
+      "es": "Zona de Nikopol, región de Dnipropetrovsk, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe sur un bus fait au moins cinq morts près du front",
+      "en": "Russian drone strike on a bus kills at least five near the front line",
+      "es": "Un ataque con dron ruso contra un autobús mata al menos a cinco personas cerca del frente"
+    },
+    "summary": {
+      "fr": "Une frappe de drone russe a visé mardi un bus dans la région de Nikopol, dans l'oblast ukrainien de Dnipropetrovsk, non loin de la ligne de front, tuant au moins cinq personnes et en blessant sept autres. L'état-major ukrainien a par ailleurs fait état de 208 combats et de 233 bombes guidées larguées par l'aviation russe depuis le début de la journée.",
+      "en": "A Russian drone strike hit a bus on Tuesday in the Nikopol area of Ukraine's Dnipropetrovsk region, not far from the front line, killing at least five people and wounding seven others. Ukraine's General Staff separately reported 208 combat engagements and 233 guided bombs dropped by Russian aircraft since the start of the day.",
+      "es": "Un ataque con dron ruso alcanzó el martes un autobús en la zona de Nikopol, en la región ucraniana de Dnipropetrovsk, no lejos de la línea del frente, matando al menos a cinco personas e hiriendo a otras siete. El Estado Mayor ucraniano informó además de 208 combates y 233 bombas guiadas lanzadas por la aviación rusa desde el inicio del día."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Un drone russe frappe un bus près de Nikopol, tuant au moins cinq personnes et en blessant sept autres.",
+          "en": "A Russian drone strikes a bus near Nikopol, killing at least five people and wounding seven others.",
+          "es": "Un dron ruso ataca un autobús cerca de Nikopol, matando al menos a cinco personas e hiriendo a otras siete."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "hormuz-affrontement-naval",
+    "coords": [
+      56.35,
+      26.85
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Détroit d'Ormuz, au large de l'île de Larak, Iran",
+      "en": "Strait of Hormuz, off Larak Island, Iran",
+      "es": "Estrecho de Ormuz, frente a la isla de Larak, Irán"
+    },
+    "title": {
+      "fr": "Washington dit avoir détruit deux embarcations iraniennes après une tentative de capture d'un drone naval",
+      "en": "Washington says it destroyed two Iranian boats after an attempt to seize a naval drone",
+      "es": "Washington asegura haber destruido dos embarcaciones iraníes tras un intento de captura de un dron naval"
+    },
+    "summary": {
+      "fr": "Le Commandement central américain (CENTCOM) affirme que des membres des gardiens de la révolution iraniens ont tenté, dans la nuit du 14 septembre, de s'emparer d'un drone de surface de la marine américaine au large de l'île de Larak, dans le détroit d'Ormuz. Un drone américain a alors tiré deux missiles, détruisant deux embarcations et tuant la plupart des personnes à bord, selon des responsables américains. Les médias d'État iraniens ont présenté l'épisode différemment, évoquant une frappe contre des « bateaux de pêche » et des pêcheurs portés disparus.",
+      "en": "US Central Command (CENTCOM) says Iranian Revolutionary Guard forces attempted, on the night of September 14, to seize a US Navy surface drone off Larak Island in the Strait of Hormuz. A US drone then fired two missiles, destroying two boats and killing most of those aboard, according to US officials. Iranian state media presented the episode differently, describing a strike on \"fishing boats\" and missing fishermen.",
+      "es": "El Mando Central de EE. UU. (CENTCOM) afirma que fuerzas de la Guardia Revolucionaria iraní intentaron, en la noche del 14 de septiembre, apoderarse de un dron de superficie de la Marina estadounidense frente a la isla de Larak, en el estrecho de Ormuz. Un dron estadounidense disparó entonces dos misiles, destruyendo dos embarcaciones y matando a la mayoría de sus ocupantes, según funcionarios estadounidenses. Los medios estatales iraníes presentaron el episodio de forma distinta, hablando de un ataque contra «barcos de pesca» y pescadores desaparecidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "09/14/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Un drone américain détruit deux embarcations iraniennes près de l'île de Larak après une tentative présumée de capture d'un drone de surface de l'US Navy.",
+          "en": "A US drone destroys two Iranian boats near Larak Island following an alleged attempt to seize a US Navy surface drone.",
+          "es": "Un dron estadounidense destruye dos embarcaciones iraníes cerca de la isla de Larak tras un presunto intento de captura de un dron de superficie de la Marina de EE. UU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-naufrage-virgo-transport-8",
+    "coords": [
+      114.47,
+      -5.57
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛴️",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Mer de Java, au large des îles Masalembo, Indonésie",
+      "en": "Java Sea, off the Masalembo Islands, Indonesia",
+      "es": "Mar de Java, frente a las islas Masalembo, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry chavire en mer de Java, plus d'une centaine de personnes toujours recherchées",
+      "en": "Ferry capsizes in the Java Sea, more than a hundred people still missing",
+      "es": "Un ferry vuelca en el mar de Java y más de un centenar de personas siguen desaparecidas"
+    },
+    "summary": {
+      "fr": "Le ferry Virgo Transport 8, qui reliait Surabaya (Java) à Banjarmasin (Kalimantan) avec 243 personnes à bord, a chaviré dimanche 13 septembre au large des îles Masalembo après avoir rencontré une mer démontée, avec des vagues atteignant trois mètres. Six corps ont été retrouvés et 107 personnes secourues dès le premier jour ; les autorités indonésiennes poursuivaient mercredi les recherches pour environ 129 personnes toujours portées disparues, à l'aide d'hélicoptères et de navires de patrouille.",
+      "en": "The ferry Virgo Transport 8, sailing from Surabaya (Java) to Banjarmasin (Kalimantan) with 243 people aboard, capsized on Sunday, September 13, off the Masalembo Islands after encountering rough seas with waves up to three meters high. Six bodies were recovered and 107 people rescued on the first day; Indonesian authorities were still searching Wednesday for around 129 people still missing, using helicopters and patrol vessels.",
+      "es": "El ferry Virgo Transport 8, que viajaba de Surabaya (Java) a Banjarmasín (Kalimantan) con 243 personas a bordo, volcó el domingo 13 de septiembre frente a las islas Masalembo tras encontrar un mar embravecido, con olas de hasta tres metros. Se recuperaron seis cuerpos y se rescató a 107 personas el primer día; las autoridades indonesias seguían buscando el miércoles a unas 129 personas todavía desaparecidas, con ayuda de helicópteros y buques de patrulla."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "09/13/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Le Virgo Transport 8 chavire en mer de Java avec 243 personnes à bord ; six corps sont retrouvés et 107 personnes secourues le premier jour.",
+          "en": "The Virgo Transport 8 capsizes in the Java Sea with 243 people aboard; six bodies are recovered and 107 people rescued on the first day.",
+          "es": "El Virgo Transport 8 vuelca en el mar de Java con 243 personas a bordo; se recuperan seis cuerpos y se rescata a 107 personas el primer día."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Les recherches se poursuivent pour environ 129 personnes toujours portées disparues.",
+          "en": "The search continues for around 129 people still listed as missing.",
+          "es": "La búsqueda continúa para las cerca de 129 personas que siguen desaparecidas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "coreedusud-sk-hynix-accord-salarial",
+    "coords": [
+      127.4425,
+      37.2795
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Yonhap",
+    "place": {
+      "fr": "Icheon, Corée du Sud",
+      "en": "Icheon, South Korea",
+      "es": "Icheon, Corea del Sur"
+    },
+    "title": {
+      "fr": "Les salariés de SK Hynix approuvent un nouvel accord salarial",
+      "en": "SK Hynix workers approve revised wage agreement",
+      "es": "Los trabajadores de SK Hynix aprueban un nuevo acuerdo salarial"
+    },
+    "summary": {
+      "fr": "Le syndicat des ouvriers de production de SK Hynix, sur les sites d'Icheon et de Cheongju, a approuvé le 16 septembre un accord salarial révisé, avec 57,1 % de votes favorables. Le texte prévoit une hausse de 6,3 % des salaires et porte à 50 % la part des primes d'intéressement versée en espèces, contre 40 % auparavant. Un premier accord avait été rejeté par les salariés le 20 août.",
+      "en": "The union representing SK Hynix's production workers at its Icheon and Cheongju sites approved a revised wage agreement on September 16, with 57.1% voting in favor. The deal includes a 6.3% pay rise and raises the cash portion of profit-sharing bonuses to 50%, up from 40%. An initial agreement had been rejected by workers on August 20.",
+      "es": "El sindicato de los trabajadores de producción de SK Hynix, en sus sedes de Icheon y Cheongju, aprobó el 16 de septiembre un acuerdo salarial revisado, con un 57,1 % de votos a favor. El acuerdo incluye una subida salarial del 6,3 % y eleva al 50 % la parte de las bonificaciones por resultados pagada en efectivo, frente al 40 % anterior. Un primer acuerdo había sido rechazado por los trabajadores el 20 de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le syndicat de SK Hynix approuve à 57,1 % un accord salarial révisé incluant une hausse de 6,3 % des salaires.",
+          "en": "The SK Hynix union approves a revised wage deal, including a 6.3% pay rise, with 57.1% in favor.",
+          "es": "El sindicato de SK Hynix aprueba con un 57,1 % de votos a favor un acuerdo salarial revisado que incluye una subida del 6,3 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "bresil-selic-baisse-taux",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Rio Times",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La banque centrale du Brésil abaisse son taux directeur à 13,75 %",
+      "en": "Brazil's central bank cuts benchmark rate to 13.75%",
+      "es": "El banco central de Brasil reduce su tasa de referencia al 13,75 %"
+    },
+    "summary": {
+      "fr": "Le Comité de politique monétaire (Copom) de la banque centrale brésilienne a réduit mercredi son taux directeur, la Selic, d'un quart de point à 13,75 %, une quatrième baisse trimestrielle consécutive depuis juin. Le taux a désormais reculé d'un point de pourcentage depuis son pic de 15 % atteint en 2025, dans un contexte de ralentissement de l'inflation.",
+      "en": "Brazil's central bank Monetary Policy Committee (Copom) cut its benchmark Selic rate by a quarter point to 13.75% on Wednesday, a fourth consecutive quarterly cut since June. The rate has now fallen a full percentage point from its 15% peak reached in 2025, amid slowing inflation.",
+      "es": "El Comité de Política Monetaria (Copom) del banco central de Brasil redujo el miércoles su tasa de referencia, la Selic, en un cuarto de punto hasta el 13,75 %, un cuarto recorte trimestral consecutivo desde junio. La tasa ha bajado ya un punto porcentual completo desde su máximo del 15 % alcanzado en 2025, en un contexto de desaceleración de la inflación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le Copom abaisse la Selic de 25 points de base, à 13,75 %, quatrième baisse trimestrielle consécutive.",
+          "en": "Copom cuts the Selic rate by 25 basis points to 13.75%, a fourth consecutive quarterly cut.",
+          "es": "El Copom recorta la Selic en 25 puntos básicos hasta el 13,75 %, un cuarto recorte trimestral consecutivo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "afriquesud-ekurhuleni-enquete-meurtres",
+    "coords": [
+      28.2333,
+      -26.1
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕵️",
+    "source": "CBS News",
+    "place": {
+      "fr": "Ekurhuleni (région de Johannesburg-Est), Afrique du Sud",
+      "en": "Ekurhuleni (East Rand, Johannesburg area), South Africa",
+      "es": "Ekurhuleni (región este de Johannesburgo), Sudáfrica"
+    },
+    "title": {
+      "fr": "Neuf femmes retrouvées mortes en deux mois près de Johannesburg, la police craint un tueur en série",
+      "en": "Nine women found dead in two months near Johannesburg as police fear a serial killer",
+      "es": "Nueve mujeres halladas muertas en dos meses cerca de Johannesburgo mientras la policía teme a un asesino en serie"
+    },
+    "summary": {
+      "fr": "Depuis la mi-juillet, les corps de neuf femmes ont été découverts dans plusieurs localités de la municipalité d'Ekurhuleni, à l'est de Johannesburg (Kempton Park, Olifantsfontein, Clayville, Kwa-Thema, Dawn Park...), plusieurs d'entre elles dénudées ou partiellement vêtues et présentant des signes de violence. La police sud-africaine, qui n'a pas confirmé l'hypothèse d'un tueur en série, a renforcé les effectifs d'enquête et offert une récompense de 400 000 rands pour toute information utile.",
+      "en": "Since mid-July, the bodies of nine women have been found in several communities of the Ekurhuleni municipality east of Johannesburg (Kempton Park, Olifantsfontein, Clayville, Kwa-Thema, Dawn Park, and others), several of them undressed or partially clothed and showing signs of violence. South African police, who have not confirmed the theory of a serial killer, have deployed additional investigators and offered a 400,000-rand reward for useful information.",
+      "es": "Desde mediados de julio, se han hallado los cuerpos de nueve mujeres en varias localidades del municipio de Ekurhuleni, al este de Johannesburgo (Kempton Park, Olifantsfontein, Clayville, Kwa-Thema, Dawn Park, entre otras), varias de ellas desnudas o parcialmente vestidas y con signos de violencia. La policía sudafricana, que no ha confirmado la hipótesis de un asesino en serie, ha reforzado los equipos de investigación y ofrecido una recompensa de 400.000 rands por información útil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/07/2026 — 15/09/2026",
+          "en": "07/15/2026 — 09/15/2026",
+          "es": "15/07/2026 — 15/09/2026"
+        },
+        "d": {
+          "fr": "Huit corps de femmes sont découverts progressivement dans plusieurs communes d'Ekurhuleni, ravivant les craintes d'un tueur en série.",
+          "en": "Eight women's bodies are discovered progressively across several Ekurhuleni communities, raising fears of a serial killer.",
+          "es": "Se descubren progresivamente ocho cuerpos de mujeres en varias comunidades de Ekurhuleni, lo que aviva los temores de un asesino en serie."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "09/17/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Le corps d'une neuvième victime est découvert à Dawn Park, portant à neuf le nombre de femmes retrouvées mortes depuis juillet.",
+          "en": "A ninth victim's body is found in Dawn Park, bringing to nine the number of women found dead since July.",
+          "es": "Se halla el cuerpo de una novena víctima en Dawn Park, elevando a nueve el número de mujeres encontradas muertas desde julio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-prix-carburant-hausse",
+    "coords": [
+      3.3792,
+      6.5244
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Vanguard",
+    "place": {
+      "fr": "Lagos, Nigeria",
+      "en": "Lagos, Nigeria",
+      "es": "Lagos, Nigeria"
+    },
+    "title": {
+      "fr": "La flambée du prix du pétrole fait grimper les prix du carburant au Nigeria",
+      "en": "Surging oil prices push up fuel costs in Nigeria",
+      "es": "El repunte del precio del petróleo dispara el coste del combustible en Nigeria"
+    },
+    "summary": {
+      "fr": "Le baril de brut a atteint environ 117 dollars, porté par les tensions au Moyen-Orient, avec des prévisions de Goldman Sachs évoquant un possible pic à 120 dollars. À Lagos, le litre d'essence a grimpé à environ 1 310 nairas. Si la hausse des cours profite en théorie aux recettes pétrolières du Nigeria, la production nationale, inférieure d'environ 340 000 barils par jour à l'objectif budgétaire, limite cet effet et aggrave au contraire la pression sur le coût de la vie des ménages.",
+      "en": "Crude oil reached about $117 a barrel, driven by tensions in the Middle East, with Goldman Sachs forecasting a possible peak at $120. In Lagos, petrol prices have risen to around 1,310 naira a liter. While higher prices theoretically benefit Nigeria's oil revenue, national production—running about 340,000 barrels per day below the fiscal target—limits that effect and instead worsens pressure on households' cost of living.",
+      "es": "El crudo alcanzó cerca de 117 dólares por barril, impulsado por las tensiones en Oriente Medio, con previsiones de Goldman Sachs que apuntan a un posible pico de 120 dólares. En Lagos, el precio de la gasolina ha subido a unos 1.310 nairas el litro. Aunque en teoría el alza de precios beneficia a los ingresos petroleros de Nigeria, la producción nacional, unos 340.000 barriles diarios por debajo del objetivo presupuestario, limita ese efecto y agrava, en cambio, la presión sobre el coste de vida de los hogares."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le brut approche 117 dollars le baril et le litre d'essence atteint environ 1 310 nairas à Lagos, aggravant la pression sur le coût de la vie.",
+          "en": "Crude approaches $117 a barrel and petrol reaches about 1,310 naira a liter in Lagos, worsening the pressure on the cost of living.",
+          "es": "El crudo se acerca a los 117 dólares por barril y la gasolina alcanza unas 1.310 nairas el litro en Lagos, agravando la presión sobre el coste de vida."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "lituanie-drone-abattu-otan",
+    "coords": [
+      24.35,
+      55.05
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛩️",
+    "source": "NPR",
+    "place": {
+      "fr": "Pratkunai, région de Vilnius, Lituanie",
+      "en": "Pratkunai, Vilnius region, Lithuania",
+      "es": "Pratkunai, región de Vilna, Lituania"
+    },
+    "title": {
+      "fr": "Des chasseurs italiens de l'OTAN abattent un drone dans l'espace aérien lituanien",
+      "en": "Italian NATO jets shoot down a drone in Lithuanian airspace",
+      "es": "Cazas italianos de la OTAN derriban un dron en el espacio aéreo lituano"
+    },
+    "summary": {
+      "fr": "Deux Eurofighter Typhoon italiens opérant sous commandement de l'OTAN ont abattu, dans la nuit du 15 septembre, un drone entré dans l'espace aérien lituanien depuis le Bélarus près du village de Pratkunai, à une centaine de kilomètres de Vilnius. Selon les autorités lituaniennes, l'appareil, resté environ trente minutes dans l'espace aérien national, transportait un engin explosif. Le ministre italien de la Défense a jugé « très probable » une origine russe, une thèse que Vilnius n'a pas confirmée à ce stade. Il s'agit de la première interception d'un drone dans l'espace aérien lituanien.",
+      "en": "Two Italian Eurofighter Typhoons operating under NATO command shot down a drone overnight on September 15 after it entered Lithuanian airspace from Belarus near the village of Pratkunai, about 100 km from Vilnius. According to Lithuanian authorities, the aircraft, which remained in national airspace for about 30 minutes, was carrying an explosive device. Italy's defense minister called a Russian origin \"very likely,\" a claim Vilnius has not confirmed at this stage. It is the first drone interception in Lithuanian airspace.",
+      "es": "Dos Eurofighter Typhoon italianos que operaban bajo mando de la OTAN derribaron, en la noche del 15 de septiembre, un dron que había entrado en el espacio aéreo lituano desde Bielorrusia cerca de la localidad de Pratkunai, a unos 100 km de Vilna. Según las autoridades lituanas, el aparato, que permaneció unos treinta minutos en el espacio aéreo nacional, transportaba un artefacto explosivo. El ministro de Defensa italiano calificó de «muy probable» un origen ruso, una tesis que Vilna no ha confirmado por el momento. Es la primera interceptación de un dron en el espacio aéreo lituano."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "09/15/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Des Eurofighter italiens sous commandement de l'OTAN abattent un drone entré depuis le Bélarus, une première dans l'espace aérien lituanien.",
+          "en": "Italian Eurofighters under NATO command shoot down a drone that entered from Belarus, a first in Lithuanian airspace.",
+          "es": "Eurofighter italianos bajo mando de la OTAN derriban un dron que había entrado desde Bielorrusia, una primera vez en el espacio aéreo lituano."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "soudan-effondrement-mine-or",
+    "coords": [
+      28.4354,
+      12.6997
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏️",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Mine d'al-Zara, Nahud, État du Kordofan-Occidental, Soudan",
+      "en": "Al-Zara mine, Nahud, West Kordofan state, Sudan",
+      "es": "Mina de al-Zara, Nahud, estado de Kordofán Occidental, Sudán"
+    },
+    "title": {
+      "fr": "Au moins 82 morts dans l'effondrement d'une mine d'or artisanale au Soudan",
+      "en": "At least 82 dead in collapse of an artisanal gold mine in Sudan",
+      "es": "Al menos 82 muertos por el derrumbe de una mina de oro artesanal en Sudán"
+    },
+    "summary": {
+      "fr": "Une mine d'or informelle, la mine d'al-Zara, s'est effondrée près de la ville de Nahud, dans l'État du Kordofan-Occidental contrôlé par les Forces de soutien rapide (FSR). Selon des responsables locaux, le bilan est passé à au moins 82 morts, avec une cinquantaine de blessés et un nombre indéterminé de disparus. Les secours, dépourvus d'équipement lourd, ont travaillé de nuit avec des outils rudimentaires, retrouvant 60 corps avant l'aube puis 22 autres mercredi. Le drame met en lumière les dangers du secteur aurifère artisanal soudanais, largement non réglementé en pleine guerre civile.",
+      "en": "An informal gold mine, the al-Zara mine, collapsed near the town of Nahud in West Kordofan state, controlled by the paramilitary Rapid Support Forces (RSF). According to local officials, the death toll has risen to at least 82, with about 50 injured and an unknown number still missing. Rescuers, lacking heavy equipment, worked through the night with basic tools, recovering 60 bodies before dawn and another 22 on Wednesday. The disaster highlights the dangers of Sudan's largely unregulated artisanal gold sector amid the ongoing civil war.",
+      "es": "Una mina de oro informal, la mina de al-Zara, se derrumbó cerca de la localidad de Nahud, en el estado de Kordofán Occidental, controlado por las paramilitares Fuerzas de Apoyo Rápido (FAR). Según funcionarios locales, el balance ha subido a al menos 82 muertos, con unos 50 heridos y un número indeterminado de desaparecidos. Los equipos de rescate, sin equipo pesado, trabajaron durante la noche con herramientas rudimentarias, recuperando 60 cuerpos antes del amanecer y otros 22 el miércoles. La tragedia pone de relieve los peligros del sector aurífero artesanal sudanés, en gran parte sin regular en plena guerra civil."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan de l'effondrement de la mine d'al-Zara atteint au moins 82 morts, avec des dizaines de disparus toujours recherchés.",
+          "en": "The death toll from the al-Zara mine collapse reaches at least 82, with dozens still unaccounted for.",
+          "es": "El balance del derrumbe de la mina de al-Zara alcanza al menos 82 muertos, con decenas de personas aún sin localizar."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "gaza-effondrement-immeuble-tal-alhawa",
+    "coords": [
+      34.45,
+      31.5
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏢",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Quartier de Tal al-Hawa, ville de Gaza",
+      "en": "Tal al-Hawa neighborhood, Gaza City",
+      "es": "Barrio de Tal al-Hawa, ciudad de Gaza"
+    },
+    "title": {
+      "fr": "Un immeuble endommagé par la guerre s'effondre à Gaza, au moins 20 morts",
+      "en": "War-damaged building collapses in Gaza City, killing at least 20",
+      "es": "Un edificio dañado por la guerra se derrumba en Gaza y deja al menos 20 muertos"
+    },
+    "summary": {
+      "fr": "Un immeuble résidentiel de six étages, le bâtiment Al-Saada, qui abritait près de cent personnes dont une dizaine de familles déplacées, s'est effondré mercredi dans le quartier de Tal al-Hawa, à Gaza. La Défense civile de Gaza, dirigée par le Hamas, fait état d'au moins 20 morts, dont des femmes et des enfants, et de dizaines de personnes toujours prisonnières des décombres ; l'armée israélienne affirme ne pas avoir visé le bâtiment lors de cette frappe. Les secouristes, dépourvus d'engins lourds, creusent à la main. Selon les autorités locales, environ 2 000 bâtiments occupés à Gaza menacent de s'effondrer après avoir été endommagés pendant la guerre.",
+      "en": "A six-story residential building, the Al-Saada building, which was sheltering nearly 100 people including about ten displaced families, collapsed Wednesday in the Tal al-Hawa neighborhood of Gaza City. Gaza's Hamas-run Civil Defence agency reported at least 20 deaths, including women and children, with dozens more believed trapped under the rubble; the Israeli military said it did not strike the building. Rescuers, lacking heavy equipment, are digging by hand. Local authorities say about 2,000 occupied buildings across Gaza are at risk of collapse after sustaining damage during the war.",
+      "es": "Un edificio residencial de seis plantas, el edificio Al-Saada, que albergaba a cerca de 100 personas, entre ellas una decena de familias desplazadas, se derrumbó el miércoles en el barrio de Tal al-Hawa, en la ciudad de Gaza. La Defensa Civil de Gaza, gestionada por Hamás, informó de al menos 20 muertos, entre ellos mujeres y niños, con decenas de personas que seguirían atrapadas bajo los escombros; el ejército israelí afirmó no haber atacado el edificio. Los equipos de rescate, sin maquinaria pesada, excavan a mano. Según las autoridades locales, unos 2.000 edificios ocupados en Gaza corren riesgo de derrumbarse tras sufrir daños durante la guerra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le bâtiment Al-Saada, endommagé pendant la guerre, s'effondre à Tal al-Hawa, faisant au moins 20 morts et des dizaines de personnes prisonnières des décombres.",
+          "en": "The war-damaged Al-Saada building collapses in Tal al-Hawa, killing at least 20 people and trapping dozens more under the rubble.",
+          "es": "El edificio Al-Saada, dañado durante la guerra, se derrumba en Tal al-Hawa, matando al menos a 20 personas y atrapando a decenas más bajo los escombros."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
   }
 ]
