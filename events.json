@@ -829,5 +829,917 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "russia-kyiv-mass-strike",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CNN / The Kyiv Independent",
+    "related": [
+      "ukraine-train-drone-strike-polish-border"
+    ],
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Attaque russe de missiles et drones sur Kiev, plusieurs morts",
+      "en": "Russian missile and drone attack hits Kyiv, killing several",
+      "es": "Ataque ruso con misiles y drones golpea Kiev, con varios muertos"
+    },
+    "summary": {
+      "fr": "La Russie a mené dans la nuit du 7 au 8 septembre une attaque de grande ampleur par drones et missiles sur Kiev et sa région. Selon les autorités ukrainiennes, cinq personnes ont été tuées et une trentaine blessées ; des immeubles résidentiels, une école, des entrepôts et un bâtiment de télévision ont été touchés. L'attaque est survenue au lendemain d'une visite à Kiev d'émissaires américains pour des pourparlers de paix et de la fin d'une brève trêve aérienne ; la Russie n'a pas détaillé publiquement les cibles visées.",
+      "en": "Russia carried out a large-scale overnight drone and missile attack on Kyiv and the surrounding region on September 7-8. Ukrainian officials said five people were killed and around 35 injured, with residential buildings, a school, warehouses and a television building damaged. The strikes came a day after U.S. envoys visited Kyiv for peace talks and as a brief aerial truce ended; Russia has not publicly detailed the targets it says it struck.",
+      "es": "Rusia lanzó en la noche del 7 al 8 de septiembre un ataque a gran escala con drones y misiles sobre Kiev y sus alrededores. Según las autoridades ucranianas, cinco personas murieron y unas 35 resultaron heridas; se dañaron edificios residenciales, una escuela, almacenes y un edificio de televisión. Los ataques se produjeron un día después de la visita de enviados estadounidenses a Kiev para conversaciones de paz y coincidieron con el fin de una breve tregua aérea; Rusia no ha detallado públicamente los objetivos alcanzados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "CNN et The Kyiv Independent rapportent une attaque russe massive de drones et missiles sur Kiev, faisant au moins cinq morts et une trentaine de blessés.",
+          "en": "CNN and The Kyiv Independent report a massive Russian drone and missile attack on Kyiv, leaving at least five dead and around 35 injured.",
+          "es": "CNN y The Kyiv Independent informan de un ataque ruso masivo con drones y misiles sobre Kiev, con al menos cinco muertos y unos 35 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-train-drone-strike-polish-border",
+    "coords": [
+      24.16,
+      51.14
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚂",
+    "source": "Bloomberg / The Kyiv Independent",
+    "related": [
+      "russia-kyiv-mass-strike"
+    ],
+    "place": {
+      "fr": "Yahodyn, oblast de Volyn, Ukraine (près de la frontière polonaise)",
+      "en": "Yahodyn, Volyn Oblast, Ukraine (near the Polish border)",
+      "es": "Yahodyn, óblast de Volinia, Ucrania (cerca de la frontera polaca)"
+    },
+    "title": {
+      "fr": "Un drone russe frappe la locomotive d'un train Kiev-Varsovie près de la frontière polonaise",
+      "en": "Russian drone strikes locomotive of Kyiv-Warsaw train near Polish border",
+      "es": "Un dron ruso golpea la locomotora de un tren Kiev-Varsovia cerca de la frontera polaca"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 13 au 14 septembre, un drone a frappé la locomotive d'un train de voyageurs reliant Kiev à Varsovie, à la gare de Yahodyn, à environ deux kilomètres de la frontière polonaise, lors d'une vaste attaque russe de drones et missiles sur l'ouest de l'Ukraine. La compagnie ferroviaire ukrainienne indique avoir détecté la menace environ 15 minutes avant l'impact et avoir évacué passagers et personnel ; aucun passager blessé n'a été signalé. La ministre ukrainienne des Affaires étrangères a estimé que cette frappe montrait la guerre se rapprocher du territoire de l'UE et de l'OTAN ; la Russie n'a pas commenté publiquement cet incident précis.",
+      "en": "On the night of September 13-14, a drone struck the locomotive of a Kyiv-to-Warsaw passenger train at Yahodyn station, about two kilometers from the Polish border, during a wider Russian drone and missile barrage on western Ukraine. Ukraine's state railway said it detected the threat about 15 minutes before impact and evacuated passengers and staff; no passenger injuries were reported. Ukraine's foreign minister said the strike showed the war reaching close to EU/NATO territory; Russia has not issued public comment on this specific incident.",
+      "es": "En la noche del 13 al 14 de septiembre, un dron impactó la locomotora de un tren de pasajeros que iba de Kiev a Varsovia, en la estación de Yahodyn, a unos dos kilómetros de la frontera polaca, durante un amplio ataque ruso con drones y misiles sobre el oeste de Ucrania. La compañía ferroviaria estatal ucraniana dijo haber detectado la amenaza unos 15 minutos antes del impacto y evacuado a pasajeros y personal; no se informó de heridos. La ministra de Exteriores ucraniana afirmó que el ataque mostraba que la guerra se acerca al territorio de la UE y la OTAN; Rusia no ha comentado públicamente este incidente concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/09/2026",
+          "en": "14/09/2026",
+          "es": "14/09/2026"
+        },
+        "d": {
+          "fr": "Bloomberg et The Kyiv Independent rapportent qu'un drone a frappé la locomotive d'un train Kiev-Varsovie près de la frontière polonaise ; passagers et personnel évacués à temps.",
+          "en": "Bloomberg and The Kyiv Independent report a drone struck the locomotive of a Kyiv-Warsaw train near the Polish border; passengers and staff were evacuated in time.",
+          "es": "Bloomberg y The Kyiv Independent informan de que un dron golpeó la locomotora de un tren Kiev-Varsovia cerca de la frontera polaca; pasajeros y personal fueron evacuados a tiempo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "spain-catalonia-valencia-floods",
+    "coords": [
+      1.8,
+      41.317
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Infobae / Euronews",
+    "place": {
+      "fr": "Olivella (Barcelone), Espagne",
+      "en": "Olivella (Barcelona), Spain",
+      "es": "Olivella (Barcelona), España"
+    },
+    "title": {
+      "fr": "Des pluies torrentielles provoquent des inondations soudaines en Catalogne et à Valence, un mort",
+      "en": "Torrential rain triggers flash floods in Catalonia and Valencia, one dead",
+      "es": "Lluvias torrenciales provocan inundaciones repentinas en Cataluña y Valencia, un muerto"
+    },
+    "summary": {
+      "fr": "De fortes pluies se sont abattues sur la côte est de l'Espagne à partir du 16 septembre, l'agence météorologique espagnole plaçant la côte de Barcelone en alerte rouge après plus de 90 litres par mètre carré tombés en moins d'une heure par endroits. À Olivella, dans la province de Barcelone, les pompiers ont récupéré le corps d'un homme emporté par les eaux après que sa voiture a été submergée en traversant un cours d'eau. Dans la province de Valence, plus de 70 mm de pluie sont tombés en 30 minutes dans plusieurs communes ; les services d'urgence ont recensé 478 interventions, essentiellement pour des dégâts matériels, et l'aéroport de Valence a brièvement fermé.",
+      "en": "Heavy rain hit Spain's eastern coast starting September 16, with Spain's meteorological agency issuing a red alert for the Barcelona coast after more than 90 liters per square meter fell in under an hour in some areas. In Olivella, Barcelona province, firefighters recovered the body of a man swept away by floodwaters after his car was engulfed while crossing a stream. Valencia province recorded over 70mm of rain in 30 minutes in several municipalities; emergency services logged 478 incidents, mostly property damage, and Valencia airport briefly closed.",
+      "es": "Fuertes lluvias azotaron la costa este de España a partir del 16 de septiembre, con la agencia meteorológica emitiendo alerta roja para la costa de Barcelona tras más de 90 litros por metro cuadrado en menos de una hora en algunas zonas. En Olivella (Barcelona), los bomberos recuperaron el cuerpo de un hombre arrastrado por el agua tras quedar su coche atrapado al cruzar un torrente. En la provincia de Valencia cayeron más de 70 mm de lluvia en 30 minutos en varios municipios; los servicios de emergencia registraron 478 incidencias, sobre todo daños materiales, y el aeropuerto de Valencia cerró brevemente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Infobae et Euronews rapportent un mort à Olivella et des inondations éclair en Catalogne et à Valence après des pluies torrentielles.",
+          "en": "Infobae and Euronews report one death in Olivella and flash floods across Catalonia and Valencia after torrential rain.",
+          "es": "Infobae y Euronews informan de un muerto en Olivella e inundaciones repentinas en Cataluña y Valencia tras lluvias torrenciales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "germany-berlin-spd-krach-bribery-probe",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "💰",
+    "source": "Der Tagesspiegel",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Le candidat SPD à la mairie de Berlin, Steffen Krach, visé par une enquête pour corruption",
+      "en": "Berlin SPD mayoral candidate Steffen Krach investigated for bribery",
+      "es": "El candidato del SPD a la alcaldía de Berlín, Steffen Krach, investigado por soborno"
+    },
+    "summary": {
+      "fr": "Le parquet de Hanovre a confirmé enquêter sur Steffen Krach, tête de liste du SPD pour les élections berlinoises, soupçonné d'avoir accepté des avantages dans deux affaires distinctes. Des perquisitions ont eu lieu à son domicile berlinois ainsi que dans des bureaux du SPD et de la région de Hanovre ; l'affaire porte sur une procédure de vente d'un hôpital durant son mandat à la tête de la région de Hanovre, un candidat évincé ayant versé un don de campagne juste en dessous du seuil légal de déclaration publique. M. Krach conteste les accusations, affirme avoir restitué un don en 24 heures, et poursuit sa campagne avec le soutien de la direction du SPD ; un tribunal a par la suite jugé une partie des perquisitions illégale.",
+      "en": "The Hanover public prosecutor's office confirmed it is investigating Steffen Krach, the SPD's lead candidate for Berlin's House of Representatives election, on suspicion of accepting benefits in two separate cases. Investigators searched his Berlin apartment and SPD and Hanover regional government offices; the allegation centers on a hospital-sale procurement process during his time as head of the Hanover Region, in which a losing bidder allegedly made a campaign donation just under Germany's disclosure threshold. Krach denies the allegations, says he returned a donation within 24 hours, and continues campaigning with SPD leadership's backing; a court later found parts of the searches unlawful.",
+      "es": "La fiscalía de Hanóver confirmó que investiga a Steffen Krach, candidato principal del SPD para las elecciones de Berlín, por sospecha de aceptar beneficios en dos casos distintos. Investigadores registraron su apartamento en Berlín y oficinas del SPD y del gobierno regional de Hanóver; la acusación se centra en un proceso de venta de un hospital durante su etapa al frente de la región de Hanóver, en el que un licitador perdedor habría hecho una donación de campaña justo por debajo del umbral legal de declaración. Krach niega las acusaciones, afirma haber devuelto una donación en 24 horas, y continúa su campaña con el respaldo de la dirección del SPD; un tribunal declaró después ilegal parte de los registros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Der Tagesspiegel rapporte l'enquête du parquet de Hanovre visant le candidat SPD Steffen Krach pour soupçon de corruption.",
+          "en": "Der Tagesspiegel reports the Hanover prosecutor's investigation into SPD candidate Steffen Krach on suspicion of bribery.",
+          "es": "Der Tagesspiegel informa de la investigación de la fiscalía de Hanóver sobre el candidato del SPD Steffen Krach por sospecha de soborno."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "us-fed-rate-hike-sept2026",
+    "coords": [
+      -77.0454,
+      38.8921
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNBC",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Réserve fédérale américaine relève ses taux pour la première fois depuis 2023",
+      "en": "US Federal Reserve raises interest rates for first time since 2023",
+      "es": "La Reserva Federal de EE. UU. sube los tipos de interés por primera vez desde 2023"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Réserve fédérale (FOMC) a voté à l'unanimité, le 16 septembre, un relèvement de 25 points de base de son taux directeur, porté à une fourchette de 3,75 % à 4 %, sa première hausse depuis 2023. Les responsables ont invoqué une inflation restant supérieure à l'objectif de 2 % de la Fed pour justifier ce resserrement. Les projections actualisées montrent que la majorité des membres du comité anticipent au moins une nouvelle hausse d'un quart de point d'ici la fin de l'année.",
+      "en": "The Federal Reserve's policy committee voted unanimously on September 16 to raise the federal funds rate by 25 basis points to a target range of 3.75%-4%, its first hike since 2023. Policymakers cited inflation running above the Fed's 2% target as the reason for tightening. Updated projections show most officials expect at least one more quarter-point increase before year-end.",
+      "es": "El comité de política monetaria de la Reserva Federal votó por unanimidad el 16 de septiembre subir los tipos de interés en 25 puntos básicos, hasta un rango del 3,75% al 4%, su primera subida desde 2023. Los responsables citaron una inflación que sigue por encima del objetivo del 2% de la Fed para justificar el endurecimiento. Las proyecciones actualizadas muestran que la mayoría de los miembros del comité prevén al menos otra subida de un cuarto de punto antes de fin de año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "CNBC rapporte la hausse de 25 points de base du taux directeur de la Fed, la première depuis 2023.",
+          "en": "CNBC reports the Fed's 25-basis-point rate hike, its first since 2023.",
+          "es": "CNBC informa de la subida de 25 puntos básicos del tipo de interés de la Fed, la primera desde 2023."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "us-ice-agent-castro-charged",
+    "coords": [
+      -93.265,
+      44.9778
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "🔫",
+    "source": "NPR / CNN",
+    "place": {
+      "fr": "Minneapolis, Minnesota, États-Unis",
+      "en": "Minneapolis, Minnesota, United States",
+      "es": "Minneapolis, Minnesota, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un agent de l'ICE inculpé après une fusillade à Minneapolis comparaît devant la justice",
+      "en": "ICE officer charged over Minneapolis shooting appears in court",
+      "es": "Un agente de ICE acusado por un tiroteo en Minneapolis comparece ante la justicia"
+    },
+    "summary": {
+      "fr": "Christian Castro, agent de l'agence américaine de l'immigration (ICE), a comparu devant un tribunal du Minnesota, poursuivi pour quatre chefs d'agression aggravée et un chef de fausse déclaration. Les procureurs affirment qu'il a tiré à travers la porte d'une maison où s'était réfugié Julio Sosa-Celis, un immigrant vénézuélien en fuite, le 14 janvier, puis affirmé faussement aux enquêteurs avoir été attaqué avec un balai et une pelle. Le juge lui a accordé une libération sous caution après un différend d'extradition de plusieurs mois entre le Minnesota et le Texas ; il s'est engagé à revenir au Minnesota en cas de violation des conditions de sa remise en liberté.",
+      "en": "Christian Castro, a U.S. Immigration and Customs Enforcement officer, appeared before a Minnesota court facing four counts of second-degree assault and one count of falsely reporting a crime. Prosecutors allege that on January 14 he shot through the front door of a house that Julio Sosa-Celis, a Venezuelan immigrant, had entered while fleeing, then falsely told investigators he had been attacked with a broom and shovel. The judge granted bond after a months-long extradition dispute between Minnesota and Texas; Castro agreed to return to Minnesota if he violates release conditions.",
+      "es": "Christian Castro, agente del Servicio de Inmigración y Control de Aduanas de EE. UU. (ICE), compareció ante un tribunal de Minnesota, acusado de cuatro cargos de agresión agravada y uno de declaración falsa. Los fiscales alegan que el 14 de enero disparó a través de la puerta de una casa en la que se había refugiado Julio Sosa-Celis, un inmigrante venezolano que huía, y luego dijo falsamente a los investigadores que había sido atacado con una escoba y una pala. El juez concedió la libertad bajo fianza tras una disputa de extradición de varios meses entre Minnesota y Texas; Castro se comprometió a regresar a Minnesota si incumple las condiciones de su libertad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "NPR et CNN rapportent la comparution de l'agent ICE Christian Castro devant la justice du Minnesota après un différend d'extradition.",
+          "en": "NPR and CNN report ICE officer Christian Castro's court appearance in Minnesota after an extradition dispute.",
+          "es": "NPR y CNN informan de la comparecencia del agente de ICE Christian Castro ante la justicia de Minnesota tras una disputa de extradición."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "uk-bromley-machete-stabbing",
+    "coords": [
+      0.0198,
+      51.4039
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "ITV News",
+    "place": {
+      "fr": "Bromley, Londres, Royaume-Uni",
+      "en": "Bromley, London, United Kingdom",
+      "es": "Bromley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Quatre hommes poignardés lors d'une attaque à la machette à Bromley, sept arrestations",
+      "en": "Four men stabbed in machete attack in Bromley, seven arrested",
+      "es": "Cuatro hombres apuñalados en un ataque con machete en Bromley, siete detenidos"
+    },
+    "summary": {
+      "fr": "Quatre hommes ont été poignardés sur Bromley High Street, dans le sud-est de Londres, vers 14h15 le 10 septembre, lors d'une attaque impliquant apparemment des machettes, survenue à proximité d'un restaurant. Trois victimes ont subi des blessures jugées non menaçantes pour leur vie, tandis qu'une autre est restée dans un état critique. Sept hommes ont été arrêtés et placés en garde à vue tandis que la police métropolitaine poursuivait son enquête ; les autorités indiquent n'avoir constaté aucune menace plus large pour le public.",
+      "en": "Four men were stabbed on Bromley High Street in south-east London around 2:15pm on September 10, in an attack reportedly involving machetes near a restaurant. Three victims sustained injuries described as not life-threatening, while one remained in critical condition. Seven men were arrested and remained in custody as the Metropolitan Police continued their investigation; police said there was no evidence of a wider threat to the public.",
+      "es": "Cuatro hombres fueron apuñalados en Bromley High Street, al sureste de Londres, hacia las 14:15 del 10 de septiembre, en un ataque en el que presuntamente se usaron machetes cerca de un restaurante. Tres víctimas sufrieron heridas descritas como no mortales, mientras que otra permaneció en estado crítico. Siete hombres fueron arrestados y permanecieron detenidos mientras la Policía Metropolitana continuaba su investigación; la policía indicó que no había pruebas de una amenaza más amplia para el público."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "ITV News rapporte l'attaque à la machette sur Bromley High Street ayant fait quatre blessés et sept arrestations.",
+          "en": "ITV News reports the machete attack on Bromley High Street that left four injured and seven arrested.",
+          "es": "ITV News informa del ataque con machete en Bromley High Street que dejó cuatro heridos y siete detenidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "china-landslide-sichuan-diexi",
+    "coords": [
+      103.62,
+      32.33
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛰",
+    "source": "South China Morning Post",
+    "place": {
+      "fr": "Village de Shidaguan, Diexi, comté de Mao, Sichuan, Chine",
+      "en": "Shidaguan village, Diexi, Mao County, Sichuan, China",
+      "es": "Aldea de Shidaguan, Diexi, condado de Mao, Sichuan, China"
+    },
+    "title": {
+      "fr": "Un glissement de terrain frappe un village du Sichuan, évacué à temps",
+      "en": "Landslide hits Sichuan village after early evacuation",
+      "es": "Un deslizamiento de tierra golpea una aldea de Sichuan tras una evacuación previa"
+    },
+    "summary": {
+      "fr": "Un important glissement de terrain a touché le village de Shidaguan, dans la commune de Diexi (comté de Mao, Sichuan), le 16 septembre, envoyant terre et roches dévaler la montagne et coupant la route nationale 213. Aucune victime n'a été signalée : les autorités avaient identifié ce versant instable un mois plus tôt et évacué 161 habitants par précaution.",
+      "en": "A large landslide hit Shidaguan village in Diexi Town, Mao County, Sichuan province, on September 16, sending earth and rock down the mountainside and blocking National Highway 213. No casualties were reported, as authorities had identified the unstable slope about a month earlier and evacuated 161 residents as a precaution.",
+      "es": "Un gran deslizamiento de tierra golpeó la aldea de Shidaguan, en la localidad de Diexi (condado de Mao, Sichuan), el 16 de septiembre, arrastrando tierra y rocas por la ladera y bloqueando la autopista nacional 213. No se reportaron víctimas, ya que las autoridades habían identificado la ladera inestable un mes antes y evacuado preventivamente a 161 residentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le South China Morning Post rapporte le glissement de terrain à Shidaguan, sans victime grâce à une évacuation anticipée.",
+          "en": "The South China Morning Post reports the landslide in Shidaguan, with no casualties thanks to an early evacuation.",
+          "es": "South China Morning Post informa del deslizamiento de tierra en Shidaguan, sin víctimas gracias a una evacuación previa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "china-economy-august-data-2026",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "CNBC",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Les ventes au détail ralentissent en Chine tandis que l'investissement continue de reculer",
+      "en": "China's retail sales slow further as investment slump deepens",
+      "es": "Las ventas minoristas de China se desaceleran mientras la inversión sigue cayendo"
+    },
+    "summary": {
+      "fr": "Le Bureau national des statistiques chinois a annoncé le 15 septembre que les ventes au détail n'avaient progressé que de 0,4 % sur un an en août, un chiffre inférieur aux attentes et marquant un deuxième mois consécutif de ralentissement de la consommation. L'investissement en actifs fixes a reculé de 7,2 % sur les huit premiers mois de 2026 par rapport à l'an dernier, tandis que la production industrielle a dépassé les prévisions avec une hausse de 5,2 %. Le bureau des statistiques a souligné un déséquilibre persistant entre une offre robuste et une demande intérieure atone.",
+      "en": "China's National Bureau of Statistics reported on September 15 that retail sales rose just 0.4% year-on-year in August, missing forecasts and marking a second consecutive month of slowing consumer spending. Fixed-asset investment fell 7.2% year-on-year over the first eight months of 2026, while industrial production beat expectations, growing 5.2%. The bureau said the imbalance between strong supply and weak domestic demand remains pronounced.",
+      "es": "La Oficina Nacional de Estadísticas de China informó el 15 de septiembre que las ventas minoristas crecieron solo un 0,4% interanual en agosto, por debajo de lo previsto y marcando un segundo mes consecutivo de desaceleración del consumo. La inversión en activos fijos cayó un 7,2% interanual en los primeros ocho meses de 2026, mientras que la producción industrial superó las expectativas al crecer un 5,2%. La oficina señaló que el desequilibrio entre una oferta sólida y una demanda interna débil sigue siendo pronunciado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "CNBC rapporte les données officielles chinoises d'août montrant un ralentissement de la consommation et un net recul de l'investissement.",
+          "en": "CNBC reports official Chinese August data showing slowing consumption and a sharp drop in investment.",
+          "es": "CNBC informa de los datos oficiales chinos de agosto que muestran una desaceleración del consumo y una fuerte caída de la inversión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "japan-osaka-school-pepper-spray",
+    "coords": [
+      135.483,
+      34.573
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Nippon.com (Jiji Press)",
+    "place": {
+      "fr": "Sakai et Kaizuka, préfecture d'Osaka, Japon",
+      "en": "Sakai and Kaizuka, Osaka Prefecture, Japan",
+      "es": "Sakai y Kaizuka, prefectura de Osaka, Japón"
+    },
+    "title": {
+      "fr": "Des élèves pulvérisent du gaz irritant dans deux établissements scolaires d'Osaka, deux arrestations",
+      "en": "Students spray irritant gas in two Osaka schools, two arrested",
+      "es": "Alumnos rocían gas irritante en dos escuelas de Osaka, dos detenidos"
+    },
+    "summary": {
+      "fr": "Le 16 septembre, un élève de seconde année du lycée Sakai de l'université du commerce d'Osaka, à Sakai, a pulvérisé un gaz poivré dans une salle de classe pendant une pause, provoquant toux et douleurs à la gorge chez 24 élèves ; il a été arrêté sur place et aurait déclaré avoir agi « pour s'amuser ». Le même jour, un élève de 14 ans d'un collège municipal de Kaizuka a pulvérisé un produit similaire dans un couloir. Au total, 48 personnes dans les deux établissements ont présenté des symptômes, et deux élèves ont été arrêtés.",
+      "en": "On September 16, a second-year student at Osaka University of Commerce Sakai High School in Sakai City sprayed pepper spray in a classroom during a break, leaving 24 students with coughing and throat pain; he was arrested at the scene and reportedly said he did it \"for fun.\" The same day, a 14-year-old at a municipal junior high school in Kaizuka sprayed a similar substance in a hallway. In total, 48 people across the two schools reported symptoms, and two students were arrested.",
+      "es": "El 16 de septiembre, un alumno de segundo año del instituto Sakai de la Universidad de Comercio de Osaka, en la ciudad de Sakai, roció gas pimienta en un aula durante un descanso, provocando tos y dolor de garganta en 24 alumnos; fue detenido en el lugar y presuntamente dijo haberlo hecho \"por diversión\". Ese mismo día, un joven de 14 años de una escuela secundaria municipal en Kaizuka roció una sustancia similar en un pasillo. En total, 48 personas en ambos centros presentaron síntomas, y dos alumnos fueron detenidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Nippon.com (Jiji Press) rapporte deux incidents distincts de pulvérisation de gaz irritant dans des écoles d'Osaka, faisant 48 victimes légères.",
+          "en": "Nippon.com (Jiji Press) reports two separate irritant-gas spraying incidents in Osaka schools, leaving 48 people with minor symptoms.",
+          "es": "Nippon.com (Jiji Press) informa de dos incidentes distintos de rociado de gas irritante en escuelas de Osaka, con 48 personas con síntomas leves."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "skorea-yoon-perjury-acquittal",
+    "coords": [
+      127.014,
+      37.4936
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "The Korea Herald",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "La cour d'appel de Séoul confirme l'acquittement de l'ex-président Yoon Suk Yeol pour parjure",
+      "en": "Seoul court upholds acquittal of former president Yoon Suk Yeol on perjury charge",
+      "es": "Un tribunal de Seúl confirma la absolución del expresidente Yoon Suk Yeol por perjurio"
+    },
+    "summary": {
+      "fr": "La haute cour de Séoul a rejeté le 16 septembre le recours du procureur spécial et confirmé l'acquittement en première instance de l'ex-président Yoon Suk Yeol, poursuivi pour parjure concernant son témoignage lors du procès de l'ex-Premier ministre Han Duck-soo relatif à la déclaration de loi martiale de 2024. La cour a estimé que l'accusation n'avait pas prouvé au-delà du doute raisonnable que M. Yoon avait menti. Il s'agit de l'un de plusieurs revers judiciaires partiels essuyés par le parquet spécial en septembre, après un précédent acquittement le 11 septembre dans une autre affaire, désormais en appel.",
+      "en": "The Seoul High Court rejected the special counsel's appeal on September 16 and upheld a lower court's acquittal of former president Yoon Suk Yeol on a perjury charge tied to his testimony at former Prime Minister Han Duck-soo's trial over the 2024 martial-law declaration. The court found prosecutors had not proven beyond reasonable doubt that Yoon lied. It was one of several partial legal setbacks for the special counsel in September, following a separate acquittal on September 11 in another case, which prosecutors have since appealed.",
+      "es": "El Tribunal Superior de Seúl rechazó el 16 de septiembre el recurso del fiscal especial y confirmó la absolución en primera instancia del expresidente Yoon Suk Yeol por un cargo de perjurio relacionado con su testimonio en el juicio del exprimer ministro Han Duck-soo sobre la declaración de ley marcial de 2024. El tribunal consideró que la fiscalía no había probado más allá de toda duda razonable que Yoon hubiera mentido. Fue uno de varios reveses judiciales parciales para la fiscalía especial en septiembre, tras una absolución anterior el 11 de septiembre en otro caso, que ya ha sido recurrida."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "The Korea Herald rapporte que la haute cour de Séoul confirme l'acquittement de Yoon Suk Yeol pour parjure.",
+          "en": "The Korea Herald reports the Seoul High Court upheld Yoon Suk Yeol's acquittal on the perjury charge.",
+          "es": "The Korea Herald informa de que el Tribunal Superior de Seúl confirmó la absolución de Yoon Suk Yeol por perjurio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "india-delhi-satya-niketan-collapse",
+    "coords": [
+      77.1653,
+      28.5658
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚",
+    "source": "Outlook India / Deccan Herald",
+    "place": {
+      "fr": "Satya Niketan, Delhi, Inde",
+      "en": "Satya Niketan, Delhi, India",
+      "es": "Satya Niketan, Delhi, India"
+    },
+    "title": {
+      "fr": "Sept morts dans l'effondrement d'un immeuble à Delhi, l'enquête judiciaire se poursuit",
+      "en": "Seven killed in Delhi building collapse, court proceedings continue",
+      "es": "Siete muertos en el derrumbe de un edificio en Delhi, continúa la investigación judicial"
+    },
+    "summary": {
+      "fr": "Le 6 septembre, un immeuble de cinq étages utilisé comme résidence étudiante non autorisée s'est effondré dans le quartier de Satya Niketan, près du campus sud de l'université de Delhi, faisant sept morts et cinq blessés ; douze personnes ont été secourues des décombres. La police indique que l'effondrement s'est produit pendant des travaux de rénovation au rez-de-chaussée d'une structure vieille de 40 à 50 ans, et a arrêté le propriétaire, âgé de 81 ans, ainsi que son épouse et son fils pour homicide non intentionnel. La haute cour de Delhi examinait le 17 septembre plusieurs requêtes liées à l'affaire, tenant l'université de Delhi et la municipalité partiellement responsables, avec une audience prévue le 25 septembre.",
+      "en": "On September 6, a five-storey building used as an unauthorized student hostel collapsed in the Satya Niketan neighborhood near Delhi University's South Campus, killing seven people and injuring five; twelve people were rescued from the rubble. Police said the collapse occurred during renovation work on the ground floor of a 40-50-year-old structure, and arrested the 81-year-old owner along with his wife and son on charges of culpable homicide not amounting to murder. The Delhi High Court was hearing related petitions on September 17, holding Delhi University and the municipal corporation partly responsible, with a hearing scheduled for September 25.",
+      "es": "El 6 de septiembre, un edificio de cinco plantas utilizado como residencia estudiantil no autorizada se derrumbó en el barrio de Satya Niketan, cerca del campus sur de la Universidad de Delhi, matando a siete personas y dejando cinco heridas; doce personas fueron rescatadas de los escombros. La policía indicó que el derrumbe ocurrió durante obras de renovación en la planta baja de una estructura de 40 a 50 años, y detuvo al propietario, de 81 años, junto con su esposa e hijo por homicidio culposo. El Tribunal Superior de Delhi examinaba el 17 de septiembre varias peticiones relacionadas, responsabilizando parcialmente a la Universidad de Delhi y al ayuntamiento, con una audiencia prevista para el 25 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Effondrement d'un immeuble à Satya Niketan (Delhi) : sept morts, cinq blessés, douze personnes secourues des décombres.",
+          "en": "Building collapse in Satya Niketan (Delhi): seven dead, five injured, twelve people rescued from the rubble.",
+          "es": "Derrumbe de un edificio en Satya Niketan (Delhi): siete muertos, cinco heridos, doce personas rescatadas de los escombros."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "La haute cour de Delhi examine plusieurs requêtes liées à l'effondrement et tient l'université et la municipalité partiellement responsables.",
+          "en": "The Delhi High Court hears several petitions related to the collapse and holds the university and municipal corporation partly responsible.",
+          "es": "El Tribunal Superior de Delhi examina varias peticiones relacionadas con el derrumbe y responsabiliza parcialmente a la universidad y al ayuntamiento."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-niger-state-miners-custody-deaths",
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏",
+    "source": "CNN",
+    "place": {
+      "fr": "Minna, État du Niger, Nigeria",
+      "en": "Minna, Niger State, Nigeria",
+      "es": "Minna, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Au moins 33 mineurs détenus meurent en garde à vue au Nigeria, des manifestations éclatent",
+      "en": "At least 33 detained miners die in Nigerian custody, sparking protests",
+      "es": "Al menos 33 mineros detenidos mueren bajo custodia en Nigeria, estallan protestas"
+    },
+    "summary": {
+      "fr": "Au moins 33 personnes arrêtées lors de raids visant des sites d'extraction d'or illégaux dans la zone de Wushishi-Lukoto, à l'ouest de Minna (État du Niger), les 15 et 16 septembre, sont mortes alors qu'elles étaient détenues par le Corps civil de défense et de sécurité du Nigeria (NSCDC). L'agence a d'abord évoqué une possible épidémie avant de préciser que la cause du décès restait à déterminer par examen médical. Le ministre de l'Intérieur a suspendu le commandant du NSCDC de l'État dans l'attente de l'enquête, et des manifestations ont éclaté à Minna, des habitants réclamant justice.",
+      "en": "At least 33 people arrested during raids on suspected illegal gold-mining sites in the Wushishi-Lukoto area west of Minna, Niger State, on September 15-16 died while in the custody of the Nigeria Security and Civil Defence Corps (NSCDC). The agency initially suggested a possible disease outbreak but later said the cause of death had not been established. Nigeria's interior minister suspended the state NSCDC commandant pending investigation, and protests broke out in Minna with residents demanding justice.",
+      "es": "Al menos 33 personas detenidas durante redadas en presuntos sitios de minería ilegal de oro en la zona de Wushishi-Lukoto, al oeste de Minna (estado de Níger), los días 15 y 16 de septiembre, murieron bajo custodia del Cuerpo de Seguridad y Defensa Civil de Nigeria (NSCDC). La agencia sugirió inicialmente un posible brote de enfermedad, pero después indicó que la causa de la muerte aún no se había determinado. El ministro del Interior suspendió al comandante estatal del NSCDC a la espera de la investigación, y estallaron protestas en Minna, con residentes exigiendo justicia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "CNN rapporte la mort d'au moins 33 mineurs détenus par le NSCDC au Nigeria et les manifestations qui ont suivi à Minna.",
+          "en": "CNN reports the deaths of at least 33 miners in NSCDC custody in Nigeria and the protests that followed in Minna.",
+          "es": "CNN informa de la muerte de al menos 33 mineros bajo custodia del NSCDC en Nigeria y las protestas que siguieron en Minna."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-ondo-methanol-alcohol-deaths",
+    "coords": [
+      4.8833,
+      6.75
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "☠",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Odigbo et Irele, État d'Ondo, Nigeria",
+      "en": "Odigbo and Irele, Ondo State, Nigeria",
+      "es": "Odigbo e Irele, estado de Ondo, Nigeria"
+    },
+    "title": {
+      "fr": "Au moins 48 morts au Nigeria après consommation d'un alcool artisanal suspecté de contenir du méthanol",
+      "en": "At least 48 dead in Nigeria after drinking locally brewed alcohol suspected of containing methanol",
+      "es": "Al menos 48 muertos en Nigeria tras consumir alcohol artesanal presuntamente con metanol"
+    },
+    "summary": {
+      "fr": "Au moins 48 personnes sont mortes et une centaine sont soignées dans les zones d'Odigbo et d'Irele, dans l'État d'Ondo, après avoir consommé une boisson artisanale surnommée « Monkey Tail », soupçonnée de contenir du méthanol, selon les autorités sanitaires locales. Au total, environ 182 personnes auraient été affectées. Quinze personnes, dont une liée à la production de la boisson, ont été arrêtées, et l'agence nigériane du médicament a depuis ordonné l'interdiction nationale de la vente d'alcool en sachets et petits contenants en plastique.",
+      "en": "At least 48 people have died and around 100 more are being treated in Ondo State's Odigbo and Irele areas after consuming a locally brewed drink known as \"Monkey Tail,\" suspected of containing methanol, local health officials said. In total about 182 people are believed to have been affected. Fifteen people, including one allegedly linked to production of the drink, have been arrested, and Nigeria's drug regulator has ordered a nationwide ban on alcohol sold in sachets and small plastic containers.",
+      "es": "Al menos 48 personas han muerto y unas 100 más reciben tratamiento en las zonas de Odigbo e Irele, estado de Ondo, tras consumir una bebida artesanal conocida como \"Monkey Tail\", presuntamente con metanol, según las autoridades sanitarias locales. En total se cree que unas 182 personas se vieron afectadas. Quince personas, entre ellas una presuntamente vinculada a la producción de la bebida, han sido detenidas, y el regulador nigeriano de medicamentos ha ordenado la prohibición nacional de la venta de alcohol en sobres y pequeños envases de plástico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "L'Associated Press rapporte au moins 48 morts dans l'État d'Ondo après consommation d'un alcool artisanal suspecté de contenir du méthanol.",
+          "en": "The Associated Press reports at least 48 deaths in Ondo State after consumption of a locally brewed drink suspected to contain methanol.",
+          "es": "Associated Press informa de al menos 48 muertos en el estado de Ondo tras consumir una bebida artesanal presuntamente con metanol."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "egypt-cairo-sarah-khalifa-death-sentence",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Une présentatrice télé condamnée à mort au Caire dans une affaire de trafic de drogue",
+      "en": "TV presenter sentenced to death in Cairo drug trafficking case",
+      "es": "Una presentadora de televisión condenada a muerte en El Cairo por narcotráfico"
+    },
+    "summary": {
+      "fr": "Un tribunal criminel du Caire a condamné à la pendaison la présentatrice de télévision et femme d'affaires Sarah Khalifa, ainsi que onze coaccusés, après les avoir reconnus coupables d'avoir formé un réseau organisé pour se procurer et trafiquer des substances utilisées dans la fabrication de stupéfiants. Neuf autres coaccusés ont été condamnés à la perpétuité et sept ont été acquittés, dans une affaire impliquant 28 personnes et plus de 750 kg de stupéfiants. Mme Khalifa a nié les charges et clamé son innocence ; la sentence peut encore faire l'objet d'un appel.",
+      "en": "A Cairo criminal court sentenced television presenter and businesswoman Sarah Khalifa, along with 11 co-defendants, to death by hanging after convicting them of forming an organized network to procure and traffic materials used to manufacture narcotics. Nine other co-defendants received life sentences and seven were acquitted, in a case involving 28 defendants and more than 750kg of narcotics. Khalifa denied the charges and declared her innocence; the sentence can still be appealed.",
+      "es": "Un tribunal penal de El Cairo condenó a la horca a la presentadora de televisión y empresaria Sarah Khalifa, junto con 11 coacusados, tras declararlos culpables de formar una red organizada para conseguir y traficar materiales usados en la fabricación de narcóticos. Otros nueve coacusados recibieron cadena perpetua y siete fueron absueltos, en un caso que involucró a 28 acusados y más de 750 kg de narcóticos. Khalifa negó los cargos y declaró su inocencia; la sentencia todavía puede ser apelada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera rapporte la condamnation à mort de Sarah Khalifa et onze coaccusés par un tribunal criminel du Caire.",
+          "en": "Al Jazeera reports the death sentence handed to Sarah Khalifa and 11 co-defendants by a Cairo criminal court.",
+          "es": "Al Jazeera informa de la condena a muerte de Sarah Khalifa y once coacusados por un tribunal penal de El Cairo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "indonesia-java-sea-ferry-capsize",
+    "coords": [
+      114.0,
+      -4.58
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / NPR",
+    "place": {
+      "fr": "Mer de Java, entre Surabaya et Banjarmasin, Indonésie",
+      "en": "Java Sea, between Surabaya and Banjarmasin, Indonesia",
+      "es": "Mar de Java, entre Surabaya y Banjarmasin, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry chavire en mer de Java avec plus de 240 personnes à bord, au moins six morts",
+      "en": "Ferry capsizes in Java Sea with over 240 aboard, at least six dead",
+      "es": "Un ferry vuelca en el mar de Java con más de 240 personas a bordo, al menos seis muertos"
+    },
+    "summary": {
+      "fr": "Le ferry indonésien Virgo Transport 8, qui transportait 243 personnes et 89 véhicules entre Surabaya et Banjarmasin, a chaviré et coulé en mer de Java le 13 septembre après avoir rencontré une mer agitée avec des vagues atteignant trois mètres. Au moins six personnes sont mortes, 109 ont été secourues et environ 128 restaient portées disparues selon le dernier bilan. Les autorités ont déployé 17 navires et aéronefs pour rechercher des survivants ; les ferries constituent un moyen de transport courant mais sujet aux accidents en Indonésie, en raison d'un contrôle insuffisant des normes de sécurité, selon les autorités.",
+      "en": "The Indonesian-flagged ferry Virgo Transport 8, carrying 243 people and 89 vehicles from Surabaya to Banjarmasin, capsized and sank in the Java Sea on September 13 after encountering rough weather with waves up to three meters. At least six people have died, 109 were rescued, and about 128 remained missing in the latest count. Authorities deployed 17 ships and aircraft to search for survivors; officials say ferries are a common but accident-prone mode of transport in Indonesia due to weak enforcement of safety standards.",
+      "es": "El ferry de bandera indonesia Virgo Transport 8, que transportaba a 243 personas y 89 vehículos de Surabaya a Banjarmasin, volcó y se hundió en el mar de Java el 13 de septiembre tras encontrar mal tiempo con olas de hasta tres metros. Al menos seis personas han muerto, 109 fueron rescatadas y unas 128 seguían desaparecidas según el último recuento. Las autoridades desplegaron 17 barcos y aeronaves para buscar supervivientes; según las autoridades, los ferris son un medio de transporte común pero propenso a accidentes en Indonesia debido a la débil aplicación de las normas de seguridad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera et NPR rapportent le naufrage du ferry Virgo Transport 8 en mer de Java, avec au moins six morts et environ 128 disparus.",
+          "en": "Al Jazeera and NPR report the sinking of the ferry Virgo Transport 8 in the Java Sea, with at least six dead and about 128 missing.",
+          "es": "Al Jazeera y NPR informan del naufragio del ferry Virgo Transport 8 en el mar de Java, con al menos seis muertos y unos 128 desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "brazil-banco-master-bolsonaro-probe",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "💰",
+    "source": "Bloomberg / NBC News",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le sénateur et candidat présidentiel Flávio Bolsonaro visé par une enquête liée au scandale Banco Master",
+      "en": "Presidential candidate Flávio Bolsonaro investigated over Banco Master scandal ties",
+      "es": "El senador y candidato presidencial Flávio Bolsonaro, investigado por su relación con el escándalo de Banco Master"
+    },
+    "summary": {
+      "fr": "La justice fédérale brésilienne a rendu publics le 11 septembre des documents montrant que le sénateur Flávio Bolsonaro, fils de l'ex-président Jair Bolsonaro et candidat de premier plan à la présidentielle de 2026, fait l'objet d'une enquête pour corruption, blanchiment d'argent et fraude fiscale, concernant environ 61 millions de reais reçus du banquier Daniel Vorcaro pour financer un film sur son père. M. Vorcaro, ex-dirigeant de la banque aujourd'hui fermée Banco Master, a été arrêté en mars 2026 et est accusé d'avoir fraudé quelque 800 000 clients dans un système évalué à 12 milliards de reais ; l'enquête implique aussi les sénateurs Ciro Nogueira et Jaques Wagner. Au 17 septembre, les sondages plaçaient M. Bolsonaro à égalité avec le président sortant Lula avant le premier tour du 4 octobre.",
+      "en": "Brazil's federal courts unsealed documents on September 11 showing that Senator Flávio Bolsonaro, son of former president Jair Bolsonaro and a leading 2026 presidential candidate, is being investigated for corruption, money laundering and tax evasion over roughly 61 million reais received from banker Daniel Vorcaro to help finance a film about his father. Vorcaro, former head of the now-shuttered Banco Master, was arrested in March 2026 and is accused of defrauding about 800,000 clients in a scheme estimated at 12 billion reais; the probe also implicates senators Ciro Nogueira and Jaques Wagner. As of September 17, polling showed Bolsonaro tied with incumbent Lula ahead of the October 4 first-round election.",
+      "es": "La justicia federal brasileña hizo públicos el 11 de septiembre documentos que muestran que el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro y destacado candidato presidencial en 2026, está siendo investigado por corrupción, lavado de dinero y evasión fiscal por unos 61 millones de reales recibidos del banquero Daniel Vorcaro para financiar una película sobre su padre. Vorcaro, exdirectivo del ya cerrado Banco Master, fue detenido en marzo de 2026 y está acusado de defraudar a unos 800.000 clientes en un esquema valorado en 12.000 millones de reales; la investigación también implica a los senadores Ciro Nogueira y Jaques Wagner. Hasta el 17 de septiembre, las encuestas mostraban a Bolsonaro empatado con el presidente Lula antes de la primera vuelta del 4 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Bloomberg et NBC News rapportent l'enquête visant Flávio Bolsonaro et son lien avec le scandale du Banco Master, à trois semaines du premier tour.",
+          "en": "Bloomberg and NBC News report the investigation into Flávio Bolsonaro and his ties to the Banco Master scandal, three weeks before the first round.",
+          "es": "Bloomberg y NBC News informan de la investigación sobre Flávio Bolsonaro y su vínculo con el escándalo de Banco Master, a tres semanas de la primera vuelta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "mexico-sinaloa-cartel-violence",
+    "coords": [
+      -107.394,
+      24.809
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Infobae",
+    "place": {
+      "fr": "Culiacán, Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa, Mexico",
+      "es": "Culiacán, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Dix morts dans une flambée de violence à Sinaloa, à la veille d'une marche pour la paix",
+      "en": "Ten killed in Sinaloa violence ahead of peace march",
+      "es": "Diez muertos en una ola de violencia en Sinaloa, en vísperas de una marcha por la paz"
+    },
+    "summary": {
+      "fr": "Le 12 septembre, dix personnes ont été tuées en une seule journée dans les municipalités de Culiacán, Mazatlán et Escuinapa, dans l'État de Sinaloa, dans le cadre du conflit qui oppose depuis plus de deux ans les factions « Los Chapitos » et « La Mayiza » du cartel de Sinaloa. Le lendemain, des milliers d'habitants vêtus de blanc ont manifesté à Culiacán pour réclamer la fin de la violence et davantage de sécurité. En réponse, le gouvernement fédéral mexicain a déployé environ 3 400 agents de sécurité supplémentaires dans l'État ; les autorités font état d'une baisse de 26,1 % du nombre moyen quotidien d'homicides entre janvier et août 2026, par rapport à l'an dernier.",
+      "en": "On September 12, ten people were killed in a single day across the Sinaloa municipalities of Culiacán, Mazatlán and Escuinapa, amid the ongoing conflict between the \"Los Chapitos\" and \"La Mayiza\" factions of the Sinaloa Cartel, which has affected the state for over two years. The next day, thousands of residents dressed in white marched in Culiacán demanding an end to the violence and greater security. In response, Mexico's federal government deployed around 3,400 additional security agents to the state; officials reported a 26.1% year-on-year drop in the daily average of homicides between January and August 2026.",
+      "es": "El 12 de septiembre, diez personas fueron asesinadas en un solo día en los municipios sinaloenses de Culiacán, Mazatlán y Escuinapa, en medio del conflicto entre las facciones \"Los Chapitos\" y \"La Mayiza\" del Cártel de Sinaloa, que afecta al estado desde hace más de dos años. Al día siguiente, miles de residentes vestidos de blanco marcharon en Culiacán exigiendo el fin de la violencia y mayor seguridad. En respuesta, el gobierno federal mexicano desplegó unos 3.400 agentes de seguridad adicionales en el estado; las autoridades reportaron una caída interanual del 26,1% en el promedio diario de homicidios entre enero y agosto de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "12/09/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Dix personnes tuées en une journée à Culiacán, Mazatlán et Escuinapa dans le cadre du conflit interne au cartel de Sinaloa.",
+          "en": "Ten people killed in a single day in Culiacán, Mazatlán and Escuinapa amid the internal conflict within the Sinaloa Cartel.",
+          "es": "Diez personas asesinadas en un solo día en Culiacán, Mazatlán y Escuinapa en medio del conflicto interno del Cártel de Sinaloa."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Infobae rapporte la marche pour la paix à Culiacán et le déploiement de 3 400 agents de sécurité supplémentaires par le gouvernement fédéral.",
+          "en": "Infobae reports the peace march in Culiacán and the deployment of 3,400 additional security agents by the federal government.",
+          "es": "Infobae informa de la marcha por la paz en Culiacán y el despliegue de 3.400 agentes de seguridad adicionales por parte del gobierno federal."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "gaza-city-idf-strikes-nukhba-commanders",
+    "coords": [
+      34.455,
+      31.514
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The Times of Israel / IMEMC",
+    "place": {
+      "fr": "Ville de Gaza, territoires palestiniens",
+      "en": "Gaza City, Palestinian territories",
+      "es": "Ciudad de Gaza, territorios palestinos"
+    },
+    "title": {
+      "fr": "Israël annonce avoir tué deux commandants du Hamas à Gaza ; le Hamas et les autorités locales dénoncent des violations du cessez-le-feu",
+      "en": "Israel says it killed two Hamas commanders in Gaza; Palestinian officials cite ongoing ceasefire violations",
+      "es": "Israel afirma haber matado a dos comandantes de Hamás en Gaza; autoridades palestinas denuncian violaciones del alto el fuego"
+    },
+    "summary": {
+      "fr": "L'armée israélienne affirme que des frappes récentes à Gaza ont tué Sharif Shadi Ibrahim Labad, présenté comme un membre des forces Nukhba du Hamas ayant participé à l'attaque du 7 octobre 2023 contre le point de passage d'Erez, dans le quartier de Sheikh Radwan à Gaza, ainsi que Yusuf Saad a-Din Rashad Zain, un autre commandant Nukhba, dans le nord de la bande de Gaza. Selon Tsahal, plus de 25 combattants ont été tués lors de frappes au cours des deux semaines précédentes, ces hommes étant accusés de reconstituer les capacités du Hamas en violation du cessez-le-feu. De son côté, le ministère de la Santé de Gaza fait état de victimes continues causées par des tirs israéliens durant la même période, et le bureau des médias du gouvernement de Gaza qualifie ces frappes de violations persistantes de la trêve, une version qu'Israël conteste en affirmant viser des combattants en infraction avec l'accord.",
+      "en": "The Israeli military says recent strikes in Gaza killed Sharif Shadi Ibrahim Labad, identified as a Hamas Nukhba Force member who took part in the October 7, 2023 attack on the Erez crossing, in Gaza City's Sheikh Radwan neighborhood, and Yusuf Saad a-Din Rashad Zain, another Nukhba commander, in northern Gaza. The IDF said both men had been rebuilding Hamas capabilities in violation of the ceasefire, and that more than 25 operatives had been killed in strikes over the preceding two weeks. Gaza's Health Ministry reported ongoing casualties from Israeli fire during the same period, and the Gaza government's media office described the strikes as continued ceasefire violations — an account Israel disputes, saying it targets militants breaching the truce.",
+      "es": "El ejército israelí afirma que ataques recientes en Gaza mataron a Sharif Shadi Ibrahim Labad, identificado como miembro de las Fuerzas Nukhba de Hamás que participó en el ataque del 7 de octubre de 2023 contra el paso de Erez, en el barrio de Sheikh Radwan de la ciudad de Gaza, y a Yusuf Saad a-Din Rashad Zain, otro comandante Nukhba, en el norte de Gaza. Según las FDI, más de 25 combatientes han muerto en ataques durante las dos semanas anteriores, acusados de reconstruir las capacidades de Hamás en violación del alto el fuego. El Ministerio de Salud de Gaza informó de víctimas continuas por fuego israelí durante el mismo periodo, y la oficina de medios del gobierno de Gaza calificó los ataques de violaciones persistentes de la tregua, versión que Israel rechaza al afirmar que ataca a combatientes que incumplen el acuerdo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "The Times of Israel et IMEMC rapportent les versions israélienne et palestinienne des frappes récentes à Gaza et des accusations réciproques de violation du cessez-le-feu.",
+          "en": "The Times of Israel and IMEMC report the Israeli and Palestinian accounts of recent strikes in Gaza and mutual accusations of ceasefire violations.",
+          "es": "The Times of Israel e IMEMC informan de las versiones israelí y palestina sobre los ataques recientes en Gaza y las acusaciones mutuas de violación del alto el fuego."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "saudi-arabia-east-west-pipeline-drone-attack",
+    "coords": [
+      43.0,
+      24.0
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Saudi Press Agency / CNN",
+    "place": {
+      "fr": "Oléoduc Est-Ouest, régions de Riyad et Médine, Arabie saoudite",
+      "en": "East-West Pipeline, Riyadh and Madinah regions, Saudi Arabia",
+      "es": "Oleoducto Este-Oeste, regiones de Riad y Medina, Arabia Saudita"
+    },
+    "title": {
+      "fr": "L'Arabie saoudite ferme un oléoduc stratégique après une attaque de drones lancée d'Irak",
+      "en": "Saudi Arabia shuts strategic pipeline after drone attack launched from Iraq",
+      "es": "Arabia Saudita cierra un oleoducto estratégico tras un ataque con drones lanzado desde Irak"
+    },
+    "summary": {
+      "fr": "Le ministère saoudien des Affaires étrangères a annoncé que plusieurs drones lancés depuis l'Irak avaient frappé le 10 septembre l'oléoduc Est-Ouest, dans les régions de Riyad et de Médine, provoquant des incendies, des dégâts sur des stations de pompage et des blessés. Le royaume a fermé cet oléoduc de 1 200 km, qui achemine habituellement 4 à 5 % de l'offre mondiale de pétrole, les réparations devant prendre de trois à cinq semaines. Le Premier ministre irakien a indiqué qu'une enquête était en cours sur le site de lancement, dans la province irakienne de Maysan ; l'Arabie saoudite a annoncé soutenir les efforts irakiens plutôt que de riposter directement à ce stade, tout en se réservant le droit de protéger sa souveraineté et ses installations.",
+      "en": "Saudi Arabia's foreign ministry said several drones launched from Iraq struck its East-West Crude Oil Pipeline in the Riyadh and Madinah regions on September 10, causing fires, damage to pump stations and some injuries. The kingdom shut the 1,200km pipeline, which normally carries 4-5% of global oil supply, with repairs expected to take three to five weeks. Iraq's prime minister said an investigation was under way into the launch site in Iraq's Maysan province; Saudi Arabia said it would support Iraqi efforts rather than respond directly at this stage, while reserving the right to protect its sovereignty and facilities.",
+      "es": "El Ministerio de Asuntos Exteriores saudí dijo que varios drones lanzados desde Irak impactaron el 10 de septiembre en su oleoducto de crudo Este-Oeste, en las regiones de Riad y Medina, provocando incendios, daños en estaciones de bombeo y algunos heridos. El reino cerró el oleoducto de 1.200 km, que normalmente transporta entre el 4% y el 5% del suministro mundial de petróleo, con reparaciones que se espera tarden de tres a cinco semanas. El primer ministro iraquí dijo que se estaba investigando el lugar de lanzamiento, en la provincia iraquí de Maysan; Arabia Saudita afirmó que apoyaría los esfuerzos iraquíes en lugar de responder directamente por ahora, aunque se reservó el derecho a proteger su soberanía e instalaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "11/09/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "L'agence de presse saoudienne (SPA) et CNN rapportent la fermeture de l'oléoduc Est-Ouest après une attaque de drones lancée depuis l'Irak.",
+          "en": "The Saudi Press Agency (SPA) and CNN report the shutdown of the East-West Pipeline after a drone attack launched from Iraq.",
+          "es": "La Agencia de Prensa Saudí (SPA) y CNN informan del cierre del oleoducto Este-Oeste tras un ataque con drones lanzado desde Irak."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
   }
 ]
