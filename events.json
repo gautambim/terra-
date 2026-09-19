@@ -829,5 +829,937 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "fed-hausse-taux",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Réserve fédérale / CNBC",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D. C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Fed relève ses taux pour la première fois en trois ans",
+      "en": "The Fed raises interest rates for the first time in three years",
+      "es": "La Fed sube los tipos de interés por primera vez en tres años"
+    },
+    "summary": {
+      "fr": "La Réserve fédérale américaine a relevé mercredi 16 septembre son taux directeur d'un quart de point, le portant entre 3,75 % et 4,00 %, sa première hausse en plus de trois ans, selon un communiqué officiel relayé par CNBC. Le président de la Fed Kevin Warsh a justifié cette décision, votée à l'unanimité, par une inflation \"trop élevée depuis trop longtemps\", alimentée par la hausse des prix du pétrole.",
+      "en": "The U.S. Federal Reserve raised its benchmark interest rate by a quarter point on Wednesday, September 16, to a range of 3.75%–4.00%, its first hike in more than three years, according to an official statement reported by CNBC. Fed Chair Kevin Warsh justified the unanimous decision by inflation that has been \"too high for too long,\" driven by rising oil prices.",
+      "es": "La Reserva Federal de EE. UU. subió el miércoles 16 de septiembre su tipo de interés de referencia en un cuarto de punto, hasta un rango de 3,75 %-4,00 %, su primera subida en más de tres años, según un comunicado oficial recogido por CNBC. El presidente de la Fed, Kevin Warsh, justificó la decisión unánime por una inflación \"demasiado alta durante demasiado tiempo\", impulsada por la subida del precio del petróleo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "La Fed relève son taux directeur à 3,75 %-4,00 %, un vote unanime du comité de politique monétaire.",
+          "en": "The Fed raises its benchmark rate to 3.75%–4.00%, a unanimous vote by the monetary policy committee.",
+          "es": "La Fed sube su tipo de referencia a 3,75 %-4,00 %, con voto unánime del comité de política monetaria."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "minneapolis-fusillade-immeuble",
+    "coords": [
+      -93.2705,
+      44.9803
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CNN / NBC News",
+    "place": {
+      "fr": "Minneapolis, Minnesota, États-Unis",
+      "en": "Minneapolis, Minnesota, United States",
+      "es": "Mineápolis, Minnesota, Estados Unidos"
+    },
+    "title": {
+      "fr": "Fusillade dans un immeuble du centre-ville de Minneapolis : deux morts, quatre blessés",
+      "en": "Shooting at a downtown Minneapolis apartment building leaves two dead, four wounded",
+      "es": "Tiroteo en un edificio del centro de Mineápolis deja dos muertos y cuatro heridos"
+    },
+    "summary": {
+      "fr": "Le 2 septembre, un homme a ouvert le feu lors d'un échange de garde d'enfant près de l'immeuble Shoreline Plaza/Loring Towers, blessant la mère de son enfant, avant de tuer deux résidents au 9e étage, selon CNN et NBC News. Deux policiers venus intervenir ont été blessés par balle ; le suspect est mort dans l'échange de tirs avec la police.",
+      "en": "On September 2, a man opened fire during a child-custody exchange near the Shoreline Plaza/Loring Towers apartment building, wounding the mother of his child before killing two residents on the 9th floor, according to CNN and NBC News. Two responding police officers were shot and wounded; the suspect died in a gunfire exchange with police.",
+      "es": "El 2 de septiembre, un hombre abrió fuego durante un intercambio de custodia de su hijo cerca del edificio Shoreline Plaza/Loring Towers, hiriendo a la madre del menor antes de matar a dos residentes en el noveno piso, según CNN y NBC News. Dos agentes de policía que respondieron resultaron heridos de bala; el sospechoso murió en el intercambio de disparos con la policía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "02/09/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Un homme tue deux résidents et blesse deux policiers avant de mourir dans l'échange de tirs, selon CNN.",
+          "en": "A man kills two residents and wounds two police officers before dying in the gunfire exchange, according to CNN.",
+          "es": "Un hombre mata a dos residentes y hiere a dos policías antes de morir en el intercambio de disparos, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "canada-contre-tarifs",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📦",
+    "source": "Gouvernement du Canada / Al Jazeera",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada impose des contre-tarifs de 19,9 milliards de dollars aux États-Unis",
+      "en": "Canada imposes C$19.9 billion in counter-tariffs on the United States",
+      "es": "Canadá impone aranceles de represalia por 19 900 millones de dólares a Estados Unidos"
+    },
+    "summary": {
+      "fr": "Depuis le 8 septembre, le Canada applique des droits de douane sur 19,9 milliards de dollars canadiens de produits américains (acier, produits laitiers, électroménager, matériel agricole), en réponse à une taxe américaine de 50 % sur 20 milliards de dollars de produits canadiens, selon le gouvernement fédéral et Al Jazeera. Ottawa a aussi lancé un \"Fonds Canada fort\" de 25 milliards de dollars pour soutenir les secteurs touchés.",
+      "en": "Since September 8, Canada has applied tariffs on C$19.9 billion of U.S. goods (steel, dairy, appliances, farm equipment), in response to a 50% U.S. levy on C$20 billion of Canadian goods, according to the federal government and Al Jazeera. Ottawa also launched a C$25 billion \"Canada Strong Fund\" to support affected sectors.",
+      "es": "Desde el 8 de septiembre, Canadá aplica aranceles sobre 19 900 millones de dólares canadienses en productos estadounidenses (acero, lácteos, electrodomésticos, maquinaria agrícola), en respuesta a un gravamen estadounidense del 50 % sobre 20 000 millones de dólares en productos canadienses, según el gobierno federal y Al Jazeera. Ottawa también lanzó un \"Fondo Canadá Fuerte\" de 25 000 millones de dólares para apoyar a los sectores afectados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les contre-tarifs canadiens entrent en vigueur après l'échec des négociations commerciales.",
+          "en": "Canada's counter-tariffs take effect after trade talks collapse.",
+          "es": "Los aranceles de represalia canadienses entran en vigor tras el fracaso de las negociaciones comerciales."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "canada-feux-record",
+    "coords": [
+      -105.2843,
+      55.1001
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "Sécurité publique Canada",
+    "place": {
+      "fr": "Saskatchewan et nord-ouest de l'Ontario, Canada",
+      "en": "Saskatchewan and Northwestern Ontario, Canada",
+      "es": "Saskatchewan y noroeste de Ontario, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada traverse une saison des feux de forêt d'ampleur historique",
+      "en": "Canada faces a record-breaking wildfire season",
+      "es": "Canadá atraviesa una temporada de incendios forestales de magnitud histórica"
+    },
+    "summary": {
+      "fr": "Selon un bilan officiel de Sécurité publique Canada, 4 793 feux de forêt ont brûlé 4,1 millions d'hectares depuis le début de la saison 2026, avec 582 incendies encore actifs à la mi-août dont 31 hors de contrôle, principalement dans le nord-ouest de l'Ontario, en Saskatchewan et en Colombie-Britannique. Des températures supérieures aux normales, prévues jusqu'en septembre, prolongent le risque.",
+      "en": "According to an official Public Safety Canada report, 4,793 wildfires have burned 4.1 million hectares since the start of the 2026 season, with 582 fires still active in mid-August, including 31 out of control, mainly in Northwestern Ontario, Saskatchewan and British Columbia. Above-average temperatures forecast through September are prolonging the risk.",
+      "es": "Según un informe oficial de Seguridad Pública de Canadá, 4793 incendios forestales han quemado 4,1 millones de hectáreas desde el inicio de la temporada 2026, con 582 incendios aún activos a mediados de agosto, 31 de ellos fuera de control, principalmente en el noroeste de Ontario, Saskatchewan y Columbia Británica. Las temperaturas superiores a la media previstas hasta septiembre prolongan el riesgo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Mi-août 2026",
+          "en": "Mid-August 2026",
+          "es": "Mediados de agosto de 2026"
+        },
+        "d": {
+          "fr": "Le gouvernement fédéral recense 582 feux actifs, dont 31 hors de contrôle.",
+          "en": "The federal government records 582 active fires, including 31 out of control.",
+          "es": "El gobierno federal registra 582 incendios activos, 31 de ellos fuera de control."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "montataire-fusillade-ecole",
+    "coords": [
+      2.4181,
+      49.2564
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "France 3 Régions",
+    "place": {
+      "fr": "Montataire, Oise, France",
+      "en": "Montataire, Oise, France",
+      "es": "Montataire, Oise, Francia"
+    },
+    "title": {
+      "fr": "Des coups de feu tirés près d'une école primaire à Montataire, deux blessés",
+      "en": "Shots fired near a primary school in Montataire, two wounded",
+      "es": "Disparos cerca de una escuela primaria en Montataire dejan dos heridos"
+    },
+    "summary": {
+      "fr": "Le 17 septembre vers 16h30, à l'heure de la sortie des classes, des coups de feu ont été tirés à proximité de l'école primaire Maurice-et-Lucie-Bambier à Montataire (Oise), faisant deux blessés, selon France 3 Régions. Un suspect de 18 ans a été interpellé et placé en garde à vue ; le parquet de Senlis n'a pas établi de lien direct avec l'établissement scolaire.",
+      "en": "On September 17, around 4:30 p.m., at school dismissal time, shots were fired near the Maurice-et-Lucie-Bambier primary school in Montataire (Oise), wounding two people, according to France 3 Régions. An 18-year-old suspect was arrested and taken into custody; the Senlis prosecutor's office did not establish a direct link to the school.",
+      "es": "El 17 de septiembre, hacia las 16:30, a la hora de salida de clases, se produjeron disparos cerca de la escuela primaria Maurice-et-Lucie-Bambier en Montataire (Oise), dejando dos heridos, según France 3 Régions. Un sospechoso de 18 años fue detenido y puesto bajo custodia; la fiscalía de Senlis no estableció un vínculo directo con el centro escolar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Des coups de feu font deux blessés près de l'école ; un suspect de 18 ans est interpellé.",
+          "en": "Gunfire wounds two people near the school; an 18-year-old suspect is arrested.",
+          "es": "Los disparos dejan dos heridos cerca de la escuela; un sospechoso de 18 años es detenido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "ilva-taranto-fermeture",
+    "coords": [
+      17.2408,
+      40.4644
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🏭",
+    "source": "Il Post / Open",
+    "place": {
+      "fr": "Tarente, Italie",
+      "en": "Taranto, Italy",
+      "es": "Tarento, Italia"
+    },
+    "title": {
+      "fr": "La justice italienne confirme la fermeture de la zone à chaud de l'aciérie ex-Ilva",
+      "en": "Italian court upholds closure of the ex-Ilva steel plant's hot zone",
+      "es": "La justicia italiana confirma el cierre del área caliente de la acería ex-Ilva"
+    },
+    "summary": {
+      "fr": "La cour d'appel de Milan a confirmé le 11 septembre l'obligation d'éteindre les hauts fourneaux de l'aciérie ex-Ilva de Tarente pour des raisons sanitaires et environnementales, avec un arrêt total prévu d'ici le 28 octobre, selon Il Post et Open. Plus de 2 000 tonnes d'amiante restent à retirer sur le site ; 28 entreprises sous-traitantes ont annoncé 2 500 licenciements.",
+      "en": "Milan's Court of Appeal confirmed on September 11 the requirement to shut down the blast furnaces at the ex-Ilva steel plant in Taranto for health and environmental reasons, with a complete shutdown expected by October 28, according to Il Post and Open. More than 2,000 tonnes of asbestos remain to be removed from the site; 28 contracting firms have announced 2,500 layoffs.",
+      "es": "El Tribunal de Apelación de Milán confirmó el 11 de septiembre la obligación de apagar los altos hornos de la acería ex-Ilva de Tarento por motivos sanitarios y ambientales, con un cese total previsto para el 28 de octubre, según Il Post y Open. Quedan por retirar más de 2000 toneladas de amianto en el sitio; 28 empresas subcontratistas anunciaron 2500 despidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "11/09/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "La cour d'appel de Milan confirme l'arrêt des hauts fourneaux d'ici fin octobre.",
+          "en": "Milan's Court of Appeal confirms the blast furnaces will shut down by the end of October.",
+          "es": "El Tribunal de Apelación de Milán confirma el cierre de los altos hornos para fines de octubre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "tibet-inondations-glacier",
+    "coords": [
+      85.2691,
+      28.4167
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "CCTV / CNN",
+    "place": {
+      "fr": "Gyirong, région autonome du Tibet, Chine",
+      "en": "Gyirong, Tibet Autonomous Region, China",
+      "es": "Gyirong, Región Autónoma del Tíbet, China"
+    },
+    "title": {
+      "fr": "L'effondrement d'un glacier provoque des inondations meurtrières à la frontière Chine-Népal",
+      "en": "Glacier collapse triggers deadly flooding on the China-Nepal border",
+      "es": "El colapso de un glaciar provoca inundaciones mortales en la frontera entre China y Nepal"
+    },
+    "summary": {
+      "fr": "L'effondrement d'un glacier himalayen fin août a provoqué des crues soudaines et des glissements de terrain dévastateurs de part et d'autre de la frontière sino-népalaise, faisant au moins 16 morts côté chinois selon la télévision d'État CCTV, tandis que le bilan côté népalais dépassait 6 150 morts et disparus à la mi-septembre selon CNN. Des villages, routes et infrastructures électriques ont été détruits.",
+      "en": "The collapse of a Himalayan glacier in late August triggered devastating flash floods and landslides on both sides of the China-Nepal border, killing at least 16 people on the Chinese side according to state broadcaster CCTV, while the toll on the Nepali side exceeded 6,150 dead and missing by mid-September according to CNN. Villages, roads and power infrastructure were destroyed.",
+      "es": "El colapso de un glaciar del Himalaya a finales de agosto provocó devastadoras inundaciones repentinas y deslizamientos de tierra a ambos lados de la frontera entre China y Nepal, dejando al menos 16 muertos en el lado chino según la televisión estatal CCTV, mientras que el balance en el lado nepalí superaba los 6150 muertos y desaparecidos a mediados de septiembre según CNN. Aldeas, carreteras e infraestructuras eléctricas quedaron destruidas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "08/26/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Un glacier s'effondre, déclenchant des crues soudaines des deux côtés de la frontière.",
+          "en": "A glacier collapses, triggering flash floods on both sides of the border.",
+          "es": "Un glaciar colapsa y provoca inundaciones repentinas a ambos lados de la frontera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan côté népalais dépasse 6 150 morts et disparus, selon CNN.",
+          "en": "The toll on the Nepali side exceeds 6,150 dead and missing, according to CNN.",
+          "es": "El balance en el lado nepalí supera los 6150 muertos y desaparecidos, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "chine-excedent-commercial",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📦",
+    "source": "Administration générale des douanes chinoises / CNBC",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Les exportations chinoises bondissent de 25 % en août, l'excédent commercial s'élargit",
+      "en": "China's exports jump 25% in August, widening the trade surplus",
+      "es": "Las exportaciones chinas se disparan un 25 % en agosto y amplían el superávit comercial"
+    },
+    "summary": {
+      "fr": "Les exportations chinoises ont augmenté de 25 % sur un an en août, à 401,44 milliards de dollars, portant l'excédent commercial à 119,09 milliards de dollars contre 101,01 milliards un an plus tôt, selon les données douanières relayées par CNBC. Les exportations d'automobiles ont grimpé de 43 % et celles de semi-conducteurs de près de 130 %.",
+      "en": "China's exports rose 25% year-on-year in August, to $401.44 billion, pushing the trade surplus to $119.09 billion from $101.01 billion a year earlier, according to customs data reported by CNBC. Auto exports jumped 43% and semiconductor exports nearly 130%.",
+      "es": "Las exportaciones chinas aumentaron un 25 % interanual en agosto, hasta los 401 440 millones de dólares, elevando el superávit comercial a 119 090 millones de dólares frente a los 101 010 millones de un año antes, según datos aduaneros recogidos por CNBC. Las exportaciones de automóviles subieron un 43 % y las de semiconductores casi un 130 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "09/08/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les douanes chinoises publient les chiffres du commerce extérieur d'août.",
+          "en": "Chinese customs authorities publish August foreign trade figures.",
+          "es": "Las aduanas chinas publican las cifras del comercio exterior de agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "hongkong-veillee-tiananmen-peines",
+    "coords": [
+      114.1694,
+      22.3193
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Washington Times",
+    "place": {
+      "fr": "Hong Kong, Chine",
+      "en": "Hong Kong, China",
+      "es": "Hong Kong, China"
+    },
+    "title": {
+      "fr": "Hong Kong condamne trois organisateurs de la veillée de Tiananmen à de la prison",
+      "en": "Hong Kong sentences three Tiananmen vigil organizers to prison",
+      "es": "Hong Kong condena a prisión a tres organizadores de la vigilia de Tiananmen"
+    },
+    "summary": {
+      "fr": "Un tribunal de Hong Kong a condamné le 11 septembre trois dirigeants de l'Alliance de Hong Kong en soutien aux mouvements démocratiques patriotiques de Chine, organisatrice de la veillée annuelle de Tiananmen, à des peines de prison en vertu de la loi sur la sécurité nationale, selon le Washington Times : sept ans pour Lee, sept ans et trois mois pour Chow, cinq ans et deux mois pour Ho.",
+      "en": "A Hong Kong court sentenced three leaders of the Hong Kong Alliance in Support of Patriotic Democratic Movements of China, which organized the annual Tiananmen vigil, to prison terms under the national security law on September 11, according to the Washington Times: seven years for Lee, seven years and three months for Chow, and five years and two months for Ho.",
+      "es": "Un tribunal de Hong Kong condenó el 11 de septiembre a tres líderes de la Alianza de Hong Kong en Apoyo a los Movimientos Democráticos Patrióticos de China, organizadora de la vigilia anual de Tiananmen, a penas de prisión en virtud de la ley de seguridad nacional, según el Washington Times: siete años para Lee, siete años y tres meses para Chow, y cinco años y dos meses para Ho."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal prononce les peines de prison contre les trois dirigeants de l'Alliance.",
+          "en": "The court hands down prison sentences against the three Alliance leaders.",
+          "es": "El tribunal dicta las penas de prisión contra los tres líderes de la Alianza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "japon-boj-taux",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "Banque du Japon / CNBC",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "La Banque du Japon relève son taux directeur à son plus haut niveau en 31 ans",
+      "en": "Bank of Japan raises rate to a 31-year high",
+      "es": "El Banco de Japón sube su tipo de interés al nivel más alto en 31 años"
+    },
+    "summary": {
+      "fr": "La Banque du Japon a relevé le 18 septembre son taux directeur de 25 points de base, à 1,25 %, son plus haut niveau depuis 31 ans, à l'issue d'un vote serré de 7 voix contre 2, selon CNBC. La décision, motivée par l'inflation liée aux coûts de l'énergie et aux salaires, n'a pas empêché le yen de se déprécier, le dollar dépassant 157 yens.",
+      "en": "The Bank of Japan raised its policy rate by 25 basis points to 1.25% on September 18, its highest level in 31 years, following a close 7-2 vote, according to CNBC. The decision, driven by inflation linked to energy costs and wages, did not stop the yen from weakening, with the dollar pushing above 157 yen.",
+      "es": "El Banco de Japón subió el 18 de septiembre su tipo de interés de referencia en 25 puntos básicos, hasta el 1,25 %, su nivel más alto en 31 años, tras una votación reñida de 7 a 2, según CNBC. La decisión, motivada por la inflación ligada a los costes energéticos y salariales, no impidió que el yen se depreciara, superando el dólar los 157 yenes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "09/18/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Le comité de politique monétaire vote 7 contre 2 en faveur de la hausse des taux.",
+          "en": "The monetary policy board votes 7-2 in favor of the rate hike.",
+          "es": "El comité de política monetaria vota 7 a 2 a favor de la subida de tipos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "gifu-patisserie-incendie",
+    "coords": [
+      136.7075,
+      35.4897
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Japan Times",
+    "place": {
+      "fr": "Motosu, préfecture de Gifu, Japon",
+      "en": "Motosu, Gifu Prefecture, Japan",
+      "es": "Motosu, prefectura de Gifu, Japón"
+    },
+    "title": {
+      "fr": "Une attaque au couteau et un incendie dans une pâtisserie font deux morts à Motosu",
+      "en": "Knife attack and fire at a cake shop leave two dead in Motosu",
+      "es": "Un ataque con cuchillo y un incendio en una pastelería dejan dos muertos en Motosu"
+    },
+    "summary": {
+      "fr": "Le 5 septembre vers 21h, la police a été alertée d'une attaque au couteau suivie d'un incendie provoqué par de l'essence dans une pâtisserie de Motosu (préfecture de Gifu), où onze connaissances étaient réunies, selon le Japan Times. Deux personnes sont mortes et trois ont été hospitalisées ; la police enquête sur un possible lien entre l'agression et l'incendie volontaire.",
+      "en": "On September 5, around 9 p.m., police were alerted to a knife attack followed by a gasoline-fueled fire at a cake shop in Motosu (Gifu Prefecture), where eleven acquaintances were gathered, according to the Japan Times. Two people died and three were hospitalized; police are investigating a possible link between the assault and the suspected arson.",
+      "es": "El 5 de septiembre, hacia las 21:00, la policía fue alertada de un ataque con cuchillo seguido de un incendio provocado con gasolina en una pastelería de Motosu (prefectura de Gifu), donde se habían reunido once conocidos, según el Japan Times. Dos personas murieron y tres fueron hospitalizadas; la policía investiga un posible vínculo entre la agresión y el presunto incendio provocado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "09/05/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Une attaque au couteau et un incendie font deux morts et trois blessés.",
+          "en": "A knife attack and fire leave two dead and three injured.",
+          "es": "Un ataque con cuchillo y un incendio dejan dos muertos y tres heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "inde-notation-souveraine",
+    "coords": [
+      77.1025,
+      28.7041
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "📊",
+    "source": "Japan Credit Rating Agency / OpIndia",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "L'Inde obtient sa première notation souveraine de catégorie A en 35 ans",
+      "en": "India earns its first A-category sovereign rating in 35 years",
+      "es": "India obtiene su primera calificación soberana de categoría A en 35 años"
+    },
+    "summary": {
+      "fr": "L'agence japonaise Japan Credit Rating Agency (JCR) a relevé le 2 septembre la notation souveraine de l'Inde à A-, contre BBB+ auparavant, avec perspective stable, selon OpIndia. Il s'agit de la première notation de catégorie A décernée à l'Inde par une agence internationale majeure depuis plus de 35 ans, l'agence citant une croissance soutenue d'environ 7 % du PIB.",
+      "en": "Japan's Japan Credit Rating Agency (JCR) upgraded India's sovereign rating to A- from BBB+ with a stable outlook on September 2, according to OpIndia. It is the first A-category rating given to India by a major international agency in more than 35 years, with the agency citing sustained GDP growth of around 7%.",
+      "es": "La agencia japonesa Japan Credit Rating Agency (JCR) elevó el 2 de septiembre la calificación soberana de India a A-, desde BBB+, con perspectiva estable, según OpIndia. Es la primera calificación de categoría A otorgada a India por una agencia internacional importante en más de 35 años, citando la agencia un crecimiento sostenido del PIB de alrededor del 7 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "JCR relève la notation souveraine de l'Inde à A-, une première en 35 ans.",
+          "en": "JCR upgrades India's sovereign rating to A-, a first in 35 years.",
+          "es": "JCR eleva la calificación soberana de India a A-, algo inédito en 35 años."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "inde-asia-cup-feminin",
+    "coords": [
+      55.2841,
+      25.0454
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏏",
+    "source": "Olympics.com",
+    "place": {
+      "fr": "Dubaï, Émirats arabes unis",
+      "en": "Dubai, United Arab Emirates",
+      "es": "Dubái, Emiratos Árabes Unidos"
+    },
+    "title": {
+      "fr": "L'Inde remporte un 4e titre consécutif à l'Asia Cup féminine de cricket T20",
+      "en": "India wins a fourth straight Women's T20 Asia Cup cricket title",
+      "es": "India logra su cuarto título consecutivo en la Copa Asia femenina de críquet T20"
+    },
+    "summary": {
+      "fr": "L'équipe féminine de cricket d'Inde, menée par la capitaine Harmanpreet Kaur, a battu le Sri Lanka, tenant du titre, en finale de l'Asia Cup T20 le 13 septembre au stade international de cricket de Dubaï, selon Olympics.com. Il s'agit du quatrième titre consécutif de l'Inde et du huitième au total dans ce tournoi.",
+      "en": "India's women's cricket team, led by captain Harmanpreet Kaur, beat defending champions Sri Lanka in the T20 Asia Cup final on September 13 at Dubai International Cricket Stadium, according to Olympics.com. It is India's fourth straight title and eighth overall in the tournament.",
+      "es": "El equipo femenino de críquet de India, liderado por la capitana Harmanpreet Kaur, venció a Sri Lanka, defensor del título, en la final de la Copa Asia T20 el 13 de septiembre en el Estadio Internacional de Críquet de Dubái, según Olympics.com. Es el cuarto título consecutivo de India y el octavo en total en el torneo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "09/13/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "L'Inde bat le Sri Lanka en finale et remporte un 8e titre à l'Asia Cup.",
+          "en": "India beats Sri Lanka in the final to win its 8th Asia Cup title.",
+          "es": "India vence a Sri Lanka en la final y logra su octavo título de la Copa Asia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "krakatau-eruption",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "Ambassade des États-Unis à Jakarta / Al Jazeera",
+    "place": {
+      "fr": "Détroit de la Sonde, Indonésie",
+      "en": "Sunda Strait, Indonesia",
+      "es": "Estrecho de la Sonda, Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption du volcan Anak Krakatau paralyse le trafic aérien en Indonésie",
+      "en": "Anak Krakatau volcano eruption paralyzes Indonesian air traffic",
+      "es": "La erupción del volcán Anak Krakatau paraliza el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "L'éruption du volcan Anak Krakatau, dans le détroit de la Sonde, les 5 et 6 septembre a projeté un nuage de cendres qui a contraint huit aéroports, dont celui de Soekarno-Hatta à Jakarta, à suspendre leurs opérations, selon l'ambassade des États-Unis à Jakarta et Al Jazeera. Plus de 270 000 passagers ont été bloqués et l'agence nationale de gestion des catastrophes (BNPB) recensait environ 161 000 familles affectées à Java et Sumatra au 12 septembre.",
+      "en": "The eruption of Anak Krakatau volcano in the Sunda Strait on September 5-6 sent up an ash cloud that forced eight airports, including Jakarta's Soekarno-Hatta, to suspend operations, according to the U.S. Embassy in Jakarta and Al Jazeera. More than 270,000 passengers were stranded, and the national disaster agency (BNPB) reported around 161,000 affected families across Java and Sumatra as of September 12.",
+      "es": "La erupción del volcán Anak Krakatau, en el estrecho de la Sonda, los días 5 y 6 de septiembre lanzó una nube de cenizas que obligó a ocho aeropuertos, entre ellos el de Soekarno-Hatta en Yakarta, a suspender sus operaciones, según la embajada de EE. UU. en Yakarta y Al Jazeera. Más de 270 000 pasajeros quedaron varados y la agencia nacional de gestión de desastres (BNPB) contabilizaba unas 161 000 familias afectadas en Java y Sumatra hasta el 12 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05-06/09/2026",
+          "en": "09/05-06/2026",
+          "es": "05-06/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan entre en éruption, provoquant la fermeture de huit aéroports.",
+          "en": "The volcano erupts, forcing the closure of eight airports.",
+          "es": "El volcán entra en erupción, provocando el cierre de ocho aeropuertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "rio-crime-organise",
+    "coords": [
+      -43.3653,
+      -22.9276
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Gardênia Azul, Rio de Janeiro, Brésil",
+      "en": "Gardênia Azul, Rio de Janeiro, Brazil",
+      "es": "Gardênia Azul, Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Le Brésil intensifie sa lutte contre le crime organisé à Rio avant l'élection",
+      "en": "Brazil steps up crackdown on organized crime in Rio ahead of election",
+      "es": "Brasil intensifica su lucha contra el crimen organizado en Río antes de las elecciones"
+    },
+    "summary": {
+      "fr": "Le président Lula a présenté le 18 septembre un plan fédéral pilote contre le crime organisé à Rio de Janeiro, après des affrontements début septembre entre factions rivales de trafiquants et de milices qui ont fait 4 morts et vu 14 bus détournés pour servir de barricades, selon l'agence AP. La police militaire a ensuite lancé une opération dans le quartier de Gardênia Azul contre les groupes responsables des violences.",
+      "en": "President Lula unveiled a pilot federal plan against organized crime in Rio de Janeiro on September 18, after clashes in early September between rival drug trafficking factions and militias left 4 dead and saw 14 buses hijacked to build barricades, according to the Associated Press. Military Police subsequently launched an operation in the Gardênia Azul neighborhood against the groups behind the violence.",
+      "es": "El presidente Lula presentó el 18 de septiembre un plan federal piloto contra el crimen organizado en Río de Janeiro, tras enfrentamientos a principios de septiembre entre facciones rivales de narcotraficantes y milicias que dejaron 4 muertos y en los que se secuestraron 14 autobuses para levantar barricadas, según la agencia AP. La Policía Militar lanzó después una operación en el barrio de Gardênia Azul contra los grupos responsables de la violencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Début septembre 2026",
+          "en": "Early September 2026",
+          "es": "Principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Des affrontements entre factions rivales font 4 morts et 14 bus détournés.",
+          "en": "Clashes between rival factions leave 4 dead and 14 buses hijacked.",
+          "es": "Los enfrentamientos entre facciones rivales dejan 4 muertos y 14 autobuses secuestrados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "09/18/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Lula annonce un plan fédéral pilote contre le crime organisé à Rio.",
+          "en": "Lula announces a pilot federal plan against organized crime in Rio.",
+          "es": "Lula anuncia un plan federal piloto contra el crimen organizado en Río."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "minna-mineurs-morts-couvrefeu",
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛏️",
+    "source": "Associated Press / Vanguard",
+    "place": {
+      "fr": "Minna, État du Niger, Nigeria",
+      "en": "Minna, Niger State, Nigeria",
+      "es": "Minna, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "37 mineurs illégaux détenus retrouvés morts en garde à vue au Nigeria, un couvre-feu imposé",
+      "en": "37 detained illegal miners found dead in custody in Nigeria, curfew imposed",
+      "es": "37 mineros ilegales detenidos aparecen muertos bajo custodia en Nigeria; se impone un toque de queda"
+    },
+    "summary": {
+      "fr": "Trente-sept personnes détenues, dont plusieurs adolescents, sont mortes en garde à vue du service civil de défense (NSCDC) après des raids menés les 15 et 16 septembre sur des sites d'orpaillage illégal près de Minna (État du Niger), selon l'agence AP et le quotidien nigérian Vanguard. Après des manifestations dispersées au gaz lacrymogène, le gouverneur Umaru Bago a imposé le 18 septembre un couvre-feu de 24 heures à Minna, et le président Tinubu a ordonné une enquête.",
+      "en": "Thirty-seven detainees, including several teenagers, died in custody of the Nigeria Security and Civil Defence Corps (NSCDC) after raids on illegal gold mining sites near Minna (Niger State) on September 15-16, according to the Associated Press and Nigerian newspaper Vanguard. After protests were dispersed with tear gas, Governor Umaru Bago imposed a 24-hour curfew on Minna on September 18, and President Tinubu ordered an investigation.",
+      "es": "Treinta y siete detenidos, entre ellos varios adolescentes, murieron bajo custodia del Cuerpo de Seguridad y Defensa Civil de Nigeria (NSCDC) tras redadas en yacimientos de oro ilegales cerca de Minna (estado de Níger) el 15 y 16 de septiembre, según la agencia AP y el diario nigeriano Vanguard. Tras dispersarse protestas con gas lacrimógeno, el gobernador Umaru Bago impuso el 18 de septiembre un toque de queda de 24 horas en Minna, y el presidente Tinubu ordenó una investigación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15-16/09/2026",
+          "en": "09/15-16/2026",
+          "es": "15-16/09/2026"
+        },
+        "d": {
+          "fr": "Des raids sur des sites d'orpaillage illégal près de Minna font 37 morts en détention.",
+          "en": "Raids on illegal gold mining sites near Minna leave 37 dead in custody.",
+          "es": "Las redadas en yacimientos de oro ilegales cerca de Minna dejan 37 muertos bajo custodia."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "09/18/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur de l'État du Niger impose un couvre-feu de 24 heures à Minna.",
+          "en": "Niger State's governor imposes a 24-hour curfew on Minna.",
+          "es": "El gobernador del estado de Níger impone un toque de queda de 24 horas en Minna."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "sinai-accident-bus",
+    "coords": [
+      34.59,
+      28.75
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "Al Jazeera / Arab News",
+    "place": {
+      "fr": "Zone d'Al-Saada, entre Dahab et Nuweiba, Sinaï du Sud, Égypte",
+      "en": "Al-Saada area, between Dahab and Nuweiba, South Sinai, Egypt",
+      "es": "Zona de Al-Saada, entre Dahab y Nuweiba, Sinaí del Sur, Egipto"
+    },
+    "title": {
+      "fr": "Un accident de bus dans le Sinaï fait 22 morts dont 10 Jordaniens",
+      "en": "Bus crash in Sinai kills 22, including 10 Jordanians",
+      "es": "Un accidente de autobús en el Sinaí deja 22 muertos, entre ellos 10 jordanos"
+    },
+    "summary": {
+      "fr": "Un autobus reliant Le Caire au port de Nuweiba, d'où les passagers devaient rejoindre la Jordanie par la mer, s'est renversé le 2 septembre dans la zone d'Al-Saada, entre Dahab et Nuweiba, faisant 22 morts, dont 10 ressortissants jordaniens, et 28 blessés, selon Al Jazeera et Arab News. Le Premier ministre Mostafa Madbouly a ordonné la création d'une commission technique pour déterminer les causes de l'accident.",
+      "en": "A bus traveling from Cairo to the port of Nuweiba, from where passengers were to cross to Jordan by sea, overturned on September 2 in the Al-Saada area, between Dahab and Nuweiba, killing 22 people, including 10 Jordanian nationals, and injuring 28, according to Al Jazeera and Arab News. Prime Minister Mostafa Madbouly ordered a technical committee to determine the cause of the crash.",
+      "es": "Un autobús que viajaba de El Cairo al puerto de Nuweiba, desde donde los pasajeros debían cruzar a Jordania por mar, volcó el 2 de septiembre en la zona de Al-Saada, entre Dahab y Nuweiba, dejando 22 muertos, entre ellos 10 ciudadanos jordanos, y 28 heridos, según Al Jazeera y Arab News. El primer ministro Mostafa Madbouly ordenó la creación de una comisión técnica para determinar las causas del accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/09/2026",
+          "en": "09/02/2026",
+          "es": "02/09/2026"
+        },
+        "d": {
+          "fr": "Le bus se renverse, faisant 22 morts et 28 blessés.",
+          "en": "The bus overturns, leaving 22 dead and 28 injured.",
+          "es": "El autobús vuelca, dejando 22 muertos y 28 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 3
+  },
+  {
+    "id": "coree-sud-exportations-puces",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💾",
+    "source": "Korea Herald / CNBC",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Les exportations sud-coréennes de semi-conducteurs bondissent avec la demande de puces IA",
+      "en": "South Korea's semiconductor exports surge on AI chip demand",
+      "es": "Las exportaciones surcoreanas de semiconductores se disparan por la demanda de chips de IA"
+    },
+    "summary": {
+      "fr": "Les exportations sud-coréennes ont augmenté de 83 % sur un an durant les dix premiers jours de septembre, tirées par la demande mondiale de puces pour l'intelligence artificielle, avec des exportations de semi-conducteurs en hausse de 270 % à 16,5 milliards de dollars sur la période, selon le Korea Herald et CNBC. Samsung et SK hynix auraient déjà vendu l'intégralité de leur production de mémoire HBM et DRAM pour 2026.",
+      "en": "South Korea's exports rose 83% year-on-year in the first ten days of September, driven by global demand for AI chips, with semiconductor exports up 270% to $16.5 billion over the period, according to the Korea Herald and CNBC. Samsung and SK hynix are reported to have already sold out their HBM and DRAM memory output for 2026.",
+      "es": "Las exportaciones surcoreanas aumentaron un 83 % interanual en los primeros diez días de septiembre, impulsadas por la demanda mundial de chips para inteligencia artificial, con exportaciones de semiconductores que subieron un 270 %, hasta 16 500 millones de dólares, en el período, según el Korea Herald y CNBC. Samsung y SK hynix habrían vendido ya toda su producción de memoria HBM y DRAM para 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "09/11/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Les données douanières montrent une hausse de 83 % des exportations sur un an.",
+          "en": "Customs data show an 83% year-on-year rise in exports.",
+          "es": "Los datos aduaneros muestran un alza interanual del 83 % en las exportaciones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "mexique-troupes-sinaloa",
+    "coords": [
+      -107.394,
+      24.8091
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "Breitbart / Voz.us",
+    "place": {
+      "fr": "Culiacán, État de Sinaloa, Mexique",
+      "en": "Culiacán, Sinaloa, Mexico",
+      "es": "Culiacán, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Le Mexique déploie 1 800 soldats supplémentaires au Sinaloa face à la guerre des cartels",
+      "en": "Mexico deploys 1,800 additional troops to Sinaloa amid cartel war",
+      "es": "México despliega 1800 soldados adicionales en Sinaloa ante la guerra entre cárteles"
+    },
+    "summary": {
+      "fr": "Le ministère mexicain de la Défense a déployé vers le 16 septembre environ 1 800 militaires supplémentaires, dont 1 500 soldats et 100 membres des forces spéciales envoyés depuis Mexico, dans l'État de Sinaloa, pour contenir la violence croissante liée à la guerre intestine du cartel de Sinaloa, selon Breitbart et Voz.us. Ce regain de violence s'inscrit dans le prolongement de la mort du chef du CJNG \"El Mencho\" en février 2026.",
+      "en": "Mexico's Ministry of Defense deployed around 1,800 additional troops, including 1,500 soldiers and 100 special forces flown in from Mexico City, to Sinaloa state around September 16 to contain escalating violence from the Sinaloa Cartel's internal war, according to Breitbart and Voz.us. The surge in violence follows the February 2026 killing of CJNG leader \"El Mencho.\"",
+      "es": "El Ministerio de la Defensa de México desplegó hacia el 16 de septiembre unos 1800 militares adicionales, entre ellos 1500 soldados y 100 miembros de fuerzas especiales trasladados desde Ciudad de México, al estado de Sinaloa para contener la creciente violencia derivada de la guerra interna del cártel de Sinaloa, según Breitbart y Voz.us. Este repunte de violencia se produce tras la muerte del líder del CJNG \"El Mencho\" en febrero de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "09/16/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Environ 1 800 militaires supplémentaires sont déployés au Sinaloa.",
+          "en": "About 1,800 additional troops are deployed to Sinaloa.",
+          "es": "Se despliegan unos 1800 militares adicionales en Sinaloa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "ceuta-crise-migratoire",
+    "coords": [
+      -5.3213,
+      35.8894
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Euronews / Al Jazeera",
+    "place": {
+      "fr": "Ceuta, Espagne",
+      "en": "Ceuta, Spain",
+      "es": "Ceuta, España"
+    },
+    "title": {
+      "fr": "Un rapport divulgué relance la polémique sur le rôle du Maroc dans la crise migratoire de Ceuta",
+      "en": "Leaked report reignites debate over Morocco's role in the Ceuta migrant crisis",
+      "es": "Un informe filtrado reaviva la polémica sobre el papel de Marruecos en la crisis migratoria de Ceuta"
+    },
+    "summary": {
+      "fr": "Un rapport policier divulgué début septembre suggère que les forces marocaines ont laissé passer environ 80 000 migrants vers l'enclave espagnole de Ceuta fin juillet, alors que les services de renseignement espagnols avaient averti d'un afflux massif avant la crise, selon Euronews et Al Jazeera. Le gouvernement espagnol évoque environ 5 000 migrants, dont 1 200 mineurs, toujours présents à Ceuta plus d'un mois après, contre jusqu'à 10 000 selon les autorités locales ; le ministre de l'Intérieur Fernando Grande-Marlaska est sous pression.",
+      "en": "A police report leaked in early September suggests Moroccan forces passively allowed around 80,000 migrants to cross into the Spanish enclave of Ceuta in late July, while Spanish intelligence had warned of a mass crossing before the crisis, according to Euronews and Al Jazeera. The Spanish government cites around 5,000 migrants, including 1,200 minors, still in Ceuta more than a month later, versus up to 10,000 according to local authorities; Interior Minister Fernando Grande-Marlaska is under pressure.",
+      "es": "Un informe policial filtrado a principios de septiembre sugiere que fuerzas marroquíes dejaron pasar pasivamente a unos 80 000 migrantes hacia el enclave español de Ceuta a finales de julio, mientras que los servicios de inteligencia españoles habían advertido de un cruce masivo antes de la crisis, según Euronews y Al Jazeera. El gobierno español cifra en unos 5000 los migrantes, incluidos 1200 menores, que permanecen en Ceuta más de un mes después, frente a hasta 10 000 según las autoridades locales; el ministro del Interior, Fernando Grande-Marlaska, está bajo presión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Fin juillet 2026",
+          "en": "Late July 2026",
+          "es": "Finales de julio de 2026"
+        },
+        "d": {
+          "fr": "Environ 80 000 migrants franchissent la frontière vers Ceuta en quelques jours.",
+          "en": "About 80,000 migrants cross the border into Ceuta within days.",
+          "es": "Unos 80 000 migrantes cruzan la frontera hacia Ceuta en pocos días."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "Début septembre 2026",
+          "en": "Early September 2026",
+          "es": "Principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Un rapport policier divulgué met en cause le rôle des forces marocaines.",
+          "en": "A leaked police report calls into question the role of Moroccan forces.",
+          "es": "Un informe policial filtrado pone en entredicho el papel de las fuerzas marroquíes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
   }
 ]
