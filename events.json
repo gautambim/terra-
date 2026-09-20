@@ -829,5 +829,898 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-cour-supreme-vote-postal",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR / CNN / SCOTUSblog",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington D. C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême rejette la restriction du vote par correspondance",
+      "en": "Supreme Court rejects mail-in ballot restriction",
+      "es": "La Corte Suprema rechaza la restricción del voto por correo"
+    },
+    "summary": {
+      "fr": "La Cour suprême des États-Unis a refusé, les 14 et 15 septembre, de lever une injonction bloquant une règle de l'administration Trump limitant le traitement des bulletins de vote par correspondance avant les élections de mi-mandat de novembre. La décision, non signée, estime que l'administration a peu de chances d'obtenir gain de cause sur le fond ; les juges Alito et Thomas s'y sont opposés.",
+      "en": "The U.S. Supreme Court declined on September 14–15 to lift an injunction blocking a Trump administration rule restricting the handling of mail-in ballots ahead of November's midterm elections. The unsigned order said the administration was unlikely to succeed on the merits; Justices Alito and Thomas dissented.",
+      "es": "La Corte Suprema de EE. UU. se negó, el 14 y 15 de septiembre, a levantar una orden judicial que bloquea una norma de la administración Trump que restringe el manejo de las papeletas de voto por correo antes de las elecciones legislativas de noviembre. La orden, sin firmar, señala que la administración tiene pocas probabilidades de ganar el caso; los jueces Alito y Thomas votaron en contra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême refuse de suspendre l'injonction bloquant la restriction du vote par correspondance de l'administration Trump avant les élections de mi-mandat.",
+          "en": "The Supreme Court declines to stay the injunction blocking the Trump administration's mail-in ballot restriction ahead of the midterms.",
+          "es": "La Corte Suprema se niega a suspender la orden judicial que bloquea la restricción al voto por correo de la administración Trump antes de las elecciones legislativas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "us-fed-taux",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "NPR / CNN Business",
+    "place": {
+      "fr": "Washington, D.C., États-Unis (siège de la Réserve fédérale)",
+      "en": "Washington, D.C., United States (Federal Reserve headquarters)",
+      "es": "Washington D. C., Estados Unidos (sede de la Reserva Federal)"
+    },
+    "title": {
+      "fr": "La Réserve fédérale relève ses taux pour la première fois depuis 2023",
+      "en": "Federal Reserve raises interest rates for first time since 2023",
+      "es": "La Reserva Federal sube los tipos de interés por primera vez desde 2023"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Réserve fédérale américaine a voté à l'unanimité, le 16 septembre, une hausse d'un quart de point de son taux directeur, porté à une fourchette de 3,75 % à 4 %, invoquant une inflation toujours élevée. Il s'agit de la première hausse depuis 2023 ; plusieurs responsables anticipent un nouveau relèvement d'ici la fin de l'année.",
+      "en": "The Federal Reserve's policy committee voted unanimously on September 16 to raise its benchmark rate by a quarter point, to a range of 3.75%–4%, citing persistently elevated inflation. It is the first hike since 2023, and several officials expect another increase before year-end.",
+      "es": "El comité de política monetaria de la Reserva Federal de EE. UU. votó por unanimidad, el 16 de septiembre, subir su tipo de interés de referencia un cuarto de punto, hasta un rango de 3,75 %-4 %, citando una inflación persistentemente elevada. Es la primera subida desde 2023; varios responsables prevén otra alza antes de fin de año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "La Fed relève son taux directeur d'un quart de point à 3,75-4 %, une première depuis 2023.",
+          "en": "The Fed raises its benchmark rate a quarter point to 3.75–4%, the first hike since 2023.",
+          "es": "La Fed sube su tipo de referencia un cuarto de punto hasta 3,75-4 %, la primera subida desde 2023."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "canada-incendie-condamnation",
+    "coords": [
+      -105.9,
+      54.75
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🔥",
+    "source": "CTV News / CBC News",
+    "place": {
+      "fr": "Weyakwin, nord de la Saskatchewan, Canada",
+      "en": "Weyakwin, northern Saskatchewan, Canada",
+      "es": "Weyakwin, norte de Saskatchewan, Canadá"
+    },
+    "title": {
+      "fr": "La Couronne réclame 10 ans de prison pour l'auteur d'un incendie majeur en Saskatchewan",
+      "en": "Crown seeks 10-year sentence for man who set major Saskatchewan wildfire",
+      "es": "La fiscalía pide 10 años de cárcel para el autor de un gran incendio en Saskatchewan"
+    },
+    "summary": {
+      "fr": "Jason Halkett, qui a plaidé coupable d'avoir volontairement déclenché l'incendie « Ditch 2 » près du hameau de Weyakwin le 26 mai 2025, a comparu pour son audience de détermination de la peine les 17 et 18 septembre. Le feu, qui avait provoqué l'évacuation de Weyakwin et de Ramsey Bay, a été l'un des plus importants de la saison des feux 2025 en Saskatchewan ; la Couronne demande une peine de 10 ans, la peine maximale pour incendie criminel avec dommages matériels étant de 14 ans.",
+      "en": "Jason Halkett, who pleaded guilty to deliberately setting the 'Ditch 2' wildfire near the hamlet of Weyakwin on May 26, 2025, appeared for his sentencing hearing on September 17–18. The fire, which forced evacuations from Weyakwin and Ramsey Bay, became one of the largest of Saskatchewan's 2025 wildfire season; the Crown is seeking a 10-year sentence, out of a 14-year maximum for arson causing property damage.",
+      "es": "Jason Halkett, quien se declaró culpable de provocar deliberadamente el incendio «Ditch 2» cerca de la localidad de Weyakwin el 26 de mayo de 2025, compareció en su audiencia de sentencia los días 17 y 18 de septiembre. El fuego, que obligó a evacuar Weyakwin y Ramsey Bay, se convirtió en uno de los mayores de la temporada de incendios de 2025 en Saskatchewan; la fiscalía pide una condena de 10 años, frente a un máximo de 14 por incendio provocado con daños materiales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Audience de détermination de la peine de Jason Halkett ; la Couronne demande 10 ans de prison.",
+          "en": "Sentencing hearing for Jason Halkett; the Crown seeks a 10-year prison term.",
+          "es": "Audiencia de sentencia de Jason Halkett; la fiscalía pide una condena de 10 años."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "bresil-rio-plan-securite",
+    "coords": [
+      -43.1729,
+      -22.9068
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🛡️",
+    "source": "Associated Press / Rio Times",
+    "place": {
+      "fr": "Rio de Janeiro, Brésil",
+      "en": "Rio de Janeiro, Brazil",
+      "es": "Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Lula présente un plan fédéral contre le crime organisé à Rio de Janeiro",
+      "en": "Lula unveils federal plan against organized crime in Rio de Janeiro",
+      "es": "Lula presenta un plan federal contra el crimen organizado en Río de Janeiro"
+    },
+    "summary": {
+      "fr": "Le président Luiz Inácio Lula da Silva a présenté, le 18 septembre, un plan de sécurité conjoint entre l'État fédéral, l'État de Rio et la municipalité, axé sur la protection des axes logistiques et le renforcement de la garde municipale d'environ 300 agents. Les autorités ont fait état de 16 opérations conjointes menées entre janvier et septembre 2026, ayant conduit à 3 363 arrestations.",
+      "en": "President Luiz Inácio Lula da Silva unveiled a joint federal, state and municipal security plan on September 18, focused on protecting logistics corridors and expanding the municipal guard by around 300 officers. Officials cited 16 joint operations carried out between January and September 2026, leading to 3,363 arrests.",
+      "es": "El presidente Luiz Inácio Lula da Silva presentó, el 18 de septiembre, un plan de seguridad conjunto entre el gobierno federal, el estado de Río y el municipio, centrado en proteger corredores logísticos y ampliar la guardia municipal en unos 300 agentes. Las autoridades mencionaron 16 operaciones conjuntas realizadas entre enero y septiembre de 2026, que derivaron en 3363 detenciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Lula présente le plan de sécurité conjoint pour Rio de Janeiro.",
+          "en": "Lula unveils the joint security plan for Rio de Janeiro.",
+          "es": "Lula presenta el plan de seguridad conjunto para Río de Janeiro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "mexique-cuautla-feminicide",
+    "coords": [
+      -98.954,
+      18.8145
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "La Jornada / Milenio / Infobae",
+    "place": {
+      "fr": "Cuautla, État de Morelos, Mexique",
+      "en": "Cuautla, Morelos State, Mexico",
+      "es": "Cuautla, estado de Morelos, México"
+    },
+    "title": {
+      "fr": "Un suspect inculpé après le féminicide d'une étudiante espagnole à Cuautla",
+      "en": "Suspect charged after femicide of Spanish exchange student in Cuautla",
+      "es": "Un sospechoso es vinculado a proceso por el feminicidio de una estudiante española en Cuautla"
+    },
+    "summary": {
+      "fr": "Claudia Tacoronte Aguilera, étudiante espagnole originaire de Gran Canaria en échange à l'Université autonome de l'État de Morelos, a été mortellement poignardée dans la nuit du 12 septembre devant la Casa de la Cultura de Cuautla. Le 18 septembre, un juge a formellement lié un suspect, identifié comme Francisco Javier N., à la procédure pour féminicide ; le parquet de Morelos enquête selon son protocole dédié.",
+      "en": "Claudia Tacoronte Aguilera, a Spanish exchange student from Gran Canaria studying at the Universidad Autónoma del Estado de Morelos, was fatally stabbed on the night of September 12 outside the Casa de la Cultura in Cuautla. On September 18, a judge formally linked a suspect, identified as Francisco Javier N., to criminal proceedings for femicide; the Morelos state prosecutor's office is investigating under its femicide protocol.",
+      "es": "Claudia Tacoronte Aguilera, estudiante de intercambio española originaria de Gran Canaria e inscrita en la Universidad Autónoma del Estado de Morelos, fue apuñalada mortalmente la noche del 12 de septiembre frente a la Casa de la Cultura de Cuautla. El 18 de septiembre, un juez vinculó formalmente a proceso por feminicidio a un sospechoso identificado como Francisco Javier N.; la fiscalía de Morelos investiga bajo su protocolo de feminicidios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/09/2026",
+          "en": "12/09/2026",
+          "es": "12/09/2026"
+        },
+        "d": {
+          "fr": "Claudia Tacoronte Aguilera est mortellement poignardée devant la Casa de la Cultura de Cuautla.",
+          "en": "Claudia Tacoronte Aguilera is fatally stabbed outside the Casa de la Cultura in Cuautla.",
+          "es": "Claudia Tacoronte Aguilera es apuñalada mortalmente frente a la Casa de la Cultura de Cuautla."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Un juge lie formellement un suspect à la procédure pour féminicide.",
+          "en": "A judge formally links a suspect to criminal proceedings for femicide.",
+          "es": "Un juez vincula formalmente a proceso por feminicidio a un sospechoso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-balaklia-frappes",
+    "coords": [
+      36.8531,
+      49.4589
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Ukrinform / LIGA.net",
+    "place": {
+      "fr": "Balaklia, oblast de Kharkiv, Ukraine",
+      "en": "Balakliia, Kharkiv Oblast, Ukraine",
+      "es": "Balaklia, óblast de Járkiv, Ucrania"
+    },
+    "title": {
+      "fr": "Quatre civils tués dans des frappes de drones russes sur Balaklia",
+      "en": "Russian drone strikes kill four civilians in Balakliia",
+      "es": "Ataques con drones rusos matan a cuatro civiles en Balaklia"
+    },
+    "summary": {
+      "fr": "Les autorités ukrainiennes rapportent que des drones russes ont frappé la ville de Balaklia à deux reprises le 18 septembre, tuant quatre civils au total : deux dans un quartier résidentiel en journée, puis un couple de 74 et 71 ans dans leur maison le soir. Une journée de deuil a été décrétée le 19 septembre. La partie russe n'a pas commenté cet épisode précis.",
+      "en": "Ukrainian officials say Russian drones struck the city of Balakliia twice on September 18, killing four civilians in total: two in a daytime strike on a residential area, then a 74-year-old man and his 71-year-old wife in their home that evening. A local day of mourning was declared on September 19. The Russian side has not commented on this specific incident.",
+      "es": "Las autoridades ucranianas informan de que drones rusos atacaron la ciudad de Balaklia dos veces el 18 de septiembre, matando a cuatro civiles en total: dos en una zona residencial durante el día, y luego a un matrimonio de 74 y 71 años en su casa por la noche. Se declaró un día de duelo local el 19 de septiembre. La parte rusa no se ha pronunciado sobre este episodio concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Deux frappes de drones russes sur Balaklia font quatre morts civils.",
+          "en": "Two Russian drone strikes on Balakliia kill four civilians.",
+          "es": "Dos ataques con drones rusos sobre Balaklia matan a cuatro civiles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-carburant-baisse",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Bloomberg / Energy Connects",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "L'Allemagne baisse la taxe sur les carburants et prépare un plafond des prix à la pompe",
+      "en": "Germany cuts fuel tax and plans pump-price cap",
+      "es": "Alemania reduce el impuesto a los combustibles y prepara un tope de precios en surtidor"
+    },
+    "summary": {
+      "fr": "La coalition gouvernementale allemande a annoncé, le 18 septembre, une baisse d'environ 17 centimes d'euro par litre de la taxe sur les carburants jusqu'à la fin de l'année, ainsi qu'un futur plafonnement des prix à la pompe à partir du 1er janvier, inspiré des dispositifs belge et luxembourgeois. La mesure, estimée à 2,5 milliards d'euros, intervient alors que le diesel et l'essence ont atteint des records (2,47 €/litre pour le diesel selon l'ADAC).",
+      "en": "Germany's governing coalition announced on September 18 a cut of roughly 17 euro cents per liter in fuel tax through year-end, along with a planned cap on retail pump prices from January 1, modeled on schemes used in Belgium and Luxembourg. The measure, estimated at €2.5 billion, comes as diesel and gasoline hit record highs (diesel at €2.47/liter, per ADAC).",
+      "es": "La coalición gobernante de Alemania anunció, el 18 de septiembre, una reducción de unos 17 céntimos de euro por litro en el impuesto a los combustibles hasta fin de año, junto con un futuro tope a los precios en el surtidor a partir del 1 de enero, inspirado en los sistemas de Bélgica y Luxemburgo. La medida, valorada en 2500 millones de euros, llega tras alcanzar el diésel y la gasolina máximos históricos (2,47 €/litro el diésel, según ADAC)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "La coalition allemande annonce la baisse de la taxe carburant et un futur plafond des prix.",
+          "en": "The German coalition announces the fuel tax cut and a future price cap.",
+          "es": "La coalición alemana anuncia la baja del impuesto a los combustibles y un futuro tope de precios."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "france-dette-record",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Reuters / Xinhua",
+    "place": {
+      "fr": "Paris, France (ministère des Finances)",
+      "en": "Paris, France (Finance Ministry)",
+      "es": "París, Francia (Ministerio de Finanzas)"
+    },
+    "title": {
+      "fr": "La dette publique française devrait approcher 120 % du PIB",
+      "en": "French public debt set to near 120% of GDP",
+      "es": "La deuda pública francesa se acercaría al 120 % del PIB"
+    },
+    "summary": {
+      "fr": "Le ministère français des Finances a indiqué, le 19 septembre, au Haut Conseil des finances publiques que la dette publique atteindrait un niveau record de 119,3 % du PIB en 2026 et 121,7 % en 2027, contre 115,7 % en 2025. Le déficit budgétaire est projeté à 5,4 % du PIB cette année ; le Premier ministre Sébastien Lecornu propose un plan d'économies de 54 milliards d'euros pour le budget 2027.",
+      "en": "France's finance ministry told the High Council of Public Finances on September 19 that public debt would reach a record 119.3% of GDP in 2026 and 121.7% in 2027, up from 115.7% in 2025. The budget deficit is projected at 5.4% of GDP this year; Prime Minister Sébastien Lecornu has proposed a €54 billion savings plan for the 2027 budget.",
+      "es": "El Ministerio de Finanzas de Francia informó, el 19 de septiembre, al Alto Consejo de Finanzas Públicas que la deuda pública alcanzaría un nivel récord del 119,3 % del PIB en 2026 y del 121,7 % en 2027, frente al 115,7 % de 2025. El déficit presupuestario se proyecta en el 5,4 % del PIB este año; el primer ministro Sébastien Lecornu propone un plan de ahorro de 54 000 millones de euros para el presupuesto de 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Le ministère des Finances présente des prévisions de dette record au Haut Conseil des finances publiques.",
+          "en": "The finance ministry presents record debt forecasts to the High Council of Public Finances.",
+          "es": "El Ministerio de Finanzas presenta previsiones de deuda récord al Alto Consejo de Finanzas Públicas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "londres-clerkenwell-poignardage",
+    "coords": [
+      -0.1146,
+      51.5286
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "LBC / PA",
+    "place": {
+      "fr": "Clerkenwell, Londres, Royaume-Uni",
+      "en": "Clerkenwell, London, United Kingdom",
+      "es": "Clerkenwell, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Enquête pour meurtre après un poignardage mortel à Clerkenwell",
+      "en": "Murder investigation launched after fatal stabbing in Clerkenwell",
+      "es": "Investigación por asesinato tras una puñalada mortal en Clerkenwell"
+    },
+    "summary": {
+      "fr": "Reece Salmon, 28 ans, a été mortellement poignardé sur Lloyd Baker Street, à Clerkenwell, dans la nuit du 16 au 17 septembre ; il est mort à l'hôpital le lendemain. La police métropolitaine a ouvert une enquête pour meurtre et instauré un dispositif de fouilles renforcées (article 60) du 18 au 19 septembre dans le secteur. Aucune arrestation n'avait été annoncée au dernier bilan.",
+      "en": "Reece Salmon, 28, was fatally stabbed on Lloyd Baker Street in Clerkenwell on the night of September 16–17 and died in hospital the next day. The Metropolitan Police opened a murder investigation and imposed an enhanced stop-and-search order (Section 60) across the area from September 18 to 19. No arrests had been reported as of the latest update.",
+      "es": "Reece Salmon, de 28 años, fue apuñalado mortalmente en Lloyd Baker Street, en Clerkenwell, la noche del 16 al 17 de septiembre, y murió en el hospital al día siguiente. La Policía Metropolitana abrió una investigación por asesinato e impuso un dispositivo reforzado de cacheos (Sección 60) en la zona del 18 al 19 de septiembre. No se había informado de detenciones hasta la última actualización."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Reece Salmon meurt à l'hôpital après avoir été poignardé à Clerkenwell.",
+          "en": "Reece Salmon dies in hospital after being stabbed in Clerkenwell.",
+          "es": "Reece Salmon muere en el hospital tras ser apuñalado en Clerkenwell."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "italie-nebrodi-proces",
+    "coords": [
+      14.9612,
+      38.1461
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "ANSA / Il Fatto Quotidiano",
+    "place": {
+      "fr": "Patti, province de Messine, Sicile, Italie",
+      "en": "Patti, Messina Province, Sicily, Italy",
+      "es": "Patti, provincia de Mesina, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "45 condamnations dans le procès sicilien « Nebrodi 2 » pour fraude aux fonds européens",
+      "en": "45 convictions in Sicily's 'Nebrodi 2' EU-funds fraud trial",
+      "es": "45 condenas en el juicio siciliano «Nebrodi 2» por fraude a fondos europeos"
+    },
+    "summary": {
+      "fr": "Le tribunal de Patti a condamné, le 18 septembre, 45 des 54 prévenus à un total de 325 ans de prison dans l'affaire « Nebrodi 2 », volet d'une enquête antimafia de Messine sur des fraudes aux subventions agricoles européennes dans le massif des Nebrodi. Les chefs d'accusation incluaient association mafieuse, fraude aggravée envers l'État, extorsion et trafic de stupéfiants.",
+      "en": "The Court of Patti convicted 45 of 54 defendants on September 18, handing down a combined 325 years in prison in the 'Nebrodi 2' case, part of a Messina anti-mafia investigation into fraud involving EU agricultural subsidies in the Nebrodi mountains. Charges included mafia association, aggravated fraud against the state, extortion and drug trafficking.",
+      "es": "El Tribunal de Patti condenó, el 18 de septiembre, a 45 de los 54 acusados a un total de 325 años de prisión en el caso «Nebrodi 2», parte de una investigación antimafia de Mesina sobre fraude con subvenciones agrícolas europeas en el macizo de los Nebrodi. Los cargos incluían asociación mafiosa, fraude agravado contra el Estado, extorsión y narcotráfico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal de Patti rend son verdict : 45 condamnations pour un total de 325 ans de prison.",
+          "en": "The Court of Patti hands down its verdict: 45 convictions totaling 325 years in prison.",
+          "es": "El Tribunal de Patti dicta su veredicto: 45 condenas por un total de 325 años de prisión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "nigeria-mineurs-detention-morts",
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "CNN / Al Jazeera / Tribune Online",
+    "place": {
+      "fr": "Minna, État du Niger, Nigeria",
+      "en": "Minna, Niger State, Nigeria",
+      "es": "Minna, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Des dizaines de mineurs clandestins meurent en détention au Nigeria, des heurts éclatent",
+      "en": "Dozens of illegal miners die in Nigerian custody, clashes erupt",
+      "es": "Decenas de mineros irregulares mueren bajo custodia en Nigeria y estallan disturbios"
+    },
+    "summary": {
+      "fr": "Après des raids contre des sites d'orpaillage clandestin près de Minna les 15 et 16 septembre, des dizaines de mineurs détenus par le corps paramilitaire NSCDC sont morts dans une cellule surpeuplée — un bilan que CNN et Al Jazeera situent à 33 et que des médias nigérians portent à 37. Le ministre de l'Intérieur a suspendu le commandant local et 20 agents et ordonné une enquête indépendante ; le 18 septembre, des tirs des forces de sécurité contre des manifestants réclamant justice ont été rapportés à Minna.",
+      "en": "Following raids on suspected illegal gold-mining sites near Minna on September 15–16, dozens of miners detained by the NSCDC paramilitary force died in an overcrowded holding cell — a toll CNN and Al Jazeera put at 33 and Nigerian outlets at 37. The interior minister suspended the local commandant and 20 officers and ordered an independent probe; on September 18, security forces were reported to have fired on protesters demanding justice in Minna.",
+      "es": "Tras redadas contra presuntos sitios de minería de oro ilegal cerca de Minna el 15 y 16 de septiembre, decenas de mineros detenidos por la fuerza paramilitar NSCDC murieron en una celda superpoblada, con un balance que CNN y Al Jazeera sitúan en 33 y medios nigerianos en 37. El ministro del Interior suspendió al comandante local y a 20 agentes y ordenó una investigación independiente; el 18 de septiembre se informó de disparos de las fuerzas de seguridad contra manifestantes que exigían justicia en Minna."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Des tirs des forces de sécurité contre des manifestants sont rapportés à Minna après la révélation des décès en détention.",
+          "en": "Security forces are reported to have fired on protesters in Minna after the in-custody deaths came to light.",
+          "es": "Se informa de disparos de las fuerzas de seguridad contra manifestantes en Minna tras conocerse las muertes bajo custodia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "arabie-saoudite-riyad-missile",
+    "coords": [
+      46.6988,
+      24.9576
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "France 24 / Al Jazeera / CNBC",
+    "place": {
+      "fr": "Riyad, Arabie saoudite (près de l'aéroport international Roi Khaled)",
+      "en": "Riyadh, Saudi Arabia (near King Khalid International Airport)",
+      "es": "Riad, Arabia Saudita (cerca del aeropuerto internacional Rey Khalid)"
+    },
+    "title": {
+      "fr": "Un incendie éclate près de l'aéroport de Riyad après une attaque revendiquée par les Houthis",
+      "en": "Fire breaks out near Riyadh airport after Houthi-claimed attack",
+      "es": "Un incendio estalla cerca del aeropuerto de Riad tras un ataque reivindicado por los hutíes"
+    },
+    "summary": {
+      "fr": "Le 19 septembre, un incendie s'est déclaré dans une zone de stockage de carburant près de l'aéroport international Roi-Khaled de Riyad après que le mouvement houthiste yéménite a annoncé avoir visé des sites « sensibles » de la capitale saoudienne. La coalition dirigée par l'Arabie saoudite affirme avoir intercepté un missile balistique visant Riyad ainsi que d'autres tentatives contre Bisha, Taëf, Farasan et Yanbu ; d'importantes perturbations des vols ont été signalées, sans bilan de victimes confirmé dans les premiers rapports.",
+      "en": "On September 19, a fire broke out in a fuel-storage area near Riyadh's King Khalid International Airport after Yemen's Houthi movement said it had targeted 'sensitive' sites in the Saudi capital. The Saudi-led coalition said it intercepted a ballistic missile aimed at Riyadh along with other attempted strikes on Bisha, Taif, Farasan and Yanbu; major flight disruptions were reported, with no confirmed casualties in initial reports.",
+      "es": "El 19 de septiembre, un incendio se produjo en una zona de almacenamiento de combustible cerca del aeropuerto internacional Rey Khalid de Riad después de que el movimiento hutí de Yemen afirmara haber atacado sitios «sensibles» de la capital saudita. La coalición liderada por Arabia Saudita dijo haber interceptado un misil balístico dirigido a Riad, además de otros intentos contra Bisha, Taif, Farasan y Yanbu; se reportaron importantes interrupciones de vuelos, sin víctimas confirmadas en los primeros informes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Incendie près de l'aéroport de Riyad et interception annoncée d'un missile houthi visant la capitale.",
+          "en": "Fire near Riyadh airport and announced interception of a Houthi missile aimed at the capital.",
+          "es": "Incendio cerca del aeropuerto de Riad e interceptación anunciada de un misil hutí dirigido a la capital."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "israel-cisjordanie-fusillade",
+    "coords": [
+      35.1667,
+      32.05
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Times of Israel / Jerusalem Post",
+    "place": {
+      "fr": "Source de Neve Tzuf (Halamish), Cisjordanie",
+      "en": "Neve Tzuf (Halamish) spring, West Bank",
+      "es": "Manantial de Neve Tzuf (Halamish), Cisjordania"
+    },
+    "title": {
+      "fr": "Un Israélien grièvement blessé dans une fusillade en Cisjordanie, chasse à l'homme en cours",
+      "en": "Israeli man critically wounded in West Bank shooting, manhunt underway",
+      "es": "Un israelí resulta gravemente herido en un tiroteo en Cisjordania, hay una persecución en curso"
+    },
+    "summary": {
+      "fr": "Le 20 septembre, un homme a ouvert le feu depuis un véhicule près d'une source proche de la colonie israélienne de Neve Tzuf (Halamish), blessant grièvement un homme d'une trentaine d'années avant de fuir à pied. L'armée israélienne a déployé forces spéciales, drones et avions pour rechercher l'auteur. Le même jour, elle a annoncé avoir abattu un Palestinien qui aurait tenté de foncer sur des soldats avec un véhicule dans le secteur de Ganim, plus au nord, sans faire de blessé.",
+      "en": "On September 20, a gunman opened fire from a vehicle near a spring close to the Israeli settlement of Neve Tzuf (Halamish), critically wounding a man in his thirties before fleeing on foot. The Israeli military deployed special forces, drones and aircraft to search for the attacker. The same day, it said it shot dead a Palestinian who allegedly attempted a car-ramming attack on soldiers in the Ganim area further north, with no injuries reported there.",
+      "es": "El 20 de septiembre, un hombre abrió fuego desde un vehículo cerca de un manantial próximo al asentamiento israelí de Neve Tzuf (Halamish), hiriendo de gravedad a un hombre de unos treinta años antes de huir a pie. El ejército israelí desplegó fuerzas especiales, drones y aeronaves para buscar al atacante. Ese mismo día, informó de que había abatido a un palestino que presuntamente intentó embestir con un vehículo a soldados en la zona de Ganim, más al norte, sin heridos en ese incidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Fusillade près de Neve Tzuf ; l'armée israélienne lance une chasse à l'homme.",
+          "en": "Shooting near Neve Tzuf; the Israeli military launches a manhunt.",
+          "es": "Tiroteo cerca de Neve Tzuf; el ejército israelí inicia una persecución."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "iran-executions-hausse",
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚠",
+    "source": "Amnesty International / UN News",
+    "place": {
+      "fr": "Iran (plusieurs villes, dont Téhéran)",
+      "en": "Iran (multiple cities, including Tehran)",
+      "es": "Irán (varias ciudades, incluida Teherán)"
+    },
+    "title": {
+      "fr": "Des organisations de défense des droits humains documentent une forte hausse des exécutions en Iran",
+      "en": "Rights groups document sharp rise in executions in Iran",
+      "es": "Organizaciones de derechos humanos documentan un fuerte aumento de las ejecuciones en Irán"
+    },
+    "summary": {
+      "fr": "Amnesty International, dans un rapport du 16 septembre, et des responsables onusiens des droits humains font état d'une nette hausse des exécutions en Iran, évoquant une répression intensifiée depuis le conflit et les troubles du début de l'année 2026, incluant des condamnations à mort de manifestants détenus. D'autres décomptes évoquent au moins 23 exécutions en quatre jours fin août, et une exécution environ toutes les 9 à 10 heures à l'échelle du pays entre fin août et mi-septembre. Ces bilans, difficiles à vérifier de façon indépendante compte tenu de l'accès restreint au pays, n'ont pas fait l'objet d'un démenti chiffré des autorités iraniennes.",
+      "en": "Amnesty International, in a September 16 report, and UN human rights officials say Iran has seen a sharp rise in executions, describing intensified repression since the conflict and unrest of early 2026, including death sentences against detained protesters. Other tallies cite at least 23 executions in a four-day span in late August, and roughly one execution every 9–10 hours nationwide between late August and mid-September. These figures are difficult to verify independently given restricted access to the country, and Iranian authorities have not published a detailed rebuttal.",
+      "es": "Amnistía Internacional, en un informe del 16 de septiembre, y funcionarios de derechos humanos de la ONU señalan un fuerte aumento de las ejecuciones en Irán, y describen una represión intensificada desde el conflicto y los disturbios de principios de 2026, que incluye condenas a muerte contra manifestantes detenidos. Otros recuentos citan al menos 23 ejecuciones en cuatro días a finales de agosto, y aproximadamente una ejecución cada 9 a 10 horas en todo el país entre finales de agosto y mediados de septiembre. Estas cifras son difíciles de verificar de forma independiente dado el acceso restringido al país, y las autoridades iraníes no han publicado una refutación detallada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Amnesty International publie un rapport documentant la hausse des exécutions en Iran.",
+          "en": "Amnesty International publishes a report documenting the rise in executions in Iran.",
+          "es": "Amnistía Internacional publica un informe que documenta el aumento de las ejecuciones en Irán."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "egypte-croissance-pib",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Ahram Online / Arab News",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "L'économie égyptienne croît de 5,1 % sur l'exercice 2025/2026",
+      "en": "Egypt's economy grows 5.1% in FY2025/26",
+      "es": "La economía egipcia crece un 5,1 % en el ejercicio 2025/2026"
+    },
+    "summary": {
+      "fr": "Le ministre égyptien de la Planification, Ahmed Rostom, a annoncé dans la semaine du 15 au 18 septembre une croissance du PIB de 5,1 % pour l'exercice 2025/2026, contre 4,4 % l'année précédente et au-delà des prévisions du FMI, portée par l'industrie manufacturière hors pétrole, le canal de Suez et le raffinage pétrolier. Le seul quatrième trimestre a atteint 4,7 % de croissance.",
+      "en": "Egypt's Planning Minister Ahmed Rostom announced during the week of September 15–18 GDP growth of 5.1% for fiscal year 2025/26, up from 4.4% the prior year and above IMF forecasts, driven by non-oil manufacturing, the Suez Canal and petroleum refining. Fourth-quarter growth alone reached 4.7%.",
+      "es": "El ministro de Planificación de Egipto, Ahmed Rostom, anunció durante la semana del 15 al 18 de septiembre un crecimiento del PIB del 5,1 % para el ejercicio fiscal 2025/26, frente al 4,4 % del año anterior y por encima de las previsiones del FMI, impulsado por la manufactura no petrolera, el canal de Suez y el refinado de petróleo. Solo el cuarto trimestre alcanzó un crecimiento del 4,7 %."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Le ministre de la Planification annonce une croissance du PIB de 5,1 % pour 2025/2026.",
+          "en": "The Planning Minister announces 5.1% GDP growth for 2025/26.",
+          "es": "El ministro de Planificación anuncia un crecimiento del PIB del 5,1 % para 2025/2026."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "chine-sichuan-glissement",
+    "coords": [
+      103.68,
+      32.04
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "⛰️",
+    "source": "Xinhua / South China Morning Post",
+    "place": {
+      "fr": "Village de Shidaguan, canton de Diexi, comté de Mao, Sichuan, Chine",
+      "en": "Shidaguan village, Diexi Town, Mao County, Sichuan, China",
+      "es": "Aldea de Shidaguan, municipio de Diexi, condado de Mao, Sichuan, China"
+    },
+    "title": {
+      "fr": "Un glissement de terrain obstrue partiellement la rivière Min dans le Sichuan, aucune victime grâce à une évacuation préventive",
+      "en": "Landslide partially dams the Min River in Sichuan; no casualties after early evacuation",
+      "es": "Un deslizamiento de tierra obstruye parcialmente el río Min en Sichuan; sin víctimas gracias a una evacuación preventiva"
+    },
+    "summary": {
+      "fr": "Un important glissement de terrain a frappé le village de Shidaguan, dans le canton de Diexi (comté de Mao), le matin du 16 septembre, coupant la route nationale 213 et obstruant partiellement le cours supérieur de la rivière Min après plusieurs semaines de fortes pluies. Aucun mort ni blessé n'a été signalé : 161 habitants de la zone à risque avaient déjà été évacués fin août dans le cadre d'un dispositif d'alerte précoce, cité par les autorités comme un exemple réussi de prévention.",
+      "en": "A large landslide struck Shidaguan village in Diexi Town, Mao County, on the morning of September 16, cutting National Highway 213 and partially damming the upper Min River after weeks of heavy rain. No deaths or injuries were reported: 161 residents in the identified risk zone had already been evacuated in late August under an early-warning program, which authorities cited as a successful disaster-prevention case.",
+      "es": "Un gran deslizamiento de tierra golpeó la aldea de Shidaguan, en el municipio de Diexi (condado de Mao), la mañana del 16 de septiembre, cortando la autopista nacional 213 y represando parcialmente el curso alto del río Min tras semanas de fuertes lluvias. No se reportaron muertos ni heridos: 161 residentes de la zona de riesgo ya habían sido evacuados a finales de agosto bajo un programa de alerta temprana, citado por las autoridades como un caso exitoso de prevención de desastres."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le glissement de terrain coupe la route 213 et obstrue partiellement la rivière Min ; aucune victime.",
+          "en": "The landslide cuts Highway 213 and partially dams the Min River; no casualties.",
+          "es": "El deslizamiento corta la autopista 213 y represa parcialmente el río Min; sin víctimas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "inde-agar-malwa-inondation",
+    "coords": [
+      76.25,
+      23.83
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "Deccan Herald / The Tribune",
+    "place": {
+      "fr": "Nalkheda, district d'Agar Malwa, Madhya Pradesh, Inde",
+      "en": "Nalkheda, Agar Malwa district, Madhya Pradesh, India",
+      "es": "Nalkheda, distrito de Agar Malwa, Madhya Pradesh, India"
+    },
+    "title": {
+      "fr": "Huit morts, dont une famille venue d'Odisha, après la crue d'un cours d'eau près d'un temple",
+      "en": "Eight killed, including family from Odisha, as flooded stream sweeps away car near temple",
+      "es": "Ocho muertos, entre ellos una familia de Odisha, al ser arrastrado un coche por un arroyo crecido cerca de un templo"
+    },
+    "summary": {
+      "fr": "Un taxi transportant des pèlerins originaires de l'Odisha a été emporté vers 1h30 du matin le 19 septembre par un cours d'eau saisonnier en crue près du temple de Baglamukhi, à Nalkheda, après de fortes pluies. Huit personnes, dont trois enfants, sont mortes ; les autorités locales et nationales, dont le Premier ministre Modi et le chef du gouvernement de l'Odisha, ont annoncé des indemnisations pour les familles des victimes.",
+      "en": "A taxi carrying pilgrims from Odisha was swept away around 1:30 a.m. on September 19 by a swollen seasonal stream near the Baglamukhi Temple in Nalkheda, after heavy rain caused flash flooding. Eight people, including three children, died; state and national authorities, including Prime Minister Modi and Odisha's chief minister, announced compensation for victims' families.",
+      "es": "Un taxi que transportaba a peregrinos procedentes de Odisha fue arrastrado hacia la 1:30 de la madrugada del 19 de septiembre por un arroyo estacional crecido cerca del templo de Baglamukhi, en Nalkheda, tras fuertes lluvias que provocaron inundaciones repentinas. Ocho personas, entre ellas tres niños, murieron; las autoridades estatales y nacionales, incluidos el primer ministro Modi y el jefe de gobierno de Odisha, anunciaron indemnizaciones para las familias de las víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Un taxi est emporté par une crue soudaine près du temple de Baglamukhi ; huit morts.",
+          "en": "A taxi is swept away by a flash flood near the Baglamukhi Temple; eight dead.",
+          "es": "Un taxi es arrastrado por una crecida repentina cerca del templo de Baglamukhi; ocho muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
+  },
+  {
+    "id": "japon-boj-taux",
+    "coords": [
+      139.77,
+      35.69
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Al Jazeera / CNBC / The Japan Times",
+    "place": {
+      "fr": "Tokyo, Japon (siège de la Banque du Japon)",
+      "en": "Tokyo, Japan (Bank of Japan headquarters)",
+      "es": "Tokio, Japón (sede del Banco de Japón)"
+    },
+    "title": {
+      "fr": "La Banque du Japon relève son taux directeur à 1,25 %, un plus haut depuis 1995",
+      "en": "Bank of Japan raises policy rate to 1.25%, highest since 1995",
+      "es": "El Banco de Japón sube su tipo de referencia al 1,25 %, el más alto desde 1995"
+    },
+    "summary": {
+      "fr": "La Banque du Japon a relevé, le 18 septembre, son taux directeur d'un quart de point à 1,25 %, par un vote serré de 7 voix contre 2, invoquant le risque d'un dépassement de son objectif d'inflation de 2 %. Il s'agit du niveau le plus élevé depuis environ 31 ans et de la première hausse depuis juin, bien que le yen se soit affaibli en raison des deux voix dissidentes.",
+      "en": "The Bank of Japan raised its benchmark rate by a quarter point to 1.25% on September 18, in a close 7–2 vote, citing the risk that inflation will overshoot its 2% target. It is the highest level in roughly 31 years and the first hike since June, though the yen weakened as the two dissenting votes raised doubts about further tightening.",
+      "es": "El Banco de Japón subió su tipo de interés de referencia un cuarto de punto, hasta el 1,25 %, el 18 de septiembre, en una votación reñida de 7 contra 2, citando el riesgo de que la inflación supere su objetivo del 2 %. Es el nivel más alto en unos 31 años y la primera subida desde junio, aunque el yen se debilitó ante las dudas generadas por los dos votos disidentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "La BoJ relève son taux directeur à 1,25 %, un plus haut depuis 1995.",
+          "en": "The BoJ raises its policy rate to 1.25%, the highest since 1995.",
+          "es": "El BoJ sube su tipo de referencia al 1,25 %, el más alto desde 1995."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "japon-jeux-asiatiques-ouverture",
+    "coords": [
+      136.96,
+      35.17
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Olympics.com / ESPN",
+    "place": {
+      "fr": "Nagoya-Aichi, Japon (stade Paloma Mizuho)",
+      "en": "Aichi-Nagoya, Japan (Paloma Mizuho Stadium)",
+      "es": "Aichi-Nagoya, Japón (estadio Paloma Mizuho)"
+    },
+    "title": {
+      "fr": "Ouverture des 20es Jeux asiatiques à Aichi-Nagoya",
+      "en": "20th Asian Games open in Aichi-Nagoya",
+      "es": "Se inauguran los XX Juegos Asiáticos en Aichi-Nagoya"
+    },
+    "summary": {
+      "fr": "Les 20es Jeux asiatiques se sont ouverts le 19 septembre au stade Paloma Mizuho, à Aichi-Nagoya, et se dérouleront jusqu'au 4 octobre. Des athlètes venus de tout le continent, dont d'importantes délégations indienne et sud-coréenne, concourent dans des disciplines telles que le cricket, le tir, le teqball et le hockey.",
+      "en": "The 20th Asian Games opened on September 19 at Paloma Mizuho Stadium in Aichi-Nagoya and will run through October 4. Athletes from across the continent, including large Indian and South Korean delegations, are competing in events such as cricket, shooting, teqball and hockey.",
+      "es": "Los XX Juegos Asiáticos se inauguraron el 19 de septiembre en el estadio Paloma Mizuho, en Aichi-Nagoya, y se disputarán hasta el 4 de octubre. Atletas de todo el continente, incluidas grandes delegaciones de India y Corea del Sur, compiten en disciplinas como cricket, tiro, teqball y hockey."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Cérémonie d'ouverture des Jeux asiatiques au stade Paloma Mizuho.",
+          "en": "Opening ceremony of the Asian Games at Paloma Mizuho Stadium.",
+          "es": "Ceremonia de apertura de los Juegos Asiáticos en el estadio Paloma Mizuho."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 1
+  },
+  {
+    "id": "indonesie-porte-avions-garibaldi",
+    "coords": [
+      106.89,
+      -6.1
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "Al Jazeera / The Jakarta Post",
+    "place": {
+      "fr": "Port de Tanjung Priok, Jakarta Nord, Indonésie",
+      "en": "Tanjung Priok port, North Jakarta, Indonesia",
+      "es": "Puerto de Tanjung Priok, Yakarta Norte, Indonesia"
+    },
+    "title": {
+      "fr": "L'Indonésie reçoit son premier porte-avions, l'ex-italien Giuseppe Garibaldi",
+      "en": "Indonesia receives its first aircraft carrier, the ex-Italian Giuseppe Garibaldi",
+      "es": "Indonesia recibe su primer portaaviones, el ex italiano Giuseppe Garibaldi"
+    },
+    "summary": {
+      "fr": "L'ancien porte-avions de la marine italienne Giuseppe Garibaldi (mis en service en 1985, retiré en 2014) a accosté le 18 septembre au port de Tanjung Priok après trois semaines de traversée depuis Tarente, avant sa remise officielle à la marine indonésienne, qui le rebaptisera KRI Sriwijaya. Les autorités indiquent qu'il sera affecté à des missions de secours en cas de catastrophe et de sécurité maritime, un programme d'environ 450 millions de dollars qui suscite des critiques sur son coût.",
+      "en": "The former Italian Navy carrier Giuseppe Garibaldi (commissioned in 1985, retired in 2014) docked on September 18 at Tanjung Priok port after a three-week voyage from Taranto, ahead of its formal handover to the Indonesian Navy, which will rename it KRI Sriwijaya. Officials say it will be used for disaster-relief and maritime-security missions, under a roughly $450 million program that has drawn domestic criticism over its cost.",
+      "es": "El antiguo portaaviones de la Armada italiana Giuseppe Garibaldi (dado de alta en 1985, retirado en 2014) atracó el 18 de septiembre en el puerto de Tanjung Priok tras un viaje de tres semanas desde Tarento, antes de su entrega formal a la Armada indonesia, que lo rebautizará como KRI Sriwijaya. Las autoridades indican que se destinará a misiones de ayuda en catástrofes y seguridad marítima, dentro de un programa de unos 450 millones de dólares que ha generado críticas internas por su costo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Le Giuseppe Garibaldi accoste à Tanjung Priok avant sa remise à la marine indonésienne.",
+          "en": "The Giuseppe Garibaldi docks at Tanjung Priok ahead of handover to the Indonesian Navy.",
+          "es": "El Giuseppe Garibaldi atraca en Tanjung Priok antes de su entrega a la Armada indonesia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W38",
+    "priority": 2
   }
 ]
