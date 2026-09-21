@@ -829,5 +829,891 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "foshan-incendie-usine",
+    "coords": [
+      113.05,
+      22.83
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "China Daily / Xinhua",
+    "place": {
+      "fr": "Shunde, Foshan, Guangdong, Chine",
+      "en": "Shunde, Foshan, Guangdong, China",
+      "es": "Shunde, Foshan, Cantón, China"
+    },
+    "title": {
+      "fr": "Incendie meurtrier dans une usine textile à Foshan",
+      "en": "Fire kills eight at textile factory in Foshan, China",
+      "es": "Incendio mortal en una fábrica textil de Foshan"
+    },
+    "summary": {
+      "fr": "Un incendie s'est déclaré le 21 septembre dans un bâtiment de deux étages d'une zone industrielle du district de Shunde, à Foshan, utilisé pour le lavage et la production de denim. Huit personnes sont mortes et une autre a été blessée. Le feu a été maîtrisé en une heure environ et n'a pas touché les bâtiments voisins ; les causes sont en cours d'investigation.",
+      "en": "A fire broke out on September 21 in a two-storey building at an industrial park in Foshan's Shunde district, used for denim-fabric washing and production. Eight people died and one was injured. The blaze was brought under control within about an hour and did not spread to neighboring buildings; the cause remains under investigation.",
+      "es": "Un incendio se declaró el 21 de septiembre en un edificio de dos plantas de un parque industrial del distrito de Shunde, en Foshan, utilizado para el lavado y producción de tela vaquera. Ocho personas murieron y una resultó herida. El fuego fue controlado en aproximadamente una hora y no se propagó a edificios vecinos; se investiga la causa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "China Daily, l'agence Xinhua et plusieurs médias internationaux rapportent huit morts dans l'incendie d'une usine textile de Foshan.",
+          "en": "China Daily, Xinhua and several international outlets report eight deaths in a textile factory fire in Foshan.",
+          "es": "China Daily, Xinhua y varios medios internacionales informan de ocho muertos en el incendio de una fábrica textil en Foshan."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-dujuan",
+    "coords": [
+      140.31,
+      35.13
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Japan Times / Bloomberg",
+    "place": {
+      "fr": "Péninsule de Bōsō, Chiba, Japon",
+      "en": "Boso Peninsula, Chiba, Japan",
+      "es": "Península de Bōsō, Chiba, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan frappe la région de Tokyo",
+      "en": "Typhoon Dujuan lashes the Tokyo region",
+      "es": "El tifón Dujuan azota la región de Tokio"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan, aux vents comparables à un ouragan de catégorie 1, a touché terre le 21 septembre sur la péninsule de Bōsō, à l'est de Tokyo, après avoir déversé plus de 300 mm de pluie sur certaines zones côtières depuis le week-end. L'Agence météorologique japonaise a averti des risques d'inondation et de glissement de terrain dans la région du Kantō, et plusieurs vols ont été perturbés.",
+      "en": "Typhoon Dujuan, with winds comparable to a Category 1 hurricane, made landfall on September 21 on the Boso Peninsula east of Tokyo, after dropping more than 300mm of rain on some coastal areas since the weekend. The Japan Meteorological Agency warned of flood and landslide risk across the Kanto region, and several flights were disrupted.",
+      "es": "El tifón Dujuan, con vientos comparables a un huracán de categoría 1, tocó tierra el 21 de septiembre en la península de Bōsō, al este de Tokio, tras dejar más de 300 mm de lluvia en algunas zonas costeras desde el fin de semana. La Agencia Meteorológica de Japón advirtió de riesgo de inundaciones y deslizamientos en la región de Kantō, y varios vuelos se vieron afectados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Bloomberg, le Japan Times et plusieurs agences internationales suivent l'arrivée du typhon Dujuan sur la côte est du Japon.",
+          "en": "Bloomberg, the Japan Times and several international wire services track Typhoon Dujuan's arrival on Japan's east coast.",
+          "es": "Bloomberg, Japan Times y varias agencias internacionales siguen la llegada del tifón Dujuan a la costa este de Japón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "japon-boj-taux",
+    "coords": [
+      139.77,
+      35.69
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "Bank of Japan / Bloomberg",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "La Banque du Japon relève son taux directeur à 1,25 %, un plus haut depuis 1995",
+      "en": "Bank of Japan raises rate to 1.25%, highest since 1995",
+      "es": "El Banco de Japón sube su tipo de interés al 1,25 %, máximo desde 1995"
+    },
+    "summary": {
+      "fr": "La Banque du Japon a relevé son taux directeur d'un quart de point à 1,25 % le 18 septembre, à l'issue d'un vote serré de 7 voix contre 2, invoquant des risques d'inflation supérieurs à sa cible de 2 %. Le yen s'est affaibli après l'annonce, dans ce qui constitue le resserrement monétaire le plus rapide du cycle en cours.",
+      "en": "The Bank of Japan raised its policy rate a quarter point to 1.25% on September 18, in a close 7-2 vote, citing inflation risks running above its 2% target. The yen weakened following the announcement, in what marks the fastest pace of tightening in the current cycle.",
+      "es": "El Banco de Japón subió su tipo de interés un cuarto de punto, hasta el 1,25 %, el 18 de septiembre, en una votación ajustada de 7 contra 2, citando riesgos de inflación por encima de su objetivo del 2 %. El yen se debilitó tras el anuncio, en lo que supone el ritmo de endurecimiento monetario más rápido del ciclo actual."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Bloomberg et CNBC rapportent la décision de la Banque du Japon, confirmée par un communiqué officiel de l'institution.",
+          "en": "Bloomberg and CNBC report the Bank of Japan's decision, confirmed by an official statement from the institution.",
+          "es": "Bloomberg y CNBC informan de la decisión del Banco de Japón, confirmada por un comunicado oficial de la institución."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "inde-effondrement-delhi",
+    "coords": [
+      77.19,
+      28.57
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏚",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Satya Niketan, Delhi, Inde",
+      "en": "Satya Niketan, Delhi, India",
+      "es": "Satya Niketan, Delhi, India"
+    },
+    "title": {
+      "fr": "Effondrement d'un immeuble étudiant à Delhi : le bilan reste incertain",
+      "en": "Student housing building collapse in Delhi: death toll remains uncertain",
+      "es": "Derrumbe de un edificio de estudiantes en Delhi: el balance sigue siendo incierto"
+    },
+    "summary": {
+      "fr": "Un immeuble de cinq étages utilisé comme pension pour étudiants s'est effondré le 6 septembre à Satya Niketan, dans le sud-ouest de Delhi, apparemment après des travaux ayant fragilisé des piliers porteurs au rez-de-chaussée. Le nombre de victimes a varié selon les sources au fil des opérations de secours, entre une et sept personnes décédées, avec des dizaines de personnes secourues. La Cour suprême a refusé de se saisir du dossier, le laissant à la Haute Cour de Delhi, qui examine les rapports de conformité aux consignes de sécurité déjà émises.",
+      "en": "A five-storey building used as student paying-guest housing collapsed on September 6 in Satya Niketan, southwest Delhi, reportedly after renovation work weakened ground-floor supporting pillars. The reported death toll varied across sources as rescue operations progressed, ranging from one to seven, with dozens rescued. India's Supreme Court declined to take over the case, leaving it with the Delhi High Court, which is reviewing compliance reports on previously ordered safety measures.",
+      "es": "Un edificio de cinco plantas utilizado como residencia de estudiantes se derrumbó el 6 de septiembre en Satya Niketan, al suroeste de Delhi, presuntamente tras unas obras que debilitaron los pilares de la planta baja. El número de víctimas varió según las fuentes a medida que avanzaban las operaciones de rescate, entre una y siete personas fallecidas, con decenas de personas rescatadas. La Corte Suprema de India declinó asumir el caso, que sigue en manos del Tribunal Superior de Delhi."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera et plusieurs agences rapportent l'effondrement et les opérations de secours ; les bilans divergent selon les sources.",
+          "en": "Al Jazeera and several wire services report the collapse and rescue operations; death tolls differ between sources.",
+          "es": "Al Jazeera y varias agencias informan del derrumbe y las operaciones de rescate; los balances difieren según la fuente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "coree-nord-missiles",
+    "coords": [
+      127.44,
+      39.16
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "CNN / AP",
+    "place": {
+      "fr": "Wonsan, Corée du Nord",
+      "en": "Wonsan, North Korea",
+      "es": "Wonsan, Corea del Norte"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire deux missiles balistiques vers la mer de l'Est",
+      "en": "North Korea fires two ballistic missiles toward the East Sea",
+      "es": "Corea del Norte lanza dos misiles balísticos hacia el mar del Este"
+    },
+    "summary": {
+      "fr": "La Corée du Nord a tiré le 20 septembre deux missiles balistiques à courte portée depuis la région de Wonsan, à environ trois heures d'intervalle, selon l'armée sud-coréenne : le premier aurait parcouru environ 450 km et le second plus de 600 km au-dessus de la mer de l'Est. La présidence sud-coréenne a condamné ces tirs comme une violation des résolutions de l'ONU ; le Japon a indiqué avoir détecté un missile qui n'est pas entré dans ses eaux territoriales.",
+      "en": "North Korea fired two short-range ballistic missiles on September 20 from the Wonsan area, about three hours apart, according to South Korea's military: the first reportedly flew around 450 km and the second more than 600 km over the East Sea. South Korea's presidential office condemned the launches as a violation of UN Security Council resolutions; Japan said it detected a missile that did not enter its territorial waters.",
+      "es": "Corea del Norte lanzó el 20 de septiembre dos misiles balísticos de corto alcance desde la zona de Wonsan, con unas tres horas de diferencia, según el ejército surcoreano: el primero habría recorrido unos 450 km y el segundo más de 600 km sobre el mar del Este. La presidencia surcoreana condenó los lanzamientos como una violación de las resoluciones de la ONU; Japón indicó haber detectado un misil que no entró en sus aguas territoriales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "CNN, l'agence AP et Euronews rapportent les tirs, confirmés par les armées sud-coréenne et japonaise.",
+          "en": "CNN, AP and Euronews report the launches, confirmed by the South Korean and Japanese militaries.",
+          "es": "CNN, la agencia AP y Euronews informan de los lanzamientos, confirmados por los ejércitos surcoreano y japonés."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-naufrage-ferry",
+    "coords": [
+      114.5,
+      -5.6
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Al Jazeera / NPR",
+    "place": {
+      "fr": "Eaux de Masalembo, mer de Java, Indonésie",
+      "en": "Masalembo waters, Java Sea, Indonesia",
+      "es": "Aguas de Masalembo, mar de Java, Indonesia"
+    },
+    "title": {
+      "fr": "Un ferry indonésien fait naufrage en mer de Java, des dizaines de disparus",
+      "en": "Indonesian ferry capsizes in the Java Sea, dozens missing",
+      "es": "Un ferry indonesio naufraga en el mar de Java, decenas de desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry Virgo Transport 8, qui transportait plus de 240 personnes et 89 véhicules entre Surabaya et Banjarmasin, a chaviré le 13 septembre dans les eaux de Masalembo, en mer de Java, par une mer formée de vagues atteignant 3 mètres. Selon les autorités indonésiennes, au moins six à neuf personnes sont mortes et une centaine restaient portées disparues une semaine plus tard, tandis qu'environ 108 personnes ont été secourues. La cause du naufrage fait l'objet d'une enquête.",
+      "en": "The ferry Virgo Transport 8, carrying more than 240 people and 89 vehicles from Surabaya to Banjarmasin, capsized on September 13 in the Masalembo waters of the Java Sea amid rough seas with waves up to 3 meters. Indonesian authorities said at least six to nine people died and around a hundred remained missing a week later, while about 108 were rescued. The cause of the sinking is under investigation.",
+      "es": "El ferry Virgo Transport 8, que transportaba a más de 240 personas y 89 vehículos entre Surabaya y Banjarmasin, volcó el 13 de septiembre en las aguas de Masalembo, en el mar de Java, con olas de hasta 3 metros. Según las autoridades indonesias, al menos entre seis y nueve personas murieron y un centenar seguían desaparecidas una semana después, mientras unas 108 fueron rescatadas. Se investiga la causa del naufragio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera, NPR et ABC News rapportent le naufrage et les opérations de recherche, toujours en cours.",
+          "en": "Al Jazeera, NPR and ABC News report the capsizing and the ongoing search operations.",
+          "es": "Al Jazeera, NPR y ABC News informan del naufragio y de las operaciones de búsqueda, aún en curso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "usa-fed-taux",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Federal Reserve / CNBC",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D. C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Réserve fédérale américaine relève ses taux pour la première fois depuis 2023",
+      "en": "US Federal Reserve raises rates for the first time since 2023",
+      "es": "La Reserva Federal de EE. UU. sube los tipos por primera vez desde 2023"
+    },
+    "summary": {
+      "fr": "Le Comité fédéral de l'open market (FOMC) a relevé le 16 septembre son taux directeur d'un quart de point, entre 3,75 % et 4 %, invoquant une inflation qui reste élevée, en partie liée à la hausse des prix de l'énergie. La Fed a indiqué que ses projections n'excluaient pas une nouvelle hausse d'ici la fin de l'année.",
+      "en": "The Federal Open Market Committee raised its benchmark rate a quarter point on September 16, to a range of 3.75%–4%, citing persistently elevated inflation linked partly to higher energy prices. The Fed said its updated projections leave open the possibility of a further increase before year-end.",
+      "es": "El Comité Federal de Mercado Abierto (FOMC) subió el 16 de septiembre su tipo de interés de referencia un cuarto de punto, hasta un rango de 3,75 %-4 %, citando una inflación que se mantiene elevada, en parte por el aumento de los precios de la energía. La Fed indicó que sus proyecciones no descartan una nueva subida antes de fin de año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "CNBC et le communiqué officiel de la Réserve fédérale confirment la décision du FOMC.",
+          "en": "CNBC and the Federal Reserve's official press release confirm the FOMC's decision.",
+          "es": "CNBC y el comunicado oficial de la Reserva Federal confirman la decisión del FOMC."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "usa-greensboro-fusillade",
+    "coords": [
+      -79.792,
+      36.0726
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "WFMY News 2",
+    "place": {
+      "fr": "Greensboro, Caroline du Nord, États-Unis",
+      "en": "Greensboro, North Carolina, United States",
+      "es": "Greensboro, Carolina del Norte, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une personne tuée et quatre blessées dans une fusillade devant une boîte de nuit à Greensboro",
+      "en": "One killed, four wounded in shooting outside Greensboro nightclub",
+      "es": "Un muerto y cuatro heridos en un tiroteo frente a una discoteca en Greensboro"
+    },
+    "summary": {
+      "fr": "Des coups de feu ont éclaté vers 1h55 du matin le 20 septembre à la suite d'un différend devant le Club Orion, sur West Market Street, à Greensboro. Marvin Allen Watlington, 38 ans, est mort sur place ; quatre autres personnes ont été blessées par balle et une cinquième par des éclats de verre. La police a identifié un suspect, mais aucune arrestation n'avait été annoncée au moment des premiers comptes rendus.",
+      "en": "Gunfire erupted around 1:55 a.m. on September 20 following a disturbance outside Club Orion on West Market Street in Greensboro. Marvin Allen Watlington, 38, died at the scene; four others were shot and a fifth was injured by broken glass. Police identified a suspect, but no arrest had been announced as of initial reporting.",
+      "es": "Se produjo un tiroteo hacia la 1:55 de la madrugada del 20 de septiembre tras un altercado frente al Club Orion, en West Market Street, Greensboro. Marvin Allen Watlington, de 38 años, murió en el lugar; otras cuatro personas recibieron disparos y una quinta resultó herida por cristales rotos. La policía identificó a un sospechoso, aunque no se había anunciado ninguna detención en los primeros reportes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "WFMY News 2 et MyFox8 rapportent la fusillade et l'enquête en cours de la police de Greensboro.",
+          "en": "WFMY News 2 and MyFox8 report the shooting and the ongoing Greensboro police investigation.",
+          "es": "WFMY News 2 y MyFox8 informan del tiroteo y de la investigación en curso de la policía de Greensboro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "canada-courtenay-agression",
+    "coords": [
+      -124.9963,
+      49.6841
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "CTV News",
+    "place": {
+      "fr": "Courtenay, Colombie-Britannique, Canada",
+      "en": "Courtenay, British Columbia, Canada",
+      "es": "Courtenay, Columbia Británica, Canadá"
+    },
+    "title": {
+      "fr": "Deux personnes poignardées dans une résidence universitaire à Courtenay, en Colombie-Britannique",
+      "en": "Two stabbed at college residence in Courtenay, British Columbia",
+      "es": "Dos personas apuñaladas en una residencia universitaria en Courtenay, Columbia Británica"
+    },
+    "summary": {
+      "fr": "Deux personnes ont été poignardées et hospitalisées lors d'une agression survenue vers 0h53 le 16 septembre dans une résidence du North Island College, à Courtenay, sur l'île de Vancouver. Julian Nathyn Smith, 21 ans, originaire de Burnaby, a été inculpé d'une tentative de meurtre et de deux agressions graves. La police montée royale du Canada n'a pas établi de mobile à ce stade.",
+      "en": "Two people were stabbed and hospitalized in an attack around 12:53 a.m. on September 16 at a North Island College residence in Courtenay, on Vancouver Island. Julian Nathyn Smith, 21, of Burnaby, was charged with one count of attempted murder and two counts of aggravated assault. The Royal Canadian Mounted Police has not established a motive at this stage.",
+      "es": "Dos personas fueron apuñaladas y hospitalizadas en un ataque ocurrido hacia las 0:53 del 16 de septiembre en una residencia del North Island College, en Courtenay, en la isla de Vancouver. Julian Nathyn Smith, de 21 años, de Burnaby, fue acusado de un cargo de intento de asesinato y dos de agresión agravada. La Policía Montada no ha establecido un móvil por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "CTV News et CHEK News rapportent l'agression et l'inculpation du suspect par la police.",
+          "en": "CTV News and CHEK News report the attack and the suspect's charges as announced by police.",
+          "es": "CTV News y CHEK News informan del ataque y de los cargos contra el sospechoso anunciados por la policía."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "mancity-sunderland",
+    "coords": [
+      -2.2004,
+      53.4831
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "ESPN / Sky Sports",
+    "place": {
+      "fr": "Manchester, Angleterre, Royaume-Uni",
+      "en": "Manchester, England, United Kingdom",
+      "es": "Mánchester, Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "Manchester City bat Sunderland 5-3 dans un match spectaculaire de Premier League",
+      "en": "Manchester City beat Sunderland 5-3 in Premier League thriller",
+      "es": "El Manchester City vence 5-3 al Sunderland en un partido espectacular de la Premier League"
+    },
+    "summary": {
+      "fr": "Manchester City a battu Sunderland, tout juste promu, 5 buts à 3 le 20 septembre à l'Etihad Stadium, dans un match à huit buts marqué par un triplé de Brian Brobbey pour les visiteurs et un but victorieux tardif d'Erling Haaland. Le résultat permet à City de rester la seule équipe invaincue et sans nul de Premier League, trois points devant Arsenal, avant la trêve internationale.",
+      "en": "Manchester City beat newly promoted Sunderland 5-3 on September 20 at the Etihad Stadium, in an eight-goal thriller featuring a hat-trick from Sunderland's Brian Brobbey and a late winner from Erling Haaland. The result kept City as the Premier League's only team with a perfect start to the season, three points clear of Arsenal, heading into the international break.",
+      "es": "El Manchester City venció 5-3 al recién ascendido Sunderland el 20 de septiembre en el Etihad Stadium, en un partido de ocho goles marcado por un hat-trick de Brian Brobbey para los visitantes y un gol de la victoria en el tramo final de Erling Haaland. El resultado mantiene al City como el único equipo con pleno de victorias en la Premier League, tres puntos por delante del Arsenal, antes del parón por selecciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "ESPN, Sky Sports et le site officiel de Manchester City confirment le résultat du match.",
+          "en": "ESPN, Sky Sports and Manchester City's official site confirm the match result.",
+          "es": "ESPN, Sky Sports y el sitio oficial del Manchester City confirman el resultado del partido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "psg-marseille-classique",
+    "coords": [
+      5.3714,
+      43.2696
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "beIN Sports / ESPN",
+    "place": {
+      "fr": "Marseille, France",
+      "en": "Marseille, France",
+      "es": "Marsella, Francia"
+    },
+    "title": {
+      "fr": "Le PSG bat un Marseille réduit à dix, 2-1, dans « Le Classique »",
+      "en": "PSG beat 10-man Marseille 2-1 in 'Le Classique'",
+      "es": "El PSG vence 2-1 a un Marsella con diez jugadores en 'Le Classique'"
+    },
+    "summary": {
+      "fr": "Le Paris Saint-Germain a battu l'Olympique de Marseille 2-1 au stade Vélodrome le 20 septembre, Marquinhos inscrivant le but de la victoire après l'expulsion du Marseillais Timothy Weah à la 77e minute. Ce résultat prolonge à trois la série de victoires du PSG et laisse Marseille à l'avant-dernière place du championnat.",
+      "en": "Paris Saint-Germain beat Olympique de Marseille 2-1 at the Stade Vélodrome on September 20, with Marquinhos scoring the winning goal after Marseille's Timothy Weah was sent off in the 77th minute. The result extended PSG's winning run to three matches and left Marseille second-from-bottom in the table.",
+      "es": "El Paris Saint-Germain venció 2-1 al Olympique de Marsella en el Stade Vélodrome el 20 de septiembre, con gol de la victoria de Marquinhos tras la expulsión del marsellés Timothy Weah en el minuto 77. El resultado amplía a tres la racha de victorias del PSG y deja al Marsella penúltimo en la clasificación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "beIN Sports et ESPN confirment le résultat du « Classique » de Ligue 1.",
+          "en": "beIN Sports and ESPN confirm the result of Ligue 1's 'Classique'.",
+          "es": "beIN Sports y ESPN confirman el resultado del 'Clásico' de la Ligue 1."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-hunfelden-attaque",
+    "coords": [
+      8.1167,
+      50.3667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "hessenschau (ARD)",
+    "place": {
+      "fr": "Hünfelden-Kirberg, Hesse, Allemagne",
+      "en": "Hünfelden-Kirberg, Hesse, Germany",
+      "es": "Hünfelden-Kirberg, Hesse, Alemania"
+    },
+    "title": {
+      "fr": "Une femme grièvement blessée au couteau dans une boulangerie en Hesse",
+      "en": "Woman seriously wounded in knife attack at bakery in Hesse",
+      "es": "Una mujer resulta gravemente herida con un cuchillo en una panadería de Hesse"
+    },
+    "summary": {
+      "fr": "Un homme de 50 ans est entré le 20 septembre dans une boulangerie de Hünfelden-Kirberg, en Hesse, et a attaqué au couteau de cuisine son épouse dont il était séparé, lui infligeant de multiples blessures graves. Des témoins sont intervenus pour maîtriser l'agresseur, lui-même blessé et transporté par hélicoptère à l'hôpital. La police enquête pour tentative de meurtre.",
+      "en": "A 50-year-old man entered a bakery in Hünfelden-Kirberg, Hesse, on September 20 and attacked his estranged wife with a kitchen knife, inflicting multiple serious wounds. Bystanders intervened to restrain the attacker, who was also injured and airlifted to hospital. Police are investigating on suspicion of attempted murder.",
+      "es": "Un hombre de 50 años entró el 20 de septiembre en una panadería de Hünfelden-Kirberg, en Hesse, y atacó con un cuchillo de cocina a su esposa, de la que estaba separado, infligiéndole múltiples heridas graves. Varios testigos intervinieron para reducir al agresor, que también resultó herido y fue trasladado en helicóptero al hospital. La policía investiga por presunto intento de asesinato."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "La radiotélévision publique hessenschau (ARD) et wochenblatt-reporter.de rapportent l'attaque et l'enquête policière.",
+          "en": "Public broadcaster hessenschau (ARD) and wochenblatt-reporter.de report the attack and the police investigation.",
+          "es": "La radiotelevisión pública hessenschau (ARD) y wochenblatt-reporter.de informan del ataque y la investigación policial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-scheuer-proces",
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "t-online.de",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Procès de l'ex-ministre Andreas Scheuer pour parjure dans le scandale du péage autoroutier",
+      "en": "Ex-minister Andreas Scheuer goes on trial for perjury over toll-road scandal",
+      "es": "Juicio contra el exministro Andreas Scheuer por perjurio en el escándalo del peaje"
+    },
+    "summary": {
+      "fr": "Le procès de l'ancien ministre fédéral des Transports Andreas Scheuer (CSU) s'est ouvert le 21 septembre devant le tribunal régional de Berlin, près de sept ans après l'échec du projet de péage automobile (« Pkw-Maut »). Il est accusé de parjure pour des déclarations faites devant la commission d'enquête du Bundestag ; son ancien secrétaire d'État, Gerhard Schulz, est coaccusé. Scheuer conteste les charges retenues contre lui.",
+      "en": "The trial of former Federal Transport Minister Andreas Scheuer (CSU) opened on September 21 before the Berlin Regional Court, nearly seven years after the failure of the car-toll ('Pkw-Maut') project. He is accused of perjury over statements made to the Bundestag's investigative committee; his former state secretary, Gerhard Schulz, is a co-defendant. Scheuer disputes the charges.",
+      "es": "El juicio contra el exministro federal de Transporte Andreas Scheuer (CSU) se abrió el 21 de septiembre ante el Tribunal Regional de Berlín, casi siete años después del fracaso del proyecto de peaje para automóviles ('Pkw-Maut'). Se le acusa de perjurio por declaraciones ante la comisión de investigación del Bundestag; su exsecretario de Estado, Gerhard Schulz, es coacusado. Scheuer rechaza los cargos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "t-online.de et Ruhr Nachrichten rapportent l'ouverture du procès devant le tribunal régional de Berlin.",
+          "en": "t-online.de and Ruhr Nachrichten report the opening of the trial before the Berlin Regional Court.",
+          "es": "t-online.de y Ruhr Nachrichten informan de la apertura del juicio ante el Tribunal Regional de Berlín."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "russie-frappe-raffinerie-moscou",
+    "coords": [
+      37.76,
+      55.66
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Bloomberg / Al Jazeera",
+    "place": {
+      "fr": "Kapotnia, Moscou, Russie",
+      "en": "Kapotnya, Moscow, Russia",
+      "es": "Kapotnia, Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Frappe ukrainienne sur une raffinerie de Moscou lors de la plus vaste attaque de drones jamais signalée sur la capitale",
+      "en": "Ukrainian strike hits Moscow refinery in largest reported drone attack on the capital",
+      "es": "Un ataque ucraniano golpea una refinería de Moscú en el mayor bombardeo de drones registrado sobre la capital"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 septembre, des drones et missiles ukrainiens ont visé la région de Moscou, touchant la raffinerie pétrolière de Kapotnia et provoquant un important incendie ; le maire de Moscou a qualifié l'attaque de plus vaste jamais menée contre la capitale. Les autorités russes ont fait état de trois morts causés par des débris ou des frappes, et le ministère russe de la Défense a annoncé vouloir « intensifier » ses frappes sur Kiev en retour, accusant Kiev de vouloir perturber les élections législatives russes en cours. Les sources ukrainiennes ont présenté la raffinerie comme une cible militaro-industrielle stratégique.",
+      "en": "On the night of September 19–20, Ukrainian drones and missiles targeted the Moscow region, hitting the Kapotnya oil refinery and sparking a major fire; Moscow's mayor called it the largest attack ever carried out on the capital. Russian authorities reported three deaths from debris or strikes, and Russia's Defense Ministry said it would 'intensify' strikes on Kyiv in response, accusing Kyiv of trying to disrupt Russia's ongoing parliamentary election. Ukrainian sources described the refinery as a strategic military-industrial target.",
+      "es": "En la noche del 19 al 20 de septiembre, drones y misiles ucranianos atacaron la región de Moscú, alcanzando la refinería de petróleo de Kapotnia y provocando un gran incendio; el alcalde de Moscú lo calificó como el mayor ataque jamás realizado contra la capital. Las autoridades rusas informaron de tres muertos por escombros o impactos, y el Ministerio de Defensa ruso anunció que 'intensificaría' los ataques contra Kiev en respuesta, acusando a Kiev de intentar perturbar las elecciones legislativas rusas en curso. Fuentes ucranianas describieron la refinería como un objetivo militar-industrial estratégico."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Bloomberg, CNBC, France 24 et Al Jazeera rapportent l'attaque et les réactions des autorités russes et ukrainiennes.",
+          "en": "Bloomberg, CNBC, France 24 and Al Jazeera report the attack and the reactions from Russian and Ukrainian authorities.",
+          "es": "Bloomberg, CNBC, France 24 y Al Jazeera informan del ataque y de las reacciones de las autoridades rusas y ucranianas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2,
+    "related": [
+      "ukraine-kyiv-frappes"
+    ]
+  },
+  {
+    "id": "ukraine-kyiv-frappes",
+    "coords": [
+      30.523,
+      50.45
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / CNN",
+    "place": {
+      "fr": "Kiev, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Des frappes russes tuent cinq personnes à Kiev, mettant fin à une pause informelle",
+      "en": "Russian strikes kill five in Kyiv, ending informal pause",
+      "es": "Ataques rusos matan a cinco personas en Kiev, poniendo fin a una pausa informal"
+    },
+    "summary": {
+      "fr": "La Russie a frappé Kiev le 8 septembre avec 32 missiles de croisière, un nombre non précisé de missiles balistiques et 166 drones de type Shahed, au lendemain d'une pause informelle de trois jours dans les frappes évoquée par des sources ukrainiennes et occidentales durant une visite d'émissaires américains dans la région. Les autorités ukrainiennes ont fait état de cinq morts ; la défense antiaérienne ukrainienne dit avoir intercepté une partie des projectiles. La partie russe n'a pas contesté ce bilan dans les sources consultées.",
+      "en": "Russia struck Kyiv on September 8 with 32 cruise missiles, an unspecified number of ballistic missiles, and 166 Shahed-type drones, a day after an informal three-day pause in strikes described by Ukrainian and Western sources during a visit by US envoys to the region. Ukrainian officials reported five deaths; Ukrainian air defenses said they intercepted part of the incoming projectiles. Russian officials did not dispute this toll in the sources reviewed.",
+      "es": "Rusia atacó Kiev el 8 de septiembre con 32 misiles de crucero, un número no precisado de misiles balísticos y 166 drones tipo Shahed, un día después de una pausa informal de tres días en los ataques, descrita por fuentes ucranianas y occidentales durante una visita de enviados estadounidenses a la región. Las autoridades ucranianas informaron de cinco muertos; la defensa antiaérea ucraniana afirma haber interceptado parte de los proyectiles. La parte rusa no cuestionó este balance en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Al Jazeera, CNN et le Kyiv Independent rapportent les frappes et leurs conséquences.",
+          "en": "Al Jazeera, CNN and the Kyiv Independent report the strikes and their aftermath.",
+          "es": "Al Jazeera, CNN y Kyiv Independent informan de los ataques y sus consecuencias."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2,
+    "related": [
+      "russie-frappe-raffinerie-moscou"
+    ]
+  },
+  {
+    "id": "egypte-khalifa-condamnation",
+    "coords": [
+      31.236,
+      30.044
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / Al Jazeera",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Une présentatrice télé égyptienne condamnée à mort dans une affaire de trafic de drogue",
+      "en": "Egyptian TV presenter sentenced to death in major drug-trafficking case",
+      "es": "Una presentadora de televisión egipcia condenada a muerte en un caso de narcotráfico"
+    },
+    "summary": {
+      "fr": "Le tribunal criminel du Caire a condamné le 5 septembre la présentatrice de télévision Sarah Khalifa, animatrice de l'émission « Mission Impossible », ainsi que onze coaccusés, à la peine de mort par pendaison, pour avoir dirigé un réseau organisé de fabrication et de trafic de stupéfiants ainsi que de détention illégale d'armes à feu. Neuf autres accusés ont été condamnés à la perpétuité et sept ont été acquittés ; les condamnations à mort, assorties d'amendes, peuvent faire l'objet d'un appel devant la Cour de cassation.",
+      "en": "The Cairo Criminal Court sentenced television presenter Sarah Khalifa, host of the program 'Mission Impossible,' and eleven co-defendants to death by hanging on September 5, for running an organized network involved in drug manufacturing and trafficking as well as illegal firearms possession. Nine other defendants received life sentences and seven were acquitted; the death sentences, which also carry fines, can be appealed to the Court of Cassation.",
+      "es": "El Tribunal Penal de El Cairo condenó el 5 de septiembre a la presentadora de televisión Sarah Khalifa, conductora del programa 'Misión Imposible', y a otros once coacusados, a la pena de muerte por ahorcamiento, por dirigir una red organizada de fabricación y tráfico de estupefacientes y posesión ilegal de armas de fuego. Otros nueve acusados recibieron cadena perpetua y siete fueron absueltos; las condenas a muerte, que incluyen multas, pueden apelarse ante el Tribunal de Casación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "CNN, Al Jazeera et France 24 rapportent le verdict du tribunal criminel du Caire.",
+          "en": "CNN, Al Jazeera and France 24 report the Cairo Criminal Court's verdict.",
+          "es": "CNN, Al Jazeera y France 24 informan del veredicto del Tribunal Penal de El Cairo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "id": "nigeria-plateau-attaques",
+    "coords": [
+      8.896,
+      9.53
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Vanguard",
+    "place": {
+      "fr": "Barkin Ladi, État du Plateau, Nigeria",
+      "en": "Barkin Ladi, Plateau State, Nigeria",
+      "es": "Barkin Ladi, estado de Plateau, Nigeria"
+    },
+    "title": {
+      "fr": "Neuf morts dans de nouvelles attaques armées dans l'État du Plateau, au Nigeria",
+      "en": "Nine killed in fresh gun attacks in Nigeria's Plateau State",
+      "es": "Nueve muertos en nuevos ataques armados en el estado de Plateau, Nigeria"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont tué au moins neuf personnes dans la nuit du 19 au 20 septembre lors d'attaques visant des communautés des zones de gouvernement local de Barkin Ladi et Riyom, dans l'État du Plateau, parmi lesquelles un pasteur et des passagers se rendant à l'église. L'armée nigériane a indiqué avoir mené des opérations dans les collines de Shere, Gwafan et Maza, arrêtant onze suspects. Le gouverneur du Plateau, Caleb Mutfwang, a réaffirmé l'engagement de son administration à protéger la population face à la résurgence de la violence dans l'État.",
+      "en": "Gunmen killed at least nine people on the night of September 19–20 in attacks on communities in the Barkin Ladi and Riyom local government areas of Plateau State, including a pastor and passengers traveling to church. The Nigerian Army said it conducted operations in the Shere, Gwafan and Maza Hills areas, arresting eleven suspects. Plateau State Governor Caleb Mutfwang reaffirmed his administration's commitment to protecting residents amid renewed violence in the state.",
+      "es": "Hombres armados mataron al menos a nueve personas en la noche del 19 al 20 de septiembre en ataques contra comunidades de las áreas de gobierno local de Barkin Ladi y Riyom, en el estado de Plateau, entre ellas un pastor y pasajeros que se dirigían a la iglesia. El ejército nigeriano indicó haber realizado operaciones en las colinas de Shere, Gwafan y Maza, con la detención de once sospechosos. El gobernador de Plateau, Caleb Mutfwang, reafirmó el compromiso de su administración con la protección de los residentes ante la violencia renovada en el estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Vanguard, Pulse Nigeria et l'agence Anadolu rapportent les attaques et la réaction des autorités.",
+          "en": "Vanguard, Pulse Nigeria and Anadolu Agency report the attacks and the authorities' response.",
+          "es": "Vanguard, Pulse Nigeria y la agencia Anadolu informan de los ataques y la respuesta de las autoridades."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "id": "bresil-br116-accident",
+    "coords": [
+      -42.29,
+      -16.18
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚌",
+    "source": "Por Dentro de Minas",
+    "place": {
+      "fr": "BR-116, frontière Minas Gerais-Bahia, Brésil",
+      "en": "BR-116 highway, Minas Gerais-Bahia border, Brazil",
+      "es": "Carretera BR-116, frontera Minas Gerais-Bahía, Brasil"
+    },
+    "title": {
+      "fr": "Un accident entre un bus et un camion fait six morts sur la BR-116, au Brésil",
+      "en": "Bus-truck collision kills six on Brazil's BR-116 highway",
+      "es": "Una colisión entre un autobús y un camión deja seis muertos en la carretera BR-116, Brasil"
+    },
+    "summary": {
+      "fr": "Un autobus de tourisme reliant São Paulo à l'État de Bahia aurait perdu ses freins avant de percuter un camion à vide sur la BR-116, près de la frontière entre le Minas Gerais et la Bahia, dans la nuit du 15 septembre. Six personnes sont mortes ; le nombre de blessés varie selon les sources, entre 31 et 43. Les victimes ont été transportées vers les hôpitaux de Divisa Alegre, Itaobim et Salinas, et la police civile a ouvert une enquête sur les causes de l'accident.",
+      "en": "A tourist bus traveling from São Paulo to the state of Bahia reportedly lost its brakes before colliding with an empty cargo truck on the BR-116 highway, near the Minas Gerais-Bahia border, on the night of September 15. Six people died; the number of injured varies by source, between 31 and 43. Victims were taken to hospitals in Divisa Alegre, Itaobim and Salinas, and the civil police opened an investigation into the cause of the crash.",
+      "es": "Un autobús turístico que viajaba de São Paulo al estado de Bahía habría perdido los frenos antes de chocar contra un camión vacío en la carretera BR-116, cerca de la frontera entre Minas Gerais y Bahía, en la noche del 15 de septiembre. Seis personas murieron; el número de heridos varía según la fuente, entre 31 y 43. Las víctimas fueron trasladadas a hospitales de Divisa Alegre, Itaobim y Salinas, y la policía civil abrió una investigación sobre la causa del accidente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Por Dentro de Minas et l'agence Xinhua rapportent l'accident et son bilan.",
+          "en": "Por Dentro de Minas and Xinhua report the crash and its toll.",
+          "es": "Por Dentro de Minas y la agencia Xinhua informan del accidente y su balance."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "italie-rome-agression-scolaire",
+    "coords": [
+      12.574,
+      41.876
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Sky TG24",
+    "place": {
+      "fr": "Centocelle, Rome, Italie",
+      "en": "Centocelle, Rome, Italy",
+      "es": "Centocelle, Roma, Italia"
+    },
+    "title": {
+      "fr": "Un collégien de 13 ans poignarde son enseignante à Rome",
+      "en": "13-year-old student stabs teacher at Rome middle school",
+      "es": "Un alumno de 13 años apuñala a su profesora en Roma"
+    },
+    "summary": {
+      "fr": "Un élève de 13 ans a aspergé de gaz poivré puis poignardé à trois reprises son enseignante de 66 ans, Isabella Marsilio, le 18 septembre dans un collège du quartier de Centocelle, à Rome. Un camarade de classe est intervenu pour l'arrêter. L'enseignante a été soignée et s'est vu prescrire une semaine d'arrêt de travail. Selon les enquêteurs, l'adolescent a déclaré « détester » son professeur en raison de mauvaises notes ; la police examine son téléphone pour vérifier l'existence d'éventuels « instigateurs » en ligne.",
+      "en": "A 13-year-old student pepper-sprayed and then stabbed his 66-year-old teacher, Isabella Marsilio, three times on September 18 at a middle school in Rome's Centocelle district. A classmate intervened to stop him. The teacher was treated and given a week of medical leave. According to investigators, the boy said he 'hated' his teacher over failing grades; police are examining his phone for possible online 'instigators.'",
+      "es": "Un alumno de 13 años roció con gas pimienta y luego apuñaló tres veces a su profesora de 66 años, Isabella Marsilio, el 18 de septiembre en un colegio del barrio de Centocelle, en Roma. Un compañero de clase intervino para detenerlo. La profesora fue atendida y recibió una semana de baja médica. Según los investigadores, el adolescente declaró que 'odiaba' a la profesora por sus malas notas; la policía revisa su teléfono para comprobar si hubo posibles 'instigadores' en línea."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Il Fatto Quotidiano, Sky TG24 et Il Sole 24 Ore rapportent l'agression et l'enquête en cours.",
+          "en": "Il Fatto Quotidiano, Sky TG24 and Il Sole 24 Ore report the attack and the ongoing investigation.",
+          "es": "Il Fatto Quotidiano, Sky TG24 e Il Sole 24 Ore informan de la agresión y la investigación en curso."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "espagne-valencia-inondations",
+    "coords": [
+      -0.376,
+      39.47
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Infobae",
+    "place": {
+      "fr": "Chiva et Torrent, région de Valence, Espagne",
+      "en": "Chiva and Torrent, Valencia region, Spain",
+      "es": "Chiva y Torrent, región de Valencia, España"
+    },
+    "title": {
+      "fr": "Une DANA provoque de fortes inondations dans la région de Valence",
+      "en": "DANA storm brings severe flooding to the Valencia region",
+      "es": "Una DANA provoca fuertes inundaciones en la región de Valencia"
+    },
+    "summary": {
+      "fr": "Une DANA (dépression isolée en altitude) a déversé des pluies torrentielles sur la région de Valence le 17 septembre, avec 96,2 l/m² enregistrés à Chiva et 95,8 l/m² à Torrent en quelques heures, accompagnées de rafales atteignant 100 km/h. Les services d'urgence sont intervenus sur 478 incidents, principalement des inondations et des problèmes de circulation ; quinze personnes ont été évacuées d'un fast-food. Aucun blessé n'était signalé au moment des premiers comptes rendus, mais l'épisode a ravivé les craintes liées aux inondations meurtrières d'octobre 2024 dans la même région.",
+      "en": "A DANA (an isolated high-altitude low-pressure system) dumped torrential rain on the Valencia region on September 17, with 96.2 l/m² recorded in Chiva and 95.8 l/m² in Torrent within a few hours, accompanied by gusts of up to 100 km/h. Emergency services responded to 478 incidents, mostly flooding and traffic issues; fifteen people were evacuated from a fast-food restaurant. No injuries were reported as of initial accounts, but the episode revived fears linked to the deadly October 2024 floods in the same region.",
+      "es": "Una DANA (depresión aislada en niveles altos) dejó lluvias torrenciales en la región de Valencia el 17 de septiembre, con 96,2 l/m² registrados en Chiva y 95,8 l/m² en Torrent en pocas horas, acompañadas de rachas de hasta 100 km/h. Los servicios de emergencia atendieron 478 incidencias, sobre todo inundaciones y problemas de tráfico; quince personas fueron evacuadas de un local de comida rápida. No se reportaron heridos en los primeros balances, pero el episodio reavivó los temores vinculados a las inundaciones mortales de octubre de 2024 en la misma región."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Infobae et Noticias de Álava (groupe Vocento) rapportent l'épisode de pluies et ses conséquences.",
+          "en": "Infobae and Noticias de Álava (Vocento group) report the storm episode and its consequences.",
+          "es": "Infobae y Noticias de Álava (grupo Vocento) informan del episodio de lluvias y sus consecuencias."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
   }
 ]
