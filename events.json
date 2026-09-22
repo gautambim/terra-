@@ -829,5 +829,922 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "baltimore-fusillade",
+    "coords": [
+      -76.6019,
+      39.2965
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "CBS News Baltimore",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Est de Baltimore (rue East Fayette), Maryland, États-Unis",
+      "en": "East Baltimore (East Fayette Street), Maryland, United States",
+      "es": "Este de Baltimore (calle East Fayette), Maryland, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une fusillade de masse fait sept blessés à Baltimore",
+      "en": "Mass shooting wounds seven in Baltimore",
+      "es": "Un tiroteo masivo deja siete heridos en Baltimore"
+    },
+    "summary": {
+      "fr": "Un groupe d'hommes armés a ouvert le feu sur une foule dans l'est de Baltimore, dans le Maryland, blessant sept personnes âgées de 3 à 43 ans, dont un garçon de trois ans opéré en urgence. Le commissaire de police Richard Worley a confirmé les faits ; aucune arrestation n'a été annoncée et des récompenses allant jusqu'à 12 000 dollars ont été proposées pour toute information.",
+      "en": "A group of gunmen opened fire on a crowd in East Baltimore, Maryland, wounding seven people aged 3 to 43, including a three-year-old boy who underwent emergency surgery. Police Commissioner Richard Worley confirmed the shooting; no arrests have been made, and rewards of up to $12,000 have been offered for tips.",
+      "es": "Un grupo de hombres armados abrió fuego contra una multitud en el este de Baltimore, Maryland, hiriendo a siete personas de entre 3 y 43 años, entre ellas un niño de tres años que fue operado de urgencia. El comisario de policía Richard Worley confirmó el tiroteo; no se ha realizado ninguna detención y se han ofrecido recompensas de hasta 12.000 dólares por información."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Des tirs éclatent dans le quartier est de Baltimore ; sept personnes sont blessées, selon la police.",
+          "en": "Gunfire erupts in East Baltimore; seven people are wounded, police say.",
+          "es": "Se producen disparos en el este de Baltimore; siete personas resultan heridas, según la policía."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "chine-consommation-aout",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bureau national des statistiques de Chine (via Reuters)",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La consommation chinoise ralentit encore en août",
+      "en": "China's consumer spending slows further in August",
+      "es": "El consumo chino se ralentiza aún más en agosto"
+    },
+    "summary": {
+      "fr": "Les ventes au détail en Chine n'ont progressé que de 0,4 % sur un an en août, contre 0,6 % en juillet et sous les prévisions des analystes, selon le Bureau national des statistiques. Dans le même temps, la production industrielle a accéléré à 5,2 % et l'investissement en immobilisations urbain a chuté de 7,2 % sur les huit premiers mois de l'année, signe des difficultés persistantes de Pékin à relancer la demande intérieure.",
+      "en": "Retail sales in China grew just 0.4% year-on-year in August, down from 0.6% in July and below analyst forecasts, according to the National Bureau of Statistics. Meanwhile industrial output accelerated to 5.2% and urban fixed-asset investment fell 7.2% over the first eight months of the year, underscoring Beijing's continued struggle to revive domestic demand.",
+      "es": "Las ventas minoristas en China crecieron solo un 0,4% interanual en agosto, por debajo del 0,6% de julio y de las previsiones de los analistas, según la Oficina Nacional de Estadística. Mientras tanto, la producción industrial se aceleró al 5,2% y la inversión en activos fijos urbanos cayó un 7,2% en los primeros ocho meses del año, lo que confirma las dificultades persistentes de Pekín para reactivar la demanda interna."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "Le Bureau national des statistiques publie les chiffres d'août : ventes au détail en ralentissement, production industrielle en hausse.",
+          "en": "The National Bureau of Statistics releases August data: retail sales slowing, industrial output rising.",
+          "es": "La Oficina Nacional de Estadística publica los datos de agosto: ventas minoristas en desaceleración, producción industrial al alza."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-dujuan",
+    "coords": [
+      139.977,
+      35.426
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌪️",
+    "source": "The Japan Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Préfecture de Chiba (Sodegaura, Kamogawa, Sanmu), Japon",
+      "en": "Chiba Prefecture (Sodegaura, Kamogawa, Sanmu), Japan",
+      "es": "Prefectura de Chiba (Sodegaura, Kamogawa, Sanmu), Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan fait au moins quatre morts près de Tokyo",
+      "en": "Typhoon Dujuan kills at least four near Tokyo",
+      "es": "El tifón Dujuan deja al menos cuatro muertos cerca de Tokio"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan a déversé des pluies record sur l'est du Japon, provoquant des glissements de terrain qui ont fait au moins quatre morts et six disparus dans la préfecture de Chiba. Environ 45 000 foyers ont été privés d'électricité et près de 1,5 million de personnes ont reçu des ordres ou recommandations d'évacuation, tandis que des centaines de vols et une partie du Shinkansen Tokyo-Osaka ont été suspendus.",
+      "en": "Typhoon Dujuan dumped record rainfall on eastern Japan, triggering landslides that killed at least four people and left six missing in Chiba Prefecture. About 45,000 households lost power and roughly 1.5 million people were placed under evacuation orders or advisories, while hundreds of flights and part of the Tokyo-Osaka bullet train line were suspended.",
+      "es": "El tifón Dujuan provocó lluvias récord en el este de Japón, causando deslizamientos de tierra que dejaron al menos cuatro muertos y seis desaparecidos en la prefectura de Chiba. Unos 45.000 hogares se quedaron sin electricidad y cerca de 1,5 millones de personas recibieron órdenes o recomendaciones de evacuación, mientras cientos de vuelos y parte de la línea de tren bala Tokio-Osaka quedaron suspendidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan des glissements de terrain provoqués par le typhon Dujuan s'établit à quatre morts et six disparus, selon les autorités locales.",
+          "en": "The death toll from landslides caused by Typhoon Dujuan stands at four dead and six missing, local authorities say.",
+          "es": "El balance de los deslizamientos provocados por el tifón Dujuan se sitúa en cuatro muertos y seis desaparecidos, según las autoridades locales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "canada-incendie-ditch2",
+    "coords": [
+      -105.2842,
+      55.1001
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CBC News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Tribunal provincial de Montreal Lake, Saskatchewan, Canada",
+      "en": "Montreal Lake provincial court, Saskatchewan, Canada",
+      "es": "Tribunal provincial de Montreal Lake, Saskatchewan, Canadá"
+    },
+    "title": {
+      "fr": "La Couronne réclame 10 ans de prison pour l'auteur d'un feu de forêt de 200 000 hectares",
+      "en": "Crown seeks 10-year sentence for man behind 200,000-hectare wildfire",
+      "es": "La Fiscalía pide 10 años de prisión para el autor de un incendio forestal de 200.000 hectáreas"
+    },
+    "summary": {
+      "fr": "Jason Halkett, 29 ans, avait plaidé coupable d'incendie criminel pour avoir déclenché le feu de forêt « Ditch 2 » en mai 2025 dans le nord de la Saskatchewan, qui a brûlé plus de 200 000 hectares et forcé l'évacuation des localités de Weyakwin et Ramsey Bay. Lors de l'audience de détermination de la peine du 17 septembre, la Couronne a demandé une peine de 10 ans de prison, proche du maximum légal de 14 ans ; le jugement est attendu le 8 octobre.",
+      "en": "Jason Halkett, 29, had pleaded guilty to arson for starting the 'Ditch 2' wildfire in northern Saskatchewan in May 2025, which burned over 200,000 hectares and forced the evacuation of the communities of Weyakwin and Ramsey Bay. At a September 17 sentencing hearing, the Crown asked for a 10-year prison term, close to the 14-year statutory maximum; the judge's ruling is expected October 8.",
+      "es": "Jason Halkett, de 29 años, se había declarado culpable de incendio provocado por iniciar el incendio forestal «Ditch 2» en el norte de Saskatchewan en mayo de 2025, que quemó más de 200.000 hectáreas y obligó a evacuar las localidades de Weyakwin y Ramsey Bay. En la audiencia de sentencia del 17 de septiembre, la Fiscalía pidió una pena de 10 años de prisión, cercana al máximo legal de 14 años; el fallo se espera para el 8 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Audience de détermination de la peine : la Couronne demande 10 ans de prison contre Jason Halkett.",
+          "en": "Sentencing hearing: the Crown requests a 10-year prison term for Jason Halkett.",
+          "es": "Audiencia de sentencia: la Fiscalía solicita 10 años de prisión para Jason Halkett."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-udhampur-accrochage",
+    "coords": [
+      75.1416,
+      32.927
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "India TV News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Zone forestière de Majalta, district d'Udhampur, Jammu-et-Cachemire, Inde",
+      "en": "Majalta forest range, Udhampur district, Jammu and Kashmir, India",
+      "es": "Zona forestal de Majalta, distrito de Udhampur, Jammu y Cachemira, India"
+    },
+    "title": {
+      "fr": "Deux combattants du groupe Jaish-e-Mohammad tués lors d'un accrochage au Cachemire",
+      "en": "Two Jaish-e-Mohammad militants killed in Kashmir gunfight",
+      "es": "Dos combatientes de Jaish-e-Mohammad mueren en un enfrentamiento en Cachemira"
+    },
+    "summary": {
+      "fr": "L'armée indienne, la police du Jammu-et-Cachemire et les forces paramilitaires CRPF ont mené une opération conjointe dans la zone forestière de Majalta, près d'Udhampur, sur la base de renseignements signalant le passage de combattants présumés du groupe Jaish-e-Mohammad. Deux d'entre eux ont été tués et des armes ont été saisies ; la sécurité a ensuite été renforcée dans plusieurs districts voisins.",
+      "en": "The Indian Army, Jammu and Kashmir police and CRPF paramilitary forces carried out a joint operation in the Majalta forest range near Udhampur, acting on intelligence about suspected Jaish-e-Mohammad militants moving through the area. Two militants were killed and weapons were recovered; security was subsequently stepped up across several neighboring districts.",
+      "es": "El ejército indio, la policía de Jammu y Cachemira y las fuerzas paramilitares CRPF llevaron a cabo una operación conjunta en la zona forestal de Majalta, cerca de Udhampur, basada en información de inteligencia sobre presuntos combatientes de Jaish-e-Mohammad que se desplazaban por la zona. Dos de ellos murieron y se incautaron armas; posteriormente se reforzó la seguridad en varios distritos vecinos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Les forces de sécurité indiennes annoncent la mort de deux combattants du JeM lors d'une opération dans la zone forestière de Majalta.",
+          "en": "Indian security forces announce the deaths of two JeM militants during an operation in the Majalta forest range.",
+          "es": "Las fuerzas de seguridad indias anuncian la muerte de dos combatientes del JeM durante una operación en la zona forestal de Majalta."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bresil-crise-stf",
+    "coords": [
+      -47.8919,
+      -15.7975
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Associated Press",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Brasília, Brésil (Cour suprême fédérale)",
+      "en": "Brasília, Brazil (Federal Supreme Court)",
+      "es": "Brasilia, Brasil (Tribunal Supremo Federal)"
+    },
+    "title": {
+      "fr": "Une crise institutionnelle secoue la Cour suprême du Brésil avant la présidentielle",
+      "en": "Institutional crisis rocks Brazil's Supreme Court ahead of presidential election",
+      "es": "Una crisis institucional sacude al Tribunal Supremo de Brasil antes de las presidenciales"
+    },
+    "summary": {
+      "fr": "Le juge André Mendonça a limogé le directeur général de la Police fédérale, Andrei Rodrigues, et le chef du renseignement Leandro Almada, les accusant d'avoir produit des rapports de surveillance illégaux à son sujet ; un jour plus tard, le juge Flávio Dino a annulé cette décision et réintégré Rodrigues. La Cour a ensuite annulé deux séances consécutives en pleine crise interne, à quelques semaines de l'élection présidentielle d'octobre, sur fond d'accusations de corruption impliquant l'entourage d'un autre juge.",
+      "en": "Justice André Mendonça removed Federal Police Director-General Andrei Rodrigues and intelligence chief Leandro Almada, accusing them of producing illegal surveillance reports on him; a day later, Justice Flávio Dino overturned the decision and reinstated Rodrigues. The court then canceled two consecutive sessions amid the internal rift, just weeks before October's presidential election, against a backdrop of corruption allegations involving another justice's inner circle.",
+      "es": "El juez André Mendonça destituyó al director general de la Policía Federal, Andrei Rodrigues, y al jefe de inteligencia Leandro Almada, acusándolos de elaborar informes de vigilancia ilegales sobre él; un día después, el juez Flávio Dino revirtió la decisión y reincorporó a Rodrigues. El tribunal canceló luego dos sesiones consecutivas en medio de la crisis interna, semanas antes de las elecciones presidenciales de octubre, en medio de denuncias de corrupción vinculadas al entorno de otro magistrado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême annule deux séances consécutives alors que la crise interne s'aggrave.",
+          "en": "The Supreme Court cancels two consecutive sessions as the internal crisis deepens.",
+          "es": "El Tribunal Supremo cancela dos sesiones consecutivas mientras se agrava la crisis interna."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "russie-moscou-attaque-drones",
+    "coords": [
+      37.8283,
+      55.6606
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "The Moscow Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Moscou et région de Moscou, Russie",
+      "en": "Moscow and Moscow region, Russia",
+      "es": "Moscú y la región de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une attaque de drones ukrainiens sur la région de Moscou fait trois morts",
+      "en": "Ukrainian drone attack on Moscow region kills three",
+      "es": "Un ataque con drones ucranianos en la región de Moscú deja tres muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 septembre, l'Ukraine a mené sa plus importante attaque de drones sur la région de Moscou, touchant une raffinerie de pétrole et un immeuble d'habitation ; trois personnes sont mortes et une vingtaine ont été blessées, dont trois enfants. L'attaque, survenue lors du dernier jour des élections législatives russes, a conduit à l'évacuation d'environ 400 habitants d'un immeuble de 21 étages endommagé, selon le maire de Moscou Sergueï Sobianine.",
+      "en": "On the night of September 19-20, Ukraine carried out its largest-ever drone attack on the Moscow region, striking an oil refinery and an apartment building; three people were killed and around 20 injured, including three children. The attack, which came on the final day of Russia's parliamentary elections, led to the evacuation of about 400 residents from a damaged 21-story building, according to Moscow Mayor Sergei Sobyanin.",
+      "es": "En la noche del 19 al 20 de septiembre, Ucrania llevó a cabo su mayor ataque con drones hasta la fecha contra la región de Moscú, alcanzando una refinería de petróleo y un edificio de apartamentos; tres personas murieron y una veintena resultaron heridas, entre ellas tres niños. El ataque, ocurrido en el último día de las elecciones legislativas rusas, obligó a evacuar a unos 400 residentes de un edificio dañado de 21 plantas, según el alcalde de Moscú, Serguéi Sobianin."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Une frappe de drones ukrainiens touche une raffinerie et un immeuble dans la région de Moscou, faisant trois morts, selon les autorités russes.",
+          "en": "A Ukrainian drone strike hits a refinery and an apartment building in the Moscow region, killing three, Russian authorities say.",
+          "es": "Un ataque con drones ucranianos alcanza una refinería y un edificio en la región de Moscú, dejando tres muertos, según las autoridades rusas."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-kyiv-frappe-drone"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "ukraine-kyiv-frappe-drone",
+    "coords": [
+      30.5238,
+      50.6199
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Associated Press",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Région de Kyiv, Ukraine",
+      "en": "Kyiv region, Ukraine",
+      "es": "Región de Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe tue une mère et ses deux enfants près de Kyiv",
+      "en": "Russian drone strike kills mother and two children near Kyiv",
+      "es": "Un ataque con drones rusos mata a una madre y sus dos hijos cerca de Kiev"
+    },
+    "summary": {
+      "fr": "Un drone russe a frappé une maison privée dans la région de Kyiv dans la nuit du 19 au 20 septembre, tuant une mère et ses jumeaux de trois ans. Le bilan de l'attaque, qui s'inscrit dans une campagne de bombardements plus large, est monté à quatre morts, dont trois enfants, selon les autorités ukrainiennes.",
+      "en": "A Russian drone struck a private home in the Kyiv region on the night of September 19-20, killing a mother and her three-year-old twins. The death toll from the strike, part of a broader bombardment campaign, rose to four, including three children, according to Ukrainian authorities.",
+      "es": "Un dron ruso alcanzó una vivienda privada en la región de Kiev en la noche del 19 al 20 de septiembre, matando a una madre y a sus gemelos de tres años. El balance del ataque, parte de una campaña de bombardeos más amplia, subió a cuatro muertos, entre ellos tres niños, según las autoridades ucranianas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Les autorités régionales annoncent la mort d'une mère et de ses deux enfants dans une frappe de drone russe.",
+          "en": "Regional authorities announce the deaths of a mother and her two children in a Russian drone strike.",
+          "es": "Las autoridades regionales anuncian la muerte de una madre y sus dos hijos en un ataque con drones rusos."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "russie-moscou-attaque-drones"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "espagne-bilan-canicule",
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌡️",
+    "source": "Instituto de Salud Carlos III (via Euronews)",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Espagne (données nationales, Institut de santé Carlos III, Madrid)",
+      "en": "Spain (national data, Carlos III Health Institute, Madrid)",
+      "es": "España (datos nacionales, Instituto de Salud Carlos III, Madrid)"
+    },
+    "title": {
+      "fr": "L'Espagne enregistre son été le plus meurtrier depuis 2015 à cause de la chaleur",
+      "en": "Spain records its deadliest summer since 2015 due to heat",
+      "es": "España registra su verano más mortífero desde 2015 por el calor"
+    },
+    "summary": {
+      "fr": "L'Institut de santé Carlos III a recensé environ 5 394 décès liés à la chaleur en Espagne entre le 1er mai et le 8 septembre 2026, le bilan le plus lourd depuis le début de ces relevés comparables en 2015. Le pays a par ailleurs égalé son record absolu de température pour un mois de septembre, avec 45,7°C relevés à El Granado (Huelva) les 3 et 4 septembre.",
+      "en": "Spain's Carlos III Health Institute recorded around 5,394 heat-related deaths between May 1 and September 8, 2026, the highest toll since comparable records began in 2015. The country also matched its all-time September temperature record, with 45.7°C recorded in El Granado, Huelva province, on September 3-4.",
+      "es": "El Instituto de Salud Carlos III registró alrededor de 5.394 muertes relacionadas con el calor en España entre el 1 de mayo y el 8 de septiembre de 2026, la cifra más alta desde que existen registros comparables en 2015. El país también igualó su récord histórico de temperatura para un mes de septiembre, con 45,7°C registrados en El Granado (Huelva) los días 3 y 4 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "L'Institut de santé Carlos III publie son bilan cumulé de la mortalité liée à la chaleur depuis le 1er mai.",
+          "en": "The Carlos III Health Institute publishes its cumulative toll of heat-related mortality since May 1.",
+          "es": "El Instituto de Salud Carlos III publica su balance acumulado de mortalidad relacionada con el calor desde el 1 de mayo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "australie-blue-mountains-poignardage",
+    "coords": [
+      150.598,
+      -33.66
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "ABC News Australia",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Valley Heights, Blue Mountains, Nouvelle-Galles du Sud, Australie",
+      "en": "Valley Heights, Blue Mountains, New South Wales, Australia",
+      "es": "Valley Heights, Blue Mountains, Nueva Gales del Sur, Australia"
+    },
+    "title": {
+      "fr": "Une mère tue son fils de 5 ans et blesse ses deux autres enfants dans les Blue Mountains",
+      "en": "Mother kills her 5-year-old son and wounds two other children in the Blue Mountains",
+      "es": "Una madre mata a su hijo de 5 años e hiere a sus otros dos hijos en las Blue Mountains"
+    },
+    "summary": {
+      "fr": "Une femme de 42 ans a poignardé ses trois jeunes enfants dans une voiture à Valley Heights, dans les Blue Mountains, tuant son fils de 5 ans et blessant grièvement ses enfants d'un et trois ans, avant de s'infliger des blessures. Elle a été inculpée de meurtre dans un contexte de violence domestique et de deux chefs de tentative de meurtre, et a comparu par vidéo depuis son lit d'hôpital devant le tribunal de Penrith.",
+      "en": "A 42-year-old woman stabbed her three young children inside a car in Valley Heights, in the Blue Mountains, killing her 5-year-old son and critically wounding her one- and three-year-old children, before inflicting self-harm injuries. She has been charged with domestic violence murder and two counts of attempted murder, and appeared via bedside video-link before Penrith Local Court.",
+      "es": "Una mujer de 42 años apuñaló a sus tres hijos pequeños dentro de un coche en Valley Heights, en las Blue Mountains, matando a su hijo de 5 años e hiriendo gravemente a sus hijos de uno y tres años, antes de autolesionarse. Ha sido acusada de homicidio en el contexto de violencia doméstica y de dos cargos de intento de homicidio, y compareció por videollamada desde su cama de hospital ante el tribunal de Penrith."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Une femme est arrêtée après avoir poignardé ses trois enfants dans une voiture à Valley Heights ; son fils de 5 ans meurt de ses blessures.",
+          "en": "A woman is arrested after stabbing her three children inside a car in Valley Heights; her 5-year-old son dies of his injuries.",
+          "es": "Una mujer es detenida tras apuñalar a sus tres hijos dentro de un coche en Valley Heights; su hijo de 5 años muere por las heridas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "iran-conditions-cessez-le-feu",
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Téhéran, Iran",
+      "en": "Tehran, Iran",
+      "es": "Teherán, Irán"
+    },
+    "title": {
+      "fr": "L'Iran transmet ses conditions à Washington pour mettre fin au conflit",
+      "en": "Iran sends its conditions to Washington to end the conflict",
+      "es": "Irán transmite sus condiciones a Washington para poner fin al conflicto"
+    },
+    "summary": {
+      "fr": "Le secrétaire du Conseil de discernement iranien, Mohsen Rezaei, a déclaré à Al Jazeera que Téhéran avait transmis, via une médiation qatarie, ses conditions pour mettre fin au conflit en cours avec les États-Unis et Israël et reprendre les négociations : arrêt des combats « sur tous les fronts », déblocage des avoirs financiers iraniens gelés et fin du blocus naval américain dans le Golfe. Téhéran a indiqué attendre une réponse de l'administration américaine.",
+      "en": "Iranian Expediency Council secretary Mohsen Rezaei told Al Jazeera that Tehran had sent, via Qatari mediation, its conditions for ending the ongoing conflict with the United States and Israel and resuming talks: an end to fighting 'on all fronts,' the release of Iran's frozen financial assets, and an end to the US naval blockade in the Gulf. Tehran said it was awaiting a response from the US administration.",
+      "es": "El secretario del Consejo de Discernimiento de Irán, Mohsen Rezaei, declaró a Al Jazeera que Teherán había transmitido, mediante mediación catarí, sus condiciones para poner fin al conflicto en curso con Estados Unidos e Israel y reanudar las negociaciones: el cese de los combates «en todos los frentes», la liberación de los activos financieros iraníes congelados y el fin del bloqueo naval estadounidense en el Golfo. Teherán afirmó estar a la espera de una respuesta de la administración estadounidense."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Un haut responsable iranien annonce que des conditions ont été transmises aux États-Unis via le Qatar pour mettre fin au conflit.",
+          "en": "A senior Iranian official announces that conditions have been sent to the United States via Qatar to end the conflict.",
+          "es": "Un alto funcionario iraní anuncia que se han transmitido condiciones a Estados Unidos a través de Catar para poner fin al conflicto."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "kenya-ngetich-record-semi-marathon",
+    "coords": [
+      12.5683,
+      55.6761
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏃‍♀️",
+    "source": "World Athletics",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Copenhague, Danemark",
+      "en": "Copenhagen, Denmark",
+      "es": "Copenhague, Dinamarca"
+    },
+    "title": {
+      "fr": "La Kényane Agnes Ngetich bat le record du monde du semi-marathon féminin",
+      "en": "Kenya's Agnes Ngetich breaks the women's half marathon world record",
+      "es": "La keniana Agnes Ngetich bate el récord mundial de la media maratón femenina"
+    },
+    "summary": {
+      "fr": "La Kényane Agnes Jebet Ngetich a remporté le titre du semi-marathon aux Championnats du monde de course sur route à Copenhague en 1h05'15, améliorant d'une seconde le précédent record du monde féminin établi par sa compatriote Peres Jepchirchir en 2020. Elle s'est imposée avec 50 secondes d'avance sur sa partenaire d'entraînement Veronica Loleo.",
+      "en": "Kenya's Agnes Jebet Ngetich won the half marathon title at the World Athletics Road Running Championships in Copenhagen in 1:05:15, improving the previous women-only world record — set by fellow Kenyan Peres Jepchirchir in 2020 — by one second. She won by 50 seconds over her training partner Veronica Loleo.",
+      "es": "La keniana Agnes Jebet Ngetich ganó el título de la media maratón en los Campeonatos del Mundo de Carreras en Ruta de Copenhague con un tiempo de 1:05:15, mejorando en un segundo el anterior récord mundial femenino, establecido por su compatriota Peres Jepchirchir en 2020. Se impuso con 50 segundos de ventaja sobre su compañera de entrenamiento Veronica Loleo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Agnes Ngetich établit un nouveau record du monde du semi-marathon féminin en remportant le titre mondial à Copenhague.",
+          "en": "Agnes Ngetich sets a new women's half marathon world record while winning the world title in Copenhagen.",
+          "es": "Agnes Ngetich establece un nuevo récord mundial de la media maratón femenina al ganar el título mundial en Copenhague."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "nigeria-plateau-attaques",
+    "coords": [
+      8.9004,
+      9.5304
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Premium Times Nigeria",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Zones de gouvernement local de Barkin Ladi et Riyom, État du Plateau, Nigeria",
+      "en": "Barkin Ladi and Riyom local government areas, Plateau State, Nigeria",
+      "es": "Áreas de gobierno local de Barkin Ladi y Riyom, estado de Plateau, Nigeria"
+    },
+    "title": {
+      "fr": "Au moins neuf morts dans de nouvelles attaques armées dans l'État du Plateau",
+      "en": "At least nine killed in fresh armed attacks in Plateau State",
+      "es": "Al menos nueve muertos en nuevos ataques armados en el estado de Plateau"
+    },
+    "summary": {
+      "fr": "Des hommes armés non identifiés ont tendu une embuscade à un véhicule près du village de Gana-Ropp puis attaqué des fidèles se rendant à l'église à Dorowa Babuje, dans le centre-nord du Nigeria, faisant au moins neuf morts, dont un pasteur. Les troupes de l'opération « Enduring Peace » ont depuis arrêté onze suspects et libéré deux victimes d'enlèvement dans la zone.",
+      "en": "Unidentified gunmen ambushed a vehicle near the village of Gana-Ropp and then attacked worshippers heading to church in Dorowa Babuje, in north-central Nigeria, killing at least nine people, including a pastor. Troops from Operation Enduring Peace have since arrested eleven suspects and rescued two kidnapping victims in the area.",
+      "es": "Hombres armados no identificados emboscaron un vehículo cerca de la aldea de Gana-Ropp y luego atacaron a fieles que se dirigían a la iglesia en Dorowa Babuje, en el centro-norte de Nigeria, matando al menos a nueve personas, entre ellas un pastor. Las tropas de la Operación Enduring Peace han detenido desde entonces a once sospechosos y liberado a dos víctimas de secuestro en la zona."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "De nouvelles attaques armées dans les zones de Barkin Ladi et Riyom font au moins neuf morts, selon la presse locale.",
+          "en": "Fresh armed attacks in the Barkin Ladi and Riyom areas kill at least nine people, local media report.",
+          "es": "Nuevos ataques armados en las zonas de Barkin Ladi y Riyom dejan al menos nueve muertos, según la prensa local."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "indonesie-naufrage-ferry-java",
+    "coords": [
+      114.4833,
+      -5.5667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Associated Press",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Mer de Java, au large des îles Masalembo, Indonésie",
+      "en": "Java Sea, off the Masalembo Islands, Indonesia",
+      "es": "Mar de Java, frente a las islas Masalembo, Indonesia"
+    },
+    "title": {
+      "fr": "Le bilan du naufrage d'un ferry en mer de Java monte à au moins 10 morts, 125 disparus",
+      "en": "Java Sea ferry sinking death toll rises to at least 10, with 125 missing",
+      "es": "El naufragio de un ferry en el mar de Java deja al menos 10 muertos y 125 desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry KM Virgo Transport 8, qui transportait 243 personnes et 89 véhicules entre Surabaya et Banjarmasin, a chaviré et coulé en quelques minutes le 13 septembre dans une mer agitée. Au 20 septembre, les autorités indonésiennes faisaient état de 108 survivants, d'au moins 10 morts et de 125 personnes toujours portées disparues, l'opération de recherche ayant été prolongée d'une semaine.",
+      "en": "The ferry KM Virgo Transport 8, carrying 243 people and 89 vehicles between Surabaya and Banjarmasin, capsized and sank within minutes on September 13 in rough seas. As of September 20, Indonesian authorities reported 108 survivors, at least 10 deaths, and 125 people still missing, with the search operation extended by another week.",
+      "es": "El ferry KM Virgo Transport 8, que transportaba a 243 personas y 89 vehículos entre Surabaya y Banjarmasin, volcó y se hundió en cuestión de minutos el 13 de septiembre en medio de un mar agitado. Hasta el 20 de septiembre, las autoridades indonesias informaron de 108 supervivientes, al menos 10 muertos y 125 personas aún desaparecidas, y la operación de búsqueda se ha prorrogado una semana más."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Le ferry KM Virgo Transport 8 chavire et coule en mer de Java avec 243 personnes à bord.",
+          "en": "The ferry KM Virgo Transport 8 capsizes and sinks in the Java Sea with 243 people on board.",
+          "es": "El ferry KM Virgo Transport 8 vuelca y se hunde en el mar de Java con 243 personas a bordo."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan s'établit à 10 morts confirmés et 125 disparus ; les recherches se poursuivent.",
+          "en": "The toll stands at 10 confirmed dead and 125 missing; search operations continue.",
+          "es": "El balance se sitúa en 10 muertos confirmados y 125 desaparecidos; continúan las búsquedas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "coree-daejeon-incendie-usine",
+    "coords": [
+      127.402,
+      36.373
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Seoul Economic Daily",
+    "week": "2026-W39",
+    "place": {
+      "fr": "District de Daedeok, Daejeon, Corée du Sud",
+      "en": "Daedeok District, Daejeon, South Korea",
+      "es": "Distrito de Daedeok, Daejeon, Corea del Sur"
+    },
+    "title": {
+      "fr": "Le PDG et douze autres personnes visés par une enquête après un incendie mortel dans une usine à Daejeon",
+      "en": "CEO and 12 others referred to prosecutors over deadly Daejeon factory fire",
+      "es": "El director ejecutivo y otras 12 personas, investigados tras un incendio mortal en una fábrica de Daejeon"
+    },
+    "summary": {
+      "fr": "La police de Daejeon a transmis au parquet le dossier de 13 personnes, dont le PDG Son Ju-hwan, après l'incendie du 20 mars dans l'usine de pièces automobiles Anjeon Industrial, qui avait fait 14 morts et 60 blessés. L'enquête a révélé que l'usine avait connu 48 incendies en cinq ans et que le personnel avait reçu pour consigne, via un manuel interne, de désactiver les alarmes incendie.",
+      "en": "Daejeon police referred a file on 13 people, including CEO Son Ju-hwan, to prosecutors over the March 20 fire at the Anjeon Industrial car-parts plant, which had killed 14 workers and injured 60. The investigation found the plant had suffered 48 fires in five years and that staff had been instructed, via an internal manual, to disable fire alarms.",
+      "es": "La policía de Daejeon remitió a la fiscalía el expediente de 13 personas, entre ellas el director ejecutivo Son Ju-hwan, por el incendio del 20 de marzo en la planta de piezas de automóvil Anjeon Industrial, que había dejado 14 muertos y 60 heridos. La investigación reveló que la planta había sufrido 48 incendios en cinco años y que al personal se le había ordenado, mediante un manual interno, desactivar las alarmas contra incendios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "La police annonce le renvoi de 13 personnes devant le parquet pour l'incendie meurtrier de mars à l'usine Anjeon Industrial.",
+          "en": "Police announce the referral of 13 people to prosecutors over the deadly March fire at the Anjeon Industrial plant.",
+          "es": "La policía anuncia el traslado de 13 personas a la fiscalía por el mortal incendio de marzo en la planta Anjeon Industrial."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "mexique-cuautla-feminicide",
+    "coords": [
+      -98.9536,
+      18.8111
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Cuautla, État de Morelos, Mexique",
+      "en": "Cuautla, Morelos state, Mexico",
+      "es": "Cuautla, estado de Morelos, México"
+    },
+    "title": {
+      "fr": "Un suspect inculpé de féminicide après la mort d'une étudiante espagnole en échange",
+      "en": "Suspect charged with femicide after death of Spanish exchange student",
+      "es": "Un sospechoso acusado de feminicidio tras la muerte de una estudiante española de intercambio"
+    },
+    "summary": {
+      "fr": "Claudia Tacoronte Aguilera, étudiante espagnole de 21 ans de l'université de Grenade en échange à l'Université autonome de l'État de Morelos, a été poignardée à mort lors d'un vol présumé pendant un festival à Cuautla. Un suspect surnommé « El Trompas » a été arrêté et doit être inculpé de féminicide ; l'affaire a déclenché des manifestations étudiantes contre les féminicides et l'université de Grenade a suspendu son programme d'échange.",
+      "en": "Claudia Tacoronte Aguilera, a 21-year-old Spanish exchange student from the University of Granada studying at the Autonomous University of Morelos State, was stabbed to death during an apparent robbery at a festival in Cuautla. A suspect known as 'El Trompas' was arrested and is to be charged with femicide; the case triggered student protests against femicide and led the University of Granada to suspend its exchange program.",
+      "es": "Claudia Tacoronte Aguilera, estudiante española de intercambio de 21 años de la Universidad de Granada que cursaba estudios en la Universidad Autónoma del Estado de Morelos, murió apuñalada durante un presunto robo en un festival en Cuautla. Un sospechoso conocido como «El Trompas» fue detenido y será acusado de feminicidio; el caso desencadenó protestas estudiantiles contra el feminicidio y llevó a la Universidad de Granada a suspender su programa de intercambio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/09/2026",
+          "en": "15/09/2026",
+          "es": "15/09/2026"
+        },
+        "d": {
+          "fr": "L'arrestation du suspect est confirmée, ainsi que l'inculpation à venir pour féminicide.",
+          "en": "The suspect's arrest is confirmed, along with the upcoming femicide charge.",
+          "es": "Se confirma la detención del sospechoso, así como la próxima acusación por feminicidio."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "allemagne-sabotage-reseau-electrique",
+    "coords": [
+      6.3167,
+      50.8167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Associated Press",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Weisweiler, près d'Aix-la-Chapelle, Rhénanie-du-Nord-Westphalie, Allemagne",
+      "en": "Weisweiler, near Aachen, North Rhine-Westphalia, Germany",
+      "es": "Weisweiler, cerca de Aquisgrán, Renania del Norte-Westfalia, Alemania"
+    },
+    "title": {
+      "fr": "Un suspect arrêté avec des explosifs après une série de sabotages du réseau électrique allemand",
+      "en": "Suspect arrested with explosives after wave of attacks on Germany's power grid",
+      "es": "Un sospechoso detenido con explosivos tras una ola de sabotajes a la red eléctrica alemana"
+    },
+    "summary": {
+      "fr": "La police allemande a arrêté un homme de 48 ans près de la centrale de Weisweiler, retrouvé avec des engins explosifs sous une tente, au terme d'une traque liée à une série d'incendies volontaires visant des postes à haute tension dans trois Länder. Le parquet fédéral a repris l'enquête, le qualifiant de « sabotage anticonstitutionnel » ; le ministre de l'Intérieur Alexander Dobrindt a évoqué la piste d'un « extrémisme climatique ».",
+      "en": "German police arrested a 48-year-old man near the Weisweiler power plant, found with explosive devices in a tent, ending a manhunt linked to a series of arson attacks on high-voltage substations across three federal states. The federal prosecutor's office took over the investigation, describing it as 'unconstitutional sabotage'; Interior Minister Alexander Dobrindt cited possible 'climate extremism' as a motive.",
+      "es": "La policía alemana detuvo a un hombre de 48 años cerca de la central eléctrica de Weisweiler, hallado con artefactos explosivos en una tienda de campaña, tras una búsqueda vinculada a una serie de ataques incendiarios contra subestaciones de alta tensión en tres estados federados. La fiscalía federal asumió la investigación, calificándola de «sabotaje anticonstitucional»; el ministro del Interior, Alexander Dobrindt, apuntó a un posible «extremismo climático» como motivo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Arrestation d'un suspect près de Weisweiler, retrouvé avec des explosifs, dans le cadre de l'enquête sur les sabotages du réseau électrique.",
+          "en": "A suspect is arrested near Weisweiler, found with explosives, as part of the investigation into the power grid sabotage.",
+          "es": "Un sospechoso es detenido cerca de Weisweiler, hallado con explosivos, en el marco de la investigación sobre el sabotaje a la red eléctrica."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "france-insee-croissance-2026",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "INSEE",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "L'INSEE abaisse fortement sa prévision de croissance pour la France en 2026",
+      "en": "INSEE sharply cuts its 2026 growth forecast for France",
+      "es": "El INSEE reduce fuertemente su previsión de crecimiento para Francia en 2026"
+    },
+    "summary": {
+      "fr": "L'institut national de la statistique a réduit sa prévision de croissance du PIB français pour 2026 de 0,7 % à 0,4 %, invoquant les vagues de chaleur estivales, qui ont pesé sur la production agricole, et la fermeture du détroit d'Ormuz depuis mars, par lequel transite environ 20 % du pétrole et du GNL mondial. L'économie française, en contraction l'hiver dernier et stagnante au printemps, affiche une croissance environ trois fois inférieure à celle de la zone euro et du Royaume-Uni.",
+      "en": "France's national statistics institute lowered its 2026 GDP growth forecast from 0.7% to 0.4%, citing summer heatwaves that hurt agricultural output and the closure of the Strait of Hormuz since March, through which about 20% of the world's oil and LNG transits. The French economy, which contracted last winter and stagnated in spring, is growing at roughly a third of the rate of the eurozone and the UK.",
+      "es": "El instituto nacional de estadística de Francia redujo su previsión de crecimiento del PIB para 2026 del 0,7% al 0,4%, citando las olas de calor estivales, que perjudicaron la producción agrícola, y el cierre del estrecho de Ormuz desde marzo, por donde transita cerca del 20% del petróleo y el GNL mundial. La economía francesa, que se contrajo el invierno pasado y se estancó en primavera, crece a un ritmo aproximadamente tres veces menor que el de la eurozona y el Reino Unido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "L'INSEE publie sa note de conjoncture et abaisse sa prévision de croissance 2026 à 0,4 %.",
+          "en": "INSEE publishes its economic outlook and lowers its 2026 growth forecast to 0.4%.",
+          "es": "El INSEE publica su informe de coyuntura y reduce su previsión de crecimiento para 2026 al 0,4%."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "royaume-uni-boe-taux",
+    "coords": [
+      -0.0931,
+      51.5142
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "€",
+    "source": "Bank of England",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Londres, Royaume-Uni",
+      "en": "London, United Kingdom",
+      "es": "Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "La Banque d'Angleterre maintient son taux directeur alors que l'inflation atteint un pic de cinq mois",
+      "en": "Bank of England holds rate as inflation hits five-month high",
+      "es": "El Banco de Inglaterra mantiene su tasa mientras la inflación alcanza un máximo de cinco meses"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque d'Angleterre a voté à 6 voix contre 3 le maintien de son taux directeur à 3,75 %, trois membres ayant plaidé pour un relèvement à 4 %. L'inflation britannique est montée à 3,1 % en août, en partie sous l'effet de la hausse des prix de l'énergie liée au conflit au Moyen-Orient, ce qui laisse présager un budget d'automne « difficile », selon des responsables gouvernementaux.",
+      "en": "The Bank of England's Monetary Policy Committee voted 6-3 to hold its benchmark rate at 3.75%, with three members favoring a hike to 4%. UK inflation rose to 3.1% in August, partly driven by higher energy prices linked to the Middle East conflict, pointing to a 'challenging' autumn budget, according to government officials.",
+      "es": "El Comité de Política Monetaria del Banco de Inglaterra votó 6 a 3 a favor de mantener su tasa de referencia en el 3,75%, mientras tres miembros se inclinaban por subirla al 4%. La inflación británica subió al 3,1% en agosto, impulsada en parte por el aumento de los precios de la energía vinculado al conflicto en Oriente Medio, lo que anticipa un presupuesto de otoño «difícil», según funcionarios del gobierno."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "La Banque d'Angleterre annonce le maintien de son taux directeur à 3,75 % à l'issue de la réunion de septembre.",
+          "en": "The Bank of England announces it is holding its benchmark rate at 3.75% following its September meeting.",
+          "es": "El Banco de Inglaterra anuncia que mantiene su tasa de referencia en el 3,75% tras la reunión de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "italie-inondations-frioul",
+    "coords": [
+      13.7768,
+      45.6495
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "ANSA",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Frioul-Vénétie Julienne (Trieste, Udine, Gorizia, Pordenone), Italie",
+      "en": "Friuli-Venezia Giulia (Trieste, Udine, Gorizia, Pordenone), Italy",
+      "es": "Friuli-Venecia Julia (Trieste, Udine, Gorizia, Pordenone), Italia"
+    },
+    "title": {
+      "fr": "De nouvelles inondations frappent le Frioul-Vénétie Julienne, dans le nord-est de l'Italie",
+      "en": "Fresh flooding hits Friuli-Venezia Giulia in northeastern Italy",
+      "es": "Nuevas inundaciones golpean Friuli-Venecia Julia, en el noreste de Italia"
+    },
+    "summary": {
+      "fr": "Une nouvelle vague de mauvais temps a inondé les rues d'au moins neuf communes du Frioul-Vénétie Julienne, avec des rafales dépassant 80 km/h, en particulier à Trieste, Udine et Gorizia. Le centre régional de gestion des urgences a recensé 38 signalements dès le matin, sous une alerte météo orange, quelques jours après des pluies exceptionnelles ayant déjà causé des dégâts et une noyade mortelle dans un passage souterrain inondé.",
+      "en": "A new wave of severe weather flooded streets in at least nine municipalities across Friuli-Venezia Giulia, with wind gusts exceeding 80 km/h, particularly in Trieste, Udine and Gorizia. The regional emergency operations center logged 38 reports from early morning onward under an orange weather alert, days after exceptional rainfall had already caused damage and a fatal drowning in a flooded underpass.",
+      "es": "Una nueva ola de mal tiempo inundó las calles de al menos nueve municipios de Friuli-Venecia Julia, con ráfagas de viento de más de 80 km/h, especialmente en Trieste, Udine y Gorizia. El centro regional de gestión de emergencias registró 38 avisos desde primera hora de la mañana bajo una alerta meteorológica naranja, días después de que lluvias excepcionales ya hubieran causado daños y un ahogamiento mortal en un paso subterráneo inundado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Des inondations et des chutes d'arbres sont signalées dans au moins neuf communes du Frioul-Vénétie Julienne.",
+          "en": "Flooding and fallen trees are reported in at least nine municipalities across Friuli-Venezia Giulia.",
+          "es": "Se registran inundaciones y caída de árboles en al menos nueve municipios de Friuli-Venecia Julia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
   }
 ]
