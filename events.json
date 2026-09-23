@@ -829,5 +829,924 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      139.3925,
+      34.7477
+    ],
+    "id": "japon-typhon-dujuan",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪️",
+    "source": "Japan Times",
+    "place": {
+      "fr": "Île d'Ōshima et région du Kantō (Chiba, Kanagawa), Japon",
+      "en": "Izu Oshima island and the Kanto region (Chiba, Kanagawa), Japan",
+      "es": "Isla de Izu Oshima y la región de Kantō (Chiba, Kanagawa), Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan fait au moins 9 morts et 4 disparus près de Tokyo",
+      "en": "Typhoon Dujuan kills at least 9, leaves 4 missing near Tokyo",
+      "es": "El tifón Dujuan deja al menos 9 muertos y 4 desaparecidos cerca de Tokio"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan a touché la région du Kantō le 21 septembre 2026, provoquant des pluies record — 832 mm en 48 heures sur l'île d'Ōshima et 282,5 mm en 24 heures à Edogawa (Tokyo), un record. Des glissements de terrain et des inondations ont fait au moins 9 morts (6 dans le Chiba, 3 dans le Kanagawa) et 4 disparus selon les autorités locales, au 23 septembre. Environ 500 habitations ont été endommagées dans les préfectures de Chiba, Kanagawa et Ibaraki.",
+      "en": "Typhoon Dujuan struck Japan's Kanto region on September 21, 2026, bringing record rainfall — 832mm over 48 hours on Izu Oshima island and a record 282.5mm in 24 hours in Tokyo's Edogawa ward. Landslides and flooding left at least 9 dead (6 in Chiba, 3 in Kanagawa) and 4 missing as of September 23, according to local authorities. Around 500 homes were damaged across Chiba, Kanagawa and Ibaraki prefectures.",
+      "es": "El tifón Dujuan azotó la región japonesa de Kantō el 21 de septiembre de 2026, con lluvias récord: 832 mm en 48 horas en la isla de Izu Oshima y un récord de 282,5 mm en 24 horas en el distrito de Edogawa (Tokio). Los deslizamientos e inundaciones dejaron al menos 9 muertos (6 en Chiba, 3 en Kanagawa) y 4 desaparecidos, según las autoridades locales, a fecha del 23 de septiembre. Unas 500 viviendas resultaron dañadas en las prefecturas de Chiba, Kanagawa e Ibaraki."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dujuan touche terre dans la région du Kantō, la JMA émet une alerte de niveau 5 aux glissements de terrain pour l'île d'Ōshima.",
+          "en": "Typhoon Dujuan makes landfall in the Kanto region; the JMA issues a Level 5 landslide warning for Izu Oshima island.",
+          "es": "El tifón Dujuan toca tierra en la región de Kantō; la JMA emite una alerta de nivel 5 por deslizamientos para la isla de Izu Oshima."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan s'alourdit à au moins 9 morts et 4 disparus alors que les recherches se poursuivent, selon les autorités des préfectures de Chiba et Kanagawa.",
+          "en": "The toll rises to at least 9 dead and 4 missing as search efforts continue, according to Chiba and Kanagawa prefecture authorities.",
+          "es": "El balance sube a al menos 9 muertos y 4 desaparecidos mientras continúan las labores de búsqueda, según las autoridades de las prefecturas de Chiba y Kanagawa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      130.5,
+      40.5
+    ],
+    "id": "coree-nord-tirs-missiles",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Japan Times",
+    "place": {
+      "fr": "Mer du Japon, au large de la Corée du Nord",
+      "en": "Sea of Japan, off North Korea's east coast",
+      "es": "Mar de Japón, frente a la costa este de Corea del Norte"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire deux missiles balistiques vers la mer du Japon",
+      "en": "North Korea fires two ballistic missiles into the Sea of Japan",
+      "es": "Corea del Norte lanza dos misiles balísticos hacia el mar de Japón"
+    },
+    "summary": {
+      "fr": "La Corée du Nord a tiré deux missiles balistiques depuis sa côte est le 20 septembre 2026, tous deux retombés en mer du Japon en dehors de la zone économique exclusive japonaise. Le premier engin a parcouru environ 440 km, atteignant une altitude estimée à 60 km, avant un second tir à plus courte portée environ trois heures plus tard. Le gouvernement japonais, dirigé par la Première ministre Sanae Takaichi, a condamné les tirs et renforcé sa surveillance ; aucun dégât n'a été signalé au Japon. Il s'agit d'au moins le 15e tir balistique nord-coréen recensé en 2026.",
+      "en": "North Korea launched two ballistic missiles from its east coast on September 20, 2026, both landing in the Sea of Japan outside Japan's exclusive economic zone. The first missile traveled about 440km, reaching an estimated altitude of 60km, followed roughly three hours later by a second, shorter-range launch. Japan's government, led by PM Sanae Takaichi, condemned the launches and stepped up surveillance; no damage was reported in Japan. This marks at least the 15th North Korean ballistic launch recorded in 2026.",
+      "es": "Corea del Norte lanzó dos misiles balísticos desde su costa este el 20 de septiembre de 2026, ambos cayeron en el mar de Japón fuera de la zona económica exclusiva japonesa. El primer misil recorrió unos 440 km, alcanzando una altitud estimada de 60 km, seguido unas tres horas después por un segundo lanzamiento de menor alcance. El gobierno japonés, liderado por la primera ministra Sanae Takaichi, condenó los lanzamientos y reforzó la vigilancia; no se reportaron daños en Japón. Se trata de al menos el decimoquinto lanzamiento balístico norcoreano registrado en 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Deux missiles balistiques nord-coréens s'abîment en mer du Japon hors de la ZEE japonaise ; Tokyo, Washington et Séoul consultent leurs diplomates dès le lendemain.",
+          "en": "Two North Korean ballistic missiles land in the Sea of Japan outside Japan's EEZ; Tokyo, Washington and Seoul hold diplomatic consultations the next day.",
+          "es": "Dos misiles balísticos norcoreanos caen en el mar de Japón fuera de la ZEE japonesa; Tokio, Washington y Seúl mantienen consultas diplomáticas al día siguiente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      139.7793,
+      35.6653
+    ],
+    "id": "jeux-asiatiques-natation-chine",
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏊",
+    "source": "Olympics.com",
+    "place": {
+      "fr": "Centre aquatique de Tokyo, Japon",
+      "en": "Tokyo Aquatics Centre, Japan",
+      "es": "Centro Acuático de Tokio, Japón"
+    },
+    "title": {
+      "fr": "La Chine domine les épreuves de natation aux Jeux asiatiques 2026",
+      "en": "China dominates swimming at the 2026 Asian Games",
+      "es": "China domina las pruebas de natación en los Juegos Asiáticos de 2026"
+    },
+    "summary": {
+      "fr": "Aux Jeux asiatiques 2026, organisés par le Japon (cérémonie d'ouverture le 19 septembre à Nagoya), les nageurs chinois ont remporté environ 15 titres en trois jours de compétition au Centre aquatique de Tokyo, menés par les recordmen du monde Pan Zhanle et Qin Haiyang, ainsi que la jeune Yu Zidi, 13 ans, sacrée sur 200 m papillon et 200 m quatre nages. La Chine se dirige vers un bilan proche de ses 28 titres décrochés lors des Jeux de Hangzhou en 2023.",
+      "en": "At the 2026 Asian Games, hosted by Japan (opening ceremony held September 19 in Nagoya), Chinese swimmers won roughly 15 gold medals over the first three days of competition at the Tokyo Aquatics Centre, led by world-record holders Pan Zhanle and Qin Haiyang, plus 13-year-old rising star Yu Zidi, who won the 200m butterfly and 200m individual medley. China is on pace to approach its haul of 28 golds from the 2023 Hangzhou Games.",
+      "es": "En los Juegos Asiáticos de 2026, organizados por Japón (ceremonia de apertura el 19 de septiembre en Nagoya), los nadadores chinos ganaron unas 15 medallas de oro en los primeros tres días de competición en el Centro Acuático de Tokio, liderados por los plusmarquistas mundiales Pan Zhanle y Qin Haiyang, además de la joven promesa de 13 años Yu Zidi, ganadora de los 200 m mariposa y 200 m estilos. China va camino de acercarse a sus 28 oros logrados en los Juegos de Hangzhou 2023."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-23/09/2026",
+          "en": "19-23/09/2026",
+          "es": "19-23/09/2026"
+        },
+        "d": {
+          "fr": "Les Jeux s'ouvrent le 19 septembre à Nagoya ; la Chine enchaîne les médailles d'or en natation au Centre aquatique de Tokyo, avec environ 15 titres en trois jours.",
+          "en": "The Games open September 19 in Nagoya; China racks up swimming golds at the Tokyo Aquatics Centre, with roughly 15 titles in three days.",
+          "es": "Los Juegos se inauguran el 19 de septiembre en Nagoya; China acumula oros en natación en el Centro Acuático de Tokio, con unos 15 títulos en tres días."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -73.2121,
+      44.4759
+    ],
+    "id": "vermont-eaton-verdict",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "PBS NewsHour",
+    "place": {
+      "fr": "Burlington, Vermont, États-Unis",
+      "en": "Burlington, Vermont, United States",
+      "es": "Burlington, Vermont, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un jury du Vermont reconnaît Jason Eaton coupable de tentative de meurtre sur trois étudiants palestiniens",
+      "en": "Vermont jury convicts Jason Eaton of attempted murder in shooting of three Palestinian students",
+      "es": "Un jurado de Vermont declara culpable a Jason Eaton de intento de homicidio contra tres estudiantes palestinos"
+    },
+    "summary": {
+      "fr": "Le 21 septembre 2026, un jury du comté de Chittenden, dans le Vermont, a déclaré Jason Eaton, 51 ans, coupable de tentative de meurtre pour la fusillade de novembre 2023 visant trois étudiants palestiniens — Hisham Awartani, Tahseen Aliahmad et Kinnan Abdalhamid — près du campus de l'université du Vermont, à Burlington. Le jury a rejeté la défense d'aliénation mentale invoquée par l'accusé, qui affirmait avoir agi sur ordre de la CIA et du Mossad. Eaton encourt la prison à vie ; la date de sa peine n'était pas encore fixée.",
+      "en": "On September 21, 2026, a Chittenden County, Vermont jury found 51-year-old Jason Eaton guilty of attempted murder for the November 2023 shooting of three Palestinian college students — Hisham Awartani, Tahseen Aliahmad and Kinnan Abdalhamid — near the University of Vermont campus in Burlington. The jury rejected an insanity defense in which Eaton claimed he acted on orders from the CIA and Mossad. He faces up to life in prison; a sentencing date had not yet been set.",
+      "es": "El 21 de septiembre de 2026, un jurado del condado de Chittenden, Vermont, declaró culpable de intento de homicidio a Jason Eaton, de 51 años, por el tiroteo de noviembre de 2023 contra tres estudiantes universitarios palestinos —Hisham Awartani, Tahseen Aliahmad y Kinnan Abdalhamid— cerca del campus de la Universidad de Vermont, en Burlington. El jurado rechazó la defensa de enajenación mental alegada por el acusado, quien afirmaba haber actuado por órdenes de la CIA y el Mosad. Eaton podría enfrentar cadena perpetua; aún no se fijaba fecha para la sentencia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Après moins de deux heures de délibération, le jury rend un verdict de culpabilité pour tentative de meurtre à l'encontre de Jason Eaton.",
+          "en": "After less than two hours of deliberation, the jury returns a guilty verdict for attempted murder against Jason Eaton.",
+          "es": "Tras menos de dos horas de deliberación, el jurado emite un veredicto de culpabilidad por intento de homicidio contra Jason Eaton."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -71.4128,
+      41.824
+    ],
+    "id": "epa-solar-for-all",
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "☀️",
+    "source": "US News",
+    "place": {
+      "fr": "Providence, Rhode Island, États-Unis",
+      "en": "Providence, Rhode Island, United States",
+      "es": "Providence, Rhode Island, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une juge fédérale juge illégale la suppression du programme solaire « Solar for All » par l'EPA",
+      "en": "Federal judge rules EPA illegally terminated the Solar for All program",
+      "es": "Una jueza federal declara ilegal la eliminación del programa solar «Solar for All» por la EPA"
+    },
+    "summary": {
+      "fr": "Le 18 septembre 2026, la juge fédérale Mary McElroy, du district de Rhode Island, a jugé que l'Agence de protection de l'environnement (EPA) avait agi illégalement en mettant fin au programme « Solar for All », doté de 7 milliards de dollars et destiné à plus de 900 000 foyers américains à revenus modestes. L'EPA avait annulé ces fonds en août 2025 dans la foulée d'une loi budgétaire de l'administration Trump. La juge a estimé que le Congrès avait prévu la poursuite des subventions déjà engagées et a annulé la résiliation. L'EPA a indiqué examiner la décision et envisager un appel.",
+      "en": "On September 18, 2026, federal district judge Mary McElroy in Rhode Island ruled that the Environmental Protection Agency acted illegally when it terminated the $7 billion Solar for All program, intended to bring solar power to more than 900,000 lower-income American households. The EPA had rescinded the funds in August 2025 following Trump administration budget legislation. The judge found Congress intended already-obligated grants to continue and vacated the termination. The EPA said it was reviewing the ruling and considering an appeal.",
+      "es": "El 18 de septiembre de 2026, la jueza federal de distrito Mary McElroy, en Rhode Island, dictaminó que la Agencia de Protección Ambiental (EPA) actuó de forma ilegal al poner fin al programa «Solar for All», dotado con 7000 millones de dólares y destinado a más de 900 000 hogares estadounidenses de bajos ingresos. La EPA había cancelado esos fondos en agosto de 2025 tras una ley presupuestaria de la administración Trump. La jueza consideró que el Congreso preveía que continuaran las subvenciones ya comprometidas y anuló la rescisión. La EPA declaró que estaba revisando el fallo y evaluando una apelación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "La juge McElroy annule la résiliation du programme et ordonne à l'EPA de poursuivre l'administration des subventions déjà engagées.",
+          "en": "Judge McElroy vacates the program's termination and orders the EPA to continue administering already-obligated grants.",
+          "es": "La jueza McElroy anula la rescisión del programa y ordena a la EPA continuar administrando las subvenciones ya comprometidas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "id": "xi-trump-sommet-washington",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "The White House",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Xi Jinping entame une visite d'État à Washington pour un sommet avec Trump",
+      "en": "Xi Jinping begins state visit to Washington for Trump-Xi summit",
+      "es": "Xi Jinping inicia una visita de Estado a Washington para la cumbre con Trump"
+    },
+    "summary": {
+      "fr": "Le président chinois Xi Jinping est arrivé le 23 septembre 2026 à la base aérienne d'Andrews pour une visite d'État à Washington devant durer jusqu'au 25 septembre — sa première visite d'État aux États-Unis depuis environ une décennie. Donald Trump l'a accueilli personnellement sur le tarmac, un geste inhabituel. Le sommet du 24 septembre à la Maison Blanche doit porter sur les droits de douane, l'intelligence artificielle, les contrôles à l'export de terres rares et les achats agricoles chinois, dans le cadre d'une trêve commerciale bilatérale en cours.",
+      "en": "Chinese President Xi Jinping arrived at Joint Base Andrews on September 23, 2026, for a state visit to Washington running through September 25 — his first US state visit in roughly a decade. President Trump personally greeted him on the tarmac, an unusual gesture. The September 24 White House summit is expected to address tariffs, artificial intelligence, rare-earth export controls and Chinese agricultural purchases, building on an existing bilateral trade truce.",
+      "es": "El presidente chino Xi Jinping llegó a la Base Conjunta Andrews el 23 de septiembre de 2026 para una visita de Estado a Washington que se extenderá hasta el 25 de septiembre, su primera visita de Estado a Estados Unidos en aproximadamente una década. El presidente Trump lo recibió personalmente en la pista, un gesto inusual. Se espera que la cumbre del 24 de septiembre en la Casa Blanca aborde los aranceles, la inteligencia artificial, los controles a la exportación de tierras raras y las compras agrícolas chinas, en el marco de una tregua comercial bilateral vigente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Xi Jinping atterrit à la base d'Andrews, accueilli par Donald Trump ; le sommet à la Maison Blanche est prévu le lendemain.",
+          "en": "Xi Jinping lands at Joint Base Andrews, greeted by Donald Trump; the White House summit is set for the next day.",
+          "es": "Xi Jinping aterriza en la Base Andrews, recibido por Donald Trump; la cumbre en la Casa Blanca está prevista para el día siguiente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      77.291,
+      28.5355
+    ],
+    "id": "delhi-camion-accident",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚛",
+    "source": "The Tribune",
+    "place": {
+      "fr": "Sarita Vihar, New Delhi, Inde",
+      "en": "Sarita Vihar, New Delhi, India",
+      "es": "Sarita Vihar, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Un camion-benne tue quatre agents installant des caméras à Delhi",
+      "en": "Speeding dumper truck kills four CCTV installation workers in Delhi",
+      "es": "Un camión volquete mata a cuatro trabajadores que instalaban cámaras en Delhi"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 20 septembre 2026, vers 2h30-3h du matin, un camion-benne immatriculé dans l'Haryana a percuté une grue et un auto-rickshaw à l'arrêt à Sarita Vihar, dans le sud-est de Delhi, où une équipe installait des caméras de vidéosurveillance pour la police de la circulation. Quatre ouvriers — Umesh, 23 ans, Praveen Kumar, 35 ans, Suraj Singh, 34 ans, et Akash, 20 ans — sont morts ; deux autres ont été blessés. Le chauffeur, qui avait pris la fuite, a été arrêté.",
+      "en": "In the early hours of September 20, 2026, around 2:30-3am, a dumper truck registered in Haryana struck a crane and an auto-rickshaw parked in Sarita Vihar, southeast Delhi, where a crew was installing CCTV cameras for Delhi Traffic Police. Four workers — Umesh, 23, Praveen Kumar, 35, Suraj Singh, 34, and Akash, 20 — were killed; two others were injured. The driver, who initially fled, was later arrested.",
+      "es": "En la madrugada del 20 de septiembre de 2026, hacia las 2:30-3:00 h, un camión volquete matriculado en Haryana embistió una grúa y un mototaxi estacionados en Sarita Vihar, al sureste de Delhi, donde un equipo instalaba cámaras de videovigilancia para la policía de tránsito. Cuatro trabajadores —Umesh, de 23 años, Praveen Kumar, de 35, Suraj Singh, de 34, y Akash, de 20— murieron; otros dos resultaron heridos. El conductor, que había huido, fue detenido posteriormente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/09/2026",
+          "en": "20/09/2026",
+          "es": "20/09/2026"
+        },
+        "d": {
+          "fr": "Le camion percute l'équipe de nuit installant des caméras ; quatre morts, deux blessés, le chauffeur en fuite est arrêté peu après.",
+          "en": "The truck strikes the night-shift camera-installation crew; four dead, two injured, the fleeing driver is arrested shortly after.",
+          "es": "El camión embiste al equipo del turno nocturno que instalaba cámaras; cuatro muertos, dos heridos, el conductor que había huido es detenido poco después."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      72.8777,
+      19.076
+    ],
+    "id": "inde-nse-introduction-bourse",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Mumbai, Inde",
+      "en": "Mumbai, India",
+      "es": "Bombay (Mumbai), India"
+    },
+    "title": {
+      "fr": "L'introduction en Bourse de 2,4 milliards de dollars du NSE sursouscrite 5,7 fois",
+      "en": "NSE's $2.4 billion IPO oversubscribed 5.7 times",
+      "es": "La salida a Bolsa de 2400 millones de dólares del NSE se suscribe 5,7 veces"
+    },
+    "summary": {
+      "fr": "L'introduction en Bourse de la Bourse nationale indienne (NSE), d'un montant de 22 562 crores de roupies (environ 2,4 milliards de dollars), s'est clôturée le 21 septembre 2026 avec une souscription globale de 5,7 fois l'offre — 12,68 fois côté investisseurs institutionnels qualifiés, 6,54 fois côté investisseurs non institutionnels et 1,36 fois côté particuliers. Il s'agit de la deuxième plus grosse introduction en Bourse de l'histoire indienne, derrière celle d'Hyundai Motor India en 2024. La cotation était attendue le 24 septembre.",
+      "en": "The National Stock Exchange of India's (NSE) initial public offering, worth ₹22,562 crore (about $2.4 billion), closed on September 21, 2026 with overall subscription of 5.7 times the offer — 12.68 times among qualified institutional buyers, 6.54 times among non-institutional investors, and 1.36 times among retail investors. It ranks as India's second-largest IPO ever, behind Hyundai Motor India's 2024 listing. Listing was expected September 24.",
+      "es": "La oferta pública inicial de la Bolsa Nacional de la India (NSE), valorada en 22 562 crore de rupias (unos 2400 millones de dólares), se cerró el 21 de septiembre de 2026 con una suscripción total de 5,7 veces la oferta: 12,68 veces entre los inversores institucionales cualificados, 6,54 veces entre los no institucionales y 1,36 veces entre los minoristas. Es la segunda mayor salida a Bolsa de la historia de la India, solo por detrás de la de Hyundai Motor India en 2024. Se esperaba que cotizara el 24 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "La période de souscription se clôture avec un taux global de 5,7 fois l'offre proposée.",
+          "en": "The subscription window closes with an overall rate of 5.7 times the shares on offer.",
+          "es": "El período de suscripción se cierra con una tasa global de 5,7 veces la oferta."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.8828,
+      -15.7939
+    ],
+    "id": "bresil-selic-baisse",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "La banque centrale du Brésil abaisse son taux directeur à 13,75 %",
+      "en": "Brazil's central bank cuts benchmark rate to 13.75%",
+      "es": "El banco central de Brasil baja su tasa de referencia al 13,75 %"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire (Copom) de la banque centrale du Brésil a réduit le taux Selic de 0,25 point, à 13,75 %, lors de sa réunion des 15-16 septembre 2026 — la cinquième baisse consécutive depuis un pic de 15 %. Le 21 septembre, l'enquête hebdomadaire « Focus » auprès des économistes a abaissé la prévision de taux Selic pour fin 2026 à 13,5 % et celle de croissance du PIB 2026 à environ 1,98 %, contre 3,5 % en 2025.",
+      "en": "Brazil's central bank monetary policy committee (Copom) cut the Selic benchmark rate by 0.25 points to 13.75% at its September 15-16, 2026 meeting — the fifth consecutive cut from a cycle peak of 15%. On September 21, the weekly 'Focus' survey of economists lowered the year-end 2026 Selic forecast to 13.5% and the 2026 GDP growth forecast to about 1.98%, down from 3.5% in 2025.",
+      "es": "El comité de política monetaria (Copom) del banco central de Brasil redujo la tasa Selic en 0,25 puntos, hasta el 13,75 %, en su reunión del 15-16 de septiembre de 2026, el quinto recorte consecutivo desde un máximo del 15 %. El 21 de septiembre, la encuesta semanal «Focus» de economistas rebajó la previsión de la tasa Selic para fines de 2026 al 13,5 % y la de crecimiento del PIB 2026 a alrededor del 1,98 %, frente al 3,5 % de 2025."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le Copom abaisse le taux Selic à 13,75 % ; les économistes révisent ensuite leurs prévisions de croissance à la baisse.",
+          "en": "Copom lowers the Selic rate to 13.75%; economists subsequently revise their growth forecasts downward.",
+          "es": "El Copom baja la tasa Selic al 13,75 %; los economistas revisan luego sus previsiones de crecimiento a la baja."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      37.76,
+      55.66
+    ],
+    "id": "moscou-raffinerie-drones",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera",
+    "place": {
+      "fr": "Kapotnia, Moscou, Russie",
+      "en": "Kapotnya, Moscow, Russia",
+      "es": "Kapotnia, Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Une attaque de drones ukrainiens frappe une raffinerie près de Moscou",
+      "en": "Ukrainian drone attack hits oil refinery near Moscow",
+      "es": "Un ataque con drones ucranianos golpea una refinería cerca de Moscú"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 septembre 2026, l'Ukraine a mené ce que ses responsables ont qualifié de sa plus vaste attaque de drones jamais menée contre Moscou, coïncidant avec le dernier jour des élections à la Douma. La raffinerie Gazprom Neft de Kapotnia, qui fournit environ 40 % du marché des carburants de la capitale, a été touchée et son unité de distillation a pris feu, interrompant le traitement du brut. Selon les autorités russes, l'attaque a fait deux morts et une vingtaine de blessés dans la région ; des estimations initiales évoquaient jusqu'à trois morts. Kyiv affirme avoir utilisé des missiles produits localement, les FP-5 « Flamingo » et FP-7 « Pelican ».",
+      "en": "Overnight on September 19-20, 2026, Ukraine carried out what officials called its largest-ever drone attack on Moscow, coinciding with the final day of State Duma elections. The Gazprom Neft refinery in Kapotnya, which supplies about 40% of the capital's fuel market, was hit and its distillation unit caught fire, halting crude processing. Russian officials said the attack killed two people and wounded about 20 across the region; earlier estimates put the toll as high as three dead. Kyiv said it used domestically produced FP-5 'Flamingo' and FP-7 'Pelican' missiles.",
+      "es": "En la noche del 19 al 20 de septiembre de 2026, Ucrania llevó a cabo lo que sus funcionarios calificaron como su mayor ataque con drones contra Moscú hasta la fecha, coincidiendo con el último día de las elecciones a la Duma Estatal. La refinería de Gazprom Neft en Kapotnia, que abastece cerca del 40 % del mercado de combustible de la capital, fue alcanzada y su unidad de destilación se incendió, deteniendo el procesamiento de crudo. Las autoridades rusas indicaron que el ataque dejó dos muertos y una veintena de heridos en la región; estimaciones iniciales hablaban de hasta tres fallecidos. Kiev afirmó haber usado misiles de producción propia, los FP-5 «Flamingo» y FP-7 «Pelican»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19-20/09/2026",
+          "en": "19-20/09/2026",
+          "es": "19-20/09/2026"
+        },
+        "d": {
+          "fr": "Des drones ukrainiens frappent la raffinerie de Kapotnia, provoquant un incendie et l'arrêt du raffinage ; Moscou fait état de deux morts et une vingtaine de blessés.",
+          "en": "Ukrainian drones strike the Kapotnya refinery, sparking a fire and halting refining; Moscow reports two dead and about 20 wounded.",
+          "es": "Drones ucranianos golpean la refinería de Kapotnia, provocando un incendio y la paralización del refinado; Moscú informa de dos muertos y una veintena de heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "id": "plaza-appel-violences-conjugales",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "L'Avenir",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "La peine de Stéphane Plaza pour violences conjugales alourdie en appel",
+      "en": "Stéphane Plaza's domestic violence sentence increased on appeal",
+      "es": "La condena de Stéphane Plaza por violencia de género se agrava en apelación"
+    },
+    "summary": {
+      "fr": "Le 18 septembre 2026, la cour d'appel de Paris a alourdi à 18 mois de prison avec sursis la peine de l'animateur télé et agent immobilier Stéphane Plaza, 56 ans, condamné pour violences envers deux ex-compagnes (contre 12 mois en première instance). Alors qu'il avait été relaxé pour l'une des deux plaignantes en première instance, la cour l'a reconnu coupable sur les deux dossiers, jugeant leurs témoignages « précis, cohérents, corroborés par les enquêtes ». Stéphane Plaza a annoncé se pourvoir en cassation.",
+      "en": "On September 18, 2026, the Paris Court of Appeal increased the sentence of TV host and real-estate personality Stéphane Plaza, 56, to 18 months' suspended imprisonment for violence against two former partners (up from 12 months at first instance). Having been acquitted on one of the two counts at first instance, he was found guilty on both on appeal, with the court describing the complainants' accounts as 'precise, consistent, corroborated by investigations.' Plaza said he would appeal to France's supreme court.",
+      "es": "El 18 de septiembre de 2026, el Tribunal de Apelación de París elevó a 18 meses de prisión con suspensión la condena del presentador televisivo y agente inmobiliario Stéphane Plaza, de 56 años, por violencia contra dos exparejas (frente a los 12 meses en primera instancia). Tras haber sido absuelto de uno de los dos cargos en primera instancia, fue declarado culpable en ambos en la apelación, y el tribunal calificó los testimonios de las denunciantes como «precisos, coherentes, corroborados por las investigaciones». Plaza anunció que recurrirá ante el tribunal de casación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "La cour d'appel condamne Plaza sur les deux dossiers et alourdit sa peine à 18 mois avec sursis.",
+          "en": "The Court of Appeal convicts Plaza on both counts and increases his sentence to 18 months suspended.",
+          "es": "El Tribunal de Apelación condena a Plaza en ambos cargos y eleva su pena a 18 meses con suspensión."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      11.5497,
+      48.1319
+    ],
+    "id": "oktoberfest-accident-mortel",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🎡",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Theresienwiese, Munich, Allemagne",
+      "en": "Theresienwiese, Munich, Germany",
+      "es": "Theresienwiese, Múnich, Alemania"
+    },
+    "title": {
+      "fr": "Un employé meurt happé par un manège à l'Oktoberfest de Munich",
+      "en": "Worker dies after being struck by ride at Munich's Oktoberfest",
+      "es": "Un trabajador muere tras ser golpeado por una atracción en el Oktoberfest de Múnich"
+    },
+    "summary": {
+      "fr": "Un employé de 52 ans travaillant sur une attraction à chute libre de l'Oktoberfest de Munich a été heurté, et probablement écrasé, par la nacelle du manège dans la soirée du 21 septembre 2026. Réanimé sur place, il a été transporté à l'hôpital dans un état jugé engageant le pronostic vital, mais n'a pas survécu. La police a précisé que les visiteurs n'avaient à aucun moment été en danger ; il s'agit du deuxième incident lié à un manège lors de cette édition de la fête.",
+      "en": "A 52-year-old worker on a free-fall ride at Munich's Oktoberfest was struck, and likely crushed, by the ride's gondola on the evening of September 21, 2026. Resuscitated at the scene, he was taken to hospital with life-threatening injuries but did not survive. Police said fairgoers were never in danger; it was the second ride-related incident at this year's festival.",
+      "es": "Un trabajador de 52 años de una atracción de caída libre del Oktoberfest de Múnich fue golpeado, y probablemente aplastado, por la góndola de la atracción en la noche del 21 de septiembre de 2026. Reanimado en el lugar, fue trasladado al hospital con heridas de pronóstico grave, pero no sobrevivió. La policía indicó que los visitantes nunca estuvieron en peligro; se trata del segundo incidente relacionado con una atracción en esta edición de la fiesta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "L'employé est heurté par la nacelle du manège en fonctionnement ; réanimé sur place, il décède peu après à l'hôpital.",
+          "en": "The worker is struck by the ride's moving gondola; resuscitated on site, he dies shortly after at the hospital.",
+          "es": "El trabajador es golpeado por la góndola de la atracción en movimiento; reanimado en el lugar, fallece poco después en el hospital."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -0.5406,
+      53.2307
+    ],
+    "id": "eveque-lincoln-demission",
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⛪",
+    "source": "Associated Press",
+    "place": {
+      "fr": "Lincoln, Angleterre, Royaume-Uni",
+      "en": "Lincoln, England, United Kingdom",
+      "es": "Lincoln, Inglaterra, Reino Unido"
+    },
+    "title": {
+      "fr": "L'évêque de Lincoln démissionne après une enquête pour agression sexuelle",
+      "en": "Bishop of Lincoln resigns amid sexual assault investigation",
+      "es": "El obispo de Lincoln dimite en medio de una investigación por agresión sexual"
+    },
+    "summary": {
+      "fr": "Le révérend Stephen Conway, évêque de Lincoln depuis 2023 et membre de la Chambre des lords, a annoncé le 21 septembre 2026 sa démission, effective le 1er octobre. Il avait été suspendu de ses fonctions en février 2026 après un signalement pour manquement à la protection des personnes vulnérables, puis arrêté par la police du Lincolnshire dans le cadre d'une enquête portant sur une allégation d'agression sexuelle qui se serait produite entre 2018 et 2025. Il a été relâché sous caution conditionnelle ; aucune inculpation n'a été annoncée à ce stade. L'évêque de Grantham, Nicholas Chamberlain, assurera l'intérim.",
+      "en": "The Rt Rev Stephen Conway, Bishop of Lincoln since 2023 and a member of the House of Lords, announced his resignation on September 21, 2026, effective October 1. He had been suspended from ministry in February 2026 following a safeguarding complaint and was subsequently arrested by Lincolnshire Police as part of an investigation into an allegation of sexual assault said to have occurred between 2018 and 2025. He was released on conditional bail; no charges have been announced at this stage. The Bishop of Grantham, Nicholas Chamberlain, will serve as acting bishop.",
+      "es": "El reverendo Stephen Conway, obispo de Lincoln desde 2023 y miembro de la Cámara de los Lores, anunció su dimisión el 21 de septiembre de 2026, efectiva a partir del 1 de octubre. Había sido suspendido de su ministerio en febrero de 2026 tras una denuncia de protección de menores y adultos vulnerables, y posteriormente fue arrestado por la policía de Lincolnshire en el marco de una investigación sobre una acusación de agresión sexual que presuntamente ocurrió entre 2018 y 2025. Fue puesto en libertad bajo fianza condicional; no se han anunciado cargos hasta el momento. El obispo de Grantham, Nicholas Chamberlain, ejercerá como obispo interino."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "L'Église d'Angleterre confirme la démission de Mgr Conway, effective le 1er octobre, dans l'attente des conclusions de l'enquête policière.",
+          "en": "The Church of England confirms Bishop Conway's resignation, effective October 1, as the police investigation continues.",
+          "es": "La Iglesia de Inglaterra confirma la dimisión del obispo Conway, efectiva el 1 de octubre, mientras continúa la investigación policial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      12.559,
+      41.893
+    ],
+    "id": "rome-agression-enseignante",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "Wanted in Rome",
+    "place": {
+      "fr": "Quartier du Collatino, Rome, Italie",
+      "en": "Collatino district, Rome, Italy",
+      "es": "Barrio de Collatino, Roma, Italia"
+    },
+    "title": {
+      "fr": "Un collégien de 13 ans agresse au spray et au couteau une enseignante à Rome",
+      "en": "13-year-old sprays and stabs teacher at Rome middle school",
+      "es": "Un alumno de 13 años rocía y apuñala a una profesora en un colegio de Roma"
+    },
+    "summary": {
+      "fr": "Le 18 septembre 2026, dans un collège du quartier du Collatino, à Rome, un élève de 13 ans a aspergé son enseignante, âgée de 66 ans, de gaz poivré avant de la blesser avec un objet tranchant. Il portait un casque équipé d'un téléphone façon caméra embarquée et aurait tenté de diffuser l'agression en direct sur Telegram. Un camarade de classe est intervenu pour l'arrêter. L'enseignante, prise en charge par les secours, a été admise à l'hôpital Vannini dans un état sérieux mais ses jours ne sont pas en danger. Le ministre de l'Éducation, Giuseppe Valditara, a personnellement contacté l'établissement.",
+      "en": "On September 18, 2026, at a middle school in Rome's Collatino district, a 13-year-old student sprayed his 66-year-old teacher with pepper spray before injuring her with a sharp object. He was wearing a helmet with a phone mounted like a GoPro and is believed to have tried to livestream the attack on Telegram. A classmate intervened to stop him. The teacher was taken to Vannini hospital in serious but not life-threatening condition. Education Minister Giuseppe Valditara personally contacted the school.",
+      "es": "El 18 de septiembre de 2026, en un colegio del barrio romano de Collatino, un alumno de 13 años roció con gas pimienta a su profesora, de 66 años, antes de herirla con un objeto punzante. Llevaba puesto un casco con un teléfono a modo de cámara y presuntamente intentó transmitir el ataque en directo por Telegram. Un compañero de clase intervino para detenerlo. La profesora fue trasladada al hospital Vannini en estado grave pero sin riesgo vital. El ministro de Educación, Giuseppe Valditara, se puso en contacto personalmente con el centro."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "L'élève armé d'un spray et d'un objet tranchant blesse son enseignante ; un camarade s'interpose et met fin à l'agression.",
+          "en": "The student, armed with pepper spray and a sharp object, injures his teacher; a classmate steps in and stops the attack.",
+          "es": "El alumno, armado con gas pimienta y un objeto punzante, hiere a su profesora; un compañero interviene y detiene el ataque."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      13.5765,
+      37.3111
+    ],
+    "id": "agrigente-inondation",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "AgrigentoNotizie",
+    "place": {
+      "fr": "Agrigente, Sicile, Italie",
+      "en": "Agrigento, Sicily, Italy",
+      "es": "Agrigento, Sicilia, Italia"
+    },
+    "title": {
+      "fr": "Une crue soudaine frappe Agrigente et provoque l'effondrement d'une rue",
+      "en": "Flash flood hits Agrigento, causes road to collapse",
+      "es": "Una inundación repentina golpea Agrigento y provoca el hundimiento de una calle"
+    },
+    "summary": {
+      "fr": "Le 19 septembre 2026, un orage violent a déversé près de 150 mm de pluie en environ une heure sur Agrigente, en Sicile, inondant plusieurs quartiers (San Leone, Villaggio Mosè, Villaseta). Sur la Piazza Marconi, près de la gare, une portion de chaussée s'est effondrée, engloutissant partiellement une voiture dont le conducteur est indemne. Un glissement de terrain a également coupé la route nationale SS640. Les pompiers ont évacué des habitations inondées et procédé à des sauvetages ; la municipalité a restreint l'accès aux zones à risque en cas de nouvelles pluies intenses.",
+      "en": "On September 19, 2026, an intense cloudburst dropped nearly 150mm of rain in about an hour on Agrigento, Sicily, flooding several neighborhoods (San Leone, Villaggio Mosè, Villaseta). In Piazza Marconi, near the train station, a section of road collapsed, partially swallowing a car whose driver was unharmed. A landslide also blocked state road SS640. Firefighters pumped out flooded homes and carried out rescues; the municipality restricted access to at-risk areas in case of further heavy rain.",
+      "es": "El 19 de septiembre de 2026, una tormenta intensa descargó cerca de 150 mm de lluvia en aproximadamente una hora sobre Agrigento, Sicilia, inundando varios barrios (San Leone, Villaggio Mosè, Villaseta). En la Piazza Marconi, cerca de la estación de tren, un tramo de calzada se hundió, engullendo parcialmente un coche cuyo conductor resultó ileso. Un desprendimiento de tierra también cortó la carretera estatal SS640. Los bomberos achicaron viviendas inundadas y realizaron rescates; el ayuntamiento restringió el acceso a zonas de riesgo ante la posibilidad de nuevas lluvias intensas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/09/2026",
+          "en": "19/09/2026",
+          "es": "19/09/2026"
+        },
+        "d": {
+          "fr": "Le nubifragio inonde la ville, fait s'effondrer une rue et déclenche un glissement de terrain sur la SS640 ; les pompiers multiplient les sauvetages.",
+          "en": "The cloudburst floods the city, causes a street to collapse and triggers a landslide on the SS640; firefighters carry out multiple rescues.",
+          "es": "El aguacero inunda la ciudad, provoca el hundimiento de una calle y desencadena un desprendimiento en la SS640; los bomberos realizan varios rescates."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "id": "gomez-proces-espagne",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "The Irish Times",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "L'épouse du Premier ministre espagnol Pedro Sánchez renvoyée devant un jury populaire",
+      "en": "Spanish PM Pedro Sánchez's wife ordered to stand trial before a jury",
+      "es": "La esposa del presidente español Pedro Sánchez es enviada a juicio con jurado"
+    },
+    "summary": {
+      "fr": "Le 21 septembre 2026, le juge d'instruction Juan Carlos Peinado a ordonné le renvoi de Begoña Gómez, épouse du chef du gouvernement espagnol Pedro Sánchez, devant un jury populaire de neuf membres pour trafic d'influence et détournement de fonds publics. Son assistante, Cristina Álvarez, est également renvoyée pour détournement de fonds. L'affaire porte sur une chaire universitaire dirigée par Mme Gómez à l'université Complutense de Madrid et des transferts liés à une société privée qu'elle a ensuite créée. La plainte émane de l'association Manos Limpias, proche de l'extrême droite. Le gouvernement Sánchez dénonce une procédure « arbitraire ».",
+      "en": "On September 21, 2026, investigating judge Juan Carlos Peinado ordered Begoña Gómez, wife of Spanish Prime Minister Pedro Sánchez, to stand trial before a nine-person citizen jury on charges of influence peddling and misappropriation of public funds. Her aide, Cristina Álvarez, was also ordered to trial on the embezzlement charge. The case centers on a university chair Gómez directed at Complutense University of Madrid and transfers linked to a private company she later founded. The complaint originated with Manos Limpias, a group with far-right ties. Sánchez's government has called the case 'arbitrary.'",
+      "es": "El 21 de septiembre de 2026, el juez instructor Juan Carlos Peinado ordenó que Begoña Gómez, esposa del presidente del Gobierno español Pedro Sánchez, sea juzgada ante un jurado popular de nueve miembros por delitos de tráfico de influencias y malversación de fondos públicos. Su asistente, Cristina Álvarez, también fue enviada a juicio por el delito de malversación. El caso gira en torno a una cátedra universitaria que Gómez dirigía en la Universidad Complutense de Madrid y a transferencias vinculadas a una empresa privada que fundó después. La denuncia partió de Manos Limpias, una asociación vinculada a la extrema derecha. El Gobierno de Sánchez ha calificado el proceso de «arbitrario»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Le juge Peinado ordonne l'ouverture d'un procès devant jury populaire pour Begoña Gómez et son assistante.",
+          "en": "Judge Peinado orders a jury trial for Begoña Gómez and her aide.",
+          "es": "El juez Peinado ordena la apertura de juicio ante jurado popular para Begoña Gómez y su asistente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      35.0462,
+      48.4647
+    ],
+    "id": "dnipro-frappe-interpipe",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent",
+    "place": {
+      "fr": "Dnipro, Ukraine",
+      "en": "Dnipro, Ukraine",
+      "es": "Dnipró, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe balistique russe touche l'usine sidérurgique Interpipe à Dnipro",
+      "en": "Russian ballistic missile strike hits Interpipe steel plant in Dnipro",
+      "es": "Un misil balístico ruso golpea la planta siderúrgica Interpipe en Dnipró"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 21 au 22 septembre 2026, un missile balistique russe a frappé l'usine sidérurgique Interpipe de Dnipro, tuant 4 ouvriers et en blessant 7 autres, contraignant à l'arrêt de la production sur le site, qui emploie environ 9 500 personnes. L'attaque s'inscrivait dans une vague plus large de frappes russes (missiles Onyx, Iskander-M/KN-23, Kalibr et plus de 200 drones) ayant touché 22 localités des oblasts de Dnipropetrovsk, Kirovohrad et Poltava. Le bilan national de cette vague variait selon les sources, entre 5 et 8 morts pour l'ensemble du pays, les chiffres étant encore actualisés.",
+      "en": "Overnight on September 21-22, 2026, a Russian ballistic missile struck the Interpipe steel plant in Dnipro, killing 4 workers and injuring 7 others, forcing a halt to production at the facility, which employs roughly 9,500 people. The strike was part of a wider Russian barrage (Onyx, Iskander-M/KN-23 and Kalibr missiles plus more than 200 drones) that hit 22 locations across the Dnipropetrovsk, Kirovohrad and Poltava regions. The nationwide toll for the wave varied by source, between 5 and 8 dead across the country, with figures still being updated.",
+      "es": "En la noche del 21 al 22 de septiembre de 2026, un misil balístico ruso impactó en la planta siderúrgica Interpipe de Dnipró, matando a 4 trabajadores y hiriendo a otros 7, lo que obligó a detener la producción en la planta, que emplea a unas 9500 personas. El ataque formó parte de una ofensiva rusa más amplia (misiles Onyx, Iskander-M/KN-23 y Kalibr, además de más de 200 drones) que alcanzó 22 localidades de las regiones de Dnipropetrovsk, Kirovohrad y Poltava. El balance nacional de esta oleada variaba según la fuente, entre 5 y 8 muertos en todo el país, con cifras aún en actualización."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-22/09/2026",
+          "en": "21-22/09/2026",
+          "es": "21-22/09/2026"
+        },
+        "d": {
+          "fr": "Un missile balistique frappe l'usine Interpipe, tuant 4 ouvriers et en blessant 7, dans le cadre d'une frappe massive sur plusieurs oblasts.",
+          "en": "A ballistic missile hits the Interpipe plant, killing 4 workers and injuring 7, as part of a massive strike across several regions.",
+          "es": "Un misil balístico impacta en la planta Interpipe, matando a 4 trabajadores y hiriendo a 7, dentro de un ataque masivo sobre varias regiones."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "id": "minna-mineurs-morts",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠️",
+    "source": "CNN",
+    "place": {
+      "fr": "Minna, État du Niger, Nigeria",
+      "en": "Minna, Niger State, Nigeria",
+      "es": "Minna, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "37 personnes meurent en garde à vue après des raids anti-orpaillage clandestin près de Minna",
+      "en": "37 people die in custody after illegal mining raids near Minna",
+      "es": "37 personas mueren bajo custodia tras redadas contra la minería ilegal cerca de Minna"
+    },
+    "summary": {
+      "fr": "Les 15 et 16 septembre 2026, des agents de la NSCDC (garde civile de sécurité et de défense) ont mené des raids contre des sites d'orpaillage clandestin près de Minna, arrêtant entre 60 et 67 suspects, dont de nombreux adolescents. Le 17 septembre, le gouverneur de l'État du Niger, Mohammed Umaru Bago, a confirmé la mort de 37 détenus en garde à vue ; la NSCDC a d'abord évoqué une épidémie, avant de reconnaître que la cause des décès restait indéterminée. Des manifestations ont éclaté à Minna les 18 et 19 septembre, au cours desquelles des témoins rapportent que les forces de sécurité ont ouvert le feu. Le commandant local de la NSCDC a été suspendu et un comité d'enquête fédéral de dix membres a été constitué.",
+      "en": "On September 15-16, 2026, officers of Nigeria's NSCDC (Security and Civil Defence Corps) raided suspected illegal gold-mining sites near Minna, arresting between 60 and 67 suspects, many of them teenagers. On September 17, Niger State Governor Mohammed Umaru Bago confirmed that 37 detainees had died in custody; the NSCDC initially cited a suspected disease outbreak before acknowledging the cause of death remained undetermined. Protests broke out in Minna on September 18-19, during which witnesses say security forces opened fire. The local NSCDC commandant was suspended and a ten-member federal investigative committee was formed.",
+      "es": "Los días 15 y 16 de septiembre de 2026, agentes del NSCDC (Cuerpo de Seguridad y Defensa Civil de Nigeria) realizaron redadas en presuntos sitios de minería de oro ilegal cerca de Minna, deteniendo entre 60 y 67 sospechosos, muchos de ellos adolescentes. El 17 de septiembre, el gobernador del estado de Níger, Mohammed Umaru Bago, confirmó que 37 detenidos habían muerto bajo custodia; el NSCDC citó inicialmente un presunto brote de enfermedad antes de reconocer que la causa de la muerte seguía sin determinarse. El 18 y 19 de septiembre estallaron protestas en Minna, durante las cuales testigos afirman que las fuerzas de seguridad abrieron fuego. El comandante local del NSCDC fue suspendido y se formó un comité federal de investigación de diez miembros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Le gouverneur Bago confirme la mort de 37 détenus en garde à vue de la NSCDC ; l'agence évoque d'abord une épidémie.",
+          "en": "Governor Bago confirms 37 detainees died in NSCDC custody; the agency initially cites a suspected disease outbreak.",
+          "es": "El gobernador Bago confirma que 37 detenidos murieron bajo custodia del NSCDC; la agencia cita inicialmente un presunto brote de enfermedad."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18-19/09/2026",
+          "en": "18-19/09/2026",
+          "es": "18-19/09/2026"
+        },
+        "d": {
+          "fr": "Des manifestations éclatent à Minna ; des témoins font état de tirs des forces de sécurité. Le commandant local de la NSCDC est suspendu et une commission d'enquête fédérale est créée.",
+          "en": "Protests break out in Minna; witnesses report security forces opening fire. The local NSCDC commandant is suspended and a federal investigative committee is formed.",
+          "es": "Estallan protestas en Minna; testigos denuncian disparos de las fuerzas de seguridad. El comandante local del NSCDC es suspendido y se crea una comisión federal de investigación."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "coords": [
+      32.2715,
+      30.5965
+    ],
+    "id": "suez-canal-revenus",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "Anadolu Agency",
+    "place": {
+      "fr": "Ismaïlia, Égypte",
+      "en": "Ismailia, Egypt",
+      "es": "Ismailía, Egipto"
+    },
+    "title": {
+      "fr": "Les revenus du canal de Suez rebondissent fortement en août",
+      "en": "Suez Canal revenue rebounds sharply in August",
+      "es": "Los ingresos del canal de Suez repuntan con fuerza en agosto"
+    },
+    "summary": {
+      "fr": "L'Autorité du canal de Suez a annoncé, autour du 21-22 septembre 2026, que les revenus du canal avaient bondi de 56,7 % sur un an en août, à environ 567,1 millions de dollars, avec 1 358 navires ayant transité (+27 %) et un tonnage net en hausse de plus de 50 %, à 68,3 millions de tonnes. Les autorités égyptiennes attribuent ce rebond à l'amélioration des conditions de sécurité en mer Rouge, après une longue période de trafic réduit liée aux attaques houthies contre des navires marchands.",
+      "en": "The Suez Canal Authority announced around September 21-22, 2026, that canal revenue jumped 56.7% year-on-year in August to about $567.1 million, with 1,358 vessel transits (up 27%) and net tonnage up more than 50% to 68.3 million tonnes. Egyptian officials attributed the rebound to improved security conditions in the Red Sea, following a prolonged slump in traffic linked to Houthi attacks on commercial shipping.",
+      "es": "La Autoridad del Canal de Suez anunció, en torno al 21-22 de septiembre de 2026, que los ingresos del canal se dispararon un 56,7 % interanual en agosto, hasta unos 567,1 millones de dólares, con 1358 tránsitos de buques (+27 %) y un tonelaje neto que aumentó más del 50 %, hasta 68,3 millones de toneladas. Las autoridades egipcias atribuyeron el repunte a la mejora de las condiciones de seguridad en el mar Rojo, tras un largo período de tráfico reducido vinculado a los ataques hutíes contra buques comerciales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-22/09/2026",
+          "en": "21-22/09/2026",
+          "es": "21-22/09/2026"
+        },
+        "d": {
+          "fr": "L'Autorité du canal publie les chiffres d'août, faisant état d'un net rebond du trafic et des revenus après la crise liée aux attaques en mer Rouge.",
+          "en": "The canal authority publishes August figures, showing a strong rebound in traffic and revenue following the Red Sea attack-related crisis.",
+          "es": "La autoridad del canal publica las cifras de agosto, que muestran un fuerte repunte del tráfico y los ingresos tras la crisis vinculada a los ataques en el mar Rojo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "coords": [
+      113.67,
+      -5.29
+    ],
+    "id": "indonesie-ferry-naufrage",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⛴️",
+    "source": "ABC News",
+    "place": {
+      "fr": "Mer de Java, entre Surabaya et Banjarmasin, Indonésie",
+      "en": "Java Sea, between Surabaya and Banjarmasin, Indonesia",
+      "es": "Mar de Java, entre Surabaya y Banjarmasin, Indonesia"
+    },
+    "title": {
+      "fr": "Le naufrage du ferry Virgo Transport 8 fait au moins 26 morts, plus de 100 disparus",
+      "en": "Ferry Virgo Transport 8 capsizes, at least 26 dead, more than 100 missing",
+      "es": "El naufragio del ferry Virgo Transport 8 deja al menos 26 muertos y más de 100 desaparecidos"
+    },
+    "summary": {
+      "fr": "Le ferry indonésien Virgo Transport 8, transportant environ 243 personnes et 89 véhicules, a chaviré le 13 septembre 2026 par gros temps en mer de Java, lors d'une traversée entre Surabaya (Java) et Banjarmasin (Kalimantan). Une force conjointe d'environ 280 personnes (marine, police maritime, agence de recherche et de sauvetage) mène depuis les opérations de secours. Le bilan n'a cessé de s'alourdir : 6 morts peu après le naufrage, 13 le 21 septembre, puis au moins 26 le 23 septembre, avec plus de 100 personnes toujours portées disparues. Les autorités ont donné des versions légèrement divergentes sur le fait que le navire ait coulé ou soit resté à la dérive, retourné.",
+      "en": "The Indonesian ferry Virgo Transport 8, carrying about 243 people and 89 vehicles, capsized on September 13, 2026 in rough weather in the Java Sea while sailing from Surabaya (Java) to Banjarmasin (Kalimantan). A roughly 280-strong joint task force — navy, maritime police, and the search-and-rescue agency — has been conducting recovery operations since. The death toll has climbed steadily: 6 shortly after the sinking, 13 by September 21, then at least 26 by September 23, with more than 100 people still listed as missing. Officials have given somewhat differing accounts of whether the vessel sank outright or remained adrift, capsized but afloat.",
+      "es": "El ferry indonesio Virgo Transport 8, con unas 243 personas y 89 vehículos a bordo, volcó el 13 de septiembre de 2026 debido al mal tiempo en el mar de Java, mientras navegaba de Surabaya (Java) a Banjarmasin (Kalimantan). Desde entonces, una fuerza conjunta de unas 280 personas —armada, policía marítima y la agencia de búsqueda y rescate— lleva a cabo las operaciones de recuperación. El número de muertos no ha dejado de aumentar: 6 poco después del naufragio, 13 el 21 de septiembre, y al menos 26 el 23 de septiembre, con más de 100 personas aún desaparecidas. Las autoridades han dado versiones algo divergentes sobre si el barco se hundió por completo o quedó a la deriva, volcado pero a flote."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/09/2026",
+          "en": "13/09/2026",
+          "es": "13/09/2026"
+        },
+        "d": {
+          "fr": "Le ferry Virgo Transport 8 chavire en mer de Java lors de la traversée Surabaya-Banjarmasin ; les opérations de recherche et de sauvetage débutent aussitôt.",
+          "en": "The ferry Virgo Transport 8 capsizes in the Java Sea during the Surabaya-Banjarmasin crossing; search and rescue operations begin immediately.",
+          "es": "El ferry Virgo Transport 8 vuelca en el mar de Java durante la travesía Surabaya-Banjarmasin; las operaciones de búsqueda y rescate comienzan de inmediato."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan atteint au moins 26 morts, avec plus de 100 personnes toujours portées disparues, alors que les équipes de plongeurs peinent face aux forts courants.",
+          "en": "The toll reaches at least 26 dead, with more than 100 people still missing, as dive teams struggle against strong currents.",
+          "es": "El balance alcanza al menos 26 muertos, con más de 100 personas aún desaparecidas, mientras los equipos de buceo luchan contra las fuertes corrientes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
   }
 ]
