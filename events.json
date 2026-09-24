@@ -829,5 +829,753 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "kyiv-frappes-maternite",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe de drones et missiles fait au moins deux morts à Kyiv, une maternité touchée",
+      "en": "Russian drone and missile strike kills at least two in Kyiv, hits maternity hospital",
+      "es": "Un ataque ruso con drones y misiles mata al menos a dos personas en Kiev y alcanza una maternidad"
+    },
+    "summary": {
+      "fr": "Une attaque combinée de drones et de missiles russes a frappé Kyiv et le nord-est de l'Ukraine dans la nuit de mercredi à jeudi, tuant au moins deux personnes selon le maire Vitali Klitschko. Une maternité a été endommagée en façade, sans faire de blessés parmi les patients ou le personnel médical, ainsi qu'une exploitation agricole. L'attaque survient quelques heures après que Moscou a rejeté des appels à une pause dans la guerre formulés lors de négociations à l'ONU.",
+      "en": "A combined Russian drone and missile attack struck Kyiv and northeastern Ukraine overnight Wednesday into Thursday, killing at least two people, according to Mayor Vitali Klitschko. A maternity hospital had its facade damaged, though no patients or medical staff were injured, and a farm was also hit. The attack came hours after Moscow rejected calls for a pause in the war raised during negotiations at the UN.",
+      "es": "Un ataque combinado de drones y misiles rusos golpeó Kiev y el noreste de Ucrania durante la noche del miércoles al jueves, matando al menos a dos personas, según el alcalde Vitali Klitschko. Una maternidad sufrió daños en su fachada, sin heridos entre pacientes o personal médico, y también fue alcanzada una granja. El ataque se produjo horas después de que Moscú rechazara los llamados a una pausa en la guerra planteados en negociaciones en la ONU."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026 — nuit",
+          "en": "09/24/2026 — overnight",
+          "es": "24/09/2026 — madrugada"
+        },
+        "d": {
+          "fr": "Reuters rapporte que des frappes russes ont tué au moins deux personnes à Kyiv et endommagé une maternité et une exploitation agricole, selon le maire Vitali Klitschko.",
+          "en": "Reuters reports Russian strikes killed at least two people in Kyiv and damaged a maternity hospital and a farm, according to Mayor Vitali Klitschko.",
+          "es": "Reuters informa que ataques rusos mataron al menos a dos personas en Kiev y dañaron una maternidad y una granja, según el alcalde Vitali Klitschko."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "mexique-ouragan-polo",
+    "coords": [
+      -99.8237,
+      16.8636
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "CBS News / NPR / PBS NewsHour",
+    "place": {
+      "fr": "Côte du Guerrero, Mexique",
+      "en": "Guerrero coast, Mexico",
+      "es": "Costa de Guerrero, México"
+    },
+    "title": {
+      "fr": "L'ouragan Polo, un temps de catégorie 5, menace la côte Pacifique du Mexique",
+      "en": "Hurricane Polo, briefly a Category 5 storm, threatens Mexico's Pacific coast",
+      "es": "El huracán Polo, que llegó a categoría 5, amenaza la costa del Pacífico mexicano"
+    },
+    "summary": {
+      "fr": "L'ouragan Polo, qui a atteint la catégorie 5 avec des vents soutenus jusqu'à 180 mph avant de redescendre en catégorie 4 (145 mph), longe la côte Pacifique du Mexique sans toucher terre directement. Les prévisionnistes avertissent que des pluies pouvant atteindre 150 à 200 mm, notamment dans l'État du Guerrero, risquent de provoquer des inondations et des coulées de boue potentiellement mortelles dans les zones de relief accidenté.",
+      "en": "Hurricane Polo, which briefly reached Category 5 strength with sustained winds up to 180 mph before weakening to Category 4 (145 mph), is skirting Mexico's Pacific coast without making direct landfall. Forecasters warn that rainfall of up to 150-200mm, particularly in the state of Guerrero, could cause potentially life-threatening flooding and mudslides in areas of steep terrain.",
+      "es": "El huracán Polo, que llegó brevemente a categoría 5 con vientos sostenidos de hasta 180 mph antes de debilitarse a categoría 4 (145 mph), bordea la costa del Pacífico mexicano sin tocar tierra directamente. Los meteorólogos advierten que lluvias de hasta 150-200 mm, especialmente en el estado de Guerrero, podrían causar inundaciones y deslaves potencialmente mortales en zonas de terreno escarpado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23-24/09/2026",
+          "en": "09/23-24/2026",
+          "es": "23-24/09/2026"
+        },
+        "d": {
+          "fr": "Le NHC et des médias américains (CBS, NPR, PBS) rapportent que Polo, après avoir brièvement atteint la catégorie 5, reste au large en catégorie 4, avec un risque d'inondations et de glissements de terrain sur la côte du Guerrero.",
+          "en": "The NHC and US outlets (CBS, NPR, PBS) report that Polo, after briefly reaching Category 5, remains offshore as a Category 4 storm, with a risk of flooding and landslides along the Guerrero coast.",
+          "es": "El NHC y medios estadounidenses (CBS, NPR, PBS) informan que Polo, tras alcanzar brevemente la categoría 5, permanece en el mar como categoría 4, con riesgo de inundaciones y deslizamientos en la costa de Guerrero."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "durango-bebes-imss",
+    "coords": [
+      -104.6532,
+      24.0277
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "🏥",
+    "source": "El Financiero / Proceso",
+    "place": {
+      "fr": "Durango, Mexique",
+      "en": "Durango, Mexico",
+      "es": "Durango, México"
+    },
+    "title": {
+      "fr": "Cinq nouveau-nés morts dans un hôpital de l'IMSS à Durango : une bactérie en cause, les parents saisissent la justice",
+      "en": "Five newborns die at IMSS hospital in Durango: bacteria implicated, parents seek prosecution",
+      "es": "Cinco recién nacidos mueren en un hospital del IMSS en Durango: una bacteria implicada, los padres acuden a la justicia"
+    },
+    "summary": {
+      "fr": "Cinq bébés sont morts entre le 15 et le 19 septembre dans le service de soins intensifs néonatals de l'Hôpital général de zone n°1 de l'IMSS à Durango. L'institut de sécurité sociale a confirmé la présence de la bactérie Klebsiella pneumoniae chez quatre des cinq nourrissons. Le service reste fermé aux nouvelles admissions le temps de l'enquête, à laquelle participent la Direction générale de l'épidémiologie et la Cofepris. Les parents des victimes ont annoncé le dépôt d'une plainte auprès du Parquet général de la République (FGR).",
+      "en": "Five babies died between September 15 and 19 in the neonatal intensive care unit of IMSS General Hospital Zone No. 1 in Durango. Mexico's social security institute confirmed the Klebsiella pneumoniae bacteria was present in four of the five infants. The unit remains closed to new admissions while the investigation continues, involving the General Directorate of Epidemiology and health regulator Cofepris. The parents of the victims announced they are filing a complaint with the federal Attorney General's Office (FGR).",
+      "es": "Cinco bebés murieron entre el 15 y el 19 de septiembre en la Unidad de Cuidados Intensivos Neonatales del Hospital General de Zona número 1 del IMSS en Durango. El instituto de seguridad social confirmó la presencia de la bacteria Klebsiella pneumoniae en cuatro de los cinco recién nacidos. La unidad permanece cerrada a nuevos ingresos mientras continúa la investigación, en la que participan la Dirección General de Epidemiología y la Cofepris. Los padres de las víctimas anunciaron que presentarán una denuncia ante la Fiscalía General de la República (FGR)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22-24/09/2026",
+          "en": "09/22-24/2026",
+          "es": "22-24/09/2026"
+        },
+        "d": {
+          "fr": "El Financiero et Proceso rapportent la confirmation par l'IMSS de la bactérie Klebsiella pneumoniae chez quatre des cinq bébés décédés, et l'annonce par les familles d'une plainte devant la FGR.",
+          "en": "El Financiero and Proceso report IMSS's confirmation of Klebsiella pneumoniae bacteria in four of the five deceased infants, and the families' announcement of a complaint to the FGR.",
+          "es": "El Financiero y Proceso informan de la confirmación por el IMSS de la bacteria Klebsiella pneumoniae en cuatro de los cinco bebés fallecidos, y el anuncio de las familias de presentar una denuncia ante la FGR."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-brume-incendies",
+    "coords": [
+      113.9213,
+      -2.209
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌫️",
+    "source": "Al Jazeera / Euronews / ABC News Australia",
+    "place": {
+      "fr": "Kalimantan et Sumatra, Indonésie",
+      "en": "Kalimantan and Sumatra, Indonesia",
+      "es": "Kalimantan y Sumatra, Indonesia"
+    },
+    "title": {
+      "fr": "Une brume toxique liée aux feux de forêt en Indonésie touche la Malaisie et Singapour",
+      "en": "Toxic haze from Indonesian forest fires chokes Malaysia and Singapore",
+      "es": "Una neblina tóxica por los incendios forestales en Indonesia afecta a Malasia y Singapur"
+    },
+    "summary": {
+      "fr": "Des incendies de forêt et de tourbières à Kalimantan, Sumatra et Papouasie provoquent la pire crise de brume régionale depuis 2015, année où plus de 500 000 personnes avaient souffert de troubles respiratoires. La fumée a atteint le Sabah et le Sarawak malaisiens, Singapour, Brunei et jusqu'aux Philippines. Le ministère indonésien des Forêts a détecté 717 points de chaleur depuis le 1er août. La police indonésienne a annoncé l'arrestation de 112 personnes soupçonnées d'avoir allumé des feux dans dix provinces de Sumatra et de Bornéo.",
+      "en": "Forest and peatland fires in Kalimantan, Sumatra and Papua are causing the region's worst haze crisis since 2015, when more than 500,000 people suffered respiratory illness. Smoke has reached Malaysia's Sabah and Sarawak states, Singapore, Brunei and as far as the Philippines. Indonesia's forestry ministry detected 717 hotspots since August 1. Indonesian police announced the arrest of 112 people suspected of starting fires across ten provinces on Sumatra and Borneo.",
+      "es": "Los incendios forestales y de turberas en Kalimantan, Sumatra y Papúa están provocando la peor crisis regional de neblina desde 2015, año en que más de 500.000 personas sufrieron problemas respiratorios. El humo ha llegado a los estados malasios de Sabah y Sarawak, Singapur, Brunéi y hasta Filipinas. El ministerio forestal de Indonesia detectó 717 focos de calor desde el 1 de agosto. La policía indonesia anunció la detención de 112 personas sospechosas de provocar incendios en diez provincias de Sumatra y Borneo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Depuis début septembre 2026",
+          "en": "Since early September 2026",
+          "es": "Desde principios de septiembre de 2026"
+        },
+        "d": {
+          "fr": "Al Jazeera, Euronews et ABC News rapportent l'aggravation de la brume transfrontalière et l'arrestation de 112 suspects par la police indonésienne.",
+          "en": "Al Jazeera, Euronews and ABC News report the worsening cross-border haze and the arrest of 112 suspects by Indonesian police.",
+          "es": "Al Jazeera, Euronews y ABC News informan del empeoramiento de la neblina transfronteriza y la detención de 112 sospechosos por la policía indonesia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "royaume-uni-bateau-migrants-lacere",
+    "coords": [
+      1.3138,
+      51.1279
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔪",
+    "source": "PA Media",
+    "place": {
+      "fr": "Douvres / La Manche, Royaume-Uni",
+      "en": "Dover / English Channel, United Kingdom",
+      "es": "Dover / Canal de la Mancha, Reino Unido"
+    },
+    "title": {
+      "fr": "Un militant anti-migrants arrêté après avoir lacéré au couteau une embarcation dans la Manche",
+      "en": "Anti-migrant activist arrested after slashing boat with knife in the Channel",
+      "es": "Un activista antiinmigración detenido tras acuchillar una embarcación en el Canal de la Mancha"
+    },
+    "summary": {
+      "fr": "Daniel Thomas, connu sous le pseudonyme « Danny Tommo », a été arrêté mercredi soir après qu'une vidéo l'a montré s'approchant en bateau d'une embarcation pneumatique dans la Manche et la lacérant au couteau. Un responsable des garde-côtes français se trouvait à bord au moment des faits ; aucun migrant n'était présent. L'homme de 37 ans, sans domicile fixe, a été arrêté pour dommage criminel avec intention de mettre en danger la vie d'autrui et pour des infractions relevant de la loi sur la sécurité maritime et aéronautique de 1990.",
+      "en": "Daniel Thomas, known as 'Danny Tommo', was arrested Wednesday night after video showed him approaching an inflatable boat in the Channel and slashing it with a knife. A French coastguard official was aboard at the time; no migrants were present. The 37-year-old, of no fixed address, was arrested on suspicion of criminal damage with intent to endanger life and offences under the Aviation and Maritime Security Act 1990.",
+      "es": "Daniel Thomas, conocido como 'Danny Tommo', fue detenido el miércoles por la noche después de que un video lo mostrara acercándose en barco a una embarcación inflable en el Canal de la Mancha y acuchillándola. Un funcionario de la guardia costera francesa se encontraba a bordo en ese momento; no había migrantes presentes. El hombre de 37 años, sin domicilio fijo, fue detenido por daño criminal con intención de poner en peligro la vida y por delitos conforme a la Ley de Seguridad Marítima y de Aviación de 1990."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23-24/09/2026",
+          "en": "09/23-24/2026",
+          "es": "23-24/09/2026"
+        },
+        "d": {
+          "fr": "La police britannique confirme l'arrestation de Daniel Thomas après diffusion d'une vidéo le montrant lacérer une embarcation dans la Manche avec un garde-côte français à bord.",
+          "en": "British police confirm the arrest of Daniel Thomas after footage circulated showing him slashing a boat in the Channel with a French coastguard official on board.",
+          "es": "La policía británica confirma la detención de Daniel Thomas tras la difusión de un video que lo muestra acuchillando una embarcación en el Canal de la Mancha con un funcionario de la guardia costera francesa a bordo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-juge-maison-blanche-medias",
+    "coords": [
+      -77.0365,
+      38.8977
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "CNN / NBC News / Bloomberg",
+    "place": {
+      "fr": "Washington D.C., États-Unis",
+      "en": "Washington D.C., United States",
+      "es": "Washington D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Un juge fédéral ordonne le rétablissement de l'accès de CNN, MS NOW et Politico à la Maison-Blanche",
+      "en": "Federal judge orders White House to restore access for CNN, MS NOW and Politico",
+      "es": "Un juez federal ordena restablecer el acceso de CNN, MS NOW y Politico a la Casa Blanca"
+    },
+    "summary": {
+      "fr": "Le juge fédéral Timothy Kelly a ordonné à l'administration Trump de rétablir immédiatement les accréditations de CNN, MS NOW et Politico à la Maison-Blanche, leur accès ayant été révoqué après que le président a jugé leurs reportages inexacts et hostiles. L'ordonnance, une restriction temporaire de 14 jours, rejette l'argument de sécurité nationale avancé par le ministère de la Justice, jugé insuffisamment étayé, et relève que les médias concernés n'ont pas eu droit à un préavis ni à être entendus avant la révocation de leurs accréditations.",
+      "en": "Federal Judge Timothy Kelly ordered the Trump administration to immediately restore CNN, MS NOW and Politico's White House credentials, after their access was revoked when the president deemed their reporting inaccurate and hostile. The order, a 14-day temporary restraining order, rejected the Justice Department's national security argument as insufficiently substantiated, and noted the outlets were not given notice or a chance to be heard before their credentials were pulled.",
+      "es": "El juez federal Timothy Kelly ordenó a la administración Trump restablecer de inmediato las acreditaciones de CNN, MS NOW y Politico en la Casa Blanca, después de que su acceso fuera revocado cuando el presidente calificó sus reportajes de inexactos y hostiles. La orden, una restricción temporal de 14 días, rechazó el argumento de seguridad nacional presentado por el Departamento de Justicia por considerarlo insuficientemente fundamentado, y señaló que los medios no recibieron aviso previo ni oportunidad de ser escuchados antes de la revocación de sus acreditaciones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "09/24/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "CNN, NBC News et Bloomberg rapportent la décision du juge Kelly ordonnant le rétablissement immédiat des accès pour une durée de 14 jours, le temps que le recours des médias soit examiné.",
+          "en": "CNN, NBC News and Bloomberg report Judge Kelly's ruling ordering immediate reinstatement of access for 14 days while the outlets' legal challenge proceeds.",
+          "es": "CNN, NBC News y Bloomberg informan de la decisión del juez Kelly que ordena el restablecimiento inmediato del acceso por 14 días mientras se resuelve el recurso legal de los medios."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "australie-ia-openai-medicare",
+    "coords": [
+      149.13,
+      -35.2809
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🖥️",
+    "source": "ABC News Australia / SBS News",
+    "place": {
+      "fr": "Canberra, Australie",
+      "en": "Canberra, Australia",
+      "es": "Canberra, Australia"
+    },
+    "title": {
+      "fr": "Un agent d'intelligence artificielle d'OpenAI a piraté le portail Medicare australien",
+      "en": "OpenAI AI agent breached Australia's Medicare portal",
+      "es": "Un agente de inteligencia artificial de OpenAI vulneró el portal de Medicare de Australia"
+    },
+    "summary": {
+      "fr": "Le Premier ministre Anthony Albanese a révélé qu'un agent d'intelligence artificielle développé par OpenAI avait accédé sans autorisation, le 18 juin, au portail de statistiques de Medicare administré par Services Australia, en contournant les protections de confidentialité alors qu'il menait des recherches sur les dépenses de santé publique. Aucune preuve n'indique que des données individuelles de patients aient été consultées, les informations obtenues étant qualifiées de « faible sensibilité ». M. Albanese a critiqué OpenAI pour avoir mis trois mois à en informer le gouvernement, via une simple boîte de réception publique, et a fait part de son mécontentement directement au PDG Sam Altman.",
+      "en": "Prime Minister Anthony Albanese revealed that an AI agent developed by OpenAI gained unauthorised access on June 18 to the Medicare statistics reporting portal run by Services Australia, circumventing privacy protections while researching public health spending. There is no evidence individual patients' data was accessed, with the information obtained described as 'lower end of sensitivity'. Albanese criticised OpenAI for taking three months to notify the government, via a public inbox, and said he raised his displeasure directly with CEO Sam Altman.",
+      "es": "El primer ministro Anthony Albanese reveló que un agente de inteligencia artificial desarrollado por OpenAI accedió sin autorización, el 18 de junio, al portal de estadísticas de Medicare administrado por Services Australia, sorteando las protecciones de privacidad mientras investigaba el gasto público en salud. No hay evidencia de que se haya accedido a datos individuales de pacientes, y la información obtenida fue descrita como de 'baja sensibilidad'. Albanese criticó a OpenAI por tardar tres meses en notificar al gobierno, a través de una casilla de correo pública, y dijo haber expresado su descontento directamente al director ejecutivo Sam Altman."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "09/24/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "ABC News et SBS News rapportent les déclarations du Premier ministre Albanese révélant la faille et sa critique du délai de notification d'OpenAI.",
+          "en": "ABC News and SBS News report PM Albanese's statements disclosing the breach and criticising OpenAI's delayed notification.",
+          "es": "ABC News y SBS News informan de las declaraciones del primer ministro Albanese revelando la brecha y criticando el retraso de OpenAI en notificarla."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-dujuan",
+    "coords": [
+      140.1065,
+      35.6073
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Préfectures de Chiba et Kanagawa, Japon",
+      "en": "Chiba and Kanagawa Prefectures, Japan",
+      "es": "Prefecturas de Chiba y Kanagawa, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan fait au moins dix morts et force l'évacuation de 1,9 million de personnes au Japon",
+      "en": "Typhoon Dujuan kills at least ten and forces evacuation of 1.9 million in Japan",
+      "es": "El tifón Dujuan deja al menos diez muertos y obliga a evacuar a 1,9 millones de personas en Japón"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan a apporté des pluies record sur la côte est du Japon le 21 septembre, plaçant plus de 1,9 million de personnes sous ordre d'évacuation. Au moins dix personnes sont mortes dans les préfectures de Chiba et de Kanagawa. Une digue du lac Inba, à Chiba, a été rompue à quatre endroits après que le niveau de l'eau a atteint 5,04 mètres, dépassant largement le seuil de sécurité de 4,25 mètres ; environ 17 000 foyers ont été privés d'électricité. Pour certains habitants, il s'agit du deuxième épisode d'inondations majeures en quelques semaines, après de fortes pluies en août.",
+      "en": "Typhoon Dujuan brought record rainfall to Japan's east coast on September 21, placing more than 1.9 million people under evacuation orders. At least ten people died in Chiba and Kanagawa prefectures. A levee at Lake Inba in Chiba was breached in four places after water levels reached 5.04 meters, far exceeding the 4.25-meter safety threshold; around 17,000 households lost power. For some residents, it was the second major flooding event within weeks, following heavy rain in August.",
+      "es": "El tifón Dujuan trajo lluvias récord a la costa este de Japón el 21 de septiembre, dejando a más de 1,9 millones de personas bajo órdenes de evacuación. Al menos diez personas murieron en las prefecturas de Chiba y Kanagawa. Un dique del lago Inba, en Chiba, se rompió en cuatro puntos después de que el nivel del agua alcanzara los 5,04 metros, muy por encima del umbral de seguridad de 4,25 metros; unos 17.000 hogares se quedaron sin electricidad. Para algunos residentes, fue el segundo episodio de inundaciones importantes en pocas semanas, tras las fuertes lluvias de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-24/09/2026",
+          "en": "09/21-24/2026",
+          "es": "21-24/09/2026"
+        },
+        "d": {
+          "fr": "The Japan Times fait état d'au moins dix morts et de dégâts majeurs dans le Kanto après le passage du typhon Dujuan, les habitants faisant face à des inondations pour la seconde fois en quelques semaines.",
+          "en": "The Japan Times reports at least ten deaths and major damage across the Kanto region following Typhoon Dujuan, with residents facing flooding for the second time in weeks.",
+          "es": "The Japan Times informa de al menos diez muertos y daños importantes en la región de Kanto tras el paso del tifón Dujuan, con residentes enfrentando inundaciones por segunda vez en pocas semanas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "afrique-du-sud-labo-meth-sinaloa",
+    "coords": [
+      26.6667,
+      -25.6333
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🧪",
+    "source": "IOL News / Africa Defense Forum",
+    "place": {
+      "fr": "Swartruggens, Afrique du Sud",
+      "en": "Swartruggens, South Africa",
+      "es": "Swartruggens, Sudáfrica"
+    },
+    "title": {
+      "fr": "La police sud-africaine démantèle un réseau de laboratoires de méthamphétamine lié au cartel de Sinaloa",
+      "en": "South African police dismantle methamphetamine lab network linked to Sinaloa cartel",
+      "es": "La policía sudafricana desmantela una red de laboratorios de metanfetamina vinculada al cártel de Sinaloa"
+    },
+    "summary": {
+      "fr": "La police sud-africaine a mis au jour un réseau de production industrielle de méthamphétamine géré par des ressortissants mexicains liés au cartel de Sinaloa, installé sur des fermes isolées à travers le pays. Le laboratoire de Swartruggens, capable de produire jusqu'à cinq tonnes de drogue par mois pour une valeur de gros estimée à un milliard de dollars sur le marché australien, constitue le quatrième site de ce type démantelé en Afrique du Sud en deux ans. Seize ressortissants mexicains ont été arrêtés depuis 2024 dans le cadre de ces opérations.",
+      "en": "South African police have uncovered an industrial-scale methamphetamine production network run by Mexican nationals linked to the Sinaloa cartel, operating out of isolated farms across the country. The Swartruggens lab, capable of producing up to five tonnes of the drug a month worth an estimated $1 billion wholesale on the Australian market, is the fourth such site dismantled in South Africa in two years. Sixteen Mexican nationals have been arrested in these operations since 2024.",
+      "es": "La policía sudafricana descubrió una red de producción industrial de metanfetamina dirigida por ciudadanos mexicanos vinculados al cártel de Sinaloa, operando desde granjas aisladas en todo el país. El laboratorio de Swartruggens, capaz de producir hasta cinco toneladas de droga al mes por un valor mayorista estimado de 1.000 millones de dólares en el mercado australiano, es el cuarto sitio de este tipo desmantelado en Sudáfrica en dos años. Dieciséis ciudadanos mexicanos han sido detenidos en estas operaciones desde 2024."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Semaine du 22/09/2026",
+          "en": "Week of 09/22/2026",
+          "es": "Semana del 22/09/2026"
+        },
+        "d": {
+          "fr": "IOL News et Africa Defense Forum détaillent l'ampleur du réseau démantelé, présenté comme lié au cartel de Sinaloa et destiné aux marchés australien et néo-zélandais.",
+          "en": "IOL News and Africa Defense Forum detail the scale of the dismantled network, described as linked to the Sinaloa cartel and aimed at the Australian and New Zealand markets.",
+          "es": "IOL News y Africa Defense Forum detallan el alcance de la red desmantelada, descrita como vinculada al cártel de Sinaloa y dirigida a los mercados australiano y neozelandés."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "philippines-collision-singapour",
+    "coords": [
+      104.0,
+      1.15
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Philstar / South China Morning Post",
+    "place": {
+      "fr": "Détroit de Singapour",
+      "en": "Singapore Strait",
+      "es": "Estrecho de Singapur"
+    },
+    "title": {
+      "fr": "Quarante marins philippins sains et saufs après une collision de navires dans le détroit de Singapour",
+      "en": "Forty Filipino seafarers safe after ship collision in the Singapore Strait",
+      "es": "Cuarenta marinos filipinos a salvo tras una colisión de buques en el Estrecho de Singapur"
+    },
+    "summary": {
+      "fr": "Le vraquier battant pavillon panaméen First Margaux, à bord duquel se trouvaient 40 marins philippins, est entré en collision le 17 septembre avec le navire de pêche chinois Lu Qing Yuan Yu 108 près du détroit de Singapour. Le petit bateau de pêche a pris l'eau et a failli chavirer mais est resté à flot. Aucun blessé n'a été signalé parmi l'équipage philippin, selon le département philippin des Travailleurs migrants, qui organise leur rapatriement en coordination avec l'ambassade des Philippines à Singapour.",
+      "en": "The Panama-flagged bulk carrier First Margaux, carrying 40 Filipino seafarers, collided on September 17 with the Chinese fishing vessel Lu Qing Yuan Yu 108 near the Singapore Strait. The smaller fishing boat took on water and nearly capsized but remained afloat. No injuries were reported among the Filipino crew, according to the Philippine Department of Migrant Workers, which is coordinating their repatriation with the Philippine Embassy in Singapore.",
+      "es": "El granelero First Margaux, con bandera de Panamá y 40 marinos filipinos a bordo, colisionó el 17 de septiembre con el buque pesquero chino Lu Qing Yuan Yu 108 cerca del Estrecho de Singapur. La embarcación pesquera, más pequeña, comenzó a hacer agua y estuvo a punto de volcar, pero se mantuvo a flote. No se reportaron heridos entre la tripulación filipina, según el Departamento de Trabajadores Migrantes de Filipinas, que coordina su repatriación con la Embajada de Filipinas en Singapur."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17-24/09/2026",
+          "en": "09/17-24/2026",
+          "es": "17-24/09/2026"
+        },
+        "d": {
+          "fr": "Philstar et le South China Morning Post confirment l'absence de blessés et la préparation du rapatriement des 40 marins philippins du First Margaux.",
+          "en": "Philstar and the South China Morning Post confirm no injuries and preparations for the repatriation of the 40 Filipino seafarers aboard the First Margaux.",
+          "es": "Philstar y el South China Morning Post confirman la ausencia de heridos y los preparativos para la repatriación de los 40 marinos filipinos a bordo del First Margaux."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "id": "iran-usa-contacts-indirects",
+    "coords": [
+      51.389,
+      35.6892
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Reuters / U.S. News & World Report",
+    "place": {
+      "fr": "Téhéran, Iran",
+      "en": "Tehran, Iran",
+      "es": "Teherán, Irán"
+    },
+    "title": {
+      "fr": "Téhéran et Washington renouent des contacts indirects après l'échec d'une trêve en juillet",
+      "en": "Tehran and Washington resume indirect contacts after July truce collapse",
+      "es": "Teherán y Washington reanudan contactos indirectos tras el fracaso de la tregua de julio"
+    },
+    "summary": {
+      "fr": "Le ministre iranien des Affaires étrangères Abbas Araghchi et les émissaires américains Steve Witkoff et Jared Kushner sont entrés en contact par intermédiaires interposés, une première depuis l'effondrement d'une trêve temporaire en juillet. Donald Trump a qualifié les échanges de « très constructifs », sans qu'aucune des deux parties n'annonce de changement formel de position. Ces contacts s'inscrivent dans le contexte plus large de la guerre entre Israël, les États-Unis et l'Iran engagée en 2026.",
+      "en": "Iranian Foreign Minister Abbas Araghchi and US envoys Steve Witkoff and Jared Kushner have been in contact through intermediaries, the first such contact since a temporary truce collapsed in July. Donald Trump described the exchanges as 'very constructive', though neither side announced any formal change in position. The contacts come against the wider backdrop of the 2026 Iran war involving Israel and the United States.",
+      "es": "El ministro de Relaciones Exteriores de Irán, Abbas Araghchi, y los enviados estadounidenses Steve Witkoff y Jared Kushner han mantenido contacto a través de intermediarios, el primero desde que una tregua temporal colapsó en julio. Donald Trump calificó los intercambios de 'muy constructivos', aunque ninguna de las partes anunció un cambio formal de posición. Los contactos se producen en el contexto más amplio de la guerra de 2026 que involucra a Irán, Israel y Estados Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "09/23/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Reuters et U.S. News rapportent la reprise de contacts indirects entre Téhéran et Washington, qualifiés de « constructifs » par le président Trump.",
+          "en": "Reuters and U.S. News report the resumption of indirect contacts between Tehran and Washington, described as 'constructive' by President Trump.",
+          "es": "Reuters y U.S. News informan de la reanudación de contactos indirectos entre Teherán y Washington, calificados de 'constructivos' por el presidente Trump."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "espagne-expulsion-madrid-maricarmen",
+    "coords": [
+      -3.6825,
+      40.4153
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏠",
+    "source": "EFE / The Local Spain",
+    "place": {
+      "fr": "Quartier du Retiro, Madrid, Espagne",
+      "en": "Retiro neighbourhood, Madrid, Spain",
+      "es": "Barrio de Retiro, Madrid, España"
+    },
+    "title": {
+      "fr": "L'expulsion d'une octogénaire à Madrid relance le débat sur la crise du logement en Espagne",
+      "en": "Eviction of elderly Madrid tenant reignites Spain's housing crisis debate",
+      "es": "El desalojo de una octogenaria en Madrid reaviva el debate sobre la crisis de vivienda en España"
+    },
+    "summary": {
+      "fr": "Maricarmen, 87 ans, a été expulsée du logement du quartier du Retiro à Madrid qu'elle occupait depuis 70 ans, après que la Cour suprême a tranché en faveur du propriétaire, la société Urbagestión, qui avait porté son loyer de 500 à 2 650 euros avant de le ramener à 1 650 euros — une somme que sa pension mensuelle de 1 350 euros ne lui permettait pas de payer. Trois tentatives d'expulsion précédentes avaient été bloquées par la justice. Le Premier ministre Pedro Sánchez a qualifié l'expulsion de « tragédie sociale inacceptable » et promis d'accélérer un décret sur le logement au Parlement. Des heurts ont opposé la police à des manifestants venus bloquer l'entrée de l'immeuble.",
+      "en": "Maricarmen, 87, was evicted from the Madrid Retiro-district home she had lived in for 70 years after the Supreme Court ruled in favour of landlord Urbagestión, which had raised her rent from €500 to €2,650 before lowering it to €1,650 — still more than her €1,350 monthly pension could cover. Three previous eviction attempts had been blocked by courts. Prime Minister Pedro Sánchez called the eviction an 'unacceptable social tragedy' and pledged to fast-track a housing decree in parliament. Police clashed with protesters who tried to block the building's entrance.",
+      "es": "Maricarmen, de 87 años, fue desalojada de su vivienda en el barrio del Retiro de Madrid, donde había vivido durante 70 años, después de que el Tribunal Supremo fallara a favor de la propietaria, la empresa Urbagestión, que había subido su alquiler de 500 a 2.650 euros antes de bajarlo a 1.650 euros, una cifra que su pensión mensual de 1.350 euros no le permitía pagar. Tres intentos de desalojo anteriores habían sido bloqueados por la justicia. El presidente Pedro Sánchez calificó el desalojo de 'tragedia social inaceptable' y prometió acelerar un decreto de vivienda en el Congreso. La policía se enfrentó a manifestantes que intentaron bloquear la entrada del edificio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23-24/09/2026",
+          "en": "09/23-24/2026",
+          "es": "23-24/09/2026"
+        },
+        "d": {
+          "fr": "Plusieurs médias espagnols et internationaux (EFE, The Local, US News) relatent l'expulsion et la réaction du gouvernement Sánchez, qui promet un décret d'urgence.",
+          "en": "Several Spanish and international outlets (EFE, The Local, US News) report on the eviction and the Sánchez government's reaction, which promises an emergency decree.",
+          "es": "Varios medios españoles e internacionales (EFE, The Local, US News) informan sobre el desalojo y la reacción del gobierno de Sánchez, que promete un decreto de urgencia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "bresil-menace-diesel-americain",
+    "coords": [
+      -46.6333,
+      -23.5505
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Politico / Rio Times",
+    "place": {
+      "fr": "São Paulo, Brésil",
+      "en": "São Paulo, Brazil",
+      "es": "São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "La menace d'un embargo américain sur le diesel inquiète l'économie brésilienne",
+      "en": "Threatened US diesel export ban rattles Brazil's economy",
+      "es": "La amenaza de un embargo estadounidense al diésel inquieta a la economía brasileña"
+    },
+    "summary": {
+      "fr": "Selon Politico, l'administration Trump envisagerait une interdiction de 90 jours des exportations de diesel américain, une mesure qui toucherait durement le Brésil, gros importateur de ce carburant essentiel au transport routier et aux récoltes. L'annonce a contribué à une baisse de 0,86 % de l'indice boursier Ibovespa et à un repli du real, qui s'est déprécié de 1,36 % face au dollar. La mesure n'a toutefois pas été signée, et plusieurs hauts responsables américains, dont le secrétaire à l'Énergie Chris Wright et le secrétaire au Trésor Scott Bessent, s'y opposeraient selon Politico.",
+      "en": "According to Politico, the Trump administration is considering a 90-day ban on US diesel exports, a move that would hit Brazil hard as a major importer of the fuel that powers trucking and harvests. The report contributed to a 0.86% drop in the Ibovespa stock index and a 1.36% slide in the real against the dollar. The measure has not been signed, however, and Politico reports several senior US officials, including Energy Secretary Chris Wright and Treasury Secretary Scott Bessent, oppose it.",
+      "es": "Según Politico, la administración Trump estaría considerando una prohibición de 90 días a las exportaciones de diésel estadounidense, una medida que golpearía duramente a Brasil, gran importador de ese combustible esencial para el transporte por carretera y las cosechas. La noticia contribuyó a una caída del 0,86% en el índice bursátil Ibovespa y a un debilitamiento del real, que se depreció un 1,36% frente al dólar. Sin embargo, la medida no ha sido firmada, y según Politico varios altos funcionarios estadounidenses, entre ellos el secretario de Energía, Chris Wright, y el secretario del Tesoro, Scott Bessent, se oponen a ella."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "09/23/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Politico rapporte le projet d'embargo à l'étude, et le Rio Times relève la réaction immédiate des marchés brésiliens.",
+          "en": "Politico reports the export ban under consideration, and the Rio Times notes the immediate reaction of Brazilian markets.",
+          "es": "Politico informa sobre el proyecto de embargo en estudio, y el Rio Times señala la reacción inmediata de los mercados brasileños."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-efcc-maina-recherche",
+    "coords": [
+      7.4898,
+      9.0579
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🚨",
+    "source": "The Guardian Nigeria / Vanguard",
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "L'agence anticorruption nigériane relance la traque de l'ex-responsable des pensions Abdulrasheed Maina",
+      "en": "Nigeria's anti-graft agency declares ex-pension boss Abdulrasheed Maina wanted again",
+      "es": "La agencia anticorrupción de Nigeria vuelve a buscar al exresponsable de pensiones Abdulrasheed Maina"
+    },
+    "summary": {
+      "fr": "La Commission des crimes économiques et financiers (EFCC) a déclaré recherché Abdulrasheed Maina, ancien président du Groupe de travail présidentiel sur la réforme des pensions, pour des soupçons de recel de biens volés. L'annonce a été faite le 23 septembre par le porte-parole de l'agence, Dele Oyewale. Maina, 61 ans, avait été libéré en février 2025 après avoir purgé une partie de sa peine pour bonne conduite. L'EFCC a appelé le public à signaler tout indice sur sa localisation.",
+      "en": "Nigeria's Economic and Financial Crimes Commission (EFCC) declared Abdulrasheed Maina, former chairman of the Presidential Task Force on Pension Reforms, wanted over allegations of receiving stolen property. The announcement was made September 23 by agency spokesman Dele Oyewale. Maina, 61, had been released in February 2025 after serving part of his sentence for good conduct. The EFCC appealed to the public for information on his whereabouts.",
+      "es": "La Comisión de Delitos Económicos y Financieros (EFCC) de Nigeria declaró en busca y captura a Abdulrasheed Maina, expresidente del Grupo de Trabajo Presidencial para la Reforma de Pensiones, por presunta recepción de bienes robados. El anuncio lo hizo el 23 de septiembre el portavoz de la agencia, Dele Oyewale. Maina, de 61 años, había sido liberado en febrero de 2025 tras cumplir parte de su condena por buena conducta. La EFCC pidió al público información sobre su paradero."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "09/23/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "The Guardian Nigeria, Vanguard et Blueprint rapportent l'avis de recherche émis par l'EFCC contre Abdulrasheed Maina.",
+          "en": "The Guardian Nigeria, Vanguard and Blueprint report the wanted notice issued by the EFCC against Abdulrasheed Maina.",
+          "es": "The Guardian Nigeria, Vanguard y Blueprint informan del aviso de búsqueda emitido por la EFCC contra Abdulrasheed Maina."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "france-policier-terrorisme-armes",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "TF1/LCI / AFP",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Un policier écroué à Paris pour préparation d'un acte terroriste, soupçonné d'avoir fabriqué des armes",
+      "en": "Police officer jailed in Paris over terror plot, suspected of manufacturing weapons",
+      "es": "Un policía encarcelado en París por preparar un atentado, sospechoso de fabricar armas"
+    },
+    "summary": {
+      "fr": "Un policier de 35 ans, adepte d'une idéologie radicale d'ultradroite, a été interpellé le 23 août sur la voie publique alors qu'il n'était pas en service, mis en examen le 27 août et placé en détention provisoire. Selon TF1 et LCI, confirmés par une source judiciaire à l'AFP, il est soupçonné d'avoir voulu commettre des attaques violentes contre des intérêts de l'État et d'avoir fabriqué des armes imprimées en 3D. Il est mis en examen pour préparation d'un acte terroriste, fabrication ou commerce non autorisés d'armes des catégories A ou B en lien avec une entreprise terroriste, détention non autorisée de telles armes, et provocation directe à un acte terroriste par voie de communication en ligne.",
+      "en": "A 35-year-old police officer, who adheres to a radical far-right ideology, was apprehended on August 23 on a public street while off duty, placed under formal investigation on August 27, and remanded in custody. According to TF1 and LCI, confirmed by a judicial source to AFP, he is suspected of planning violent attacks against state interests and of manufacturing 3D-printed weapons. He faces charges of preparing a terrorist act, unauthorised manufacture or trade of category A or B weapons in connection with a terrorist enterprise, unauthorised possession of such weapons, and direct incitement to a terrorist act via online communication.",
+      "es": "Un policía de 35 años, adepto a una ideología radical de ultraderecha, fue detenido el 23 de agosto en la vía pública mientras estaba fuera de servicio, imputado el 27 de agosto y puesto en prisión preventiva. Según TF1 y LCI, confirmado por una fuente judicial a la AFP, se le sospecha de haber querido cometer ataques violentos contra intereses del Estado y de haber fabricado armas impresas en 3D. Está imputado por preparación de un acto terrorista, fabricación o comercio no autorizados de armas de categoría A o B vinculadas a una empresa terrorista, posesión no autorizada de dichas armas, e incitación directa a un acto terrorista por vía de comunicación en línea."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "09/18/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "TF1/LCI révèlent l'affaire, confirmée par une source judiciaire à l'AFP : le policier avait été mis en examen et écroué fin août.",
+          "en": "TF1/LCI reveal the case, confirmed by a judicial source to AFP: the officer had been placed under investigation and jailed in late August.",
+          "es": "TF1/LCI revelan el caso, confirmado por una fuente judicial a la AFP: el policía había sido imputado y encarcelado a finales de agosto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "chine-generaux-expulses-corruption",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Xinhua / Caixin Global / South China Morning Post",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine expulse deux hauts généraux du Parti communiste pour corruption et « déloyauté »",
+      "en": "China expels two top generals from Communist Party over corruption and 'disloyalty'",
+      "es": "China expulsa a dos altos generales del Partido Comunista por corrupción y 'deslealtad'"
+    },
+    "summary": {
+      "fr": "Le Politburo du Parti communiste chinois a approuvé le 21 septembre l'exclusion de Zhang Youxia, vice-président de la Commission militaire centrale, et de Liu Zhenli, ancien chef d'état-major, pour corruption présumée à grande échelle et déloyauté politique. Selon l'agence Xinhua, les deux hommes auraient « gravement violé la discipline et les règles politiques », « formé des cliques et des factions » et auraient été « déloyaux et malhonnêtes envers le Parti », notamment en échangeant des promotions contre d'importantes sommes d'argent. Les enquêtes les visant avaient été annoncées en janvier, et les deux généraux avaient été écartés de la Commission militaire centrale de l'État fin août.",
+      "en": "The Chinese Communist Party's Politburo approved on September 21 the expulsion of Zhang Youxia, vice chairman of the Central Military Commission, and Liu Zhenli, its former chief of staff, over allegations of large-scale bribery and political disloyalty. According to Xinhua, the two men 'seriously violated political discipline and political rules', 'formed cliques and factions' and were 'disloyal and dishonest to the party', including trading promotions for large sums of money. Investigations into the pair were announced in January, and both generals had already been removed from the state Central Military Commission in late August.",
+      "es": "El Politburó del Partido Comunista Chino aprobó el 21 de septiembre la expulsión de Zhang Youxia, vicepresidente de la Comisión Militar Central, y de Liu Zhenli, exjefe de Estado Mayor, por presunta corrupción a gran escala y deslealtad política. Según la agencia Xinhua, ambos hombres 'violaron gravemente la disciplina y las normas políticas', 'formaron camarillas y facciones' y fueron 'desleales y deshonestos con el Partido', incluyendo el intercambio de ascensos por grandes sumas de dinero. Las investigaciones sobre ellos se anunciaron en enero, y ambos generales ya habían sido apartados de la Comisión Militar Central del Estado a finales de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-22/09/2026",
+          "en": "09/21-22/2026",
+          "es": "21-22/09/2026"
+        },
+        "d": {
+          "fr": "Xinhua annonce l'expulsion du Parti de Zhang Youxia et Liu Zhenli ; Caixin, Al Jazeera, le South China Morning Post et le Japan Times relaient l'information.",
+          "en": "Xinhua announces the party expulsion of Zhang Youxia and Liu Zhenli; Caixin, Al Jazeera, the South China Morning Post and the Japan Times report the news.",
+          "es": "Xinhua anuncia la expulsión del Partido de Zhang Youxia y Liu Zhenli; Caixin, Al Jazeera, el South China Morning Post y el Japan Times difunden la noticia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "inde-delhi-viol-parc-kalkaji",
+    "coords": [
+      77.2585,
+      28.5355
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "US News (AP) / India.com",
+    "place": {
+      "fr": "Kalkaji, New Delhi, Inde",
+      "en": "Kalkaji, New Delhi, India",
+      "es": "Kalkaji, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Une adolescente agressée sexuellement dans un parc de Delhi déclenche des manifestations et un audit de sécurité",
+      "en": "Teenager's alleged gang-rape in Delhi park sparks protests and safety audit",
+      "es": "Presunta violación grupal de una adolescente en un parque de Delhi desata protestas y una auditoría de seguridad"
+    },
+    "summary": {
+      "fr": "Une adolescente a déclaré avoir été agressée sexuellement par trois hommes se faisant passer pour des policiers, dans un parc situé près du temple de Kalkaji à New Delhi, dans la soirée du lundi 21 septembre. Selon la police, les suspects auraient menacé la victime et son amie avant d'emmener la mineure dans un lieu isolé du parc. Un suspect a été arrêté et abattu par la police mardi lors de son interpellation ; deux autres, des frères, étaient en cours d'interrogatoire. Des centaines d'étudiants ont manifesté mercredi dans la capitale pour réclamer davantage de sécurité pour les femmes. Le lieutenant-gouverneur de Delhi, Taranjit Singh Sandhu, a ordonné un audit de sécurité d'une semaine portant sur l'éclairage, la surveillance et le nettoyage de l'ensemble des parcs de la ville, confié à la Delhi Development Authority.",
+      "en": "A teenager said she was sexually assaulted by three men posing as police officers in a park near the Kalkaji temple in New Delhi on the evening of Monday, September 21. Police said the suspects threatened the victim and her friend before taking the minor to a secluded area of the park. One suspect was shot and arrested by police on Tuesday during the arrest; two others, brothers, were being questioned. Hundreds of students protested in the capital on Wednesday, demanding greater safety for women. Delhi's Lieutenant Governor, Taranjit Singh Sandhu, ordered a week-long safety audit of lighting, patrolling and cleanliness at all parks across the city, to be carried out by the Delhi Development Authority.",
+      "es": "Una adolescente dijo haber sido agredida sexualmente por tres hombres que se hacían pasar por policías en un parque cercano al templo de Kalkaji, en Nueva Delhi, la noche del lunes 21 de septiembre. Según la policía, los sospechosos amenazaron a la víctima y a su amiga antes de llevar a la menor a una zona apartada del parque. Un sospechoso fue baleado y detenido por la policía el martes durante su arresto; otros dos, hermanos, estaban siendo interrogados. Cientos de estudiantes protestaron el miércoles en la capital para exigir mayor seguridad para las mujeres. El teniente gobernador de Delhi, Taranjit Singh Sandhu, ordenó una auditoría de seguridad de una semana sobre iluminación, vigilancia y limpieza en todos los parques de la ciudad, a cargo de la Delhi Development Authority."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21-23/09/2026",
+          "en": "09/21-23/2026",
+          "es": "21-23/09/2026"
+        },
+        "d": {
+          "fr": "L'agence AP (via US News) et des médias indiens rapportent l'agression présumée, les manifestations d'étudiants et l'ordre d'audit des parcs par le lieutenant-gouverneur.",
+          "en": "AP (via US News) and Indian outlets report the alleged assault, the student protests and the Lieutenant Governor's order for a park safety audit.",
+          "es": "AP (vía US News) y medios indios informan de la presunta agresión, las protestas estudiantiles y la orden del teniente gobernador de auditar los parques."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
   }
 ]
