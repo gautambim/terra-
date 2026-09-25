@@ -829,5 +829,766 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "etats-unis-noreaster-septembre",
+    "coords": [
+      -71.0589,
+      42.3601
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪",
+    "source": "PBS NewsHour / NPR",
+    "place": {
+      "fr": "Côte Est des États-Unis (Caroline du Nord à la Nouvelle-Angleterre), impact maximal attendu sur Boston, Massachusetts",
+      "en": "US East Coast (North Carolina to New England), peak impact expected around Boston, Massachusetts",
+      "es": "Costa este de Estados Unidos (Carolina del Norte a Nueva Inglaterra), impacto máximo previsto en Boston, Massachusetts"
+    },
+    "title": {
+      "fr": "Un nor'easter rare menace plus de 40 millions de personnes sur la côte Est",
+      "en": "A rare September nor'easter threatens more than 40 million people on the US East Coast",
+      "es": "Un raro nor'easter de septiembre amenaza a más de 40 millones de personas en la costa este de EE. UU."
+    },
+    "summary": {
+      "fr": "Une tempête de type hivernal, inhabituelle pour un mois de septembre, frappe la côte Est américaine, avec des vents violents et de fortes vagues déjà signalés en Caroline du Nord et en Virginie. Les prévisionnistes attendent le plus fort impact dans la nuit de vendredi à samedi, avec jusqu'à un mois de pluie en quelques heures sur le Rhode Island et le Massachusetts, dont Boston.",
+      "en": "A winter-style storm unusual for September is hitting the US East Coast, with fierce winds and high waves already reported in North Carolina and Virginia. Forecasters expect the biggest impact overnight Friday into Saturday, with up to a month's worth of rain falling in hours over Rhode Island and Massachusetts, including Boston.",
+      "es": "Una tormenta de tipo invernal, inusual para septiembre, golpea la costa este de Estados Unidos, con vientos fuertes y olas intensas ya registrados en Carolina del Norte y Virginia. Los meteorólogos esperan el mayor impacto en la noche del viernes al sábado, con hasta un mes de lluvia en pocas horas sobre Rhode Island y Massachusetts, incluida Boston."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Le nor'easter touche déjà la Caroline du Nord et la Virginie avec des vents violents ; le pic est attendu ce week-end sur le Massachusetts et le Rhode Island.",
+          "en": "The nor'easter is already affecting North Carolina and Virginia with fierce winds; the peak is expected this weekend over Massachusetts and Rhode Island.",
+          "es": "El nor'easter ya afecta a Carolina del Norte y Virginia con vientos fuertes; se espera el pico este fin de semana sobre Massachusetts y Rhode Island."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-presse-maison-blanche",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR / Euronews",
+    "place": {
+      "fr": "Washington, D.C., États-Unis (Maison-Blanche)",
+      "en": "Washington, D.C., United States (White House)",
+      "es": "Washington D.C., Estados Unidos (Casa Blanca)"
+    },
+    "title": {
+      "fr": "Un juge fédéral ordonne le rétablissement de l'accès de CNN, MS NOW et Politico à la Maison-Blanche",
+      "en": "Federal judge orders CNN, MS NOW and Politico's access to the White House restored",
+      "es": "Un juez federal ordena restablecer el acceso de CNN, MS NOW y Politico a la Casa Blanca"
+    },
+    "summary": {
+      "fr": "Le juge fédéral Timothy Kelly a estimé que le retrait des accréditations de presse de CNN, MS NOW et Politico par l'administration Trump avait probablement violé leurs droits constitutionnels à une procédure régulière. Les trois médias, exclus depuis plusieurs semaines de la couverture des événements de la Maison-Blanche, ont retrouvé un accès temporaire à la suite de cette décision de justice.",
+      "en": "District Judge Timothy Kelly ruled that the Trump administration's revocation of CNN, MS NOW and Politico's press credentials likely violated their constitutional due-process rights. The three outlets, which had been barred from covering White House events for several weeks, regained temporary access following the ruling.",
+      "es": "El juez federal Timothy Kelly dictaminó que la revocación de las acreditaciones de prensa de CNN, MS NOW y Politico por parte de la administración Trump probablemente violó sus derechos constitucionales al debido proceso. Los tres medios, que habían sido excluidos durante varias semanas de la cobertura de eventos en la Casa Blanca, recuperaron un acceso temporal tras el fallo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Un juge fédéral ordonne le rétablissement temporaire de l'accès de CNN, MS NOW et Politico aux événements de la Maison-Blanche.",
+          "en": "A federal judge orders the temporary restoration of CNN, MS NOW and Politico's access to White House events.",
+          "es": "Un juez federal ordena el restablecimiento temporal del acceso de CNN, MS NOW y Politico a los eventos de la Casa Blanca."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-frappes-24-septembre",
+    "coords": [
+      36.2304,
+      49.9935
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Associated Press (via ABC News, Washington Times)",
+    "place": {
+      "fr": "Région de Kharkiv et Kyiv, Ukraine",
+      "en": "Kharkiv region and Kyiv, Ukraine",
+      "es": "Región de Járkiv y Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Des frappes russes tuent au moins 8 civils en Ukraine, dont six ouvriers agricoles",
+      "en": "Russian strikes kill at least 8 civilians in Ukraine, including six farm workers",
+      "es": "Ataques rusos matan al menos a 8 civiles en Ucrania, entre ellos seis trabajadores agrícolas"
+    },
+    "summary": {
+      "fr": "Des frappes de drones et de missiles russes menées dans la nuit ont fait au moins huit morts civils en Ukraine, selon les autorités ukrainiennes. Dans la région de Kharkiv, une frappe a tué six ouvriers agricoles et en a blessé douze autres. À Kyiv, une attaque distincte a tué un homme et une femme et provoqué des incendies dans plusieurs quartiers de la capitale.",
+      "en": "Overnight Russian drone and missile strikes killed at least eight civilians in Ukraine, according to Ukrainian officials. In the Kharkiv region, a strike killed six agricultural workers and wounded twelve others. In Kyiv, a separate attack killed a man and a woman and sparked fires in several districts of the capital.",
+      "es": "Ataques rusos con drones y misiles durante la noche mataron al menos a ocho civiles en Ucrania, según las autoridades ucranianas. En la región de Járkiv, un ataque mató a seis trabajadores agrícolas e hirió a otros doce. En Kiev, un ataque separado mató a un hombre y una mujer y provocó incendios en varios distritos de la capital."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "Des frappes russes tuent au moins 8 civils : six ouvriers agricoles dans la région de Kharkiv, un homme et une femme à Kyiv.",
+          "en": "Russian strikes kill at least 8 civilians: six farm workers in the Kharkiv region, a man and a woman in Kyiv.",
+          "es": "Ataques rusos matan al menos a 8 civiles: seis trabajadores agrícolas en la región de Járkiv, un hombre y una mujer en Kiev."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "mexique-ouragan-polo",
+    "coords": [
+      -99.8901,
+      16.8531
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "NPR / CBS News / National Hurricane Center",
+    "place": {
+      "fr": "Au large de la côte Pacifique du Mexique (de Guerrero à la Basse-Californie du Sud)",
+      "en": "Off Mexico's Pacific coast (from Guerrero to Baja California Sur)",
+      "es": "Frente a la costa del Pacífico de México (de Guerrero a Baja California Sur)"
+    },
+    "title": {
+      "fr": "L'ouragan Polo atteint la catégorie 5 au large des côtes mexicaines",
+      "en": "Hurricane Polo reaches Category 5 off Mexico's coast",
+      "es": "El huracán Polo alcanza la categoría 5 frente a las costas de México"
+    },
+    "summary": {
+      "fr": "L'ouragan Polo s'est intensifié rapidement pour atteindre la catégorie 5, avec des vents soutenus proches de 260 km/h selon le Centre national des ouragans américain, devenant l'un des ouragans les plus puissants jamais enregistrés dans le Pacifique Est après Patricia en 2015. Selon la présidente mexicaine Claudia Sheinbaum, la tempête ne devrait pas toucher terre, mais ses bandes pluvieuses atteignent déjà le sud-ouest du Mexique.",
+      "en": "Hurricane Polo rapidly intensified to Category 5, with sustained winds near 160 mph (260 km/h) according to the US National Hurricane Center, making it one of the most powerful storms ever recorded in the Eastern Pacific after 2015's Hurricane Patricia. Mexican President Claudia Sheinbaum said the storm is not expected to make landfall, but its outer rainbands are already reaching southwestern Mexico.",
+      "es": "El huracán Polo se intensificó rápidamente hasta alcanzar la categoría 5, con vientos sostenidos cercanos a 260 km/h según el Centro Nacional de Huracanes de EE. UU., convirtiéndose en uno de los huracanes más potentes registrados en el Pacífico oriental tras el Patricia de 2015. Según la presidenta mexicana Claudia Sheinbaum, se prevé que la tormenta no toque tierra, pero sus bandas de lluvia ya afectan al suroeste de México."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Le Centre national des ouragans confirme que Polo a atteint la catégorie 5, avec des vents proches de 260 km/h.",
+          "en": "The National Hurricane Center confirms Polo has reached Category 5, with winds near 260 km/h.",
+          "es": "El Centro Nacional de Huracanes confirma que Polo alcanzó la categoría 5, con vientos cercanos a 260 km/h."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "indonesie-anak-krakatau-iles",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN / Agence géologique indonésienne (ministère de l'Énergie et des Ressources minières)",
+    "place": {
+      "fr": "Détroit de la Sonde, autour du volcan Anak Krakatau, Indonésie",
+      "en": "Sunda Strait, around Mount Anak Krakatau, Indonesia",
+      "es": "Estrecho de la Sonda, alrededor del volcán Anak Krakatau, Indonesia"
+    },
+    "title": {
+      "fr": "De nouvelles îles apparaissent près du volcan Anak Krakatau après une série d'éruptions",
+      "en": "New islands emerge near Mount Anak Krakatau after a series of eruptions",
+      "es": "Nuevas islas emergen cerca del volcán Anak Krakatau tras una serie de erupciones"
+    },
+    "summary": {
+      "fr": "L'agence géologique indonésienne a détecté deux nouvelles îles, au nord-ouest et au sud-est du volcan Anak Krakatau, après une série d'éruptions continues début septembre dans le détroit de la Sonde. Les retombées de cendres avaient temporairement perturbé le trafic aérien, notamment à l'aéroport de Jakarta, rouvert depuis.",
+      "en": "Indonesia's Geological Agency has detected two new islands, northwest and southeast of Mount Anak Krakatau, following a series of continuous eruptions in early September in the Sunda Strait. Volcanic ash had temporarily disrupted air traffic, including at Jakarta's airport, which has since reopened.",
+      "es": "La Agencia Geológica de Indonesia detectó dos nuevas islas, al noroeste y al sureste del volcán Anak Krakatau, tras una serie de erupciones continuas a principios de septiembre en el estrecho de la Sonda. La ceniza volcánica había interrumpido temporalmente el tráfico aéreo, incluido el aeropuerto de Yakarta, que ya reabrió."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Après plusieurs jours d'éruptions continues, deux nouvelles îles sont repérées près du volcan et l'aéroport de Jakarta rouvre une fois les cendres dissipées.",
+          "en": "After several days of continuous eruptions, two new islands are spotted near the volcano and Jakarta's airport reopens once the ash clears.",
+          "es": "Tras varios días de erupciones continuas, se detectan dos nuevas islas cerca del volcán y el aeropuerto de Yakarta reabre una vez disipada la ceniza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "japon-typhon-dujuan-kanto",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌪",
+    "source": "The Japan Times / Agence météorologique du Japon",
+    "place": {
+      "fr": "Région du Kanto (Tokyo et environs), Japon",
+      "en": "Kanto region (Tokyo area), Japan",
+      "es": "Región de Kanto (zona de Tokio), Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan frappe la région du Kanto avec pluies torrentielles et vents violents",
+      "en": "Typhoon Dujuan hits the Kanto region with torrential rain and violent winds",
+      "es": "El tifón Dujuan golpea la región de Kanto con lluvias torrenciales y vientos violentos"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan est passé au large de la région du Kanto-Koshin entre le 21 et le 23 septembre, apportant jusqu'à 400 mm de pluie et des vagues de 6 mètres selon l'Agence météorologique du Japon, qui a averti d'un risque accru de glissements de terrain et d'inondations. La tempête s'est affaiblie en dépression extratropicale le 23 septembre.",
+      "en": "Typhoon Dujuan passed close to the Kanto-Koshin region between September 21 and 23, bringing up to 400 mm of rain and 6-meter waves, according to the Japan Meteorological Agency, which warned of an increased risk of landslides and flooding. The storm weakened into an extratropical low on September 23.",
+      "es": "El tifón Dujuan pasó cerca de la región de Kanto-Koshin entre el 21 y el 23 de septiembre, dejando hasta 400 mm de lluvia y olas de 6 metros, según la Agencia Meteorológica de Japón, que advirtió de un mayor riesgo de deslizamientos de tierra e inundaciones. La tormenta se debilitó hasta convertirse en una baja extratropical el 23 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dujuan touche la région du Kanto avec pluies torrentielles et vents violents, avant de s'affaiblir le 23 septembre.",
+          "en": "Typhoon Dujuan affects the Kanto region with torrential rain and violent winds, before weakening on September 23.",
+          "es": "El tifón Dujuan afecta la región de Kanto con lluvias torrenciales y vientos violentos, antes de debilitarse el 23 de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "bresil-interdiction-paris-en-ligne",
+    "coords": [
+      -46.6333,
+      -23.5505
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🎰",
+    "source": "Bloomberg / SBC News",
+    "place": {
+      "fr": "São Paulo, Brésil",
+      "en": "São Paulo, Brazil",
+      "es": "São Paulo, Brasil"
+    },
+    "title": {
+      "fr": "Le président Lula annonce l'interdiction des paris en ligne au Brésil avant l'élection",
+      "en": "President Lula announces a ban on online betting in Brazil ahead of the election",
+      "es": "El presidente Lula anuncia la prohibición de las apuestas en línea en Brasil antes de la elección"
+    },
+    "summary": {
+      "fr": "Le président Luiz Inácio Lula da Silva a signé une mesure provisoire interdisant les paris en ligne au Brésil, une promesse de campagne présentée lors d'un événement à São Paulo le 25 septembre, neuf jours avant le premier tour de la présidentielle du 4 octobre. La décision vise à répondre aux inquiétudes croissantes concernant le surendettement des ménages lié aux jeux d'argent en ligne.",
+      "en": "President Luiz Inácio Lula da Silva signed a provisional measure banning online betting in Brazil, a campaign pledge unveiled at an event in São Paulo on September 25, nine days before the October 4 first round of the presidential election. The move addresses growing concerns over household debt linked to online gambling.",
+      "es": "El presidente Luiz Inácio Lula da Silva firmó una medida provisional que prohíbe las apuestas en línea en Brasil, una promesa de campaña presentada en un evento en São Paulo el 25 de septiembre, nueve días antes de la primera vuelta de las elecciones presidenciales del 4 de octubre. La medida busca atender la creciente preocupación por el sobreendeudamiento de los hogares vinculado al juego en línea."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Lula signe une mesure provisoire interdisant les paris en ligne, présentée lors d'un événement à São Paulo.",
+          "en": "Lula signs a provisional measure banning online betting, unveiled at an event in São Paulo.",
+          "es": "Lula firma una medida provisional que prohíbe las apuestas en línea, presentada en un evento en São Paulo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "inde-jeux-asiatiques-tir-pistolet",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥇",
+    "source": "Olympics.com",
+    "place": {
+      "fr": "Nagoya/Aichi, Japon (Jeux asiatiques 2026)",
+      "en": "Nagoya/Aichi, Japan (2026 Asian Games)",
+      "es": "Nagoya/Aichi, Japón (Juegos Asiáticos 2026)"
+    },
+    "title": {
+      "fr": "L'Inde décroche l'or au pistolet 10 m mixte avec un record asiatique aux Jeux asiatiques",
+      "en": "India wins mixed 10m air pistol gold with an Asian record at the Asian Games",
+      "es": "India gana el oro en pistola de aire 10 m mixto con récord asiático en los Juegos Asiáticos"
+    },
+    "summary": {
+      "fr": "Les tireurs indiens Suruchi Singh et Kamaljeet ont remporté la médaille d'or du 10 m pistolet à air mixte aux Jeux asiatiques 2026, avec un score record pour l'Asie de 484,6 points. Il s'agit de la deuxième médaille d'or de l'Inde à ces Jeux, après celle de l'équipe féminine de cricket.",
+      "en": "Indian shooters Suruchi Singh and Kamaljeet won gold in the mixed 10m air pistol event at the 2026 Asian Games, with an Asian-record score of 484.6 points. It is India's second gold medal of the Games, after the women's cricket team's title.",
+      "es": "Los tiradores indios Suruchi Singh y Kamaljeet ganaron el oro en pistola de aire 10 m mixto en los Juegos Asiáticos 2026, con una puntuación récord de Asia de 484,6 puntos. Es la segunda medalla de oro de India en estos Juegos, tras la del equipo femenino de críquet."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Suruchi Singh et Kamaljeet remportent l'or au pistolet 10 m mixte avec un record asiatique.",
+          "en": "Suruchi Singh and Kamaljeet win gold in the mixed 10m air pistol event with an Asian record.",
+          "es": "Suruchi Singh y Kamaljeet ganan el oro en pistola de aire 10 m mixto con récord asiático."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-ifo-septembre",
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Institut ifo",
+    "place": {
+      "fr": "Munich, Allemagne (Institut ifo)",
+      "en": "Munich, Germany (ifo Institute)",
+      "es": "Múnich, Alemania (Instituto ifo)"
+    },
+    "title": {
+      "fr": "L'indice du climat des affaires ifo atteint son plus haut niveau depuis 2023 en Allemagne",
+      "en": "Germany's ifo business climate index hits its highest level since 2023",
+      "es": "El índice de clima empresarial ifo de Alemania alcanza su nivel más alto desde 2023"
+    },
+    "summary": {
+      "fr": "L'indice ifo du climat des affaires en Allemagne est monté à 89,9 points en septembre, contre 88,8 en août, dépassant les attentes du marché. Il s'agit de la cinquième hausse mensuelle consécutive et du plus haut niveau depuis mai 2023, porté par une amélioration des attentes dans l'industrie et les services malgré des prix de l'énergie élevés.",
+      "en": "Germany's ifo business climate index rose to 89.9 points in September, up from 88.8 in August, beating market expectations. It marks the fifth consecutive monthly increase and the highest level since May 2023, driven by improved expectations in manufacturing and services despite high energy prices.",
+      "es": "El índice de clima empresarial ifo de Alemania subió a 89,9 puntos en septiembre, frente a 88,8 en agosto, superando las expectativas del mercado. Es el quinto aumento mensual consecutivo y el nivel más alto desde mayo de 2023, impulsado por una mejora de las expectativas en la industria y los servicios pese a los altos precios de la energía."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "L'institut ifo publie son indice de septembre, en hausse à 89,9 points, son plus haut niveau depuis mai 2023.",
+          "en": "The ifo Institute releases its September index, up to 89.9 points, its highest level since May 2023.",
+          "es": "El instituto ifo publica su índice de septiembre, que sube a 89,9 puntos, su nivel más alto desde mayo de 2023."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "chine-pboc-taux-inchanges",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Banque populaire de Chine / Reuters",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Banque populaire de Chine laisse ses taux de référence inchangés pour le 16e mois consécutif",
+      "en": "China's central bank keeps benchmark lending rates unchanged for a 16th straight month",
+      "es": "El banco central de China mantiene sin cambios sus tasas de referencia por 16.º mes consecutivo"
+    },
+    "summary": {
+      "fr": "La Banque populaire de Chine a maintenu ses taux préférentiels de prêt (LPR) à 3,00 % sur un an et 3,50 % sur cinq ans, conformément aux attentes des marchés. Il s'agit du seizième mois consécutif de statu quo, alors que le yuan continue de se renforcer.",
+      "en": "The People's Bank of China kept its one-year and five-year loan prime rates unchanged at 3.00% and 3.50% respectively, in line with market expectations. It is the 16th straight month rates have held steady, even as the yuan continues to strengthen.",
+      "es": "El Banco Popular de China mantuvo sus tasas preferenciales de préstamo (LPR) a un año y cinco años sin cambios, en 3,00 % y 3,50 % respectivamente, en línea con las expectativas del mercado. Es el decimosexto mes consecutivo sin variaciones, mientras el yuan sigue fortaleciéndose."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "La Banque populaire de Chine annonce le maintien des taux LPR à 3,00 % et 3,50 %.",
+          "en": "The People's Bank of China announces the LPRs will remain at 3.00% and 3.50%.",
+          "es": "El Banco Popular de China anuncia que las tasas LPR se mantienen en 3,00 % y 3,50 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "france-pompiers-greve-climat",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🚒",
+    "source": "Connexion France / The Local France",
+    "place": {
+      "fr": "France (mobilisation nationale, rassemblements à Paris)",
+      "en": "France (nationwide mobilization, rallies in Paris)",
+      "es": "Francia (movilización nacional, concentraciones en París)"
+    },
+    "title": {
+      "fr": "Pompiers en grève et marches climatiques prévues dans 400 villes en France",
+      "en": "Firefighters on strike and climate marches planned in 400 French towns",
+      "es": "Bomberos en huelga y marchas climáticas previstas en 400 ciudades de Francia"
+    },
+    "summary": {
+      "fr": "Neuf syndicats de sapeurs-pompiers professionnels ont déposé un préavis de grève courant du 8 septembre au 20 octobre, réclamant plus de moyens et de personnel après un été marqué par des vagues de chaleur et des incendies. Des marches climatiques sont prévues le 26 septembre dans environ 400 villes, et les pompiers doivent organiser des rassemblements statiques à Paris du 26 au 28 septembre avant une mobilisation nationale le 29.",
+      "en": "Nine professional firefighters' unions have filed a strike notice running from September 8 to October 20, demanding more resources and staff after a summer marked by heatwaves and wildfires. Climate marches are planned for September 26 in around 400 towns, and firefighters are set to hold static protests in Paris from September 26 to 28 ahead of a nationwide mobilization on the 29th.",
+      "es": "Nueve sindicatos de bomberos profesionales presentaron un preaviso de huelga vigente del 8 de septiembre al 20 de octubre, exigiendo más recursos y personal tras un verano marcado por olas de calor e incendios. Se han programado marchas climáticas para el 26 de septiembre en unas 400 ciudades, y los bomberos realizarán concentraciones estáticas en París del 26 al 28 de septiembre antes de una movilización nacional el día 29."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les syndicats de pompiers déposent un préavis de grève national réclamant plus de moyens.",
+          "en": "Firefighters' unions file a nationwide strike notice demanding more resources.",
+          "es": "Los sindicatos de bomberos presentan un preaviso de huelga nacional exigiendo más recursos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Des marches climatiques sont prévues dans environ 400 villes françaises, en parallèle des rassemblements de pompiers à Paris.",
+          "en": "Climate marches are planned in around 400 French towns, alongside firefighters' rallies in Paris.",
+          "es": "Se prevén marchas climáticas en unas 400 ciudades francesas, junto con concentraciones de bomberos en París."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "coree-sud-exportations-puces-ia",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📦",
+    "source": "Bloomberg / Administration coréenne des douanes",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Les exportations sud-coréennes s'envolent grâce à la demande de puces liées à l'IA",
+      "en": "South Korea's exports surge on AI-driven chip demand",
+      "es": "Las exportaciones de Corea del Sur se disparan por la demanda de chips de IA"
+    },
+    "summary": {
+      "fr": "Les exportations sud-coréennes ont bondi de 78,3 % sur un an lors des vingt premiers jours de septembre, à 71,4 milliards de dollars, selon les douanes coréennes citées par Bloomberg. Les exportations de semi-conducteurs, portées par la demande de puces pour l'intelligence artificielle, ont atteint un record de 34,1 milliards de dollars sur la période, en hausse de 259 %, soit près de 48 % des exportations totales.",
+      "en": "South Korea's exports jumped 78.3% year-on-year in the first 20 days of September, reaching $71.4 billion, according to Korean customs data cited by Bloomberg. Semiconductor exports, driven by AI chip demand, hit a record $34.1 billion over the period, up 259%, accounting for nearly 48% of total exports.",
+      "es": "Las exportaciones de Corea del Sur crecieron un 78,3 % interanual en los primeros 20 días de septiembre, hasta los 71.400 millones de dólares, según datos de aduanas coreanas citados por Bloomberg. Las exportaciones de semiconductores, impulsadas por la demanda de chips de IA, alcanzaron un récord de 34.100 millones de dólares en el período, un aumento del 259 %, cerca del 48 % de las exportaciones totales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Les données douanières montrent un bond de 78,3 % des exportations sur les vingt premiers jours de septembre, tiré par les semi-conducteurs liés à l'IA.",
+          "en": "Customs data show a 78.3% jump in exports over the first 20 days of September, driven by AI-related semiconductors.",
+          "es": "Los datos de aduanas muestran un salto del 78,3 % en las exportaciones durante los primeros 20 días de septiembre, impulsado por los semiconductores relacionados con la IA."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-inondations-ebonyi",
+    "coords": [
+      8.03,
+      6.05
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "P.M. News Nigeria / Agence nigériane des services hydrologiques (NiHSA)",
+    "place": {
+      "fr": "Akaeze, zone de gouvernement local d'Ivo, État d'Ebonyi, Nigeria",
+      "en": "Akaeze, Ivo Local Government Area, Ebonyi State, Nigeria",
+      "es": "Akaeze, área de gobierno local de Ivo, estado de Ebonyi, Nigeria"
+    },
+    "title": {
+      "fr": "Des inondations détruisent des dizaines de maisons dans l'État d'Ebonyi, au Nigeria",
+      "en": "Floods destroy dozens of homes in Nigeria's Ebonyi State",
+      "es": "Inundaciones destruyen decenas de viviendas en el estado nigeriano de Ebonyi"
+    },
+    "summary": {
+      "fr": "Au moins 60 maisons et des terres agricoles ont été détruites et environ 300 personnes déplacées par des inondations dans la localité d'Amaegbu, à Akaeze, dans l'État d'Ebonyi, selon des médias nigérians. L'Agence nigériane des services hydrologiques (NiHSA) avait averti d'un risque accru d'inondations fluviales dans quinze États, dont l'Ebonyi, entre le 19 et le 25 septembre.",
+      "en": "At least 60 houses and farmland were destroyed and around 300 people displaced by flooding in Amaegbu, Akaeze, in Ebonyi State, according to Nigerian media. The Nigeria Hydrological Services Agency (NiHSA) had warned of a heightened risk of riverine flooding in fifteen states, including Ebonyi, between September 19 and 25.",
+      "es": "Al menos 60 viviendas y tierras de cultivo fueron destruidas y unas 300 personas desplazadas por inundaciones en Amaegbu, Akaeze, en el estado de Ebonyi, según medios nigerianos. La Agencia Nigeriana de Servicios Hidrológicos (NiHSA) había advertido de un mayor riesgo de inundaciones fluviales en quince estados, incluido Ebonyi, entre el 19 y el 25 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Des inondations débutées mardi détruisent des dizaines de maisons et déplacent environ 300 personnes à Akaeze.",
+          "en": "Flooding that began on Tuesday destroys dozens of homes and displaces around 300 people in Akaeze.",
+          "es": "Las inundaciones que comenzaron el martes destruyen decenas de viviendas y desplazan a unas 300 personas en Akaeze."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "id": "egypte-condamnations-mort-trafic-drogue",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Al Jazeera / CNN / The National",
+    "place": {
+      "fr": "Le Caire, Égypte (tribunal criminel du Caire)",
+      "en": "Cairo, Egypt (Cairo Criminal Court)",
+      "es": "El Cairo, Egipto (Tribunal Penal de El Cairo)"
+    },
+    "title": {
+      "fr": "Douze personnes condamnées à mort en Égypte dans une vaste affaire de trafic de drogue, dont la présentatrice Sarah Khalifa",
+      "en": "Twelve people, including TV presenter Sarah Khalifa, sentenced to death in Egypt in major drug trafficking case",
+      "es": "Doce personas, entre ellas la presentadora Sarah Khalifa, condenadas a muerte en Egipto en un gran caso de narcotráfico"
+    },
+    "summary": {
+      "fr": "Le tribunal criminel du Caire a condamné à mort par pendaison douze personnes, dont la présentatrice de télévision Sarah Khalifa, 39 ans, pour constitution d'un groupe criminel organisé lié à la fabrication et au trafic de stupéfiants, ainsi que possession d'armes non déclarées. Sur les 28 personnes jugées dans une affaire portant sur plus de 750 kg de stupéfiants, neuf ont été condamnées à la prison à vie et sept acquittées. Khalifa, qui clame son innocence, a annoncé faire appel.",
+      "en": "Cairo's Criminal Court sentenced twelve people to death by hanging, including 39-year-old TV presenter Sarah Khalifa, for forming an organized criminal group linked to drug manufacturing and trafficking, as well as possessing unlicensed firearms. Of the 28 people tried in a case involving more than 750 kg of narcotics, nine were sentenced to life imprisonment and seven were acquitted. Khalifa, who maintains her innocence, has said she will appeal.",
+      "es": "El Tribunal Penal de El Cairo condenó a muerte por ahorcamiento a doce personas, entre ellas la presentadora de televisión Sarah Khalifa, de 39 años, por formar un grupo criminal organizado vinculado a la fabricación y el tráfico de estupefacientes, además de posesión de armas no autorizadas. De las 28 personas juzgadas en un caso que involucra más de 750 kg de narcóticos, nueve fueron condenadas a cadena perpetua y siete absueltas. Khalifa, que se declara inocente, anunció que apelará."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/09/2026",
+          "en": "06/09/2026",
+          "es": "06/09/2026"
+        },
+        "d": {
+          "fr": "Le tribunal criminel du Caire prononce la peine de mort contre douze accusés, dont Sarah Khalifa, qui annonce faire appel.",
+          "en": "Cairo's Criminal Court hands down death sentences against twelve defendants, including Sarah Khalifa, who says she will appeal.",
+          "es": "El Tribunal Penal de El Cairo dicta sentencia de muerte contra doce acusados, entre ellos Sarah Khalifa, quien anuncia que apelará."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 3
+  },
+  {
+    "id": "canada-incendie-ditch2-condamnation",
+    "coords": [
+      -105.3667,
+      54.75
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CBC News / CP24",
+    "place": {
+      "fr": "Weyakwin / Montreal Lake, Saskatchewan, Canada",
+      "en": "Weyakwin / Montreal Lake, Saskatchewan, Canada",
+      "es": "Weyakwin / Montreal Lake, Saskatchewan, Canadá"
+    },
+    "title": {
+      "fr": "La Couronne réclame 10 ans de prison pour l'homme à l'origine d'un méga-incendie en Saskatchewan",
+      "en": "Crown seeks 10-year sentence for man who started massive Saskatchewan wildfire",
+      "es": "La Fiscalía pide 10 años de prisión para el hombre que provocó un megaincendio en Saskatchewan"
+    },
+    "summary": {
+      "fr": "Jason Halkett, 29 ans, qui avait plaidé coupable d'incendie criminel ayant causé des dommages matériels, a comparu le 17 septembre devant le tribunal provincial de Montreal Lake pour une audience de détermination de la peine. Le feu, parti le 26 mai 2025 près de Weyakwin, avait brûlé plus de 200 000 hectares et forcé l'évacuation de plusieurs communautés avant d'être maîtrisé le 13 août 2025. La Couronne réclame une peine de 10 ans, la peine maximale prévue par le Code criminel étant de 14 ans ; le jugement n'avait pas encore été rendu fin septembre.",
+      "en": "Jason Halkett, 29, who had pleaded guilty to arson causing property damage, appeared on September 17 before the Montreal Lake provincial court for a sentencing hearing. The fire, which started on May 26, 2025 near Weyakwin, burned more than 200,000 hectares and forced the evacuation of several communities before being brought under control on August 13, 2025. The Crown is seeking a 10-year sentence, the maximum under the Criminal Code being 14 years; a final ruling had not yet been handed down as of late September.",
+      "es": "Jason Halkett, de 29 años, quien se había declarado culpable de incendio provocado con daños materiales, compareció el 17 de septiembre ante el tribunal provincial de Montreal Lake para una audiencia de determinación de la pena. El incendio, iniciado el 26 de mayo de 2025 cerca de Weyakwin, quemó más de 200.000 hectáreas y obligó a evacuar varias comunidades antes de ser controlado el 13 de agosto de 2025. La Fiscalía pide una pena de 10 años, siendo el máximo previsto por el Código Penal de 14 años; el fallo aún no se había dictado a finales de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "Audience de détermination de la peine devant le tribunal de Montreal Lake ; la Couronne plaide pour 10 ans de prison.",
+          "en": "Sentencing hearing before the Montreal Lake court; the Crown argues for a 10-year prison term.",
+          "es": "Audiencia de determinación de la pena ante el tribunal de Montreal Lake; la Fiscalía pide una condena de 10 años."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
+  },
+  {
+    "id": "russie-banque-centrale-taux-directeur",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Russia Matters / Banque centrale de Russie",
+    "place": {
+      "fr": "Moscou, Russie",
+      "en": "Moscow, Russia",
+      "es": "Moscú, Rusia"
+    },
+    "title": {
+      "fr": "La Banque centrale de Russie maintient son taux directeur à 14 % pour juguler l'inflation",
+      "en": "Russia's Central Bank holds key rate at 14% to curb inflation",
+      "es": "El Banco Central de Rusia mantiene su tasa clave en 14 % para contener la inflación"
+    },
+    "summary": {
+      "fr": "La Banque centrale de Russie a maintenu son taux directeur à 14 %, un niveau élevé destiné à contenir une inflation perçue par la population à environ 13 %. Le déficit du budget fédéral a atteint 5 790 milliards de roubles entre janvier et août 2026, dans un contexte de poursuite de la guerre en Ukraine et de sanctions occidentales.",
+      "en": "Russia's Central Bank kept its key interest rate at a high 14%, aimed at curbing inflation the public perceives at around 13%. The federal budget deficit reached 5.79 trillion rubles between January and August 2026, amid the ongoing war in Ukraine and Western sanctions.",
+      "es": "El Banco Central de Rusia mantuvo su tasa de interés clave en un elevado 14 %, orientada a contener una inflación que la población percibe en torno al 13 %. El déficit del presupuesto federal alcanzó los 5,79 billones de rublos entre enero y agosto de 2026, en medio de la continuación de la guerra en Ucrania y las sanciones occidentales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale annonce le maintien de son taux directeur à 14 %.",
+          "en": "The Central Bank announces its key rate will remain at 14%.",
+          "es": "El Banco Central anuncia que su tasa clave se mantiene en 14 %."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 2
+  },
+  {
+    "id": "royaume-uni-iran-avertissement-territoire",
+    "coords": [
+      -0.1276,
+      51.5072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Sky News / US News",
+    "place": {
+      "fr": "Londres, Royaume-Uni (rencontre en marge de l'Assemblée générale de l'ONU à New York)",
+      "en": "London, United Kingdom (meeting on the sidelines of the UN General Assembly in New York)",
+      "es": "Londres, Reino Unido (reunión al margen de la Asamblea General de la ONU en Nueva York)"
+    },
+    "title": {
+      "fr": "Le Royaume-Uni avertit l'Iran qu'il ne tolérera aucune activité hostile sur son sol",
+      "en": "UK warns Iran it will not tolerate hostile activity on British soil",
+      "es": "Reino Unido advierte a Irán que no tolerará actividad hostil en su territorio"
+    },
+    "summary": {
+      "fr": "Le secrétaire au Foreign Office Ed Miliband a averti son homologue iranien Abbas Araghchi, lors d'une rencontre en marge de l'Assemblée générale de l'ONU à New York, que le Royaume-Uni ne tolérerait ni intimidation, ni menaces, ni activité hostile liée à l'Iran sur le sol britannique, y compris celles visant la communauté juive britannique. Il a appelé Téhéran à privilégier la désescalade et la diplomatie.",
+      "en": "Foreign Secretary Ed Miliband warned his Iranian counterpart Abbas Araghchi, during a meeting on the sidelines of the UN General Assembly in New York, that the UK would not tolerate intimidation, threats or Iran-linked hostile activity on British soil, including activity targeting the British Jewish community. He urged Tehran to pursue de-escalation and diplomacy.",
+      "es": "El secretario de Asuntos Exteriores Ed Miliband advirtió a su homólogo iraní Abbas Araghchi, durante una reunión al margen de la Asamblea General de la ONU en Nueva York, que el Reino Unido no toleraría intimidación, amenazas ni actividad hostil vinculada a Irán en suelo británico, incluida la dirigida contra la comunidad judía británica. Instó a Teherán a optar por la desescalada y la diplomacia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "Ed Miliband avertit Abbas Araghchi que le Royaume-Uni ne tolérera aucune activité hostile liée à l'Iran sur son territoire.",
+          "en": "Ed Miliband warns Abbas Araghchi that the UK will not tolerate Iran-linked hostile activity on its territory.",
+          "es": "Ed Miliband advierte a Abbas Araghchi que el Reino Unido no tolerará actividad hostil vinculada a Irán en su territorio."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W39",
+    "priority": 1
   }
 ]
