@@ -829,5 +829,923 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "ukraine-kyiv-drones",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent, Euronews, US News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Quartier de Petchersk, Kiev, Ukraine",
+      "en": "Pecherskyi district, Kyiv, Ukraine",
+      "es": "Distrito de Pechersk, Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe tue un adolescent à Kiev",
+      "en": "Russian drone strike kills a teenager in Kyiv",
+      "es": "Un ataque con drones ruso mata a un adolescente en Kiev"
+    },
+    "summary": {
+      "fr": "Un drone russe a percuté un immeuble résidentiel de 16 étages dans le quartier de Petchersk à Kiev, tuant un garçon de 14 ans et blessant au moins sept personnes, selon la police nationale ukrainienne et plusieurs médias internationaux.",
+      "en": "A Russian drone struck a 16-storey residential building in Kyiv's Pecherskyi district, killing a 14-year-old boy and injuring at least seven people, according to Ukraine's National Police and several international outlets.",
+      "es": "Un dron ruso impactó contra un edificio residencial de 16 plantas en el distrito de Pechersk de Kiev, matando a un niño de 14 años y dejando al menos siete heridos, según la policía nacional ucraniana y varios medios internacionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "Des missiles balistiques russes tuent deux personnes et en blessent huit à Kiev, selon l'armée de l'air ukrainienne.",
+          "en": "Russian ballistic missiles kill two people and injure eight in Kyiv, according to Ukraine's Air Force.",
+          "es": "Misiles balísticos rusos matan a dos personas y hieren a ocho en Kiev, según la fuerza aérea ucraniana."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Un drone frappe un immeuble résidentiel de Petchersk, tuant un adolescent de 14 ans et blessant au moins sept personnes, selon la police.",
+          "en": "A drone hits a residential building in Pecherskyi, killing a 14-year-old and injuring at least seven, according to police.",
+          "es": "Un dron golpea un edificio residencial de Pechersk, matando a un adolescente de 14 años e hiriendo al menos a siete personas, según la policía."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "nigeria-mineurs-nscdc",
+    "coords": [
+      6.5569,
+      9.6139
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕯️",
+    "source": "AP/US News, Vanguard, Channels Television",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Minna, État du Niger, Nigeria",
+      "en": "Minna, Niger State, Nigeria",
+      "es": "Minna, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "37 mineurs artisanaux meurent en détention au Nigeria, des officiers suspendus",
+      "en": "37 artisanal miners die in custody in Nigeria, officers suspended",
+      "es": "37 mineros artesanales mueren bajo custodia en Nigeria y se suspende a varios agentes"
+    },
+    "summary": {
+      "fr": "Trente-sept personnes arrêtées lors d'opérations contre l'orpaillage illégal dans l'État du Niger sont mortes en cellule de la police paramilitaire NSCDC à Minna, selon des survivants et des médias nigérians. Le président Bola Tinubu a ordonné une enquête après des protestations et un couvre-feu.",
+      "en": "Thirty-seven people arrested during raids on illegal gold mining in Niger State died in the cells of the paramilitary Nigeria Security and Civil Defence Corps (NSCDC) in Minna, according to survivors and Nigerian media. President Bola Tinubu ordered an investigation after protests and a curfew.",
+      "es": "Treinta y siete personas detenidas durante operativos contra la minería ilegal de oro en el estado de Níger murieron en las celdas del cuerpo paramilitar NSCDC en Minna, según supervivientes y medios nigerianos. El presidente Bola Tinubu ordenó una investigación tras las protestas y un toque de queda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15-16/09/2026",
+          "en": "15-16/09/2026",
+          "es": "15-16/09/2026"
+        },
+        "d": {
+          "fr": "Des dizaines de suspects sont arrêtés lors de raids anti-orpaillage à M.I. Wushishi et Lukoto, selon les autorités.",
+          "en": "Dozens of suspects are arrested in anti-illegal-mining raids at M.I. Wushishi and Lukoto, authorities say.",
+          "es": "Decenas de sospechosos son detenidos en redadas contra la minería ilegal en M.I. Wushishi y Lukoto, según las autoridades."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "17/09/2026",
+          "en": "17/09/2026",
+          "es": "17/09/2026"
+        },
+        "d": {
+          "fr": "37 détenus meurent en cellule ; des survivants affirment qu'une substance a été pulvérisée dans une cellule surpeuplée, selon US News.",
+          "en": "37 detainees die in a cell; survivors say a substance was sprayed into an overcrowded cell, according to US News.",
+          "es": "37 detenidos mueren en una celda; supervivientes afirman que se roció una sustancia en una celda superpoblada, según US News."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "18-20/09/2026",
+          "en": "18-20/09/2026",
+          "es": "18-20/09/2026"
+        },
+        "d": {
+          "fr": "Des affrontements lors des protestations font un mort, un couvre-feu est imposé, et le commandant NSCDC de l'État ainsi que 20 autres agents sont suspendus.",
+          "en": "Clashes during protests leave one dead, a curfew is imposed, and the state NSCDC commandant and 20 other officers are suspended.",
+          "es": "Enfrentamientos durante las protestas dejan un muerto, se impone un toque de queda y se suspende al comandante estatal del NSCDC y a otros 20 agentes."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "mexique-ouragan-polo",
+    "coords": [
+      -109.9167,
+      22.8905
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "NPR, CBS News, Washington Post",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Basse-Californie du Sud, côte Pacifique, Mexique",
+      "en": "Baja California Sur, Pacific coast, Mexico",
+      "es": "Baja California Sur, costa del Pacífico, México"
+    },
+    "title": {
+      "fr": "L'ouragan Polo, catégorie 5, menace la côte Pacifique du Mexique",
+      "en": "Category 5 Hurricane Polo threatens Mexico's Pacific coast",
+      "es": "El huracán Polo, categoría 5, amenaza la costa del Pacífico de México"
+    },
+    "summary": {
+      "fr": "L'ouragan Polo a atteint la catégorie 5 avec des vents soutenus proches de 260 km/h au large du Mexique, selon le NHC cité par CBS News et NPR. Des alertes de crues et de coulées de boue potentiellement mortelles ont été émises pour le Michoacán, le Colima, le Jalisco et le Nayarit alors que la tempête approche la pointe sud de la Basse-Californie.",
+      "en": "Hurricane Polo strengthened to Category 5 with sustained winds near 160 mph off Mexico's coast, according to the US National Hurricane Center cited by CBS News and NPR. Warnings of potentially life-threatening flooding and mudslides were issued for Michoacán, Colima, Jalisco and Nayarit as the storm approaches the southern tip of Baja California.",
+      "es": "El huracán Polo se fortaleció hasta la categoría 5 con vientos sostenidos cercanos a los 260 km/h frente a la costa mexicana, según el Centro Nacional de Huracanes de EE.UU. citado por CBS News y NPR. Se emitieron alertas de inundaciones y deslizamientos potencialmente mortales para Michoacán, Colima, Jalisco y Nayarit mientras la tormenta se acerca al extremo sur de Baja California."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Polo atteint la catégorie 5, devenant le troisième ouragan de cette intensité de la saison dans le Pacifique, selon le NHC.",
+          "en": "Polo reaches Category 5, becoming the third storm of that intensity of the Pacific season, according to the NHC.",
+          "es": "Polo alcanza la categoría 5, convirtiéndose en la tercera tormenta de esa intensidad de la temporada en el Pacífico, según el NHC."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "26-27/09/2026",
+          "en": "26-27/09/2026",
+          "es": "26-27/09/2026"
+        },
+        "d": {
+          "fr": "La tempête doit approcher la pointe sud de la Basse-Californie, avec un risque de crues éclair et de houle dangereuse sur la côte, selon le NHC.",
+          "en": "The storm is expected to approach the southern tip of Baja California, with a risk of flash flooding and dangerous surf along the coast, the NHC says.",
+          "es": "Se espera que la tormenta se acerque al extremo sur de Baja California, con riesgo de inundaciones repentinas y oleaje peligroso en la costa, según el NHC."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "indonesie-krakatau",
+    "coords": [
+      105.423,
+      -6.102
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌋",
+    "source": "CNN, Al Jazeera, The Jakarta Post",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Détroit de la Sonde, Indonésie",
+      "en": "Sunda Strait, Indonesia",
+      "es": "Estrecho de la Sonda, Indonesia"
+    },
+    "title": {
+      "fr": "L'éruption du volcan Anak Krakatau paralyse le trafic aérien en Indonésie",
+      "en": "Anak Krakatau eruption grounds flights across Indonesia",
+      "es": "La erupción del volcán Anak Krakatau paraliza el tráfico aéreo en Indonesia"
+    },
+    "summary": {
+      "fr": "Le volcan Anak Krakatau est entré en éruption continue dans le détroit de la Sonde, projetant des cendres jusqu'à 15 000 mètres d'altitude, selon Al Jazeera. Huit aéroports, dont l'aéroport international Soekarno-Hatta de Jakarta, ont suspendu leurs opérations, perturbant environ 2 900 vols et laissant plus de 270 000 passagers bloqués.",
+      "en": "Anak Krakatau volcano entered a continuous eruption in the Sunda Strait, sending ash as high as 15,000 metres, according to Al Jazeera. Eight airports, including Jakarta's Soekarno-Hatta International Airport, suspended operations, disrupting roughly 2,900 flights and stranding more than 270,000 passengers.",
+      "es": "El volcán Anak Krakatau entró en erupción continua en el estrecho de la Sonda, lanzando cenizas hasta 15.000 metros de altura, según Al Jazeera. Ocho aeropuertos, incluido el aeropuerto internacional Soekarno-Hatta de Yakarta, suspendieron sus operaciones, afectando a unos 2.900 vuelos y dejando varados a más de 270.000 pasajeros."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/09/2026",
+          "en": "05/09/2026",
+          "es": "05/09/2026"
+        },
+        "d": {
+          "fr": "Le volcan entre en éruption continue en soirée, avec des grondements audibles jusqu'à 700 km, selon des témoins cités par la presse indonésienne.",
+          "en": "The volcano begins continuous eruption in the evening, with rumbling reportedly heard up to 700 km away, according to witnesses cited by Indonesian media.",
+          "es": "El volcán entra en erupción continua por la noche, con estruendos que se habrían escuchado hasta a 700 km de distancia, según testigos citados por la prensa indonesia."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "09/09/2026",
+          "en": "09/09/2026",
+          "es": "09/09/2026"
+        },
+        "d": {
+          "fr": "Cinq aéroports, dont Soekarno-Hatta, rouvrent après le nettoyage des infrastructures critiques, selon CNN.",
+          "en": "Five airports, including Soekarno-Hatta, reopen after critical infrastructure is cleared of ash, according to CNN.",
+          "es": "Cinco aeropuertos, incluido Soekarno-Hatta, reabren tras la limpieza de la infraestructura crítica, según CNN."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "chine-generaux-purge",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "Bloomberg, Al Jazeera, US News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine exclut deux généraux de haut rang pour corruption et déloyauté",
+      "en": "China expels two top generals for corruption and disloyalty",
+      "es": "China expulsa a dos altos generales por corrupción y deslealtad"
+    },
+    "summary": {
+      "fr": "Le Parti communiste chinois a exclu Zhang Youxia, ex-numéro deux de la Commission militaire centrale, et Liu Zhenli, ancien chef d'état-major, les accusant d'avoir formé des clientèles et perçu d'importants pots-de-vin, selon Bloomberg et Al Jazeera. Les deux hommes avaient déjà été écartés de la Commission militaire centrale fin août.",
+      "en": "China's Communist Party expelled Zhang Youxia, the former second-ranking officer on the Central Military Commission, and Liu Zhenli, former chief of the Joint Staff Department, accusing them of forming cliques and taking large bribes, according to Bloomberg and Al Jazeera. Both men had already been removed from the Central Military Commission in late August.",
+      "es": "El Partido Comunista de China expulsó a Zhang Youxia, exsegundo oficial de mayor rango de la Comisión Militar Central, y a Liu Zhenli, exjefe del Estado Mayor Conjunto, acusándolos de formar camarillas y recibir grandes sobornos, según Bloomberg y Al Jazeera. Ambos ya habían sido apartados de la Comisión Militar Central a finales de agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Le bureau politique, présidé par Xi Jinping, approuve formellement l'exclusion des deux généraux du parti et de l'armée, selon Bloomberg.",
+          "en": "The Politburo, chaired by Xi Jinping, formally approves expelling the two generals from the party and military, according to Bloomberg.",
+          "es": "El Buró Político, presidido por Xi Jinping, aprueba formalmente la expulsión de los dos generales del partido y del ejército, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
+  },
+  {
+    "id": "usa-cour-supreme-missouri",
+    "coords": [
+      -77.0091,
+      38.8977
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "NPR, The Washington Post, Missouri Independent",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Washington D.C. / Missouri, États-Unis",
+      "en": "Washington D.C. / Missouri, United States",
+      "es": "Washington D. C. / Misuri, Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême bloque, pour la troisième fois, la carte électorale du Missouri",
+      "en": "Supreme Court blocks Missouri's congressional map for a third time",
+      "es": "El Tribunal Supremo bloquea por tercera vez el mapa electoral de Misuri"
+    },
+    "summary": {
+      "fr": "La Cour suprême des États-Unis a bloqué l'utilisation d'une nouvelle carte des circonscriptions du Missouri, soutenue par les républicains, pour les élections de mi-mandat de 2026, ordonnant le maintien de la carte de 2022, selon NPR et le Washington Post. Il s'agit de la troisième fois que la haute cour rejette ce redécoupage.",
+      "en": "The US Supreme Court blocked Missouri from using a new, Republican-backed congressional map for the 2026 midterm elections, ordering the state to revert to its 2022 map, according to NPR and The Washington Post. It is the third time the high court has rejected the redistricting plan.",
+      "es": "El Tribunal Supremo de Estados Unidos bloqueó el uso de un nuevo mapa de distritos electorales de Misuri, respaldado por los republicanos, para las elecciones de mitad de mandato de 2026, y ordenó mantener el mapa de 2022, según NPR y The Washington Post. Es la tercera vez que el alto tribunal rechaza este rediseño."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême ordonne l'usage de la carte de 2022 pour l'élection de novembre, évoquant le risque de « chaos électoral », selon la Cour citée par NPR.",
+          "en": "The Supreme Court orders the 2022 map be used for the November election, citing the risk of 'electoral chaos,' according to the court as cited by NPR.",
+          "es": "El Tribunal Supremo ordena usar el mapa de 2022 para las elecciones de noviembre, citando el riesgo de un 'caos electoral', según el propio tribunal recogido por NPR."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
+  },
+  {
+    "id": "nigeria-taux-directeur",
+    "coords": [
+      7.4898,
+      9.0765
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Bloomberg, CNBC Africa",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "La banque centrale du Nigeria abaisse son taux directeur à 23 %",
+      "en": "Nigeria's central bank cuts benchmark rate to 23%",
+      "es": "El banco central de Nigeria recorta su tasa de referencia al 23 %"
+    },
+    "summary": {
+      "fr": "La Banque centrale du Nigeria a réduit son taux directeur de 350 points de base, à 23 %, sa baisse la plus marquée depuis 2007, selon Bloomberg. Le gouverneur Olayemi Cardoso a présenté la mesure comme une « remise à niveau opérationnelle » alors que l'inflation annuelle a reculé à 15,39 % en août.",
+      "en": "The Central Bank of Nigeria cut its policy rate by 350 basis points to 23%, its steepest reduction since 2007, according to Bloomberg. Governor Olayemi Cardoso described the move as an 'operational reset' as annual inflation eased to 15.39% in August.",
+      "es": "El Banco Central de Nigeria recortó su tasa de referencia en 350 puntos básicos, hasta el 23 %, su mayor reducción desde 2007, según Bloomberg. El gobernador Olayemi Cardoso describió la medida como un 'reinicio operativo', mientras la inflación interanual bajó al 15,39 % en agosto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Le comité de politique monétaire annonce la baisse surprise du taux, contrairement aux attentes des économistes sondés par Reuters, selon Bloomberg.",
+          "en": "The monetary policy committee announces the surprise rate cut, against the expectations of economists polled by Reuters, according to Bloomberg.",
+          "es": "El comité de política monetaria anuncia el recorte sorpresa de la tasa, en contra de lo previsto por los economistas consultados por Reuters, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "bresil-selic",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Bloomberg",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Brasilia, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le Brésil abaisse son taux Selic à 13,75 % avant la présidentielle",
+      "en": "Brazil cuts Selic rate to 13.75% ahead of presidential election",
+      "es": "Brasil recorta la tasa Selic al 13,75 % antes de las presidenciales"
+    },
+    "summary": {
+      "fr": "Le Comité de politique monétaire (Copom) de la banque centrale du Brésil a voté à l'unanimité une baisse de 25 points de base du taux Selic, à 13,75 %, une cinquième baisse consécutive, selon Bloomberg. La décision intervient à quelques semaines de l'élection présidentielle du 4 octobre.",
+      "en": "Brazil's central bank monetary policy committee (Copom) unanimously voted to cut the Selic rate by 25 basis points to 13.75%, a fifth straight cut, according to Bloomberg. The decision comes weeks ahead of the October 4 presidential election.",
+      "es": "El comité de política monetaria (Copom) del banco central de Brasil votó por unanimidad recortar la tasa Selic en 25 puntos básicos, hasta el 13,75 %, un quinto recorte consecutivo, según Bloomberg. La decisión llega semanas antes de las elecciones presidenciales del 4 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le Copom annonce la baisse du taux Selic à 13,75 %, portant l'assouplissement cumulé depuis mars à 1,25 point, selon Bloomberg.",
+          "en": "Copom announces the Selic cut to 13.75%, bringing cumulative easing since March to 1.25 points, according to Bloomberg.",
+          "es": "El Copom anuncia el recorte de la Selic al 13,75 %, con lo que la flexibilización acumulada desde marzo llega a 1,25 puntos, según Bloomberg."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "yemen-houthis-mer-rouge",
+    "coords": [
+      43.42,
+      12.65
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera, NPR, The National",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Détroit de Bab al-Mandeb, Yémen",
+      "en": "Bab al-Mandeb Strait, Yemen",
+      "es": "Estrecho de Bab al-Mandeb, Yemen"
+    },
+    "title": {
+      "fr": "Les Houthis s'emparent de la côte yéménite de la mer Rouge et du détroit de Bab al-Mandeb",
+      "en": "Houthis seize Yemen's Red Sea coast and the Bab al-Mandeb strait",
+      "es": "Los hutíes toman la costa yemení del mar Rojo y el estrecho de Bab al-Mandeb"
+    },
+    "summary": {
+      "fr": "Les rebelles houthis, soutenus par l'Iran, ont pris le contrôle du port de Moka puis de l'ensemble de la côte yéménite de la mer Rouge ainsi que de l'île de Perim, au cœur du détroit de Bab al-Mandeb, selon Al Jazeera et NPR. Le gouvernement yéménite affirme de son côté avoir repris du terrain près du détroit.",
+      "en": "Iran-backed Houthi rebels took control of the port of Mocha and then the entire Yemeni Red Sea coast and Perim Island, at the heart of the Bab al-Mandeb strait, according to Al Jazeera and NPR. The Yemeni government says it has recovered some territory near the strait.",
+      "es": "Los rebeldes hutíes, respaldados por Irán, tomaron el control del puerto de Mocha y después de toda la costa yemení del mar Rojo, así como de la isla de Perim, en el corazón del estrecho de Bab al-Mandeb, según Al Jazeera y NPR. El gobierno yemení afirma haber recuperado parte del terreno cerca del estrecho."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/09/2026",
+          "en": "10/09/2026",
+          "es": "10/09/2026"
+        },
+        "d": {
+          "fr": "Les Houthis s'emparent du port de Moka, sur la côte sud de la mer Rouge, selon Al Jazeera.",
+          "en": "The Houthis seize the port of Mocha on the southern Red Sea coast, according to Al Jazeera.",
+          "es": "Los hutíes se apoderan del puerto de Mocha, en la costa sur del mar Rojo, según Al Jazeera."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "11-13/09/2026",
+          "en": "11-13/09/2026",
+          "es": "11-13/09/2026"
+        },
+        "d": {
+          "fr": "Le groupe prend le reste de la côte et l'île de Perim ; Sanaa affirme avoir repris du terrain le 13 septembre, selon les médias yéménites.",
+          "en": "The group takes the rest of the coast and Perim Island; Sanaa claims to have recovered some ground on September 13, according to Yemeni media.",
+          "es": "El grupo toma el resto de la costa y la isla de Perim; Saná afirma haber recuperado terreno el 13 de septiembre, según medios yemeníes."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3,
+    "related": [
+      "arabie-saoudite-houthis-yanbu"
+    ]
+  },
+  {
+    "id": "japon-typhon-dujuan",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "The Japan Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Région de Tokyo, Japon",
+      "en": "Greater Tokyo, Japan",
+      "es": "Región de Tokio, Japón"
+    },
+    "title": {
+      "fr": "Le typhon Dujuan fait au moins neuf morts près de Tokyo",
+      "en": "Typhoon Dujuan leaves at least nine dead near Tokyo",
+      "es": "El tifón Dujuan deja al menos nueve muertos cerca de Tokio"
+    },
+    "summary": {
+      "fr": "Le typhon Dujuan a déversé des pluies torrentielles sur la région de Tokyo, faisant au moins neuf morts et quatre disparus, pour environ 5,7 milliards de yens (36 millions de dollars) de dégâts économiques, selon le Japan Times. L'archipel a connu le nombre de cyclones tropicaux le plus élevé depuis 1966.",
+      "en": "Typhoon Dujuan dumped torrential rain on the greater Tokyo area, leaving at least nine dead and four missing, with an estimated ¥5.7 billion ($36 million) in economic losses, according to The Japan Times. The archipelago has seen the highest tropical cyclone count since 1966.",
+      "es": "El tifón Dujuan descargó lluvias torrenciales sobre la región de Tokio, dejando al menos nueve muertos y cuatro desaparecidos, con pérdidas económicas estimadas en 5.700 millones de yenes (36 millones de dólares), según The Japan Times. El archipiélago ha registrado el mayor número de ciclones tropicales desde 1966."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "21/09/2026",
+          "en": "21/09/2026",
+          "es": "21/09/2026"
+        },
+        "d": {
+          "fr": "Le typhon Dujuan frappe la région de Tokyo avec des pluies torrentielles, selon le Japan Times.",
+          "en": "Typhoon Dujuan hits the Tokyo area with torrential rain, according to The Japan Times.",
+          "es": "El tifón Dujuan golpea la región de Tokio con lluvias torrenciales, según The Japan Times."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan s'établit à au moins neuf morts et quatre disparus, selon les autorités citées par le Japan Times.",
+          "en": "The toll stands at at least nine dead and four missing, according to authorities cited by The Japan Times.",
+          "es": "El balance se sitúa en al menos nueve muertos y cuatro desaparecidos, según las autoridades citadas por The Japan Times."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
+  },
+  {
+    "id": "inde-jeux-asiatiques-kabaddi",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥇",
+    "source": "Olympics.com, ESPN",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Aichi-Nagoya, Japon",
+      "en": "Aichi-Nagoya, Japan",
+      "es": "Aichi-Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : les équipes indiennes de kabaddi qualifiées pour les finales",
+      "en": "Asian Games: India's kabaddi teams reach the finals",
+      "es": "Juegos Asiáticos: los equipos indios de kabaddi se clasifican para las finales"
+    },
+    "summary": {
+      "fr": "Aux Jeux asiatiques d'Aichi-Nagoya, l'Inde a battu le Népal 48-24 en demi-finale du kabaddi féminin et la Thaïlande en demi-finale masculine, qualifiant ses deux équipes pour la finale, selon Olympics.com et ESPN. L'Inde a également remporté plusieurs médailles en athlétisme et en tir ce même jour.",
+      "en": "At the Aichi-Nagoya Asian Games, India beat Nepal 48-24 in the women's kabaddi semifinal and beat Thailand in the men's semifinal, sending both teams to the final, according to Olympics.com and ESPN. India also won several medals in athletics and shooting the same day.",
+      "es": "En los Juegos Asiáticos de Aichi-Nagoya, India venció a Nepal 48-24 en la semifinal femenina de kabaddi y a Tailandia en la semifinal masculina, clasificando a ambos equipos para la final, según Olympics.com y ESPN. India también ganó varias medallas en atletismo y tiro ese mismo día."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Les équipes féminine et masculine de kabaddi se qualifient pour la finale après leurs victoires en demi-finale, selon Olympics.com.",
+          "en": "Both the women's and men's kabaddi teams reach the final after their semifinal wins, according to Olympics.com.",
+          "es": "Los equipos femenino y masculino de kabaddi se clasifican para la final tras sus victorias en semifinales, según Olympics.com."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "coree-sud-kayak-or",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🥇",
+    "source": "Korea JoongAng Daily, The Korea Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Aichi-Nagoya, Japon",
+      "en": "Aichi-Nagoya, Japan",
+      "es": "Aichi-Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : la Corée du Sud décroche un doublé historique en kayak",
+      "en": "Asian Games: South Korea claims historic double gold in kayaking",
+      "es": "Juegos Asiáticos: Corea del Sur logra un histórico doblete en kayak"
+    },
+    "summary": {
+      "fr": "Cho Gwang-hee et Kim Hyo-bin sont devenus les premiers médaillés d'un double titre olympique pour la délégation sud-coréenne aux Jeux asiatiques, en remportant l'or en kayak à deux (K2) 500 m puis en kayak à quatre (K4) 500 m, selon le Korea JoongAng Daily. Le duo a devancé le Japon de 0,317 seconde en finale du K2.",
+      "en": "Cho Gwang-hee and Kim Hyo-bin became the first South Korean delegation members to win double gold at the Asian Games, taking the K2 500m kayak title and the K4 500m kayak-four title, according to the Korea JoongAng Daily. The duo edged Japan by 0.317 seconds in the K2 final.",
+      "es": "Cho Gwang-hee y Kim Hyo-bin se convirtieron en los primeros integrantes de la delegación surcoreana en lograr un doble oro en los Juegos Asiáticos, al ganar el título de K2 500 m y el de K4 500 m en kayak, según el Korea JoongAng Daily. El dúo superó a Japón por 0,317 segundos en la final del K2."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Cho Gwang-hee et Kim Hyo-bin remportent l'or du K2 500 m après avoir déjà été sacrés en K4 500 m la veille, selon le Korea JoongAng Daily.",
+          "en": "Cho Gwang-hee and Kim Hyo-bin win K2 500m gold after already winning K4 500m gold the day before, according to the Korea JoongAng Daily.",
+          "es": "Cho Gwang-hee y Kim Hyo-bin ganan el oro en K2 500 m tras haberse coronado ya en K4 500 m el día anterior, según el Korea JoongAng Daily."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "egypte-chine-zone-industrielle",
+    "coords": [
+      32.3167,
+      29.6
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Arab News, Daily News Egypt",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Zone économique du canal de Suez, Égypte",
+      "en": "Suez Canal Economic Zone, Egypt",
+      "es": "Zona Económica del Canal de Suez, Egipto"
+    },
+    "title": {
+      "fr": "L'Égypte et la Chine lancent la troisième phase de leur zone industrielle du Canal de Suez",
+      "en": "Egypt and China launch third phase of their Suez Canal industrial zone",
+      "es": "Egipto y China lanzan la tercera fase de su zona industrial del Canal de Suez"
+    },
+    "summary": {
+      "fr": "Le président égyptien Abdel Fattah al-Sissi et le président chinois Xi Jinping, en visite d'État en Égypte pour la première fois en dix ans, ont annoncé le lancement de la troisième phase de la zone industrielle sino-égyptienne du canal de Suez, avec 1,15 milliard de dollars de nouveaux projets, selon Arab News.",
+      "en": "Egyptian President Abdel Fattah el-Sisi and Chinese President Xi Jinping, on his first state visit to Egypt in a decade, announced the launch of the third phase of the Egypt-China Suez Canal industrial zone, with $1.15 billion in new projects, according to Arab News.",
+      "es": "El presidente egipcio Abdel Fattah al-Sisi y el presidente chino Xi Jinping, en su primera visita de Estado a Egipto en una década, anunciaron el lanzamiento de la tercera fase de la zona industrial chino-egipcia del Canal de Suez, con 1.150 millones de dólares en nuevos proyectos, según Arab News."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01-02/09/2026",
+          "en": "01-02/09/2026",
+          "es": "01-02/09/2026"
+        },
+        "d": {
+          "fr": "Les deux présidents annoncent l'expansion de la zone industrielle et un renforcement de l'accord d'échange de devises, selon Daily News Egypt.",
+          "en": "The two presidents announce the industrial zone's expansion and a broader currency swap arrangement, according to Daily News Egypt.",
+          "es": "Ambos presidentes anuncian la ampliación de la zona industrial y un mayor acuerdo de intercambio de divisas, según Daily News Egypt."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3,
+    "related": []
+  },
+  {
+    "id": "france-greve-29septembre",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Connexion France, The Local",
+    "week": "2026-W39",
+    "place": {
+      "fr": "France (mobilisation nationale)",
+      "en": "France (nationwide mobilisation)",
+      "es": "Francia (movilización nacional)"
+    },
+    "title": {
+      "fr": "Grève nationale annoncée le 29 septembre : trains et fonction publique concernés",
+      "en": "Nationwide strike called for September 29: trains and public sector affected",
+      "es": "Huelga nacional convocada para el 29 de septiembre: afecta a trenes y función pública"
+    },
+    "summary": {
+      "fr": "Les syndicats SUD-Rail et CGT-Cheminots ont appelé à la grève à la SNCF pour le 29 septembre, le même jour qu'une mobilisation de la fonction publique (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC) sur les salaires et les conditions de travail, selon Connexion France.",
+      "en": "The SUD-Rail and CGT-Cheminots unions called a strike at national rail operator SNCF for September 29, the same day as a public-sector mobilisation (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC) over pay and working conditions, according to Connexion France.",
+      "es": "Los sindicatos SUD-Rail y CGT-Cheminots convocaron una huelga en la operadora ferroviaria SNCF para el 29 de septiembre, el mismo día que una movilización de la función pública (CGT, FO, CFDT, UNSA, FSU, Solidaires, CFE-CGC) por los salarios y las condiciones de trabajo, según Connexion France."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/09/2026",
+          "en": "11/09/2026",
+          "es": "11/09/2026"
+        },
+        "d": {
+          "fr": "Le syndicat SUD-Rail appelle à une grève nationale des cheminots pour le 29 septembre, selon The Local.",
+          "en": "The SUD-Rail union calls for a national rail strike on September 29, according to The Local.",
+          "es": "El sindicato SUD-Rail convoca una huelga ferroviaria nacional para el 29 de septiembre, según The Local."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
+  },
+  {
+    "id": "bresil-deforestation-amazonie",
+    "coords": [
+      -60.0217,
+      -3.119
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌳",
+    "source": "Mongabay, Inside Climate News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Amazonie, Brésil",
+      "en": "Amazon rainforest, Brazil",
+      "es": "Amazonía, Brasil"
+    },
+    "title": {
+      "fr": "La déforestation en Amazonie brésilienne tombe à son niveau le plus bas depuis dix ans",
+      "en": "Deforestation in the Brazilian Amazon falls to a ten-year low",
+      "es": "La deforestación en la Amazonía brasileña cae a su nivel más bajo en diez años"
+    },
+    "summary": {
+      "fr": "Les alertes de déforestation en Amazonie brésilienne ont chuté de 36 % sur un an, à 2 874 km², leur niveau le plus bas depuis le début des relevés, selon des données satellitaires citées par Mongabay pour la période d'août 2025 à juillet 2026. Les autorités restent toutefois vigilantes face à un possible « super » El Niño qui pourrait relancer les feux de forêt d'ici la fin de l'année.",
+      "en": "Deforestation alerts in the Brazilian Amazon fell 36% year-on-year to 2,874 square kilometres, the lowest level since records began, according to satellite data cited by Mongabay covering August 2025 to July 2026. Authorities remain cautious about a possible 'super' El Niño that could fuel a resurgence of forest fires later in the year.",
+      "es": "Las alertas de deforestación en la Amazonía brasileña cayeron un 36 % interanual, hasta 2.874 km², su nivel más bajo desde que existen registros, según datos satelitales citados por Mongabay para el periodo de agosto de 2025 a julio de 2026. Las autoridades siguen alerta ante un posible 'súper' Niño que podría reavivar los incendios forestales antes de que termine el año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Septembre 2026",
+          "en": "September 2026",
+          "es": "Septiembre de 2026"
+        },
+        "d": {
+          "fr": "Les données satellitaires couvrant août 2025 à juillet 2026 sont publiées, confirmant une baisse de 36 % des alertes de déforestation, selon Mongabay.",
+          "en": "Satellite data covering August 2025 to July 2026 is released, confirming a 36% drop in deforestation alerts, according to Mongabay.",
+          "es": "Se publican los datos satelitales que cubren de agosto de 2025 a julio de 2026, confirmando una caída del 36 % en las alertas de deforestación, según Mongabay."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": []
+  },
+  {
+    "id": "arabie-saoudite-houthis-yanbu",
+    "coords": [
+      38.0637,
+      24.0895
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera, Euronews, Reuters",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Yanbu, Arabie saoudite",
+      "en": "Yanbu, Saudi Arabia",
+      "es": "Yanbu, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Les Houthis revendiquent une attaque contre Riyad et des installations d'Aramco à Yanbu",
+      "en": "Houthis claim attack on Riyadh and Aramco facilities in Yanbu",
+      "es": "Los hutíes reivindican un ataque contra Riad e instalaciones de Aramco en Yanbu"
+    },
+    "summary": {
+      "fr": "Le mouvement houthi yéménite a revendiqué des tirs de missiles balistiques, de missiles de croisière et de drones contre « une cible sensible » à Riyad, des sites militaires dans la région de Jizan, ainsi que des installations d'Aramco à Yanbu, affirmant y avoir déclenché des incendies, selon Al Jazeera. L'Arabie saoudite a annoncé avoir intercepté six missiles balistiques, sans confirmer de dégâts. La France a annoncé l'envoi de moyens militaires pour protéger le site de Yanbu.",
+      "en": "Yemen's Houthi movement claimed missile, cruise-missile and drone strikes on 'a sensitive target' in Riyadh, military sites in the Jizan region, and Aramco facilities in Yanbu, saying it had ignited fires there, according to Al Jazeera. Saudi Arabia said it intercepted six ballistic missiles and did not confirm any damage. France announced it would send military assets to help protect the Yanbu site.",
+      "es": "El movimiento hutí yemení reivindicó ataques con misiles balísticos, misiles de crucero y drones contra 'un objetivo sensible' en Riad, instalaciones militares en la región de Jizán e instalaciones de Aramco en Yanbu, afirmando haber provocado incendios allí, según Al Jazeera. Arabia Saudita dijo haber interceptado seis misiles balísticos, sin confirmar daños. Francia anunció el envío de medios militares para ayudar a proteger el sitio de Yanbu."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Les Houthis revendiquent une opération aérienne coordonnée contre Riyad, Jizan et Yanbu ; Ryad annonce avoir intercepté six missiles, selon Al Jazeera.",
+          "en": "The Houthis claim a coordinated aerial operation against Riyadh, Jizan and Yanbu; Riyadh says it intercepted six missiles, according to Al Jazeera.",
+          "es": "Los hutíes reivindican una operación aérea coordinada contra Riad, Jizán y Yanbu; Riad dice haber interceptado seis misiles, según Al Jazeera."
+        },
+        "active": true
+      }
+    ],
+    "priority": 2,
+    "related": [
+      "yemen-houthis-mer-rouge"
+    ]
+  },
+  {
+    "id": "canada-contre-tarifs",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💰",
+    "source": "Al Jazeera, Government of Canada",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada impose 27,6 milliards de dollars de contre-tarifs sur des produits américains",
+      "en": "Canada imposes C$27.6 billion in counter-tariffs on US goods",
+      "es": "Canadá impone 27.600 millones de dólares en aranceles de represalia a productos estadounidenses"
+    },
+    "summary": {
+      "fr": "Le Canada a mis en place, à compter du 8 septembre, des contre-tarifs de 15 %, 25 % et 50 % sur 27,6 milliards de dollars canadiens de produits américains — acier, aluminium, papier, produits laitiers, électronique — en réponse aux droits de douane imposés par Washington, selon Al Jazeera et le gouvernement canadien.",
+      "en": "Canada put in place, effective September 8, counter-tariffs of 15%, 25% and 50% on C$27.6 billion of US goods — steel, aluminum, paper, dairy and electronics — in response to tariffs imposed by Washington, according to Al Jazeera and the Government of Canada.",
+      "es": "Canadá aplicó, a partir del 8 de septiembre, aranceles de represalia del 15 %, 25 % y 50 % sobre 27.600 millones de dólares canadienses en productos estadounidenses —acero, aluminio, papel, lácteos y electrónica— en respuesta a los aranceles impuestos por Washington, según Al Jazeera y el gobierno canadiense."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/08/2026",
+          "en": "25/08/2026",
+          "es": "25/08/2026"
+        },
+        "d": {
+          "fr": "Ottawa annonce des contre-tarifs sur plus de 600 catégories de produits américains, selon Al Jazeera.",
+          "en": "Ottawa announces counter-tariffs on more than 600 categories of US products, according to Al Jazeera.",
+          "es": "Ottawa anuncia aranceles de represalia sobre más de 600 categorías de productos estadounidenses, según Al Jazeera."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les contre-tarifs entrent en vigueur, portant à 50 % les droits sur l'acier et l'aluminium américains dans certains cas, selon le gouvernement du Canada.",
+          "en": "The counter-tariffs take effect, raising duties on US steel and aluminum to 50% in some cases, according to the Government of Canada.",
+          "es": "Los aranceles de represalia entran en vigor, elevando en algunos casos al 50 % los derechos sobre el acero y el aluminio estadounidenses, según el gobierno de Canadá."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
+  },
+  {
+    "id": "australie-afl-finale",
+    "coords": [
+      144.9834,
+      -37.8199
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏆",
+    "source": "ABC News, AFL.com.au",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Melbourne Cricket Ground, Melbourne, Australie",
+      "en": "Melbourne Cricket Ground, Melbourne, Australia",
+      "es": "Melbourne Cricket Ground, Melbourne, Australia"
+    },
+    "title": {
+      "fr": "Les Brisbane Lions décrochent un troisième titre consécutif de l'AFL",
+      "en": "Brisbane Lions claim a third straight AFL premiership",
+      "es": "Los Brisbane Lions logran un tercer título consecutivo de la AFL"
+    },
+    "summary": {
+      "fr": "Les Brisbane Lions ont remonté un retard de 17 points dans les quatre dernières minutes pour battre les Fremantle Dockers 14.12 (96) à 12.17 (89) en finale de l'AFL devant 100 023 spectateurs au Melbourne Cricket Ground, décrochant un troisième titre consécutif, selon l'ABC et AFL.com.au.",
+      "en": "The Brisbane Lions erased a 17-point deficit in the final four minutes to beat the Fremantle Dockers 14.12 (96) to 12.17 (89) in the AFL Grand Final in front of 100,023 fans at the Melbourne Cricket Ground, claiming a third straight premiership, according to the ABC and AFL.com.au.",
+      "es": "Los Brisbane Lions remontaron una desventaja de 17 puntos en los últimos cuatro minutos para vencer a los Fremantle Dockers 14.12 (96) a 12.17 (89) en la final de la AFL ante 100.023 espectadores en el Melbourne Cricket Ground, logrando un tercer título consecutivo, según la ABC y AFL.com.au."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Brisbane inscrit quatre buts consécutifs en fin de match pour renverser Fremantle et remporter la finale, selon l'ABC.",
+          "en": "Brisbane kicks four straight goals late in the match to overturn Fremantle and win the final, according to the ABC.",
+          "es": "Brisbane anota cuatro goles seguidos al final del partido para remontar a Fremantle y ganar la final, según la ABC."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1,
+    "related": []
   }
 ]
