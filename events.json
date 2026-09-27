@@ -692,8 +692,8 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "source": "La Presse / franceinfo / Radio-Canada / Al Jazeera / RFE/RL",
+    "week": "2026-W39",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -705,9 +705,9 @@
       "es": "El conflicto entre Estados Unidos, Israel e Irán se reanuda tras el alto el fuego de abril"
     },
     "summary": {
-      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban.",
-      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon.",
-      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano."
+      "fr": "Après un cessez-le-feu intermittent conclu le 8 avril 2026, des frappes ont repris entre les États-Unis et l'Iran le 7 juillet, avec un nouveau blocage du détroit d'Ormuz, selon La Presse, franceinfo et Radio-Canada. Le gouvernement iranien affirme que des frappes américaines ont fait 38 morts et plus de 400 blessés ; ce bilan, avancé par une des parties au conflit, n'a pas été confirmé de façon indépendante. Les tensions touchent aussi plusieurs pays du Golfe et le Liban. Le 26 septembre, l'Iran a proposé de rouvrir le détroit sous sept jours, mais le président Trump a rejeté cette offre, la jugeant inacceptable, selon Al Jazeera et Radio Free Europe/Radio Liberty (RFE/RL).",
+      "en": "After an intermittent ceasefire reached on April 8, 2026, strikes resumed between the United States and Iran on July 7, with the Strait of Hormuz blocked again, according to La Presse, franceinfo and Radio-Canada. The Iranian government states that US strikes killed 38 people and wounded more than 400; this toll, put forward by one side of the conflict, has not been independently confirmed. Tensions also affect several Gulf countries and Lebanon. On September 26, Iran proposed reopening the strait within seven days, but President Trump rejected the offer as unacceptable, according to Al Jazeera and Radio Free Europe/Radio Liberty (RFE/RL).",
+      "es": "Tras un alto el fuego intermitente alcanzado el 8 de abril de 2026, los ataques se reanudaron entre Estados Unidos e Irán el 7 de julio, con un nuevo bloqueo del estrecho de Ormuz, según La Presse, franceinfo y Radio-Canada. El gobierno iraní afirma que los ataques estadounidenses causaron 38 muertos y más de 400 heridos; este balance, presentado por una de las partes del conflicto, no ha sido confirmado de forma independiente. Las tensiones también afectan a varios países del Golfo y al Líbano. El 26 de septiembre, Irán propuso reabrir el estrecho en un plazo de siete días, pero el presidente Trump rechazó la oferta por considerarla inaceptable, según Al Jazeera y Radio Free Europe/Radio Liberty (RFE/RL)."
     },
     "timeline": [
       {
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "L'Iran propose de rouvrir le détroit d'Ormuz sous sept jours ; Donald Trump rejette cette offre, la jugeant inacceptable, selon Al Jazeera et RFE/RL.",
+          "en": "Iran proposes reopening the Strait of Hormuz within seven days; Donald Trump rejects the offer as unacceptable, according to Al Jazeera and RFE/RL.",
+          "es": "Irán propone reabrir el estrecho de Ormuz en un plazo de siete días; Donald Trump rechaza la oferta por considerarla inaceptable, según Al Jazeera y RFE/RL."
         },
         "active": true
       }
@@ -823,6 +836,786 @@
           "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
           "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
           "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-tempete-nordest",
+    "coords": [
+      -73.9442,
+      40.6782
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "⛈",
+    "source": "AP / Al Jazeera / NBC News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Brooklyn, New York, États-Unis",
+      "en": "Brooklyn, New York, United States",
+      "es": "Brooklyn, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un puissant nor'easter fait au moins un mort et inonde le nord-est des États-Unis",
+      "en": "A powerful nor'easter kills at least one and floods the northeastern United States",
+      "es": "Un potente nor'easter deja al menos un muerto e inunda el noreste de Estados Unidos"
+    },
+    "summary": {
+      "fr": "Un nor'easter s'est abattu samedi 26 septembre sur le nord-est des États-Unis, selon l'Associated Press, Al Jazeera et NBC News. Un employé de l'office du logement de New York (NYCHA) est mort à Brooklyn après la chute d'un arbre. Les États de New York et du New Jersey ont déclaré l'état d'urgence dans plusieurs comtés ; des rues ont été inondées à marée haute, des vagues de plus de 5 mètres ont été mesurées au large du New Jersey, environ 73 000 foyers et commerces ont été privés d'électricité et plus de 400 vols ont été annulés.",
+      "en": "A nor'easter battered the northeastern United States on Saturday, September 26, according to the Associated Press, Al Jazeera and NBC News. A New York City Housing Authority (NYCHA) employee was killed in Brooklyn by a falling tree. New York and New Jersey declared states of emergency in several counties; streets flooded at high tide, waves of more than 5 meters (16 feet) were recorded off the New Jersey coast, about 73,000 homes and businesses lost power, and more than 400 flights were cancelled.",
+      "es": "Un nor'easter azotó el noreste de Estados Unidos el sábado 26 de septiembre, según Associated Press, Al Jazeera y NBC News. Un empleado de la autoridad de vivienda de Nueva York (NYCHA) murió en Brooklyn al caerle un árbol encima. Nueva York y Nueva Jersey declararon el estado de emergencia en varios condados; algunas calles se inundaron con la marea alta, se registraron olas de más de 5 metros frente a la costa de Nueva Jersey, unos 73.000 hogares y comercios se quedaron sin electricidad y se cancelaron más de 400 vuelos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "La tempête tue un employé de la NYCHA à Brooklyn et provoque l'état d'urgence à New York et au New Jersey.",
+          "en": "The storm kills a NYCHA employee in Brooklyn and prompts a state of emergency in New York and New Jersey.",
+          "es": "La tormenta mata a un empleado de la NYCHA en Brooklyn y provoca el estado de emergencia en Nueva York y Nueva Jersey."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-fed-hausse-taux",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Réserve fédérale / CNBC / Fox Business",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Réserve fédérale relève ses taux d'intérêt pour la première fois depuis 2023",
+      "en": "The Federal Reserve raises interest rates for the first time since 2023",
+      "es": "La Reserva Federal sube los tipos de interés por primera vez desde 2023"
+    },
+    "summary": {
+      "fr": "La Réserve fédérale américaine a relevé le 16 septembre son taux directeur d'un quart de point, à une fourchette de 3,75 % à 4 %, selon un communiqué officiel de la Fed relayé par CNBC et Fox Business. Le comité de politique monétaire (FOMC) a voté à l'unanimité (12-0) cette hausse, la première depuis 2023, en invoquant une inflation jugée encore élevée, en partie à cause du prix de l'énergie. La Fed évoque la possibilité d'une nouvelle hausse d'ici la fin de l'année.",
+      "en": "The US Federal Reserve raised its benchmark interest rate by a quarter point on September 16, to a range of 3.75% to 4%, according to an official Fed statement relayed by CNBC and Fox Business. The rate-setting committee (FOMC) voted unanimously (12-0) for the increase, the first since 2023, citing inflation it still considers elevated, partly due to energy prices. The Fed signaled a possible further hike before year-end.",
+      "es": "La Reserva Federal de Estados Unidos subió el 16 de septiembre su tasa de referencia un cuarto de punto, a un rango de 3,75% a 4%, según un comunicado oficial de la Fed difundido por CNBC y Fox Business. El comité de política monetaria (FOMC) votó por unanimidad (12-0) esta subida, la primera desde 2023, citando una inflación que considera aún elevada, en parte por el precio de la energía. La Fed señaló la posibilidad de una nueva subida antes de fin de año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/09/2026",
+          "en": "16/09/2026",
+          "es": "16/09/2026"
+        },
+        "d": {
+          "fr": "Le FOMC relève son taux directeur à 3,75 %-4 %, une première depuis 2023.",
+          "en": "The FOMC raises its benchmark rate to 3.75%-4%, the first hike since 2023.",
+          "es": "El FOMC sube su tasa de referencia a 3,75%-4%, la primera subida desde 2023."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "etats-unis-chine-sommet-ia",
+    "coords": [
+      -77.0469,
+      38.9172
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "Maison-Blanche / Al Jazeera",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Xi Jinping et Donald Trump s'accordent sur un canal de communication dédié à l'intelligence artificielle",
+      "en": "Xi Jinping and Donald Trump agree on a dedicated AI communication channel",
+      "es": "Xi Jinping y Donald Trump acuerdan un canal de comunicación dedicado a la inteligencia artificial"
+    },
+    "summary": {
+      "fr": "À l'issue d'une visite d'État de trois jours à Washington, les présidents chinois Xi Jinping et américain Donald Trump ont annoncé la création d'un « canal de communication » consacré aux incidents liés à l'intelligence artificielle, selon la Maison-Blanche citée par Al Jazeera. Les deux dirigeants ont aussi abordé le commerce et la guerre en Iran, et ont convenu de se revoir à deux reprises d'ici la fin de l'année lors de sommets internationaux en Chine puis aux États-Unis.",
+      "en": "At the end of a three-day state visit to Washington, Chinese President Xi Jinping and US President Donald Trump announced the creation of a \"communication channel\" dedicated to AI-related incidents, according to the White House, cited by Al Jazeera. The two leaders also discussed trade and the war in Iran, and agreed to meet twice more before year's end at international summits in China and the United States.",
+      "es": "Al término de una visita de Estado de tres días a Washington, el presidente chino Xi Jinping y el presidente estadounidense Donald Trump anunciaron la creación de un \"canal de comunicación\" dedicado a los incidentes relacionados con la inteligencia artificial, según la Casa Blanca, citada por Al Jazeera. Ambos líderes también abordaron el comercio y la guerra en Irán, y acordaron reunirse dos veces más antes de fin de año en cumbres internacionales en China y Estados Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Washington annonce un accord Chine-États-Unis sur un canal de communication dédié à l'IA, à l'issue de la visite d'État de Xi Jinping.",
+          "en": "Washington announces a China-US agreement on an AI communication channel, at the close of Xi Jinping's state visit.",
+          "es": "Washington anuncia un acuerdo China-Estados Unidos sobre un canal de comunicación dedicado a la IA, al cierre de la visita de Estado de Xi Jinping."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ukraine-frappes-aeriennes-septembre",
+    "coords": [
+      35.1396,
+      47.8388
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / Al Arabiya English / AP",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Zaporijjia, Ukraine",
+      "en": "Zaporizhzhia, Ukraine",
+      "es": "Zaporiyia, Ucrania"
+    },
+    "title": {
+      "fr": "Nouvelle vague de frappes russes et ukrainiennes : les bilans varient selon les sources",
+      "en": "New wave of Russian and Ukrainian strikes: tolls vary by source",
+      "es": "Nueva ola de ataques rusos y ucranianos: los balances varían según la fuente"
+    },
+    "summary": {
+      "fr": "Une nouvelle escalade de frappes aériennes a touché plusieurs régions d'Ukraine dans la nuit du 25 au 26 septembre, la Russie ayant tiré 173 drones de type Shahed, dont 50 à propulsion à réaction, sur les villes de Kyiv et Zaporijjia ainsi que sur les régions d'Odessa, Soumy et Kharkiv, selon le président Volodymyr Zelensky cité par le Kyiv Independent. Deux femmes sont mortes à Zaporijjia, ensevelies sous les décombres de leur habitation ; deux autres personnes ont été tuées à Soumy. Les bilans définitifs varient selon les médias, entre 4 et 10 morts au total en comptant les frappes ukrainiennes en retour visant une raffinerie et des sites militaires russes dans le kraï de Krasnodar, selon l'agence Al Arabiya English et l'agence de presse américaine AP.",
+      "en": "A fresh escalation of aerial strikes hit several Ukrainian regions overnight on September 25-26, with Russia firing 173 Shahed-type drones, 50 of them jet-powered, at the cities of Kyiv and Zaporizhzhia as well as the Odesa, Sumy and Kharkiv regions, according to President Volodymyr Zelensky, cited by the Kyiv Independent. Two women died in Zaporizhzhia, buried under the rubble of their home; two more people were killed in Sumy. Final tolls vary between outlets, from 4 to 10 dead in total when counting Ukrainian counterstrikes on a refinery and Russian military sites in Krasnodar Krai, according to Al Arabiya English and the AP.",
+      "es": "Una nueva escalada de ataques aéreos golpeó varias regiones de Ucrania en la noche del 25 al 26 de septiembre, con Rusia disparando 173 drones tipo Shahed, 50 de ellos a reacción, contra las ciudades de Kiev y Zaporiyia, así como las regiones de Odesa, Sumy y Járkiv, según el presidente Volodímir Zelenski, citado por Kyiv Independent. Dos mujeres murieron en Zaporiyia, sepultadas bajo los escombros de su vivienda; otras dos personas murieron en Sumy. Los balances finales varían según los medios, entre 4 y 10 muertos en total al contar los contraataques ucranianos contra una refinería y objetivos militares rusos en el krai de Krasnodar, según Al Arabiya English y la agencia AP."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Frappes massives de drones russes sur plusieurs villes ukrainiennes ; au moins deux morts à Zaporijjia.",
+          "en": "Massive Russian drone strikes hit several Ukrainian cities; at least two dead in Zaporizhzhia.",
+          "es": "Ataques masivos con drones rusos golpean varias ciudades ucranianas; al menos dos muertos en Zaporiyia."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "allemagne-russie-wadephul-lavrov",
+    "coords": [
+      -73.968,
+      40.7489
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "CNN / Ukrainska Pravda",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Siège de l'ONU, New York, États-Unis",
+      "en": "United Nations headquarters, New York, United States",
+      "es": "Sede de la ONU, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les chefs de la diplomatie allemande et russe se rencontrent pour la première fois depuis 2022",
+      "en": "German and Russian foreign ministers meet for the first time since 2022",
+      "es": "Los jefes de la diplomacia alemana y rusa se reúnen por primera vez desde 2022"
+    },
+    "summary": {
+      "fr": "Le ministre allemand des Affaires étrangères Johann Wadephul et son homologue russe Sergueï Lavrov se sont entretenus le 26 septembre en marge de l'Assemblée générale des Nations unies à New York, une première rencontre entre les chefs de la diplomatie des deux pays depuis l'invasion de l'Ukraine en 2022, selon CNN et Ukrainska Pravda. Wadephul a appelé Moscou à abandonner sa « dangereuse escalade » envers l'Allemagne, l'Europe et l'OTAN, dans un contexte de tensions accrues depuis un incident de drone à l'aéroport de Leipzig/Halle en août, que Berlin attribue à la Russie et que Moscou dément. Lavrov a affirmé n'avoir « rien appris de nouveau » lors de l'entretien.",
+      "en": "German Foreign Minister Johann Wadephul and his Russian counterpart Sergey Lavrov held talks on September 26 on the sidelines of the UN General Assembly in New York, the first meeting between the two countries' top diplomats since Russia's 2022 invasion of Ukraine, according to CNN and Ukrainska Pravda. Wadephul urged Moscow to abandon its \"dangerous escalation\" toward Germany, Europe and NATO, amid heightened tensions since a drone incident at Leipzig/Halle airport in August, which Berlin blames on Russia and Moscow denies. Lavrov said he had \"learned nothing new\" from the talks.",
+      "es": "El ministro alemán de Asuntos Exteriores, Johann Wadephul, y su homólogo ruso, Serguéi Lavrov, mantuvieron conversaciones el 26 de septiembre al margen de la Asamblea General de la ONU en Nueva York, el primer encuentro entre los jefes de la diplomacia de ambos países desde la invasión rusa de Ucrania en 2022, según CNN y Ukrainska Pravda. Wadephul instó a Moscú a abandonar su \"peligrosa escalada\" hacia Alemania, Europa y la OTAN, en un contexto de tensiones crecientes desde un incidente con drones en el aeropuerto de Leipzig/Halle en agosto, que Berlín atribuye a Rusia y que Moscú niega. Lavrov afirmó no haber \"aprendido nada nuevo\" en la conversación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Premières discussions entre les ministres allemand et russe des Affaires étrangères depuis 2022, en marge de l'ONU à New York.",
+          "en": "First talks between the German and Russian foreign ministers since 2022, on the sidelines of the UN in New York.",
+          "es": "Primeras conversaciones entre los ministros de Exteriores alemán y ruso desde 2022, al margen de la ONU en Nueva York."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nigeria-enlevements-borgu",
+    "coords": [
+      4.5187,
+      9.8875
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Associated Press",
+    "week": "2026-W39",
+    "place": {
+      "fr": "New Bussa, district de Borgu, État du Niger, Nigeria",
+      "en": "New Bussa, Borgu district, Niger State, Nigeria",
+      "es": "New Bussa, distrito de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Au Nigeria, des centaines d'otages toujours détenus un mois après un enlèvement de masse",
+      "en": "In Nigeria, hundreds of hostages still held a month after a mass kidnapping",
+      "es": "En Nigeria, cientos de rehenes siguen retenidos un mes después de un secuestro masivo"
+    },
+    "summary": {
+      "fr": "Des habitants du district de Borgu, dans l'État du Niger (nord-centre du Nigeria), ont manifesté le 22 septembre devant le siège de l'administration locale à New Bussa pour réclamer la libération d'environ 600 personnes — en majorité des femmes, des enfants et des personnes âgées — enlevées un mois plus tôt dans les localités de Dekara et des communautés voisines, selon l'Associated Press. Le président de l'association des jeunes de Borgu évoque un bilan pouvant atteindre 700 personnes captives. Les commerces sont restés fermés en signe de protestation. Le commissaire à l'Information de l'État du Niger, Obed Nuhu Nana, a indiqué que les forces de sécurité avaient été mobilisées mais qu'aucun résultat n'avait encore été obtenu.",
+      "en": "Residents of Borgu district in Niger State (north-central Nigeria) protested on September 22 outside the local government headquarters in New Bussa to demand the release of about 600 people — mostly women, children and the elderly — abducted a month earlier from Dekara and neighboring communities, according to the Associated Press. The head of the Borgu Youths Development Association put the number of captives as high as 700. Shops stayed shut in protest. Niger State Information Commissioner Obed Nuhu Nana said security forces had been mobilized but that no results had yet been achieved.",
+      "es": "Residentes del distrito de Borgu, en el estado de Níger (centro-norte de Nigeria), protestaron el 22 de septiembre frente a la sede del gobierno local en New Bussa para exigir la liberación de unas 600 personas —en su mayoría mujeres, niños y ancianos— secuestradas un mes antes en Dekara y comunidades vecinas, según Associated Press. El presidente de la Asociación de Jóvenes de Borgu cifra en hasta 700 el número de cautivos. Los comercios permanecieron cerrados en señal de protesta. El comisionado de Información del estado de Níger, Obed Nuhu Nana, afirmó que las fuerzas de seguridad habían sido movilizadas pero que aún no se habían obtenido resultados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Manifestation à New Bussa pour réclamer la libération d'environ 600 otages retenus depuis un mois.",
+          "en": "Protest in New Bussa demands the release of about 600 hostages held for a month.",
+          "es": "Manifestación en New Bussa exige la liberación de unos 600 rehenes retenidos desde hace un mes."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "mexique-ouragan-polo",
+    "coords": [
+      -112.9,
+      19.0
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "NOAA/NHC / NBC News / PBS",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Océan Pacifique, au large de l'État de Guerrero, Mexique",
+      "en": "Pacific Ocean, off the coast of Guerrero state, Mexico",
+      "es": "Océano Pacífico, frente a las costas del estado de Guerrero, México"
+    },
+    "title": {
+      "fr": "L'ouragan Polo, l'un des plus puissants jamais enregistrés dans le Pacifique, frôle les côtes mexicaines",
+      "en": "Hurricane Polo, one of the most powerful ever recorded in the Pacific, skirts the Mexican coast",
+      "es": "El huracán Polo, uno de los más potentes jamás registrados en el Pacífico, roza las costas mexicanas"
+    },
+    "summary": {
+      "fr": "Formé le 20 septembre, l'ouragan Polo a atteint le 22 septembre la catégorie 5, avec une pression centrale de 892 hPa qui en fait le deuxième ouragan du Pacifique le plus intense jamais mesuré selon cet indicateur, derrière Patricia (2015), selon la NOAA et NBC News. Au 27 septembre, la tempête, affaiblie en catégorie 3 avec des vents de 204 km/h, se trouvait à environ 300 km au sud-ouest d'Acapulco (Guerrero) et devait longer la côte sans toucher terre directement. Les autorités ont fermé écoles et ports par précaution ; de fortes pluies et une houle dangereuse ont touché le littoral d'Acapulco.",
+      "en": "Formed on September 20, Hurricane Polo reached Category 5 status on September 22, with a central pressure of 892 hPa that makes it the second most intense Pacific hurricane ever measured by that metric, behind Patricia (2015), according to NOAA and NBC News. As of September 27, the storm, weakened to Category 3 with winds of 204 km/h (127 mph), was about 300 km southwest of Acapulco (Guerrero) and was forecast to skirt the coast without making direct landfall. Authorities closed schools and ports as a precaution; heavy rain and dangerous swells hit the Acapulco shoreline.",
+      "es": "Formado el 20 de septiembre, el huracán Polo alcanzó la categoría 5 el 22 de septiembre, con una presión central de 892 hPa que lo convierte en el segundo huracán del Pacífico más intenso jamás medido según ese indicador, solo por detrás de Patricia (2015), según la NOAA y NBC News. Al 27 de septiembre, la tormenta, debilitada a categoría 3 con vientos de 204 km/h, se encontraba a unos 300 km al suroeste de Acapulco (Guerrero) y se preveía que bordeara la costa sin tocar tierra directamente. Las autoridades cerraron escuelas y puertos como precaución; fuertes lluvias y un fuerte oleaje golpearon el litoral de Acapulco."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Polo atteint son pic d'intensité, catégorie 5, au large du Mexique.",
+          "en": "Polo reaches peak intensity, Category 5, off Mexico.",
+          "es": "Polo alcanza su pico de intensidad, categoría 5, frente a México."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Affaibli en catégorie 3, Polo longe la côte de Guerrero sans faire de victime rapportée.",
+          "en": "Weakened to Category 3, Polo skirts the Guerrero coast with no reported casualties.",
+          "es": "Debilitado a categoría 3, Polo bordea la costa de Guerrero sin víctimas reportadas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "mexique-arrestation-don-flaco",
+    "coords": [
+      -99.1332,
+      19.4326
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🚔",
+    "source": "Secrétariat mexicain à la Sécurité (SSPC) / Infobae / La Opinión",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Arrondissement de Cuauhtémoc, Mexico, Mexique",
+      "en": "Cuauhtémoc borough, Mexico City, Mexico",
+      "es": "Alcaldía Cuauhtémoc, Ciudad de México, México"
+    },
+    "title": {
+      "fr": "Mexico : un présumé opérateur du cartel de Sinaloa arrêté en vue de son extradition vers les États-Unis",
+      "en": "Mexico City: alleged Sinaloa cartel operator arrested pending extradition to the United States",
+      "es": "Ciudad de México: detienen a presunto operador del Cártel de Sinaloa con miras a su extradición a Estados Unidos"
+    },
+    "summary": {
+      "fr": "José Ángel Rivera Zazueta, alias « El Flaco » ou « Don Flaco », a été arrêté le 22 septembre dans l'arrondissement de Cuauhtémoc, à Mexico, lors d'une opération conjointe du parquet général (FGR), du secrétariat à la Sécurité (SSPC), du FBI et de la DEA, selon le secrétaire à la Sécurité Omar García Harfuch, cité par Infobae et La Opinión. Il est visé par une demande d'extradition américaine pour trafic de précurseurs chimiques du fentanyl en provenance de Chine. Selon les autorités, il aurait été le coordinateur financier d'un réseau lié au cartel de Sinaloa ; Harfuch a démenti les accusations selon lesquelles il aurait bénéficié d'une protection politique.",
+      "en": "José Ángel Rivera Zazueta, alias \"El Flaco\" or \"Don Flaco,\" was arrested on September 22 in the Cuauhtémoc borough of Mexico City in a joint operation by the Attorney General's Office (FGR), the Security Secretariat (SSPC), the FBI and the DEA, according to Security Secretary Omar García Harfuch, cited by Infobae and La Opinión. He is wanted under a US extradition request for trafficking fentanyl chemical precursors from China. Authorities say he acted as financial coordinator for a Sinaloa cartel-linked network; Harfuch denied claims that he had benefited from political protection.",
+      "es": "José Ángel Rivera Zazueta, alias \"El Flaco\" o \"Don Flaco\", fue detenido el 22 de septiembre en la alcaldía Cuauhtémoc de la Ciudad de México, en un operativo conjunto de la Fiscalía General (FGR), la Secretaría de Seguridad (SSPC), el FBI y la DEA, según el secretario de Seguridad Omar García Harfuch, citado por Infobae y La Opinión. Es requerido por Estados Unidos en extradición por tráfico de precursores químicos de fentanilo procedentes de China. Según las autoridades, habría sido el coordinador financiero de una red vinculada al Cártel de Sinaloa; Harfuch negó las acusaciones de que hubiera gozado de protección política."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Arrestation de José Ángel Rivera Zazueta à Mexico, en vue de son extradition vers les États-Unis.",
+          "en": "Arrest of José Ángel Rivera Zazueta in Mexico City, pending extradition to the United States.",
+          "es": "Detención de José Ángel Rivera Zazueta en Ciudad de México, con miras a su extradición a Estados Unidos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "indonesie-incendies-borneo",
+    "coords": [
+      113.9213,
+      -2.2161
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🔥",
+    "source": "UICN / Mongabay / ABC News",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Kalimantan central, île de Bornéo, Indonésie",
+      "en": "Central Kalimantan, Borneo, Indonesia",
+      "es": "Kalimantan Central, isla de Borneo, Indonesia"
+    },
+    "title": {
+      "fr": "Les incendies de forêt à Bornéo menacent plus de la moitié de la population des orangs-outans",
+      "en": "Borneo forest fires threaten more than half the island's orangutan population",
+      "es": "Los incendios forestales en Borneo amenazan a más de la mitad de la población de orangutanes"
+    },
+    "summary": {
+      "fr": "Des feux de forêt actifs depuis plusieurs semaines à Bornéo et à Sumatra touchent des habitats abritant 52 % de la population d'orangs-outans de Bornéo, dont 13 des 20 plus grandes populations restantes, selon l'Union internationale pour la conservation de la nature (UICN), relayée par Mongabay et ABC News. La surface brûlée est estimée entre 202 000 et 900 000 hectares selon les sources. Les autorités indonésiennes ont indiqué avoir secouru une centaine d'animaux menacés par les flammes, dont 53 orangs-outans. Une épaisse fumée continue d'affecter la Malaisie et Singapour voisins.",
+      "en": "Fires that have burned for weeks across Borneo and Sumatra are affecting habitats home to 52% of Borneo's orangutan population, including 13 of the 20 largest remaining populations, according to the International Union for Conservation of Nature (IUCN), cited by Mongabay and ABC News. Estimates of the burned area range from 202,000 to 900,000 hectares depending on the source. Indonesian authorities said they had rescued around 100 animals threatened by the flames, including 53 orangutans. Thick haze continues to affect neighboring Malaysia and Singapore.",
+      "es": "Incendios activos desde hace semanas en Borneo y Sumatra están afectando hábitats que albergan al 52% de la población de orangutanes de Borneo, incluidas 13 de las 20 mayores poblaciones restantes, según la Unión Internacional para la Conservación de la Naturaleza (UICN), citada por Mongabay y ABC News. La superficie quemada se estima entre 202.000 y 900.000 hectáreas según la fuente. Las autoridades indonesias señalaron haber rescatado a un centenar de animales amenazados por las llamas, entre ellos 53 orangutanes. Una densa neblina sigue afectando a los vecinos Malasia y Singapur."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "L'UICN alerte sur la menace que représentent les incendies pour plus de la moitié des orangs-outans de Bornéo.",
+          "en": "The IUCN warns of the threat the fires pose to more than half of Borneo's orangutans.",
+          "es": "La UICN alerta sobre la amenaza que representan los incendios para más de la mitad de los orangutanes de Borneo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "chine-plan-relance-septembre",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Banque populaire de Chine / Bloomberg / SCMP",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine annonce son plan de relance le plus audacieux depuis des années",
+      "en": "China announces its boldest stimulus package in years",
+      "es": "China anuncia su plan de estímulo más audaz en años"
+    },
+    "summary": {
+      "fr": "La banque centrale chinoise, le régulateur boursier et le régulateur financier ont annoncé conjointement le 24 septembre une série de mesures de relance monétaire, de soutien au marché immobilier et de renforcement des marchés de capitaux, décrite par plusieurs médias comme la plus audacieuse depuis des années, selon Bloomberg et le South China Morning Post. Les indices de Shanghai et de Shenzhen ont bondi de plus de 4 % après l'annonce. Le secteur immobilier reste toutefois fragile, plusieurs villes dont Pékin et Shanghai ayant assoupli leurs restrictions à l'achat de logements.",
+      "en": "China's central bank, securities regulator and financial regulator jointly announced on September 24 a package of monetary stimulus, property market support and capital market measures, described by several outlets as the boldest in years, according to Bloomberg and the South China Morning Post. The Shanghai and Shenzhen indices jumped more than 4% after the announcement. The property sector remains fragile, however, with several cities including Beijing and Shanghai easing homebuying restrictions.",
+      "es": "El banco central chino, el regulador bursátil y el regulador financiero anunciaron conjuntamente el 24 de septiembre un paquete de estímulo monetario, apoyo al mercado inmobiliario y medidas para reforzar los mercados de capital, descrito por varios medios como el más audaz en años, según Bloomberg y South China Morning Post. Los índices de Shanghái y Shenzhen subieron más de un 4% tras el anuncio. El sector inmobiliario sigue frágil, ya que varias ciudades, entre ellas Pekín y Shanghái, flexibilizaron sus restricciones a la compra de vivienda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "Pékin annonce un vaste plan de relance monétaire et immobilier ; les bourses de Shanghai et Shenzhen bondissent de plus de 4 %.",
+          "en": "Beijing announces a broad monetary and property stimulus package; Shanghai and Shenzhen stocks jump more than 4%.",
+          "es": "Pekín anuncia un amplio plan de estímulo monetario e inmobiliario; las bolsas de Shanghái y Shenzhen suben más de un 4%."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-inondations-uttar-pradesh",
+    "coords": [
+      80.7784,
+      27.956
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Malay Mail / Arab News / Business Recorder",
+    "week": "2026-W39",
+    "place": {
+      "fr": "District de Lakhimpur Kheri, Uttar Pradesh, Inde",
+      "en": "Lakhimpur Kheri district, Uttar Pradesh, India",
+      "es": "Distrito de Lakhimpur Kheri, Uttar Pradesh, India"
+    },
+    "title": {
+      "fr": "Des pluies exceptionnelles font des dizaines de morts en Uttar Pradesh",
+      "en": "Exceptional rainfall kills dozens in Uttar Pradesh",
+      "es": "Lluvias excepcionales dejan decenas de muertos en Uttar Pradesh"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles liées à une dépression sur le golfe du Bengale ont provoqué crues et glissements de terrain dans l'État indien de l'Uttar Pradesh depuis le 25 septembre. Selon l'agence de gestion des catastrophes citée par Malay Mail et Arab News, le bilan atteint au moins 56 morts en trois jours et plus de 1 000 habitations endommagées, avec des précipitations localement 19 fois supérieures à la moyenne saisonnière. Des victimes ont été rapportées dans les districts de Lakhimpur Kheri, Amethi et Barabanki, notamment trois membres d'une même famille ensevelis sous le mur de torchis de leur maison à Lakhimpur Kheri. D'autres médias, dont Business Recorder, font état d'un bilan distinct d'au moins 19 morts (15 en Inde, 4 au Népal) ; les chiffres définitifs restent incertains et pourraient encore évoluer.",
+      "en": "Torrential rain linked to a depression over the Bay of Bengal has triggered floods and landslides in India's Uttar Pradesh state since September 25. According to the state disaster management agency, cited by Malay Mail and Arab News, the toll stands at at least 56 dead over three days and more than 1,000 homes damaged, with rainfall locally 19 times the seasonal average. Casualties were reported in the districts of Lakhimpur Kheri, Amethi and Barabanki, including three members of one family buried when the mud wall of their home collapsed in Lakhimpur Kheri. Other outlets, including Business Recorder, report a separate toll of at least 19 dead (15 in India, 4 in Nepal); final figures remain uncertain and may still change.",
+      "es": "Lluvias torrenciales vinculadas a una depresión sobre la bahía de Bengala provocaron inundaciones y deslizamientos de tierra en el estado indio de Uttar Pradesh desde el 25 de septiembre. Según la agencia estatal de gestión de desastres, citada por Malay Mail y Arab News, el balance asciende a al menos 56 muertos en tres días y más de 1.000 viviendas dañadas, con lluvias localmente 19 veces superiores al promedio estacional. Se reportaron víctimas en los distritos de Lakhimpur Kheri, Amethi y Barabanki, entre ellas tres miembros de una misma familia sepultados al derrumbarse el muro de barro de su vivienda en Lakhimpur Kheri. Otros medios, como Business Recorder, citan un balance distinto de al menos 19 muertos (15 en India, 4 en Nepal); las cifras definitivas siguen siendo inciertas y podrían variar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "L'agence de gestion des catastrophes fait état d'au moins 56 morts en trois jours en Uttar Pradesh.",
+          "en": "The disaster management agency reports at least 56 dead over three days in Uttar Pradesh.",
+          "es": "La agencia de gestión de desastres informa de al menos 56 muertos en tres días en Uttar Pradesh."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bresil-operation-crime-organise",
+    "coords": [
+      -43.1729,
+      -22.9068
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🚔",
+    "source": "Police fédérale brésilienne / Rio Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Rio de Janeiro, Brésil",
+      "en": "Rio de Janeiro, Brazil",
+      "es": "Río de Janeiro, Brasil"
+    },
+    "title": {
+      "fr": "Le Brésil intensifie son offensive contre le crime organisé avant l'élection présidentielle",
+      "en": "Brazil steps up its offensive against organized crime ahead of the presidential election",
+      "es": "Brasil intensifica su ofensiva contra el crimen organizado antes de las elecciones presidenciales"
+    },
+    "summary": {
+      "fr": "La police fédérale brésilienne a lancé le 16 septembre l'opération « Força Integrada IV », mobilisant simultanément 20 bases dans 19 États et aboutissant à 137 arrestations et au gel judiciaire d'environ 508 millions de reais (près de 99 millions de dollars) d'avoirs liés au trafic de drogue et d'armes ainsi qu'au blanchiment d'argent, selon le Rio Times. Le président Luiz Inácio Lula da Silva a par ailleurs lancé le 18 septembre à Rio de Janeiro un dispositif fédéral pilote de lutte contre le crime organisé le long des principaux corridors logistiques de la ville, à seize jours de l'élection présidentielle du 4 octobre, où la sécurité figure parmi les principales préoccupations des électeurs.",
+      "en": "Brazil's Federal Police launched Operation Força Integrada IV on September 16, simultaneously mobilizing 20 bases across 19 states, resulting in 137 arrests and the court-ordered freezing of about 508 million reais (nearly US$99 million) in assets linked to drug and arms trafficking and money laundering, according to the Rio Times. President Luiz Inácio Lula da Silva also launched a federal pilot program against organized crime along Rio de Janeiro's main logistics corridors on September 18, sixteen days before the October 4 presidential election, in which security ranks among voters' top concerns.",
+      "es": "La Policía Federal de Brasil lanzó el 16 de septiembre la Operación \"Força Integrada IV\", movilizando simultáneamente 20 bases en 19 estados, con 137 detenciones y el bloqueo judicial de unos 508 millones de reales (cerca de 99 millones de dólares) en activos vinculados al narcotráfico, el tráfico de armas y el lavado de dinero, según Rio Times. El presidente Luiz Inácio Lula da Silva lanzó además el 18 de septiembre en Río de Janeiro un dispositivo federal piloto contra el crimen organizado a lo largo de los principales corredores logísticos de la ciudad, dieciséis días antes de las elecciones presidenciales del 4 de octubre, en las que la seguridad es una de las principales preocupaciones de los votantes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/09/2026",
+          "en": "18/09/2026",
+          "es": "18/09/2026"
+        },
+        "d": {
+          "fr": "Lula lance à Rio un dispositif fédéral pilote contre le crime organisé, après l'opération nationale Força Integrada IV.",
+          "en": "Lula launches a federal pilot program against organized crime in Rio, following the nationwide Força Integrada IV operation.",
+          "es": "Lula lanza en Río un dispositivo federal piloto contra el crimen organizado, tras la operación nacional Força Integrada IV."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "espagne-protestation-logement-madrid",
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "✊",
+    "source": "Fortune / presse locale espagnole",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "L'expulsion d'une femme de 87 ans déclenche des manifestations contre la crise du logement à Madrid",
+      "en": "Eviction of an 87-year-old woman sparks housing crisis protests in Madrid",
+      "es": "El desahucio de una mujer de 87 años desencadena protestas por la crisis de la vivienda en Madrid"
+    },
+    "summary": {
+      "fr": "Des manifestants ont défilé le 26 septembre dans le centre de Madrid pour protester contre la hausse des loyers et réclamer des mesures contre la crise du logement en Espagne, selon Fortune. La mobilisation a été déclenchée par l'expulsion, filmée depuis son lit d'hôpital, d'une femme de 87 ans qui vivait depuis des décennies dans son appartement madrilène, une vidéo largement partagée sur les réseaux sociaux. Une autre manifestation s'est tenue le même jour à Madrid au sujet de la situation à Ceuta.",
+      "en": "Protesters marched through central Madrid on September 26 against rising rents and to demand action on Spain's housing crisis, according to Fortune. The mobilization was triggered by the eviction of an 87-year-old woman — filmed from her hospital bed — who had lived in her Madrid apartment for decades, a video widely shared on social media. A separate demonstration over the situation in Ceuta was also held in Madrid the same day.",
+      "es": "Manifestantes marcharon el 26 de septiembre por el centro de Madrid contra la subida de los alquileres y para exigir medidas frente a la crisis de la vivienda en España, según Fortune. La movilización fue detonada por el desahucio, grabado desde su cama de hospital, de una mujer de 87 años que vivía desde hacía décadas en su piso madrileño, un vídeo ampliamente compartido en redes sociales. Ese mismo día se celebró en Madrid otra manifestación sobre la situación en Ceuta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Manifestation à Madrid contre la crise du logement après la diffusion virale de l'expulsion d'une femme de 87 ans.",
+          "en": "Protest in Madrid against the housing crisis after the eviction of an 87-year-old woman goes viral.",
+          "es": "Manifestación en Madrid contra la crisis de la vivienda tras la viralización del desahucio de una mujer de 87 años."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "italie-greve-transports-nationale",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "✊",
+    "source": "Presse italienne (Dolcevia / FinChannel)",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Rome, Italie",
+      "en": "Rome, Italy",
+      "es": "Roma, Italia"
+    },
+    "title": {
+      "fr": "Une grève nationale des transports paralyse trains, ferries et bus en Italie",
+      "en": "A nationwide transport strike paralyzes trains, ferries and buses in Italy",
+      "es": "Una huelga nacional de transportes paraliza trenes, ferris y autobuses en Italia"
+    },
+    "summary": {
+      "fr": "Les services ferroviaires et maritimes ont été interrompus du 25 septembre à 21 heures au 26 septembre à 21 heures, et les transports publics locaux touchés de 8 heures à 21 heures le 26 septembre, dans le cadre d'une grève nationale des transports en Italie, selon la presse spécialisée (Dolcevia, FinChannel). Une grève régionale a également concerné les services ferroviaires sous contrat en Campanie. Ce mouvement s'inscrit dans une série de grèves annoncées pour le mois de septembre 2026 sur l'ensemble du réseau de transport italien.",
+      "en": "Rail and maritime services were halted from 9pm on September 25 to 9pm on September 26, and local public transport was disrupted from 8am to 9pm on September 26, as part of a nationwide transport strike in Italy, according to specialist outlets Dolcevia and FinChannel. A regional strike also affected contracted rail services in Campania. The action is part of a series of strikes announced for September 2026 across Italy's transport network.",
+      "es": "Los servicios ferroviarios y marítimos se interrumpieron desde las 21:00 del 25 de septiembre hasta las 21:00 del 26 de septiembre, y el transporte público local se vio afectado de 8:00 a 21:00 el 26 de septiembre, en el marco de una huelga nacional de transportes en Italia, según medios especializados (Dolcevia, FinChannel). Una huelga regional también afectó a los servicios ferroviarios contratados en Campania. La medida forma parte de una serie de huelgas anunciadas para septiembre de 2026 en toda la red de transporte italiana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "La grève nationale des transports touche trains, ferries et transports publics locaux en Italie.",
+          "en": "The nationwide transport strike hits trains, ferries and local public transport in Italy.",
+          "es": "La huelga nacional de transportes afecta a trenes, ferris y transporte público local en Italia."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "canada-tarifs-douaniers-etats-unis",
+    "coords": [
+      -75.6972,
+      45.4215
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛃",
+    "source": "NPR / Al Jazeera / The Hill",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Ottawa, Canada",
+      "en": "Ottawa, Canada",
+      "es": "Ottawa, Canadá"
+    },
+    "title": {
+      "fr": "Le Canada active ses tarifs de rétorsion après l'échec des négociations commerciales avec les États-Unis",
+      "en": "Canada enacts retaliatory tariffs after trade talks with the US collapse",
+      "es": "Canadá activa sus aranceles de represalia tras el fracaso de las negociaciones comerciales con Estados Unidos"
+    },
+    "summary": {
+      "fr": "Après l'échec des négociations commerciales avec Washington, le premier ministre canadien Mark Carney a annoncé que le Canada appliquerait, à partir du 8 septembre, des droits de douane de rétorsion « dollar pour dollar » visant notamment l'acier, les produits laitiers et l'électronique américains, en réponse aux surtaxes de 50 % imposées fin août par les États-Unis sur environ 20 milliards de dollars de produits canadiens, selon NPR, Al Jazeera et The Hill. M. Carney a qualifié la situation de guerre commerciale, estimant que le Canada avait été « attaqué ».",
+      "en": "After trade talks with Washington collapsed, Canadian Prime Minister Mark Carney announced Canada would apply retaliatory tariffs \"dollar for dollar,\" starting September 8, targeting US steel, dairy and electronics among other goods, in response to the 50% tariffs the United States imposed in late August on about $20 billion of Canadian products, according to NPR, Al Jazeera and The Hill. Carney described the situation as a trade war, saying Canada had been \"attacked.\"",
+      "es": "Tras el fracaso de las negociaciones comerciales con Washington, el primer ministro canadiense Mark Carney anunció que Canadá aplicaría, a partir del 8 de septiembre, aranceles de represalia \"dólar por dólar\" dirigidos, entre otros, al acero, los lácteos y la electrónica estadounidenses, en respuesta a los aranceles del 50% que Estados Unidos impuso a fines de agosto sobre unos 20.000 millones de dólares en productos canadienses, según NPR, Al Jazeera y The Hill. Carney calificó la situación de guerra comercial, afirmando que Canadá había sido \"atacado\"."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Les tarifs de rétorsion canadiens contre les États-Unis entrent en vigueur.",
+          "en": "Canada's retaliatory tariffs against the United States take effect.",
+          "es": "Entran en vigor los aranceles de represalia de Canadá contra Estados Unidos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "espagne-angleterre-ligue-nations",
+    "coords": [
+      -0.2795,
+      51.556
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "ESPN",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Stade de Wembley, Londres, Royaume-Uni",
+      "en": "Wembley Stadium, London, United Kingdom",
+      "es": "Estadio de Wembley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "L'Espagne renverse l'Angleterre 3-2 à Wembley en Ligue des nations",
+      "en": "Spain comes from behind to beat England 3-2 at Wembley in the Nations League",
+      "es": "España remonta y vence 3-2 a Inglaterra en Wembley en la Liga de Naciones"
+    },
+    "summary": {
+      "fr": "L'Espagne, championne du monde en titre, a battu l'Angleterre 3-2 à Wembley le 26 septembre en Ligue des nations de l'UEFA, selon ESPN. Les Espagnols ont profité d'un penalty manqué par Harry Kane pour compléter leur remontée. Cette victoire porte à 39 matchs la série sans défaite de la sélection espagnole.",
+      "en": "World champions Spain beat England 3-2 at Wembley on September 26 in the UEFA Nations League, according to ESPN. Spain capitalized on a missed penalty by Harry Kane to complete their comeback. The win extends Spain's unbeaten run to 39 matches.",
+      "es": "España, vigente campeona del mundo, venció 3-2 a Inglaterra en Wembley el 26 de septiembre en la Liga de Naciones de la UEFA, según ESPN. Los españoles aprovecharon un penalti fallado por Harry Kane para completar su remontada. La victoria extiende a 39 partidos la racha invicta de la selección española."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "L'Espagne bat l'Angleterre 3-2 à Wembley et prolonge sa série d'invincibilité à 39 matchs.",
+          "en": "Spain beats England 3-2 at Wembley and extends its unbeaten run to 39 matches.",
+          "es": "España vence 3-2 a Inglaterra en Wembley y extiende su racha invicta a 39 partidos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "jeux-asiatiques-basket-feminin-2026",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏀",
+    "source": "SBS / Japan Times / Korea Times",
+    "week": "2026-W39",
+    "place": {
+      "fr": "Arène internationale d'Aichi, Nagoya, Japon",
+      "en": "Aichi International Arena, Nagoya, Japan",
+      "es": "Aichi International Arena, Nagoya, Japón"
+    },
+    "title": {
+      "fr": "La Corée du Sud décroche l'or du basket féminin aux Jeux asiatiques face au Japon",
+      "en": "South Korea claims women's basketball gold at the Asian Games over Japan",
+      "es": "Corea del Sur se lleva el oro del baloncesto femenino en los Juegos Asiáticos ante Japón"
+    },
+    "summary": {
+      "fr": "La Corée du Sud a battu le Japon 75-70 en finale du tournoi féminin de basket-ball des Jeux asiatiques 2026, le 26 septembre devant 17 000 spectateurs à l'Aichi International Arena de Nagoya, selon SBS, le Japan Times et le Korea Times. Lee Hae-ran a inscrit 24 points pour les Sud-Coréennes, Kang Lee-seul 21 ; le Japon, à la recherche d'un premier titre depuis 1998, était mené par les 23 points de Haru Owaki. Il s'agit du quatrième titre continental sud-coréen dans la discipline, le premier depuis 2014.",
+      "en": "South Korea beat Japan 75-70 in the women's basketball final of the 2026 Asian Games on September 26, in front of 17,000 spectators at the Aichi International Arena in Nagoya, according to SBS, the Japan Times and the Korea Times. Lee Hae-ran scored 24 points for South Korea and Kang Lee-seul added 21; Japan, seeking its first title since 1998, was led by Haru Owaki's 23 points. It is South Korea's fourth continental title in the sport, its first since 2014.",
+      "es": "Corea del Sur venció a Japón 75-70 en la final del torneo femenino de baloncesto de los Juegos Asiáticos 2026, el 26 de septiembre ante 17.000 espectadores en el Aichi International Arena de Nagoya, según SBS, Japan Times y Korea Times. Lee Hae-ran anotó 24 puntos para las surcoreanas y Kang Lee-seul sumó 21; Japón, que buscaba su primer título desde 1998, estuvo liderado por los 23 puntos de Haru Owaki. Es el cuarto título continental de Corea del Sur en esta disciplina, el primero desde 2014."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "La Corée du Sud remporte l'or face au Japon (75-70) en finale du basket féminin des Jeux asiatiques.",
+          "en": "South Korea wins gold over Japan (75-70) in the Asian Games women's basketball final.",
+          "es": "Corea del Sur gana el oro ante Japón (75-70) en la final de baloncesto femenino de los Juegos Asiáticos."
         },
         "active": true
       }
