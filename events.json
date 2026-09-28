@@ -829,5 +829,904 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "us-noreaster-inondations",
+    "coords": [
+      -73.9442,
+      40.6782
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "NBC News / CBS News / CNN",
+    "place": {
+      "fr": "Brooklyn, New York, États-Unis",
+      "en": "Brooklyn, New York, United States",
+      "es": "Brooklyn, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Une violente tempête (nor'easter) fait un mort et prive 130 000 foyers d'électricité dans le nord-est des États-Unis",
+      "en": "Powerful nor'easter kills one, cuts power to 130,000 homes in the northeastern US",
+      "es": "Una violenta tormenta ('nor'easter') deja un muerto y sin electricidad a 130.000 hogares en el noreste de EE. UU."
+    },
+    "summary": {
+      "fr": "Une tempête automnale inhabituellement puissante a frappé le nord-est des États-Unis du 26 au 27 septembre, avec des vents atteignant 130 km/h à Montauk (New York) et des inondations côtières. Un employé municipal de 56 ans est mort à Brooklyn après la chute d'un arbre, et quatre autres personnes ont été blessées lors d'un incident similaire. Plus de 130 000 foyers ont été privés d'électricité, principalement dans l'État de New York, selon NBC News, CBS News et CNN.",
+      "en": "An unusually powerful autumn storm battered the northeastern United States from September 26-27, with wind gusts up to 81 mph (130 km/h) at Montauk, New York, and coastal flooding. A 56-year-old city housing worker was killed in Brooklyn when a tree fell on him, and four other people were injured in a similar incident. More than 130,000 homes lost power, mostly in New York State, according to NBC News, CBS News and CNN.",
+      "es": "Una tormenta otoñal inusualmente potente azotó el noreste de Estados Unidos del 26 al 27 de septiembre, con ráfagas de viento de hasta 130 km/h en Montauk (Nueva York) e inundaciones costeras. Un empleado municipal de 56 años murió en Brooklyn al caerle un árbol encima, y otras cuatro personas resultaron heridas en un incidente similar. Más de 130.000 hogares se quedaron sin electricidad, principalmente en el estado de Nueva York, según NBC News, CBS News y CNN."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "La tempête atteint son pic avec un mort à Brooklyn et plus de 130 000 foyers privés d'électricité, selon plusieurs médias américains.",
+          "en": "The storm peaks with one death in Brooklyn and more than 130,000 homes without power, according to several US media outlets.",
+          "es": "La tormenta alcanza su punto máximo con un muerto en Brooklyn y más de 130.000 hogares sin electricidad, según varios medios estadounidenses."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "us-cour-supreme-save",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / NPR / DHS",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême autorise l'usage d'un système de vérification de citoyenneté des électeurs",
+      "en": "Supreme Court allows use of a voter citizenship-verification system to proceed",
+      "es": "La Corte Suprema autoriza el uso de un sistema de verificación de ciudadanía de los votantes"
+    },
+    "summary": {
+      "fr": "Par 6 voix contre 3, la Cour suprême des États-Unis a suspendu le 25 septembre une injonction d'un tribunal fédéral inférieur et autorisé les États à utiliser la base de données fédérale « SAVE », reliée aux registres de la Sécurité sociale, pour vérifier la citoyenneté des électeurs inscrits avant les élections de mi-mandat. Le ministère de la Sécurité intérieure (DHS) a salué la décision, tandis que la juge Ketanji Brown Jackson, rejointe par deux autres juges, a exprimé sa dissidence. Des critiques, citant une étude menée au Texas, affirment que l'outil a parfois signalé à tort des citoyens américains comme non-citoyens.",
+      "en": "In a 6-3 decision on September 25, the US Supreme Court stayed a lower federal court injunction and allowed states to use the federal \"SAVE\" database, linked to Social Security records, to check the citizenship status of registered voters ahead of the midterm elections. The Department of Homeland Security welcomed the ruling, while Justice Ketanji Brown Jackson, joined by two other justices, dissented. Critics, citing a Texas-based analysis, say the tool has at times wrongly flagged US citizens as noncitizens.",
+      "es": "Por 6 votos contra 3, la Corte Suprema de EE. UU. suspendió el 25 de septiembre una orden de un tribunal federal inferior y autorizó a los estados a usar la base de datos federal «SAVE», vinculada a los registros de la Seguridad Social, para verificar la ciudadanía de los votantes inscritos antes de las elecciones de mitad de mandato. El Departamento de Seguridad Nacional (DHS) celebró la decisión, mientras que la jueza Ketanji Brown Jackson, junto con otras dos juezas, emitió un voto disidente. Algunos críticos, citando un análisis realizado en Texas, afirman que la herramienta ha señalado erróneamente a ciudadanos estadounidenses como no ciudadanos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême autorise, par 6 voix contre 3, l'utilisation du système SAVE pour vérifier la citoyenneté des électeurs.",
+          "en": "The Supreme Court allows, by a 6-3 vote, the use of the SAVE system to verify voters' citizenship.",
+          "es": "La Corte Suprema autoriza, por 6 votos contra 3, el uso del sistema SAVE para verificar la ciudadanía de los votantes."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "bresil-interdiction-paris-sportifs",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🎲",
+    "source": "Associated Press / NBC News / US News",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Le président Lula interdit les paris sportifs en ligne à l'approche de la présidentielle",
+      "en": "President Lula bans online sports betting ahead of the presidential election",
+      "es": "El presidente Lula prohíbe las apuestas deportivas en línea antes de la presidencial"
+    },
+    "summary": {
+      "fr": "Le président Luiz Inácio Lula da Silva a signé le 25 septembre une mesure provisoire interdisant l'ensemble des opérateurs de paris en ligne agréés au Brésil, revenant sur la loi qui avait régulé ce secteur. Les sites devront cesser d'accepter des dépôts et seront bloqués à partir du 6 octobre; les parieurs ont jusqu'au 5 octobre pour retirer leurs fonds. Lula justifie cette décision par l'endettement des ménages lié aux jeux d'argent, qu'un institut de politique de santé évalue à environ 38,8 milliards de reals (7,7 milliards de dollars) par an pour le système de santé public, selon l'AP, NBC News et US News. La mesure doit encore être approuvée par le Congrès dans un délai de 120 jours, à neuf jours du premier tour de la présidentielle du 4 octobre.",
+      "en": "President Luiz Inácio Lula da Silva signed a provisional measure on September 25 banning all licensed online betting operators in Brazil, reversing the country's recently regulated 'Bets Law.' Sites must stop accepting deposits immediately and will be blocked starting October 6; bettors have until October 5 to withdraw funds. Lula cited household debt linked to gambling, which a health-policy institute estimates costs Brazil's public health system about 38.8 billion reais ($7.7 billion) a year, according to AP, NBC News and US News. The measure still needs congressional approval within 120 days, coming nine days before the October 4 first-round presidential vote.",
+      "es": "El presidente Luiz Inácio Lula da Silva firmó el 25 de septiembre una medida provisional que prohíbe a todos los operadores de apuestas en línea autorizados en Brasil, revirtiendo la ley que había regulado ese sector. Los sitios deberán dejar de aceptar depósitos de inmediato y serán bloqueados a partir del 6 de octubre; los apostadores tienen hasta el 5 de octubre para retirar sus fondos. Lula justificó la medida por el endeudamiento de los hogares vinculado al juego, que un instituto de política sanitaria estima en unos 38.800 millones de reales (7.700 millones de dólares) anuales para el sistema de salud público, según AP, NBC News y US News. La medida aún debe ser aprobada por el Congreso en un plazo de 120 días, nueve días antes de la primera vuelta presidencial del 4 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Lula signe une mesure provisoire interdisant les paris sportifs en ligne au Brésil.",
+          "en": "Lula signs a provisional measure banning online sports betting in Brazil.",
+          "es": "Lula firma una medida provisional que prohíbe las apuestas deportivas en línea en Brasil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "mexique-ruffo-residence-surveillee",
+    "coords": [
+      -116.6056,
+      31.8667
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "El Financiero / La Jornada / La Silla Rota",
+    "place": {
+      "fr": "Ensenada, Basse-Californie, Mexique",
+      "en": "Ensenada, Baja California, Mexico",
+      "es": "Ensenada, Baja California, México"
+    },
+    "title": {
+      "fr": "L'ex-gouverneur de Basse-Californie Ernesto Ruffo Appel placé en résidence surveillée",
+      "en": "Former Baja California governor Ernesto Ruffo Appel placed under house arrest",
+      "es": "El exgobernador de Baja California Ernesto Ruffo Appel es puesto en prisión domiciliaria"
+    },
+    "summary": {
+      "fr": "Un juge de contrôle a accordé le 25 septembre la résidence surveillée à Ernesto Ruffo Appel, 74 ans, ex-gouverneur de Basse-Californie, modifiant la détention provisoire qui le retenait depuis juillet à la prison de haute sécurité de l'Altiplano. Transféré le 26 septembre à son domicile d'Ensenada, il reste poursuivi pour crime organisé et contrebande de carburant (« huachicol ») ainsi que blanchiment d'argent, selon El Financiero, La Jornada et La Silla Rota. Le juge a invoqué son âge et son état de santé; il devra porter un dispositif de surveillance, remettre son passeport et se présenter quotidiennement aux autorités. Le parquet fédéral (FGR) a précisé que la procédure pénale se poursuit malgré le changement de régime de détention.",
+      "en": "A control judge granted house arrest on September 25 to 74-year-old Ernesto Ruffo Appel, former governor of Baja California, modifying the pretrial detention that had held him since July at the Altiplano maximum-security prison. Transferred on September 26 to his home in Ensenada, he remains charged with organized crime and fuel smuggling ('huachicol') as well as money laundering, according to El Financiero, La Jornada and La Silla Rota. The judge cited his age and health; he must wear a monitoring device, surrender his passport and report to authorities daily. Mexico's federal Attorney General's Office (FGR) said the criminal proceedings continue despite the change in custody.",
+      "es": "Un juez de control otorgó el 25 de septiembre prisión domiciliaria a Ernesto Ruffo Appel, de 74 años, exgobernador de Baja California, modificando la prisión preventiva que lo mantenía desde julio en el penal de alta seguridad del Altiplano. Trasladado el 26 de septiembre a su domicilio en Ensenada, sigue procesado por delincuencia organizada y contrabando de combustible ('huachicol'), además de lavado de dinero, según El Financiero, La Jornada y La Silla Rota. El juez citó su edad y su estado de salud; deberá portar un dispositivo de vigilancia, entregar su pasaporte y presentarse diariamente ante las autoridades. La Fiscalía General de la República (FGR) precisó que el proceso penal continúa pese al cambio de régimen de reclusión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Ernesto Ruffo Appel est transféré de la prison de l'Altiplano à son domicile d'Ensenada.",
+          "en": "Ernesto Ruffo Appel is transferred from Altiplano prison to his home in Ensenada.",
+          "es": "Ernesto Ruffo Appel es trasladado del penal del Altiplano a su domicilio en Ensenada."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "chine-usa-accord-tarifs",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "CNBC / US News / ABC News Australia",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington, D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Chine et États-Unis s'accordent sur une baisse de tarifs douaniers et un dialogue sur l'IA",
+      "en": "China and the US agree to cut tariffs and launch an AI dialogue",
+      "es": "China y EE. UU. acuerdan reducir aranceles y lanzar un diálogo sobre IA"
+    },
+    "summary": {
+      "fr": "À l'issue d'un sommet de trois jours à Washington entre les présidents Xi Jinping et Donald Trump, la Chine et les États-Unis ont annoncé le 26 septembre une réduction de tarifs douaniers — évaluée à 30 milliards de dollars selon CNBC et US News, à 42 milliards selon ABC Australia — ainsi que l'ouverture d'un dialogue bilatéral sur l'intelligence artificielle. Pékin indique que la baisse concerne des exportations américaines (produits agricoles, bois, cosmétiques) et des importations chinoises (petits appareils électroménagers, jouets, articles de décoration). Les deux pays ont convenu de créer un conseil commercial et de tenir un nouveau cycle de dialogue sur l'IA en novembre, prolongeant la trêve commerciale initialement prévue jusqu'au 10 novembre.",
+      "en": "Following a three-day summit in Washington between Presidents Xi Jinping and Donald Trump, China and the United States announced on September 26 a cut in tariffs — valued at $30 billion according to CNBC and US News, $42 billion according to ABC Australia — along with a new bilateral dialogue on artificial intelligence. Beijing said the cuts cover US exports (agricultural goods, wood, cosmetics) and Chinese imports (small appliances, toys, decorations). Both countries agreed to set up a trade council and hold a new round of AI talks in November, extending the trade truce originally due to expire November 10.",
+      "es": "Tras una cumbre de tres días en Washington entre los presidentes Xi Jinping y Donald Trump, China y Estados Unidos anunciaron el 26 de septiembre una reducción de aranceles —valorada en 30.000 millones de dólares según CNBC y US News, y en 42.000 millones según ABC Australia— junto con un nuevo diálogo bilateral sobre inteligencia artificial. Pekín indicó que los recortes abarcan exportaciones estadounidenses (productos agrícolas, madera, cosméticos) e importaciones chinas (pequeños electrodomésticos, juguetes, artículos decorativos). Ambos países acordaron crear un consejo comercial y celebrar una nueva ronda de diálogo sobre IA en noviembre, prolongando la tregua comercial que en principio vencía el 10 de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Pékin et Washington annoncent une baisse de tarifs douaniers et un dialogue bilatéral sur l'IA, à l'issue du sommet Xi-Trump.",
+          "en": "Beijing and Washington announce a tariff cut and a bilateral AI dialogue at the close of the Xi-Trump summit.",
+          "es": "Pekín y Washington anuncian una reducción de aranceles y un diálogo bilateral sobre IA al cierre de la cumbre Xi-Trump."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "japon-jeux-asiatiques-natation",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏊",
+    "source": "Olympics.com / The Japan Times / SwimSwam",
+    "place": {
+      "fr": "Nagoya, Japon",
+      "en": "Nagoya, Japan",
+      "es": "Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques 2026 : le Japonais Kodai Nishiono sacré sur 200 m dos",
+      "en": "2026 Asian Games: Japan's Kodai Nishiono wins gold in the 200m backstroke",
+      "es": "Juegos Asiáticos 2026: el japonés Kodai Nishiono gana el oro en 200 m espalda"
+    },
+    "summary": {
+      "fr": "Le nageur japonais Kodai Nishiono, 23 ans, a remporté l'or du 200 m dos aux Jeux asiatiques d'Aichi-Nagoya le 26 septembre, en 1 min 56 s 42. Le Sud-Coréen Lee Juho a pris l'argent et le Chinois Xu Jiayu le bronze, selon Olympics.com, The Japan Times et SwimSwam. Le même jour, des skateurs japonais ont également décroché des médailles d'or dans leur discipline.",
+      "en": "Japanese swimmer Kodai Nishiono, 23, won gold in the men's 200m backstroke at the Aichi-Nagoya Asian Games on September 26, with a time of 1:56.42. South Korea's Lee Juho took silver and China's Xu Jiayu bronze, according to Olympics.com, The Japan Times and SwimSwam. The same day, Japanese skateboarders also won gold medals in their event.",
+      "es": "El nadador japonés Kodai Nishiono, de 23 años, ganó el oro en los 200 m espalda masculinos en los Juegos Asiáticos de Aichi-Nagoya el 26 de septiembre, con un tiempo de 1:56.42. El surcoreano Lee Juho obtuvo la plata y el chino Xu Jiayu el bronce, según Olympics.com, The Japan Times y SwimSwam. Ese mismo día, patinadores japoneses también consiguieron medallas de oro en su disciplina."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Kodai Nishiono remporte l'or du 200 m dos aux Jeux asiatiques d'Aichi-Nagoya.",
+          "en": "Kodai Nishiono wins gold in the 200m backstroke at the Aichi-Nagoya Asian Games.",
+          "es": "Kodai Nishiono gana el oro en los 200 m espalda en los Juegos Asiáticos de Aichi-Nagoya."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "japon-typhon-surigae",
+    "coords": [
+      127.6792,
+      26.2124
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "The Japan Times / Weathernews",
+    "place": {
+      "fr": "Okinawa, Japon",
+      "en": "Okinawa, Japan",
+      "es": "Okinawa, Japón"
+    },
+    "title": {
+      "fr": "Le super typhon Surigae approche d'Okinawa avant de remonter vers le Kanto",
+      "en": "Super Typhoon Surigae nears Okinawa before tracking toward the Kanto region",
+      "es": "El supertifón Surigae se acerca a Okinawa antes de dirigirse hacia la región de Kanto"
+    },
+    "summary": {
+      "fr": "Le typhon Surigae, 26e tempête nommée de la saison dans le Pacifique, s'est approché d'Okinawa et des îles Amami à partir du 25 septembre. Classé « très fort » par l'Agence météorologique japonaise et « super typhon » par le Centre commun d'alerte aux typhons américain, il devait ensuite se diriger vers les îles Izu et la région du Kanto, selon The Japan Times et Weathernews. Les autorités ont averti d'un risque de vagues et de vents violents même hors de sa trajectoire directe; la saison 2026 est déjà la plus active en nombre de cyclones depuis 1966 au Japon.",
+      "en": "Typhoon Surigae, the season's 26th named Pacific storm, neared Okinawa and the Amami islands from September 25. Classified as 'very strong' by the Japan Meteorological Agency and upgraded to 'super typhoon' by the US Joint Typhoon Warning Center, it was forecast to then track toward the Izu Islands and the Kanto region, according to The Japan Times and Weathernews. Officials warned of high waves and violent winds even outside its direct path; the 2026 season is already Japan's most active for cyclone counts since 1966.",
+      "es": "El tifón Surigae, la vigésimo sexta tormenta con nombre de la temporada en el Pacífico, se acercó a Okinawa y las islas Amami a partir del 25 de septiembre. Clasificado como 'muy fuerte' por la Agencia Meteorológica de Japón y elevado a 'supertifón' por el Centro Conjunto de Alerta de Tifones de EE. UU., se pronosticaba que luego se dirigiera hacia las islas Izu y la región de Kanto, según The Japan Times y Weathernews. Las autoridades advirtieron de riesgo de oleaje y vientos violentos incluso fuera de su trayectoria directa; la temporada 2026 ya es la más activa en número de ciclones para Japón desde 1966."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Le typhon Surigae poursuit sa trajectoire vers les îles Izu et la région du Kanto, selon l'Agence météorologique japonaise.",
+          "en": "Typhoon Surigae continues on track toward the Izu Islands and the Kanto region, according to the Japan Meteorological Agency.",
+          "es": "El tifón Surigae continúa su trayectoria hacia las islas Izu y la región de Kanto, según la Agencia Meteorológica de Japón."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "inde-noyades-ganesh",
+    "coords": [
+      72.8311,
+      21.1702
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌊",
+    "source": "ThePrint / Gujarat Samachar / NewsBytes",
+    "place": {
+      "fr": "Surat, Morbi, Dholka et Amreli, Gujarat, Inde",
+      "en": "Surat, Morbi, Dholka and Amreli, Gujarat, India",
+      "es": "Surat, Morbi, Dholka y Amreli, Guyarat, India"
+    },
+    "title": {
+      "fr": "Au moins dix noyades lors des immersions de Ganesh au Gujarat",
+      "en": "At least ten drown during Ganesh idol immersions in Gujarat",
+      "es": "Al menos diez muertos ahogados durante las inmersiones de Ganesh en Guyarat"
+    },
+    "summary": {
+      "fr": "Au moins dix personnes se sont noyées dans l'État du Gujarat les 25 et 26 septembre lors des cérémonies d'immersion des statues de Ganesh, selon les médias indiens ThePrint, Gujarat Samachar et NewsBytes. À Surat, trois jeunes hommes sont morts après le chavirage de leur embarcation près du village de Dhoran Pardi; à Morbi, deux jeunes se sont noyés dans la rivière Machchhu; deux adolescents sont morts à Dholka et quatre corps ont été retrouvés dans un barrage du district d'Amreli où un groupe se baignait. Ces informations proviennent de médias indiens nationaux et régionaux; aucune agence internationale n'a pour l'heure confirmé ce bilan de façon indépendante.",
+      "en": "At least ten people drowned in Gujarat state on September 25-26 during Ganesh idol immersion ceremonies, according to Indian outlets ThePrint, Gujarat Samachar and NewsBytes. In Surat, three young men died when their boat capsized near Dhoran Pardi village; in Morbi, two youths drowned in the Machchhu river; two teenagers died in Dholka, and four bodies were recovered from a check dam in Amreli district where a group had been bathing. This reporting comes from Indian national and regional media; no international wire service has independently confirmed the toll so far.",
+      "es": "Al menos diez personas murieron ahogadas en el estado de Guyarat los días 25 y 26 de septiembre durante las ceremonias de inmersión de los ídolos de Ganesh, según los medios indios ThePrint, Gujarat Samachar y NewsBytes. En Surat, tres jóvenes murieron al volcar su embarcación cerca del pueblo de Dhoran Pardi; en Morbi, dos jóvenes se ahogaron en el río Machchhu; dos adolescentes murieron en Dholka y se recuperaron cuatro cuerpos de una presa de contención en el distrito de Amreli donde un grupo se estaba bañando. Esta información proviene de medios indios nacionales y regionales; ninguna agencia internacional ha confirmado de forma independiente este balance hasta el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan des noyades liées aux immersions de Ganesh atteint au moins dix morts dans plusieurs localités du Gujarat.",
+          "en": "The death toll from drownings linked to Ganesh immersions reaches at least ten across several Gujarat localities.",
+          "es": "El balance de ahogamientos vinculados a las inmersiones de Ganesh alcanza al menos diez muertos en varias localidades de Guyarat."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "uk-fairford-arrestations",
+    "coords": [
+      -1.79,
+      51.682
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💣",
+    "source": "Gloucestershire Constabulary / CNN / CBS News / NBC News",
+    "place": {
+      "fr": "Whelford, près de la base aérienne de RAF Fairford, Gloucestershire, Royaume-Uni",
+      "en": "Whelford, near RAF Fairford air base, Gloucestershire, United Kingdom",
+      "es": "Whelford, cerca de la base aérea de RAF Fairford, Gloucestershire, Reino Unido"
+    },
+    "title": {
+      "fr": "Cinq hommes arrêtés pour un projet d'attentat présumé près d'une base aérienne utilisée par les forces américaines",
+      "en": "Five men arrested over suspected terror plot near a US-used air base",
+      "es": "Cinco hombres detenidos por un presunto complot terrorista cerca de una base aérea usada por fuerzas de EE. UU."
+    },
+    "summary": {
+      "fr": "Cinq hommes ont été arrêtés dans la nuit du 27 septembre dans le village de Whelford, près de la base aérienne de RAF Fairford utilisée par les forces américaines au Royaume-Uni, initialement pour infraction à la législation sur les explosifs puis pour suspicion de préparation d'un acte terroriste, selon la police du Gloucestershire, CNN, CBS News et NBC News. Des unités de déminage ont fouillé des véhicules interceptés et au moins 85 habitations voisines ont été évacuées; la police a déclaré un « incident majeur ». Le président américain Donald Trump a déclaré que les suspects étaient sous surveillance et « cherchaient à causer de gros dégâts » à la base; aucun engin explosif n'aurait détoné et les cinq hommes restaient en garde à vue au moment des faits rapportés.",
+      "en": "Five men were arrested overnight on September 27 in the village of Whelford, near RAF Fairford, an air base used by US forces in the UK, initially on suspicion of explosives offences and later on suspicion of preparing a terrorist act, according to Gloucestershire Constabulary, CNN, CBS News and NBC News. Bomb disposal units searched intercepted vehicles and at least 85 nearby homes were evacuated; police declared a 'major incident.' US President Donald Trump said the suspects had been under investigation and were 'looking to do big damage' to the base; no explosives reportedly detonated, and the five men remained in custody at the time of reporting.",
+      "es": "Cinco hombres fueron detenidos durante la madrugada del 27 de septiembre en el pueblo de Whelford, cerca de la base aérea de RAF Fairford, utilizada por fuerzas estadounidenses en el Reino Unido, inicialmente por sospecha de delitos relacionados con explosivos y luego por sospecha de preparar un acto terrorista, según la policía de Gloucestershire, CNN, CBS News y NBC News. Unidades de desactivación de explosivos registraron vehículos interceptados y al menos 85 viviendas cercanas fueron evacuadas; la policía declaró un 'incidente mayor'. El presidente estadounidense Donald Trump afirmó que los sospechosos estaban bajo investigación y 'buscaban causar grandes daños' a la base; según lo informado, no llegó a detonar ningún explosivo, y los cinco hombres permanecían bajo custodia en el momento de la información."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Cinq hommes sont arrêtés près de RAF Fairford; la police déclare un incident majeur et évacue au moins 85 habitations.",
+          "en": "Five men are arrested near RAF Fairford; police declare a major incident and evacuate at least 85 homes.",
+          "es": "Cinco hombres son detenidos cerca de RAF Fairford; la policía declara un incidente mayor y evacúa al menos 85 viviendas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "ukraine-russie-frappes-croisees",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / France 24 / AP",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine, et région de Krasnodar, Russie",
+      "en": "Kyiv, Ukraine, and Krasnodar region, Russia",
+      "es": "Kiev, Ucrania, y región de Krasnodar, Rusia"
+    },
+    "title": {
+      "fr": "Des frappes croisées entre la Russie et l'Ukraine font une dizaine de morts",
+      "en": "Cross-border Russian and Ukrainian strikes leave around ten dead",
+      "es": "Ataques cruzados entre Rusia y Ucrania dejan una decena de muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 25 au 26 septembre, des frappes russes ont tué quatre personnes en Ukraine — à Kyiv, Zaporijjia et dans les régions d'Odessa, de Soumy et de Kharkiv — tandis que des frappes ukrainiennes ont tué six personnes en Russie et en territoire occupé, selon Al Jazeera, France 24 et une dépêche AP. Un drone russe a provoqué un incendie dans un entrepôt près de Kyiv et endommagé des bâtiments dans la capitale; une attaque de drones ukrainiens sur la région russe de Krasnodar aurait fait trois morts et deux blessés, selon les autorités russes. Le président américain Donald Trump a appelé le président ukrainien Volodymyr Zelensky à « trouver un accord » avec Vladimir Poutine à la suite de ces échanges.",
+      "en": "Overnight on September 25-26, Russian strikes killed four people in Ukraine — in Kyiv, Zaporizhzhia and the Odesa, Sumy and Kharkiv regions — while Ukrainian strikes killed six people in Russia and Russian-occupied territory, according to Al Jazeera, France 24 and an AP wire report. A Russian drone strike sparked a fire at a warehouse near Kyiv and damaged buildings in the capital; a Ukrainian drone attack on Russia's Krasnodar region reportedly killed three and wounded two, according to Russian authorities. US President Donald Trump called on Ukrainian President Volodymyr Zelensky to 'settle' with Vladimir Putin following the exchange of strikes.",
+      "es": "En la noche del 25 al 26 de septiembre, ataques rusos mataron a cuatro personas en Ucrania —en Kiev, Zaporiyia y las regiones de Odesa, Sumy y Járkov— mientras que ataques ucranianos mataron a seis personas en Rusia y en territorio ocupado, según Al Jazeera, France 24 y un despacho de AP. Un ataque con dron ruso provocó un incendio en un almacén cerca de Kiev y dañó edificios en la capital; un ataque con drones ucranianos contra la región rusa de Krasnodar habría matado a tres personas y herido a dos, según las autoridades rusas. El presidente estadounidense Donald Trump instó al presidente ucraniano Volodímir Zelenski a 'llegar a un acuerdo' con Vladímir Putin tras estos ataques cruzados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Des frappes russes et ukrainiennes croisées font une dizaine de morts au total, selon Al Jazeera et France 24.",
+          "en": "Cross-border Russian and Ukrainian strikes leave around ten dead in total, according to Al Jazeera and France 24.",
+          "es": "Ataques cruzados entre Rusia y Ucrania dejan una decena de muertos en total, según Al Jazeera y France 24."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "allemagne-russie-pourparlers",
+    "coords": [
+      -73.9857,
+      40.7484
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Bloomberg / CNN / CNBC / Al Jazeera",
+    "place": {
+      "fr": "New York, États-Unis (en marge de l'Assemblée générale de l'ONU)",
+      "en": "New York, United States (on the sidelines of the UN General Assembly)",
+      "es": "Nueva York, Estados Unidos (en el marco de la Asamblea General de la ONU)"
+    },
+    "title": {
+      "fr": "L'Allemagne et la Russie tiennent leurs premiers pourparlers diplomatiques depuis 2022",
+      "en": "Germany and Russia hold first diplomatic talks since 2022",
+      "es": "Alemania y Rusia mantienen sus primeras conversaciones diplomáticas desde 2022"
+    },
+    "summary": {
+      "fr": "Le ministre allemand des Affaires étrangères Johann Wadephul et son homologue russe Sergueï Lavrov se sont rencontrés le 26 septembre à New York, en marge de l'Assemblée générale de l'ONU — une première rencontre bilatérale entre les deux pays depuis l'invasion russe de l'Ukraine en 2022, selon Bloomberg, CNN, CNBC et Al Jazeera. La réunion, demandée par Berlin, visait selon une source allemande à discuter d'un accord sur les exportations de céréales en mer Noire et à réitérer l'appel à un cessez-le-feu immédiat en Ukraine. Lavrov a déclaré aux journalistes que Wadephul n'avait apporté « rien de nouveau ».",
+      "en": "German Foreign Minister Johann Wadephul and his Russian counterpart Sergei Lavrov met on September 26 in New York, on the sidelines of the UN General Assembly — the first bilateral meeting between the two countries since Russia's 2022 invasion of Ukraine, according to Bloomberg, CNN, CNBC and Al Jazeera. The meeting, requested by Berlin, was aimed, according to a German source, at discussing a Black Sea grain export agreement and reiterating calls for an immediate ceasefire in Ukraine. Lavrov told reporters Wadephul had brought 'nothing new.'",
+      "es": "El ministro alemán de Asuntos Exteriores, Johann Wadephul, y su homólogo ruso, Serguéi Lavrov, se reunieron el 26 de septiembre en Nueva York, en el marco de la Asamblea General de la ONU, en el primer encuentro bilateral entre ambos países desde la invasión rusa de Ucrania en 2022, según Bloomberg, CNN, CNBC y Al Jazeera. La reunión, solicitada por Berlín, buscaba, según una fuente alemana, abordar un acuerdo sobre las exportaciones de grano por el mar Negro y reiterar el llamado a un alto el fuego inmediato en Ucrania. Lavrov declaró a la prensa que Wadephul no había aportado 'nada nuevo'."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Wadephul et Lavrov se rencontrent à New York, une première depuis l'invasion de 2022.",
+          "en": "Wadephul and Lavrov meet in New York, the first such meeting since the 2022 invasion.",
+          "es": "Wadephul y Lavrov se reúnen en Nueva York, un primer encuentro desde la invasión de 2022."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "france-crepol-renvoi-assises",
+    "coords": [
+      4.8892,
+      44.9333
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "AFP",
+    "place": {
+      "fr": "Valence, Drôme, France",
+      "en": "Valence, Drôme, France",
+      "es": "Valence, Drôme, Francia"
+    },
+    "title": {
+      "fr": "Affaire de Crépol : 12 accusés renvoyés aux assises, dont onze pour meurtre",
+      "en": "Crépol case: 12 defendants referred to trial, 11 for murder",
+      "es": "Caso Crépol: 12 acusados son enviados a juicio, once por asesinato"
+    },
+    "summary": {
+      "fr": "Près de trois ans après l'agression mortelle du 18 au 19 novembre 2023 lors d'un bal à Crépol (Drôme), qui avait coûté la vie à Thomas Perotto, 16 ans, des juges d'instruction ont ordonné le 25 septembre le renvoi de 12 accusés devant la cour d'assises des mineurs de la Drôme — onze pour meurtre ou tentative de meurtre, un pour violences avec arme — selon une dépêche AFP. Les juges ont retenu la circonstance aggravante de racisme « envers la race blanche et la nation française », réclamée par l'association civile AGRIF, malgré l'opposition du parquet de Valence qui s'y était opposé dans ses réquisitions du 17 août. Les avocats de la défense ont fait appel de cette qualification; le procès n'est attendu que dans plusieurs mois.",
+      "en": "Nearly three years after the fatal attack on the night of November 18-19, 2023 at a village dance in Crépol (Drôme), which killed 16-year-old Thomas Perotto, investigating judges ordered on September 25 the referral of 12 defendants to the Drôme juvenile assize court — eleven for murder or attempted murder, one for armed violence — according to an AFP wire report. The judges upheld the aggravating circumstance of racism 'against the white race and the French nation,' sought by the civil party association AGRIF, despite the Valence prosecutor's office having opposed that characterization in its August 17 submissions. Defense lawyers have appealed the ruling; the trial itself is not expected for several months.",
+      "es": "Casi tres años después del ataque mortal ocurrido la noche del 18 al 19 de noviembre de 2023 durante un baile en Crépol (Drôme), que costó la vida al joven de 16 años Thomas Perotto, jueces de instrucción ordenaron el 25 de septiembre el envío a juicio de 12 acusados ante el tribunal de menores de la Drôme — once por asesinato o tentativa de asesinato, uno por violencia con arma—, según un despacho de AFP. Los jueces mantuvieron la circunstancia agravante de racismo 'contra la raza blanca y la nación francesa', solicitada por la asociación AGRIF como parte civil, pese a la oposición de la fiscalía de Valence, que se había opuesto a esa calificación en sus alegatos del 17 de agosto. Los abogados de la defensa han apelado el fallo; el juicio en sí no se espera hasta dentro de varios meses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "25/09/2026",
+          "en": "25/09/2026",
+          "es": "25/09/2026"
+        },
+        "d": {
+          "fr": "Les juges ordonnent le renvoi de 12 accusés devant la cour d'assises des mineurs, avec la circonstance aggravante de racisme retenue.",
+          "en": "Judges order the referral of 12 defendants to the juvenile assize court, upholding the racism aggravating circumstance.",
+          "es": "Los jueces ordenan el envío a juicio de 12 acusados ante el tribunal de menores, manteniendo la circunstancia agravante de racismo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "espagne-angleterre-ligue-nations",
+    "coords": [
+      -0.2795,
+      51.556
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "ESPN / Sky Sports / England Football",
+    "place": {
+      "fr": "Stade de Wembley, Londres, Royaume-Uni",
+      "en": "Wembley Stadium, London, United Kingdom",
+      "es": "Estadio de Wembley, Londres, Reino Unido"
+    },
+    "title": {
+      "fr": "Ligue des nations : l'Espagne renverse l'Angleterre 3-2 à Wembley",
+      "en": "Nations League: Spain comes from behind to beat England 3-2 at Wembley",
+      "es": "Liga de Naciones: España remonta y vence 3-2 a Inglaterra en Wembley"
+    },
+    "summary": {
+      "fr": "Championne du monde en titre, l'Espagne a battu l'Angleterre 3-2 à Wembley le 26 septembre lors de son entrée en Ligue des nations 2026-2027, selon ESPN, Sky Sports et le site officiel de la Fédération anglaise. Lamine Yamal avait ouvert le score pour l'Espagne, Anthony Gordon puis Harry Kane avaient renversé la situation pour l'Angleterre avant la pause; Kane a ensuite manqué un penalty en seconde période. Álex Baena a égalisé à la 68e minute avant que le remplaçant Mikel Oyarzabal n'inscrive le but de la victoire en fin de match.",
+      "en": "Reigning world champions Spain beat England 3-2 at Wembley on September 26 in their opening match of the 2026-27 Nations League, according to ESPN, Sky Sports and England Football's official site. Lamine Yamal had opened the scoring for Spain, before Anthony Gordon and then Harry Kane put England ahead by half-time; Kane then missed a penalty early in the second half. Álex Baena equalized in the 68th minute before substitute Mikel Oyarzabal scored the late winner.",
+      "es": "La vigente campeona del mundo, España, venció 3-2 a Inglaterra en Wembley el 26 de septiembre en su debut en la Liga de Naciones 2026-27, según ESPN, Sky Sports y el sitio oficial de la Federación Inglesa. Lamine Yamal había abierto el marcador para España, antes de que Anthony Gordon y luego Harry Kane pusieran por delante a Inglaterra antes del descanso; Kane falló después un penalti en la segunda parte. Álex Baena empató en el minuto 68 antes de que el suplente Mikel Oyarzabal anotara el gol de la victoria al final del partido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "L'Espagne bat l'Angleterre 3-2 à Wembley grâce à un but tardif de Mikel Oyarzabal.",
+          "en": "Spain beats England 3-2 at Wembley thanks to a late goal from Mikel Oyarzabal.",
+          "es": "España vence 3-2 a Inglaterra en Wembley gracias a un gol tardío de Mikel Oyarzabal."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "italie-luna-rossa-americas-cup",
+    "coords": [
+      14.2681,
+      40.8518
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⛵",
+    "source": "ANSA / Sky Sport Italia",
+    "place": {
+      "fr": "Golfe de Naples, Italie",
+      "en": "Gulf of Naples, Italy",
+      "es": "Golfo de Nápoles, Italia"
+    },
+    "title": {
+      "fr": "America's Cup : Luna Rossa remporte la régate préliminaire de Naples",
+      "en": "America's Cup: Luna Rossa wins the Naples preliminary regatta",
+      "es": "Copa América: Luna Rossa gana la regata preliminar de Nápoles"
+    },
+    "summary": {
+      "fr": "L'équipe italienne Luna Rossa Prada Pirelli a dominé la dernière journée de la régate préliminaire de la 38e America's Cup à Naples le 27 septembre, remportant quatre des huit courses en flotte avant de battre Emirates Team New Zealand de 17 secondes en finale, avec Peter Burling et Marco Gradoni à la barre, selon l'agence ANSA et Sky Sport Italia. Il s'agit de la deuxième victoire de Luna Rossa en régate préliminaire cette saison, après celle de Cagliari en mai.",
+      "en": "Italy's Luna Rossa Prada Pirelli team dominated the final day of the 38th America's Cup preliminary regatta in Naples on September 27, winning four of eight fleet races before beating Emirates Team New Zealand by 17 seconds in the match-race final, helmed by Peter Burling and Marco Gradoni, according to the ANSA news agency and Sky Sport Italia. It was Luna Rossa's second preliminary-regatta win of the season, after an earlier victory in Cagliari in May.",
+      "es": "El equipo italiano Luna Rossa Prada Pirelli dominó la última jornada de la regata preliminar de la 38ª Copa América en Nápoles el 27 de septiembre, ganando cuatro de las ocho carreras en flota antes de vencer al Emirates Team New Zealand por 17 segundos en la final, con Peter Burling y Marco Gradoni al timón, según la agencia ANSA y Sky Sport Italia. Fue la segunda victoria de Luna Rossa en una regata preliminar esta temporada, tras la obtenida en Cagliari en mayo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Luna Rossa bat Emirates Team New Zealand en finale de la régate préliminaire de Naples.",
+          "en": "Luna Rossa beats Emirates Team New Zealand in the Naples preliminary regatta final.",
+          "es": "Luna Rossa vence a Emirates Team New Zealand en la final de la regata preliminar de Nápoles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "id": "espagne-madrid-expulsion-manifestation",
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏚️",
+    "source": "NPR / France 24 / CNN",
+    "place": {
+      "fr": "Madrid, Espagne",
+      "en": "Madrid, Spain",
+      "es": "Madrid, España"
+    },
+    "title": {
+      "fr": "L'expulsion d'une femme de 87 ans déclenche des manifestations massives contre la crise du logement à Madrid",
+      "en": "Eviction of an 87-year-old woman sparks mass housing-crisis protests in Madrid",
+      "es": "El desalojo de una mujer de 87 años desata manifestaciones masivas por la crisis de la vivienda en Madrid"
+    },
+    "summary": {
+      "fr": "María del Carmen « Maricarmen » Abascal, 87 ans, a été expulsée le 23 septembre de l'appartement du quartier du Retiro qu'elle occupait depuis environ 70 ans, après qu'un fonds d'investissement propriétaire des lieux a relevé son loyer de 500 à 2 650 euros par mois, ramené ensuite à 1 650 euros, selon le syndicat des locataires de Madrid cité par NPR, France 24 et CNN. Son expulsion a déclenché une manifestation rassemblant des dizaines de milliers de personnes le 26 septembre à Madrid, réclamant un encadrement des loyers et l'interdiction des expulsions sans relogement. Après la marche, environ 150 tentes ont été installées Puerta del Sol, où le campement se poursuivait le 27 et le 28 septembre.",
+      "en": "María del Carmen 'Maricarmen' Abascal, 87, was evicted on September 23 from the Retiro-neighborhood apartment she had lived in for about 70 years, after an investment fund that owns the building raised her rent from €500 to €2,650 a month, later reduced to €1,650, according to Madrid's Tenants' Union as cited by NPR, France 24 and CNN. Her eviction triggered a march of tens of thousands of people through Madrid on September 26, demanding rent caps and a ban on evictions without alternative housing. Following the march, around 150 tents were set up in Puerta del Sol, where the encampment continued on September 27-28.",
+      "es": "María del Carmen 'Maricarmen' Abascal, de 87 años, fue desalojada el 23 de septiembre del apartamento del barrio de Retiro donde había vivido unos 70 años, después de que un fondo de inversión propietario del inmueble subiera su alquiler de 500 a 2.650 euros mensuales, reducido luego a 1.650 euros, según el Sindicato de Inquilinas de Madrid, citado por NPR, France 24 y CNN. Su desalojo desencadenó una marcha de decenas de miles de personas por Madrid el 26 de septiembre, que exigía un tope a los alquileres y la prohibición de desalojos sin realojo. Tras la marcha, se instalaron unas 150 tiendas de campaña en la Puerta del Sol, donde el campamento continuaba el 27 y el 28 de septiembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Des dizaines de milliers de personnes manifestent à Madrid puis installent un campement Puerta del Sol.",
+          "en": "Tens of thousands march in Madrid, then set up an encampment in Puerta del Sol.",
+          "es": "Decenas de miles de personas marchan en Madrid y luego instalan un campamento en la Puerta del Sol."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-niger-state-enlevement",
+    "coords": [
+      4.5167,
+      9.8833
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Reuters / TimesLIVE",
+    "place": {
+      "fr": "District de Borgu, État du Niger, Nigeria",
+      "en": "Borgu district, Niger State, Nigeria",
+      "es": "Distrito de Borgu, estado de Níger, Nigeria"
+    },
+    "title": {
+      "fr": "Un mois après un enlèvement de masse, des centaines d'otages restent captifs dans l'État du Niger",
+      "en": "A month on, hundreds remain captive after a mass kidnapping in Niger State",
+      "es": "Un mes después, cientos de rehenes siguen cautivos tras un secuestro masivo en el estado de Níger"
+    },
+    "summary": {
+      "fr": "Des habitants de Dekara et des localités voisines du district de Borgu, dans l'État du Niger, ont manifesté le 22 septembre pour réclamer la libération d'environ 600 personnes — majoritairement des femmes, des enfants et des personnes âgées — enlevées fin août par des hommes armés, selon une dépêche Reuters reprise par TimesLIVE. Un mois après le raid, les otages restaient toujours détenus; les manifestants ont demandé aux autorités d'obtenir leur libération et de rétablir la sécurité dans la zone. Il s'agit de l'un des plus importants enlèvements de masse recensés au Nigeria en 2026.",
+      "en": "Residents of Dekara and neighboring communities in Niger State's Borgu district protested on September 22, demanding the release of roughly 600 people — mostly women, children and the elderly — abducted in late August by armed men, according to a Reuters report carried by TimesLIVE. A month after the raid, the captives remained unreleased; protesters called on authorities to secure their release and restore security to the area. It is described as one of Nigeria's largest mass kidnappings of 2026.",
+      "es": "Residentes de Dekara y comunidades vecinas del distrito de Borgu, en el estado de Níger, protestaron el 22 de septiembre para exigir la liberación de unas 600 personas —en su mayoría mujeres, niños y ancianos— secuestradas a finales de agosto por hombres armados, según un despacho de Reuters recogido por TimesLIVE. Un mes después del asalto, los rehenes seguían cautivos; los manifestantes pidieron a las autoridades que lograran su liberación y restablecieran la seguridad en la zona. Se trata de uno de los mayores secuestros masivos registrados en Nigeria en 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Des habitants manifestent pour réclamer la libération des otages, toujours détenus un mois après l'enlèvement.",
+          "en": "Residents protest demanding the hostages' release, still held a month after the kidnapping.",
+          "es": "Los residentes protestan exigiendo la liberación de los rehenes, aún retenidos un mes después del secuestro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 3
+  },
+  {
+    "id": "ethiopie-tigray-frappes",
+    "coords": [
+      39.5667,
+      12.4167
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Human Rights Watch / NPR",
+    "place": {
+      "fr": "Alamata, région du Tigré, Éthiopie",
+      "en": "Alamata, Tigray region, Ethiopia",
+      "es": "Alamata, región de Tigray, Etiopía"
+    },
+    "title": {
+      "fr": "Des frappes aériennes éthiopiennes sur des écoles à Alamata font au moins 14 morts alors que le conflit au Tigré s'intensifie",
+      "en": "Ethiopian air strikes on schools in Alamata kill at least 14 as Tigray conflict escalates",
+      "es": "Ataques aéreos etíopes contra escuelas en Alamata dejan al menos 14 muertos mientras se intensifica el conflicto en Tigray"
+    },
+    "summary": {
+      "fr": "Les forces fédérales éthiopiennes ont mené au moins cinq frappes de drones et plus de 21 frappes aériennes le 22 septembre, dont deux ayant touché des écoles à Alamata, tuant au moins 14 civils et en blessant 22 autres, selon des informations relayées par Al Jazeera et Human Rights Watch. Cette escalade fait suite à l'annonce, le 20 septembre, d'une nouvelle coalition rebelle (comprenant le TPLF, les Fano amhara et l'Armée de libération oromo) cherchant à renverser le gouvernement du premier ministre Abiy Ahmed. Plusieurs médias, dont NPR, qualifient cette flambée de menace la plus sérieuse pesant sur l'accord de paix de Pretoria conclu en 2022; l'armée éthiopienne a depuis affirmé vouloir faire preuve de retenue, selon Al Jazeera.",
+      "en": "Ethiopian federal forces carried out at least five drone strikes and more than 21 air strikes on September 22, including strikes that hit two schools in Alamata, killing at least 14 civilians and wounding 22 others, according to reporting from Al Jazeera and Human Rights Watch. The escalation follows the September 20 announcement of a new rebel coalition — including the TPLF, Amhara Fano forces and the Oromo Liberation Army — seeking to remove Prime Minister Abiy Ahmed's government. Several outlets, including NPR, describe the flare-up as the most serious threat yet to the 2022 Pretoria peace agreement; Ethiopia's army has since said it will exercise restraint, according to Al Jazeera.",
+      "es": "Las fuerzas federales etíopes realizaron al menos cinco ataques con drones y más de 21 ataques aéreos el 22 de septiembre, incluidos ataques que impactaron dos escuelas en Alamata, matando al menos a 14 civiles y hiriendo a otros 22, según informes de Al Jazeera y Human Rights Watch. La escalada sigue al anuncio, el 20 de septiembre, de una nueva coalición rebelde —que incluye al TPLF, fuerzas amhara Fano y el Ejército de Liberación Oromo— que busca derrocar al gobierno del primer ministro Abiy Ahmed. Varios medios, entre ellos NPR, describen el estallido como la amenaza más grave hasta ahora para el acuerdo de paz de Pretoria de 2022; el ejército etíope ha declarado desde entonces que ejercerá contención, según Al Jazeera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "22/09/2026",
+          "en": "22/09/2026",
+          "es": "22/09/2026"
+        },
+        "d": {
+          "fr": "Des frappes aériennes touchent deux écoles à Alamata, faisant au moins 14 morts civils.",
+          "en": "Air strikes hit two schools in Alamata, killing at least 14 civilians.",
+          "es": "Ataques aéreos impactan dos escuelas en Alamata, matando al menos a 14 civiles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 3
+  },
+  {
+    "id": "afrique-sud-wedela-fusillade",
+    "coords": [
+      27.3833,
+      -26.3667
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔫",
+    "source": "Al Jazeera / CNN / SAnews",
+    "place": {
+      "fr": "Wedela, province du Gauteng, Afrique du Sud",
+      "en": "Wedela, Gauteng province, South Africa",
+      "es": "Wedela, provincia de Gauteng, Sudáfrica"
+    },
+    "title": {
+      "fr": "Une fusillade dans un bar de Wedela fait au moins 17 morts en Afrique du Sud",
+      "en": "Shooting at a Wedela tavern leaves at least 17 dead in South Africa",
+      "es": "Un tiroteo en un bar de Wedela deja al menos 17 muertos en Sudáfrica"
+    },
+    "summary": {
+      "fr": "Au moins 17 personnes ont été tuées et 15 blessées dans la nuit du 26 au 27 septembre lorsque des hommes armés ont ouvert le feu dans un bar (« tavern ») de Wedela, au sud-ouest de Johannesburg, selon Al Jazeera, CNN et l'agence gouvernementale sud-africaine SAnews. La police indique qu'environ huit suspects, armés de fusils AK-47 et de pistolets, ont d'abord tiré sur des clients à l'extérieur avant d'entrer dans l'établissement; certaines victimes ont eu leur téléphone dérobé avant la fuite des assaillants à bord de deux véhicules, ensuite incendiés. Cette fusillade s'inscrit dans une série de deux incidents survenus le même week-end, portant le bilan combiné à au moins 27 morts; aucune arrestation n'avait été annoncée et le mobile restait inconnu selon les informations disponibles.",
+      "en": "At least 17 people were killed and 15 wounded overnight on September 26-27 when armed men opened fire at a tavern in Wedela, southwest of Johannesburg, according to Al Jazeera, CNN and the South African Government News Agency (SAnews). Police said around eight suspects, armed with AK-47 rifles and pistols, first shot patrons outside before entering the venue; some victims had their phones stolen before the attackers fled in two vehicles, which were later set alight. The shooting was part of a pair of incidents over the same weekend, bringing the combined toll to at least 27 dead; no arrests had been announced and a motive remained unconfirmed as of available reporting.",
+      "es": "Al menos 17 personas murieron y 15 resultaron heridas en la noche del 26 al 27 de septiembre cuando hombres armados abrieron fuego en un bar de Wedela, al suroeste de Johannesburgo, según Al Jazeera, CNN y la agencia gubernamental sudafricana SAnews. La policía indicó que unos ocho sospechosos, armados con fusiles AK-47 y pistolas, primero dispararon contra clientes en el exterior antes de entrar al local; a algunas víctimas les robaron el teléfono antes de que los atacantes huyeran en dos vehículos, posteriormente incendiados. El tiroteo formó parte de una pareja de incidentes ocurridos ese mismo fin de semana, que elevó el balance combinado a al menos 27 muertos; no se había anunciado ninguna detención y el móvil seguía sin confirmarse según la información disponible."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Le bilan de la fusillade de Wedela s'établit à au moins 17 morts et 15 blessés.",
+          "en": "The Wedela shooting toll stands at at least 17 dead and 15 wounded.",
+          "es": "El balance del tiroteo de Wedela se sitúa en al menos 17 muertos y 15 heridos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 3
+  },
+  {
+    "id": "israel-gaza-frappes-khan-younis",
+    "coords": [
+      34.3,
+      31.34
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Arab News / AP / Middle East Monitor",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Khan Younis, sud de la bande de Gaza",
+      "en": "Khan Younis, southern Gaza Strip",
+      "es": "Jan Yunis, sur de la Franja de Gaza"
+    },
+    "title": {
+      "fr": "Des frappes israéliennes à Khan Younis font plusieurs morts malgré le cessez-le-feu",
+      "en": "Israeli strikes in Khan Younis kill several despite the ceasefire",
+      "es": "Ataques israelíes en Jan Yunis dejan varios muertos pese al alto el fuego"
+    },
+    "summary": {
+      "fr": "Une frappe israélienne sur un véhicule dans l'ouest de Khan Younis a tué deux hommes palestiniens le 23 septembre, identifiés par des responsables sanitaires locaux comme Osama Abu Khater et Mohammad Abu Elwan, selon Arab News et une dépêche AP. L'armée israélienne a déclaré avoir visé Abu Elwan, qu'elle présente comme un responsable financier du Hamas; deux autres personnes ont été blessées. Le 27 septembre, des sources palestiniennes ont rapporté qu'une frappe de drone israélienne dans la zone d'Al-Mawasi, à l'ouest de Khan Younis, avait tué Uday Adli al-Assar, 28 ans, et blessé plusieurs autres personnes, la qualifiant de violation du cessez-le-feu — une information rapportée principalement par des sources palestiniennes et non encore confirmée de façon indépendante. Un cessez-le-feu est formellement en vigueur depuis octobre 2025, mais des sources israéliennes et palestiniennes font état d'incidents réguliers depuis lors, Israël présentant ces actions comme des ripostes à des violations commises, selon elle, par le Hamas ou le Jihad islamique.",
+      "en": "An Israeli strike on a vehicle in western Khan Younis killed two Palestinian men on September 23, identified by local health officials as Osama Abu Khater and Mohammad Abu Elwan, according to Arab News and an AP wire report. The Israeli military said it had targeted Abu Elwan, whom it describes as a senior Hamas finance official; two other people were wounded. On September 27, Palestinian sources reported that an Israeli drone strike in the Al-Mawasi area west of Khan Younis killed 28-year-old Uday Adli al-Assar and wounded several others, calling it a ceasefire violation — a report sourced mainly to Palestinian accounts and not yet independently confirmed. A ceasefire has formally been in place since October 2025, but both Israeli and Palestinian sources report periodic incidents since then, with Israel framing such actions as responses to what it says are violations by Hamas or Islamic Jihad.",
+      "es": "Un ataque israelí contra un vehículo en el oeste de Jan Yunis mató a dos hombres palestinos el 23 de septiembre, identificados por autoridades sanitarias locales como Osama Abu Khater y Mohammad Abu Elwan, según Arab News y un despacho de AP. El ejército israelí declaró haber atacado a Abu Elwan, a quien describe como un alto responsable financiero de Hamás; otras dos personas resultaron heridas. El 27 de septiembre, fuentes palestinas informaron de que un ataque con dron israelí en la zona de Al-Mawasi, al oeste de Jan Yunis, mató a Uday Adli al-Assar, de 28 años, e hirió a varias personas más, calificándolo de violación del alto el fuego —una información procedente principalmente de fuentes palestinas y aún no confirmada de forma independiente—. Un alto el fuego está formalmente vigente desde octubre de 2025, pero tanto fuentes israelíes como palestinas informan de incidentes periódicos desde entonces, y Israel enmarca dichas acciones como respuestas a lo que denomina violaciones por parte de Hamás o la Yihad Islámica."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Une frappe israélienne tue deux hommes palestiniens dans l'ouest de Khan Younis, selon Arab News et l'AP.",
+          "en": "An Israeli strike kills two Palestinian men in western Khan Younis, according to Arab News and AP.",
+          "es": "Un ataque israelí mata a dos hombres palestinos en el oeste de Jan Yunis, según Arab News y AP."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Des sources palestiniennes rapportent une nouvelle frappe israélienne meurtrière à Al-Mawasi, non encore confirmée de façon indépendante.",
+          "en": "Palestinian sources report a new deadly Israeli strike in Al-Mawasi, not yet independently confirmed.",
+          "es": "Fuentes palestinas informan de un nuevo ataque israelí mortal en Al-Mawasi, aún no confirmado de forma independiente."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "id": "egypte-taux-directeurs",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Banque centrale d'Égypte / Reuters / Daily News Egypt",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "La Banque centrale d'Égypte maintient ses taux directeurs pour la cinquième fois consécutive",
+      "en": "Egypt's central bank holds interest rates for a fifth consecutive time",
+      "es": "El banco central de Egipto mantiene sus tasas de interés por quinta vez consecutiva"
+    },
+    "summary": {
+      "fr": "Le comité de politique monétaire de la Banque centrale d'Égypte a maintenu le 24 septembre ses taux directeurs inchangés — taux de dépôt à 19,0 % et taux de prêt à 20,0 % — pour la cinquième réunion consécutive, selon la banque centrale et des médias économiques dont Daily News Egypt. L'inflation urbaine annuelle a ralenti à 14,5 % en août contre 14,9 % en juillet, tandis que l'inflation sous-jacente a légèrement augmenté à 14,9 %; la croissance économique a également ralenti, à 4,7 % au deuxième trimestre 2026 contre 5,0 % au trimestre précédent. Onze économistes sur douze interrogés par Reuters avaient anticipé ce statu quo.",
+      "en": "The Monetary Policy Committee of the Central Bank of Egypt held its key interest rates unchanged on September 24 — the overnight deposit rate at 19.0% and the lending rate at 20.0% — for a fifth consecutive meeting, according to the central bank and financial media including Daily News Egypt. Annual urban inflation slowed to 14.5% in August from 14.9% in July, while core inflation ticked up slightly to 14.9%; economic growth also slowed, to 4.7% in the second quarter of 2026 from 5.0% in the prior quarter. Eleven of twelve economists surveyed by Reuters had correctly predicted the hold.",
+      "es": "El Comité de Política Monetaria del Banco Central de Egipto mantuvo el 24 de septiembre sus tasas de interés clave sin cambios —la tasa de depósito en 19,0 % y la de préstamo en 20,0 %— por quinta reunión consecutiva, según el banco central y medios económicos como Daily News Egypt. La inflación urbana anual se desaceleró al 14,5 % en agosto desde el 14,9 % de julio, mientras que la inflación subyacente subió ligeramente al 14,9 %; el crecimiento económico también se desaceleró, al 4,7 % en el segundo trimestre de 2026 frente al 5,0 % del trimestre anterior. Once de los doce economistas consultados por Reuters habían previsto correctamente esta decisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "24/09/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "La Banque centrale d'Égypte maintient ses taux directeurs inchangés pour la cinquième réunion consécutive.",
+          "en": "Egypt's central bank holds its key interest rates unchanged for a fifth consecutive meeting.",
+          "es": "El banco central de Egipto mantiene sus tasas de interés sin cambios por quinta reunión consecutiva."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 3
   }
 ]
