@@ -829,5 +829,477 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      30.5175,
+      50.4455
+    ],
+    "id": "kyiv-academie-sciences",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Al Jazeera / Kyiv Post / Meduza / TheJournal.ie",
+    "place": {
+      "fr": "Kyiv, Ukraine (centre-ville, Académie nationale des sciences)",
+      "en": "Kyiv, Ukraine (central Kyiv, National Academy of Sciences)",
+      "es": "Kiev, Ucrania (centro, Academia Nacional de Ciencias)"
+    },
+    "title": {
+      "fr": "Une frappe de drone russe touche l'Académie nationale des sciences à Kyiv",
+      "en": "Russian drone strike hits National Academy of Sciences in Kyiv",
+      "es": "Un dron ruso alcanza la Academia Nacional de Ciencias en Kiev"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, un drone a frappé le siège de l'Académie nationale des sciences d'Ukraine, provoquant un incendie. Au moins deux personnes sont mortes et 19 ont été blessées dont trois enfants, selon les médias cités. Selon l'armée de l'air ukrainienne, 86 des 124 drones lancés par la Russie entre 6h30 et 18h30 étaient à réaction. Le président Zelensky a promis une réponse.",
+      "en": "On September 28, a drone struck the headquarters of Ukraine's National Academy of Sciences, starting a fire. At least two people were killed and 19 injured, including three children, according to the outlets cited. Ukraine's Air Force says 86 of the 124 drones Russia launched between 6:30 a.m. and 6:30 p.m. were jet-powered. President Zelensky vowed a response.",
+      "es": "El 28 de septiembre, un dron alcanzó la sede de la Academia Nacional de Ciencias de Ucrania y provocó un incendio. Al menos dos personas murieron y 19 resultaron heridas, entre ellas tres niños, según los medios citados. La Fuerza Aérea ucraniana indica que 86 de los 124 drones lanzados por Rusia entre las 6:30 y las 18:30 eran a reacción. Zelenski prometió una respuesta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Un drone frappe le bâtiment de l'Académie ; incendie, employés bloqués, au moins 2 morts.",
+          "en": "A drone hits the Academy building; fire, staff trapped, at least 2 dead.",
+          "es": "Un dron alcanza el edificio de la Academia; incendio, empleados atrapados, al menos 2 muertos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -1.79,
+      51.68
+    ],
+    "id": "fairford-arrestations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "NPR / ABC News / NBC News",
+    "place": {
+      "fr": "Whelford / RAF Fairford, Gloucestershire, Royaume-Uni",
+      "en": "Whelford / RAF Fairford, Gloucestershire, United Kingdom",
+      "es": "Whelford / RAF Fairford, Gloucestershire, Reino Unido"
+    },
+    "title": {
+      "fr": "Cinq hommes arrêtés près de la base RAF Fairford, libérés sous caution",
+      "en": "Five men arrested near RAF Fairford air base, released on bail",
+      "es": "Cinco hombres detenidos cerca de la base RAF Fairford, liberados bajo fianza"
+    },
+    "summary": {
+      "fr": "Cinq Britanniques de 23 à 25 ans, originaires de Londres, ont été arrêtés dimanche pour infractions terroristes et explosifs après l'alerte d'une agricultrice signalant trois véhicules suspects près de la base utilisée par les forces américaines. Ils ont été libérés sous caution avec des conditions strictes et restent sous enquête. La police examine un éventuel lien avec l'Iran, la Russie ou des groupes non étatiques ; rien n'est établi à ce stade.",
+      "en": "Five British men aged 23 to 25, all from London, were arrested Sunday on suspicion of terrorism and explosives offences after a farmer reported three suspicious vehicles near the base used by US forces. They were released on bail under strict conditions and remain under investigation. Police are examining a possible link to Iran, Russia or non-state groups; nothing is established at this stage.",
+      "es": "Cinco británicos de 23 a 25 años, todos de Londres, fueron detenidos el domingo por sospecha de terrorismo y delitos con explosivos tras el aviso de una agricultora sobre tres vehículos sospechosos cerca de la base usada por fuerzas de EE. UU. Fueron liberados bajo fianza con condiciones estrictas y siguen bajo investigación. La policía examina un posible vínculo con Irán, Rusia o grupos no estatales; nada está establecido por ahora."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Arrestation des cinq hommes près de Whelford après un appel d'une agricultrice.",
+          "en": "Five men arrested near Whelford after a farmer's call.",
+          "es": "Detención de los cinco hombres cerca de Whelford tras la llamada de una agricultora."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Libération sous caution ; l'enquête se poursuit.",
+          "en": "Released on bail; investigation continues.",
+          "es": "Liberados bajo fianza; la investigación continúa."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -91.5,
+      41.0
+    ],
+    "id": "iowa-acierie",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "CNBC / Washington Post / CBS News / Reuters",
+    "place": {
+      "fr": "Sud-est de l'Iowa, États-Unis (site exact non précisé ici)",
+      "en": "Southeast Iowa, United States (exact site not specified here)",
+      "es": "Sureste de Iowa, EE. UU. (sitio exacto no especificado aquí)"
+    },
+    "title": {
+      "fr": "Trump annonce une aciérie de 15 milliards de dollars en Iowa",
+      "en": "Trump announces $15 billion steel plant in Iowa",
+      "es": "Trump anuncia una acería de 15.000 millones de dólares en Iowa"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, le président Trump a présenté le projet de Mesabi Metallics d'investir environ 15 milliards de dollars dans une aciérie en Iowa, que la Maison-Blanche qualifie de plus grande de l'histoire américaine. Production prévue en 2030, 1 750 emplois permanents, 7,5 Mt/an en première phase puis 10 Mt/an. Ces chiffres sont ceux de l'entreprise et de la Maison-Blanche. L'annonce intervient avant les élections de mi-mandat.",
+      "en": "On September 28, President Trump unveiled Mesabi Metallics' plan to invest about $15 billion in an Iowa steel plant, which the White House calls the largest in US history. Production is planned for 2030, with 1,750 permanent jobs, 7.5 Mt/year in phase one and eventually 10 Mt/year. These figures come from the company and the White House. The announcement comes weeks before the midterm elections.",
+      "es": "El 28 de septiembre, el presidente Trump presentó el plan de Mesabi Metallics de invertir unos 15.000 millones de dólares en una acería en Iowa, que la Casa Blanca califica como la mayor de la historia de EE. UU. Producción prevista en 2030, 1.750 empleos permanentes, 7,5 Mt/año en la primera fase y luego 10 Mt/año. Las cifras son de la empresa y la Casa Blanca. El anuncio llega semanas antes de las elecciones de mitad de mandato."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Annonce officielle du projet.",
+          "en": "Project officially announced.",
+          "es": "Anuncio oficial del proyecto."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      56.5,
+      26.5
+    ],
+    "id": "iran-hormuz-petrole",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Bloomberg / CNBC / Vantage Markets",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Détroit d'Ormuz / marchés pétroliers",
+      "en": "Strait of Hormuz / oil markets",
+      "es": "Estrecho de Ormuz / mercados petroleros"
+    },
+    "title": {
+      "fr": "Le Brent dépasse 106 $ alors que Téhéran maintient ses conditions sur Ormuz",
+      "en": "Brent tops $106 as Tehran holds to its Hormuz conditions",
+      "es": "El Brent supera los 106 $ mientras Teherán mantiene sus condiciones sobre Ormuz"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, le Brent a dépassé 106 $ et le WTI approchait 94 $ après que l'Iran a refusé d'assouplir ses conditions pour la réouverture du détroit d'Ormuz. Selon les médias, M. Trump a rejeté un plan de réouverture sous sept jours et dit s'attendre à une reprise des négociations cette semaine. Des responsables iraniens seraient pessimistes quant à un accord avant les élections américaines de novembre.",
+      "en": "On September 28, Brent rose above $106 and WTI neared $94 after Iran refused to soften its terms for reopening the Strait of Hormuz. According to reports, Mr. Trump rejected a plan to reopen the waterway within seven days and said he expects talks to resume this week. Iranian officials are reportedly pessimistic about a deal before the November US elections.",
+      "es": "El 28 de septiembre, el Brent superó los 106 $ y el WTI rozó los 94 $ tras la negativa de Irán a suavizar sus condiciones para reabrir el estrecho de Ormuz. Según los medios, Trump rechazó un plan para reabrirlo en siete días y dijo esperar que las negociaciones se reanuden esta semana. Funcionarios iraníes se mostrarían pesimistas sobre un acuerdo antes de las elecciones estadounidenses de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Hausse du pétrole ; pas d'accord en vue sur Ormuz.",
+          "en": "Oil rises; no deal in sight on Hormuz.",
+          "es": "Sube el petróleo; sin acuerdo a la vista sobre Ormuz."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
+  },
+  {
+    "coords": [
+      -74.01,
+      40.71
+    ],
+    "id": "us-rendements-obligataires",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / CNBC",
+    "related": [
+      "iran-hormuz-petrole"
+    ],
+    "place": {
+      "fr": "Wall Street, New York, États-Unis",
+      "en": "Wall Street, New York, United States",
+      "es": "Wall Street, Nueva York, EE. UU."
+    },
+    "title": {
+      "fr": "Wall Street recule ; le taux à 10 ans US à 5,27 %, plus haut en 19 ans",
+      "en": "Wall Street falls; US 10-year yield hits 5.27%, a 19-year high",
+      "es": "Wall Street cae; el bono a 10 años de EE. UU. alcanza el 5,27 %, máximo en 19 años"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, le Dow a perdu près de 0,7 % (51 481,51), le S&P 500 environ 0,8 % (7 683,69) et le Nasdaq plus de 0,9 %. Le rendement à 10 ans a atteint 5,27 %, un plus haut en 19 ans selon Bloomberg, sur fond de craintes d'inflation liées au pétrole et à la tension avec l'Iran, et d'une Fed ayant déjà relevé ses taux.",
+      "en": "On September 28, the Dow lost nearly 0.7% (51,481.51), the S&P 500 about 0.8% (7,683.69) and the Nasdaq over 0.9%. The 10-year yield hit 5.27%, a 19-year high per Bloomberg, amid inflation fears tied to oil and the US-Iran standoff, with the Fed having already raised rates.",
+      "es": "El 28 de septiembre, el Dow perdió casi un 0,7 % (51.481,51), el S&P 500 cerca del 0,8 % (7.683,69) y el Nasdaq más del 0,9 %. El rendimiento a 10 años llegó al 5,27 %, máximo en 19 años según Bloomberg, por temores inflacionarios ligados al petróleo y la tensión con Irán, con la Fed ya habiendo subido tipos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Séance en baisse ; rendements en forte hausse.",
+          "en": "Session lower; yields sharply higher.",
+          "es": "Sesión a la baja; rendimientos al alza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      -77.04,
+      38.9
+    ],
+    "id": "us-chine-tarifs",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "CNBC / Japan Times / UPI / The Hill",
+    "place": {
+      "fr": "Washington, États-Unis / Chine",
+      "en": "Washington, United States / China",
+      "es": "Washington, EE. UU. / China"
+    },
+    "title": {
+      "fr": "États-Unis et Chine publient les listes de leur accord tarifaire « 30 pour 30 »",
+      "en": "US and China publish product lists for '30-for-30' tariff deal",
+      "es": "EE. UU. y China publican las listas de su acuerdo arancelario «30 por 30»"
+    },
+    "summary": {
+      "fr": "Après la visite d'État de Xi Jinping aux États-Unis, les deux pays ont détaillé une baisse réciproque de droits de douane sur environ 30 milliards de dollars de biens chacun. Côté américain 77 lignes (jouets, articles ménagers, feux d'artifice) ; côté chinois 1 619 produits (viandes, produits laitiers, céréales, charbon, équipements médicaux) ; le soja est exclu. Un dialogue sur l'IA est prévu, prochaine session en novembre.",
+      "en": "After Xi Jinping's state visit to the US, the two countries detailed reciprocal tariff cuts on about $30 billion of goods each. The US list has 77 entries (toys, household goods, fireworks); China's has 1,619 products (meat, dairy, grains, coal, medical equipment); soybeans are excluded. An AI dialogue is planned, with the next round in November.",
+      "es": "Tras la visita de Estado de Xi Jinping a EE. UU., ambos países detallaron rebajas arancelarias recíprocas sobre unos 30.000 millones de dólares de bienes cada uno. La lista de EE. UU. tiene 77 líneas (juguetes, hogar, fuegos artificiales); la de China, 1.619 productos (carne, lácteos, cereales, carbón, equipos médicos); la soja queda excluida. Se prevé un diálogo sobre IA, con la próxima ronda en noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/09/2026",
+          "en": "26/09/2026",
+          "es": "26/09/2026"
+        },
+        "d": {
+          "fr": "Annonce du cadre à l'issue du sommet.",
+          "en": "Framework announced at the end of the summit.",
+          "es": "Marco anunciado al término de la cumbre."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Publication des listes de produits.",
+          "en": "Product lists published.",
+          "es": "Publicación de las listas de productos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4,
+      39.9
+    ],
+    "id": "chine-relance-economie",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇨🇳",
+    "source": "Bloomberg",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine promet de nouvelles mesures pour soutenir une économie en ralentissement",
+      "en": "China promises new measures to support a slowing economy",
+      "es": "China promete nuevas medidas para apoyar una economía en desaceleración"
+    },
+    "summary": {
+      "fr": "Selon Bloomberg, le Conseil des affaires d'État a annoncé qu'il mettrait en place un « ensemble de politiques supplémentaires » pour atteindre les objectifs économiques de l'année et étudierait des mesures pour stabiliser le marché immobilier. Aucun détail chiffré n'est donné ; source unique.",
+      "en": "According to Bloomberg, the State Council said it would put in place a 'package of additional policies' to safeguard this year's economic goals and study measures to stabilize the property market. No figures were given; single source.",
+      "es": "Según Bloomberg, el Consejo de Estado anunció que aplicará un «paquete de políticas adicionales» para cumplir los objetivos económicos del año y estudiará medidas para estabilizar el mercado inmobiliario. No se dieron cifras; fuente única."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Annonce du Conseil des affaires d'État.",
+          "en": "State Council announcement.",
+          "es": "Anuncio del Consejo de Estado."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      139.69,
+      35.68
+    ],
+    "id": "japon-yen-avertissement",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "Reuters / AsiaOne",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Tokyo met en garde les marchés sur le yen",
+      "en": "Tokyo warns markets over the yen",
+      "es": "Tokio advierte a los mercados sobre el yen"
+    },
+    "summary": {
+      "fr": "Atsushi Mimura, haut responsable japonais des questions monétaires internationales, a déclaré à Reuters n'être ni satisfait ni rassuré par l'évolution récente du yen et a écarté toute contrainte de financement limitant une nouvelle intervention, sans dire si elle aura lieu. Le Japon et les États-Unis avaient mené une intervention coordonnée le 31 juillet.",
+      "en": "Atsushi Mimura, Japan's top international currency official, told Reuters he is neither satisfied nor reassured by the yen's recent moves and dismissed funding constraints on further intervention, without saying whether one will occur. Japan and the US conducted a coordinated intervention on July 31.",
+      "es": "Atsushi Mimura, alto responsable japonés de asuntos monetarios internacionales, dijo a Reuters que no está satisfecho ni tranquilo con la evolución reciente del yen y descartó límites de financiación a una nueva intervención, sin precisar si ocurrirá. Japón y EE. UU. realizaron una intervención coordinada el 31 de julio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Déclarations de M. Mimura à Reuters.",
+          "en": "Mimura's remarks to Reuters.",
+          "es": "Declaraciones de Mimura a Reuters."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 1
+  },
+  {
+    "coords": [
+      35.5,
+      33.89
+    ],
+    "id": "liban-fmi-ecart-financier",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏦",
+    "source": "Al-Monitor / Asharq Al-Awsat",
+    "place": {
+      "fr": "Beyrouth, Liban / Washington",
+      "en": "Beirut, Lebanon / Washington",
+      "es": "Beirut, Líbano / Washington"
+    },
+    "title": {
+      "fr": "Le Liban cherche un nouvel accord avec le FMI",
+      "en": "Lebanon seeks a new IMF staff-level agreement",
+      "es": "Líbano busca un nuevo acuerdo con el FMI"
+    },
+    "summary": {
+      "fr": "Le ministre des Finances Yassine Jaber cherchait à Washington, le 28 septembre, un nouvel accord au niveau des services du FMI. L'adoption de la loi sur l'écart financier (environ 80 à 83 milliards de dollars entre dépôts et actifs bancaires) reste la condition d'un programme complet. Le Premier ministre Nawaf Salam a rencontré Marco Rubio.",
+      "en": "Finance Minister Yassine Jaber sought a new IMF staff-level agreement in Washington on September 28. Passage of the financial gap law (about $80–83 billion between deposits and bank assets) remains the condition for a full program. Prime Minister Nawaf Salam met Marco Rubio.",
+      "es": "El ministro de Finanzas Yassine Jaber buscó en Washington, el 28 de septiembre, un nuevo acuerdo a nivel técnico con el FMI. La aprobación de la ley de brecha financiera (unos 80.000-83.000 millones de dólares entre depósitos y activos bancarios) sigue siendo la condición para un programa completo. El primer ministro Nawaf Salam se reunió con Marco Rubio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Discussions avec le FMI à Washington.",
+          "en": "Talks with the IMF in Washington.",
+          "es": "Conversaciones con el FMI en Washington."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 3
+  },
+  {
+    "coords": [
+      136.91,
+      35.18
+    ],
+    "id": "asiad-inde-medailles",
+    "status": "brut",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Olympics.com",
+    "place": {
+      "fr": "Aichi-Nagoya, Japon (Jeux asiatiques)",
+      "en": "Aichi-Nagoya, Japan (Asian Games)",
+      "es": "Aichi-Nagoya, Japón (Juegos Asiáticos)"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : record national vieux de 42 ans battu par l'Indienne Vithya Ramraj",
+      "en": "Asian Games: India's Vithya Ramraj breaks 42-year-old national record",
+      "es": "Juegos Asiáticos: Vithya Ramraj bate un récord nacional de 42 años"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, aux Jeux asiatiques d'Aichi-Nagoya (19 sept.–4 oct.), Vithya Ramraj a pris le bronze au 400 m haies féminin en battant le record de PT Usha vieux de 42 ans. Murali Sreeshankar a pris l'argent au saut en longueur, Esha Singh l'argent au pistolet 25 m. L'équipe de cricket indienne est qualifiée pour les demi-finales après un quart de finale annulé par la pluie.",
+      "en": "On September 28 at the Aichi-Nagoya Asian Games (Sept 19–Oct 4), Vithya Ramraj won bronze in the women's 400m hurdles, breaking PT Usha's 42-year-old record. Murali Sreeshankar took silver in the long jump and Esha Singh silver in the 25m pistol. India's cricket team reached the semi-finals after a washed-out quarter-final.",
+      "es": "El 28 de septiembre, en los Juegos Asiáticos de Aichi-Nagoya (19 sep–4 oct), Vithya Ramraj ganó el bronce en los 400 m vallas femeninos y batió el récord de PT Usha, de hace 42 años. Murali Sreeshankar logró la plata en salto de longitud y Esha Singh la plata en pistola 25 m. El equipo indio de cricket pasa a semifinales tras un cuarto de final suspendido por lluvia."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Journée 9 : podiums indiens en athlétisme et tir.",
+          "en": "Day 9: Indian podiums in athletics and shooting.",
+          "es": "Día 9: podios indios en atletismo y tiro."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W40",
+    "priority": 2
   }
 ]
