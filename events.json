@@ -693,7 +693,7 @@
     "category": "securite",
     "icon": "⚠",
     "source": "La Presse / franceinfo / Radio-Canada",
-    "week": "2026-W29",
+    "week": "2026-W40",
     "place": {
       "fr": "Téhéran, Iran",
       "en": "Tehran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "29-30/09/2026",
+          "en": "29-30/09/2026",
+          "es": "29-30/09/2026"
+        },
+        "d": {
+          "fr": "Trois navires (pétrolier, méthanier, un troisième) sont touchés par des projectiles dans le détroit d'Ormuz peu après que l'Iran a reçu une contre-proposition américaine de cessez-le-feu ; les médias divergent sur le jour (mardi ou mercredi) et l'auteur n'est pas établi. Washington maintient un contre-blocus des ports iraniens.",
+          "en": "Three vessels (an oil tanker, an LNG tanker and a third ship) are hit by projectiles in the Strait of Hormuz shortly after Iran received a US ceasefire counterproposal; outlets differ on the day (Tuesday or Wednesday) and the perpetrator is not established. Washington maintains a counterblockade of Iranian ports.",
+          "es": "Tres buques (un petrolero, un gasero y un tercero) son alcanzados por proyectiles en el estrecho de Ormuz poco después de que Irán recibiera una contrapropuesta estadounidense de alto el fuego; los medios difieren sobre el día (martes o miércoles) y no se ha establecido el autor. Washington mantiene un contrabloqueo de los puertos iraníes."
         },
         "active": true
       }
@@ -823,6 +836,689 @@
           "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
           "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
           "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "kyiv-reseau-electrique",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "Kyiv Independent / Irish Times / ABC News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Kyiv : nouvelle attaque massive russe contre le réseau électrique",
+      "en": "Kyiv: major Russian attack on the power grid",
+      "es": "Kiev: gran ataque ruso contra la red eléctrica"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 29 au 30 septembre puis durant la journée, la Russie a lancé des drones et missiles contre les infrastructures énergétiques ukrainiennes, notamment à Kyiv, où l'alerte aérienne a duré plus de 20 heures. Le bilan varie selon les sources : 4 morts selon le Kyiv Independent, au moins 7 morts dont un enfant et 24 blessés selon d'autres médias. Des coupures d'électricité sont signalées.",
+      "en": "Overnight on September 29–30 and through the day, Russia launched drones and missiles at Ukrainian energy infrastructure, notably in Kyiv, where the air-raid alert lasted over 20 hours. The toll differs by source: 4 dead according to the Kyiv Independent, at least 7 dead including a child and 24 wounded according to other outlets. Power outages are reported.",
+      "es": "En la noche del 29 al 30 de septiembre y durante el día, Rusia lanzó drones y misiles contra infraestructuras energéticas ucranianas, sobre todo en Kiev, donde la alerta aérea duró más de 20 horas. El balance varía según las fuentes: 4 muertos según Kyiv Independent, al menos 7 muertos, entre ellos un niño, y 24 heridos según otros medios. Se informan cortes de electricidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Attaque de drones et de missiles sur Kyiv et son réseau énergétique ; coupures de courant signalées.",
+          "en": "Drone and missile attack on Kyiv and its energy network; power cuts reported.",
+          "es": "Ataque con drones y misiles contra Kiev y su red energética; se informan cortes de luz."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      44.0089,
+      36.1901
+    ],
+    "id": "irak-retrait-us",
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "Washington Times / PBS NewsHour / ABC News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Base aérienne d'Erbil, Kurdistan irakien",
+      "en": "Erbil Air Base, Iraqi Kurdistan",
+      "es": "Base aérea de Erbil, Kurdistán iraquí"
+    },
+    "title": {
+      "fr": "Les États-Unis achèvent leur retrait militaire d'Irak",
+      "en": "US completes military withdrawal from Iraq",
+      "es": "EE. UU. completa su retirada militar de Irak"
+    },
+    "summary": {
+      "fr": "L'armée américaine a annoncé le 30 septembre avoir achevé le retrait de ses troupes d'Irak, mettant fin à une mission de 12 ans contre l'État islamique. Les derniers militaires ont quitté la base d'Erbil. Washington et Bagdad évoquent une transition vers une relation de défense bilatérale.",
+      "en": "The US military announced on September 30 that it has completed the withdrawal of its troops from Iraq, ending a 12-year mission against the Islamic State. The last personnel left Erbil Air Base. Washington and Baghdad describe a transition to a bilateral defense relationship.",
+      "es": "El ejército estadounidense anunció el 30 de septiembre que completó la retirada de sus tropas de Irak, poniendo fin a una misión de 12 años contra el Estado Islámico. Los últimos efectivos salieron de la base de Erbil. Washington y Bagdad hablan de una transición hacia una relación de defensa bilateral."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Les dernières troupes américaines quittent la base d'Erbil ; le CENTCOM annonce un départ « ordonné ».",
+          "en": "The last US troops leave Erbil Air Base; CENTCOM announces an 'orderly departure'.",
+          "es": "Las últimas tropas estadounidenses salen de la base de Erbil; el CENTCOM anuncia una salida 'ordenada'."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 3
+  },
+  {
+    "coords": [
+      36.619,
+      28.3654
+    ],
+    "id": "flydubai-cockpit",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Ynet / Times of Israel / Fox News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Aéroport de Tabuk, Arabie saoudite",
+      "en": "Tabuk airport, Saudi Arabia",
+      "es": "Aeropuerto de Tabuk, Arabia Saudí"
+    },
+    "title": {
+      "fr": "Vol vers Tel-Aviv : altercation entre pilotes et atterrissage d'urgence en Arabie saoudite",
+      "en": "Tel Aviv-bound flight: pilots' fight and emergency landing in Saudi Arabia",
+      "es": "Vuelo a Tel Aviv: pelea entre pilotos y aterrizaje de emergencia en Arabia Saudí"
+    },
+    "summary": {
+      "fr": "Un vol Flydubai à destination de Tel-Aviv, avec 174 passagers, a émis brièvement un code d'interférence illicite avant d'atterrir à Tabuk (Arabie saoudite) le 30 septembre. Selon des médias israéliens, l'alerte découlerait d'une altercation violente entre les pilotes : le copilote, accusé d'avoir tenté de faire s'écraser l'appareil, aurait poignardé le commandant puis été maîtrisé. Les deux pilotes ont été hospitalisés ; des enquêtes sont en cours. Un média israélien mentionne un départ d'Abou Dhabi, d'autres de Dubaï ; ces détails n'ont pas été tranchés.",
+      "en": "A Flydubai flight bound for Tel Aviv with 174 passengers briefly transmitted an unlawful-interference code before landing at Tabuk, Saudi Arabia, on September 30. According to Israeli media, the alert stemmed from a violent altercation between the pilots: the co-pilot, suspected of trying to crash the aircraft, allegedly stabbed the captain and was subdued. Both pilots were hospitalized; investigations are under way. One Israeli outlet cites a departure from Abu Dhabi, others from Dubai; this detail is unresolved.",
+      "es": "Un vuelo de Flydubai con destino a Tel Aviv y 174 pasajeros emitió brevemente un código de interferencia ilícita antes de aterrizar en Tabuk, Arabia Saudí, el 30 de septiembre. Según medios israelíes, la alerta se debió a una pelea violenta entre los pilotos: el copiloto, sospechoso de intentar estrellar el avión, habría apuñalado al capitán y fue reducido. Ambos pilotos fueron hospitalizados; hay investigaciones en curso. Un medio israelí cita salida desde Abu Dabi, otros desde Dubái; el detalle no está aclarado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Code d'interférence illicite émis, puis atterrissage à Tabuk ; le copilote est placé en détention. Flydubai suspend ensuite ses vols vers Israël.",
+          "en": "Unlawful-interference code sent, then landing at Tabuk; the co-pilot is taken into custody. Flydubai later suspends its Israel flights.",
+          "es": "Se emite un código de interferencia ilícita y el avión aterriza en Tabuk; el copiloto queda detenido. Flydubai suspende después sus vuelos a Israel."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      -2.2426,
+      53.4808
+    ],
+    "id": "uk-retour-ue",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇪🇺",
+    "source": "TRT World / Yahoo News / SBS",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Royaume-Uni (congrès travailliste) et Madrid, Espagne",
+      "en": "United Kingdom (Labour conference) and Madrid, Spain",
+      "es": "Reino Unido (congreso laborista) y Madrid, España"
+    },
+    "title": {
+      "fr": "Le Premier ministre britannique ouvre la porte à un retour dans l'UE ; Macron et Sánchez saluent",
+      "en": "UK PM opens door to EU return; Macron and Sánchez welcome it",
+      "es": "El primer ministro británico abre la puerta a volver a la UE; Macron y Sánchez lo celebran"
+    },
+    "summary": {
+      "fr": "Lors du congrès du Labour, le Premier ministre Andy Burnham a dit vouloir présenter des options sur la relation avec l'UE avant le sommet UK-UE de novembre, laissant entendre qu'un retour pourrait en faire partie. À Madrid, Emmanuel Macron et Pedro Sánchez ont dit qu'ils accueilleraient le Royaume-Uni. Aucune décision n'a été prise.",
+      "en": "At the Labour conference, Prime Minister Andy Burnham said he would present options on the relationship with the EU ahead of the November UK-EU summit, hinting that rejoining could be among them. In Madrid, Emmanuel Macron and Pedro Sánchez said they would welcome the UK. No decision has been made.",
+      "es": "En el congreso laborista, el primer ministro Andy Burnham dijo que presentará opciones sobre la relación con la UE antes de la cumbre Reino Unido-UE de noviembre, insinuando que un regreso podría figurar entre ellas. En Madrid, Emmanuel Macron y Pedro Sánchez dijeron que acogerían al Reino Unido. No se ha tomado ninguna decisión."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Burnham évoque des options face à l'UE ; Macron et Sánchez disent « bienvenue ».",
+          "en": "Burnham floats options on the EU; Macron and Sánchez say 'welcome back'.",
+          "es": "Burnham plantea opciones sobre la UE; Macron y Sánchez dicen 'bienvenidos'."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "id": "france-lycees-manifestations",
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🏫",
+    "source": "France 24 / Al Jazeera / BBC",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Lycées de France, notamment en Île-de-France",
+      "en": "High schools across France, notably Île-de-France",
+      "es": "Institutos de Francia, sobre todo en Isla de Francia"
+    },
+    "title": {
+      "fr": "Manifestations lycéennes : plus de 400 interpellations",
+      "en": "Student protests: more than 400 detained",
+      "es": "Protestas estudiantiles: más de 400 detenidos"
+    },
+    "summary": {
+      "fr": "Le 29 septembre, des lycéens ont bloqué ou perturbé environ 400 établissements pour protester contre les classes surchargées, le manque d'enseignants et la chaleur en classe. Le ministre de l'Intérieur Laurent Nuñez a fait état de 440 interpellations, majoritairement de mineurs ; 48 membres des forces de l'ordre et au moins 10 enseignants ont été blessés selon les médias.",
+      "en": "On September 29, students blocked or disrupted around 400 schools to protest overcrowded classes, teacher shortages and overheated classrooms. Interior Minister Laurent Nuñez reported 440 detentions, mostly minors; 48 law-enforcement officers and at least 10 teachers were injured according to media reports.",
+      "es": "El 29 de septiembre, estudiantes bloquearon o alteraron unos 400 centros en protesta por aulas masificadas, falta de profesores y calor en clase. El ministro del Interior Laurent Nuñez habló de 440 detenciones, en su mayoría menores; según los medios, 48 agentes y al menos 10 docentes resultaron heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/09/2026",
+          "en": "29/09/2026",
+          "es": "29/09/2026"
+        },
+        "d": {
+          "fr": "Blocages, jets de projectiles, gaz lacrymogène ; 440 interpellations selon le ministre.",
+          "en": "Blockades, projectiles thrown, tear gas used; 440 detentions per the minister.",
+          "es": "Bloqueos, lanzamiento de proyectiles y gas lacrimógeno; 440 detenciones según el ministro."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      11.582,
+      48.1351
+    ],
+    "id": "allemagne-inflation-sept",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Euronews",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Allemagne (Länder : Bavière, Hesse, Rhénanie-du-Nord-Westphalie…)",
+      "en": "Germany (states incl. Bavaria, Hesse, North Rhine-Westphalia)",
+      "es": "Alemania (estados como Baviera, Hesse, Renania del Norte-Westfalia)"
+    },
+    "title": {
+      "fr": "Allemagne : l'inflation de septembre en hausse dans plusieurs Länder",
+      "en": "Germany: September inflation rises in several states",
+      "es": "Alemania: sube la inflación de septiembre en varios estados"
+    },
+    "summary": {
+      "fr": "Les premières données régionales montrent une inflation de 3,2 % en Bavière, 3,3 % en Rhénanie-du-Nord-Westphalie et en Basse-Saxe, 2,9 % dans le Bade-Wurtemberg et 3,4 % en Hesse. Les économistes anticipent un taux national harmonisé de 3,2 % contre 2,9 % en août ; il s'agit d'une prévision, non du chiffre officiel.",
+      "en": "Early regional data show inflation of 3.2% in Bavaria, 3.3% in North Rhine-Westphalia and Lower Saxony, 2.9% in Baden-Württemberg and 3.4% in Hesse. Economists expect a harmonised national rate of 3.2%, up from 2.9% in August; this is a forecast, not the official figure.",
+      "es": "Los primeros datos regionales muestran una inflación del 3,2 % en Baviera, 3,3 % en Renania del Norte-Westfalia y Baja Sajonia, 2,9 % en Baden-Wurtemberg y 3,4 % en Hesse. Los economistas esperan una tasa armonizada nacional del 3,2 %, frente al 2,9 % de agosto; es una previsión, no la cifra oficial."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Publication des chiffres régionaux ; estimation nationale attendue à 3,2 %.",
+          "en": "Regional figures published; national estimate expected at 3.2%.",
+          "es": "Se publican las cifras regionales; estimación nacional esperada en 3,2 %."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "id": "chine-pmi-septembre",
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "National Bureau of Statistics / Xinhua / Global Times",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Chine",
+      "en": "China",
+      "es": "China"
+    },
+    "title": {
+      "fr": "Chine : l'activité manufacturière repasse en expansion en septembre",
+      "en": "China: factory activity returns to growth in September",
+      "es": "China: la actividad manufacturera vuelve a crecer en septiembre"
+    },
+    "summary": {
+      "fr": "L'indice PMI manufacturier officiel est passé à 50,1 en septembre contre 49,8 en août, selon le Bureau national des statistiques, premier signal d'expansion en trois mois. Le PMI non manufacturier s'établit à 50,2 contre 49,0. Les commentateurs notent que la consommation et l'investissement restent faibles.",
+      "en": "The official manufacturing PMI rose to 50.1 in September from 49.8 in August, according to the National Bureau of Statistics, the first expansion reading in three months. The non-manufacturing PMI stood at 50.2, up from 49.0. Commentators note that retail sales and investment remain weak.",
+      "es": "El PMI manufacturero oficial subió a 50,1 en septiembre desde 49,8 en agosto, según la Oficina Nacional de Estadística, la primera lectura de expansión en tres meses. El PMI no manufacturero se situó en 50,2 desde 49,0. Los analistas señalan que las ventas minoristas y la inversión siguen débiles."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Publication des PMI officiels de septembre.",
+          "en": "Release of official September PMIs.",
+          "es": "Publicación de los PMI oficiales de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "id": "asiad-inde-tir-arc",
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏹",
+    "source": "Olympics.com / ESPN",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Aichi-Nagoya, Japon",
+      "en": "Aichi-Nagoya, Japan",
+      "es": "Aichi-Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : l'Inde remporte deux titres au tir à l'arc à poulies",
+      "en": "Asian Games: India wins two compound archery golds",
+      "es": "Juegos Asiáticos: India gana dos oros en tiro con arco de poleas"
+    },
+    "summary": {
+      "fr": "Le 30 septembre aux Jeux asiatiques d'Aichi-Nagoya, l'Inde a gagné l'or par équipes mixtes à poulies face à la Corée du Sud, et l'or par équipes féminines face à la Chine (238-234). Les Indiennes de hockey disputaient aussi leur demi-finale contre la Corée du Sud.",
+      "en": "On September 30 at the Aichi-Nagoya Asian Games, India won the compound mixed team gold against South Korea and the women's team gold against China (238-234). India's women's hockey team also played its semi-final against South Korea.",
+      "es": "El 30 de septiembre en los Juegos Asiáticos de Aichi-Nagoya, India ganó el oro por equipos mixtos de poleas ante Corea del Sur y el oro por equipos femeninos ante China (238-234). El equipo femenino de hockey también disputó su semifinal contra Corea del Sur."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Deux médailles d'or indiennes au tir à l'arc à poulies.",
+          "en": "Two Indian gold medals in compound archery.",
+          "es": "Dos oros indios en tiro con arco de poleas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      32.5498,
+      30.0
+    ],
+    "id": "egypte-suez-pertes",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚢",
+    "source": "Middle East Monitor / CBS News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Canal de Suez, Égypte",
+      "en": "Suez Canal, Egypt",
+      "es": "Canal de Suez, Egipto"
+    },
+    "title": {
+      "fr": "Égypte : al-Sissi chiffre à 20 milliards de dollars les pertes du canal de Suez",
+      "en": "Egypt: el-Sisi puts Suez Canal losses at $20 billion",
+      "es": "Egipto: al Sisi cifra en 20.000 millones de dólares las pérdidas del canal de Suez"
+    },
+    "summary": {
+      "fr": "Lors d'une réunion télévisée le 29 septembre, le président Abdel Fattah al-Sissi a affirmé que le canal de Suez avait perdu environ 20 milliards de dollars de recettes depuis octobre 2023, en raison des perturbations de navigation liées aux conflits régionaux, notamment les attaques des Houthis contre des navires. Chiffre avancé par la présidence égyptienne, non vérifié de manière indépendante.",
+      "en": "In a televised meeting on September 29, President Abdel Fattah el-Sisi said the Suez Canal has lost about $20 billion in revenue since October 2023 due to navigation disruptions tied to regional conflicts, including Houthi attacks on ships. The figure comes from the Egyptian presidency and has not been independently verified.",
+      "es": "En una reunión televisada el 29 de septiembre, el presidente Abdelfatah al Sisi afirmó que el canal de Suez ha perdido unos 20.000 millones de dólares en ingresos desde octubre de 2023 por las perturbaciones de la navegación vinculadas a los conflictos regionales, incluidos los ataques hutíes a buques. La cifra procede de la presidencia egipcia y no ha sido verificada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "29/09/2026",
+          "en": "29/09/2026",
+          "es": "29/09/2026"
+        },
+        "d": {
+          "fr": "Al-Sissi évoque le manque à gagner du canal.",
+          "en": "El-Sisi cites the canal's revenue shortfall.",
+          "es": "Al Sisi menciona la pérdida de ingresos del canal."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-election-4-oct",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Atlantic Council / Brookings",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Brasilia, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : à quelques jours de la présidentielle du 4 octobre",
+      "en": "Brazil: days away from the October 4 presidential election",
+      "es": "Brasil: a pocos días de la elección presidencial del 4 de octubre"
+    },
+    "summary": {
+      "fr": "Les Brésiliens votent le 4 octobre pour la présidence, les gouverneurs, deux sénateurs par État et les 513 députés. Les derniers sondages décrivent une course serrée, selon les instituts avec un léger avantage pour Lula. L'enquête sur la fraude présumée de la Banco Master et le débat sur la Cour suprême s'invitent dans la campagne.",
+      "en": "Brazilians vote on October 4 for president, governors, two senators per state and all 513 deputies. Late polls describe a tight race, with a modest lead for Lula in some. The Banco Master fraud investigation and scrutiny of the Supreme Court have entered the campaign.",
+      "es": "Los brasileños votan el 4 de octubre para presidente, gobernadores, dos senadores por estado y los 513 diputados. Los últimos sondeos describen una carrera reñida, con una ligera ventaja de Lula en algunos. La investigación por el presunto fraude del Banco Master y el escrutinio sobre el Supremo marcan la campaña."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Dernière semaine de campagne avant le scrutin.",
+          "en": "Final week of campaigning before the vote.",
+          "es": "Última semana de campaña antes de la votación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      7.4951,
+      9.0579
+    ],
+    "id": "nigeria-greve-fonction-publique",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "📢",
+    "source": "TVC News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : les fonctionnaires menacent d'une grève nationale dès le 2 octobre",
+      "en": "Nigeria: public servants threaten national strike from October 2",
+      "es": "Nigeria: funcionarios amenazan con huelga nacional desde el 2 de octubre"
+    },
+    "summary": {
+      "fr": "Selon la presse nigériane, les syndicats du Joint National Public Service Negotiating Council menacent de lancer une grève nationale le 2 octobre si le gouvernement fédéral ne répond pas à leurs revendications. Source unique à ce stade ; les revendications précises ne sont pas détaillées.",
+      "en": "According to Nigerian press, unions of the Joint National Public Service Negotiating Council threaten to start a national strike on October 2 if the federal government does not respond to their demands. Single source so far; the specific demands are not detailed.",
+      "es": "Según la prensa nigeriana, los sindicatos del Joint National Public Service Negotiating Council amenazan con iniciar una huelga nacional el 2 de octubre si el Gobierno federal no responde a sus demandas. Una sola fuente por ahora; no se detallan las demandas concretas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Ultimatum des syndicats de la fonction publique.",
+          "en": "Ultimatum from public-service unions.",
+          "es": "Ultimátum de los sindicatos de la función pública."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      106.8456,
+      -6.2088
+    ],
+    "id": "indonesie-remaniement",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏛️",
+    "source": "ANTARA / Bloomberg",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Jakarta, Indonésie",
+      "en": "Jakarta, Indonesia",
+      "es": "Yakarta, Indonesia"
+    },
+    "title": {
+      "fr": "Indonésie : remaniement économique autour de Prabowo",
+      "en": "Indonesia: economic reshuffle under Prabowo",
+      "es": "Indonesia: cambio económico en el Gobierno de Prabowo"
+    },
+    "summary": {
+      "fr": "Le président Prabowo Subianto a nommé le 30 septembre le ministre de l'Énergie Bahlil Lahadalia à un nouveau poste de ministre coordonnateur chargé de l'aval industriel et de la transition énergétique, qu'il cumule avec son portefeuille. Plus tôt en septembre, le ministre des Finances Purbaya Yudhi Sadewa a été remplacé par son adjoint Suahasil Nazara, selon Bloomberg.",
+      "en": "On September 30, President Prabowo Subianto named Energy Minister Bahlil Lahadalia to a new post of Coordinating Minister for Downstreaming and Energy Transition, which he holds alongside his portfolio. Earlier in September, Finance Minister Purbaya Yudhi Sadewa was replaced by his deputy Suahasil Nazara, according to Bloomberg.",
+      "es": "El 30 de septiembre, el presidente Prabowo Subianto nombró al ministro de Energía Bahlil Lahadalia en el nuevo cargo de ministro coordinador de Industrialización y Transición Energética, que ejerce junto a su cartera. A principios de septiembre, el ministro de Finanzas Purbaya Yudhi Sadewa fue sustituido por su adjunto Suahasil Nazara, según Bloomberg."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Création d'un poste de ministre coordonnateur pour Bahlil.",
+          "en": "New coordinating minister post created for Bahlil.",
+          "es": "Se crea un cargo de ministro coordinador para Bahlil."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      20.51,
+      54.7104
+    ],
+    "id": "kaliningrad-avertissement",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "☢️",
+    "source": "Reuters / Moscow Times / Euronews",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Kaliningrad, Russie / mer Baltique",
+      "en": "Kaliningrad, Russia / Baltic Sea",
+      "es": "Kaliningrado, Rusia / mar Báltico"
+    },
+    "title": {
+      "fr": "Moscou avertit l'OTAN d'une riposte, y compris nucléaire, en cas d'isolement de Kaliningrad",
+      "en": "Moscow warns NATO of response, including nuclear, if Kaliningrad is isolated",
+      "es": "Moscú advierte a la OTAN de una respuesta, incluso nuclear, si se aísla Kaliningrado"
+    },
+    "summary": {
+      "fr": "Selon Reuters, un document diplomatique russe adressé à l'OTAN affirme que Moscou pourrait recourir à « tout l'arsenal », armes nucléaires comprises, si l'alliance tentait d'isoler Kaliningrad, et accuse l'OTAN de préparer un blocus aérien et naval dans la Baltique. L'OTAN répond être défensive et que ses activités ne menacent pas la Russie ; son secrétaire général Mark Rutte dit ne pas prendre l'avertissement au sérieux et ne voir aucune menace immédiate.",
+      "en": "According to Reuters, a Russian diplomatic document sent to NATO says Moscow could use 'the entire arsenal', including nuclear weapons, if the alliance tried to isolate Kaliningrad, and accuses NATO of preparing an air and naval blockade in the Baltic. NATO replies that it is defensive and its activities do not threaten Russia; Secretary General Mark Rutte says he does not take the warning seriously and sees no immediate threat.",
+      "es": "Según Reuters, un documento diplomático ruso enviado a la OTAN afirma que Moscú podría usar 'todo el arsenal', incluidas armas nucleares, si la alianza intentara aislar Kaliningrado, y acusa a la OTAN de preparar un bloqueo aéreo y naval en el Báltico. La OTAN responde que es defensiva y que sus actividades no amenazan a Rusia; el secretario general Mark Rutte dice que no toma en serio la advertencia y que no hay amenaza inmediata."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Révélation du document russe ; réponse de l'OTAN.",
+          "en": "Russian document revealed; NATO responds.",
+          "es": "Se conoce el documento ruso; responde la OTAN."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "kyiv-reseau-electrique"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      34.4667,
+      31.5
+    ],
+    "id": "gaza-frappes-30sept",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "CBS News / AP / Times of Israel",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Gaza (Gaza-ville, Khan Younès), territoire palestinien",
+      "en": "Gaza (Gaza City, Khan Younis), Palestinian territory",
+      "es": "Gaza (ciudad de Gaza, Jan Yunis), territorio palestino"
+    },
+    "title": {
+      "fr": "Gaza : frappes israéliennes meurtrières le 30 septembre",
+      "en": "Gaza: deadly Israeli strikes on September 30",
+      "es": "Gaza: ataques israelíes mortales el 30 de septiembre"
+    },
+    "summary": {
+      "fr": "Des frappes israéliennes ont fait des morts à Gaza-ville, Khan Younès et près de Qarara le 30 septembre, dont le journaliste Mohammad al-Najar selon les rapports. Le bilan diffère selon les sources : 5 morts et 19 blessés pour l'une, au moins 7 morts pour d'autres. Ces chiffres ne sont pas vérifiés de manière indépendante.",
+      "en": "Israeli strikes killed people in Gaza City, Khan Younis and near Qarara on September 30, including journalist Mohammad al-Najar according to reports. The toll differs by source: 5 dead and 19 wounded in one, at least 7 dead in others. These figures are not independently verified.",
+      "es": "Ataques israelíes causaron muertes en la ciudad de Gaza, Jan Yunis y cerca de Qarara el 30 de septiembre, entre ellas el periodista Mohammad al Najar según los informes. El balance difiere según las fuentes: 5 muertos y 19 heridos en una, al menos 7 muertos en otras. Estas cifras no se han verificado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Frappes signalées sur plusieurs secteurs de Gaza.",
+          "en": "Strikes reported across several areas of Gaza.",
+          "es": "Se informan ataques en varias zonas de Gaza."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      -74.009,
+      40.706
+    ],
+    "id": "wallstreet-fin-septembre",
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "CNBC",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Wall Street, New York, États-Unis",
+      "en": "Wall Street, New York, United States",
+      "es": "Wall Street, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Wall Street clôt septembre dans le rouge, l'inflation ralentit",
+      "en": "Wall Street ends September lower as inflation slows",
+      "es": "Wall Street cierra septiembre a la baja mientras la inflación se modera"
+    },
+    "summary": {
+      "fr": "Selon CNBC, le S&P 500 a reculé le 30 septembre et perdu 0,5 % sur le mois, tandis que le Nasdaq progressait de 1,9 %. De nouvelles données ont montré un ralentissement de l'inflation en août ; les opérateurs attendent le rapport sur l'emploi cette semaine. Source unique.",
+      "en": "According to CNBC, the S&P 500 slid on September 30 and lost 0.5% over the month, while the Nasdaq gained 1.9%. New data showed inflation slowed in August; traders await the jobs report this week. Single source.",
+      "es": "Según CNBC, el S&P 500 cayó el 30 de septiembre y perdió un 0,5 % en el mes, mientras el Nasdaq subió un 1,9 %. Nuevos datos mostraron una moderación de la inflación en agosto; los operadores esperan el informe de empleo esta semana. Una sola fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Clôture mensuelle des marchés américains.",
+          "en": "Month-end close for US markets.",
+          "es": "Cierre mensual de los mercados estadounidenses."
         },
         "active": true
       }
