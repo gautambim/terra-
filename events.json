@@ -829,5 +829,451 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "kyiv-attaque-sept",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "RTÉ / PBS NewsHour / ABC News / CBS News",
+    "week": "2026-W40",
+    "priority": 2,
+    "place": {
+      "fr": "Kyiv et sa région, Ukraine",
+      "en": "Kyiv and surrounding region, Ukraine",
+      "es": "Kiev y su región, Ucrania"
+    },
+    "title": {
+      "fr": "Une attaque russe sur Kyiv fait au moins 4 morts",
+      "en": "Russian attack on Kyiv kills at least 4",
+      "es": "Un ataque ruso sobre Kiev deja al menos 4 muertos"
+    },
+    "summary": {
+      "fr": "Une attaque russe de missiles et de drones lancée dans la nuit du 30 septembre a tué au moins quatre personnes, dont un enfant de 14 ans, à Kyiv et dans une ville de sa banlieue nord, selon RTÉ, PBS, ABC et CBS. Au moins huit à dix personnes ont été blessées et des infrastructures résidentielles et énergétiques endommagées. D'après l'armée ukrainienne, 5 missiles et 155 des 188 drones ont été interceptés. Moscou affirme avoir visé un centre de données soutenant les forces armées ukrainiennes, des centrales électriques de la région de Kyiv, un site industriel dans la région d'Odessa et des installations portuaires à Izmaïl.",
+      "en": "A Russian missile and drone attack launched overnight on 30 September killed at least four people, including a 14-year-old child, in Kyiv and a town on its northern outskirts, according to RTÉ, PBS, ABC and CBS. At least eight to ten people were wounded and residential and energy infrastructure was damaged. Ukraine's military says 5 missiles and 155 of 188 drones were intercepted. Moscow says it hit a data centre supporting Ukraine's armed forces, power plants in the Kyiv region, an industrial site in the Odesa region and port facilities in Izmail.",
+      "es": "Un ataque ruso con misiles y drones lanzado en la noche del 30 de septiembre mató al menos a cuatro personas, entre ellas un niño de 14 años, en Kiev y en una localidad de su periferia norte, según RTÉ, PBS, ABC y CBS. Al menos ocho o diez personas resultaron heridas y se dañaron infraestructuras residenciales y energéticas. Según el ejército ucraniano, se interceptaron 5 misiles y 155 de los 188 drones. Moscú afirma haber atacado un centro de datos que apoya a las fuerzas armadas ucranianas, centrales eléctricas de la región de Kiev, un sitio industrial en la región de Odesa e instalaciones portuarias en Izmail."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Bilan d'au moins 4 morts annoncé après l'attaque nocturne.",
+          "en": "Toll of at least 4 dead announced after the overnight attack.",
+          "es": "Se anuncia un balance de al menos 4 muertos tras el ataque nocturno."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "id": "fairford-arrestations",
+    "coords": [
+      -1.79,
+      51.682
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "CBS News / CNBC",
+    "week": "2026-W40",
+    "priority": 1,
+    "place": {
+      "fr": "RAF Fairford, Gloucestershire, Royaume-Uni",
+      "en": "RAF Fairford, Gloucestershire, United Kingdom",
+      "es": "RAF Fairford, Gloucestershire, Reino Unido"
+    },
+    "title": {
+      "fr": "Incident à la base de Fairford : le Premier ministre britannique évoque un rôle de l'Iran",
+      "en": "Fairford air base incident: UK PM says Iran 'played a part'",
+      "es": "Incidente en la base de Fairford: el primer ministro británico apunta a un papel de Irán"
+    },
+    "summary": {
+      "fr": "Cinq Britanniens de 23 à 25 ans ont été arrêtés dimanche près de la base RAF Fairford, utilisée par les forces américaines, après le signalement de trois véhicules suspects à Whelford, pour soupçons d'infractions liées aux explosifs et au terrorisme. Selon les médias, de l'essence a été retrouvée dans les véhicules mais pas d'explosifs ; ils ont été libérés sous caution. Un Britannico-Iranien de 27 ans a été arrêté jeudi à Londres. Le Premier ministre Andy Burnham dit avoir de « fortes indications » d'un rôle de l'Iran, sans détails ; l'ambassade d'Iran à Londres rejette catégoriquement ces allégations. L'enquête est en cours.",
+      "en": "Five British men aged 23 to 25 were arrested on Sunday near RAF Fairford, a base used by US forces, after three suspicious vehicles were reported in Whelford, on suspicion of explosives and terrorism offences. Media report petrol was found in the vans but no explosives; the men were released on bail. A 27-year-old dual UK-Iranian national was arrested in London on Thursday. Prime Minister Andy Burnham says there are 'strong indications' Iran played a part, without giving details; Iran's embassy in London categorically rejects the claim. The investigation is ongoing.",
+      "es": "Cinco británicos de entre 23 y 25 años fueron detenidos el domingo cerca de la base RAF Fairford, utilizada por fuerzas estadounidenses, tras el aviso de tres vehículos sospechosos en Whelford, por presuntos delitos de explosivos y terrorismo. Según los medios, se halló gasolina en las furgonetas pero no explosivos; fueron liberados bajo fianza. Un británico-iraní de 27 años fue detenido el jueves en Londres. El primer ministro Andy Burnham afirma que hay «fuertes indicios» de un papel de Irán, sin dar detalles; la embajada iraní en Londres lo rechaza categóricamente. La investigación continúa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Arrestation à Londres d'un double national britannico-iranien ; le Premier ministre évoque un rôle de l'Iran, Téhéran dément.",
+          "en": "Dual UK-Iranian national arrested in London; PM points to Iranian involvement, Tehran denies.",
+          "es": "Detenido en Londres un británico-iraní; el primer ministro apunta a Irán, Teherán lo niega."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "id": "flydubai-poignarde",
+    "coords": [
+      36.619,
+      28.3654
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "CBS News / NPR / Al Jazeera / Washington Post",
+    "week": "2026-W40",
+    "priority": 3,
+    "place": {
+      "fr": "Tabuk, Arabie saoudite (vol Dubaï–Tel Aviv)",
+      "en": "Tabuk, Saudi Arabia (Dubai–Tel Aviv flight)",
+      "es": "Tabuk, Arabia Saudí (vuelo Dubái–Tel Aviv)"
+    },
+    "title": {
+      "fr": "Un pilote poignardé en plein vol, l'avion flydubai se déroute vers l'Arabie saoudite",
+      "en": "Pilot stabbed mid-flight as flydubai jet diverts to Saudi Arabia",
+      "es": "Un piloto apuñalado en pleno vuelo; el avión de flydubai se desvía a Arabia Saudí"
+    },
+    "summary": {
+      "fr": "Le vol FZ1073 de flydubai (Boeing 737, environ 174 personnes) reliant Dubaï à Tel Aviv s'est posé en urgence à Tabuk, en Arabie saoudite, mercredi, après qu'un pilote a poignardé le commandant, un Indien selon l'ambassade d'Inde. Selon Flightradar24, l'appareil a perdu environ 14 000 pieds en 29 secondes. Des passagers ont maîtrisé l'agresseur. Le Premier ministre israélien Benjamin Netanyahu affirme que le pilote a tenté de faire s'écraser l'appareil et évoque une « radicalisation » ; les motifs restent à établir par l'enquête, y compris l'éventuelle piste terroriste.",
+      "en": "flydubai flight FZ1073 (Boeing 737, about 174 people) from Dubai to Tel Aviv made an emergency landing in Tabuk, Saudi Arabia, on Wednesday after one pilot stabbed the captain, an Indian national according to India's embassy. Flightradar24 data shows the jet dropped roughly 14,000 feet in 29 seconds. Passengers subdued the attacker. Israeli Prime Minister Benjamin Netanyahu says the pilot tried to crash the plane and cites 'radicalisation'; the motive remains to be established by investigators, including any possible terrorism link.",
+      "es": "El vuelo FZ1073 de flydubai (Boeing 737, unas 174 personas) de Dubái a Tel Aviv aterrizó de emergencia en Tabuk, Arabia Saudí, el miércoles después de que un piloto apuñalara al comandante, un indio según la embajada de la India. Según Flightradar24, el avión perdió unos 14.000 pies en 29 segundos. Pasajeros redujeron al agresor. El primer ministro israelí Benjamin Netanyahu afirma que el piloto intentó estrellar el avión y habla de «radicalización»; el móvil debe ser establecido por la investigación, incluida una posible pista terrorista."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Atterrissage d'urgence à Tabuk ; le commandant blessé est hospitalisé.",
+          "en": "Emergency landing in Tabuk; the wounded captain is hospitalised.",
+          "es": "Aterrizaje de emergencia en Tabuk; el comandante herido es hospitalizado."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "tokyo-voix-ia",
+    "coords": [
+      139.7528,
+      35.6762
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "US News / TBS News / The Next Web",
+    "week": "2026-W40",
+    "priority": 1,
+    "place": {
+      "fr": "Tribunal de district de Tokyo, Japon",
+      "en": "Tokyo District Court, Japan",
+      "es": "Tribunal de Distrito de Tokio, Japón"
+    },
+    "title": {
+      "fr": "Un tribunal de Tokyo reconnaît un droit sur la voix face aux clones par IA",
+      "en": "Tokyo court recognises a right to one's voice in AI clone case",
+      "es": "Un tribunal de Tokio reconoce un derecho sobre la voz ante los clones de IA"
+    },
+    "summary": {
+      "fr": "Le 30 septembre, le tribunal de district de Tokyo a jugé que la voix humaine est protégée au titre du droit à l'image (droit de publicité), une première au Japon, dans l'affaire du doubleur Kenjiro Tsuda. Un compte TikTok comptant plus de 180 vidéos utilisait un clone IA de sa voix. Le tribunal a rejeté la demande de retrait des vidéos, le compte ayant déjà été fermé, tout en estimant que l'usage non autorisé à des fins commerciales portait atteinte à ses droits.",
+      "en": "On 30 September the Tokyo District Court ruled that the human voice is protected under publicity rights, a first in Japan, in the case of voice actor Kenjiro Tsuda. A TikTok account with more than 180 videos used an AI clone of his voice. The court dismissed the request to remove the videos because the account had already been shut down, but found the unauthorised commercial use infringed his rights.",
+      "es": "El 30 de septiembre el Tribunal de Distrito de Tokio dictaminó que la voz humana está protegida por el derecho a la propia imagen (derecho de publicidad), algo inédito en Japón, en el caso del actor de doblaje Kenjiro Tsuda. Una cuenta de TikTok con más de 180 vídeos usaba un clon de IA de su voz. El tribunal rechazó la retirada de los vídeos porque la cuenta ya estaba cerrada, pero consideró que el uso comercial no autorizado vulneraba sus derechos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Jugement rendu : droit sur la voix reconnu, demande de retrait rejetée.",
+          "en": "Ruling issued: right to voice recognised, removal request dismissed.",
+          "es": "Sentencia: se reconoce el derecho a la voz, se rechaza la retirada."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "irak-retrait-us",
+    "coords": [
+      44.0089,
+      36.1901
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "PBS NewsHour / CP24 / Spectrum News",
+    "week": "2026-W40",
+    "priority": 3,
+    "place": {
+      "fr": "Base d'Erbil, Kurdistan irakien",
+      "en": "Erbil air base, Iraqi Kurdistan",
+      "es": "Base de Erbil, Kurdistán iraquí"
+    },
+    "title": {
+      "fr": "Les États-Unis annoncent la fin de leur retrait militaire d'Irak",
+      "en": "US military announces completion of its withdrawal from Iraq",
+      "es": "EE. UU. anuncia que ha completado su retirada militar de Irak"
+    },
+    "summary": {
+      "fr": "L'armée américaine a annoncé mercredi 30 septembre avoir achevé le retrait de ses troupes d'Irak, mettant fin à une mission de 12 ans contre l'État islamique. Le porte-parole du Pentagone Sean Parnell a décrit un « départ ordonné » de la base d'Erbil. Le retrait avait été négocié avec Bagdad sous l'administration Biden en 2024 ; Washington dit continuer à fournir formation et renseignement. Le président Trump a salué la fin d'une « excursion très coûteuse en enfer ».",
+      "en": "The US military announced on Wednesday 30 September that it has completed the withdrawal of its troops from Iraq, ending a 12-year mission against the Islamic State. Pentagon spokesperson Sean Parnell described an 'orderly departure' from Erbil air base. The withdrawal was negotiated with Baghdad under the Biden administration in 2024; Washington says it will keep providing training and intelligence support. President Trump hailed the end of 'a very expensive excursion into Hell'.",
+      "es": "El ejército de EE. UU. anunció el miércoles 30 de septiembre que ha completado la retirada de sus tropas de Irak, poniendo fin a una misión de 12 años contra el Estado Islámico. El portavoz del Pentágono Sean Parnell habló de una «salida ordenada» de la base de Erbil. La retirada se negoció con Bagdad bajo la administración Biden en 2024; Washington dice que seguirá aportando formación e inteligencia. El presidente Trump celebró el fin de «una excursión muy cara al infierno»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Le Pentagone confirme la fin du retrait.",
+          "en": "Pentagon confirms the withdrawal is complete.",
+          "es": "El Pentágono confirma el fin de la retirada."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "chine-xi-fete-nationale",
+    "coords": [
+      116.3974,
+      39.9093
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇨🇳",
+    "source": "US News / SCMP / CGTN",
+    "week": "2026-W40",
+    "priority": 1,
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Fête nationale : Xi Jinping appelle à atteindre les objectifs de croissance",
+      "en": "National Day: Xi Jinping calls for full-year growth targets to be met",
+      "es": "Fiesta Nacional: Xi Jinping pide cumplir los objetivos de crecimiento anual"
+    },
+    "summary": {
+      "fr": "Lors de la réception du 77e anniversaire de la République populaire, Xi Jinping a appelé à atteindre les objectifs économiques de l'année, a réaffirmé l'opposition de Pékin à l'indépendance de Taïwan et à toute ingérence extérieure, et a souligné que 2026 marque le début du 15e plan quinquennal (2026-2030), entre réforme, ouverture et sécurité nationale. La Semaine d'or des vacances a débuté le 1er octobre.",
+      "en": "At the reception marking the People's Republic's 77th anniversary, Xi Jinping called for the year's economic targets to be met, reiterated Beijing's opposition to Taiwan independence and external interference, and noted that 2026 marks the start of the 15th five-year plan (2026-2030), balancing reform and opening up with national security. The Golden Week holiday began on 1 October.",
+      "es": "En la recepción del 77.º aniversario de la República Popular, Xi Jinping pidió cumplir los objetivos económicos del año, reiteró la oposición de Pekín a la independencia de Taiwán y a la injerencia exterior, y destacó que 2026 marca el inicio del 15.º plan quinquenal (2026-2030), equilibrando reforma y apertura con seguridad nacional. La Semana Dorada comenzó el 1 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Discours de Xi Jinping à la réception de la fête nationale.",
+          "en": "Xi Jinping's speech at the National Day reception.",
+          "es": "Discurso de Xi Jinping en la recepción de la Fiesta Nacional."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "putin-trilaterale",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Reuters via The Standard / The Moscow Times / Japan Today",
+    "week": "2026-W40",
+    "priority": 2,
+    "place": {
+      "fr": "Russie",
+      "en": "Russia",
+      "es": "Rusia"
+    },
+    "title": {
+      "fr": "Poutine se dit prêt à une rencontre à trois avec Xi et Trump",
+      "en": "Putin says he is ready for a meeting with Xi and Trump",
+      "es": "Putin dice estar listo para una reunión con Xi y Trump"
+    },
+    "summary": {
+      "fr": "Jeudi 1er octobre, Vladimir Poutine a déclaré être prêt à une rencontre trilatérale avec Xi Jinping et Donald Trump, à condition qu'un ordre du jour soit d'abord défini. Début septembre, le Kremlin avait évoqué une possible rencontre en marge du sommet de l'APEC en novembre. Selon The Moscow Times, il a aussi mis en garde l'Occident contre toute escalade dans le conflit en Ukraine. Aucune date ni confirmation de Washington ou de Pékin n'a été trouvée.",
+      "en": "On Thursday 1 October, Vladimir Putin said he was ready for a trilateral meeting with Xi Jinping and Donald Trump, provided an agenda is worked out first. In early September the Kremlin had mentioned a possible meeting at the APEC summit in November. According to The Moscow Times he also warned the West against escalation in the Ukraine conflict. No date or confirmation from Washington or Beijing was found.",
+      "es": "El jueves 1 de octubre, Vladimir Putin dijo estar listo para una reunión trilateral con Xi Jinping y Donald Trump, siempre que antes se defina una agenda. A principios de septiembre el Kremlin mencionó una posible reunión en la cumbre de la APEC en noviembre. Según The Moscow Times, también advirtió a Occidente contra la escalada en el conflicto de Ucrania. No se halló fecha ni confirmación de Washington o Pekín."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Poutine se dit prêt à condition d'un ordre du jour convenu.",
+          "en": "Putin says he is ready, conditional on an agreed agenda.",
+          "es": "Putin dice estar listo, condicionado a una agenda acordada."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "gaza-funerailles-105",
+    "coords": [
+      34.4667,
+      31.5017
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "Al Jazeera / Africanews / Arab News",
+    "week": "2026-W40",
+    "priority": 3,
+    "place": {
+      "fr": "Ville de Gaza, bande de Gaza",
+      "en": "Gaza City, Gaza Strip",
+      "es": "Ciudad de Gaza, Franja de Gaza"
+    },
+    "title": {
+      "fr": "Funérailles collectives à Gaza pour 105 personnes retrouvées sous les décombres",
+      "en": "Mass funeral in Gaza City for 105 people recovered from rubble",
+      "es": "Funeral colectivo en Gaza para 105 personas halladas bajo los escombros"
+    },
+    "summary": {
+      "fr": "Des habitants de la ville de Gaza ont enterré les restes de 105 personnes, dont 37 enfants et 38 femmes, récupérés ces derniers jours sous les décombres de 16 immeubles du quartier d'Al-Taj (Yarmouk). Selon Al Jazeera, ils auraient été tués lors de frappes israéliennes du 25 octobre 2023, qui avaient rasé l'immeuble Al Taj 3. La défense civile estime que plus de 8 000 corps restent sous les décombres dans l'enclave. La position des autorités israéliennes sur cette frappe n'a pas été retrouvée.",
+      "en": "Residents of Gaza City buried the remains of 105 people, including 37 children and 38 women, recovered in recent days from the rubble of 16 buildings in the Al-Taj area (Yarmouk). According to Al Jazeera they were killed in Israeli strikes on 25 October 2023 that levelled the Al Taj 3 building. Civil defence estimates more than 8,000 bodies remain under rubble across the Strip. The Israeli authorities' position on this strike was not found.",
+      "es": "Habitantes de la ciudad de Gaza enterraron los restos de 105 personas, entre ellas 37 niños y 38 mujeres, recuperados en los últimos días de los escombros de 16 edificios del barrio de Al-Taj (Yarmuk). Según Al Jazeera murieron en ataques israelíes del 25 de octubre de 2023 que arrasaron el edificio Al Taj 3. La defensa civil estima que más de 8.000 cuerpos siguen bajo los escombros en la Franja. No se halló la postura de las autoridades israelíes sobre este ataque."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Prières funéraires et inhumation au cimetière des Martyrs.",
+          "en": "Funeral prayers and burial at the Martyrs Cemetery.",
+          "es": "Oraciones fúnebres y entierro en el cementerio de los Mártires."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "messi-eldense",
+    "coords": [
+      -0.7667,
+      38.4833
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "ESPN / BA Times / Goal",
+    "week": "2026-W40",
+    "priority": 2,
+    "place": {
+      "fr": "Elda, province d'Alicante, Espagne",
+      "en": "Elda, Alicante province, Spain",
+      "es": "Elda, provincia de Alicante, España"
+    },
+    "title": {
+      "fr": "Lionel Messi finalise le rachat du club espagnol d'Eldense",
+      "en": "Lionel Messi completes purchase of Spanish club Eldense",
+      "es": "Lionel Messi completa la compra del club español Eldense"
+    },
+    "summary": {
+      "fr": "Lionel Messi, 39 ans, devient actionnaire majoritaire de CD Eldense, club de deuxième division espagnole, en rachetant les parts d'un groupe d'investisseurs colombien. C'est son deuxième club en Espagne après UE Cornellà, acquis en avril. L'opération reste soumise à l'approbation du Conseil supérieur des sports (CSD).",
+      "en": "Lionel Messi, 39, becomes majority owner of Spanish second-division club CD Eldense, buying the shares of a Colombian investment group. It is his second club in Spain after UE Cornellà, bought in April. The deal remains subject to approval by Spain's National Sports Council (CSD).",
+      "es": "Lionel Messi, de 39 años, se convierte en propietario mayoritario del CD Eldense, club de Segunda División, al comprar las acciones de un grupo inversor colombiano. Es su segundo club en España tras la UE Cornellà, adquirida en abril. La operación sigue sujeta a la aprobación del Consejo Superior de Deportes (CSD)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Rachat annoncé, en attente de l'accord du CSD.",
+          "en": "Purchase announced, pending CSD approval.",
+          "es": "Compra anunciada, pendiente de la aprobación del CSD."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "delhi-pollution-octobre",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌫️",
+    "source": "The Daily Jagran (données CREA)",
+    "week": "2026-W40",
+    "priority": 2,
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Delhi connaît son début d'octobre le plus pollué depuis quatre ans",
+      "en": "Delhi records its most polluted start to October in four years",
+      "es": "Delhi registra su inicio de octubre más contaminado en cuatro años"
+    },
+    "summary": {
+      "fr": "L'indice de qualité de l'air (AQI) de Delhi s'est établi à 166 (catégorie « modérée ») le 1er octobre, le niveau le plus élevé pour cette date depuis 2022 (186), selon des données du CREA citées par The Daily Jagran. Les prévisions annoncent un air toujours modéré, avec une faible ventilation et des brûlis agricoles régionaux. Source unique à ce stade.",
+      "en": "Delhi's Air Quality Index (AQI) settled at 166 ('moderate') on 1 October, the highest for that date since 2022 (186), according to CREA data cited by The Daily Jagran. Forecasts point to continued moderate air, with weak ventilation and regional stubble burning. Single source at this stage.",
+      "es": "El índice de calidad del aire (AQI) de Delhi se situó en 166 («moderado») el 1 de octubre, el más alto para esa fecha desde 2022 (186), según datos del CREA citados por The Daily Jagran. Las previsiones apuntan a un aire moderado, con poca ventilación y quema agrícola regional. Fuente única por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "AQI de 166 enregistré à Delhi.",
+          "en": "AQI of 166 recorded in Delhi.",
+          "es": "Se registra un AQI de 166 en Delhi."
+        },
+        "active": true
+      }
+    ]
   }
 ]
