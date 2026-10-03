@@ -829,5 +829,680 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "flydubai-tabuk",
+    "coords": [
+      36.5619,
+      28.3654
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "CNN / CBS News / Washington Post / Al Jazeera",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Tabuk, Arabie saoudite",
+      "en": "Tabuk, Saudi Arabia",
+      "es": "Tabuk, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Vol Flydubai Dubaï–Tel Aviv dérouté vers l'Arabie saoudite après un pilote poignardé",
+      "en": "Flydubai Dubai–Tel Aviv flight diverted to Saudi Arabia after a pilot is stabbed",
+      "es": "Vuelo de Flydubai Dubái–Tel Aviv desviado a Arabia Saudí tras apuñalar a un piloto"
+    },
+    "summary": {
+      "fr": "Mercredi 30 septembre, un vol Flydubai transportant environ 180 passagers a atterri en urgence à Tabuk après qu'un pilote en a poignardé un autre en vol, selon CNN, CBS News et le Washington Post. Le Premier ministre israélien Benjamin Netanyahu affirme que le copilote a tenté de faire s'écraser l'appareil et évoque une « radicalisation islamiste » ; cette version provient des autorités israéliennes et l'enquête est en cours. Aucun passager n'aurait été blessé ; deux membres d'équipage ont été hospitalisés. Le suspect a été transféré aux Émirats arabes unis.",
+      "en": "On Wednesday, September 30, a Flydubai flight carrying about 180 passengers made an emergency landing in Tabuk after one pilot stabbed another in flight, according to CNN, CBS News and the Washington Post. Israeli Prime Minister Benjamin Netanyahu says the co-pilot tried to crash the aircraft and cites 'Islamist radical indoctrination'; that account comes from Israeli officials and the investigation is ongoing. No passengers were reportedly injured; two crew members were hospitalised. The suspect was transferred to the UAE.",
+      "es": "El miércoles 30 de septiembre, un vuelo de Flydubai con unos 180 pasajeros aterrizó de emergencia en Tabuk después de que un piloto apuñalara a otro en pleno vuelo, según CNN, CBS News y el Washington Post. El primer ministro israelí, Benjamin Netanyahu, afirma que el copiloto intentó estrellar el avión y habla de «adoctrinamiento islamista radical»; esa versión procede de las autoridades israelíes y la investigación sigue abierta. Según se informa, ningún pasajero resultó herido; dos tripulantes fueron hospitalizados. El sospechoso fue trasladado a los Emiratos Árabes Unidos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Le vol atterrit à Tabuk ; le suspect est ensuite transféré aux Émirats (01/10).",
+          "en": "The flight lands in Tabuk; the suspect is later transferred to the UAE (Oct 1).",
+          "es": "El vuelo aterriza en Tabuk; el sospechoso es trasladado después a los Emiratos (1 oct)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "pike-execution-tennessee",
+    "coords": [
+      -86.7816,
+      36.1627
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "The Hill / PBS NewsHour / Washington Post",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Tennessee, États-Unis",
+      "en": "Tennessee, United States",
+      "es": "Tennessee, Estados Unidos"
+    },
+    "title": {
+      "fr": "Tennessee : l'exécution de Christa Pike échoue, la détenue est dans un état critique",
+      "en": "Tennessee: Christa Pike's execution fails, inmate in critical condition",
+      "es": "Tennessee: fracasa la ejecución de Christa Pike, la reclusa está en estado crítico"
+    },
+    "summary": {
+      "fr": "Mercredi 30 septembre, l'État du Tennessee n'a pas réussi à exécuter Christa Pike, 50 ans, selon The Hill, PBS et le Washington Post. Ses avocats indiquent qu'elle a reçu deux doses de pentobarbital, qu'elle est restée en vie et se trouve dans un état critique. Les exécuteurs auraient mis environ une heure à établir une voie intraveineuse. Le gouverneur Bill Lee a reporté l'exécution à 2027 au plus tôt et ordonné une enquête indépendante ; c'est le deuxième échec cette année dans l'État.",
+      "en": "On Wednesday, September 30, Tennessee failed to carry out the execution of Christa Pike, 50, according to The Hill, PBS and the Washington Post. Her lawyers say she received two doses of pentobarbital, remained alive and is in critical condition. Executioners reportedly spent about an hour trying to establish an IV line. Gov. Bill Lee delayed the execution until at least next year and ordered an independent investigation; it is the state's second failed execution this year.",
+      "es": "El miércoles 30 de septiembre, Tennessee no logró ejecutar a Christa Pike, de 50 años, según The Hill, PBS y el Washington Post. Sus abogados afirman que recibió dos dosis de pentobarbital, siguió con vida y está en estado crítico. Los verdugos habrían tardado cerca de una hora en establecer una vía intravenosa. El gobernador Bill Lee aplazó la ejecución al menos hasta el próximo año y ordenó una investigación independiente; es el segundo fallo del estado este año."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Exécution ratée ; le gouverneur ordonne une enquête indépendante.",
+          "en": "Execution fails; the governor orders an independent investigation.",
+          "es": "Ejecución fallida; el gobernador ordena una investigación independiente."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "scotus-detention-immigrants",
+    "coords": [
+      -77.0044,
+      38.8906
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛️",
+    "source": "Washington Post / CNN / Boston Globe",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington D. C., Estados Unidos"
+    },
+    "title": {
+      "fr": "La Cour suprême va examiner la détention obligatoire sans audience de libération sous caution des immigrés",
+      "en": "Supreme Court to review mandatory detention of immigrants without bond hearings",
+      "es": "El Tribunal Supremo revisará la detención obligatoria de inmigrantes sin audiencia de fianza"
+    },
+    "summary": {
+      "fr": "Le 1er octobre, la Cour suprême américaine a accepté d'examiner la politique de l'administration Trump qui refuse toute audience de libération sous caution aux personnes entrées illégalement aux États-Unis, selon le Washington Post, CNN et le Boston Globe. Neuf cours d'appel fédérales sur onze ont jugé cette pratique contraire à la loi, tandis que les 5e et 8e circuits l'ont validée. Le nombre de personnes détenues par l'immigration serait passé d'environ 38 000 à plus de 65 000.",
+      "en": "On October 1, the US Supreme Court agreed to review the Trump administration's policy of denying bond hearings to people who entered the country illegally, according to the Washington Post, CNN and the Boston Globe. Nine of 11 federal appeals circuits have found the practice violates federal law, while the 5th and 8th circuits upheld it. Immigration detention is reported to have risen from about 38,000 to more than 65,000.",
+      "es": "El 1 de octubre, el Tribunal Supremo de EE. UU. aceptó revisar la política de la administración Trump que niega audiencias de fianza a quienes entraron ilegalmente al país, según el Washington Post, CNN y el Boston Globe. Nueve de los 11 circuitos federales de apelación consideran que la práctica infringe la ley, mientras que los circuitos 5.º y 8.º la avalaron. La detención migratoria habría pasado de unas 38.000 a más de 65.000 personas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême accepte de se saisir du dossier.",
+          "en": "The Supreme Court agrees to take up the case.",
+          "es": "El Tribunal Supremo acepta el caso."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "starship-orbite-vol14",
+    "coords": [
+      -97.1561,
+      25.9971
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚀",
+    "source": "CNBC / Bloomberg",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Starbase, Texas, États-Unis",
+      "en": "Starbase, Texas, United States",
+      "es": "Starbase, Texas, Estados Unidos"
+    },
+    "title": {
+      "fr": "Starship atteint l'orbite pour la première fois et déploie 26 satellites Starlink V3",
+      "en": "Starship reaches orbit for the first time, deploys 26 Starlink V3 satellites",
+      "es": "Starship alcanza la órbita por primera vez y despliega 26 satélites Starlink V3"
+    },
+    "summary": {
+      "fr": "Le 28 septembre, lors de son 14e vol, Starship a décollé de Starbase et a atteint l'orbite, puis déployé 26 satellites Starlink V3, selon CNBC et Bloomberg. Un moteur Raptor de l'étage supérieur s'est arrêté avant la fin prévue de la combustion, sans empêcher l'insertion en orbite.",
+      "en": "On September 28, on its 14th flight, Starship lifted off from Starbase, reached orbit and deployed 26 Starlink V3 satellites, according to CNBC and Bloomberg. One Raptor engine on the upper stage shut down before the planned end of the burn, without preventing orbital insertion.",
+      "es": "El 28 de septiembre, en su 14.º vuelo, Starship despegó de Starbase, alcanzó la órbita y desplegó 26 satélites Starlink V3, según CNBC y Bloomberg. Un motor Raptor de la etapa superior se apagó antes del final previsto de la combustión, sin impedir la inserción orbital."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "28/09/2026",
+          "en": "28/09/2026",
+          "es": "28/09/2026"
+        },
+        "d": {
+          "fr": "Premier vol orbital de Starship.",
+          "en": "First orbital Starship flight.",
+          "es": "Primer vuelo orbital de Starship."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ethiopie-erythree-rupture",
+    "coords": [
+      38.7469,
+      9.03
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Bloomberg / Democracy Now",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Addis-Abeba, Éthiopie / Asmara, Érythrée",
+      "en": "Addis Ababa, Ethiopia / Asmara, Eritrea",
+      "es": "Adís Abeba, Etiopía / Asmara, Eritrea"
+    },
+    "title": {
+      "fr": "L'Érythrée rompt ses relations avec l'Éthiopie ; explosions à Addis-Abeba",
+      "en": "Eritrea severs ties with Ethiopia; blasts heard in Addis Ababa",
+      "es": "Eritrea rompe relaciones con Etiopía; explosiones en Adís Abeba"
+    },
+    "summary": {
+      "fr": "L'Éthiopie a fermé son ambassade à Asmara et expulsé 10 diplomates érythréens, accusant l'Érythrée d'armer des rebelles au Tigré ; l'Érythrée a rompu ses relations diplomatiques le 1er octobre, jugeant ces accusations « stupéfiantes » et accusant à son tour Addis-Abeba de soutenir ses opposants. Deux explosions, attribuées à des drones, ont été entendues à Addis-Abeba ; une source liée au TPLF en revendique la responsabilité, ce qui n'est pas confirmé de manière indépendante.",
+      "en": "Ethiopia closed its embassy in Asmara and expelled 10 Eritrean diplomats, accusing Eritrea of arming rebels in Tigray; Eritrea severed diplomatic ties on October 1, calling the claims 'astounding' and accusing Addis Ababa in turn of backing Eritrean opposition groups. Two blasts, attributed to drones, were heard in Addis Ababa; a source linked to the TPLF claimed responsibility, which has not been independently confirmed.",
+      "es": "Etiopía cerró su embajada en Asmara y expulsó a 10 diplomáticos eritreos, acusando a Eritrea de armar a rebeldes en Tigré; Eritrea rompió relaciones diplomáticas el 1 de octubre, calificando las acusaciones de «asombrosas» y acusando a su vez a Adís Abeba de apoyar a opositores eritreos. Se oyeron dos explosiones en Adís Abeba, atribuidas a drones; una fuente vinculada al TPLF se atribuye la autoría, algo no confirmado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Rupture diplomatique entre les deux pays (01/10).",
+          "en": "Diplomatic break between the two countries (Oct 1).",
+          "es": "Ruptura diplomática entre ambos países (1 oct)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "egypte-matsda2sh",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "📰",
+    "source": "NBC News / Human Rights Watch / Middle East Eye",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Égypte : six journalistes de la plateforme Matsda2sh arrêtés",
+      "en": "Egypt: six journalists of the Matsda2sh platform arrested",
+      "es": "Egipto: arrestados seis periodistas de la plataforma Matsda2sh"
+    },
+    "summary": {
+      "fr": "Les forces de sécurité égyptiennes ont arrêté les 28 et 29 septembre six journalistes, soit toute la rédaction de la plateforme d'investigation Matsda2sh, selon Human Rights Watch et NBC News. Le ministère de l'Intérieur décrit le média comme non autorisé et géré depuis l'étranger par un membre des Frères musulmans en fuite, et affirme que les personnes arrêtées préparaient de fausses informations. Les organisations de défense des droits, dont plus de 80 ont protesté, réclament leur libération ; leur lieu de détention serait inconnu.",
+      "en": "Egyptian security forces arrested six journalists on September 28-29, the entire newsroom of the investigative platform Matsda2sh, according to Human Rights Watch and NBC News. The Interior Ministry describes the outlet as unlicensed and run from abroad by a fugitive Muslim Brotherhood member, and says those detained prepared false news. Rights groups, more than 80 of which have protested, call for their release; their whereabouts are reportedly unknown.",
+      "es": "Las fuerzas de seguridad egipcias arrestaron el 28 y 29 de septiembre a seis periodistas, toda la redacción de la plataforma de investigación Matsda2sh, según Human Rights Watch y NBC News. El Ministerio del Interior describe el medio como sin licencia y dirigido desde el extranjero por un miembro fugitivo de los Hermanos Musulmanes, y afirma que los detenidos preparaban noticias falsas. Las organizaciones de derechos humanos, más de 80 de las cuales han protestado, piden su liberación; su paradero sería desconocido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "HRW et d'autres ONG condamnent les arrestations (02/10).",
+          "en": "HRW and other NGOs condemn the arrests (Oct 2).",
+          "es": "HRW y otras ONG condenan los arrestos (2 oct)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "bresil-debat-annule",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "US News / Al Jazeera",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : le dernier débat télévisé annulé à trois jours de la présidentielle",
+      "en": "Brazil: final TV debate scrapped three days before the presidential election",
+      "es": "Brasil: cancelado el último debate televisado a tres días de las presidenciales"
+    },
+    "summary": {
+      "fr": "TV Globo a annulé le dernier débat avant le scrutin du 4 octobre après que le président Lula et le sénateur Flávio Bolsonaro ont renoncé à y participer, selon US News et Al Jazeera. La chaîne cite des décisions de justice de dernière minute modifiant les règles convenues. Les derniers sondages donnent Lula en tête au premier tour (AtlasIntel : 46,2 % contre 43,1 % des votes valides), avec un second tour à égalité.",
+      "en": "TV Globo scrapped the final debate before the October 4 vote after President Lula and Senator Flávio Bolsonaro both pulled out, according to US News and Al Jazeera. The network cites last-minute court rulings that changed the agreed rules. The latest polls put Lula ahead in the first round (AtlasIntel: 46.2% vs 43.1% of valid votes), with a runoff tied.",
+      "es": "TV Globo canceló el último debate antes de la votación del 4 de octubre después de que el presidente Lula y el senador Flávio Bolsonaro desistieran de participar, según US News y Al Jazeera. La cadena cita fallos judiciales de última hora que cambiaron las reglas acordadas. Los últimos sondeos sitúan a Lula por delante en la primera vuelta (AtlasIntel: 46,2 % frente a 43,1 % de los votos válidos), con una segunda vuelta empatada."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Débat annulé ; scrutin prévu le 4 octobre.",
+          "en": "Debate cancelled; vote scheduled for October 4.",
+          "es": "Debate cancelado; votación prevista el 4 de octubre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "asiad-inde-hockey-or",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏑",
+    "source": "Olympics.com",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Aichi-Nagoya, Japon",
+      "en": "Aichi-Nagoya, Japan",
+      "es": "Aichi-Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : l'Inde championne en hockey féminin après 44 ans, et en tir à l'arc",
+      "en": "Asian Games: India win women's hockey gold after 44 years, plus archery gold",
+      "es": "Juegos Asiáticos: India gana el oro en hockey femenino tras 44 años, y en tiro con arco"
+    },
+    "summary": {
+      "fr": "Le 2 octobre aux Jeux asiatiques d'Aichi-Nagoya, l'Inde a battu la Chine 1-0 en finale de hockey féminin, décrochant son premier titre en 44 ans et un quota pour Los Angeles 2028, selon Olympics.com. L'équipe féminine de tir à l'arc (arc classique) a battu la Corée du Sud 5-3 pour un premier or historique, et Sujeet Kalkal a remporté la lutte libre 65 kg.",
+      "en": "On October 2 at the Aichi-Nagoya Asian Games, India beat China 1-0 in the women's hockey final, winning their first title in 44 years and a quota for Los Angeles 2028, according to Olympics.com. The women's recurve archery team beat South Korea 5-3 for a historic first gold, and Sujeet Kalkal won the men's freestyle 65kg wrestling title.",
+      "es": "El 2 de octubre en los Juegos Asiáticos de Aichi-Nagoya, India venció 1-0 a China en la final de hockey femenino, logrando su primer título en 44 años y una plaza para Los Ángeles 2028, según Olympics.com. El equipo femenino de tiro con arco (recurvo) derrotó 5-3 a Corea del Sur en un primer oro histórico, y Sujeet Kalkal ganó la lucha libre 65 kg."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Trois titres indiens en une journée.",
+          "en": "Three Indian titles in one day.",
+          "es": "Tres títulos indios en un día."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "ukraine-kramatorsk-bus",
+    "coords": [
+      37.5563,
+      48.7194
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🪖",
+    "source": "Kyiv Independent / RFE/RL / Al Jazeera",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Kramatorsk, oblast de Donetsk, Ukraine",
+      "en": "Kramatorsk, Donetsk Oblast, Ukraine",
+      "es": "Kramatorsk, óblast de Donetsk, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : un bus de ligne touché par un drone FPV à Kramatorsk",
+      "en": "Ukraine: passenger bus hit by FPV drone in Kramatorsk",
+      "es": "Ucrania: un autobús de línea alcanzado por un dron FPV en Kramatorsk"
+    },
+    "summary": {
+      "fr": "Le 2 octobre vers 7 h 08, un drone FPV russe a frappé un bus de ligne à Kramatorsk, faisant deux blessés, selon le Kyiv Independent et d'autres médias. Selon le même média, les attaques russes de la veille ont fait au total 2 morts et 27 blessés en Ukraine. Les chiffres des pertes militaires russes avancés ces derniers jours proviennent de l'état-major ukrainien et n'ont pas été vérifiés de manière indépendante.",
+      "en": "On October 2 at about 7:08 a.m., a Russian FPV drone hit a passenger bus in Kramatorsk, injuring two people, according to the Kyiv Independent and other outlets. The same outlet reports Russian attacks over the past day killed 2 and injured 27 across Ukraine. Russian military casualty figures cited in recent days come from the Ukrainian military and have not been independently verified.",
+      "es": "El 2 de octubre hacia las 7:08, un dron FPV ruso alcanzó un autobús de línea en Kramatorsk y dejó dos heridos, según el Kyiv Independent y otros medios. El mismo medio informa de que los ataques rusos del último día causaron 2 muertos y 27 heridos en Ucrania. Las cifras de bajas militares rusas citadas estos días proceden del ejército ucraniano y no han sido verificadas de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Frappe de drone sur un bus ; deux blessés.",
+          "en": "Drone strike on a bus; two injured.",
+          "es": "Ataque con dron a un autobús; dos heridos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "iran-guerre-deploiement-us",
+    "coords": [
+      56.25,
+      26.57
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚓",
+    "source": "Al Jazeera / Jerusalem Post",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Moyen-Orient / golfe Persique",
+      "en": "Middle East / Persian Gulf",
+      "es": "Oriente Medio / golfo Pérsico"
+    },
+    "title": {
+      "fr": "Guerre avec l'Iran : les États-Unis envoient environ 9 000 soldats supplémentaires au Moyen-Orient",
+      "en": "Iran war: US sends about 9,000 more troops to the Middle East",
+      "es": "Guerra con Irán: EE. UU. envía unos 9.000 soldados más a Oriente Medio"
+    },
+    "summary": {
+      "fr": "Selon Al Jazeera et le Jerusalem Post, les États-Unis ont commencé le 1er octobre à envoyer environ 9 000 militaires, dont un groupe aéronaval autour de l'USS Theodore Roosevelt. Le président Trump aurait jugé « inacceptable » une proposition iranienne sur le détroit d'Ormuz et estimé que de nouvelles frappes après les élections de mi-mandat du 3 novembre étaient « possibles ». Ces éléments sont rapportés d'après des déclarations officielles et des sources médiatiques ; Téhéran n'a pas été entendu dans les extraits consultés.",
+      "en": "According to Al Jazeera and the Jerusalem Post, the US began sending about 9,000 troops on October 1, including a carrier strike group around USS Theodore Roosevelt. President Trump reportedly called an Iranian proposal on the Strait of Hormuz 'unacceptable' and said renewed strikes after the November 3 midterms were 'possible'. These details are reported from official statements and media sources; Tehran's side was not captured in the excerpts reviewed.",
+      "es": "Según Al Jazeera y el Jerusalem Post, EE. UU. comenzó el 1 de octubre a enviar unos 9.000 militares, incluido un grupo de portaaviones en torno al USS Theodore Roosevelt. El presidente Trump habría calificado de «inaceptable» una propuesta iraní sobre el estrecho de Ormuz y dijo que nuevos ataques tras las elecciones de mitad de mandato del 3 de noviembre eran «posibles». Estos datos se basan en declaraciones oficiales y fuentes mediáticas; la versión de Teherán no figura en los extractos consultados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Début du déploiement américain.",
+          "en": "US deployment begins.",
+          "es": "Comienza el despliegue estadounidense."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "afrique-sud-manifestations-migrants",
+    "coords": [
+      31.0218,
+      -29.8587
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "📣",
+    "source": "AP (via US News) / GIS Reports",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Durban, Afrique du Sud",
+      "en": "Durban, South Africa",
+      "es": "Durban, Sudáfrica"
+    },
+    "title": {
+      "fr": "Afrique du Sud : manifestation à Durban contre l'immigration irrégulière",
+      "en": "South Africa: Durban protest against illegal immigration",
+      "es": "Sudáfrica: protesta en Durban contra la inmigración irregular"
+    },
+    "summary": {
+      "fr": "Plusieurs centaines de personnes ont manifesté à Durban le 30 septembre, à l'appel du groupe March by March, qui avait fixé à cette date un ultimatum aux personnes en situation irrégulière, non reconnu par le gouvernement, selon l'AP. Le mouvement réclame davantage d'expulsions. Les tensions ont déjà pesé sur les relations avec d'autres pays africains : le Parlement nigérian a suspendu les visites officielles en Afrique du Sud.",
+      "en": "Hundreds of people demonstrated in Durban on September 30, called by the March by March group, which had set that date as a deadline for people living in the country illegally, a deadline not recognised by the government, according to AP. The movement calls for more deportations. Tensions have already strained ties with other African countries: Nigeria's parliament suspended official visits to South Africa.",
+      "es": "Cientos de personas se manifestaron en Durban el 30 de septiembre, convocadas por el grupo March by March, que había fijado esa fecha como plazo para quienes viven en el país de forma irregular, plazo no reconocido por el gobierno, según AP. El movimiento pide más deportaciones. Las tensiones ya han afectado a las relaciones con otros países africanos: el Parlamento de Nigeria suspendió las visitas oficiales a Sudáfrica."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Manifestation à Durban.",
+          "en": "Demonstration in Durban.",
+          "es": "Manifestación en Durban."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "lettonie-legislatives",
+    "coords": [
+      24.1052,
+      56.9496
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Kyiv Independent / SBS News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Riga, Lettonie",
+      "en": "Riga, Latvia",
+      "es": "Riga, Letonia"
+    },
+    "title": {
+      "fr": "Lettonie : élections législatives le 3 octobre",
+      "en": "Latvia: parliamentary election on October 3",
+      "es": "Letonia: elecciones legislativas el 3 de octubre"
+    },
+    "summary": {
+      "fr": "Les Lettons élisent le 3 octobre les 100 députés de la Saeima pour quatre ans, dans un scrutin dominé par les préoccupations de sécurité face à la Russie et le coût de la vie, selon le Kyiv Independent. Le gouvernement était tombé en mai. Les résultats préliminaires sont attendus le lendemain ; ils n'étaient pas disponibles au moment de la rédaction.",
+      "en": "Latvians are electing the 100 members of the Saeima for four years on October 3, in a vote dominated by security concerns over Russia and the cost of living, according to the Kyiv Independent. The government fell in May. Preliminary results are expected the next day; they were not available at the time of writing.",
+      "es": "Los letones eligen el 3 de octubre a los 100 diputados de la Saeima por cuatro años, en unos comicios dominados por la seguridad frente a Rusia y el coste de la vida, según el Kyiv Independent. El gobierno cayó en mayo. Los resultados preliminares se esperan al día siguiente; no estaban disponibles al redactar esto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Ouverture du scrutin.",
+          "en": "Polls open.",
+          "es": "Apertura de las urnas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "coree-fuite-donnees-banques",
+    "coords": [
+      126.978,
+      37.5665
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏦",
+    "source": "SBS News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Séoul, Corée du Sud",
+      "en": "Seoul, South Korea",
+      "es": "Seúl, Corea del Sur"
+    },
+    "title": {
+      "fr": "Corée du Sud : fuite de données personnelles dans trois banques",
+      "en": "South Korea: personal data leaked from three banks",
+      "es": "Corea del Sur: filtración de datos personales en tres bancos"
+    },
+    "summary": {
+      "fr": "SBS rapporte que des données personnelles de clients de KB Kookmin Bank, Hana Bank et BNK Busan Bank ont fuité, et que les circonstances laissent penser à l'usage de l'intelligence artificielle. Source unique, ampleur de la fuite et origine non confirmées.",
+      "en": "SBS reports that personal data of customers of KB Kookmin Bank, Hana Bank and BNK Busan Bank has leaked, and that circumstances suggest the use of artificial intelligence. Single source; the scale and origin of the leak are unconfirmed.",
+      "es": "SBS informa de que datos personales de clientes de KB Kookmin Bank, Hana Bank y BNK Busan Bank se han filtrado y de que las circunstancias apuntan al uso de inteligencia artificial. Fuente única; el alcance y el origen de la filtración no están confirmados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Fuite signalée par SBS.",
+          "en": "Leak reported by SBS.",
+          "es": "Filtración informada por SBS."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "france-blocus-lycees",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏫",
+    "source": "Euronews / France 24",
+    "week": "2026-W40",
+    "place": {
+      "fr": "France",
+      "en": "France",
+      "es": "Francia"
+    },
+    "title": {
+      "fr": "France : environ 400 lycées fermés par des blocages et manifestations lycéennes",
+      "en": "France: about 400 high schools closed amid student blockades and protests",
+      "es": "Francia: unos 400 institutos cerrados por bloqueos y protestas estudiantiles"
+    },
+    "summary": {
+      "fr": "D'après les informations consultées, le ministre de l'Éducation Édouard Geffray a annoncé la fermeture d'environ 400 lycées le 2 octobre en raison de blocages et de manifestations nationales contre le manque de moyens et les classes surchargées ; des affrontements avec la police sont signalés. Chiffres non vérifiés auprès de sources officielles complémentaires.",
+      "en": "According to the reports reviewed, Education Minister Édouard Geffray announced about 400 high schools would close on October 2 due to nationwide blockades and protests over under-resourced schools and overcrowded classrooms; clashes with police are reported. Figures not verified against additional official sources.",
+      "es": "Según las informaciones consultadas, el ministro de Educación Édouard Geffray anunció el cierre de unos 400 institutos el 2 de octubre por bloqueos y protestas en todo el país contra la falta de recursos y las aulas masificadas; se informa de enfrentamientos con la policía. Cifras no verificadas con otras fuentes oficiales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Fermetures annoncées par le ministre.",
+          "en": "Closures announced by the minister.",
+          "es": "Cierres anunciados por el ministro."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "doubs-secheresse-brenets",
+    "coords": [
+      6.7106,
+      47.0719
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🏜️",
+    "source": "SBS News",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Les Brenets, Suisse (frontière française)",
+      "en": "Les Brenets, Switzerland (French border)",
+      "es": "Les Brenets, Suiza (frontera francesa)"
+    },
+    "title": {
+      "fr": "Sécheresse : le lac des Brenets et le Doubs à sec depuis près de quatre mois",
+      "en": "Drought: Lac des Brenets and the Doubs dry for nearly four months",
+      "es": "Sequía: el lago de Les Brenets y el Doubs, secos desde hace casi cuatro meses"
+    },
+    "summary": {
+      "fr": "Le Doubs et le lit du lac des Brenets, à la frontière franco-suisse, seraient restés presque quatre mois sans eau faute de précipitations, selon SBS. Source unique ; durée et étendue non vérifiées.",
+      "en": "The Doubs river and the Lac des Brenets lakebed on the French-Swiss border have reportedly been without water for nearly four months due to lack of rainfall, according to SBS. Single source; duration and extent not verified.",
+      "es": "El río Doubs y el lecho del lago de Les Brenets, en la frontera franco-suiza, habrían pasado casi cuatro meses sin agua por falta de lluvias, según SBS. Fuente única; duración y alcance no verificados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Situation signalée début octobre.",
+          "en": "Situation reported in early October.",
+          "es": "Situación informada a principios de octubre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
