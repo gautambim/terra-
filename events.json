@@ -829,5 +829,488 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "espagne-logement-manifestations",
+    "coords": [
+      -3.7038,
+      40.4168
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏠",
+    "source": "Al Jazeera / U.S. News / Euronews",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Madrid et une cinquantaine de villes, Espagne",
+      "en": "Madrid and about 50 other cities, Spain",
+      "es": "Madrid y unas cincuenta ciudades, España"
+    },
+    "title": {
+      "fr": "Espagne : manifestations contre la crise du logement après le rejet de deux décrets",
+      "en": "Spain: housing-crisis protests after parliament rejects two decrees",
+      "es": "España: protestas por la crisis de la vivienda tras el rechazo de dos decretos"
+    },
+    "summary": {
+      "fr": "Le 3 octobre, des manifestations ont eu lieu à Madrid et dans de nombreuses villes espagnoles contre la hausse des loyers, après que le Parlement a rejeté vendredi deux décrets du gouvernement minoritaire de Pedro Sánchez. Les chiffres divergent : « des dizaines de milliers » selon plusieurs médias, plus de 150 000 à Madrid selon le syndicat des locataires.",
+      "en": "On October 3, protests took place in Madrid and many other Spanish cities against soaring rents, a day after parliament voted down two decrees from Pedro Sánchez's minority government. Figures differ: 'tens of thousands' according to several outlets, more than 150,000 in Madrid according to the tenants' union.",
+      "es": "El 3 de octubre hubo manifestaciones en Madrid y muchas otras ciudades españolas contra el alza de los alquileres, un día después de que el Parlamento rechazara dos decretos del Gobierno en minoría de Pedro Sánchez. Las cifras difieren: «decenas de miles» según varios medios, más de 150.000 en Madrid según el sindicato de inquilinos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Le Parlement espagnol rejette deux décrets sur le logement.",
+          "en": "The Spanish parliament votes down two housing decrees.",
+          "es": "El Parlamento español rechaza dos decretos sobre vivienda."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Manifestations à Madrid et dans une cinquantaine de villes ; appels à une grève générale.",
+          "en": "Protests in Madrid and about 50 cities; calls for a general strike.",
+          "es": "Protestas en Madrid y unas cincuenta ciudades; llamamientos a una huelga general."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "espagne-inondations-madrigueras",
+    "coords": [
+      -1.8,
+      39.2
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Arab News / Euro Weekly News / The Watchers",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Madrigueras (Albacete), Castilla-La Mancha, Espagne",
+      "en": "Madrigueras (Albacete), Castilla-La Mancha, Spain",
+      "es": "Madrigueras (Albacete), Castilla-La Mancha, España"
+    },
+    "title": {
+      "fr": "Inondations en Espagne : une femme de 102 ans meurt à Madrigueras",
+      "en": "Spain floods: 102-year-old woman dies in Madrigueras",
+      "es": "Inundaciones en España: muere una mujer de 102 años en Madrigueras"
+    },
+    "summary": {
+      "fr": "Des pluies torrentielles (plus de 140 mm en moins de deux heures et demie selon la presse) ont provoqué des crues à Madrigueras. Une femme de 102 ans a été retrouvée morte chez elle et environ 90 personnes ont été secourues, selon les médias.",
+      "en": "Torrential rain (over 140 mm in under two and a half hours, per press reports) caused flash floods in Madrigueras. A 102-year-old woman was found dead in her home and around 90 people were rescued, according to media reports.",
+      "es": "Lluvias torrenciales (más de 140 mm en menos de dos horas y media según la prensa) provocaron inundaciones en Madrigueras. Una mujer de 102 años fue hallada muerta en su casa y unas 90 personas fueron rescatadas, según los medios."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02-03/10/2026",
+          "en": "02-03/10/2026",
+          "es": "02-03/10/2026"
+        },
+        "d": {
+          "fr": "Crues soudaines à Madrigueras ; une victime et une centaine de sauvetages environ.",
+          "en": "Flash floods in Madrigueras; one death and roughly 90 rescues.",
+          "es": "Inundaciones repentinas en Madrigueras; una víctima y unos 90 rescates."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "bresil-presidentielle-2026",
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Al Jazeera / Reuters",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Brasilia, Brésil (scrutin national)",
+      "en": "Brasília, Brazil (nationwide vote)",
+      "es": "Brasilia, Brasil (votación nacional)"
+    },
+    "title": {
+      "fr": "Brésil : premier tour de la présidentielle ce 4 octobre",
+      "en": "Brazil: first round of presidential election on October 4",
+      "es": "Brasil: primera vuelta de las presidenciales el 4 de octubre"
+    },
+    "summary": {
+      "fr": "Les Brésiliens votent le 4 octobre pour la présidence, le Congrès et les gouverneurs. Selon les sondages cités par la presse, Lula et Flávio Bolsonaro seraient à égalité virtuelle lors d'un second tour hypothétique ; l'insécurité figure parmi les principales préoccupations. Un second tour est prévu le 25 octobre si aucun candidat n'obtient la majorité absolue.",
+      "en": "Brazilians vote on October 4 for president, Congress and governors. Polls cited by the press show Lula and Flávio Bolsonaro in a virtual tie in a simulated runoff; crime is among voters' top concerns. A runoff is set for October 25 if no candidate wins an outright majority.",
+      "es": "Los brasileños votan el 4 de octubre por presidente, Congreso y gobernadores. Según encuestas citadas por la prensa, Lula y Flávio Bolsonaro están en empate virtual en una hipotética segunda vuelta; la inseguridad es una de las principales preocupaciones. Habrá segunda vuelta el 25 de octubre si nadie logra la mayoría absoluta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Ouverture du scrutin de 8h à 17h (heure de Brasilia).",
+          "en": "Voting runs 8am–5pm Brasília time.",
+          "es": "La votación se desarrolla de 8:00 a 17:00 (hora de Brasilia)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "aie-reserves-petrole",
+    "coords": [
+      2.2945,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Euronews / RTÉ / Outlook India",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Paris, France (siège de l'AIE) — enjeu mondial",
+      "en": "Paris, France (IEA headquarters) — global issue",
+      "es": "París, Francia (sede de la AIE) — alcance mundial"
+    },
+    "title": {
+      "fr": "Pétrole : l'AIE a libéré 325 millions de barils de réserves ; le G7 annonce 100 millions de plus",
+      "en": "Oil: IEA says 325 million barrels of reserves released; G7 agrees 100 million more",
+      "es": "Petróleo: la AIE libera 325 millones de barriles; el G7 acuerda 100 millones más"
+    },
+    "summary": {
+      "fr": "L'AIE indique qu'environ 325 millions de barils, soit plus de 80 % de l'engagement de mars (400 millions), ont été libérés. Les flux par le détroit d'Ormuz, restreints par l'Iran, n'ont atteint que 7,6 Mb/j en août selon l'AIE. Le G7 a convenu vendredi de libérer 100 millions de barils de diesel et de brut.",
+      "en": "The IEA says about 325 million barrels, over 80% of the March commitment of 400 million, have been released. Flows through the Strait of Hormuz, restricted by Iran, averaged only 7.6 million b/d in August per the IEA. The G7 agreed on Friday to release 100 million barrels of diesel and crude.",
+      "es": "La AIE indica que se han liberado unos 325 millones de barriles, más del 80 % del compromiso de marzo (400 millones). Los flujos por el estrecho de Ormuz, restringidos por Irán, promediaron solo 7,6 Mb/d en agosto según la AIE. El G7 acordó el viernes liberar 100 millones de barriles de diésel y crudo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "L'AIE fait le point : 75 millions de barils restent à libérer.",
+          "en": "IEA update: 75 million barrels still to be released.",
+          "es": "La AIE informa: faltan 75 millones de barriles por liberar."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "usa-camp-david-iran"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "ukraine-raffineries-zelensky",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛢️",
+    "source": "Reuters (via CNBC, U.S. News)",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Kyiv, Ukraine (déclarations) / Russie (cibles)",
+      "en": "Kyiv, Ukraine (statements) / Russia (targets)",
+      "es": "Kiev, Ucrania (declaraciones) / Rusia (objetivos)"
+    },
+    "title": {
+      "fr": "Zelensky : l'Ukraine intensifiera ses frappes sur les raffineries russes",
+      "en": "Zelenskyy: Ukraine will step up strikes on Russian refineries",
+      "es": "Zelenski: Ucrania intensificará sus ataques a refinerías rusas"
+    },
+    "summary": {
+      "fr": "Dans un entretien à Reuters, le président Zelensky affirme que l'Ukraine intensifiera ses frappes sur les raffineries russes en réponse à une « nouvelle doctrine » de frappes aériennes russes visant davantage de cibles civiles avant l'hiver, selon des documents que Kyiv dit détenir. Il assure que l'Ukraine ne visera pas les civils. Ces affirmations n'ont pas été vérifiées de façon indépendante ; Moscou n'est pas cité dans les sources consultées.",
+      "en": "In a Reuters interview, President Zelenskyy says Ukraine will step up strikes on Russian refineries in response to a 'new doctrine' of Russian airstrikes on a wider range of civilian targets ahead of winter, based on documents Kyiv says it holds. He says Ukraine will not target civilians. These claims are not independently verified; Moscow's position is not given in the sources consulted.",
+      "es": "En una entrevista con Reuters, el presidente Zelenski afirma que Ucrania intensificará sus ataques a refinerías rusas en respuesta a una «nueva doctrina» de ataques aéreos rusos contra más objetivos civiles antes del invierno, según documentos que Kiev dice tener. Asegura que no atacará a civiles. Estas afirmaciones no se han verificado de forma independiente; la postura de Moscú no figura en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Entretien de Zelensky avec Reuters ; Kyiv annonce aussi le premier usage au combat de son missile balistique FP-7.",
+          "en": "Zelenskyy's Reuters interview; Kyiv also announces first combat use of its FP-7 ballistic missile.",
+          "es": "Entrevista de Zelenski con Reuters; Kiev anuncia también el primer uso en combate de su misil balístico FP-7."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "flydubai-fz1073",
+    "coords": [
+      36.5189,
+      28.3654
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "The National / Arabian Business / Gulf Business",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Aéroport de Tabuk, Arabie saoudite (déroutement du vol Dubaï–Tel Aviv)",
+      "en": "Tabuk Airport, Saudi Arabia (diversion of Dubai–Tel Aviv flight)",
+      "es": "Aeropuerto de Tabuk, Arabia Saudí (desvío del vuelo Dubái–Tel Aviv)"
+    },
+    "title": {
+      "fr": "Vol flydubai FZ1073 : le procureur émirati évoque une tentative d'« acte terroriste » du copilote",
+      "en": "flydubai FZ1073: UAE attorney general describes co-pilot's attempted 'terrorist act'",
+      "es": "Vuelo flydubai FZ1073: la fiscalía emiratí habla de un intento de «acto terrorista» del copiloto"
+    },
+    "summary": {
+      "fr": "Selon le procureur général des Émirats, le copilote du vol FZ1073 a agressé le commandant avec une hache de secours et tenté de prendre les commandes le 30 septembre. L'appareil s'est posé sans encombre à Tabuk ; le copilote a été arrêté par les autorités saoudiennes puis remis aux Émirats. Le mobile reste à établir et l'enquête se poursuit.",
+      "en": "According to the UAE attorney general, the co-pilot of flight FZ1073 attacked the captain with a crash axe and tried to take control of the aircraft on September 30. The plane landed safely at Tabuk; the co-pilot was arrested by Saudi authorities and handed to the UAE. The motive is yet to be established and the investigation continues.",
+      "es": "Según el fiscal general de los Emiratos, el copiloto del vuelo FZ1073 agredió al comandante con un hacha de emergencia e intentó tomar los mandos el 30 de septiembre. El avión aterrizó sin novedad en Tabuk; el copiloto fue detenido por Arabia Saudí y entregado a los Emiratos. El móvil aún no está establecido y la investigación continúa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Incident en vol ; déroutement vers Tabuk.",
+          "en": "In-flight incident; diversion to Tabuk.",
+          "es": "Incidente en vuelo; desvío a Tabuk."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Le parquet émirati annonce les premières conclusions de l'enquête.",
+          "en": "UAE prosecutors announce initial investigation findings.",
+          "es": "La fiscalía emiratí anuncia las primeras conclusiones de la investigación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "houthis-aramco-riyad",
+    "coords": [
+      46.6753,
+      24.7136
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "U.S. News / Al Jazeera / Pajhwok",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Riyad, Arabie saoudite (près d'un site Aramco)",
+      "en": "Riyadh, Saudi Arabia (near an Aramco facility)",
+      "es": "Riad, Arabia Saudí (cerca de una instalación de Aramco)"
+    },
+    "title": {
+      "fr": "Riyad : fumée près d'un site Aramco, les Houthis revendiquent une attaque",
+      "en": "Riyadh: smoke near Aramco site as Houthis claim attack",
+      "es": "Riad: humo cerca de un sitio de Aramco; los hutíes reivindican un ataque"
+    },
+    "summary": {
+      "fr": "Un témoin a vu un panache de fumée et des flammes près d'un site Aramco à Riyad le 3 octobre. Les Houthis affirment l'avoir visé avec des missiles et drones en représailles à des frappes saoudiennes sur Sanaa. Les autorités saoudiennes n'ont pas confirmé la cause, et certains médias rapportent qu'elles qualifient la revendication de « propagande ».",
+      "en": "A witness saw a plume of smoke and flames near an Aramco facility in Riyadh on October 3. The Houthis say they targeted it with missiles and drones in retaliation for Saudi strikes on Sanaa. Saudi authorities have not confirmed the cause, and some outlets report they call the claim 'propaganda'.",
+      "es": "Un testigo vio una columna de humo y llamas cerca de una instalación de Aramco en Riad el 3 de octubre. Los hutíes afirman haberla atacado con misiles y drones en represalia por ataques saudíes sobre Saná. Las autoridades saudíes no han confirmado la causa y algunos medios informan de que tachan la reivindicación de «propaganda»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Fumée et incendie signalés ; revendication houthie, sans confirmation officielle saoudienne.",
+          "en": "Smoke and fire reported; Houthi claim, no official Saudi confirmation.",
+          "es": "Se informa de humo e incendio; reivindicación hutí, sin confirmación oficial saudí."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "usa-camp-david-iran"
+    ],
+    "priority": 3
+  },
+  {
+    "id": "usa-camp-david-iran",
+    "coords": [
+      -77.4653,
+      39.6482
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏛️",
+    "source": "Axios / CBS News / Times of Israel",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Camp David, Maryland, États-Unis",
+      "en": "Camp David, Maryland, United States",
+      "es": "Camp David, Maryland, Estados Unidos"
+    },
+    "title": {
+      "fr": "Réunion discrète à Camp David sur la guerre avec l'Iran et le Yémen",
+      "en": "Unannounced Camp David meeting on the Iran war and Yemen",
+      "es": "Reunión discreta en Camp David sobre la guerra con Irán y Yemen"
+    },
+    "summary": {
+      "fr": "Selon Axios et CBS News, de hauts responsables de l'administration Trump (dont JD Vance, Marco Rubio, Pete Hegseth, Steve Witkoff, John Ratcliffe et Dan Caine) se sont réunis vendredi sans annonce officielle. Le Pentagone préparerait l'envoi d'un troisième groupe aéronaval et de navires de l'US Marine Corps au Moyen-Orient (jusqu'à 10 000 militaires d'ici fin novembre, selon la presse). Les pourparlers américano-iraniens sont au point mort.",
+      "en": "According to Axios and CBS News, senior Trump administration officials (including JD Vance, Marco Rubio, Pete Hegseth, Steve Witkoff, John Ratcliffe and Dan Caine) met on Friday without an official announcement. The Pentagon is reportedly preparing to send a third carrier strike group and Marine Corps ships to the Middle East (up to 10,000 troops by end of November, per press reports). US-Iran talks have stalled.",
+      "es": "Según Axios y CBS News, altos cargos de la administración Trump (entre ellos JD Vance, Marco Rubio, Pete Hegseth, Steve Witkoff, John Ratcliffe y Dan Caine) se reunieron el viernes sin anuncio oficial. El Pentágono prepararía el envío de un tercer grupo de portaaviones y buques de los Marines a Oriente Medio (hasta 10.000 militares a finales de noviembre, según la prensa). Las conversaciones EE. UU.–Irán están estancadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Réunion à Camp David, non annoncée par la Maison-Blanche.",
+          "en": "Meeting at Camp David, not announced by the White House.",
+          "es": "Reunión en Camp David, no anunciada por la Casa Blanca."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "aie-reserves-petrole",
+      "houthis-aramco-riyad"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "usa-rendements-obligataires",
+    "coords": [
+      -74.0089,
+      40.7075
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "CNBC / Yahoo Finance / Trading Economics",
+    "week": "2026-W40",
+    "place": {
+      "fr": "New York, États-Unis (marchés obligataires)",
+      "en": "New York, United States (bond markets)",
+      "es": "Nueva York, Estados Unidos (mercados de bonos)"
+    },
+    "title": {
+      "fr": "États-Unis : les rendements du Trésor à leurs plus hauts depuis plus de 20 ans",
+      "en": "US Treasury yields at highest levels in over 20 years",
+      "es": "EE. UU.: los rendimientos del Tesoro, en máximos de más de 20 años"
+    },
+    "summary": {
+      "fr": "Les rendements des bons du Trésor américain ont atteint des niveaux inédits depuis près de vingt ans, sur fond d'inflation persistante, de prix du pétrole élevés et de dette publique croissante. Le 10 ans s'établissait autour de 5,2–5,3 % début octobre selon les sources. Les actions ont légèrement progressé le 1er octobre après être revenues de pertes initiales.",
+      "en": "US Treasury yields have reached levels not seen in nearly twenty years amid persistent inflation, high oil prices and growing public debt. The 10-year yield stood around 5.2–5.3% in early October depending on the source. Stocks posted modest gains on October 1 after recovering from earlier losses.",
+      "es": "Los rendimientos de los bonos del Tesoro de EE. UU. han alcanzado niveles no vistos en casi veinte años, por la inflación persistente, el petróleo caro y la creciente deuda pública. El bono a 10 años rondaba el 5,2–5,3 % a principios de octubre según la fuente. Las acciones subieron levemente el 1 de octubre tras recuperarse de caídas iniciales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Le rendement à 10 ans monte à environ 5,28 % (Trading Economics).",
+          "en": "10-year yield rises to about 5.28% (Trading Economics).",
+          "es": "El rendimiento a 10 años sube a cerca del 5,28 % (Trading Economics)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nations-league-croatie-angleterre",
+    "coords": [
+      14.4422,
+      45.3271
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "Sky Sports / England Football / ESPN",
+    "week": "2026-W40",
+    "place": {
+      "fr": "Stade HNK Rijeka, Rijeka, Croatie",
+      "en": "HNK Rijeka Stadium, Rijeka, Croatia",
+      "es": "Estadio HNK Rijeka, Rijeka, Croacia"
+    },
+    "title": {
+      "fr": "Ligue des nations : l'Angleterre écrase la Croatie 7-0",
+      "en": "Nations League: England thrash Croatia 7-0",
+      "es": "Liga de Naciones: Inglaterra arrolla a Croacia 7-0"
+    },
+    "summary": {
+      "fr": "L'Angleterre s'est imposée 7-0 en Croatie le 3 octobre en Ligue des nations de l'UEFA : Harry Kane et Bukayo Saka ont marqué chacun deux fois, Bellingham, Gordon et Morgan Rogers une fois. C'est la plus lourde défaite de l'histoire de la Croatie, selon la presse.",
+      "en": "England won 7-0 in Croatia on October 3 in the UEFA Nations League: Harry Kane and Bukayo Saka scored twice each, with Bellingham, Gordon and Morgan Rogers adding one apiece. It is Croatia's heaviest defeat ever, according to press reports.",
+      "es": "Inglaterra ganó 7-0 en Croacia el 3 de octubre en la Liga de Naciones de la UEFA: Harry Kane y Bukayo Saka marcaron dos goles cada uno, y Bellingham, Gordon y Morgan Rogers uno. Es la derrota más abultada de la historia de Croacia, según la prensa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Coup de sifflet final : Croatie 0 – Angleterre 7.",
+          "en": "Full time: Croatia 0 – England 7.",
+          "es": "Final: Croacia 0 – Inglaterra 7."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
   }
 ]
