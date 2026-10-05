@@ -734,6 +734,19 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Selon Al Jazeera et le Washington Times, les États-Unis envoient un troisième porte-avions (USS Theodore Roosevelt) au Moyen-Orient ; le président Trump envisagerait de reprendre les frappes après les élections de mi-mandat si aucun accord n'est trouvé, selon des médias.",
+          "en": "According to Al Jazeera and the Washington Times, the United States is sending a third aircraft carrier (USS Theodore Roosevelt) to the Middle East; President Trump is reportedly considering renewed strikes after the midterms if no deal is reached, according to media reports.",
+          "es": "Según Al Jazeera y el Washington Times, Estados Unidos envía un tercer portaaviones (USS Theodore Roosevelt) a Oriente Medio; el presidente Trump estaría considerando reanudar los ataques tras las elecciones de mitad de mandato si no hay acuerdo, según medios."
+        },
         "active": true
       }
     ],
@@ -829,5 +842,449 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "bresil-presidentielle-1er-tour",
+    "coords": [
+      -47.9292,
+      -15.7801
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳",
+    "source": "Newsweek / Ynet / Latin Times",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Brésil",
+      "en": "Brazil",
+      "es": "Brasil"
+    },
+    "title": {
+      "fr": "Présidentielle au Brésil : Flávio Bolsonaro devant Lula au premier tour, second tour le 25 octobre",
+      "en": "Brazil election: Flávio Bolsonaro finishes ahead of Lula in first round, runoff on October 25",
+      "es": "Elecciones en Brasil: Flávio Bolsonaro supera a Lula en la primera vuelta, segunda vuelta el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Selon Newsweek, Ynet et Latin Times, le sénateur Flávio Bolsonaro (PL) est arrivé en tête du premier tour de la présidentielle brésilienne du 4 octobre devant le président sortant Lula (PT), sans atteindre la majorité absolue. Avec 97 % des bulletins dépouillés, il recueillait 47,45 % des suffrages valides contre 44,66 % pour Lula ; ces chiffres provisoires peuvent encore évoluer. Un second tour est prévu le 25 octobre.",
+      "en": "According to Newsweek, Ynet and Latin Times, Senator Flávio Bolsonaro (PL) finished first in Brazil's October 4 presidential first round ahead of incumbent Lula (PT), without reaching an outright majority. With 97% of ballots counted, he had 47.45% of valid votes against 44.66% for Lula; these provisional figures may still change. A runoff is scheduled for October 25.",
+      "es": "Según Newsweek, Ynet y Latin Times, el senador Flávio Bolsonaro (PL) quedó primero en la primera vuelta presidencial brasileña del 4 de octubre por delante del presidente Lula (PT), sin alcanzar la mayoría absoluta. Con el 97 % de las papeletas escrutadas, obtenía el 47,45 % de los votos válidos frente al 44,66 % de Lula; estas cifras provisionales aún pueden variar. La segunda vuelta está prevista para el 25 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : Flávio Bolsonaro en tête, Lula deuxième, second tour fixé au 25 octobre.",
+          "en": "First round: Flávio Bolsonaro ahead, Lula second, runoff set for October 25.",
+          "es": "Primera vuelta: Flávio Bolsonaro en cabeza, Lula segundo, segunda vuelta el 25 de octubre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "usa-emploi-septembre",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "CNBC / Fox Business / Yahoo Finance",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, United States",
+      "es": "Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "États-Unis : seulement 29 000 emplois créés en septembre, chômage à 4,2 %",
+      "en": "US: only 29,000 jobs added in September, unemployment up to 4.2%",
+      "es": "EE. UU.: solo 29.000 empleos creados en septiembre, desempleo al 4,2 %"
+    },
+    "summary": {
+      "fr": "Selon les chiffres publiés le 2 octobre et rapportés par CNBC, Fox Business et Yahoo Finance, l'économie américaine a créé 29 000 emplois non agricoles en septembre, bien en deçà des 84 000 attendus par les économistes. Le taux de chômage est passé à 4,2 % (7,1 millions de personnes). Les chiffres de juillet (-10 000) et d'août (133 000) ont été révisés à la baisse, pour 60 000 emplois de moins au total.",
+      "en": "According to figures released on October 2 and reported by CNBC, Fox Business and Yahoo Finance, the US economy added 29,000 nonfarm jobs in September, well below the 84,000 economists expected. The unemployment rate rose to 4.2% (7.1 million people). July (-10,000) and August (133,000) were revised down, removing 60,000 jobs in total.",
+      "es": "Según las cifras publicadas el 2 de octubre y recogidas por CNBC, Fox Business y Yahoo Finance, la economía estadounidense creó 29.000 empleos no agrícolas en septiembre, muy por debajo de los 84.000 esperados por los economistas. La tasa de desempleo subió al 4,2 % (7,1 millones de personas). Julio (-10.000) y agosto (133.000) se revisaron a la baja, con 60.000 empleos menos en total."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Publication du rapport mensuel sur l'emploi : +29 000 postes, chômage à 4,2 %.",
+          "en": "Monthly jobs report released: +29,000 jobs, unemployment at 4.2%.",
+          "es": "Publicación del informe mensual de empleo: +29.000 puestos, desempleo al 4,2 %."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "houthis-aramco-riyad",
+    "coords": [
+      46.6753,
+      24.7136
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Al Jazeera / NBC News",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Riyad, Arabie saoudite",
+      "en": "Riyadh, Saudi Arabia",
+      "es": "Riad, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Les Houthis revendiquent une attaque contre des sites Aramco près de Riyad ; la coalition dément",
+      "en": "Houthis claim attack on Aramco sites near Riyadh; coalition denies it",
+      "es": "Los hutíes reivindican un ataque contra instalaciones de Aramco cerca de Riad; la coalición lo niega"
+    },
+    "summary": {
+      "fr": "Le 3 octobre, les Houthis du Yémen ont revendiqué des tirs de missiles et de drones contre une installation Aramco près de Riyad, en représailles à des frappes saoudiennes. Un témoin cité par Reuters a observé un panache de fumée près d'une raffinerie au sud de la capitale. La coalition dirigée par l'Arabie saoudite juge la revendication « trompeuse » et n'a pas confirmé d'attaque ; la version des deux camps n'est pas vérifiée de manière indépendante.",
+      "en": "On October 3, Yemen's Houthis claimed missile and drone strikes on an Aramco facility near Riyadh, in retaliation for Saudi airstrikes. A witness cited by Reuters saw a plume of smoke near a refinery south of the capital. The Saudi-led coalition called the claim \"misleading\" and has not confirmed an attack; neither side's account has been independently verified.",
+      "es": "El 3 de octubre, los hutíes de Yemen reivindicaron ataques con misiles y drones contra una instalación de Aramco cerca de Riad, en represalia por ataques aéreos saudíes. Un testigo citado por Reuters vio una columna de humo cerca de una refinería al sur de la capital. La coalición liderada por Arabia Saudita calificó la reivindicación de «engañosa» y no ha confirmado ningún ataque; la versión de ambos bandos no ha sido verificada de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Revendication houthie ; fumée signalée près d'une raffinerie ; démenti de la coalition.",
+          "en": "Houthi claim; smoke reported near a refinery; coalition denial.",
+          "es": "Reivindicación hutí; humo cerca de una refinería; desmentido de la coalición."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "moldavie-missiles-russes",
+    "coords": [
+      28.9,
+      46.55
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Kyiv Independent / Euromaidan Press / Ukrainska Pravda",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Moldavie (sud-est)",
+      "en": "Moldova (south-east)",
+      "es": "Moldavia (sureste)"
+    },
+    "title": {
+      "fr": "Des missiles et drones russes explosent sur le territoire moldave lors d'une attaque contre l'Ukraine",
+      "en": "Russian missiles and drones explode on Moldovan territory during attack on Ukraine",
+      "es": "Misiles y drones rusos explotan en territorio moldavo durante un ataque contra Ucrania"
+    },
+    "summary": {
+      "fr": "Le 3 octobre, la présidente Maia Sandu a indiqué que cinq armes aériennes russes, dont des missiles et des drones, avaient violé l'espace aérien moldave et explosé sur le sol du pays pendant l'attaque nocturne contre l'Ukraine. Selon le ministre de la Défense, il s'agit de trois missiles et deux drones, dont les débris sont tombés dans quatre districts. Aucune victime ni dégât n'a été signalé ; Chisinau a convoqué l'ambassadeur de Russie.",
+      "en": "On October 3, President Maia Sandu said five Russian air-attack weapons, including missiles and drones, violated Moldovan airspace and exploded on its soil during the overnight attack on Ukraine. The defence minister said it involved three missiles and two drones, with debris falling in four districts. No casualties or damage were reported; Chisinau summoned Russia's ambassador.",
+      "es": "El 3 de octubre, la presidenta Maia Sandu indicó que cinco armas aéreas rusas, incluidos misiles y drones, violaron el espacio aéreo moldavo y explotaron en su suelo durante el ataque nocturno contra Ucrania. Según el ministro de Defensa, fueron tres misiles y dos drones, cuyos restos cayeron en cuatro distritos. No se informó de víctimas ni daños; Chisináu convocó al embajador ruso."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Explosions signalées entre 7 h 45 et 8 h ; l'ambassadeur de Russie est convoqué.",
+          "en": "Explosions reported between 7:45 and 8:00 a.m.; Russia's ambassador summoned.",
+          "es": "Explosiones entre las 7:45 y las 8:00; se convoca al embajador ruso."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "inde-pakistan-incident-frontalier",
+    "coords": [
+      74.6,
+      30.93
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / US News / Washington Post",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Frontière indo-pakistanaise, Pendjab (secteur de Ferozepur / Bedian)",
+      "en": "India–Pakistan border, Punjab (Ferozepur / Bedian sector)",
+      "es": "Frontera India-Pakistán, Punyab (sector de Ferozepur / Bedian)"
+    },
+    "title": {
+      "fr": "Deux morts à la frontière indo-pakistanaise : New Delhi et Islamabad convoquent leurs diplomates",
+      "en": "Two killed on India–Pakistan border: New Delhi and Islamabad summon each other's diplomats",
+      "es": "Dos muertos en la frontera India-Pakistán: Nueva Delhi e Islamabad convocan a sus diplomáticos"
+    },
+    "summary": {
+      "fr": "Le 2 octobre, deux personnes ont été tuées à la frontière dans le Pendjab. Selon le Pakistan, la Border Security Force indienne a utilisé une force létale « non provoquée » contre deux civils non armés ; une troisième personne aurait été blessée. Selon l'Inde, trois personnes avaient franchi illégalement la frontière dans le secteur de Ferozepur et continuaient vers la clôture malgré les avertissements, ce qui a conduit la BSF à ouvrir le feu. Les deux pays ont convoqué le chargé d'affaires de l'autre ; le Pakistan réclame une enquête transparente.",
+      "en": "On October 2, two people were killed at the border in Punjab. According to Pakistan, India's Border Security Force used \"unprovoked lethal force\" against two unarmed civilians; a third person was reportedly wounded. According to India, three people had crossed illegally into the Ferozepur sector and kept moving towards the fence despite warnings, prompting the BSF to open fire. Both countries summoned the other's chargé d'affaires; Pakistan is calling for a transparent investigation.",
+      "es": "El 2 de octubre murieron dos personas en la frontera en Punyab. Según Pakistán, la Fuerza de Seguridad Fronteriza india usó fuerza letal «no provocada» contra dos civiles desarmados; una tercera persona habría resultado herida. Según la India, tres personas cruzaron ilegalmente en el sector de Ferozepur y siguieron hacia la valla pese a las advertencias, lo que llevó a la BSF a abrir fuego. Ambos países convocaron al encargado de negocios del otro; Pakistán pide una investigación transparente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Incident à la frontière ; deux morts selon les autorités pakistanaises.",
+          "en": "Border incident; two dead according to Pakistani authorities.",
+          "es": "Incidente fronterizo; dos muertos según las autoridades paquistaníes."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Les deux pays convoquent mutuellement leurs diplomates ; versions divergentes.",
+          "en": "Both countries summon each other's diplomats; accounts differ.",
+          "es": "Ambos países se convocan mutuamente a sus diplomáticos; versiones divergentes."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "flydubai-copilote-agression",
+    "coords": [
+      37.5,
+      28.0
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈",
+    "source": "CBS News / NBC News / Time",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Vol Dubaï–Tel Aviv, dérouté vers l'Arabie saoudite (position approximative)",
+      "en": "Dubai–Tel Aviv flight, diverted to Saudi Arabia (approximate position)",
+      "es": "Vuelo Dubái–Tel Aviv, desviado a Arabia Saudita (posición aproximada)"
+    },
+    "title": {
+      "fr": "Vol flydubai : un pilote aurait poignardé le commandant et tenté de faire s'écraser l'appareil",
+      "en": "flydubai flight: a pilot allegedly stabbed the captain and tried to crash the plane",
+      "es": "Vuelo de flydubai: un piloto habría apuñalado al comandante e intentado estrellar el avión"
+    },
+    "summary": {
+      "fr": "Le 30 septembre, un vol flydubai Dubaï–Tel Aviv a été dérouté vers l'Arabie saoudite après qu'un pilote a, selon CBS News, NBC News et Time, poignardé le commandant et tenté de faire s'écraser l'avion à l'approche d'Israël. Le commandant, blessé, aurait ouvert la porte du cockpit, ce qui a permis à l'équipage et aux passagers de maîtriser l'agresseur ; l'appareil s'est posé en sécurité. Le Premier ministre israélien Benjamin Netanyahu évoque une « radicalisation » ; ces éléments, issus de sources israéliennes, n'ont pas été confirmés de manière indépendante, et une enquête sur les failles de sécurité est en cours.",
+      "en": "On September 30, a flydubai Dubai–Tel Aviv flight was diverted to Saudi Arabia after a pilot, according to CBS News, NBC News and Time, stabbed the captain and tried to crash the plane on approach to Israel. The injured captain reportedly opened the cockpit door, allowing crew and passengers to overpower the attacker; the aircraft landed safely. Israeli Prime Minister Benjamin Netanyahu cites \"radicalization\"; these claims, from Israeli sources, have not been independently confirmed, and an inquiry into security lapses is under way.",
+      "es": "El 30 de septiembre, un vuelo de flydubai Dubái–Tel Aviv fue desviado a Arabia Saudita después de que un piloto, según CBS News, NBC News y Time, apuñalara al comandante e intentara estrellar el avión al aproximarse a Israel. El comandante, herido, habría abierto la puerta de la cabina, lo que permitió a la tripulación y a los pasajeros reducir al agresor; la aeronave aterrizó sin novedad. El primer ministro israelí Benjamin Netanyahu habla de «radicalización»; estos elementos, de fuentes israelíes, no han sido confirmados de forma independiente, y se investigan los fallos de seguridad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Agression dans le cockpit, déroutement et atterrissage en Arabie saoudite.",
+          "en": "Cockpit attack, diversion and landing in Saudi Arabia.",
+          "es": "Agresión en la cabina, desvío y aterrizaje en Arabia Saudita."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Débat sur les failles de sécurité ayant permis à l'intéressé de voler (Washington Post).",
+          "en": "Debate over security lapses that let the pilot fly (Washington Post).",
+          "es": "Debate sobre los fallos de seguridad que permitieron volar al piloto (Washington Post)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "nantucket-jet-medical",
+    "coords": [
+      -69.96,
+      41.28
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈",
+    "source": "CBS News / NBC News / ABC News",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Au large de Nantucket, Massachusetts, États-Unis",
+      "en": "Off Nantucket, Massachusetts, United States",
+      "es": "Frente a Nantucket, Massachusetts, Estados Unidos"
+    },
+    "title": {
+      "fr": "Un jet médical s'abîme au large de Nantucket : six personnes à bord, recherches suspendues",
+      "en": "Medical jet crashes off Nantucket: six aboard, search suspended",
+      "es": "Un jet médico se estrella frente a Nantucket: seis a bordo, búsqueda suspendida"
+    },
+    "summary": {
+      "fr": "Un Gulfstream G100 de transport médical reliant les Bermudes à Boston avec six personnes à bord (quatre membres d'équipage et deux passagers) a disparu des radars le 3 octobre vers 2 h. Des débris ont été retrouvés à environ 32 km de Nantucket. Les garde-côtes ont suspendu les recherches le 4 octobre après 66 heures ; les enquêteurs estiment que l'appareil a perdu rapidement environ 2 300 m avant de heurter l'eau. La boîte noire n'a pas été récupérée.",
+      "en": "A Gulfstream G100 medical transport jet flying from Bermuda to Boston with six people aboard (four crew and two passengers) lost contact around 2 a.m. on October 3. Debris was found about 20 miles off Nantucket. The Coast Guard suspended the search on October 4 after 66 hours; investigators believe the aircraft descended about 7,500 feet rapidly before hitting the water. The black box has not been recovered.",
+      "es": "Un jet Gulfstream G100 de transporte médico que viajaba de las Bermudas a Boston con seis personas a bordo (cuatro tripulantes y dos pasajeros) perdió contacto hacia las 2:00 del 3 de octubre. Se hallaron restos a unos 32 km de Nantucket. La Guardia Costera suspendió la búsqueda el 4 de octubre tras 66 horas; los investigadores creen que la aeronave descendió rápidamente unos 2.300 m antes de impactar el agua. No se ha recuperado la caja negra."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Contact perdu avec l'appareil ; des débris sont repérés.",
+          "en": "Contact lost with the aircraft; debris located.",
+          "es": "Se pierde el contacto con la aeronave; se localizan restos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Les garde-côtes suspendent les recherches après 66 heures.",
+          "en": "Coast Guard suspends the search after 66 hours.",
+          "es": "La Guardia Costera suspende la búsqueda tras 66 horas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "france-budget-2027",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💶",
+    "source": "Bloomberg / ABC News",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "France : le gouvernement présente un budget 2027 de 54 milliards d'euros d'efforts",
+      "en": "France: government presents 2027 budget with €54 billion in savings effort",
+      "es": "Francia: el Gobierno presenta un presupuesto 2027 con un esfuerzo de 54.000 millones de euros"
+    },
+    "summary": {
+      "fr": "Le 1er octobre, le gouvernement français a présenté un effort de 54 milliards d'euros de réduction de dépenses visant à ramener le déficit public à 5 % du PIB en 2027, contre 5,4 % cette année, selon Bloomberg. Le débat budgétaire fait peser un risque sur la survie du gouvernement du Premier ministre et suscite l'attention des investisseurs.",
+      "en": "On October 1, the French government presented a €54 billion spending-restraint effort aimed at cutting the public deficit to 5% of GDP in 2027, from 5.4% this year, according to Bloomberg. The budget debate puts the prime minister's government at risk and is being watched by investors.",
+      "es": "El 1 de octubre, el Gobierno francés presentó un esfuerzo de 54.000 millones de euros en reducción del gasto para rebajar el déficit público al 5 % del PIB en 2027, frente al 5,4 % de este año, según Bloomberg. El debate presupuestario pone en riesgo al Gobierno del primer ministro y es seguido de cerca por los inversores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Présentation du budget 2027 et de l'effort de 54 Md€.",
+          "en": "2027 budget and €54bn effort presented.",
+          "es": "Presentación del presupuesto 2027 y del esfuerzo de 54.000 M€."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coree-nord-missile-balistique",
+    "coords": [
+      127.4461,
+      39.1528
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Japan Times / Nippon.com / SBS",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Wonsan, Corée du Nord (tir vers la mer du Japon)",
+      "en": "Wonsan, North Korea (launch toward the Sea of Japan)",
+      "es": "Wonsan, Corea del Norte (lanzamiento hacia el mar de Japón)"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire un missile balistique vers la mer du Japon",
+      "en": "North Korea fires a ballistic missile toward the Sea of Japan",
+      "es": "Corea del Norte lanza un misil balístico hacia el mar de Japón"
+    },
+    "summary": {
+      "fr": "Le 3 octobre vers 6 h 30, la Corée du Nord a tiré au moins un missile balistique depuis la région de Wonsan, selon l'armée sud-coréenne. Le ministère japonais de la Défense estime qu'il a parcouru environ 680 km, avec une altitude maximale de 90 km, avant de tomber hors de la zone économique exclusive du Japon ; aucun dégât n'a été confirmé. Tokyo a protesté, le tir violant les résolutions de l'ONU. Il survient dans un différend entre les deux Corées après l'explosion d'une mine qui a blessé trois soldats sud-coréens dans la zone démilitarisée, Pyongyang rejetant la responsabilité.",
+      "en": "At around 6:30 a.m. on October 3, North Korea fired at least one ballistic missile from the Wonsan area, according to the South Korean military. Japan's Defense Ministry estimates it flew about 680 km, with a peak altitude of 90 km, before landing outside Japan's exclusive economic zone; no damage has been confirmed. Tokyo protested, saying the launch violates UN resolutions. It comes amid a dispute between the two Koreas after a landmine blast injured three South Korean soldiers in the demilitarized zone, with Pyongyang rejecting responsibility.",
+      "es": "Hacia las 6:30 del 3 de octubre, Corea del Norte lanzó al menos un misil balístico desde la zona de Wonsan, según el ejército surcoreano. El Ministerio de Defensa japonés estima que recorrió unos 680 km, con una altitud máxima de 90 km, antes de caer fuera de la zona económica exclusiva de Japón; no se han confirmado daños. Tokio protestó, al considerar que el lanzamiento viola las resoluciones de la ONU. Se produce en medio de una disputa entre las dos Coreas tras la explosión de una mina que hirió a tres soldados surcoreanos en la zona desmilitarizada, de la que Pyongyang rechaza la responsabilidad."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Tir détecté ; protestation du Japon.",
+          "en": "Launch detected; Japan lodges a protest.",
+          "es": "Lanzamiento detectado; Japón presenta una protesta."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
   }
 ]
