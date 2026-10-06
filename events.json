@@ -734,6 +734,19 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Les États-Unis envoient un troisième porte-avions (USS Theodore Roosevelt) et un groupe amphibie (Makin Island) au Moyen-Orient alors que Donald Trump envisage de nouvelles frappes contre l'Iran, selon CNBC, The National et l'Irish Times ; arrivée attendue d'ici fin novembre.",
+          "en": "The US sends a third aircraft carrier (USS Theodore Roosevelt) and an amphibious group (Makin Island) to the Middle East as Donald Trump weighs new strikes on Iran, according to CNBC, The National and the Irish Times; arrival expected by end of November.",
+          "es": "Estados Unidos envía un tercer portaaviones (USS Theodore Roosevelt) y un grupo anfibio (Makin Island) a Oriente Medio mientras Donald Trump estudia nuevos ataques contra Irán, según CNBC, The National y el Irish Times; llegada prevista antes de finales de noviembre."
+        },
         "active": true
       }
     ],
@@ -829,5 +842,588 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "bresil-presidentielle-2026",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "France 24 / Al Jazeera / NPR / Washington Post",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Brésil",
+      "en": "Brazil",
+      "es": "Brasil"
+    },
+    "title": {
+      "fr": "Brésil : Flávio Bolsonaro devance Lula au premier tour, second tour le 25 octobre",
+      "en": "Brazil: Flávio Bolsonaro edges Lula in first round, runoff on October 25",
+      "es": "Brasil: Flávio Bolsonaro supera a Lula en la primera vuelta, segunda vuelta el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Au premier tour de la présidentielle du 4 octobre, le sénateur Flávio Bolsonaro arrive en tête avec 47,03 % des voix contre 45,16 % pour le président sortant Luiz Inácio Lula da Silva, selon les médias cités (France 24, Al Jazeera, NPR). Aucun candidat n'ayant dépassé 50 %, un second tour est prévu le 25 octobre. Le résultat est meilleur pour Bolsonaro que ne l'annonçaient les sondages ; l'abstention (21,08 %) est la plus élevée depuis 1998.",
+      "en": "In the October 4 first round of the presidential election, Senator Flávio Bolsonaro finished first with 47.03% of the vote against 45.16% for incumbent President Luiz Inácio Lula da Silva, according to the outlets cited (France 24, Al Jazeera, NPR). As no candidate exceeded 50%, a runoff is scheduled for October 25. The result was stronger for Bolsonaro than polls had projected; abstention (21.08%) was the highest since 1998.",
+      "es": "En la primera vuelta de la elección presidencial del 4 de octubre, el senador Flávio Bolsonaro quedó primero con el 47,03 % de los votos frente al 45,16 % del presidente Luiz Inácio Lula da Silva, según los medios citados (France 24, Al Jazeera, NPR). Al no superar ningún candidato el 50 %, la segunda vuelta está prevista para el 25 de octubre. El resultado fue mejor para Bolsonaro de lo que apuntaban las encuestas; la abstención (21,08 %) fue la más alta desde 1998."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : Flávio Bolsonaro 47,03 %, Lula 45,16 %.",
+          "en": "First round: Flávio Bolsonaro 47.03%, Lula 45.16%.",
+          "es": "Primera vuelta: Flávio Bolsonaro 47,03 %, Lula 45,16 %."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "25/10/2026",
+          "en": "25/10/2026",
+          "es": "25/10/2026"
+        },
+        "d": {
+          "fr": "Second tour prévu.",
+          "en": "Runoff scheduled.",
+          "es": "Segunda vuelta prevista."
+        },
+        "active": false
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "yemen-houthis-arabie",
+    "coords": [
+      44.2075,
+      15.3694
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "France 24 / Al Jazeera / Times of Israel / The Media Line",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Sanaa et Riyad, Yémen / Arabie saoudite",
+      "en": "Sanaa and Riyadh, Yemen / Saudi Arabia",
+      "es": "Saná y Riad, Yemen / Arabia Saudita"
+    },
+    "title": {
+      "fr": "Yémen : offensive de la coalition saoudienne, les Houthis revendiquent des tirs sur Riyad",
+      "en": "Yemen: Saudi-led coalition offensive as Houthis claim strikes on Riyadh",
+      "es": "Yemen: ofensiva de la coalición saudí; los hutíes reivindican ataques contra Riad"
+    },
+    "summary": {
+      "fr": "La coalition menée par l'Arabie saoudite a lancé l'opération « Aube du Yémen » contre les Houthis, affirmant avoir détruit 324 cibles ; l'armée yéménite parle de plus de 1 000 frappes et d'une offensive vers Sanaa, d'après France 24 et Al Jazeera. Les Houthis, soutenus par l'Iran, disent avoir visé l'aéroport international King Khalid de Riyad et la raffinerie Aramco de Rabigh ; ces affirmations émanent d'une des parties et n'ont pas été confirmées de façon indépendante. Riyad a fait état de trois blessés dans des attaques contre des aéroports du sud. L'enjeu affiché est la sécurité du détroit de Bab al-Mandab.",
+      "en": "The Saudi-led coalition launched Operation “Dawn of Yemen” against the Houthis, saying it destroyed 324 targets; the Yemeni military cites more than 1,000 strikes and an offensive toward Sanaa, according to France 24 and Al Jazeera. The Iran-backed Houthis say they targeted King Khalid International Airport in Riyadh and the Aramco refinery in Rabigh; these claims come from one side and have not been independently confirmed. Riyadh reported three people wounded in attacks on southern airports. The stated aim is the security of the Bab al-Mandab Strait.",
+      "es": "La coalición liderada por Arabia Saudita lanzó la operación «Amanecer de Yemen» contra los hutíes y afirma haber destruido 324 objetivos; el ejército yemení habla de más de 1.000 ataques y de una ofensiva hacia Saná, según France 24 y Al Jazeera. Los hutíes, respaldados por Irán, dicen haber atacado el aeropuerto internacional King Khalid de Riad y la refinería de Aramco en Rabigh; estas afirmaciones proceden de una de las partes y no han sido confirmadas de forma independiente. Riad informó de tres heridos en ataques contra aeropuertos del sur. El objetivo declarado es la seguridad del estrecho de Bab al-Mandeb."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Opération « Aube du Yémen » ; revendications croisées de frappes.",
+          "en": "Operation “Dawn of Yemen”; competing claims of strikes.",
+          "es": "Operación «Amanecer de Yemen»; reivindicaciones cruzadas de ataques."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "ethiopie-mekele",
+    "coords": [
+      39.4753,
+      13.4967
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚔️",
+    "source": "Al Jazeera / AP / Jerusalem Post",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Mekele, Tigré, Éthiopie",
+      "en": "Mekelle, Tigray, Ethiopia",
+      "es": "Mekele, Tigré, Etiopía"
+    },
+    "title": {
+      "fr": "Éthiopie : les forces gouvernementales entrent à Mekele après le retrait du TPLF",
+      "en": "Ethiopia: government forces enter Mekelle after TPLF withdrawal",
+      "es": "Etiopía: fuerzas gubernamentales entran en Mekele tras la retirada del TPLF"
+    },
+    "summary": {
+      "fr": "Des combattants alliés au gouvernement éthiopien sont entrés à Mekele, capitale du Tigré, après l'annonce par le TPLF de son retrait de la ville, selon Al Jazeera et l'AP. Le TPLF dit que son administration régionale fonctionnera temporairement depuis un autre lieu. Le mouvement avait lancé une offensive le 23 septembre contre l'armée fédérale et avait saisi Mekele le mois précédent. Aucun bilan humain fiable n'est disponible à ce stade.",
+      "en": "Government-allied fighters entered Mekelle, the capital of Tigray, after the TPLF announced its withdrawal from the city, according to Al Jazeera and AP. The TPLF says its regional administration will operate temporarily from another location. The group launched an offensive on September 23 against the federal military and had seized Mekelle last month. No reliable casualty figures are available at this stage.",
+      "es": "Combatientes aliados del gobierno etíope entraron en Mekele, capital de Tigré, tras el anuncio del TPLF de su retirada de la ciudad, según Al Jazeera y AP. El TPLF dice que su administración regional funcionará temporalmente desde otro lugar. El grupo lanzó una ofensiva el 23 de septiembre contra el ejército federal y había tomado Mekele el mes anterior. No hay cifras fiables de víctimas por el momento."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Offensive de l'alliance dirigée par le TPLF.",
+          "en": "Offensive launched by the TPLF-led alliance.",
+          "es": "Ofensiva de la alianza liderada por el TPLF."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Retrait du TPLF annoncé ; entrée des forces progouvernementales à Mekele.",
+          "en": "TPLF withdrawal announced; pro-government forces enter Mekelle.",
+          "es": "Retirada del TPLF anunciada; entrada de fuerzas progubernamentales en Mekele."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "ukraine-kramatorsk-drones",
+    "coords": [
+      37.5563,
+      48.7389
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Euromaidan Press / Kyiv Independent / Ukrinform",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Kramatorsk, Ukraine",
+      "en": "Kramatorsk, Ukraine",
+      "es": "Kramatorsk, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : frappes de drones russes sur Kramatorsk, trois ambulances touchées",
+      "en": "Ukraine: Russian drone strikes hit Kramatorsk, three ambulances damaged",
+      "es": "Ucrania: ataques de drones rusos en Kramatorsk, tres ambulancias alcanzadas"
+    },
+    "summary": {
+      "fr": "Des drones FPV russes ont touché trois ambulances et un immeuble résidentiel à Kramatorsk le 5 octobre ; une femme a été tuée à son domicile, selon Euromaidan Press citant les autorités ukrainiennes. Selon l'armée de l'air ukrainienne, 172 des 205 drones lancés depuis la soirée du 4 octobre ont été neutralisés. Kiev affirme par ailleurs que ses frappes ont mis hors service 51 % des capacités de raffinage russes, chiffre non vérifié de façon indépendante. D'après Volodymyr Zelensky, les États-Unis proposent des pourparlers trilatéraux d'ici fin octobre.",
+      "en": "Russian FPV drones hit three ambulances and a residential high-rise in Kramatorsk on October 5; a woman was killed at home, according to Euromaidan Press citing Ukrainian authorities. Ukraine's air force says 172 of the 205 drones launched since the evening of October 4 were neutralised. Kyiv also claims its strikes have disabled 51% of Russian refining capacity, a figure not independently verified. According to Volodymyr Zelensky, the United States proposes trilateral talks by the end of October.",
+      "es": "Drones FPV rusos alcanzaron tres ambulancias y un edificio residencial en Kramatorsk el 5 de octubre; una mujer murió en su domicilio, según Euromaidan Press citando a las autoridades ucranianas. Según la fuerza aérea ucraniana, 172 de los 205 drones lanzados desde la tarde del 4 de octubre fueron neutralizados. Kiev afirma además que sus ataques han inutilizado el 51 % de la capacidad de refinado rusa, una cifra no verificada de forma independiente. Según Volodímir Zelenski, Estados Unidos propone conversaciones trilaterales antes de finales de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Frappes de drones sur Kramatorsk ; une morte.",
+          "en": "Drone strikes on Kramatorsk; one woman killed.",
+          "es": "Ataques de drones en Kramatorsk; una mujer muerta."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "france-lycees-manifestations",
+    "coords": [
+      2.8326,
+      50.4291
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "SCMP / CBC / KSL (AP)",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Lens, Hauts-de-France, France",
+      "en": "Lens, Hauts-de-France, France",
+      "es": "Lens, Alto de Francia, Francia"
+    },
+    "title": {
+      "fr": "France : un lycéen de 15 ans perd une main lors d'une manifestation scolaire à Lens",
+      "en": "France: 15-year-old loses a hand during school protest in Lens",
+      "es": "Francia: un adolescente de 15 años pierde una mano en una protesta escolar en Lens"
+    },
+    "summary": {
+      "fr": "Un adolescent de 15 ans a perdu une main et une partie de l'avant-bras lundi 5 octobre à Lens, alors que la mobilisation lycéenne contre les classes surchargées, le manque d'enseignants et la vétusté des bâtiments entre dans sa troisième semaine, selon le SCMP, la CBC et l'AP. Une source syndicale policière indique qu'il aurait ramassé une grenade de désencerclement tirée par les forces de l'ordre, qui aurait explosé dans sa main ; les circonstances exactes restent à établir. Une enquête a été ouverte. Des associations de défense des droits dénoncent des méthodes policières trop dures envers des mineurs.",
+      "en": "A 15-year-old lost a hand and part of his forearm on Monday, October 5, in Lens, as student protests over overcrowded classrooms, teacher shortages and dilapidated school buildings entered a third week, according to SCMP, CBC and AP. A police union source says he apparently picked up a sting-ball grenade fired by riot police that exploded in his hand; the exact circumstances remain to be established. An investigation has been opened. Rights groups accuse police of heavy-handed tactics against minors.",
+      "es": "Un adolescente de 15 años perdió una mano y parte del antebrazo el lunes 5 de octubre en Lens, mientras las protestas estudiantiles contra las aulas masificadas, la falta de docentes y la degradación de los edificios escolares entraban en su tercera semana, según SCMP, CBC y AP. Una fuente sindical policial indica que habría recogido una granada de aturdimiento lanzada por los antidisturbios que le explotó en la mano; las circunstancias exactas están por determinar. Se ha abierto una investigación. Organizaciones de derechos humanos denuncian métodos policiales demasiado duros contra menores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Le lycéen est grièvement blessé ; enquête ouverte.",
+          "en": "The teenager is seriously injured; investigation opened.",
+          "es": "El adolescente resulta gravemente herido; se abre una investigación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "russie-irkoutsk-institut-peste",
+    "coords": [
+      104.1117,
+      52.4867
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🧪",
+    "source": "Al Jazeera / NBC News / PBS (AP)",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Chelekhov, région d'Irkoutsk, Russie",
+      "en": "Shelekhov, Irkutsk region, Russia",
+      "es": "Shelekhov, región de Irkutsk, Rusia"
+    },
+    "title": {
+      "fr": "Russie : une employée d'un institut antipeste sibérien meurt d'une pneumonie, versions divergentes",
+      "en": "Russia: worker at Siberian anti-plague institute dies of pneumonia, accounts differ",
+      "es": "Rusia: una empleada de un instituto antipeste siberiano muere de neumonía; versiones divergentes"
+    },
+    "summary": {
+      "fr": "Une technicienne de 28 ans de l'Institut antipeste d'Irkoutsk, à Chelekhov, est morte d'une pneumonie sévère, selon Al Jazeera, NBC News et l'AP. Le Rospotrebnadzor parle de « pneumonie d'étiologie inconnue » et affirme que les analyses n'ont trouvé aucun micro-organisme lié à son activité ni aucun incident avec des agents pathogènes à l'institut. Des médias régionaux évoquent en revanche un tube contenant Yersinia pestis brisé, et un autre récit une hospitalisation pour peste pulmonaire après un voyage en Thaïlande : aucune de ces versions n'est confirmée. Près de 200 personnes seraient sous observation médicale ; le département d'État américain dit suivre la situation avec le CDC.",
+      "en": "A 28-year-old technician at the Irkutsk Anti-Plague Institute in Shelekhov died of severe pneumonia, according to Al Jazeera, NBC News and AP. Rospotrebnadzor describes “pneumonia of unknown etiology” and says testing found no microorganisms linked to her work and no incident with pathogens at the institute. Regional outlets, however, report a broken tube containing Yersinia pestis, and another account describes admission with pneumonic plague after a trip to Thailand; neither version is confirmed. Nearly 200 people are reportedly under medical observation; the US State Department says it is monitoring with the CDC.",
+      "es": "Una técnica de 28 años del Instituto Antipeste de Irkutsk, en Shelekhov, murió de una neumonía grave, según Al Jazeera, NBC News y AP. Rospotrebnadzor habla de «neumonía de etiología desconocida» y afirma que las pruebas no hallaron microorganismos vinculados a su trabajo ni incidentes con patógenos en el instituto. Medios regionales, en cambio, mencionan un tubo con Yersinia pestis roto, y otro relato una hospitalización por peste neumónica tras un viaje a Tailandia; ninguna versión está confirmada. Casi 200 personas estarían bajo observación médica; el Departamento de Estado de EE. UU. dice seguir la situación con los CDC."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Décès rapporté ; observation médicale d'environ 200 personnes.",
+          "en": "Death reported; about 200 people under medical observation.",
+          "es": "Se informa del fallecimiento; unas 200 personas en observación médica."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "royaume-uni-fairford-arrestations",
+    "coords": [
+      -1.7903,
+      51.682
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "CNN / NPR / ABC News",
+    "week": "2026-W41",
+    "place": {
+      "fr": "RAF Fairford, Gloucestershire, Royaume-Uni",
+      "en": "RAF Fairford, Gloucestershire, United Kingdom",
+      "es": "RAF Fairford, Gloucestershire, Reino Unido"
+    },
+    "title": {
+      "fr": "Royaume-Uni : cinq hommes arrêtés près de la base de RAF Fairford pour préparation d'un acte terroriste",
+      "en": "UK: five men arrested near RAF Fairford on suspicion of preparing a terrorist act",
+      "es": "Reino Unido: cinco hombres detenidos cerca de RAF Fairford por preparación de un acto terrorista"
+    },
+    "summary": {
+      "fr": "Cinq hommes, des Britanniques d'une vingtaine d'années résidant à Londres, ont été arrêtés le 27 septembre près de la base de RAF Fairford, utilisée par l'armée de l'air américaine, pour préparation d'un acte terroriste et infractions liées aux explosifs, selon CNN, NPR et ABC News. L'alerte a été donnée par une riveraine ayant vu trois camionnettes suspectes. Les enquêteurs examinent une piste liée à l'Iran parmi d'autres hypothèses, sans conclusion à ce stade ; les personnes arrêtées sont présumées innocentes.",
+      "en": "Five men, British nationals in their mid-20s living in London, were arrested on September 27 near RAF Fairford, a base used by the US Air Force, on suspicion of preparing a terrorist act and explosives offences, according to CNN, NPR and ABC News. The alert came from a local resident who noticed three suspicious vans. Investigators are examining a possible link to Iran among other hypotheses, with no conclusion so far; the suspects are presumed innocent.",
+      "es": "Cinco hombres, británicos de unos 25 años residentes en Londres, fueron detenidos el 27 de septiembre cerca de RAF Fairford, base utilizada por la fuerza aérea estadounidense, por sospecha de preparar un acto terrorista y delitos con explosivos, según CNN, NPR y ABC News. El aviso lo dio una vecina que vio tres furgonetas sospechosas. Los investigadores examinan un posible vínculo con Irán entre otras hipótesis, sin conclusión por ahora; los detenidos se presumen inocentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "27/09/2026",
+          "en": "27/09/2026",
+          "es": "27/09/2026"
+        },
+        "d": {
+          "fr": "Cinq arrestations près de la base.",
+          "en": "Five arrests near the base.",
+          "es": "Cinco detenciones cerca de la base."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "flydubai-attaque-copilote",
+    "coords": [
+      55.3644,
+      25.2532
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "CNN / NPR / CBC / Al Jazeera",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Vol FZ1073 Dubaï–Tel Aviv",
+      "en": "Flight FZ1073 Dubai–Tel Aviv",
+      "es": "Vuelo FZ1073 Dubái–Tel Aviv"
+    },
+    "title": {
+      "fr": "Flydubai : le copilote accusé d'avoir attaqué le commandant, enquête en cours",
+      "en": "Flydubai: co-pilot accused of attacking captain, investigation under way",
+      "es": "Flydubai: el copiloto acusado de atacar al comandante, investigación en curso"
+    },
+    "summary": {
+      "fr": "Sur le vol flydubai FZ1073 à destination d'Israël, le copilote, un Omanais de 29 ans, aurait attaqué le commandant avec une hache de secours avant d'être maîtrisé par des passagers, selon CNN, la CBC et NPR. Le parquet des Émirats arabes unis qualifie les faits d'« attaque terroriste ». D'après des responsables israéliens cités par NPR, il aurait voulu précipiter l'avion sur l'aéroport Ben Gourion ; des responsables israéliens estiment qu'il a agi seul. Il avait été précédemment écarté par Oman Air pour des raisons de sécurité. La date exacte de l'incident n'est pas précisée dans les sources consultées (fin septembre/début octobre) ; le suspect a été transféré aux Émirats.",
+      "en": "On flydubai flight FZ1073 bound for Israel, the co-pilot, a 29-year-old Omani national, allegedly attacked the captain with an emergency axe before being subdued by passengers, according to CNN, CBC and NPR. The UAE attorney general calls it a “terrorist attack.” According to Israeli officials cited by NPR, he intended to crash the plane into Ben Gurion airport; Israeli security officials assess he acted alone. He had previously been suspended by Oman Air as a security risk. The exact date of the incident is not specified in the sources consulted (late September/early October); the suspect was transferred to the UAE.",
+      "es": "En el vuelo FZ1073 de flydubai con destino a Israel, el copiloto, un omaní de 29 años, habría atacado al comandante con un hacha de emergencia antes de ser reducido por pasajeros, según CNN, CBC y NPR. La fiscalía de los Emiratos Árabes Unidos lo califica de «ataque terrorista». Según responsables israelíes citados por NPR, pretendía estrellar el avión contra el aeropuerto Ben Gurión; responsables de seguridad israelíes estiman que actuó solo. Había sido suspendido antes por Oman Air como riesgo de seguridad. La fecha exacta del incidente no figura en las fuentes consultadas (finales de septiembre/principios de octubre); el sospechoso fue trasladado a los Emiratos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Le suspect est transféré aux Émirats arabes unis.",
+          "en": "Suspect transferred to the United Arab Emirates.",
+          "es": "El sospechoso es trasladado a los Emiratos Árabes Unidos."
+        },
+        "active": true
+      },
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Selon NPR, l'enquête conclut qu'il voulait écraser l'avion sur Tel Aviv.",
+          "en": "Per NPR, investigation finds he intended to crash the plane into Tel Aviv.",
+          "es": "Según NPR, la investigación concluye que quería estrellar el avión contra Tel Aviv."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "nigeria-imo-enlevement-nysc",
+    "coords": [
+      7.2628,
+      5.48
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "Vanguard / Guardian Nigeria / Leadership",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Ezinihitte Mbaise, État d'Imo, Nigeria",
+      "en": "Ezinihitte Mbaise, Imo State, Nigeria",
+      "es": "Ezinihitte Mbaise, Estado de Imo, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : des futurs stagiaires du service national enlevés dans l'État d'Imo, dix libérés",
+      "en": "Nigeria: prospective national service corps members kidnapped in Imo State, ten rescued",
+      "es": "Nigeria: aspirantes al servicio nacional secuestrados en el estado de Imo; diez liberados"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont arrêté deux bus sur l'autoroute Onitsha–Owerri, à Umonuwa, et enlevé 20 personnes, dont des futurs membres du service national NYSC originaires de l'État d'Oyo, selon Vanguard et The Guardian Nigeria. Dix passagers, dont huit futurs stagiaires, ont été libérés sains et saufs par l'armée et d'autres forces. Les sources divergent sur la rançon demandée (de 1 milliard de nairas au total à 50 millions par personne, ramenée selon la presse à 5 millions) ; la police a localisé le camp des ravisseurs par drone mais l'assaut est retardé par des engins explosifs.",
+      "en": "Gunmen stopped two buses on the Onitsha–Owerri expressway at Umonuwa and abducted 20 people, including prospective NYSC corps members from Oyo State, according to Vanguard and The Guardian Nigeria. Ten passengers, including eight prospective corps members, were rescued unharmed by troops and other agencies. Sources differ on the ransom demanded (from ₦1 billion in total to ₦50 million per victim, reportedly lowered to ₦5 million); police located the kidnappers' camp by drone but a ground assault was delayed by explosive devices.",
+      "es": "Hombres armados detuvieron dos autobuses en la autopista Onitsha–Owerri, en Umonuwa, y secuestraron a 20 personas, entre ellas aspirantes al servicio nacional NYSC del estado de Oyo, según Vanguard y The Guardian Nigeria. Diez pasajeros, ocho de ellos aspirantes, fueron liberados ilesos por el ejército y otras fuerzas. Las fuentes difieren sobre el rescate exigido (de 1.000 millones de nairas en total a 50 millones por víctima, reducido según la prensa a 5 millones); la policía localizó el campamento con un dron, pero el asalto se retrasó por artefactos explosivos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Dix otages libérés ; recherche des autres victimes.",
+          "en": "Ten hostages rescued; search continues for the others.",
+          "es": "Diez rehenes liberados; continúa la búsqueda de los demás."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "usa-emploi-septembre",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Washington Times (AP) / TheStreet",
+    "week": "2026-W41",
+    "place": {
+      "fr": "États-Unis",
+      "en": "United States",
+      "es": "Estados Unidos"
+    },
+    "title": {
+      "fr": "États-Unis : 29 000 emplois créés en septembre, moins qu'attendu",
+      "en": "United States: 29,000 jobs added in September, below expectations",
+      "es": "Estados Unidos: 29.000 empleos creados en septiembre, menos de lo esperado"
+    },
+    "summary": {
+      "fr": "Les employeurs américains ont créé 29 000 emplois en septembre, moins que prévu par les économistes et en net ralentissement après 133 000 en août, selon le rapport officiel relayé par l'AP ; le chômage a légèrement augmenté. Les rendements des bons du Trésor ont reculé et le S&P 500 s'est rapproché à moins de 1 % de son record d'août. La prochaine décision de la Fed, fin octobre, dépendra aussi de l'inflation, du pétrole et de la situation géopolitique.",
+      "en": "US employers added 29,000 jobs in September, fewer than economists expected and a sharp slowdown from 133,000 in August, according to the official report relayed by AP; unemployment ticked higher. Treasury yields fell and the S&P 500 pulled within 1% of its August record. The Fed's next decision in late October will also depend on inflation, oil prices and geopolitical developments.",
+      "es": "Los empleadores estadounidenses crearon 29.000 empleos en septiembre, menos de lo previsto por los economistas y una fuerte desaceleración frente a los 133.000 de agosto, según el informe oficial recogido por AP; el desempleo subió ligeramente. Los rendimientos del Tesoro cayeron y el S&P 500 se acercó a menos del 1 % de su récord de agosto. La próxima decisión de la Fed, a finales de octubre, dependerá también de la inflación, el petróleo y la situación geopolítica."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "02/10/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Publication du rapport sur l'emploi de septembre.",
+          "en": "September jobs report released.",
+          "es": "Publicación del informe de empleo de septiembre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "autriche-babler-demission",
+    "coords": [
+      16.3738,
+      48.2082
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛️",
+    "source": "Bluewin / Yahoo News / MarketScreener",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Vienne, Autriche",
+      "en": "Vienna, Austria",
+      "es": "Viena, Austria"
+    },
+    "title": {
+      "fr": "Autriche : Andreas Babler annonce son départ de la vice-chancellerie et de la tête du SPÖ",
+      "en": "Austria: Andreas Babler to step down as vice chancellor and SPÖ leader",
+      "es": "Austria: Andreas Babler dejará la vicecancillería y la dirección del SPÖ"
+    },
+    "summary": {
+      "fr": "Le vice-chancelier et chef du parti social-démocrate SPÖ, Andreas Babler, 53 ans, a annoncé qu'il quitterait ses deux fonctions, alors que sa position était fragilisée par de mauvais sondages. Il propose le ministre des Finances Markus Marterbauer comme successeur à la vice-chancellerie, la passation étant prévue début 2027 en raison du traitement d'un cancer de ce dernier ; un nouveau président du parti serait désigné au printemps. Babler compte rester ministre du Logement, de la Culture, des Médias et des Sports.",
+      "en": "Vice Chancellor and Social Democratic Party (SPÖ) leader Andreas Babler, 53, announced he will leave both posts, after coming under pressure over poor poll numbers. He proposes Finance Minister Markus Marterbauer as the next vice chancellor, with the handover planned for early 2027 because of Marterbauer's ongoing cancer treatment; a new party chair would be chosen in spring. Babler intends to remain minister for Housing, Culture, Media and Sports.",
+      "es": "El vicecanciller y líder del partido socialdemócrata SPÖ, Andreas Babler, de 53 años, anunció que dejará ambos cargos, tras quedar debilitado por los malos sondeos. Propone al ministro de Finanzas, Markus Marterbauer, como sucesor en la vicecancillería, con el relevo previsto a principios de 2027 debido al tratamiento oncológico de este; un nuevo presidente del partido se elegiría en primavera. Babler pretende seguir como ministro de Vivienda, Cultura, Medios y Deportes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Annonce de son départ pour 2027.",
+          "en": "Departure announced for 2027.",
+          "es": "Anuncia su salida para 2027."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "coree-nuri-lancement",
+    "coords": [
+      127.535,
+      34.4313
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛰️",
+    "source": "Korea JoongAng Daily / Korea Times / Seoul Economic Daily",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Centre spatial de Naro, Corée du Sud",
+      "en": "Naro Space Center, South Korea",
+      "es": "Centro Espacial de Naro, Corea del Sur"
+    },
+    "title": {
+      "fr": "Corée du Sud : cinquième lancement de la fusée Nuri prévu le 7 octobre avec 15 satellites",
+      "en": "South Korea: fifth Nuri rocket launch set for October 7 with 15 satellites",
+      "es": "Corea del Sur: quinto lanzamiento del cohete Nuri previsto el 7 de octubre con 15 satélites"
+    },
+    "summary": {
+      "fr": "La fusée sud-coréenne Nuri a été installée sur son pas de tir pour un cinquième vol, prévu le 7 octobre entre 12 h 23 et 13 h 23 (heure locale), avec une fenêtre de secours du 8 au 14 octobre en cas de météo défavorable, selon Korea JoongAng Daily et Seoul Economic Daily. Elle emportera 15 satellites (cinq micro-satellites en grappe et dix CubeSats), la plus grosse charge de son histoire en nombre de satellites. Le lancement n'a pas encore eu lieu à la date de rédaction.",
+      "en": "South Korea's Nuri rocket has been moved to the launch pad for a fifth flight, scheduled for October 7 between 12:23 and 1:23 p.m. local time, with a backup window of October 8–14 in case of bad weather, according to Korea JoongAng Daily and Seoul Economic Daily. It will carry 15 satellites (five miniature cluster satellites and ten CubeSats), its largest payload by satellite count. The launch had not yet taken place at the time of writing.",
+      "es": "El cohete surcoreano Nuri ha sido trasladado a la plataforma de lanzamiento para un quinto vuelo, previsto el 7 de octubre entre las 12:23 y las 13:23 (hora local), con una ventana de reserva del 8 al 14 de octubre en caso de mal tiempo, según Korea JoongAng Daily y Seoul Economic Daily. Llevará 15 satélites (cinco microsatélites en racimo y diez CubeSats), la mayor carga de su historia por número de satélites. El lanzamiento aún no se había producido en el momento de la redacción."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/10/2026",
+          "en": "06/10/2026",
+          "es": "06/10/2026"
+        },
+        "d": {
+          "fr": "Nuri sur le pas de tir ; lancement prévu le 7 octobre.",
+          "en": "Nuri on the launch pad; launch set for October 7.",
+          "es": "Nuri en la plataforma; lanzamiento previsto el 7 de octubre."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
   }
 ]
