@@ -829,5 +829,150 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "paramount-wbd-cloture",
+    "coords": [
+      -118.3175,
+      34.0836
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💼",
+    "source": "CNBC / The Hollywood Reporter / Deadline",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Los Angeles, États-Unis (siège de Paramount)",
+      "en": "Los Angeles, United States (Paramount headquarters)",
+      "es": "Los Ángeles, Estados Unidos (sede de Paramount)"
+    },
+    "title": {
+      "fr": "Paramount finalise le rachat de Warner Bros. Discovery",
+      "en": "Paramount completes its takeover of Warner Bros. Discovery",
+      "es": "Paramount completa la adquisición de Warner Bros. Discovery"
+    },
+    "summary": {
+      "fr": "Le rachat de Warner Bros. Discovery par Paramount Skydance, valorisé à environ 110 milliards de dollars (valeur d'entreprise), a été finalisé le mardi 6 octobre 2026, selon CNBC, The Hollywood Reporter et Deadline. Les chiffres exacts varient légèrement selon les médias (110 à 111 milliards). Des règlements amiables avec une coalition d'États et la Writers Guild ont précédé la clôture.",
+      "en": "Paramount Skydance's takeover of Warner Bros. Discovery, valued at about $110 billion in enterprise value, closed on Tuesday, October 6, 2026, according to CNBC, The Hollywood Reporter and Deadline. Exact figures vary slightly between outlets ($110–111 billion). Settlements with a coalition of states and the Writers Guild preceded the closing.",
+      "es": "La adquisición de Warner Bros. Discovery por Paramount Skydance, valorada en unos 110.000 millones de dólares (valor empresarial), se cerró el martes 6 de octubre de 2026, según CNBC, The Hollywood Reporter y Deadline. Las cifras exactas varían ligeramente entre medios (110.000–111.000 millones). Antes del cierre hubo acuerdos con una coalición de estados y el sindicato de guionistas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/10/2026",
+          "en": "06/10/2026",
+          "es": "06/10/2026"
+        },
+        "d": {
+          "fr": "L'opération est officiellement clôturée ; les médias rapportent le début de la cotation de la nouvelle entité.",
+          "en": "The deal officially closes; outlets report trading of the combined company beginning.",
+          "es": "El acuerdo se cierra oficialmente; los medios informan del inicio de la cotización de la nueva entidad."
+        },
+        "active": true
+      }
+    ],
+    "priority": 1
+  },
+  {
+    "id": "nobel-physique-2026",
+    "coords": [
+      18.0686,
+      59.3293
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏅",
+    "source": "CNN / NPR / The Japan Times",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Stockholm, Suède",
+      "en": "Stockholm, Sweden",
+      "es": "Estocolmo, Suecia"
+    },
+    "title": {
+      "fr": "Prix Nobel de physique 2026 : Francis Halzen récompensé",
+      "en": "2026 Nobel Prize in Physics: Francis Halzen awarded",
+      "es": "Premio Nobel de Física 2026: Francis Halzen galardonado"
+    },
+    "summary": {
+      "fr": "L'Académie royale des sciences de Suède a attribué le 6 octobre 2026 le prix Nobel de physique à Francis Halzen pour ses contributions décisives à l'observatoire de neutrinos IceCube et la découverte de neutrinos de haute énergie d'origine astrophysique, selon CNN, NPR et The Japan Times. Dotation : 12 millions de couronnes suédoises.",
+      "en": "The Royal Swedish Academy of Sciences awarded the 2026 Nobel Prize in Physics on October 6, 2026 to Francis Halzen for decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin, according to CNN, NPR and The Japan Times. The prize is 12 million Swedish kronor.",
+      "es": "La Real Academia Sueca de Ciencias concedió el 6 de octubre de 2026 el Premio Nobel de Física a Francis Halzen por sus contribuciones decisivas al observatorio de neutrinos IceCube y el descubrimiento de neutrinos de alta energía de origen astrofísico, según CNN, NPR y The Japan Times. El premio es de 12 millones de coronas suecas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/10/2026",
+          "en": "06/10/2026",
+          "es": "06/10/2026"
+        },
+        "d": {
+          "fr": "Annonce du prix à Stockholm.",
+          "en": "Prize announced in Stockholm.",
+          "es": "Anuncio del premio en Estocolmo."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3
+  },
+  {
+    "id": "flydubai-fz1073",
+    "coords": [
+      36.5662,
+      28.3838
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "Airline Geeks / Ground News / newsonair",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Tabuk, Arabie saoudite (atterrissage de déroutement)",
+      "en": "Tabuk, Saudi Arabia (diversion landing)",
+      "es": "Tabuk, Arabia Saudí (aterrizaje de desvío)"
+    },
+    "title": {
+      "fr": "Vol Flydubai Dubaï–Tel Aviv : incident violent dans le cockpit, déroutement vers Tabuk",
+      "en": "Flydubai Dubai–Tel Aviv flight: violent cockpit incident, diversion to Tabuk",
+      "es": "Vuelo Flydubai Dubái–Tel Aviv: incidente violento en la cabina, desvío a Tabuk"
+    },
+    "summary": {
+      "fr": "Le 30 septembre 2026, le vol FZ1073 (Boeing 737 MAX) a été dérouté vers Tabuk après une agression dans le cockpit ; le commandant indien Smit Machchhar a été grièvement blessé puis opéré, son état étant stable. Des responsables israéliens parlent d'une tentative de détournement par le copilote, de nationalité omanaise ; Flydubai évoque une « altercation » entre pilotes. L'avion a chuté de plus de 17 000 pieds ; deux pilotes passagers ont posé l'appareil. Aucun passager blessé. Plusieurs enquêtes sont ouvertes, dont une ordonnée par le procureur général des Émirats.",
+      "en": "On September 30, 2026, flight FZ1073 (Boeing 737 MAX) diverted to Tabuk after an attack in the cockpit; Indian captain Smit Machchhar was seriously injured and underwent surgery, reportedly in stable condition. Israeli officials describe an attempted hijacking by the Omani co-pilot, while Flydubai describes an 'altercation' between pilots. The aircraft dropped more than 17,000 feet; two off-duty pilots travelling as passengers landed it. No passenger injuries were reported. Several investigations are under way, including one ordered by the UAE Attorney General.",
+      "es": "El 30 de septiembre de 2026, el vuelo FZ1073 (Boeing 737 MAX) se desvió a Tabuk tras una agresión en la cabina; el capitán indio Smit Machchhar resultó gravemente herido y fue operado, con estado estable según los informes. Funcionarios israelíes hablan de un intento de secuestro por parte del copiloto omaní, mientras que Flydubai habla de una «altercación» entre pilotos. El avión descendió más de 17.000 pies; dos pilotos que viajaban como pasajeros lo aterrizaron. No se informó de pasajeros heridos. Hay varias investigaciones en curso, entre ellas una ordenada por el fiscal general de los Emiratos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "Agression dans le cockpit, chute d'altitude et déroutement vers Tabuk ; atterrissage assuré par deux pilotes passagers.",
+          "en": "Cockpit attack, sudden altitude loss and diversion to Tabuk; landing performed by two off-duty pilots.",
+          "es": "Agresión en la cabina, pérdida brusca de altitud y desvío a Tabuk; aterrizaje realizado por dos pilotos pasajeros."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "01/10/2026 – 06/10/2026",
+          "en": "01/10/2026 – 06/10/2026",
+          "es": "01/10/2026 – 06/10/2026"
+        },
+        "d": {
+          "fr": "Des enquêtes sont lancées (au moins quatre selon la presse) ; les versions israélienne et de la compagnie divergent.",
+          "en": "Investigations launched (at least four per press reports); Israeli and airline accounts differ.",
+          "es": "Se abren investigaciones (al menos cuatro según la prensa); las versiones israelí y de la aerolínea difieren."
+        },
+        "active": true
+      }
+    ],
+    "priority": 3
   }
 ]
