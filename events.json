@@ -829,5 +829,329 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "isaias-golfe-hurricane-watch",
+    "coords": [
+      -87.5,
+      30.3
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "National Hurricane Center / The Watchers / WGCU / Yale Climate Connections",
+    "related": [],
+    "priority": 1,
+    "place": {
+      "fr": "Côte nord du golfe du Mexique, États-Unis (Mississippi, Alabama, Floride)",
+      "en": "Northern Gulf Coast, United States (Mississippi, Alabama, Florida)",
+      "es": "Costa norte del golfo de México, Estados Unidos (Misisipi, Alabama, Florida)"
+    },
+    "title": {
+      "fr": "La tempête tropicale Isaias vise la côte du golfe : alertes ouragan émises",
+      "en": "Tropical Storm Isaias takes aim at the Gulf Coast: hurricane watches issued",
+      "es": "La tormenta tropical Isaias apunta a la costa del golfo: emiten vigilancias de huracán"
+    },
+    "summary": {
+      "fr": "La dépression tropicale n°9 s'est formée le 6 octobre dans le golfe et est devenue la tempête tropicale Isaias le 7 octobre. Le Centre national des ouragans (NHC) a émis des vigilances ouragan (de Bay St. Louis, Mississippi, à Indian Pass, Floride) et de submersion. Elle devrait devenir un ouragan jeudi et toucher terre vendredi ou durant le week-end près de la frontière Alabama-Floride ; l'intensité à l'arrivée reste incertaine (catégorie 1 ou 2, voire affaiblissement dû au cisaillement). Des surcotes de 1,5 à 2 m et des crues soudaines sont possibles.",
+      "en": "Tropical Depression Nine formed in the Gulf on October 6 and became Tropical Storm Isaias on October 7. The National Hurricane Center (NHC) issued hurricane watches (Bay St. Louis, Mississippi, to Indian Pass, Florida) and storm surge watches. It is forecast to become a hurricane Thursday and reach land Friday or over the weekend near the Alabama-Florida border; intensity at landfall is uncertain (Category 1 or 2, or weakening from wind shear and dry air). Surge of 5 to 7 feet and flash flooding are possible.",
+      "es": "La depresión tropical nueve se formó el 6 de octubre en el golfo y se convirtió en la tormenta tropical Isaias el 7 de octubre. El Centro Nacional de Huracanes (NHC) emitió vigilancias de huracán (de Bay St. Louis, Misisipi, a Indian Pass, Florida) y de marejada ciclónica. Se prevé que sea huracán el jueves y toque tierra el viernes o durante el fin de semana cerca de la frontera Alabama-Florida; la intensidad al llegar es incierta (categoría 1 o 2, o debilitamiento por cizalladura). Son posibles marejadas de 1,5 a 2 m e inundaciones repentinas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "06/10/2026",
+          "en": "06/10/2026",
+          "es": "06/10/2026"
+        },
+        "d": {
+          "fr": "Formation de la dépression tropicale n°9 dans le golfe ; aucune alerte côtière à ce stade.",
+          "en": "Tropical Depression Nine forms in the Gulf; no coastal watches yet.",
+          "es": "Se forma la depresión tropical nueve en el golfo; aún sin alertas costeras."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/10/2026",
+          "en": "07/10/2026",
+          "es": "07/10/2026"
+        },
+        "d": {
+          "fr": "La tempête Isaias se renforce ; le NHC émet des vigilances ouragan, submersion et tempête tropicale pour la côte nord du golfe.",
+          "en": "Isaias strengthens; the NHC issues hurricane, storm surge and tropical storm watches for the northern Gulf Coast.",
+          "es": "Isaias se fortalece; el NHC emite vigilancias de huracán, marejada y tormenta tropical para la costa norte del golfo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
+  },
+  {
+    "id": "bresil-presidentielle-second-tour",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Euronews / Africanews / WLRN",
+    "related": [],
+    "priority": 2,
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Présidentielle au Brésil : Flávio Bolsonaro et Lula iront au second tour",
+      "en": "Brazil election: Flávio Bolsonaro and Lula head to a runoff",
+      "es": "Elecciones en Brasil: Flávio Bolsonaro y Lula irán a segunda vuelta"
+    },
+    "summary": {
+      "fr": "À l'issue du premier tour du 4 octobre, aucun candidat n'a obtenu la majorité absolue. Selon le décompte du Tribunal supérieur électoral (plus de 99 % des bulletins), Flávio Bolsonaro (PL) arrive en tête avec environ 47 % des suffrages valides, devant le président sortant Lula (PT) avec environ 45 %. Le second tour est fixé au 25 octobre ; les totaux exacts varient légèrement selon les médias et le stade du dépouillement.",
+      "en": "After the October 4 first round, no candidate won an outright majority. According to the Superior Electoral Court count (over 99% of ballots), Flávio Bolsonaro (PL) leads with about 47% of valid votes, ahead of incumbent President Lula (PT) with about 45%. The runoff is set for October 25; exact totals vary slightly between outlets and counting stages.",
+      "es": "Tras la primera vuelta del 4 de octubre, ningún candidato obtuvo la mayoría absoluta. Según el recuento del Tribunal Superior Electoral (más del 99 % de las papeletas), Flávio Bolsonaro (PL) lidera con cerca del 47 % de los votos válidos, por delante del presidente Lula (PT) con cerca del 45 %. La segunda vuelta es el 25 de octubre; las cifras exactas varían ligeramente según los medios y la fase del escrutinio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : Flávio Bolsonaro (~47 %) devant Lula (~45 %).",
+          "en": "First round: Flávio Bolsonaro (~47%) ahead of Lula (~45%).",
+          "es": "Primera vuelta: Flávio Bolsonaro (~47 %) por delante de Lula (~45 %)."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026",
+          "en": "25/10/2026",
+          "es": "25/10/2026"
+        },
+        "d": {
+          "fr": "Second tour prévu.",
+          "en": "Runoff scheduled.",
+          "es": "Segunda vuelta prevista."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
+  },
+  {
+    "id": "us-rendements-obligataires-2002",
+    "coords": [
+      -74.0094,
+      40.7075
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Bloomberg / LSEG (via Reuters-style reports) / Business Today",
+    "related": [],
+    "priority": 1,
+    "place": {
+      "fr": "Wall Street, New York, États-Unis",
+      "en": "Wall Street, New York, United States",
+      "es": "Wall Street, Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Le rendement du Trésor américain à 10 ans atteint son plus haut depuis 2002",
+      "en": "The US 10-year Treasury yield hits its highest level since 2002",
+      "es": "El rendimiento del bono del Tesoro de EE. UU. a 10 años alcanza su máximo desde 2002"
+    },
+    "summary": {
+      "fr": "Le 1er octobre, le rendement du Trésor américain à 10 ans a brièvement atteint environ 5,34 %, plus haut depuis 2002, avant de reculer vers 5,24 %. Celui à 30 ans a atteint environ 5,67 %. Les analystes citent l'inflation persistante, des prix du pétrole élevés liés à la guerre au Moyen-Orient et des paris sur de nouvelles hausses de taux. Un nouveau pic à 5,34 % (10 ans) et 5,70 % (30 ans) a été rapporté lundi 5 octobre par une seule source secondaire. Les chiffres varient selon les sources (pic intrajournalier ou clôture).",
+      "en": "On October 1, the US 10-year Treasury yield briefly hit about 5.34%, the highest since 2002, before easing to around 5.24%. The 30-year reached about 5.67%. Analysts cite persistent inflation, high oil prices tied to the Middle East war and bets on further rate hikes. A renewed peak of 5.34% (10-year) and 5.70% (30-year) on Monday October 5 was reported by a single secondary source. Figures differ by source (intraday peak versus close).",
+      "es": "El 1 de octubre, el rendimiento del bono del Tesoro a 10 años llegó brevemente a cerca del 5,34 %, el máximo desde 2002, antes de bajar hacia el 5,24 %. El de 30 años alcanzó cerca del 5,67 %. Los analistas citan inflación persistente, precios del petróleo elevados por la guerra en Oriente Medio y apuestas por nuevas subidas de tipos. Un nuevo pico de 5,34 % (10 años) y 5,70 % (30 años) el lunes 5 de octubre procede de una sola fuente secundaria. Las cifras varían según la fuente (máximo intradía o cierre)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Le rendement à 10 ans touche ~5,34 % puis se détend.",
+          "en": "10-year yield touches ~5.34% then eases.",
+          "es": "El rendimiento a 10 años toca ~5,34 % y luego se modera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Nouvelle vente d'obligations signalée (source secondaire unique) ; actions en hausse.",
+          "en": "Renewed bond selloff reported (single secondary source); equities close higher.",
+          "es": "Nueva venta de bonos (fuente secundaria única); acciones al alza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
+  },
+  {
+    "id": "inde-delhi-emeutes-liberation-refusee",
+    "coords": [
+      77.2397,
+      28.6224
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Bar & Bench / LiveLaw / The Wire",
+    "related": [],
+    "priority": 2,
+    "place": {
+      "fr": "Haute Cour de Delhi, New Delhi, Inde",
+      "en": "Delhi High Court, New Delhi, India",
+      "es": "Tribunal Superior de Delhi, Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Inde : la Haute Cour de Delhi refuse à nouveau la libération sous caution d'Umar Khalid et Sharjeel Imam",
+      "en": "India: Delhi High Court again refuses bail to Umar Khalid and Sharjeel Imam",
+      "es": "India: el Tribunal Superior de Delhi vuelve a denegar la libertad bajo fianza a Umar Khalid y Sharjeel Imam"
+    },
+    "summary": {
+      "fr": "Le 30 septembre, la Haute Cour de Delhi a rejeté les appels d'Umar Khalid et de Sharjeel Imam, détenus dans l'affaire de « conspiration élargie » liée aux émeutes de 2020 à Delhi (loi UAPA). La cour a estimé ne pas pouvoir modifier les conditions fixées par la Cour suprême en janvier 2026 (fin de l'audition du témoin protégé ou un an après l'ordonnance). Les accusés font valoir un changement de circonstances ; la cour a jugé que leur rôle était distinct de celui des coaccusés libérés.",
+      "en": "On September 30, the Delhi High Court dismissed the appeals of Umar Khalid and Sharjeel Imam, held in the 2020 Delhi riots 'larger conspiracy' case (UAPA). The court said it could not alter the conditions set by the Supreme Court in January 2026 (completion of the protected witness's examination, or one year from the order). The accused argued a change in circumstances; the court held their role was distinct from that of released co-accused.",
+      "es": "El 30 de septiembre, el Tribunal Superior de Delhi rechazó los recursos de Umar Khalid y Sharjeel Imam, detenidos en el caso de 'conspiración mayor' de los disturbios de Delhi de 2020 (ley UAPA). El tribunal dijo no poder modificar las condiciones fijadas por el Tribunal Supremo en enero de 2026 (fin del examen del testigo protegido o un año desde la orden). Los acusados alegaron un cambio de circunstancias; el tribunal consideró su papel distinto al de los coacusados liberados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "30/09/2026",
+          "en": "30/09/2026",
+          "es": "30/09/2026"
+        },
+        "d": {
+          "fr": "La Haute Cour de Delhi refuse la libération sous caution.",
+          "en": "Delhi High Court refuses bail.",
+          "es": "El Tribunal Superior de Delhi deniega la fianza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
+  },
+  {
+    "id": "asiad-aichi-nagoya-bilan",
+    "coords": [
+      136.9066,
+      35.1815
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏅",
+    "source": "Khelnow / Onmanorama / UNI / CGTN",
+    "related": [],
+    "priority": 1,
+    "place": {
+      "fr": "Aichi-Nagoya, Japon",
+      "en": "Aichi-Nagoya, Japan",
+      "es": "Aichi-Nagoya, Japón"
+    },
+    "title": {
+      "fr": "Jeux asiatiques : la Chine en tête du tableau, le Japon deuxième, l'Inde quatrième",
+      "en": "Asian Games: China tops the table, Japan second, India fourth",
+      "es": "Juegos Asiáticos: China lidera el medallero, Japón segundo, India cuarta"
+    },
+    "summary": {
+      "fr": "Les Jeux asiatiques d'Aichi-Nagoya se sont achevés le 4 octobre. D'après le bilan final repris par plusieurs médias, la Chine termine première (169 or, 341 médailles), le Japon deuxième (83 or, 269 médailles), la Corée du Sud troisième (39 or, 150) et l'Inde quatrième (21 or, 85 médailles). Quelques chiffres diffèrent d'une source à l'autre. Doha accueillera l'édition de 2030.",
+      "en": "The Aichi-Nagoya Asian Games ended on October 4. According to the final tally reported by several outlets, China finished first (169 golds, 341 medals), Japan second (83 golds, 269 medals), South Korea third (39 golds, 150) and India fourth (21 golds, 85 medals). A few figures differ between sources. Doha will host the 2030 edition.",
+      "es": "Los Juegos Asiáticos de Aichi-Nagoya terminaron el 4 de octubre. Según el balance final de varios medios, China acabó primera (169 oros, 341 medallas), Japón segundo (83 oros, 269 medallas), Corea del Sur tercera (39 oros, 150) e India cuarta (21 oros, 85 medallas). Algunas cifras difieren según la fuente. Doha acogerá la edición de 2030."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Cérémonie de clôture ; la Chine termine en tête.",
+          "en": "Closing ceremony; China finishes on top.",
+          "es": "Ceremonia de clausura; China termina primera."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
+  },
+  {
+    "id": "ukraine-pourparlers-trilateraux-octobre",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🕊️",
+    "source": "Kyiv Independent / Liga.net / Deccan Chronicle",
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2,
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : Washington propose des pourparlers techniques trilatéraux avant fin octobre",
+      "en": "Ukraine: US proposes technical-level trilateral talks before end of October",
+      "es": "Ucrania: EE. UU. propone conversaciones técnicas trilaterales antes de fin de octubre"
+    },
+    "summary": {
+      "fr": "Le 4 octobre, le président Volodymyr Zelensky a indiqué que les États-Unis proposent des négociations de niveau technique entre l'Ukraine, la Russie et les États-Unis avant la fin du mois, et que Kyiv a confirmé être prête (aux Émirats ou ailleurs). Il attend la réponse de Moscou ; aucune date ni lieu n'est confirmé. Le Kremlin avait laissé entendre en septembre que des discussions à trois pourraient avoir lieu en octobre, sans renoncer à ses conditions. Parallèlement, les frappes se poursuivent : au moins 6 morts et 38 blessés signalés le 1er octobre par les autorités ukrainiennes.",
+      "en": "On October 4, President Volodymyr Zelensky said the US is proposing technical-level negotiations among Ukraine, Russia and the US before the end of the month, and that Kyiv confirmed it is ready (in the UAE or elsewhere). He awaits Moscow's reply; no date or venue is confirmed. The Kremlin signalled in September that three-way talks could occur in October while keeping its conditions. Meanwhile strikes continue: at least 6 dead and 38 injured were reported by Ukrainian authorities on October 1.",
+      "es": "El 4 de octubre, el presidente Volodímir Zelenski dijo que EE. UU. propone negociaciones técnicas entre Ucrania, Rusia y EE. UU. antes de fin de mes y que Kiev confirmó estar lista (en EAU u otro lugar). Espera la respuesta de Moscú; no hay fecha ni sede confirmadas. El Kremlin sugirió en septiembre que podrían celebrarse conversaciones a tres en octubre, manteniendo sus condiciones. Mientras tanto continúan los ataques: las autoridades ucranianas informaron el 1 de octubre de al menos 6 muertos y 38 heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Attaques russes : au moins 6 morts, 38 blessés selon les autorités ukrainiennes.",
+          "en": "Russian attacks: at least 6 dead, 38 injured, per Ukrainian authorities.",
+          "es": "Ataques rusos: al menos 6 muertos y 38 heridos, según autoridades ucranianas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Zelensky : Kyiv prête à des pourparlers techniques trilatéraux avant fin octobre ; réponse de Moscou attendue.",
+          "en": "Zelensky: Kyiv ready for trilateral technical talks by end of October; Moscow's reply awaited.",
+          "es": "Zelenski: Kiev lista para conversaciones técnicas trilaterales antes de fin de octubre; se espera respuesta de Moscú."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41"
   }
 ]
