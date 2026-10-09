@@ -829,5 +829,50 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "kramatorsk-bus-frappe",
+    "coords": [
+      37.5844,
+      48.7389
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "ABC News (Australie) / Kyiv Independent / CBC / Gulf News",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Kramatorsk, oblast de Donetsk, Ukraine",
+      "en": "Kramatorsk, Donetsk Oblast, Ukraine",
+      "es": "Kramatorsk, óblast de Donetsk, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe russe sur des bus à Kramatorsk fait au moins 33 morts, selon les autorités ukrainiennes",
+      "en": "A Russian strike on buses in Kramatorsk kills at least 33, Ukrainian authorities say",
+      "es": "Un ataque ruso contra autobuses en Kramatorsk deja al menos 33 muertos, según las autoridades ucranianas"
+    },
+    "summary": {
+      "fr": "Jeudi 8 octobre, deux bus de transport de passagers ont été touchés à Kramatorsk, près du front dans l'est de l'Ukraine. Selon les autorités locales citées par plusieurs médias, la police évoque une bombe planante ; le bilan est d'au moins 33 morts et de 18 à 22 blessés selon les sources, et les autorités les décrivent comme l'attaque isolée la plus meurtrière de 2026. Le président Zelensky a averti que le bilan pourrait encore s'alourdir. Le type exact de véhicules (minibus ou bus urbains) varie selon les récits. Le côté russe n'avait pas publié de version au moment de la rédaction ; ces informations proviennent des autorités ukrainiennes.",
+      "en": "On Thursday, October 8, two passenger buses were hit in Kramatorsk, near the front line in eastern Ukraine. According to local authorities cited by several outlets, police say a glide bomb was used; the toll is at least 33 dead and 18 to 22 wounded depending on the source, and authorities describe it as the deadliest single attack of 2026. President Zelensky warned the toll could still rise. The exact type of vehicle (minibuses or city buses) varies between accounts. No Russian account had been published at the time of writing; this information comes from Ukrainian authorities.",
+      "es": "El jueves 8 de octubre, dos autobuses de pasajeros fueron alcanzados en Kramatorsk, cerca del frente en el este de Ucrania. Según las autoridades locales citadas por varios medios, la policía habla de una bomba planeadora; el balance es de al menos 33 muertos y entre 18 y 22 heridos según la fuente, y las autoridades lo describen como el ataque aislado más mortífero de 2026. El presidente Zelenski advirtió de que la cifra podría aumentar. El tipo exacto de vehículo (microbuses o autobuses urbanos) varía según los relatos. No se había publicado una versión rusa al momento de redactar; esta información procede de las autoridades ucranianas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Frappe sur deux bus à Kramatorsk ; le bilan passe de 30 à au moins 33 morts selon les autorités ukrainiennes.",
+          "en": "Strike on two buses in Kramatorsk; the toll rises from 30 to at least 33 dead according to Ukrainian authorities.",
+          "es": "Ataque contra dos autobuses en Kramatorsk; el balance sube de 30 a al menos 33 muertos según las autoridades ucranianas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
   }
 ]
