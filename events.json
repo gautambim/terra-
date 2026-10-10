@@ -692,7 +692,7 @@
     "severe": true,
     "category": "securite",
     "icon": "⚠",
-    "source": "La Presse / franceinfo / Radio-Canada",
+    "source": "La Presse / franceinfo / Radio-Canada / AP",
     "week": "2026-W29",
     "place": {
       "fr": "Téhéran, Iran",
@@ -733,6 +733,19 @@
           "fr": "Les frappes reprennent entre les États-Unis et l'Iran, le détroit d'Ormuz est de nouveau bloqué.",
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Donald Trump affirme sur les réseaux sociaux que les États-Unis n'attaqueront pas l'Iran avant les élections de mi-mandat du 3 novembre et évoque des discussions « productives » ; l'Iran dit avoir reçu une contre-proposition américaine, selon l'AP. Des responsables américains évoquent l'arrivée possible d'un troisième porte-avions fin octobre.",
+          "en": "Donald Trump says on social media that the United States will not attack Iran before the 3 November midterm elections and cites 'productive' talks; Iran says it received a US counterproposal, according to AP. US officials mention a possible third aircraft carrier arriving at the end of October.",
+          "es": "Donald Trump afirma en redes sociales que Estados Unidos no atacará Irán antes de las elecciones de mitad de mandato del 3 de noviembre y habla de conversaciones « productivas »; Irán dice haber recibido una contrapropuesta estadounidense, según AP. Funcionarios estadounidenses mencionan la posible llegada de un tercer portaaviones a finales de octubre."
         },
         "active": true
       }
@@ -829,5 +842,65 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "pryluky-frappe",
+    "coords": [
+      32.3883,
+      50.5936
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Meduza / ITV News / Irish Examiner / Ukranews",
+    "week": "2026-W41",
+    "place": {
+      "fr": "Pryluky, région de Tchernihiv, Ukraine",
+      "en": "Pryluky, Chernihiv region, Ukraine",
+      "es": "Pryluky, región de Chernígov, Ucrania"
+    },
+    "title": {
+      "fr": "Une frappe de missile russe sur un immeuble fait au moins 22 morts à Pryluky",
+      "en": "Russian missile strike on an apartment building kills at least 22 in Pryluky",
+      "es": "Un ataque con misiles rusos contra un edificio deja al menos 22 muertos en Priluki"
+    },
+    "summary": {
+      "fr": "Un missile de croisière Kh-101 a détruit en partie un immeuble de cinq étages à Pryluky, dans le nord de l'Ukraine, le 7 octobre au matin, selon plusieurs médias (Meduza, ITV News, Irish Examiner). Le bilan est d'au moins 22 morts, dont cinq enfants, et une cinquantaine de blessés, selon les chiffres du 8 octobre ; il a évolué au fil des jours. Le président Zelensky parle d'un tir direct ; la ville a décrété trois jours de deuil. La frappe s'inscrit dans une attaque plus large de drones et de missiles. Les sources consultées ne rapportent pas la position de Moscou sur cette frappe précise.",
+      "en": "A Kh-101 cruise missile partly destroyed a five-story apartment building in Pryluky, northern Ukraine, on the morning of 7 October, according to several outlets (Meduza, ITV News, Irish Examiner). The toll is at least 22 dead, including five children, and about 54 injured, per 8 October figures; it rose over successive updates. President Zelensky described a direct hit; the city declared three days of mourning. The strike was part of a wider drone and missile attack. The sources consulted do not report Moscow's position on this specific strike.",
+      "es": "Un misil de crucero Kh-101 destruyó parcialmente un edificio de cinco plantas en Priluki, norte de Ucrania, en la mañana del 7 de octubre, según varios medios (Meduza, ITV News, Irish Examiner). El balance es de al menos 22 muertos, entre ellos cinco niños, y unos 54 heridos, según las cifras del 8 de octubre; aumentó en sucesivas actualizaciones. El presidente Zelenski habló de un impacto directo; la ciudad decretó tres días de luto. El ataque formó parte de una ofensiva más amplia de drones y misiles. Las fuentes consultadas no recogen la postura de Moscú sobre este ataque concreto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "07/10/2026",
+          "en": "07/10/2026",
+          "es": "07/10/2026"
+        },
+        "d": {
+          "fr": "Frappe sur l'immeuble ; 18 morts retrouvés dans la soirée.",
+          "en": "Strike on the building; 18 bodies recovered by evening.",
+          "es": "Ataque al edificio; 18 cuerpos recuperados por la noche."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Le bilan monte à 22 morts dont cinq enfants.",
+          "en": "Toll rises to 22 dead including five children.",
+          "es": "El balance sube a 22 muertos, cinco de ellos niños."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
   }
 ]
