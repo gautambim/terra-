@@ -734,6 +734,32 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Selon l'UKMTO, un pétrolier est interpellé par les Gardiens de la révolution (IRGC) à environ 11 milles nautiques au nord de Khasab (Oman) et reçoit l'ordre de faire demi-tour ; le commandant a obtempéré, une enquête est en cours.",
+          "en": "According to UKMTO, an inbound tanker is hailed by the IRGC about 11 nautical miles north of Khasab (Oman) and told to turn back; the master complied and an investigation is under way.",
+          "es": "Según la UKMTO, el IRGC interpela a un petrolero a unas 11 millas náuticas al norte de Khasab (Omán) y le ordena dar media vuelta; el capitán obedeció y se investiga el incidente."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Le Trésor américain annonce de nouvelles sanctions visant des personnes, des réseaux et 17 navires de la « flotte fantôme » iranienne, accusés de transporter du pétrole iranien vers l'Asie, selon Reuters et Al-Monitor.",
+          "en": "The US Treasury announces new sanctions targeting individuals, networks and 17 vessels of Iran's 'shadow fleet', accused of carrying Iranian oil to Asia, according to Reuters and Al-Monitor.",
+          "es": "El Tesoro de EE. UU. anuncia nuevas sanciones contra personas, redes y 17 buques de la «flota fantasma» iraní, acusados de transportar petróleo iraní a Asia, según Reuters y Al-Monitor."
+        },
         "active": true
       }
     ],
@@ -829,5 +855,224 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      37.5844,
+      48.7383
+    ],
+    "id": "kramatorsk-bus",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Al Jazeera / Kyiv Independent / Gulf News",
+    "place": {
+      "fr": "Kramatorsk, région de Donetsk, Ukraine",
+      "en": "Kramatorsk, Donetsk region, Ukraine",
+      "es": "Kramatorsk, región de Donetsk, Ucrania"
+    },
+    "title": {
+      "fr": "Frappe russe sur des bus à Kramatorsk : au moins 30 morts selon les autorités ukrainiennes",
+      "en": "Russian strike on buses in Kramatorsk: at least 30 dead, Ukrainian authorities say",
+      "es": "Ataque ruso contra autobuses en Kramatorsk: al menos 30 muertos, según las autoridades ucranianas"
+    },
+    "summary": {
+      "fr": "Le 8 octobre 2026, une bombe planante a touché des bus de transport en commun à Kramatorsk. Le bilan, d'abord de 12 morts selon le président Zelensky, est monté à au moins 30 puis 33 selon les autorités locales. La mairie indique qu'il n'y avait pas de cible militaire sur place ; Moscou n'avait pas commenté publiquement au moment des articles consultés. Les sources décrivent tantôt un arrêt de bus, tantôt deux bus.",
+      "en": "On October 8, 2026, a glide bomb hit public buses in Kramatorsk. The toll, initially 12 dead according to President Zelensky, rose to at least 30 and then 33 according to local authorities. The city council says there was no military target at the site; Moscow had not publicly commented at the time of the reports consulted. Sources describe either a bus stop or two buses.",
+      "es": "El 8 de octubre de 2026, una bomba planeadora alcanzó autobuses de transporte público en Kramatorsk. El balance, inicialmente de 12 muertos según el presidente Zelenski, subió a al menos 30 y luego 33 según las autoridades locales. El ayuntamiento afirma que no había objetivo militar en el lugar; Moscú no había comentado públicamente en el momento de los artículos consultados. Las fuentes hablan unas veces de una parada de autobús y otras de dos autobuses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Premier bilan : 12 morts selon Zelensky ; puis au moins 30, puis 33 morts selon les autorités locales. Le gouverneur de Donetsk suspend les transports publics à Kramatorsk et Sloviansk.",
+          "en": "First toll: 12 dead according to Zelensky; then at least 30, then 33 dead according to local authorities. The Donetsk governor suspends public transport in Kramatorsk and Sloviansk.",
+          "es": "Primer balance: 12 muertos según Zelenski; luego al menos 30 y después 33 según las autoridades locales. El gobernador de Donetsk suspende el transporte público en Kramatorsk y Sloviansk."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      46.6988,
+      24.9578
+    ],
+    "id": "riyad-aeroport-houthis",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛫",
+    "source": "Al Jazeera / Times of Israel / ABC News",
+    "place": {
+      "fr": "Aéroport international King Khalid, Riyad, Arabie saoudite",
+      "en": "King Khalid International Airport, Riyadh, Saudi Arabia",
+      "es": "Aeropuerto internacional King Khalid, Riad, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Attaques des Houthis contre l'aéroport de Riyad : trois morts selon Riyad",
+      "en": "Houthi attacks on Riyadh airport: three dead, Saudi authorities say",
+      "es": "Ataques de los hutíes contra el aeropuerto de Riad: tres muertos, según las autoridades saudíes"
+    },
+    "summary": {
+      "fr": "Le 8 octobre 2026, des attaques revendiquées par les Houthis ont visé l'aéroport de Riyad ; les autorités saoudiennes font état de trois Saoudiens tués, dont un pilote, de blessés de plusieurs nationalités et de dégâts matériels, dont un avion de Saudia. Plus de 130 vols ont été annulés le 9 octobre avant un retour à la normale annoncé par l'aviation civile. Les Houthis revendiquent des tirs de missiles balistiques ; le déroulé exact de toutes les frappes n'a pu être confirmé.",
+      "en": "On October 8, 2026, attacks claimed by the Houthis targeted Riyadh's airport; Saudi authorities report three Saudi nationals killed, including a pilot, wounded people of several nationalities and material damage, including to a Saudia aircraft. More than 130 flights were cancelled on October 9 before civil aviation announced a return to normal. The Houthis claim ballistic missile launches; the exact sequence of all strikes could not be confirmed.",
+      "es": "El 8 de octubre de 2026, ataques reivindicados por los hutíes alcanzaron el aeropuerto de Riad; las autoridades saudíes informan de tres saudíes muertos, entre ellos un piloto, heridos de varias nacionalidades y daños materiales, incluido un avión de Saudia. Más de 130 vuelos fueron cancelados el 9 de octubre antes de que la aviación civil anunciara la vuelta a la normalidad. Los hutíes reivindican lanzamientos de misiles balísticos; no se pudo confirmar la secuencia exacta de todos los ataques."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/10/2026",
+          "en": "08/10/2026",
+          "es": "08/10/2026"
+        },
+        "d": {
+          "fr": "Attaques contre l'aéroport King Khalid ; trois Saoudiens tués selon les autorités saoudiennes.",
+          "en": "Attacks on King Khalid airport; three Saudi nationals killed according to Saudi authorities.",
+          "es": "Ataques contra el aeropuerto King Khalid; tres saudíes muertos según las autoridades saudíes."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Plus de 130 vols annulés, puis réouverture et retour à la normale annoncé par l'aviation civile saoudienne.",
+          "en": "More than 130 flights cancelled, then reopening and return to normal announced by Saudi civil aviation.",
+          "es": "Más de 130 vuelos cancelados; después reapertura y vuelta a la normalidad anunciada por la aviación civil saudí."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41",
+    "related": [],
+    "priority": 3
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-presidentielle-t1",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳",
+    "source": "Al Jazeera / Reuters / MercoPress",
+    "place": {
+      "fr": "Brasilia, Brésil (scrutin national)",
+      "en": "Brasília, Brazil (national vote)",
+      "es": "Brasilia, Brasil (votación nacional)"
+    },
+    "title": {
+      "fr": "Brésil : Flávio Bolsonaro devance Lula au premier tour, second tour le 25 octobre",
+      "en": "Brazil: Flávio Bolsonaro edges Lula in first round, runoff on October 25",
+      "es": "Brasil: Flávio Bolsonaro supera a Lula en la primera vuelta; segunda vuelta el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Au premier tour de la présidentielle du 4 octobre 2026, aucun candidat n'a obtenu la majorité. Flávio Bolsonaro arrive en tête devant le président sortant Lula, avec environ 47 % contre 45 % des voix valides ; les pourcentages exacts diffèrent légèrement selon les médias (47,03 %/45,16 % d'après le TSE cité par Blueprint, 47,45 %/44,66 % d'après Reuters). Le second tour aura lieu le 25 octobre.",
+      "en": "In the first round of the October 4, 2026 presidential election, no candidate won a majority. Flávio Bolsonaro finished first ahead of incumbent Lula, with about 47% versus 45% of valid votes; exact percentages differ slightly between outlets (47.03%/45.16% per the TSE as cited by Blueprint, 47.45%/44.66% per Reuters). The runoff will be held on October 25.",
+      "es": "En la primera vuelta de las presidenciales del 4 de octubre de 2026, ningún candidato obtuvo la mayoría. Flávio Bolsonaro quedó primero por delante del presidente Lula, con alrededor del 47 % frente al 45 % de los votos válidos; los porcentajes exactos difieren ligeramente según los medios (47,03 %/45,16 % según el TSE citado por Blueprint, 47,45 %/44,66 % según Reuters). La segunda vuelta será el 25 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour de l'élection présidentielle.",
+          "en": "First round of the presidential election.",
+          "es": "Primera vuelta de la elección presidencial."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026",
+          "en": "25/10/2026",
+          "es": "25/10/2026"
+        },
+        "d": {
+          "fr": "Second tour prévu entre Flávio Bolsonaro et Lula.",
+          "en": "Runoff scheduled between Flávio Bolsonaro and Lula.",
+          "es": "Segunda vuelta prevista entre Flávio Bolsonaro y Lula."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      10.7266,
+      59.9139
+    ],
+    "id": "nobel-paix-2026",
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🕊",
+    "source": "Nobel Prize (nobelprize.org) / Khaleej Times / PBS",
+    "place": {
+      "fr": "Oslo, Norvège (Comité Nobel norvégien)",
+      "en": "Oslo, Norway (Norwegian Nobel Committee)",
+      "es": "Oslo, Noruega (Comité Nobel noruego)"
+    },
+    "title": {
+      "fr": "Le prix Nobel de la paix 2026 décerné à Navi Pillay",
+      "en": "2026 Nobel Peace Prize awarded to Navi Pillay",
+      "es": "El Premio Nobel de la Paz 2026 se concede a Navi Pillay"
+    },
+    "summary": {
+      "fr": "Le Comité Nobel norvégien a annoncé le 9 octobre 2026 que le prix Nobel de la paix revenait à Navanethem « Navi » Pillay, juriste sud-africaine des droits humains, pour son action en faveur de la paix et du droit international. Le comité avait reçu 287 candidatures. La cérémonie de remise est prévue le 10 décembre à Oslo.",
+      "en": "The Norwegian Nobel Committee announced on October 9, 2026 that the Nobel Peace Prize goes to Navanethem 'Navi' Pillay, a South African human rights jurist, for her work promoting peace and international law. The committee received 287 nominations. The award ceremony is scheduled for December 10 in Oslo.",
+      "es": "El Comité Nobel noruego anunció el 9 de octubre de 2026 que el Premio Nobel de la Paz es para Navanethem «Navi» Pillay, jurista sudafricana de derechos humanos, por su labor en favor de la paz y el derecho internacional. El comité recibió 287 candidaturas. La ceremonia de entrega está prevista para el 10 de diciembre en Oslo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Annonce du lauréat par le président du comité, Jørgen Watne Frydnes.",
+          "en": "Laureate announced by committee chair Jørgen Watne Frydnes.",
+          "es": "Anuncio de la galardonada por el presidente del comité, Jørgen Watne Frydnes."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/12/2026",
+          "en": "10/12/2026",
+          "es": "10/12/2026"
+        },
+        "d": {
+          "fr": "Cérémonie de remise prévue à Oslo.",
+          "en": "Award ceremony scheduled in Oslo.",
+          "es": "Ceremonia de entrega prevista en Oslo."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W41",
+    "related": [],
+    "priority": 3
   }
 ]
