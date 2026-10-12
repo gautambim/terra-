@@ -734,10 +734,25 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Les pourparlers États-Unis–Iran sont au point mort : Téhéran juge la dernière réponse américaine « insuffisante » ; le blocus naval américain se poursuit et des frappes visent le détroit d'Ormuz, selon CBS News et Al Jazeera. Washington évoque une possible reprise de la campagne après les élections de mi-mandat du 3 novembre.",
+          "en": "US–Iran talks are stalled: Tehran calls the latest US response 'insufficient'; the US naval blockade continues and attacks hit around the Strait of Hormuz, per CBS News and Al Jazeera. Washington has mentioned a possible resumption of its campaign after the November 3 midterms.",
+          "es": "Las conversaciones EE. UU.–Irán están estancadas: Teherán considera «insuficiente» la última respuesta estadounidense; el bloqueo naval continúa y hay ataques en torno al estrecho de Ormuz, según CBS News y Al Jazeera. Washington menciona una posible reanudación de la campaña tras las elecciones legislativas del 3 de noviembre."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "riyad-aeroport-houthis"
+    ],
     "priority": 2
   },
   {
@@ -823,6 +838,734 @@
           "fr": "Coup d'envoi du match Brésil-Norvège en huitièmes de finale, selon la FIFA.",
           "en": "Kickoff of the Brazil-Norway round of 16 match, according to FIFA.",
           "es": "Inicio del partido Brasil-Noruega en octavos de final, según la FIFA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "riyad-aeroport-houthis",
+    "coords": [
+      46.6989,
+      24.9576
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Reuters / Gulf News / Al Arabiya",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Aéroport de Riyad, Arabie saoudite",
+      "en": "Riyadh airport, Saudi Arabia",
+      "es": "Aeropuerto de Riad, Arabia Saudita"
+    },
+    "title": {
+      "fr": "Frappes sur l'aéroport de Riyad : au moins 12 morts selon les autorités saoudiennes",
+      "en": "Strikes on Riyadh airport: at least 12 dead, Saudi authorities say",
+      "es": "Ataques al aeropuerto de Riad: al menos 12 muertos según las autoridades saudíes"
+    },
+    "summary": {
+      "fr": "Des frappes visant l'aéroport de Riyad les 10 et 11 octobre auraient fait au moins 12 morts et 309 blessés selon les autorités saoudiennes ; certains médias évoquent 13 morts. Riyad les attribue aux Houthis. L'Arabie saoudite, l'Égypte, le Pakistan et la Turquie ont condamné les attaques dans un communiqué commun le 11 octobre. Plusieurs compagnies ont suspendu leurs vols. Les Houthis n'ont pas été entendus dans les sources consultées.",
+      "en": "Strikes on Riyadh airport on October 10 and 11 reportedly killed at least 12 people and wounded 309, according to Saudi authorities; some outlets report 13 dead. Riyadh attributes them to the Houthis. Saudi Arabia, Egypt, Pakistan and Turkey condemned the attacks in a joint statement on October 11. Several airlines suspended flights. The Houthi side was not heard in the sources consulted.",
+      "es": "Los ataques contra el aeropuerto de Riad del 10 y 11 de octubre habrían causado al menos 12 muertos y 309 heridos según las autoridades saudíes; algunos medios hablan de 13 muertos. Riad los atribuye a los hutíes. Arabia Saudita, Egipto, Pakistán y Turquía los condenaron en un comunicado conjunto el 11 de octubre. Varias aerolíneas suspendieron vuelos. La versión hutí no figura en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/10/2026",
+          "en": "10/10/2026",
+          "es": "10/10/2026"
+        },
+        "d": {
+          "fr": "Première frappe sur l'aéroport de Riyad ; bilan initial d'au moins 12 morts selon les autorités saoudiennes.",
+          "en": "First strike on Riyadh airport; initial toll of at least 12 dead according to Saudi authorities.",
+          "es": "Primer ataque contra el aeropuerto de Riad; balance inicial de al menos 12 muertos según las autoridades saudíes."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Deuxième attaque signalée ; communiqué commun Arabie saoudite, Égypte, Pakistan, Turquie exigeant l'arrêt immédiat des attaques.",
+          "en": "Second attack reported; joint Saudi Arabia, Egypt, Pakistan, Turkey statement demands an immediate halt to the attacks.",
+          "es": "Se informa de un segundo ataque; comunicado conjunto de Arabia Saudita, Egipto, Pakistán y Turquía exige el cese inmediato de los ataques."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "trump-zelensky-diesel",
+    "coords": [
+      -77.0365,
+      38.8977
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Axios / Washington Post / CBS News",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Washington, États-Unis / Kyiv, Ukraine",
+      "en": "Washington, United States / Kyiv, Ukraine",
+      "es": "Washington, EE. UU. / Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Accord diesel États-Unis–Russie : Trump appelle l'Ukraine à « un nouveau président »",
+      "en": "US–Russia diesel deal: Trump says Ukraine should 'get a new president'",
+      "es": "Acuerdo del diésel EE. UU.–Rusia: Trump dice que Ucrania debe «tener un nuevo presidente»"
+    },
+    "summary": {
+      "fr": "Le 9 octobre, Donald Trump a annoncé un accord avec la Russie levant des sanctions pour permettre des exportations de diesel russe. Le 10, il a déclaré qu'il était « temps que l'Ukraine ait un nouveau président ». Un responsable américain cité par Axios affirme que Volodymyr Zelensky avait ignoré plusieurs demandes de cesser les frappes sur des raffineries russes ; Zelensky juge l'accord un « cadeau » à Poutine et estime que le choix du dirigeant revient aux Ukrainiens. Le 11, Trump a annoncé un « cessez-le-feu énergétique » ; Kyiv affirme que des attaques russes continuent.",
+      "en": "On October 9, Donald Trump announced a deal with Russia lifting sanctions to allow Russian diesel exports. On the 10th he said it was 'time for Ukraine to get a new president'. A US official cited by Axios says Volodymyr Zelensky had ignored several requests to stop strikes on Russian refineries; Zelensky called the deal a 'gift' to Putin and said the choice of leader is up to Ukrainians. On the 11th Trump announced an 'energy ceasefire'; Kyiv says Russian attacks continue.",
+      "es": "El 9 de octubre, Donald Trump anunció un acuerdo con Rusia que levanta sanciones para permitir exportaciones de diésel ruso. El 10 dijo que era «hora de que Ucrania tenga un nuevo presidente». Un funcionario estadounidense citado por Axios afirma que Volodímir Zelenski ignoró varias peticiones de detener los ataques a refinerías rusas; Zelenski calificó el acuerdo de «regalo» a Putin y dijo que elegir al líder corresponde a los ucranianos. El 11, Trump anunció un «alto el fuego energético»; Kiev afirma que los ataques rusos continúan."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Trump annonce un accord avec la Russie sur les exportations de diesel.",
+          "en": "Trump announces a deal with Russia on diesel exports.",
+          "es": "Trump anuncia un acuerdo con Rusia sobre exportaciones de diésel."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "10/10/2026",
+          "en": "10/10/2026",
+          "es": "10/10/2026"
+        },
+        "d": {
+          "fr": "Trump déclare que l'Ukraine devrait avoir un nouveau président ; Zelensky répond que c'est aux Ukrainiens de choisir.",
+          "en": "Trump says Ukraine should have a new president; Zelensky replies that Ukrainians decide.",
+          "es": "Trump dice que Ucrania debería tener un nuevo presidente; Zelenski responde que deciden los ucranianos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Trump annonce un « cessez-le-feu énergétique » ; contenu flou, Kyiv signale des attaques russes persistantes.",
+          "en": "Trump announces an 'energy ceasefire'; terms unclear, Kyiv reports continued Russian attacks.",
+          "es": "Trump anuncia un «alto el fuego energético»; términos poco claros, Kiev denuncia ataques rusos persistentes."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "marches-petrole-diesel",
+    "coords": [
+      -74.009,
+      40.706
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "ABC News (Australie) / Sunday Guardian",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Marchés mondiaux (New York, Londres)",
+      "en": "Global markets (New York, London)",
+      "es": "Mercados mundiales (Nueva York, Londres)"
+    },
+    "title": {
+      "fr": "Le pétrole recule après l'annonce d'un « cessez-le-feu énergétique »",
+      "en": "Oil prices ease after 'energy ceasefire' announcement",
+      "es": "El petróleo retrocede tras el anuncio de un «alto el fuego energético»"
+    },
+    "summary": {
+      "fr": "Le 12 octobre, le Brent reculait d'environ 1,2 % vers 103 $ le baril et le WTI d'environ 1,6 % vers 90 $, selon ABC News ; le gasoil européen perdait environ 3 % après l'annonce d'une livraison de diesel russe. Les prix avaient d'abord progressé tôt le matin. Les chiffres, relevés à des heures différentes, sont approximatifs. En Inde, le Sensex et le Nifty étaient en nette baisse, les cours élevés du pétrole et la hausse des rendements pesant sur les investisseurs.",
+      "en": "On October 12, Brent was down about 1.2% near $103 a barrel and WTI about 1.6% near $90, according to ABC News; European gasoil fell about 3% after the announcement of Russian diesel supplies. Prices had initially edged up early in the day. Figures were taken at different times and are approximate. In India the Sensex and Nifty fell sharply, with high oil prices and rising bond yields weighing on investors.",
+      "es": "El 12 de octubre el Brent bajaba cerca de un 1,2 % hasta unos 103 $ el barril y el WTI cerca de un 1,6 % hasta unos 90 $, según ABC News; el gasóleo europeo caía en torno al 3 % tras el anuncio de suministros de diésel ruso. Los precios habían subido al principio del día. Las cifras se tomaron en horas distintas y son aproximadas. En la India el Sensex y el Nifty caían con fuerza, con el petróleo caro y el alza de los rendimientos pesando sobre los inversores."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Brent et WTI reculent ; le gasoil européen baisse d'environ 3 %.",
+          "en": "Brent and WTI retreat; European gasoil falls about 3%.",
+          "es": "El Brent y el WTI retroceden; el gasóleo europeo cae en torno al 3 %."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "trump-zelensky-diesel",
+      "iran-conflit-reprise"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "france-sondage-presidentielle",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳",
+    "source": "Reuters",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Présidentielle 2027 : un sondage place Le Pen et Mélenchon au second tour",
+      "en": "2027 presidential race: poll puts Le Pen and Mélenchon in the run-off",
+      "es": "Presidenciales 2027: un sondeo sitúa a Le Pen y Mélenchon en la segunda vuelta"
+    },
+    "summary": {
+      "fr": "Selon un sondage Toluna Harris Interactive réalisé du 5 au 8 octobre et rapporté par Reuters, Marine Le Pen et Jean-Luc Mélenchon se qualifieraient pour le second tour dans tous les scénarios testés. Le Pen arriverait en tête du premier tour avec 35 à 37 % des voix. Le premier tour est prévu en avril 2027. Il s'agit d'un sondage, non d'un résultat.",
+      "en": "A Toluna Harris Interactive poll conducted October 5–8 and reported by Reuters shows Marine Le Pen and Jean-Luc Mélenchon reaching the run-off in every scenario tested. Le Pen would lead the first round with 35–37% of votes. The first round is scheduled for April 2027. This is a poll, not a result.",
+      "es": "Un sondeo de Toluna Harris Interactive realizado del 5 al 8 de octubre y difundido por Reuters sitúa a Marine Le Pen y Jean-Luc Mélenchon en la segunda vuelta en todos los escenarios probados. Le Pen lideraría la primera vuelta con entre 35 y 37 % de los votos. La primera vuelta está prevista para abril de 2027. Se trata de un sondeo, no de un resultado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Reuters publie les résultats du sondage Toluna Harris Interactive (5–8 octobre).",
+          "en": "Reuters publishes the Toluna Harris Interactive poll results (Oct 5–8).",
+          "es": "Reuters publica los resultados del sondeo de Toluna Harris Interactive (5–8 de octubre)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "allemagne-bas-demission",
+    "coords": [
+      13.3777,
+      52.5186
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛",
+    "source": "Reuters / Anadolu / Il Sole 24 Ore",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Allemagne : la ministre du Travail Bärbel Bas démissionne après le décès de sa belle-fille",
+      "en": "Germany: Labour Minister Bärbel Bas resigns after stepdaughter's death",
+      "es": "Alemania: la ministra de Trabajo Bärbel Bas dimite tras la muerte de su hijastra"
+    },
+    "summary": {
+      "fr": "Le 12 octobre, Bärbel Bas a quitté le gouvernement et la co-présidence du SPD, invoquant le décès de sa belle-fille et la nécessité de faire son deuil, ainsi que des critiques accrues, y compris de partenaires de la coalition. Elle conserve son siège au Bundestag. Alexander Schweitzer lui succède au ministère du Travail. Lars Klingbeil a jugé « indécentes » les attaques à son encontre ; la CDU/CSU l'accusait de retarder des réformes, notamment des retraites.",
+      "en": "On October 12, Bärbel Bas left the cabinet and the SPD co-leadership, citing the death of her stepdaughter and the need to grieve, as well as intensified criticism, including from coalition partners. She keeps her Bundestag seat. Alexander Schweitzer succeeds her as labour minister. Lars Klingbeil called attacks on her 'indecent'; the CDU/CSU had accused her of delaying reforms, notably on pensions.",
+      "es": "El 12 de octubre, Bärbel Bas dejó el gobierno y la copresidencia del SPD, alegando la muerte de su hijastra y la necesidad de hacer el duelo, así como las críticas crecientes, incluso de socios de la coalición. Conserva su escaño en el Bundestag. Alexander Schweitzer la sustituye en Trabajo. Lars Klingbeil calificó de «indecentes» los ataques contra ella; la CDU/CSU la acusaba de retrasar reformas, en particular las pensiones."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Bas annonce sa démission ; Alexander Schweitzer prend le ministère du Travail.",
+          "en": "Bas announces her resignation; Alexander Schweitzer takes over the labour ministry.",
+          "es": "Bas anuncia su dimisión; Alexander Schweitzer asume el ministerio de Trabajo."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bresil-second-tour",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳",
+    "source": "CNN / Council on Foreign Relations",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : Lula et Flávio Bolsonaro au second tour de la présidentielle le 25 octobre",
+      "en": "Brazil: Lula and Flávio Bolsonaro head to October 25 presidential runoff",
+      "es": "Brasil: Lula y Flávio Bolsonaro van a la segunda vuelta presidencial del 25 de octubre"
+    },
+    "summary": {
+      "fr": "Aucun candidat n'ayant dépassé 50 % au premier tour du 4 octobre, Luiz Inácio Lula da Silva et Flávio Bolsonaro s'affronteront le 25 octobre. Selon l'analyse du CFR, Flávio Bolsonaro a obtenu environ 47 % et Lula environ 45 %. CNN souligne que les voix des candidats éliminés (7,82 %) vont surtout vers la droite et le centre droit. Des seconds tours de gouverneurs auront lieu le même jour, notamment à São Paulo.",
+      "en": "With no candidate above 50% in the October 4 first round, Luiz Inácio Lula da Silva and Flávio Bolsonaro will face each other on October 25. According to CFR's analysis, Flávio Bolsonaro took about 47% and Lula about 45%. CNN notes that votes of eliminated candidates (7.82%) went mostly to the right and centre-right. Governor runoffs will be held the same day, including in São Paulo.",
+      "es": "Al no superar ningún candidato el 50 % en la primera vuelta del 4 de octubre, Luiz Inácio Lula da Silva y Flávio Bolsonaro se enfrentarán el 25 de octubre. Según el análisis del CFR, Flávio Bolsonaro obtuvo cerca del 47 % y Lula cerca del 45 %. CNN señala que los votos de los candidatos eliminados (7,82 %) fueron sobre todo a la derecha y centroderecha. Ese día también habrá segundas vueltas para gobernadores, entre ellas São Paulo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : aucun candidat n'atteint 50 %.",
+          "en": "First round: no candidate reaches 50%.",
+          "es": "Primera vuelta: ningún candidato alcanza el 50 %."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026 (prévu)",
+          "en": "25/10/2026 (prévu)",
+          "es": "25/10/2026 (prévu)"
+        },
+        "d": {
+          "fr": "Second tour prévu entre Lula et Flávio Bolsonaro.",
+          "en": "Runoff scheduled between Lula and Flávio Bolsonaro.",
+          "es": "Segunda vuelta prevista entre Lula y Flávio Bolsonaro."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "inde-listes-electorales-manifestations",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "✊",
+    "source": "Associated Press",
+    "week": "2026-W42",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "New Delhi : l'opposition marche vers la Cour suprême sur fond de manifestations sur les listes électorales",
+      "en": "New Delhi: opposition marches to Supreme Court as voter-list protests escalate",
+      "es": "Nueva Delhi: la oposición marcha hacia el Tribunal Supremo en medio de protestas por los censos electorales"
+    },
+    "summary": {
+      "fr": "Selon l'AP, des partis d'opposition ont marché vers la Cour suprême le 12 octobre pour protester contre la révision des listes électorales, qui aurait retiré plus de 130 millions d'électeurs. La police a placé en détention des milliers de manifestants ce week-end, dont des responsables du mouvement de jeunes « Cockroach ». Le BJP et la Commission électorale rejettent les accusations de manipulation et parlent de retirer des doublons et des inscrits non éligibles. Six stations de métro ont été fermées. Source unique à ce stade.",
+      "en": "According to AP, opposition parties marched toward the Supreme Court on October 12 to protest the revision of voter lists, which reportedly removed more than 130 million voters. Police detained thousands of demonstrators over the weekend, including leaders of the 'Cockroach' youth movement. The BJP and the Election Commission reject allegations of manipulation, saying the aim is to remove duplicate and ineligible names. Six metro stations were closed. Single source so far.",
+      "es": "Según AP, partidos de la oposición marcharon hacia el Tribunal Supremo el 12 de octubre para protestar por la revisión de los censos electorales, que habría eliminado a más de 130 millones de votantes. La policía detuvo a miles de manifestantes el fin de semana, incluidos líderes del movimiento juvenil «Cockroach». El BJP y la Comisión Electoral rechazan las acusaciones de manipulación y dicen que se trata de eliminar duplicados y no elegibles. Se cerraron seis estaciones de metro. Por ahora, una sola fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/10–11/10/2026",
+          "en": "10/10–11/10/2026",
+          "es": "10/10–11/10/2026"
+        },
+        "d": {
+          "fr": "Manifestations et large déploiement policier ; milliers de détentions, dont des dirigeants du mouvement.",
+          "en": "Protests and heavy police deployment; thousands detained, including movement leaders.",
+          "es": "Protestas y fuerte despliegue policial; miles de detenidos, incluidos líderes del movimiento."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Marche de l'opposition vers la Cour suprême ; six stations de métro fermées.",
+          "en": "Opposition march toward the Supreme Court; six metro stations closed.",
+          "es": "Marcha de la oposición hacia el Tribunal Supremo; seis estaciones de metro cerradas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "japon-takaichi-rendements",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "💴",
+    "source": "Bloomberg / The Japan Times",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Japon : Takaichi prête à revoir les dépenses si les rendements obligataires s'envolent",
+      "en": "Japan: Takaichi open to reviewing spending if bond yields spike",
+      "es": "Japón: Takaichi dispuesta a revisar el gasto si se disparan los rendimientos de los bonos"
+    },
+    "summary": {
+      "fr": "La Première ministre Sanae Takaichi a déclaré au Parlement, le 7 octobre, que le gouvernement pourrait restructurer des programmes et revoir dépenses et recettes en cas de mouvement brusque des rendements, après un record du rendement à 30 ans. La session d'automne (jusqu'au 12 décembre) examine notamment une baisse de la taxe de consommation sur l'alimentation de 8 % à 1 % sur deux ans dès avril 2027, pour un manque à gagner annoncé d'environ 5 000 milliards de yens par an. Certains analystes jugent que le changement de ton n'équivaut pas à un changement de politique.",
+      "en": "Prime Minister Sanae Takaichi told parliament on October 7 that the government could restructure programmes and review spending and revenues if yields move sharply, after the 30-year yield hit a record. The autumn session (to December 12) is considering, among other bills, cutting the consumption tax on food from 8% to 1% over two years from April 2027, with a stated revenue shortfall of about ¥5 trillion a year. Some analysts say the change in tone does not equal a change in policy.",
+      "es": "La primera ministra Sanae Takaichi dijo al Parlamento el 7 de octubre que el gobierno podría reestructurar programas y revisar gastos e ingresos si los rendimientos se mueven bruscamente, tras un récord del rendimiento a 30 años. La sesión de otoño (hasta el 12 de diciembre) examina, entre otros, un recorte del impuesto al consumo de alimentos del 8 % al 1 % en dos años desde abril de 2027, con un déficit de ingresos declarado de unos 5 billones de yenes al año. Algunos analistas opinan que el cambio de tono no implica un cambio de política."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "05/10/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Ouverture de la session d'automne de la Diète ; discours de politique générale de Takaichi.",
+          "en": "Autumn Diet session opens; Takaichi delivers her policy speech.",
+          "es": "Se abre la sesión de otoño de la Dieta; discurso de política general de Takaichi."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/10/2026",
+          "en": "07/10/2026",
+          "es": "07/10/2026"
+        },
+        "d": {
+          "fr": "Takaichi évoque une révision possible des dépenses si les rendements bougent fortement.",
+          "en": "Takaichi raises possible spending review if yields move sharply.",
+          "es": "Takaichi plantea una posible revisión del gasto si los rendimientos se mueven con fuerza."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nepal-inondations-disparus",
+    "coords": [
+      85.324,
+      27.7172
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "AFP / Asia Business Daily",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Népal",
+      "en": "Nepal",
+      "es": "Nepal"
+    },
+    "title": {
+      "fr": "Népal : les disparus des inondations pourront être déclarés morts après 45 jours",
+      "en": "Nepal: flood-missing can be declared dead after 45 days",
+      "es": "Nepal: los desaparecidos por las inundaciones podrán declararse muertos tras 45 días"
+    },
+    "summary": {
+      "fr": "Le président Ram Chandra Poudel a promulgué le 9 octobre une ordonnance ramenant de 12 ans à 45 jours le délai pour déclarer morts les disparus de catastrophes, afin que les familles puissent obtenir certificats de décès, indemnisations et transferts de biens. Les inondations du 26 août ont fait au moins 1 455 morts confirmés et 5 285 disparus au 10 octobre, selon des chiffres relayés par l'AFP ; d'autres sources donnent des chiffres légèrement différents selon la date.",
+      "en": "President Ram Chandra Poudel issued an ordinance on October 9 cutting from 12 years to 45 days the waiting period to declare disaster-missing people dead, so families can obtain death certificates, compensation and property transfers. The August 26 floods left at least 1,455 confirmed dead and 5,285 missing as of October 10, according to figures relayed by AFP; other sources give slightly different numbers depending on the date.",
+      "es": "El presidente Ram Chandra Poudel promulgó el 9 de octubre una ordenanza que reduce de 12 años a 45 días el plazo para declarar muertos a los desaparecidos en catástrofes, para que las familias obtengan certificados de defunción, indemnizaciones y traspasos de bienes. Las inundaciones del 26 de agosto dejaron al menos 1.455 muertos confirmados y 5.285 desaparecidos al 10 de octubre, según cifras difundidas por AFP; otras fuentes dan cifras algo distintas según la fecha."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "26/08/2026",
+          "en": "26/08/2026",
+          "es": "26/08/2026"
+        },
+        "d": {
+          "fr": "Inondations dévastatrices au Népal.",
+          "en": "Devastating floods hit Nepal.",
+          "es": "Inundaciones devastadoras en Nepal."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Ordonnance présidentielle réduisant à 45 jours le délai de déclaration de décès des disparus.",
+          "en": "Presidential ordinance cuts to 45 days the period to declare the missing dead.",
+          "es": "Ordenanza presidencial reduce a 45 días el plazo para declarar muertos a los desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "indonesie-padang-inondations",
+    "coords": [
+      100.3543,
+      -0.9492
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧",
+    "source": "Xinhua",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Padang, Sumatra occidental, Indonésie",
+      "en": "Padang, West Sumatra, Indonesia",
+      "es": "Padang, Sumatra Occidental, Indonesia"
+    },
+    "title": {
+      "fr": "Indonésie : des pluies intenses provoquent des inondations à Padang",
+      "en": "Indonesia: heavy rains trigger floods in Padang",
+      "es": "Indonesia: lluvias intensas provocan inundaciones en Padang"
+    },
+    "summary": {
+      "fr": "Xinhua rapporte que des secouristes ont évacué des habitants après des inondations provoquées par de fortes pluies à Padang, dans la province de Sumatra occidental, le 10 octobre. Aucun bilan n'était disponible dans les éléments consultés. Source unique.",
+      "en": "Xinhua reports that rescuers evacuated residents after floods caused by heavy rain in Padang, West Sumatra province, on October 10. No casualty figures were available in the material consulted. Single source.",
+      "es": "Xinhua informa de que equipos de rescate evacuaron a residentes tras inundaciones causadas por fuertes lluvias en Padang, provincia de Sumatra Occidental, el 10 de octubre. No había cifras de víctimas en el material consultado. Una sola fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/10/2026",
+          "en": "10/10/2026",
+          "es": "10/10/2026"
+        },
+        "d": {
+          "fr": "Fortes pluies et inondations à Padang ; évacuations par les secouristes.",
+          "en": "Heavy rain and floods in Padang; rescuers carry out evacuations.",
+          "es": "Fuertes lluvias e inundaciones en Padang; evacuaciones por los equipos de rescate."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "chine-sanctions-paraguay-belize",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "securite",
+    "icon": "🇨🇳",
+    "source": "South China Morning Post",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "La Chine sanctionne des ministres du Paraguay et du Belize pour leur soutien à Taïwan",
+      "en": "China sanctions Paraguayan and Belizean ministers over Taiwan support",
+      "es": "China sanciona a ministros de Paraguay y Belice por su apoyo a Taiwán"
+    },
+    "summary": {
+      "fr": "Selon le South China Morning Post, Pékin a sanctionné des ministres du Paraguay et du Belize en raison de leur soutien à Taïwan. Les deux pays figurent parmi les 12 qui entretiennent des relations diplomatiques avec Taipei. La nature exacte des sanctions et l'identité des personnes visées n'étaient pas précisées dans les éléments consultés ; la réaction de ces gouvernements n'est pas connue. Source unique.",
+      "en": "According to the South China Morning Post, Beijing sanctioned ministers from Paraguay and Belize over their support for Taiwan. Both countries are among the 12 that maintain diplomatic relations with Taipei. The exact nature of the sanctions and the individuals targeted were not specified in the material consulted; the governments' reactions are not known. Single source.",
+      "es": "Según el South China Morning Post, Pekín sancionó a ministros de Paraguay y Belice por su apoyo a Taiwán. Ambos países son dos de los 12 que mantienen relaciones diplomáticas con Taipéi. La naturaleza exacta de las sanciones y las personas afectadas no se precisaban en el material consultado; se desconoce la reacción de esos gobiernos. Una sola fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Le SCMP rapporte les sanctions de Pékin.",
+          "en": "SCMP reports Beijing's sanctions.",
+          "es": "El SCMP informa de las sanciones de Pekín."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nigeria-nlc-carburant",
+    "coords": [
+      7.4898,
+      9.0579
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "Premium Times / NigerianEye / Daily Nigerian",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Abuja, Nigéria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuja, Nigeria"
+    },
+    "title": {
+      "fr": "Nigéria : le NLC pousse le gouvernement sur les prix de l'essence et le salaire minimum",
+      "en": "Nigeria: NLC presses government over petrol prices and minimum wage",
+      "es": "Nigeria: el NLC presiona al gobierno por los precios de la gasolina y el salario mínimo"
+    },
+    "summary": {
+      "fr": "Des médias nigérians rapportent que le Nigeria Labour Congress (NLC) a donné deux semaines au gouvernement pour baisser les prix de l'essence et renégocier le salaire minimum. Un autre média évoque une grève du NLC en cours, avec une consigne « pas de travail, pas de salaire » pour les enseignants dans le FCT ; les comptes rendus diffèrent et la situation exacte reste à préciser. Le ministre des Finances a averti que l'essence pourrait atteindre au moins 2 000 nairas le litre si la subvention revenait.",
+      "en": "Nigerian outlets report that the Nigeria Labour Congress (NLC) gave the government two weeks to cut petrol prices and renegotiate the minimum wage. Another outlet mentions an ongoing NLC strike, with a 'no work, no pay' order for teachers in the FCT; accounts differ and the exact situation remains to be clarified. The finance minister warned petrol could reach at least ₦2,000 per litre if the subsidy returned.",
+      "es": "Medios nigerianos informan de que el Nigeria Labour Congress (NLC) dio al gobierno dos semanas para bajar los precios de la gasolina y renegociar el salario mínimo. Otro medio menciona una huelga del NLC en curso, con una orden de «sin trabajo, sin paga» para docentes del FCT; los relatos difieren y la situación exacta está por aclarar. El ministro de Finanzas advirtió de que la gasolina podría llegar al menos a 2.000 nairas por litro si volviera la subvención."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/10–11/10/2026",
+          "en": "09/10–11/10/2026",
+          "es": "09/10–11/10/2026"
+        },
+        "d": {
+          "fr": "Ultimatum du NLC et tensions sociales autour des prix du carburant, selon la presse nigériane.",
+          "en": "NLC ultimatum and labour tensions over fuel prices, per Nigerian press.",
+          "es": "Ultimátum del NLC y tensión laboral por los precios del combustible, según la prensa nigeriana."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "angleterre-city-liverpool",
+    "coords": [
+      -2.9608,
+      53.4308
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "Fox Sports / NaijaNews",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Anfield, Liverpool, Royaume-Uni",
+      "en": "Anfield, Liverpool, United Kingdom",
+      "es": "Anfield, Liverpool, Reino Unido"
+    },
+    "title": {
+      "fr": "Premier League : Manchester City s'impose 3-0 à Liverpool",
+      "en": "Premier League: Manchester City win 3-0 at Liverpool",
+      "es": "Premier League: el Manchester City gana 3-0 en Liverpool"
+    },
+    "summary": {
+      "fr": "Manchester City a battu Liverpool 3-0 le 11 octobre, enchaînant une sixième victoire consécutive, selon Fox Sports ; Liverpool a terminé à dix.",
+      "en": "Manchester City beat Liverpool 3-0 on October 11 for a sixth straight win, according to Fox Sports; Liverpool finished with ten men.",
+      "es": "El Manchester City venció 3-0 al Liverpool el 11 de octubre y encadenó su sexta victoria seguida, según Fox Sports; el Liverpool terminó con diez."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Coup de sifflet final : Liverpool 0 – Manchester City 3.",
+          "en": "Full time: Liverpool 0 – Manchester City 3.",
+          "es": "Final del partido: Liverpool 0 – Manchester City 3."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "nascar-charlotte-briscoe",
+    "coords": [
+      -80.683,
+      35.352
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "sport",
+    "icon": "🏁",
+    "source": "Racing News",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Charlotte Motor Speedway, Caroline du Nord, États-Unis",
+      "en": "Charlotte Motor Speedway, North Carolina, United States",
+      "es": "Charlotte Motor Speedway, Carolina del Norte, EE. UU."
+    },
+    "title": {
+      "fr": "NASCAR : Chase Briscoe remporte la course de Charlotte",
+      "en": "NASCAR: Chase Briscoe wins at Charlotte",
+      "es": "NASCAR: Chase Briscoe gana en Charlotte"
+    },
+    "summary": {
+      "fr": "Chase Briscoe a remporté la Bank of America 400 à Charlotte le 11 octobre, selon Racing News, après un sprint final contre un rival. Source unique.",
+      "en": "Chase Briscoe won the Bank of America 400 at Charlotte on October 11, according to Racing News, after a final-lap drag race with a rival. Single source.",
+      "es": "Chase Briscoe ganó el Bank of America 400 en Charlotte el 11 de octubre, según Racing News, tras un duelo final con un rival. Una sola fuente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Briscoe s'impose à Charlotte.",
+          "en": "Briscoe wins at Charlotte.",
+          "es": "Briscoe gana en Charlotte."
         },
         "active": true
       }
