@@ -829,5 +829,350 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "ukraine-treve-energetique",
+    "coords": [
+      36.2304,
+      49.9935
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "ABC News / ITV News / Ukrainska Pravda",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Kharkiv, Ukraine",
+      "en": "Kharkiv, Ukraine",
+      "es": "Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "Trêve énergétique annoncée par Trump ; une centrale de Kharkiv frappée quelques heures plus tard",
+      "en": "Trump announces energy ceasefire; Kharkiv power plant hit hours later",
+      "es": "Trump anuncia una tregua energética; una central de Járkov es atacada horas después"
+    },
+    "summary": {
+      "fr": "Le 11 octobre, Donald Trump a annoncé que la Russie et l'Ukraine avaient accepté une « trêve énergétique » immédiate. Volodymyr Zelensky dit que Kyïv est prêt à l'accepter si Moscou fait de même, mais que la centrale thermique de Kharkiv a été touchée quelques heures après l'annonce. Il évoque plus de 200 frappes sur des installations énergétiques en une semaine. La Russie n'avait pas encore réagi dans les sources consultées.",
+      "en": "On October 11, Donald Trump announced that Russia and Ukraine had agreed to an immediate \"energy ceasefire\". Volodymyr Zelenskyy says Kyiv is ready to accept it if Moscow does too, but that the Kharkiv thermal power plant was hit hours after the announcement. He cites more than 200 strikes on energy facilities in a week. Russia had not yet responded in the sources consulted.",
+      "es": "El 11 de octubre, Donald Trump anunció que Rusia y Ucrania habían aceptado una «tregua energética» inmediata. Volodímir Zelenski dice que Kiev está dispuesto a aceptarla si Moscú también lo hace, pero que la central térmica de Járkov fue alcanzada horas después del anuncio. Menciona más de 200 ataques a instalaciones energéticas en una semana. Rusia aún no había reaccionado en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Trump annonce la trêve ; la centrale de Kharkiv est touchée ; Zelensky se dit prêt à l'accepter.",
+          "en": "Trump announces the truce; the Kharkiv plant is hit; Zelenskyy says Kyiv is ready to accept it.",
+          "es": "Trump anuncia la tregua; la central de Járkov es alcanzada; Zelenski dice estar dispuesto a aceptarla."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "fairford-complot",
+    "coords": [
+      -1.79,
+      51.682
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛡️",
+    "source": "Al Jazeera / Khaleej Times / Al-Monitor",
+    "week": "2026-W42",
+    "place": {
+      "fr": "RAF Fairford, Gloucestershire, Royaume-Uni",
+      "en": "RAF Fairford, Gloucestershire, United Kingdom",
+      "es": "RAF Fairford, Gloucestershire, Reino Unido"
+    },
+    "title": {
+      "fr": "Complot présumé près de la base de Fairford : Londres évoque un rôle de l'Iran, Téhéran dément",
+      "en": "Suspected plot near RAF Fairford: London points to Iran's involvement, Tehran denies",
+      "es": "Presunto complot cerca de la base de Fairford: Londres apunta a Irán, Teherán lo niega"
+    },
+    "summary": {
+      "fr": "Cinq Britanniques d'une vingtaine d'années ont été arrêtés pour terrorisme et infractions liées aux explosifs près de la base de Fairford, utilisée par les forces américaines, puis libérés sous caution. Le Premier ministre Andy Burnham parle de « fortes indications » d'un rôle de l'Iran ; l'enquête est en cours et aucun détail n'a été donné. L'Iran nie toute implication. Un média affirme que des bombardiers américains ont quitté la base, ce que le Pentagone n'a pas confirmé.",
+      "en": "Five British men in their 20s were arrested on suspicion of terrorism and explosives offences near RAF Fairford, a base used by US forces, and later released on bail. Prime Minister Andy Burnham cites \"strong indications\" of Iranian involvement; the investigation is ongoing and no details were given. Iran denies any involvement. One outlet reports US bombers left the base, which the Pentagon has not confirmed.",
+      "es": "Cinco británicos de unos veinte años fueron detenidos por terrorismo y delitos con explosivos cerca de la base de Fairford, usada por fuerzas estadounidenses, y luego liberados bajo fianza. El primer ministro Andy Burnham habla de «fuertes indicios» de una implicación de Irán; la investigación sigue y no se dieron detalles. Irán niega cualquier implicación. Un medio afirma que bombarderos estadounidenses abandonaron la base, algo que el Pentágono no ha confirmado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Le gouvernement britannique évoque un possible rôle de l'Iran ; Téhéran dément.",
+          "en": "The UK government points to a possible Iranian role; Tehran denies it.",
+          "es": "El Gobierno británico apunta a un posible papel de Irán; Teherán lo niega."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "renoir-tableaux-retrouves",
+    "coords": [
+      7.1494,
+      43.6636
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🖼️",
+    "source": "KSL (AP) / Arab News",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Cagnes-sur-Mer, Alpes-Maritimes, France",
+      "en": "Cagnes-sur-Mer, Alpes-Maritimes, France",
+      "es": "Cagnes-sur-Mer, Alpes-Maritimes, Francia"
+    },
+    "title": {
+      "fr": "Deux Renoir volés au musée de Cagnes-sur-Mer retrouvés, six personnes arrêtées",
+      "en": "Two Renoirs stolen from the Cagnes-sur-Mer museum recovered, six arrested",
+      "es": "Recuperados dos Renoir robados del museo de Cagnes-sur-Mer; seis detenidos"
+    },
+    "summary": {
+      "fr": "Deux tableaux de Renoir dérobés le 8 septembre au musée Renoir de Cagnes-sur-Mer ont été retrouvés le 9 octobre et six personnes ont été arrêtées, selon les médias cités. Les médias divergent sur l'identité exacte des deux œuvres récupérées et les circonstances de la découverte n'ont pas été précisées.",
+      "en": "Two Renoir paintings stolen on September 8 from the Renoir Museum in Cagnes-sur-Mer were recovered on October 9 and six people were arrested, according to the outlets cited. Reports differ on the exact titles of the two works recovered, and the circumstances of the recovery have not been detailed.",
+      "es": "Dos cuadros de Renoir robados el 8 de septiembre del museo Renoir de Cagnes-sur-Mer fueron recuperados el 9 de octubre y seis personas fueron detenidas, según los medios citados. Los medios difieren sobre los títulos exactos de las dos obras y no se han detallado las circunstancias del hallazgo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "08/09/2026",
+          "en": "08/09/2026",
+          "es": "08/09/2026"
+        },
+        "d": {
+          "fr": "Cambriolage du musée : quatre œuvres volées, deux abandonnées dans le jardin.",
+          "en": "Museum burglary: four works stolen, two abandoned in the garden.",
+          "es": "Robo en el museo: cuatro obras sustraídas, dos abandonadas en el jardín."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Deux tableaux retrouvés ; six arrestations.",
+          "en": "Two paintings recovered; six arrests.",
+          "es": "Dos cuadros recuperados; seis detenciones."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "huanggang-nouveau-poste",
+    "coords": [
+      114.0667,
+      22.53
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛂",
+    "source": "China Daily HK / The Standard (HK)",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Poste-frontière de Huanggang, Shenzhen – Hong Kong",
+      "en": "Huanggang Port, Shenzhen – Hong Kong",
+      "es": "Puesto fronterizo de Huanggang, Shenzhen – Hong Kong"
+    },
+    "title": {
+      "fr": "Le nouveau poste-frontière de Huanggang ouvre entre Shenzhen et Hong Kong",
+      "en": "New Huanggang Port opens between Shenzhen and Hong Kong",
+      "es": "Abre el nuevo puesto fronterizo de Huanggang entre Shenzhen y Hong Kong"
+    },
+    "summary": {
+      "fr": "Le nouveau bâtiment du poste de Huanggang est entré en service le 12 octobre à 6 h 30, avec un passage des voyageurs 24 h/24. Les anciens services de Huanggang et de Lok Ma Chau sont suspendus pour les passagers. Les capacités annoncées varient selon les sources (50 000 à 100 000 passages par jour au démarrage selon l'une, 200 000 selon une autre).",
+      "en": "The new Huanggang Port building began operating at 6:30am on October 12, with 24-hour passenger clearance. Passenger services at the old Huanggang and Lok Ma Chau facilities are suspended. Announced capacity differs by source (50,000–100,000 trips a day initially per one, 200,000 per another).",
+      "es": "El nuevo edificio del puesto de Huanggang entró en servicio el 12 de octubre a las 6:30, con control de pasajeros las 24 horas. Se suspenden los servicios de pasajeros en las antiguas instalaciones de Huanggang y Lok Ma Chau. La capacidad anunciada varía según la fuente (50.000–100.000 pasos diarios al inicio según una, 200.000 según otra)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Ouverture du nouveau poste à 6 h 30.",
+          "en": "New port opens at 6:30am.",
+          "es": "Apertura del nuevo puesto a las 6:30."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "bresil-second-tour",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "ITV News / AP / Africanews",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Brésil (scrutin national)",
+      "en": "Brazil (nationwide vote)",
+      "es": "Brasil (votación nacional)"
+    },
+    "title": {
+      "fr": "Présidentielle au Brésil : Lula et Flávio Bolsonaro au second tour le 25 octobre",
+      "en": "Brazil's election: Lula and Flávio Bolsonaro head to an Oct. 25 runoff",
+      "es": "Elecciones en Brasil: Lula y Flávio Bolsonaro van a segunda vuelta el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Aucun candidat n'ayant obtenu la majorité au premier tour du 4 octobre, le président Lula affrontera le sénateur Flávio Bolsonaro au second tour le 25 octobre. Les chiffres du premier tour varient légèrement selon les versions de l'AP (environ 55,8 à 56 millions de voix pour Bolsonaro, 53,2 à 53,7 millions pour Lula). Le prochain mandat débute le 5 janvier 2027.",
+      "en": "With no candidate winning a majority in the October 4 first round, President Lula will face Senator Flávio Bolsonaro in a runoff on October 25. First-round figures differ slightly between AP versions (about 55.8–56 million votes for Bolsonaro, 53.2–53.7 million for Lula). The next term begins January 5, 2027.",
+      "es": "Al no lograr ningún candidato la mayoría en la primera vuelta del 4 de octubre, el presidente Lula se enfrentará al senador Flávio Bolsonaro en la segunda vuelta el 25 de octubre. Las cifras de la primera vuelta varían ligeramente entre versiones de AP (unos 55,8–56 millones de votos para Bolsonaro, 53,2–53,7 millones para Lula). El próximo mandato comienza el 5 de enero de 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : second tour nécessaire.",
+          "en": "First round: runoff needed.",
+          "es": "Primera vuelta: se necesita segunda vuelta."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026",
+          "en": "25/10/2026",
+          "es": "25/10/2026"
+        },
+        "d": {
+          "fr": "Second tour prévu.",
+          "en": "Runoff scheduled.",
+          "es": "Segunda vuelta prevista."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "doj-chaines-tv",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "NPR / Alaska Dispatch News (AP)",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Washington, D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington D. C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Le ministère de la Justice enquête sur cinq chaînes de TV pour pratiques anticoncurrentielles présumées",
+      "en": "Justice Department investigates five TV networks over possible antitrust violations",
+      "es": "El Departamento de Justicia investiga a cinco cadenas de TV por posibles violaciones antimonopolio"
+    },
+    "summary": {
+      "fr": "Le ministère de la Justice a ouvert une enquête antitrust visant ABC, CBS, CNN, Fox News et NBC au sujet de leur suspension coordonnée de la couverture en pool de la Maison-Blanche le mois dernier, après l'interdiction d'accès faite à CNN, MS NOW et Politico. Le département estime que les boycotts concertés entre concurrents peuvent enfreindre le Sherman Act. Les chaînes n'ont pas commenté ; des organisations de défense de la presse dénoncent une tentative d'intimidation.",
+      "en": "The Justice Department opened an antitrust investigation into ABC, CBS, CNN, Fox News and NBC over their coordinated suspension of White House pool coverage last month, after CNN, MS NOW and Politico were barred from White House grounds. The department says group boycotts among competitors can violate the Sherman Act. The networks did not comment; press freedom groups call it an attempt at intimidation.",
+      "es": "El Departamento de Justicia abrió una investigación antimonopolio contra ABC, CBS, CNN, Fox News y NBC por su suspensión coordinada de la cobertura conjunta de la Casa Blanca el mes pasado, tras vetarse el acceso a CNN, MS NOW y Politico. El departamento sostiene que los boicots concertados entre competidores pueden infringir la Ley Sherman. Las cadenas no comentaron; organizaciones de prensa lo califican de intento de intimidación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/10/2026",
+          "en": "10/10/2026",
+          "es": "10/10/2026"
+        },
+        "d": {
+          "fr": "Le ministère annonce l'enquête.",
+          "en": "The department announces the probe.",
+          "es": "El departamento anuncia la investigación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coree-nord-missile-oct",
+    "coords": [
+      127.4461,
+      39.1528
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Ground News (agrégateur) / état-major sud-coréen",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Région de Wonsan, Corée du Nord",
+      "en": "Wonsan area, North Korea",
+      "es": "Zona de Wonsan, Corea del Norte"
+    },
+    "title": {
+      "fr": "Tir de missile nord-coréen depuis la région de Wonsan",
+      "en": "North Korean missile launch from the Wonsan area",
+      "es": "Lanzamiento de misil norcoreano desde la zona de Wonsan"
+    },
+    "summary": {
+      "fr": "Le 3 octobre, l'état-major sud-coréen a détecté un tir depuis la région de Wonsan vers 6 h 30 (heure locale), d'une portée de plus de 700 km, retombé probablement en mer. Les sources divergent : la plupart parlent d'un missile balistique, d'autres d'un projectile non identifié. Séoul a tenu une réunion d'urgence et coordonne avec Washington et Tokyo, dans un contexte de tensions après des explosions de mines à la frontière.",
+      "en": "On October 3, South Korea's Joint Chiefs of Staff detected a launch from the Wonsan area at around 6:30am local time, travelling more than 700 km and likely landing in the sea. Sources differ: most call it a ballistic missile, others an unidentified projectile. Seoul held an emergency meeting and is coordinating with Washington and Tokyo, amid tensions over mine blasts at the border.",
+      "es": "El 3 de octubre, el Estado Mayor Conjunto surcoreano detectó un lanzamiento desde la zona de Wonsan hacia las 6:30 hora local, con un alcance de más de 700 km y probable caída en el mar. Las fuentes difieren: la mayoría habla de un misil balístico, otras de un proyectil no identificado. Seúl celebró una reunión de emergencia y coordina con Washington y Tokio, en un contexto de tensión por explosiones de minas en la frontera."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "03/10/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "Tir détecté depuis Wonsan.",
+          "en": "Launch detected from Wonsan.",
+          "es": "Lanzamiento detectado desde Wonsan."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
   }
 ]
