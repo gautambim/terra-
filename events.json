@@ -829,5 +829,598 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "pape-leon-chirurgie-poumon",
+    "coords": [
+      12.4306,
+      41.9292
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏥",
+    "source": "AP / WBUR / Reuters",
+    "week": "2026-W42",
+    "priority": 1,
+    "place": {
+      "fr": "Polyclinique Gemelli, Rome, Italie",
+      "en": "Gemelli Hospital, Rome, Italy",
+      "es": "Hospital Gemelli, Roma, Italia"
+    },
+    "title": {
+      "fr": "Le pape Léon XIV opéré d'une lésion au poumon",
+      "en": "Pope Leo XIV undergoes lung surgery",
+      "es": "El papa León XIV, operado de una lesión pulmonar"
+    },
+    "summary": {
+      "fr": "Le pape Léon XIV a annoncé le 11 octobre qu'il serait opéré pour retirer un nodule au poumon, découvert lors d'un contrôle médical et décrit comme détecté tôt et localisé. Le Vatican a ensuite annoncé l'intervention le mardi 13 octobre ; la convalescence est estimée à environ une semaine. Les comptes rendus divergent sur la nature de la lésion : les premiers communiqués relayés par l'AP ne disent pas si elle est cancéreuse, tandis qu'un résumé d'actualité du 13 octobre évoque une tumeur cancéreuse. Ce point n'est pas confirmé. Le voyage prévu en Amérique latine en novembre n'a pas fait l'objet d'annonce de modification.",
+      "en": "Pope Leo XIV announced on 11 October that he would have surgery to remove a lung nodule, found during a medical check and described as caught early and localized. The Vatican then announced the operation on Tuesday 13 October; recovery is expected to take about a week. Accounts differ on the nature of the lesion: the first AP-relayed statements did not say whether it is cancerous, while a 13 October news roundup refers to a cancerous growth. This is not confirmed. No change to his planned November Latin America trip has been announced.",
+      "es": "El papa León XIV anunció el 11 de octubre que se sometería a una cirugía para extirpar un nódulo pulmonar, hallado en un control médico y descrito como detectado a tiempo y localizado. El Vaticano comunicó después la operación para el martes 13 de octubre; la recuperación se estima en una semana. Los relatos difieren sobre la naturaleza de la lesión: los primeros comunicados difundidos por AP no precisan si es cancerosa, mientras que un resumen informativo del 13 de octubre habla de un tumor canceroso. Este punto no está confirmado. No se ha anunciado cambio en su viaje a América Latina de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Le pape annonce son opération prochaine.",
+          "en": "The pope announces upcoming surgery.",
+          "es": "El papa anuncia su próxima operación."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "13/10/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "Le Vatican annonce l'intervention chirurgicale.",
+          "en": "The Vatican announces the surgery.",
+          "es": "El Vaticano anuncia la intervención quirúrgica."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "ukraine-cessez-le-feu-energetique",
+    "coords": [
+      36.2304,
+      49.9935
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "AP / ABC News / ITV / Euronews",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "Kharkiv, Ukraine",
+      "en": "Kharkiv, Ukraine",
+      "es": "Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "« Cessez-le-feu énergétique » annoncé par Trump, frappes signalées à Kharkiv",
+      "en": "Trump announces 'energy ceasefire'; strikes reported on Kharkiv plant",
+      "es": "Trump anuncia una «tregua energética»; se informa de ataques en Járkov"
+    },
+    "summary": {
+      "fr": "Le 11 octobre, Donald Trump a annoncé sur les réseaux sociaux un « cessez-le-feu énergétique » entre la Russie et l'Ukraine, sans en donner les détails. Selon les autorités ukrainiennes et Volodymyr Zelensky, la centrale thermique CHP-5 de Kharkiv a été frappée au moins deux fois le soir même, provoquant un incendie, et une centrale de Kyïv a aussi été visée ; d'autres installations gazières auraient été attaquées ensuite. Moscou n'avait pas confirmé l'accord ni commenté au moment des reportages. Zelensky dit avoir appris l'annonce via les réseaux sociaux et que l'Ukraine s'y conformera si la Russie fait de même.",
+      "en": "On 11 October, Donald Trump announced on social media an 'energy ceasefire' between Russia and Ukraine, without giving details. According to Ukrainian officials and Volodymyr Zelensky, Kharkiv's CHP-5 thermal plant was struck at least twice that evening, causing a fire, and a plant in Kyiv was also targeted; gas facilities were reportedly attacked afterwards. Moscow had not confirmed any agreement or commented at the time of reporting. Zelensky said he learned of the announcement from social media and that Ukraine would comply if Russia does the same.",
+      "es": "El 11 de octubre, Donald Trump anunció en redes sociales una «tregua energética» entre Rusia y Ucrania, sin dar detalles. Según las autoridades ucranianas y Volodímir Zelenski, la central térmica CHP-5 de Járkov fue alcanzada al menos dos veces esa noche, provocando un incendio, y también se atacó una central en Kiev; después habrían sido atacadas instalaciones de gas. Moscú no había confirmado ningún acuerdo ni comentado al momento de los reportes. Zelenski dijo haberse enterado por las redes sociales y que Ucrania cumplirá si Rusia hace lo mismo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Annonce de Trump ; frappes signalées sur Kharkiv et Kyïv le soir même.",
+          "en": "Trump's announcement; strikes reported on Kharkiv and Kyiv the same evening.",
+          "es": "Anuncio de Trump; ataques reportados en Járkov y Kiev esa misma noche."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ]
+  },
+  {
+    "id": "djibouti-naufrage-migrants",
+    "coords": [
+      43.29,
+      11.97
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Al Jazeera / Reuters / SCMP / The National (OIM)",
+    "week": "2026-W42",
+    "priority": 3,
+    "place": {
+      "fr": "Au large d'Obock, Djibouti",
+      "en": "Off Obock, Djibouti",
+      "es": "Frente a Obock, Yibuti"
+    },
+    "title": {
+      "fr": "Naufrage d'un bateau de migrants au large de Djibouti : au moins 139 morts",
+      "en": "Migrant boat sinks off Djibouti: at least 139 dead",
+      "es": "Naufragio de una embarcación de migrantes frente a Yibuti: al menos 139 muertos"
+    },
+    "summary": {
+      "fr": "Un bateau surchargé qui transportait environ 305 personnes, en majorité des Éthiopiens, a chaviré dans la nuit du 8 au 9 octobre près de Guhere, au nord d'Obock, en route vers le Yémen. Selon l'agence onusienne des migrations (OIM), le bilan s'élève à au moins 139 morts, dont 15 enfants, et 84 disparus ; plus de 80 rescapés. Les premiers bilans faisaient état de 109 morts et de plus de 100 disparus ; Al Jazeera précise que le chiffre ne comprend que les corps enterrés par les autorités, et que le nombre de passagers varie selon les sources (305 à 350).",
+      "en": "An overcrowded boat carrying about 305 people, mostly Ethiopians, capsized overnight on 8–9 October near Guhere, north of Obock, on its way to Yemen. According to the UN migration agency (IOM), the toll stands at at least 139 dead, including 15 children, and 84 missing; more than 80 survived. Early reports cited 109 dead and over 100 missing; Al Jazeera notes the figure only counts bodies buried by authorities, and passenger numbers vary by source (305 to 350).",
+      "es": "Una embarcación sobrecargada con unas 305 personas, en su mayoría etíopes, volcó en la noche del 8 al 9 de octubre cerca de Guhere, al norte de Obock, rumbo a Yemen. Según la agencia de la ONU para las migraciones (OIM), el balance es de al menos 139 muertos, entre ellos 15 niños, y 84 desaparecidos; más de 80 sobrevivieron. Los primeros balances hablaban de 109 muertos y más de 100 desaparecidos; Al Jazeera precisa que la cifra solo incluye los cuerpos enterrados por las autoridades, y que el número de pasajeros varía según las fuentes (305 a 350)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "L'OIM annonce un bilan d'au moins 139 morts et 84 disparus.",
+          "en": "IOM announces a toll of at least 139 dead and 84 missing.",
+          "es": "La OIM anuncia un balance de al menos 139 muertos y 84 desaparecidos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "chine-ue-vehicules-hybrides",
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🚗",
+    "source": "CGTN / electrive / CnEVPost / MLex",
+    "week": "2026-W42",
+    "priority": 1,
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Chine et UE : accord sur les hybrides, lectures divergentes",
+      "en": "China and EU reach hybrid-vehicle understanding; accounts differ",
+      "es": "China y la UE: entendimiento sobre híbridos, con lecturas distintas"
+    },
+    "summary": {
+      "fr": "Lors de discussions à Pékin les 8 et 9 octobre entre le ministre chinois du Commerce Wang Wentao et le commissaire européen Maroš Šefčovič, les deux parties ont trouvé un terrain d'entente sur les exportations de véhicules hybrides vers l'UE ; les discussions sur les véhicules électriques se poursuivent. Selon le ministère chinois du Commerce, il s'agit d'un « arrangement à la hausse » prenant 2025 pour base (302 000 hybrides chinois importés par l'UE). Selon M. Šefčovič, l'accord réduirait de moitié les exportations d'hybrides classiques et rechargeables. Les détails techniques restent à finaliser et aucun cadre complet n'a été publié.",
+      "en": "During talks in Beijing on 8–9 October between China's Commerce Minister Wang Wentao and EU Trade Commissioner Maroš Šefčovič, the two sides reached an understanding on hybrid vehicle exports to the EU; talks on electric vehicles continue. China's Ministry of Commerce calls it an 'upward arrangement' using 2025 as the baseline (302,000 Chinese hybrids imported by the EU). Šefčovič said the deal would halve exports of conventional and plug-in hybrids. Technical details remain to be finalized and no full framework has been published.",
+      "es": "En conversaciones en Pekín los días 8 y 9 de octubre entre el ministro chino de Comercio Wang Wentao y el comisario europeo Maroš Šefčovič, ambas partes alcanzaron un entendimiento sobre las exportaciones de vehículos híbridos a la UE; continúan las negociaciones sobre vehículos eléctricos. El Ministerio de Comercio chino lo describe como un «arreglo al alza» con 2025 como base (302.000 híbridos chinos importados por la UE). Šefčovič afirmó que el acuerdo reduciría a la mitad las exportaciones de híbridos convencionales y enchufables. Los detalles técnicos están pendientes y no se ha publicado un marco completo."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Fin des consultations à Pékin ; entente sur les hybrides.",
+          "en": "Consultations in Beijing end; understanding on hybrids.",
+          "es": "Concluyen las consultas en Pekín; entendimiento sobre híbridos."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Pékin et Bruxelles présentent des lectures différentes de l'accord.",
+          "en": "Beijing and Brussels give differing readings of the deal.",
+          "es": "Pekín y Bruselas dan lecturas diferentes del acuerdo."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "coree-nord-missiles-octobre",
+    "coords": [
+      125.7625,
+      39.0392
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "Nippon.com / Kyodo / Yonhap / Reuters",
+    "week": "2026-W42",
+    "priority": 3,
+    "place": {
+      "fr": "Environs de Pyongyang, Corée du Nord",
+      "en": "Near Pyongyang, North Korea",
+      "es": "Cerca de Pionyang, Corea del Norte"
+    },
+    "title": {
+      "fr": "La Corée du Nord tire au moins deux missiles balistiques en mer du Japon",
+      "en": "North Korea fires at least two ballistic missiles into the Sea of Japan",
+      "es": "Corea del Norte lanza al menos dos misiles balísticos al mar de Japón"
+    },
+    "summary": {
+      "fr": "Le 12 octobre au matin, la Corée du Nord a tiré au moins deux missiles balistiques depuis les environs de Pyongyang, selon l'armée sud-coréenne. Le Japon estime que l'un a parcouru environ 220 km et l'autre environ 910 km, avec des trajectoires peut-être irrégulières ; ils sont tombés hors de la zone économique exclusive japonaise et aucun dégât n'a été signalé. Tokyo et Séoul ont condamné les tirs ; Séoul a réuni son Conseil de sécurité nationale. Il s'agit du quatrième tir en un mois selon un média.",
+      "en": "On the morning of 12 October, North Korea fired at least two ballistic missiles from near Pyongyang, according to South Korea's military. Japan estimates one flew about 220 km and the other about 910 km, possibly on irregular trajectories; they landed outside Japan's exclusive economic zone and no damage was reported. Tokyo and Seoul condemned the launches; Seoul convened its National Security Council. One outlet describes it as the fourth launch in a month.",
+      "es": "En la mañana del 12 de octubre, Corea del Norte disparó al menos dos misiles balísticos desde las inmediaciones de Pionyang, según el ejército surcoreano. Japón estima que uno recorrió unos 220 km y el otro unos 910 km, posiblemente con trayectorias irregulares; cayeron fuera de la zona económica exclusiva japonesa y no se reportaron daños. Tokio y Seúl condenaron los disparos; Seúl reunió a su Consejo de Seguridad Nacional. Un medio lo describe como el cuarto lanzamiento en un mes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Tirs de missiles balistiques ; condamnation par Tokyo et Séoul.",
+          "en": "Ballistic missile launches; condemned by Tokyo and Seoul.",
+          "es": "Lanzamientos de misiles balísticos; condena de Tokio y Seúl."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "omar-perquisition-domicile",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖️",
+    "source": "Al Jazeera / AP / Fox News",
+    "week": "2026-W42",
+    "priority": 1,
+    "place": {
+      "fr": "Washington D.C., États-Unis",
+      "en": "Washington, D.C., United States",
+      "es": "Washington D.C., Estados Unidos"
+    },
+    "title": {
+      "fr": "Perquisition au domicile de la représentante Ilhan Omar",
+      "en": "Federal agents search Rep. Ilhan Omar's home",
+      "es": "Registro en el domicilio de la congresista Ilhan Omar"
+    },
+    "summary": {
+      "fr": "Le 12 octobre au matin, des agents fédéraux de Homeland Security Investigations ont perquisitionné, sur mandat, le domicile de la représentante démocrate Ilhan Omar dans la région de Washington, selon l'AP et Al Jazeera. Le département de la Justice a confirmé l'existence d'un mandat sans nommer Mme Omar ni décrire l'enquête. Fox News, citant des sources anonymes, évoque des documents d'immigration de son père ; ce point n'est pas confirmé officiellement. Aucune inculpation n'a été annoncée. Mme Omar y voit une tentative de cibler des opposants politiques et dit qu'elle ne sera « pas réduite au silence ».",
+      "en": "On the morning of 12 October, federal Homeland Security Investigations agents searched, under warrant, the Washington-area home of Democratic Rep. Ilhan Omar, according to AP and Al Jazeera. The Justice Department confirmed a warrant without naming Omar or describing the investigation. Fox News, citing anonymous sources, links the probe to her late father's immigration paperwork; this is not officially confirmed. No charges have been announced. Omar called it an attempt to target political opponents and said she 'will not be silenced'.",
+      "es": "En la mañana del 12 de octubre, agentes federales de Homeland Security Investigations registraron, con una orden judicial, el domicilio de la congresista demócrata Ilhan Omar en el área de Washington, según AP y Al Jazeera. El Departamento de Justicia confirmó la orden sin nombrar a Omar ni describir la investigación. Fox News, citando fuentes anónimas, lo vincula con documentos de inmigración de su padre; esto no está confirmado oficialmente. No se han anunciado cargos. Omar lo calificó como un intento de atacar a opositores políticos y dijo que «no será silenciada»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Perquisition ; le département de la Justice confirme un mandat.",
+          "en": "Search carried out; Justice Department confirms a warrant.",
+          "es": "Registro; el Departamento de Justicia confirma una orden."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "taiwan-exercices-tir-reel-chine",
+    "coords": [
+      121.9,
+      29.0
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🎯",
+    "source": "Reuters / Taiwan News / Baird Maritime",
+    "week": "2026-W42",
+    "priority": 1,
+    "place": {
+      "fr": "Côte est de la Chine, face à Taïwan",
+      "en": "China's east coast, opposite Taiwan",
+      "es": "Costa oriental de China, frente a Taiwán"
+    },
+    "title": {
+      "fr": "Exercices de tir réel chinois : Taïwan surveille la situation",
+      "en": "Chinese live-fire drills: Taiwan monitors the situation",
+      "es": "Ejercicios de fuego real chinos: Taiwán vigila la situación"
+    },
+    "summary": {
+      "fr": "Le ministre taïwanais de la Défense Wellington Koo a indiqué le 12 octobre que l'armée surveillait une série d'exercices de tir réel chinois prévus toute la semaine. Les autorités maritimes chinoises ont émis des avis de non-navigation pour cinq zones, de la mer de Chine méridionale au Liaoning, aucune autour de Taïwan même ; la plus proche se situe au large du Zhejiang. M. Koo les juge a priori de l'artillerie côtière et de faible menace pour les eaux de Taïwan. Ces exercices suivent le discours de la fête nationale du président Lai Ching-te, condamné par Pékin ; la Chine n'a pas établi de lien officiel et défend ses entraînements comme dissuasifs.",
+      "en": "Taiwan's Defence Minister Wellington Koo said on 12 October that the military was monitoring a series of Chinese live-fire drills scheduled all week. Chinese maritime authorities issued no-sail notices for five areas, from the South China Sea to Liaoning, none around Taiwan itself; the closest is off Zhejiang. Koo's early read is coastal artillery firing and a relatively low threat to waters around Taiwan. The drills follow President Lai Ching-te's National Day speech, condemned by Beijing; China has not officially linked them and calls its training a justified deterrent.",
+      "es": "El ministro taiwanés de Defensa, Wellington Koo, indicó el 12 de octubre que el ejército vigilaba una serie de ejercicios de fuego real chinos previstos toda la semana. Las autoridades marítimas chinas emitieron avisos de prohibición de navegación para cinco zonas, del mar de China Meridional a Liaoning, ninguna alrededor de Taiwán; la más cercana está frente a Zhejiang. Koo los considera, en principio, disparos de artillería costera y de baja amenaza para las aguas de Taiwán. Siguen al discurso del Día Nacional del presidente Lai Ching-te, condenado por Pekín; China no los ha vinculado oficialmente y defiende su entrenamiento como disuasorio."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Taïwan annonce suivre de près les exercices chinois.",
+          "en": "Taiwan says it is closely monitoring the Chinese drills.",
+          "es": "Taiwán dice vigilar de cerca los ejercicios chinos."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "inde-manifestations-listes-electorales",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "✊",
+    "source": "Al Jazeera / Reuters / The Star",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Inde : manifestations de jeunes à New Delhi autour de la révision des listes électorales",
+      "en": "India: youth protests in New Delhi over voter-roll revision",
+      "es": "India: protestas de jóvenes en Nueva Delhi por la revisión del censo electoral"
+    },
+    "summary": {
+      "fr": "Des manifestations menées par des jeunes se sont poursuivies à New Delhi autour d'une révision des listes électorales qui, selon Reuters, aurait supprimé 130 millions d'électeurs au niveau national. L'opposition y voit une exclusion de masse favorable au BJP ; la commission électorale répond que les entrées signalées proviennent d'un projet de révision inachevé et que les personnes retirées à tort peuvent se réinscrire. Avant la marche de samedi, la capitale a été quadrillée par des dizaines de milliers de policiers et de nombreux manifestants et responsables d'opposition ont été placés en détention ; des milliers ont été libérés dimanche après que la Cour suprême a jugé leur détention « illégale ».",
+      "en": "Youth-led protests continued in New Delhi over a voter-roll revision that Reuters reports dropped 130 million voters nationwide. The opposition calls it mass disenfranchisement favouring the BJP; the Election Commission says the flagged entries come from an incomplete draft revision and that wrongly removed voters can re-enrol. Ahead of Saturday's march the capital was locked down with tens of thousands of police, and many protesters and opposition figures were detained; thousands were released on Sunday after the Supreme Court called their detention 'illegal'.",
+      "es": "Las protestas lideradas por jóvenes continuaron en Nueva Delhi por una revisión del censo electoral que, según Reuters, habría eliminado a 130 millones de votantes en todo el país. La oposición lo ve como una exclusión masiva que favorece al BJP; la comisión electoral responde que las entradas señaladas proceden de un borrador de revisión incompleto y que quienes fueron retirados por error pueden volver a inscribirse. Antes de la marcha del sábado la capital fue blindada con decenas de miles de policías y muchos manifestantes y líderes de la oposición fueron detenidos; miles fueron liberados el domingo después de que el Tribunal Supremo calificara su detención de «ilegal»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/10/2026",
+          "en": "10/10/2026",
+          "es": "10/10/2026"
+        },
+        "d": {
+          "fr": "Marche à New Delhi ; nombreuses détentions.",
+          "en": "March in New Delhi; many detentions.",
+          "es": "Marcha en Nueva Delhi; numerosas detenciones."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "La Cour suprême juge la détention « illégale » ; des milliers de libérations.",
+          "en": "Supreme Court calls detentions 'illegal'; thousands released.",
+          "es": "El Tribunal Supremo califica las detenciones de «ilegales»; miles de liberaciones."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "ue-sanctions-russie-1600-inscriptions",
+    "coords": [
+      6.1296,
+      49.6117
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇪🇺",
+    "source": "Reuters / Meduza / Political.org / Brussels Morning",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "Luxembourg (Conseil de l'UE)",
+      "en": "Luxembourg (EU Council)",
+      "es": "Luxemburgo (Consejo de la UE)"
+    },
+    "title": {
+      "fr": "L'UE adopte près de 1 600 nouvelles inscriptions sur sa liste de sanctions contre la Russie",
+      "en": "EU adopts nearly 1,600 new Russia sanctions listings",
+      "es": "La UE adopta casi 1.600 nuevas designaciones de sanciones contra Rusia"
+    },
+    "summary": {
+      "fr": "Le 12 octobre à Luxembourg, les ministres des Affaires étrangères de l'UE ont formalisé la plus grande extension de la liste de sanctions visant la Russie depuis le début de l'invasion à grande échelle, entente conclue par les ambassadeurs le 7 octobre. La haute représentante Kaja Kallas indique que plus de la moitié des cibles sont liées à la chaîne de production de missiles balistiques. Le total varie selon les médias (environ 1 569 à 1 646 personnes et entités) ; certains parlent d'un 22e paquet, d'autres notent qu'il ne comporte pas de nouvelles restrictions sectorielles.",
+      "en": "On 12 October in Luxembourg, EU foreign ministers formalized the largest expansion of the Russia sanctions list since the full-scale invasion began, an agreement reached by ambassadors on 7 October. High Representative Kaja Kallas said more than half the targets are tied to the ballistic missile production chain. The total varies by outlet (about 1,569 to 1,646 individuals and entities); some call it a 22nd package, others note it contains no new sectoral restrictions.",
+      "es": "El 12 de octubre en Luxemburgo, los ministros de Exteriores de la UE formalizaron la mayor ampliación de la lista de sanciones contra Rusia desde el inicio de la invasión a gran escala, acuerdo alcanzado por los embajadores el 7 de octubre. La alta representante Kaja Kallas señaló que más de la mitad de los objetivos están vinculados a la cadena de producción de misiles balísticos. El total varía según el medio (entre 1.569 y 1.646 personas y entidades); algunos hablan de un 22.º paquete y otros señalan que no incluye nuevas restricciones sectoriales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Adoption formelle des inscriptions par les ministres de l'UE.",
+          "en": "Formal adoption of the listings by EU ministers.",
+          "es": "Adopción formal de las designaciones por los ministros de la UE."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "ukraine-cessez-le-feu-energetique"
+    ]
+  },
+  {
+    "id": "bresil-second-tour-2026",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Al Jazeera / Outlook India / Herald Corp",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "Brasilia, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : Flávio Bolsonaro devance Lula au premier tour, second tour le 25 octobre",
+      "en": "Brazil: Flávio Bolsonaro edges Lula in first round; runoff on 25 October",
+      "es": "Brasil: Flávio Bolsonaro supera a Lula en la primera vuelta; segunda vuelta el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Au premier tour du 4 octobre, le sénateur Flávio Bolsonaro arrive en tête avec 47,03 % des suffrages valides contre 45,16 % pour le président Lula, selon la Cour électorale supérieure citée par la presse ; aucun n'atteint la majorité absolue et un second tour est prévu le 25 octobre. La plupart des sondages donnaient Lula en tête. Les candidats éliminés Ronaldo Caiado et Renan Santos ont dit qu'ils ne soutiendraient aucun des deux. La droite a aussi progressé aux élections sénatoriales.",
+      "en": "In the 4 October first round, Senator Flávio Bolsonaro finished first with 47.03% of valid votes against 45.16% for President Lula, according to the Superior Electoral Court as cited by media; neither reached an outright majority and a runoff is set for 25 October. Most polls had Lula ahead. Eliminated candidates Ronaldo Caiado and Renan Santos said they would endorse neither. The right also gained in Senate races.",
+      "es": "En la primera vuelta del 4 de octubre, el senador Flávio Bolsonaro quedó primero con el 47,03 % de los votos válidos frente al 45,16 % del presidente Lula, según el Tribunal Superior Electoral citado por la prensa; ninguno alcanzó la mayoría absoluta y la segunda vuelta será el 25 de octubre. La mayoría de las encuestas daban a Lula por delante. Los candidatos eliminados Ronaldo Caiado y Renan Santos dijeron que no apoyarán a ninguno. La derecha también avanzó en las elecciones al Senado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : Flávio Bolsonaro 47,03 %, Lula 45,16 %.",
+          "en": "First round: Flávio Bolsonaro 47.03%, Lula 45.16%.",
+          "es": "Primera vuelta: Flávio Bolsonaro 47,03 %, Lula 45,16 %."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026",
+          "en": "25/10/2026",
+          "es": "25/10/2026"
+        },
+        "d": {
+          "fr": "Second tour prévu.",
+          "en": "Runoff scheduled.",
+          "es": "Segunda vuelta prevista."
+        },
+        "active": true
+      }
+    ]
+  },
+  {
+    "id": "yemen-houthis-riyad-aeroport",
+    "coords": [
+      46.6988,
+      24.9576
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "✈️",
+    "source": "News of Bahrain / AP (résumé)",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "Riyad, Arabie saoudite / Yémen",
+      "en": "Riyadh, Saudi Arabia / Yemen",
+      "es": "Riad, Arabia Saudí / Yemen"
+    },
+    "title": {
+      "fr": "Escalade Houthis–Arabie saoudite : attaque signalée contre l'aéroport de Riyad",
+      "en": "Houthi–Saudi escalation: attack on Riyadh airport reported",
+      "es": "Escalada hutíes–Arabia Saudí: ataque reportado contra el aeropuerto de Riad"
+    },
+    "summary": {
+      "fr": "Un média (News of Bahrain) rapporte qu'une frappe houthie sur l'aéroport international King Khalid de Riyad, le 10 octobre, aurait fait 13 morts ; ce bilan n'a pu être recoupé auprès d'autres sources dans nos recherches. Selon ces comptes rendus, Donald Trump aurait jugé l'attaque inacceptable et envisagé de se joindre aux frappes saoudiennes, tandis qu'un dirigeant houthi a averti d'une riposte « rapide et douloureuse » en cas d'intervention américaine. Le conflit entre forces soutenues par Riyad et Houthis soutenus par l'Iran connaît son escalade la plus grave depuis la trêve de 2022. Informations à confirmer.",
+      "en": "One outlet (News of Bahrain) reports that a Houthi strike on Riyadh's King Khalid International Airport on 10 October reportedly killed 13 people; this toll could not be cross-checked against other sources in our searches. According to these accounts, Donald Trump called the attack unacceptable and weighed joining Saudi strikes, while a Houthi leader warned of a 'swift and painful' response to any US involvement. Fighting between Riyadh-backed forces and the Iran-backed Houthis is at its most serious escalation since the 2022 truce. To be confirmed.",
+      "es": "Un medio (News of Bahrain) informa de que un ataque hutí contra el aeropuerto internacional King Khalid de Riad el 10 de octubre habría causado 13 muertos; esta cifra no pudo contrastarse con otras fuentes en nuestras búsquedas. Según esos relatos, Donald Trump calificó el ataque de inaceptable y sopesó unirse a los ataques saudíes, mientras que un dirigente hutí advirtió de una respuesta «rápida y dolorosa» ante cualquier implicación estadounidense. El conflicto entre fuerzas respaldadas por Riad y los hutíes respaldados por Irán vive su mayor escalada desde la tregua de 2022. Pendiente de confirmación."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Les Houthis menacent les États-Unis d'une riposte en cas d'intervention.",
+          "en": "Houthis warn the US of retaliation if it intervenes.",
+          "es": "Los hutíes advierten a EE. UU. de represalias si interviene."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "id": "ormuz-petrolier-projectile",
+    "coords": [
+      56.3,
+      26.2
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛢️",
+    "source": "UKMTO / AP (résumé) / InvestingLive",
+    "week": "2026-W42",
+    "priority": 2,
+    "place": {
+      "fr": "Détroit d'Ormuz",
+      "en": "Strait of Hormuz",
+      "es": "Estrecho de Ormuz"
+    },
+    "title": {
+      "fr": "Un pétrolier touché par un projectile à la sortie du détroit d'Ormuz",
+      "en": "Oil tanker struck by projectile exiting the Strait of Hormuz",
+      "es": "Un petrolero alcanzado por un proyectil al salir del estrecho de Ormuz"
+    },
+    "summary": {
+      "fr": "Le centre britannique UKMTO a signalé lundi 12 octobre qu'un pétrolier avait été touché par un projectile en sortant du détroit d'Ormuz. D'autres incidents similaires ont été signalés ces derniers jours dans la zone. L'origine du tir n'est pas établie : un seul média l'attribue à l'Iran, sans confirmation indépendante. Le Commandement central américain affirme que la route sud du détroit reste « libre et ouverte ». Bilan humain non précisé dans les sources consultées.",
+      "en": "The UK Maritime Trade Operations centre (UKMTO) reported on Monday 12 October that an oil tanker was struck by a projectile while exiting the Strait of Hormuz. Similar incidents have been reported in the area in recent days. The origin of the fire is not established: a single outlet attributes it to Iran, without independent confirmation. US Central Command says the southern route of the strait remains 'free and open'. Casualties are not specified in the sources consulted.",
+      "es": "El centro británico UKMTO informó el lunes 12 de octubre de que un petrolero fue alcanzado por un proyectil al salir del estrecho de Ormuz. En los últimos días se han reportado incidentes similares en la zona. El origen del disparo no está establecido: un solo medio lo atribuye a Irán, sin confirmación independiente. El Mando Central de EE. UU. afirma que la ruta sur del estrecho sigue «libre y abierta». Las fuentes consultadas no precisan víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "UKMTO signale un pétrolier touché par un projectile.",
+          "en": "UKMTO reports a tanker struck by a projectile.",
+          "es": "UKMTO informa de un petrolero alcanzado por un proyectil."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise",
+      "yemen-houthis-riyad-aeroport"
+    ]
   }
 ]
