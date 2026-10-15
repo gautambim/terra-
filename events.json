@@ -734,10 +734,26 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "10/13/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "La chaîne israélienne Channel 12 affirme que Benyamin Netanyahou a poussé Donald Trump à relancer les combats avant les élections israéliennes du 27 octobre ; la Maison-Blanche dément et le bureau de Netanyahou nie chercher la guerre. Information fondée sur des sources anonymes, aucune décision confirmée (Times of Israel, Axios).",
+          "en": "Israel's Channel 12 reports that Benjamin Netanyahu pressed Donald Trump to renew fighting before Israel's October 27 election; the White House calls this false and Netanyahu's office denies seeking war. Based on anonymous sources; no decision confirmed (Times of Israel, Axios).",
+          "es": "El Canal 12 israelí informa de que Benjamín Netanyahu presionó a Donald Trump para reanudar los combates antes de las elecciones israelíes del 27 de octubre; la Casa Blanca lo califica de falso y la oficina de Netanyahu niega buscar la guerra. Basado en fuentes anónimas; ninguna decisión confirmada (Times of Israel, Axios)."
+        },
         "active": true
       }
     ],
-    "related": [],
+    "related": [
+      "houthis-arabie-saoudite",
+      "g7-reserves-petrole"
+    ],
     "priority": 2
   },
   {
@@ -829,5 +845,320 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "france-lyceens-manifestations",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Euronews / AFP / Reuters",
+    "place": {
+      "fr": "France (mouvement national, lycées de tout le pays)",
+      "en": "France (nationwide movement, high schools across the country)",
+      "es": "Francia (movimiento nacional, institutos de todo el país)"
+    },
+    "title": {
+      "fr": "Mobilisation lycéenne en France : des centaines d'établissements fermés ou bloqués",
+      "en": "Student protests in France: hundreds of high schools closed or blockaded",
+      "es": "Movilización estudiantil en Francia: cientos de institutos cerrados o bloqueados"
+    },
+    "summary": {
+      "fr": "Depuis septembre, un mouvement de lycéens dénonce leurs conditions d'étude (longues journées, salles surchauffées, absences de personnel). Les chiffres varient selon les sources : plus de 560 lycées perturbés le 2 octobre selon le ministère de l'Éducation, 891 établissements totalement ou partiellement fermés le 6 octobre selon un média, et un syndicat étudiant évoque plus de la moitié des lycées. Le ministre Édouard Geffray fait état d'au moins 65 membres du personnel blessés ; selon Reuters, au moins 715 policiers et 215 adolescents auraient été blessés lors d'affrontements. Le gouvernement juge les revendications légitimes mais condamne les violences ; des élèves dénoncent un usage excessif de la force par la police. Bilans non confirmés de façon indépendante.",
+      "en": "Since September, a movement of high-school students has been protesting study conditions (long school days, overheated classrooms, staff absences). Figures vary by source: more than 560 high schools disrupted on October 2 according to the Education Ministry, 891 schools fully or partly closed on October 6 according to one outlet, and a student union says over half of high schools were affected. Minister Édouard Geffray reports at least 65 staff injured; Reuters reports at least 715 police officers and 215 teenagers injured in clashes. The government calls the grievances legitimate but condemns the violence; students accuse police of excessive force. Tolls have not been independently confirmed.",
+      "es": "Desde septiembre, un movimiento de estudiantes de secundaria denuncia sus condiciones de estudio (jornadas largas, aulas sobrecalentadas, ausencias de personal). Las cifras varían según la fuente: más de 560 institutos afectados el 2 de octubre según el Ministerio de Educación, 891 centros total o parcialmente cerrados el 6 de octubre según un medio, y un sindicato estudiantil habla de más de la mitad. El ministro Édouard Geffray cifra en al menos 65 los miembros del personal heridos; según Reuters, al menos 715 policías y 215 adolescentes habrían resultado heridos en enfrentamientos. El Gobierno considera legítimas las reivindicaciones pero condena la violencia; estudiantes acusan a la policía de uso excesivo de la fuerza. Balances no confirmados de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "10/02/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Euronews et l'AFP rapportent des centaines de lycées fermés ; le ministère en compte plus de 560 perturbés.",
+          "en": "Euronews and AFP report hundreds of high schools closed; the ministry counts more than 560 disrupted.",
+          "es": "Euronews y la AFP informan de cientos de institutos cerrados; el ministerio cuenta más de 560 afectados."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "05/10/2026",
+          "en": "10/05/2026",
+          "es": "05/10/2026"
+        },
+        "d": {
+          "fr": "Affrontements avec la police dans plusieurs villes, selon Euronews.",
+          "en": "Clashes with police in several cities, according to Euronews.",
+          "es": "Enfrentamientos con la policía en varias ciudades, según Euronews."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 1
+  },
+  {
+    "id": "g7-reserves-petrole",
+    "coords": [
+      2.2945,
+      48.8584
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢",
+    "source": "Euronews / Business Today / Commission européenne",
+    "place": {
+      "fr": "G7 / Agence internationale de l'énergie (Paris)",
+      "en": "G7 / International Energy Agency (Paris)",
+      "es": "G7 / Agencia Internacional de la Energía (París)"
+    },
+    "title": {
+      "fr": "Le G7 décide de libérer 100 millions de barils de pétrole et de diesel",
+      "en": "G7 agrees to release 100 million barrels of oil and diesel",
+      "es": "El G7 acuerda liberar 100 millones de barriles de petróleo y diésel"
+    },
+    "summary": {
+      "fr": "Le 2 octobre 2026, les dirigeants du G7 ont convenu de libérer 100 millions de barils de pétrole et de diesel des réserves d'urgence sur quatre mois, via l'AIE, face à la hausse des prix des carburants liée aux perturbations dans le détroit d'Ormuz. Les volumes par pays et le financement ne sont pas précisés, et on ne sait pas si ce volume s'ajoute aux 75 millions de barils restant de l'engagement de mars. Le Brent est passé sous 100 dollars le 2 octobre ; un économiste allemand estime que la mesure ne fera qu'amortir le choc.",
+      "en": "On October 2, 2026, G7 leaders agreed to release 100 million barrels of oil and diesel from emergency reserves over four months, coordinated through the IEA, in response to rising fuel prices linked to Strait of Hormuz disruption. Volumes per country and financing are not specified, and it is unclear whether this adds to the 75 million barrels still outstanding from March's commitment. Brent fell below $100 on October 2; a German economist said the measure can only cushion the impact.",
+      "es": "El 2 de octubre de 2026, los líderes del G7 acordaron liberar 100 millones de barriles de petróleo y diésel de las reservas de emergencia durante cuatro meses, a través de la AIE, ante el alza de los precios de los combustibles vinculada a las perturbaciones en el estrecho de Ormuz. No se precisan los volúmenes por país ni la financiación, y no está claro si se suma a los 75 millones de barriles pendientes del compromiso de marzo. El Brent bajó de 100 dólares el 2 de octubre; un economista alemán opina que la medida solo amortiguará el impacto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "02/10/2026",
+          "en": "10/02/2026",
+          "es": "02/10/2026"
+        },
+        "d": {
+          "fr": "Accord du G7 sur la libération de 100 millions de barils sur quatre mois.",
+          "en": "G7 agreement on releasing 100 million barrels over four months.",
+          "es": "Acuerdo del G7 para liberar 100 millones de barriles en cuatro meses."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "03/10/2026",
+          "en": "10/03/2026",
+          "es": "03/10/2026"
+        },
+        "d": {
+          "fr": "L'AIE indique que 325 millions de barils ont déjà été libérés sur les 400 millions promis en mars, selon Euronews.",
+          "en": "The IEA says 325 million barrels have been released so far out of the 400 million promised in March, per Euronews.",
+          "es": "La AIE indica que ya se han liberado 325 millones de barriles de los 400 prometidos en marzo, según Euronews."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 1,
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "id": "senateurs-diesel-russe",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "⛽",
+    "source": "AP / Novaya Gazeta Europe",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, United States",
+      "es": "Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "Des sénateurs des deux bords s'opposent à l'achat de diesel russe annoncé par Trump",
+      "en": "Bipartisan senators oppose Trump's announced Russian diesel purchase",
+      "es": "Senadores de ambos partidos se oponen a la compra de diésel ruso anunciada por Trump"
+    },
+    "summary": {
+      "fr": "Selon l'AP, six sénateurs (Collins, Murkowski, Tillis, Curtis, Shaheen, Blumenthal) ont demandé le 11 octobre à l'administration Trump d'« inverser immédiatement le cap » sur un plan d'achat de diesel à la Russie ; Novaya Gazeta Europe en compte sept. Donald Trump a annoncé un accord avec Vladimir Poutine : plus de 300 000 tonnes immédiatement, puis 500 000 tonnes en novembre. Les sénateurs reprochent l'absence de consultation du Congrès et évoquent une loi interdisant les importations d'énergies fossiles russes tant que l'invasion de l'Ukraine se poursuit. Le secrétaire au Trésor Scott Bessent affirme que la Maison-Blanche dispose de l'autorité légale nécessaire.",
+      "en": "According to AP, six senators (Collins, Murkowski, Tillis, Curtis, Shaheen, Blumenthal) urged the Trump administration on October 11 to \"immediately reverse course\" on a plan to buy diesel from Russia; Novaya Gazeta Europe counts seven. Donald Trump announced a deal with Vladimir Putin: more than 300,000 tons immediately, then 500,000 tons in November. The senators object that Congress was not consulted and cite a law barring Russian fossil-fuel imports while the invasion of Ukraine continues. Treasury Secretary Scott Bessent says the White House has sufficient legal authority.",
+      "es": "Según AP, seis senadores (Collins, Murkowski, Tillis, Curtis, Shaheen, Blumenthal) pidieron el 11 de octubre a la administración Trump que «revierta de inmediato» un plan de compra de diésel a Rusia; Novaya Gazeta Europe cuenta siete. Donald Trump anunció un acuerdo con Vladimir Putin: más de 300.000 toneladas de inmediato y 500.000 en noviembre. Los senadores objetan que no se consultó al Congreso y citan una ley que prohíbe importar combustibles fósiles rusos mientras continúe la invasión de Ucrania. El secretario del Tesoro, Scott Bessent, afirma que la Casa Blanca tiene autoridad legal suficiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "10/11/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Lettre bipartisane de sénateurs à l'administration, selon l'AP.",
+          "en": "Bipartisan letter from senators to the administration, per AP.",
+          "es": "Carta bipartidista de senadores a la administración, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 1,
+    "related": [
+      "g7-reserves-petrole"
+    ]
+  },
+  {
+    "id": "guilfoyle-demission",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "📰",
+    "source": "AP (reprise par des affiliées Fox)",
+    "place": {
+      "fr": "Washington, États-Unis (ambassade des États-Unis en Grèce)",
+      "en": "Washington, United States (US embassy to Greece)",
+      "es": "Washington, Estados Unidos (embajada de EE. UU. en Grecia)"
+    },
+    "title": {
+      "fr": "Kimberly Guilfoyle quitte son poste d'ambassadrice des États-Unis en Grèce",
+      "en": "Kimberly Guilfoyle steps down as US ambassador to Greece",
+      "es": "Kimberly Guilfoyle deja el cargo de embajadora de EE. UU. en Grecia"
+    },
+    "summary": {
+      "fr": "La Maison-Blanche a demandé à Kimberly Guilfoyle de démissionner, a déclaré la porte-parole Katie Zacharia, après plusieurs articles critiques, dont un du Wall Street Journal sur une sollicitation d'argent auprès d'un donateur de Trump. Guilfoyle nie tout manquement ; ses avocats affirment que les sommes concernaient des prestations antérieures à sa nomination, jamais versées, et que ses voyages privés suivaient les consignes du Département d'État. Information issue d'une seule dépêche reprise par plusieurs médias ; date précise : mardi (13 octobre).",
+      "en": "The White House asked Kimberly Guilfoyle to resign, spokesperson Katie Zacharia said, after a string of critical reports, including a Wall Street Journal report about soliciting money from a Trump donor. Guilfoyle denies wrongdoing; her lawyers say the money related to speaking work predating her nomination and was never paid, and that her private travel followed State Department guidance. Based on a single wire report syndicated by several outlets; exact date given only as Tuesday (October 13).",
+      "es": "La Casa Blanca pidió a Kimberly Guilfoyle que dimitiera, dijo la portavoz Katie Zacharia, tras varios reportajes críticos, entre ellos uno del Wall Street Journal sobre la solicitud de dinero a un donante de Trump. Guilfoyle niega irregularidades; sus abogados afirman que el dinero correspondía a trabajos previos a su nominación y nunca se pagó, y que sus viajes privados seguían las pautas del Departamento de Estado. Basado en un único despacho difundido por varios medios; fecha dada solo como martes (13 de octubre)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "10/13/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "Démission demandée par la Maison-Blanche, selon l'AP.",
+          "en": "Resignation requested by the White House, per AP.",
+          "es": "La Casa Blanca pide su dimisión, según AP."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 1
+  },
+  {
+    "id": "houthis-arabie-saoudite",
+    "coords": [
+      42.5511,
+      16.8892
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "AP / Irish News / GNA",
+    "place": {
+      "fr": "Yémen et Arabie saoudite (Sanaa, Abha, Djizan, Riyad)",
+      "en": "Yemen and Saudi Arabia (Sanaa, Abha, Jizan, Riyadh)",
+      "es": "Yemen y Arabia Saudita (Saná, Abha, Yizán, Riad)"
+    },
+    "title": {
+      "fr": "Escalade entre les Houthis et l'Arabie saoudite",
+      "en": "Escalation between the Houthis and Saudi Arabia",
+      "es": "Escalada entre los hutíes y Arabia Saudita"
+    },
+    "summary": {
+      "fr": "Depuis le 13 juillet, après une frappe contre la piste de l'aéroport de Sanaa attribuée par le gouvernement yéménite basé à Riyad à son opposition à un vol iranien, les Houthis ont visé l'aéroport d'Abha puis, selon leurs déclarations, la région de Djizan le 24 septembre ; l'AP rapporte aussi des tirs contre Riyad et des installations pétrolières comme Yanbu. Les Houthis revendiquent ces attaques, Riyad n'a pas toujours commenté. L'émissaire de l'ONU Hans Grundberg juge le risque de conflit à grande échelle plus élevé que jamais depuis la trêve d'avril 2022. Dernière information datée trouvée : septembre 2026.",
+      "en": "Since July 13, after a strike on the Sanaa airport runway that the Riyadh-based Yemeni government linked to an Iranian flight landing there, the Houthis have targeted Abha airport and, by their own account, the Jizan area on September 24; AP also reports fire at Riyadh and oil facilities such as Yanbu. The Houthis claim the attacks; Riyadh has not always commented. UN envoy Hans Grundberg says the risk of large-scale conflict is higher than at any point since the April 2022 truce. Latest dated information found: September 2026.",
+      "es": "Desde el 13 de julio, tras un ataque contra la pista del aeropuerto de Saná que el Gobierno yemení con sede en Riad vinculó a un vuelo iraní, los hutíes han atacado el aeropuerto de Abha y, según sus declaraciones, la zona de Yizán el 24 de septiembre; AP también informa de disparos contra Riad e instalaciones petroleras como Yanbu. Los hutíes reivindican los ataques; Riad no siempre ha comentado. El enviado de la ONU Hans Grundberg afirma que el riesgo de un conflicto a gran escala es el mayor desde la tregua de abril de 2022. Última información fechada encontrada: septiembre de 2026."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/07/2026",
+          "en": "07/13/2026",
+          "es": "13/07/2026"
+        },
+        "d": {
+          "fr": "Frappe sur l'aéroport de Sanaa ; tirs houthis sur l'aéroport d'Abha.",
+          "en": "Strike on Sanaa airport; Houthi fire on Abha airport.",
+          "es": "Ataque al aeropuerto de Saná; disparos hutíes contra el aeropuerto de Abha."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "24/09/2026",
+          "en": "09/24/2026",
+          "es": "24/09/2026"
+        },
+        "d": {
+          "fr": "Les Houthis disent avoir tiré des dizaines de missiles et drones sur des cibles près de Djizan.",
+          "en": "The Houthis say they fired dozens of missiles and drones at targets near Jizan.",
+          "es": "Los hutíes dicen haber lanzado decenas de misiles y drones contra objetivos cerca de Yizán."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 3,
+    "related": [
+      "iran-conflit-reprise"
+    ]
+  },
+  {
+    "id": "moscou-drones-octobre",
+    "coords": [
+      37.6173,
+      55.7558
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛩",
+    "source": "Azernews (citant le maire de Moscou)",
+    "place": {
+      "fr": "Moscou et région de Moscou, Russie",
+      "en": "Moscow and Moscow region, Russia",
+      "es": "Moscú y región de Moscú, Rusia"
+    },
+    "title": {
+      "fr": "Plus de 400 drones ukrainiens visent la région de Moscou, selon le maire",
+      "en": "Over 400 Ukrainian drones target Moscow region, mayor says",
+      "es": "Más de 400 drones ucranianos apuntan a la región de Moscú, según el alcalde"
+    },
+    "summary": {
+      "fr": "Le maire de Moscou Sergueï Sobianine a indiqué que 417 drones ont été dirigés vers la région de Moscou entre le 12 octobre (20 h 30) et le 13 octobre (7 h), la plupart interceptés loin de la capitale, dont 65 à l'approche de la ville. Il s'agit d'un chiffre officiel russe, trouvé dans une seule source, sans information sur d'éventuels dégâts ou victimes ; Kyiv ne confirme généralement pas ces frappes. Le soir du 14 octobre, l'armée de l'air ukrainienne signalait de son côté des drones russes dans plusieurs régions ukrainiennes (source : Censor.net).",
+      "en": "Moscow mayor Sergei Sobyanin said 417 drones were directed at the Moscow region between 8:30 p.m. on October 12 and 7 a.m. on October 13, most intercepted far from the capital, including 65 as they approached the city. This is a Russian official figure from a single source, with no information on damage or casualties; Kyiv generally does not confirm such strikes. On the evening of October 14, the Ukrainian Air Force separately reported Russian drones across several Ukrainian regions (source: Censor.net).",
+      "es": "El alcalde de Moscú, Serguéi Sobianin, indicó que 417 drones se dirigieron a la región de Moscú entre las 20:30 del 12 de octubre y las 7:00 del 13 de octubre; la mayoría fue interceptada lejos de la capital, 65 de ellos al acercarse a la ciudad. Es una cifra oficial rusa de una única fuente, sin datos sobre daños o víctimas; Kiev normalmente no confirma estos ataques. La noche del 14 de octubre, la Fuerza Aérea ucraniana informó por su parte de drones rusos en varias regiones de Ucrania (fuente: Censor.net)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "10/13/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "Sobianine fait état de 417 drones dirigés vers la région de Moscou.",
+          "en": "Sobyanin reports 417 drones directed toward the Moscow region.",
+          "es": "Sobianin informa de 417 drones dirigidos hacia la región de Moscú."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 2,
+    "related": [
+      "odessa-attaque"
+    ]
   }
 ]
