@@ -829,5 +829,169 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "hormuz-navire-coule",
+    "coords": [
+      56.3,
+      26.6
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Reuters / gCaptain",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Détroit d'Ormuz (zone exacte non précisée)",
+      "en": "Strait of Hormuz (exact position not specified)",
+      "es": "Estrecho de Ormuz (posición exacta no especificada)"
+    },
+    "title": {
+      "fr": "Un porte-conteneurs coule près du détroit d'Ormuz après avoir été touché par un projectile",
+      "en": "A container ship sinks near the Strait of Hormuz after being hit by a projectile",
+      "es": "Un portacontenedores se hunde cerca del estrecho de Ormuz tras ser alcanzado por un proyectil"
+    },
+    "summary": {
+      "fr": "Le porte-conteneurs GFS Pride, sous pavillon de Singapour et géré par une société basée aux Émirats arabes unis, a coulé près d'Ormuz le 14 octobre après avoir été touché par un projectile, selon Reuters. Les médias d'État iraniens et les Gardiens de la Révolution évoquent une mine, tandis qu'un responsable américain affirme que l'Iran a attaqué le navire ; les deux versions n'ont pas pu être vérifiées de façon indépendante. L'UKMTO recense 20 attaques signalées dans le détroit depuis le 1er octobre.",
+      "en": "A Singapore-flagged container ship, the GFS Pride, whose manager is based in the United Arab Emirates, sank near Hormuz on October 14 after being hit by a projectile, according to Reuters. Iranian state media and the Revolutionary Guards attribute it to a mine, while a US official says Iran attacked the vessel; neither account has been independently verified. UKMTO has logged 20 reported attacks in the strait since October 1.",
+      "es": "El portacontenedores GFS Pride, con bandera de Singapur y gestionado por una empresa con sede en los Emiratos Árabes Unidos, se hundió cerca de Ormuz el 14 de octubre tras ser alcanzado por un proyectil, según Reuters. Los medios estatales iraníes y la Guardia Revolucionaria hablan de una mina, mientras que un funcionario estadounidense afirma que Irán atacó el buque; ninguna versión ha sido verificada de forma independiente. UKMTO registra 20 ataques en el estrecho desde el 1 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "14/10/2026",
+          "en": "14/10/2026",
+          "es": "14/10/2026"
+        },
+        "d": {
+          "fr": "Le GFS Pride coule près d'Ormuz après l'impact d'un projectile ; la cause exacte est contestée entre Téhéran et Washington.",
+          "en": "The GFS Pride sinks near Hormuz after a projectile strike; the exact cause is disputed between Tehran and Washington.",
+          "es": "El GFS Pride se hunde cerca de Ormuz tras el impacto de un proyectil; la causa exacta es disputada entre Teherán y Washington."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 2
+  },
+  {
+    "id": "inde-listes-electorales",
+    "coords": [
+      77.209,
+      28.6139
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Associated Press / Reuters",
+    "place": {
+      "fr": "New Delhi, Inde",
+      "en": "New Delhi, India",
+      "es": "Nueva Delhi, India"
+    },
+    "title": {
+      "fr": "Inde : l'opposition marche vers la Cour suprême contre la révision des listes électorales",
+      "en": "India: opposition parties march to Supreme Court over voter-list revision",
+      "es": "India: la oposición marcha hacia el Tribunal Supremo contra la revisión de las listas electorales"
+    },
+    "summary": {
+      "fr": "Le 12 octobre, des parlementaires de l'opposition et des milliers de partisans ont marché vers la Cour suprême à New Delhi pour contester la révision nationale des listes électorales, qui a supprimé plus de 130 millions de noms (dont 28 millions de décès, 63 millions de déménagements et 30 millions de personnes introuvables). Les manifestants demandent la démission du chef de la Commission électorale, Gyanesh Kumar. La Commission nie favoriser un parti et indique que les électeurs radiés à tort peuvent se réinscrire ; le BJP accuse l'opposition de saper la démocratie. La police a détenu des milliers de manifestants ce week-end.",
+      "en": "On October 12, opposition lawmakers and thousands of supporters marched to the Supreme Court in New Delhi to challenge the nationwide revision of voter lists, which removed more than 130 million names (28 million deceased, 63 million relocated, 30 million untraceable). Protesters demand the resignation of Chief Election Commissioner Gyanesh Kumar. The Election Commission denies favouring any party and says wrongly deleted voters can re-enrol; the BJP accuses opponents of undermining democracy. Police detained thousands of demonstrators over the weekend.",
+      "es": "El 12 de octubre, parlamentarios de la oposición y miles de simpatizantes marcharon hacia el Tribunal Supremo en Nueva Delhi para impugnar la revisión nacional de las listas electorales, que eliminó más de 130 millones de nombres (28 millones fallecidos, 63 millones trasladados, 30 millones ilocalizables). Los manifestantes exigen la dimisión del comisionado electoral jefe, Gyanesh Kumar. La Comisión niega favorecer a ningún partido y afirma que los votantes eliminados por error pueden reinscribirse; el BJP acusa a sus rivales de socavar la democracia. La policía detuvo a miles de manifestantes durante el fin de semana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Septembre 2026",
+          "en": "September 2026",
+          "es": "Septiembre 2026"
+        },
+        "d": {
+          "fr": "L'Indian Express rapporte que deux adjoints du chef de la Commission électorale ont émis en interne des réserves sur la révision des listes ; les manifestations débutent.",
+          "en": "The Indian Express reports that two deputies of the chief election commissioner raised internal concerns about the voter-list revision; protests begin.",
+          "es": "El Indian Express informa de que dos adjuntos del comisionado electoral jefe plantearon reservas internas sobre la revisión de las listas; comienzan las protestas."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Marche vers la Cour suprême ; le président de la Cour, Surya Kant, a refusé de rencontrer les opposants, estimant que les questions sont déjà devant la Cour. Aucune décision de la Cour n'avait été rapportée à ce stade.",
+          "en": "March to the Supreme Court; Chief Justice Surya Kant declined to meet the opposition, saying the issues are already before the court. No court ruling had been reported at this stage.",
+          "es": "Marcha hacia el Tribunal Supremo; el presidente del Tribunal, Surya Kant, rechazó reunirse con la oposición al considerar que los asuntos ya están ante la Corte. No se había informado de ninguna decisión judicial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 2
+  },
+  {
+    "id": "ukraine-treve-energie",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚡",
+    "source": "Kyiv Post / Stars and Stripes / AP",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv et région de Kharkiv, Ukraine",
+      "en": "Kyiv and Kharkiv region, Ukraine",
+      "es": "Kiev y región de Járkov, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : frappes sur les centrales électriques malgré l'annonce d'une trêve énergétique",
+      "en": "Ukraine: strikes on power plants despite announced energy truce",
+      "es": "Ucrania: ataques a centrales eléctricas pese al anuncio de una tregua energética"
+    },
+    "summary": {
+      "fr": "Après l'annonce par Donald Trump d'une trêve énergétique, le ministère russe de la Défense a déclaré avoir frappé six centrales thermiques et une sous-station près de Kyiv et dans la région de Kharkiv ; les coupures ont touché au moins 600 000 Ukrainiens, selon la presse. Le Kremlin affirme que les termes de la trêve n'ont jamais été précisés et qu'il ne peut donc pas être accusé de la violer ; Kyiv se dit « horriblement surpris ». Moscou propose de cesser les frappes uniquement le jour d'une élection ukrainienne, tandis que Volodymyr Zelensky conditionne des élections à un cessez-le-feu d'au moins 60 jours. Les bilans humains n'ont pas pu être confirmés.",
+      "en": "After Donald Trump announced an energy truce, Russia's Defence Ministry said it struck six thermal plants and a substation near Kyiv and in the Kharkiv region; outages reportedly affected at least 600,000 Ukrainians. The Kremlin says the truce terms were never specified, so it cannot be accused of breaching it; Kyiv says it was 'horribly surprised'. Moscow offers to halt strikes only on the day of a Ukrainian election, while Volodymyr Zelensky says elections require a ceasefire of at least 60 days. Casualty figures could not be confirmed.",
+      "es": "Tras el anuncio de Donald Trump de una tregua energética, el Ministerio de Defensa ruso dijo haber atacado seis centrales térmicas y una subestación cerca de Kiev y en la región de Járkov; los cortes afectaron al menos a 600.000 ucranianos, según la prensa. El Kremlin sostiene que los términos de la tregua nunca se precisaron y que no puede ser acusado de incumplirla; Kiev dice haberse 'sorprendido horriblemente'. Moscú propone cesar los ataques solo el día de unas elecciones ucranianas, mientras que Volodímir Zelenski condiciona unas elecciones a un alto el fuego de al menos 60 días. No se pudieron confirmar cifras de víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Zelensky affirme que la Russie a frappé des sites énergétiques malgré l'annonce américaine d'une trêve.",
+          "en": "Zelensky says Russia struck energy sites despite the US announcement of a truce.",
+          "es": "Zelenski afirma que Rusia atacó instalaciones energéticas pese al anuncio estadounidense de una tregua."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/10/2026",
+          "en": "14/10/2026",
+          "es": "14/10/2026"
+        },
+        "d": {
+          "fr": "Dmitri Peskov déclare que la trêve proposée n'était pas précisée et que Poutine serait prêt à cesser les frappes le jour d'une élection ukrainienne.",
+          "en": "Dmitry Peskov says the proposed truce was not specified and that Putin would be ready to halt strikes on the day of a Ukrainian election.",
+          "es": "Dmitri Peskov declara que la tregua propuesta no estaba especificada y que Putin estaría dispuesto a cesar los ataques el día de unas elecciones ucranianas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "priority": 2
   }
 ]
