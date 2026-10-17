@@ -734,6 +734,19 @@
           "en": "Strikes resume between the United States and Iran, the Strait of Hormuz is blocked again.",
           "es": "Se reanudan los ataques entre Estados Unidos e Irán, el estrecho de Ormuz vuelve a bloquearse."
         },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "13–15/10/2026",
+          "en": "13–15/10/2026",
+          "es": "13–15/10/2026"
+        },
+        "d": {
+          "fr": "Selon des données de sécurité maritime citées par la presse, au moins 10 navires ont été visés dans ou près du détroit d'Ormuz depuis le 11 octobre. Le porte-conteneurs GFS Pride a coulé (21 membres d'équipage évacués) ; les Gardiens de la révolution attribuent cela à une mine, version non confirmée de façon indépendante.",
+          "en": "According to maritime security data cited by the press, at least 10 vessels have been targeted in or near the Strait of Hormuz since October 11. The container ship GFS Pride sank (all 21 crew evacuated); the Revolutionary Guards attribute this to a mine, a claim not independently confirmed.",
+          "es": "Según datos de seguridad marítima citados por la prensa, al menos 10 buques han sido atacados en el estrecho de Ormuz o cerca desde el 11 de octubre. El portacontenedores GFS Pride se hundió (21 tripulantes evacuados); la Guardia Revolucionaria lo atribuye a una mina, versión no confirmada de forma independiente."
+        },
         "active": true
       }
     ],
@@ -829,5 +842,248 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "id": "kyiv-chaufferie-frappe",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Reuters / Euronews / Meduza",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Frappes russes sur des installations énergétiques de Kyiv malgré une « trêve énergétique »",
+      "en": "Russian strikes hit Kyiv energy facilities despite an announced 'energy ceasefire'",
+      "es": "Ataques rusos contra instalaciones energéticas de Kiev pese a una 'tregua energética'"
+    },
+    "summary": {
+      "fr": "Des frappes russes dans la nuit du 13 au 14 octobre ont touché des installations énergétiques de Kyiv, dont la centrale thermique n°4 selon le président Zelensky. Les bilans diffèrent selon les sources : Reuters, citant le maire, fait état d'un mort ; les services d'urgence ukrainiens évoquent trois morts et 21 blessés. Donald Trump avait annoncé le 11 octobre un accord de trêve énergétique ; le Kremlin indique que les contacts se poursuivent sans changement à ce stade.",
+      "en": "Russian strikes overnight on October 13–14 hit energy facilities in Kyiv, including thermal power plant no. 4 according to President Zelensky. Tolls differ by source: Reuters, citing the mayor, reports one death; Ukrainian emergency services report three dead and 21 injured. Donald Trump announced an energy-sector ceasefire on October 11; the Kremlin says contacts continue with no change so far.",
+      "es": "Ataques rusos en la noche del 13 al 14 de octubre alcanzaron instalaciones energéticas de Kiev, entre ellas la central térmica n.º 4 según el presidente Zelenski. Los balances difieren según la fuente: Reuters, citando al alcalde, informa de un muerto; los servicios de emergencia ucranianos hablan de tres muertos y 21 heridos. Donald Trump anunció el 11 de octubre una tregua en el sector energético; el Kremlin dice que los contactos continúan sin cambios por ahora."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "11/10/2026",
+          "en": "11/10/2026",
+          "es": "11/10/2026"
+        },
+        "d": {
+          "fr": "Donald Trump annonce un accord de cessez-le-feu sur le secteur énergétique entre la Russie et l'Ukraine.",
+          "en": "Donald Trump announces an energy-sector ceasefire agreed by Russia and Ukraine.",
+          "es": "Donald Trump anuncia un alto el fuego en el sector energético entre Rusia y Ucrania."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "14/10/2026",
+          "en": "14/10/2026",
+          "es": "14/10/2026"
+        },
+        "d": {
+          "fr": "Frappes sur Kyiv : coupures d'électricité, bilan humain variable selon les sources (1 à 3 morts, jusqu'à 21 blessés).",
+          "en": "Strikes on Kyiv: power outages, casualty figures vary by source (1 to 3 dead, up to 21 injured).",
+          "es": "Ataques en Kiev: cortes de electricidad, balance humano variable según la fuente (1 a 3 muertos, hasta 21 heridos)."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      28.58,
+      43.69
+    ],
+    "id": "mernoire-bulgarie-navires",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "LBC / Cyprus Mail / Marine Insight",
+    "place": {
+      "fr": "Mer Noire, au large de Krapets, Bulgarie",
+      "en": "Black Sea, off Krapets, Bulgaria",
+      "es": "Mar Negro, frente a Krapets, Bulgaria"
+    },
+    "title": {
+      "fr": "Deux cargos touchés par des drones au large de la Bulgarie : 11 marins portés disparus",
+      "en": "Two cargo ships hit by drones off Bulgaria: 11 sailors missing",
+      "es": "Dos cargueros alcanzados por drones frente a Bulgaria: 11 marineros desaparecidos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 12 au 13 octobre, deux cargos ont été touchés par des drones près de Krapets. L'un a coulé : cinq marins ont été secourus et onze sont portés disparus ; le second a vu ses 15 membres d'équipage secourus. Le nom du navire coulé varie selon les sources (HS Dignity ou Azov Concord). La Bulgarie a convoqué l'ambassadrice de Russie sans désigner publiquement de responsable ; l'ambassadrice dit n'avoir aucune information et n'exclut pas une provocation d'un tiers. L'Ukraine et l'UE ont condamné les attaques.",
+      "en": "Overnight on October 12–13, two cargo ships were hit by drones near Krapets. One sank: five crew were rescued and eleven are missing; the other ship's 15 crew were all rescued. The sunken vessel's name varies by source (HS Dignity or Azov Concord). Bulgaria summoned Russia's ambassador without publicly naming a culprit; the ambassador says she has no information and did not rule out a provocation by a third party. Ukraine and the EU condemned the attacks.",
+      "es": "En la noche del 12 al 13 de octubre, dos cargueros fueron alcanzados por drones cerca de Krapets. Uno se hundió: cinco tripulantes fueron rescatados y once siguen desaparecidos; los 15 tripulantes del otro buque fueron rescatados. El nombre del buque hundido varía según la fuente (HS Dignity o Azov Concord). Bulgaria convocó a la embajadora rusa sin señalar públicamente a un responsable; la embajadora dice no tener información y no descartó una provocación de un tercero. Ucrania y la UE condenaron los ataques."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "13/10/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "Deux cargos frappés par des drones ; recherches en cours pour 11 marins disparus.",
+          "en": "Two cargo ships struck by drones; search under way for 11 missing sailors.",
+          "es": "Dos cargueros alcanzados por drones; búsqueda en curso de 11 marineros desaparecidos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "related": [
+      "odessa-attaque",
+      "kyiv-chaufferie-frappe"
+    ],
+    "priority": 3
+  },
+  {
+    "coords": [
+      124.3947,
+      40.1243
+    ],
+    "id": "chine-coree-pont-yalu",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🌉",
+    "source": "AP / Al Jazeera / Xinhua",
+    "place": {
+      "fr": "Dandong (Chine) – Sinuiju (Corée du Nord)",
+      "en": "Dandong (China) – Sinuiju (North Korea)",
+      "es": "Dandong (China) – Sinuiju (Corea del Norte)"
+    },
+    "title": {
+      "fr": "La Chine et la Corée du Nord inaugurent le nouveau pont sur le Yalou",
+      "en": "China and North Korea open the New Yalu River Bridge",
+      "es": "China y Corea del Norte inauguran el nuevo puente sobre el Yalu"
+    },
+    "summary": {
+      "fr": "Le nouveau pont routier de quatre voies (environ 3 km) reliant Dandong à Sinuiju a été inauguré le 15 octobre, plus de dix ans après l'achèvement du côté chinois en 2014. Selon Xinhua, le Premier ministre Li Qiang a évoqué une « nouvelle étape » des relations. Des observateurs notent qu'il pourrait faciliter le commerce, y compris des échanges contraires aux sanctions de l'ONU.",
+      "en": "The four-lane, roughly 3 km road bridge linking Dandong to Sinuiju opened on October 15, more than a decade after China completed its side in 2014. According to Xinhua, Premier Li Qiang spoke of a 'new stage' in relations. Observers note it could ease trade, including exchanges that violate UN sanctions.",
+      "es": "El nuevo puente de cuatro carriles (unos 3 km) que une Dandong con Sinuiju se inauguró el 15 de octubre, más de diez años después de que China terminara su parte en 2014. Según Xinhua, el primer ministro Li Qiang habló de una 'nueva etapa' en las relaciones. Algunos observadores señalan que podría facilitar el comercio, incluidos intercambios contrarios a las sanciones de la ONU."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/10/2026",
+          "en": "15/10/2026",
+          "es": "15/10/2026"
+        },
+        "d": {
+          "fr": "Cérémonie d'ouverture du pont, selon Xinhua.",
+          "en": "Opening ceremony of the bridge, according to Xinhua.",
+          "es": "Ceremonia de apertura del puente, según Xinhua."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      113.92,
+      -2.21
+    ],
+    "id": "asie-sud-est-brume",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌫️",
+    "source": "Jakarta Post / Khaleej Times / Euronews",
+    "place": {
+      "fr": "Bornéo et Sumatra (Indonésie), brume sur Singapour et la Malaisie",
+      "en": "Borneo and Sumatra (Indonesia), haze over Singapore and Malaysia",
+      "es": "Borneo y Sumatra (Indonesia), bruma sobre Singapur y Malasia"
+    },
+    "title": {
+      "fr": "Incendies en Indonésie : une brume toxique couvre l'Asie du Sud-Est",
+      "en": "Indonesian fires: toxic haze blankets Southeast Asia",
+      "es": "Incendios en Indonesia: bruma tóxica cubre el Sudeste Asiático"
+    },
+    "summary": {
+      "fr": "Des incendies de forêts et de tourbières à Bornéo et Sumatra, aggravés selon la presse par un fort El Niño, provoquent une brume transfrontalière. Le 15 octobre, Kuala Lumpur figurait en tête du classement IQAir des grandes villes les plus polluées, suivie de Singapour. Le Timor oriental a fermé ses écoles trois jours, et plusieurs États malaisiens aussi. L'Indonésie dit mobiliser plus de 60 000 personnes ; l'ASEAN doit aborder le sujet le mois prochain.",
+      "en": "Forest and peatland fires on Borneo and Sumatra, worsened according to press reports by a strong El Niño, are causing transboundary haze. On October 15, Kuala Lumpur topped IQAir's ranking of the most polluted major cities, followed by Singapore. East Timor closed schools for three days, as did several Malaysian states. Indonesia says it has deployed over 60,000 personnel; ASEAN is due to discuss the issue next month.",
+      "es": "Incendios de bosques y turberas en Borneo y Sumatra, agravados según la prensa por un fuerte El Niño, causan una bruma transfronteriza. El 15 de octubre, Kuala Lumpur encabezó el ranking de IQAir de grandes ciudades más contaminadas, seguida de Singapur. Timor Oriental cerró escuelas durante tres días, al igual que varios estados malayos. Indonesia afirma haber movilizado a más de 60 000 personas; la ASEAN abordará el tema el próximo mes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15/10/2026",
+          "en": "15/10/2026",
+          "es": "15/10/2026"
+        },
+        "d": {
+          "fr": "Kuala Lumpur et Singapour en tête des villes les plus polluées selon IQAir ; écoles fermées dans plusieurs zones.",
+          "en": "Kuala Lumpur and Singapore top IQAir's most polluted cities; schools closed in several areas.",
+          "es": "Kuala Lumpur y Singapur encabezan las ciudades más contaminadas según IQAir; escuelas cerradas en varias zonas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      43.25,
+      13.32
+    ],
+    "id": "yemen-houthis-arabie",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚔️",
+    "source": "The National / Anadolu / Security Council Report",
+    "place": {
+      "fr": "Yémen (Hodeïda, Taëz, Moka)",
+      "en": "Yemen (Hodeidah, Taiz, Mokha)",
+      "es": "Yemen (Hodeida, Taiz, Moca)"
+    },
+    "title": {
+      "fr": "Yémen : les combats entre Houthis et forces soutenues par l'Arabie saoudite s'intensifient",
+      "en": "Yemen: fighting between Houthis and Saudi-backed forces intensifies",
+      "es": "Yemen: se intensifican los combates entre hutíes y fuerzas respaldadas por Arabia Saudí"
+    },
+    "summary": {
+      "fr": "Selon le directeur général de l'OMS (7 octobre), près de 1 000 personnes ont été tuées, plus de 4 200 blessées et près de 198 000 déplacées depuis la dernière escalade. Les Houthis revendiquent des attaques contre des sites d'Aramco, ce que l'Arabie saoudite n'a pas confirmé. Le 9 octobre, l'envoyé de l'ONU Hans Grundberg a appelé les parties à négocier. Les chiffres et revendications émanent en partie des parties et ne sont pas vérifiés de façon indépendante.",
+      "en": "According to the WHO director-general (October 7), nearly 1,000 people have been killed, more than 4,200 injured and nearly 198,000 displaced since the latest escalation. The Houthis claim attacks on Aramco sites, which Saudi Arabia has not confirmed. On October 9, UN envoy Hans Grundberg urged the parties to negotiate. Figures and claims partly come from the parties and are not independently verified.",
+      "es": "Según el director general de la OMS (7 de octubre), cerca de 1 000 personas han muerto, más de 4 200 han resultado heridas y casi 198 000 han sido desplazadas desde la última escalada. Los hutíes reivindican ataques contra instalaciones de Aramco, algo que Arabia Saudí no ha confirmado. El 9 de octubre, el enviado de la ONU Hans Grundberg instó a las partes a negociar. Las cifras y reivindicaciones proceden en parte de las partes y no están verificadas de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09/10/2026",
+          "en": "09/10/2026",
+          "es": "09/10/2026"
+        },
+        "d": {
+          "fr": "Séance du Conseil de sécurité : Grundberg appelle à des stratégies politiques.",
+          "en": "Security Council session: Grundberg calls for political strategies.",
+          "es": "Sesión del Consejo de Seguridad: Grundberg pide estrategias políticas."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W42",
+    "related": [],
+    "priority": 3
   }
 ]
