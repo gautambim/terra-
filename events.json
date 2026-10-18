@@ -829,5 +829,301 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "bresil-presidentielle-2eme-tour",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Tribunal supérieur électoral (TSE) ; presse brésilienne",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : Lula et Flávio Bolsonaro au second tour de la présidentielle le 25 octobre",
+      "en": "Brazil: Lula and Flávio Bolsonaro head to the October 25 presidential runoff",
+      "es": "Brasil: Lula y Flávio Bolsonaro van a la segunda vuelta presidencial el 25 de octubre"
+    },
+    "summary": {
+      "fr": "Aucun candidat n'ayant obtenu la majorité au premier tour, Luiz Inácio Lula da Silva (PT) et Flávio Bolsonaro (PL) s'affrontent au second tour le 25 octobre. Les pourcentages du premier tour varient légèrement selon les sources (environ 47 % pour Flávio Bolsonaro et 45 % pour Lula) ; les chiffres définitifs sont à consulter auprès du TSE.",
+      "en": "As no candidate won a majority in the first round, Luiz Inácio Lula da Silva (PT) and Flávio Bolsonaro (PL) face each other in a runoff on October 25. First-round percentages differ slightly between sources (about 47% for Flávio Bolsonaro and 45% for Lula); final figures should be checked with the TSE.",
+      "es": "Al no obtener ningún candidato la mayoría en la primera vuelta, Luiz Inácio Lula da Silva (PT) y Flávio Bolsonaro (PL) se enfrentan en una segunda vuelta el 25 de octubre. Los porcentajes de la primera vuelta varían ligeramente según las fuentes (en torno al 47 % para Flávio Bolsonaro y al 45 % para Lula); las cifras definitivas deben consultarse en el TSE."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : le TSE annonce un second tour entre Lula et Flávio Bolsonaro.",
+          "en": "First round: the TSE announces a runoff between Lula and Flávio Bolsonaro.",
+          "es": "Primera vuelta: el TSE anuncia una segunda vuelta entre Lula y Flávio Bolsonaro."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "25/10/2026 (prévu)",
+          "en": "25/10/2026 (scheduled)",
+          "es": "25/10/2026 (previsto)"
+        },
+        "d": {
+          "fr": "Date prévue du second tour.",
+          "en": "Scheduled date of the runoff.",
+          "es": "Fecha prevista de la segunda vuelta."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "hormuz-navires-coules-oct",
+    "coords": [
+      56.3,
+      26.5
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚢",
+    "source": "Reuters (via ARY News) ; Shafaq News",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Détroit d'Ormuz et ses abords (position exacte des navires non précisée)",
+      "en": "Strait of Hormuz and surrounding waters (exact ship positions not specified)",
+      "es": "Estrecho de Ormuz y aguas cercanas (posición exacta de los buques no especificada)"
+    },
+    "title": {
+      "fr": "Ormuz : deux navires coulés après des frappes, causes contestées",
+      "en": "Hormuz: two ships sunk after strikes, causes disputed",
+      "es": "Ormuz: dos buques hundidos tras impactos, causas en disputa"
+    },
+    "summary": {
+      "fr": "Selon Reuters, le porte-conteneurs GFS Pride (pavillon de Singapour) a coulé, ses 21 membres d'équipage ayant été évacués, et le vraquier Cape Dao, touché le 23 septembre, a également coulé, faisant un mort. Les deux navires auraient été touchés par des projectiles ; les Gardiens de la révolution iraniens attribuent un naufrage à une mine navale. Un pétrolier en feu a aussi été signalé à l'est du détroit, sans que l'origine soit établie. Les responsabilités restent non confirmées.",
+      "en": "According to Reuters, the Singapore-flagged container ship GFS Pride sank with all 21 crew evacuated, and the bulk carrier Cape Dao, struck on September 23, also sank, killing one crew member. Both were reportedly hit by projectiles; Iran's Revolutionary Guards attribute one sinking to a naval mine. A burning oil tanker was also reported east of the strait, with the cause unestablished. Responsibility remains unconfirmed.",
+      "es": "Según Reuters, el portacontenedores GFS Pride (bandera de Singapur) se hundió con sus 21 tripulantes evacuados, y el granelero Cape Dao, alcanzado el 23 de septiembre, también se hundió, con un tripulante muerto. Ambos habrían sido alcanzados por proyectiles; la Guardia Revolucionaria iraní atribuye un hundimiento a una mina naval. También se informó de un petrolero en llamas al este del estrecho, sin que se haya establecido la causa. Las responsabilidades no están confirmadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "23/09/2026",
+          "en": "23/09/2026",
+          "es": "23/09/2026"
+        },
+        "d": {
+          "fr": "Le vraquier Cape Dao est touché.",
+          "en": "The bulk carrier Cape Dao is struck.",
+          "es": "El granelero Cape Dao es alcanzado."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "15/10/2026",
+          "en": "15/10/2026",
+          "es": "15/10/2026"
+        },
+        "d": {
+          "fr": "Le GFS Pride coule ; le Cape Dao coule à son tour. Versions divergentes sur l'origine (projectiles / mine).",
+          "en": "GFS Pride sinks; Cape Dao later sinks. Accounts differ on the cause (projectiles / mine).",
+          "es": "El GFS Pride se hunde; el Cape Dao también. Versiones distintas sobre la causa (proyectiles / mina)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "ue-sommet-budget-oct",
+    "coords": [
+      4.3811,
+      50.8394
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇪🇺",
+    "source": "Gouvernement fédéral allemand ; Stuttgarter Zeitung",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Bruxelles, Belgique",
+      "en": "Brussels, Belgium",
+      "es": "Bruselas, Bélgica"
+    },
+    "title": {
+      "fr": "Sommet européen : le budget à long terme de l'UE sans accord",
+      "en": "European summit: no agreement on the EU's long-term budget",
+      "es": "Cumbre europea: sin acuerdo sobre el presupuesto a largo plazo de la UE"
+    },
+    "summary": {
+      "fr": "Lors du Conseil européen des 15 et 16 octobre, le chancelier Friedrich Merz a plaidé pour la retenue budgétaire, jugeant une hausse de 60 % au niveau de l'UE ni justifiable ni finançable. Aucun compromis n'a émergé ; le président du Conseil, António Costa, doit proposer un nouveau texte, avec un accord visé pour le sommet de décembre. La migration figurait aussi à l'ordre du jour.",
+      "en": "At the October 15–16 European Council, Chancellor Friedrich Merz argued for budget restraint, calling a 60% increase at EU level neither justifiable nor financially viable. No compromise emerged; Council President António Costa is to draft a new proposal, with a deal targeted for the December summit. Migration was also on the agenda.",
+      "es": "En el Consejo Europeo del 15 y 16 de octubre, el canciller Friedrich Merz abogó por la contención presupuestaria, considerando que un aumento del 60 % a nivel de la UE no es justificable ni viable. No surgió ningún compromiso; el presidente del Consejo, António Costa, debe redactar una nueva propuesta, con un acuerdo previsto para la cumbre de diciembre. La migración también figuraba en la agenda."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "15–16/10/2026",
+          "en": "15–16/10/2026",
+          "es": "15–16/10/2026"
+        },
+        "d": {
+          "fr": "Conseil européen à Bruxelles : divergences sur le cadre financier pluriannuel.",
+          "en": "European Council in Brussels: differences over the multiannual financial framework.",
+          "es": "Consejo Europeo en Bruselas: diferencias sobre el marco financiero plurianual."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "republique-tcheque-senat-oct",
+    "coords": [
+      14.4208,
+      50.088
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳️",
+    "source": "Associated Press",
+    "week": "2026-W42",
+    "place": {
+      "fr": "République tchèque (Prague)",
+      "en": "Czech Republic (Prague)",
+      "es": "República Checa (Praga)"
+    },
+    "title": {
+      "fr": "Tchéquie : l'opposition devance le parti d'Andrej Babiš au premier tour des sénatoriales",
+      "en": "Czechia: opposition outpaces Babiš's party in first round of Senate election",
+      "es": "Chequia: la oposición supera al partido de Babiš en la primera vuelta del Senado"
+    },
+    "summary": {
+      "fr": "Selon l'AP, au premier tour des élections sénatoriales du 9 octobre, aucun des cinq candidats élus d'emblée n'appartient à l'ANO d'Andrej Babiš. L'ANO a 13 candidats qualifiés pour le second tour, contre 26 pour des candidats de l'opposition et de groupes pro-occidentaux ; 22 sièges restent à pourvoir lors des ballottages la semaine suivante. Résultats du second tour non vérifiés.",
+      "en": "According to AP, in the October 9 first round of Senate elections none of the five candidates elected outright belong to Andrej Babiš's ANO. ANO has 13 candidates advancing to the runoffs versus 26 from opposition and pro-Western groupings; 22 seats remain to be decided in runoffs the following week. Runoff results not verified.",
+      "es": "Según AP, en la primera vuelta de las elecciones al Senado del 9 de octubre, ninguno de los cinco candidatos elegidos directamente pertenece al ANO de Andrej Babiš. El ANO tiene 13 candidatos en la segunda vuelta frente a 26 de la oposición y grupos proeuropeos; quedan 22 escaños por decidir la semana siguiente. Resultados de la segunda vuelta no verificados."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09–11/10/2026",
+          "en": "09–11/10/2026",
+          "es": "09–11/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour et publication des résultats finaux.",
+          "en": "First round and publication of final results.",
+          "es": "Primera vuelta y publicación de resultados finales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "usa-russie-derogation-diesel",
+    "coords": [
+      -77.0369,
+      38.9072
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🛢️",
+    "source": "Médias internationaux (Axios, Times of Israel, Malay Mail)",
+    "week": "2026-W42",
+    "place": {
+      "fr": "Washington, États-Unis",
+      "en": "Washington, United States",
+      "es": "Washington, Estados Unidos"
+    },
+    "title": {
+      "fr": "États-Unis : dérogation aux sanctions énergétiques russes, vives réactions de Kiev",
+      "en": "United States: waiver on Russian energy sanctions draws sharp reaction from Kyiv",
+      "es": "Estados Unidos: exención a las sanciones energéticas a Rusia genera fuerte reacción de Kiev"
+    },
+    "summary": {
+      "fr": "Début octobre, Donald Trump a annoncé un accord avec la Russie pour accroître l'offre de diesel, assorti d'une dérogation à certaines sanctions énergétiques américaines, afin de faire baisser les prix du carburant. Volodymyr Zelensky a jugé la mesure « ni juste ni honnête » ; Donald Trump a lié les frappes ukrainiennes sur des raffineries russes aux prix du diesel. Zelensky a répondu que l'Ukraine pourrait organiser des élections si la Russie acceptait un cessez-le-feu de 60 jours. La nature juridique exacte de la dérogation n'a pas été vérifiée.",
+      "en": "In early October, Donald Trump announced a deal with Russia to increase diesel supplies, including a waiver on some US energy sanctions, aiming to lower fuel prices. Volodymyr Zelensky called the move \"not fair and not honest\"; Donald Trump linked Ukrainian strikes on Russian refineries to diesel prices. Zelensky replied that Ukraine could hold elections if Russia agreed to a 60-day ceasefire. The exact legal instrument of the waiver was not verified.",
+      "es": "A principios de octubre, Donald Trump anunció un acuerdo con Rusia para aumentar el suministro de diésel, con una exención a algunas sanciones energéticas estadounidenses, para bajar los precios del combustible. Volodymyr Zelenski calificó la medida de «ni justa ni honesta»; Donald Trump vinculó los ataques ucranianos a refinerías rusas con el precio del diésel. Zelenski respondió que Ucrania podría celebrar elecciones si Rusia aceptara un alto el fuego de 60 días. No se verificó el instrumento jurídico exacto de la exención."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "09–12/10/2026",
+          "en": "09–12/10/2026",
+          "es": "09–12/10/2026"
+        },
+        "d": {
+          "fr": "Annonce de l'accord et échanges publics entre Trump et Zelensky.",
+          "en": "Announcement of the deal and public exchanges between Trump and Zelensky.",
+          "es": "Anuncio del acuerdo e intercambios públicos entre Trump y Zelenski."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "france-manifestations-vie-chere-oct",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "securite",
+    "icon": "📢",
+    "source": "Connexion France ; Euronews (non vérifié)",
+    "week": "2026-W42",
+    "place": {
+      "fr": "France (Paris, Marseille, Lyon et autres villes)",
+      "en": "France (Paris, Marseille, Lyon and other cities)",
+      "es": "Francia (París, Marsella, Lyon y otras ciudades)"
+    },
+    "title": {
+      "fr": "France : journée de manifestations contre la vie chère le 17 octobre",
+      "en": "France: day of cost-of-living protests on October 17",
+      "es": "Francia: jornada de protestas contra el coste de la vida el 17 de octubre"
+    },
+    "summary": {
+      "fr": "Un appel citoyen de type « gilets jaunes », rejoint par la CGT, La France insoumise et le PCF, a convoqué plusieurs centaines d'actions samedi 17 octobre contre la hausse du carburant, des loyers et le projet de budget 2027. Des résumés de presse font état d'affrontements et d'arrestations à Paris, Lyon et Marseille ; ces éléments n'ont pas pu être confirmés de façon indépendante et les bilans restent à vérifier.",
+      "en": "A grassroots \"yellow vest\"-style call, joined by the CGT, La France Unbowed and the Communist Party, summoned several hundred actions on Saturday October 17 against rising fuel and rent costs and the proposed 2027 budget. News summaries mention clashes and arrests in Paris, Lyon and Marseille; these could not be independently confirmed and tallies remain to be verified.",
+      "es": "Una convocatoria ciudadana de tipo «chalecos amarillos», a la que se sumaron la CGT, La Francia Insumisa y el PCF, llamó a varios cientos de acciones el sábado 17 de octubre contra el alza del combustible y los alquileres y el proyecto de presupuesto 2027. Resúmenes de prensa mencionan enfrentamientos y detenciones en París, Lyon y Marsella; no se pudieron confirmar de forma independiente y los balances están por verificar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/10/2026",
+          "en": "17/10/2026",
+          "es": "17/10/2026"
+        },
+        "d": {
+          "fr": "Journée d'actions dans de nombreuses villes ; bilan non vérifié.",
+          "en": "Day of actions in many cities; tally not verified.",
+          "es": "Jornada de acciones en numerosas ciudades; balance no verificado."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
   }
 ]
