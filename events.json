@@ -829,5 +829,211 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "kenya-ebola",
+    "coords": [
+      36.8219,
+      -1.2921
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦠",
+    "source": "Citizen Digital, Africanews, Euronews",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Nairobi, Kenya",
+      "en": "Nairobi, Kenya",
+      "es": "Nairobi, Kenia"
+    },
+    "title": {
+      "fr": "Kenya : un troisième cas d'Ebola confirmé à Nairobi",
+      "en": "Kenya: third Ebola case confirmed in Nairobi",
+      "es": "Kenia: confirmado un tercer caso de ébola en Nairobi"
+    },
+    "summary": {
+      "fr": "Le ministère kényan de la Santé a confirmé le 16 octobre un troisième cas d'Ebola, une femme de 65 ans proche parente des deux premiers patients. Le premier cas, un homme de 40 ans arrivé de RD Congo, est décédé à Nairobi. 127 des 130 contacts identifiés ont été retrouvés et placés en quarantaine ; le ministère indique n'avoir aucune preuve de transmission communautaire. Certains médias évoquent un bilan plus élevé : non vérifié à ce stade.",
+      "en": "Kenya's Ministry of Health confirmed on October 16 a third Ebola case, a 65-year-old woman who is a close relative of the first two patients. The first case, a 40-year-old man who arrived from Congo, died in Nairobi. 127 of 130 identified contacts have been traced and quarantined; the ministry says there is no evidence of community transmission. Some outlets mention a higher count: unverified at this stage.",
+      "es": "El Ministerio de Salud de Kenia confirmó el 16 de octubre un tercer caso de ébola, una mujer de 65 años familiar cercana de los dos primeros pacientes. El primer caso, un hombre de 40 años llegado desde el Congo, murió en Nairobi. Se han localizado y puesto en cuarentena 127 de los 130 contactos identificados; el ministerio dice no tener pruebas de transmisión comunitaria. Algunos medios mencionan una cifra mayor: no verificada por ahora."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "Début octobre 2026",
+          "en": "Early October 2026",
+          "es": "Principios de octubre de 2026"
+        },
+        "d": {
+          "fr": "Un voyageur venu de RD Congo décède à Nairobi ; le premier cas d'Ebola est confirmé.",
+          "en": "A traveller from Congo dies in Nairobi; the first Ebola case is confirmed.",
+          "es": "Un viajero llegado del Congo muere en Nairobi; se confirma el primer caso de ébola."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/10/2026",
+          "en": "16/10/2026",
+          "es": "16/10/2026"
+        },
+        "d": {
+          "fr": "Un troisième cas, parente des deux premiers, est confirmé ; 127 contacts sur 130 sont suivis.",
+          "en": "A third case, a relative of the first two, is confirmed; 127 of 130 contacts are traced.",
+          "es": "Se confirma un tercer caso, familiar de los dos primeros; 127 de 130 contactos localizados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "pape-leon-chirurgie",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🏥",
+    "source": "Vatican (via MaltaToday, GulfNews)",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Polyclinique Gemelli, Rome, Italie",
+      "en": "Gemelli Hospital, Rome, Italy",
+      "es": "Policlínico Gemelli, Roma, Italia"
+    },
+    "title": {
+      "fr": "Le pape Léon XIV opéré d'un cancer du poumon à Rome",
+      "en": "Pope Leo XIV undergoes lung cancer surgery in Rome",
+      "es": "El papa León XIV, operado de cáncer de pulmón en Roma"
+    },
+    "summary": {
+      "fr": "Le pape Léon XIV a subi le 13 octobre une ablation partielle du poumon droit à l'hôpital Gemelli. Le Vatican indique que l'opération a réussi, sans complication, et confirme un adénocarcinome pulmonaire. Une hospitalisation d'environ une semaine est prévue et les audiences sont suspendues jusqu'au 20 octobre.",
+      "en": "Pope Leo XIV underwent partial removal of his right lung at Gemelli Hospital on October 13. The Vatican says the surgery was successful with no complications and confirms lung adenocarcinoma. About a week of hospitalisation is expected and audiences are suspended through October 20.",
+      "es": "El papa León XIV se sometió el 13 de octubre a la extirpación parcial del pulmón derecho en el hospital Gemelli. El Vaticano afirma que la cirugía fue exitosa, sin complicaciones, y confirma un adenocarcinoma de pulmón. Se prevé una semana de hospitalización y las audiencias están suspendidas hasta el 20 de octubre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/10/2026",
+          "en": "13/10/2026",
+          "es": "13/10/2026"
+        },
+        "d": {
+          "fr": "Opération réussie selon le Vatican ; le pape est de retour dans sa chambre.",
+          "en": "Surgery successful according to the Vatican; the pope is back in his room.",
+          "es": "Cirugía exitosa según el Vaticano; el papa vuelve a su habitación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "liban-israel-tampa",
+    "coords": [
+      -82.4572,
+      27.9506
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Ynet, Asharq Al-Awsat, QNA",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Tampa, Floride, États-Unis (siège du CENTCOM)",
+      "en": "Tampa, Florida, United States (CENTCOM headquarters)",
+      "es": "Tampa, Florida, Estados Unidos (sede del CENTCOM)"
+    },
+    "title": {
+      "fr": "Liban–Israël : réunion militaire sous égide américaine en Floride",
+      "en": "Lebanon–Israel military meeting under US auspices in Florida",
+      "es": "Líbano–Israel: reunión militar con auspicio de EE. UU. en Florida"
+    },
+    "summary": {
+      "fr": "Des représentants des armées libanaise et israélienne doivent se réunir à partir du 20 octobre au siège du Commandement central américain, à Tampa. La délégation libanaise est dirigée par l'ambassadeur Simon Karam. Les sources divergent : une source libanaise parle d'une réunion purement militaire sans volet politique, tandis qu'Asharq Al-Awsat y voit la poursuite du processus politique. Résultats non connus à ce stade.",
+      "en": "Representatives of the Lebanese and Israeli armies are due to meet from October 20 at US Central Command headquarters in Tampa. Lebanon's delegation is led by Ambassador Simon Karam. Accounts differ: a Lebanese source describes a purely military meeting with no political track, while Asharq Al-Awsat sees it as a continuation of the political process. Outcome not yet known.",
+      "es": "Representantes de los ejércitos libanés e israelí deben reunirse desde el 20 de octubre en la sede del Comando Central de EE. UU. en Tampa. La delegación libanesa está encabezada por el embajador Simon Karam. Las versiones difieren: una fuente libanesa habla de una reunión puramente militar sin vertiente política, mientras que Asharq Al-Awsat la ve como continuación del proceso político. Resultado aún desconocido."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/10/2026",
+          "en": "20/10/2026",
+          "es": "20/10/2026"
+        },
+        "d": {
+          "fr": "Ouverture prévue de la réunion à Tampa.",
+          "en": "Meeting scheduled to open in Tampa.",
+          "es": "Apertura prevista de la reunión en Tampa."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "kyiv-frappes-octobre",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Novoye Vremya (NV), United24 Media",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Kyiv, Ukraine (arrondissement de Darnytskyi)",
+      "en": "Kyiv, Ukraine (Darnytskyi district)",
+      "es": "Kiev, Ucrania (distrito de Darnytskyi)"
+    },
+    "title": {
+      "fr": "Kyiv : frappes russes nocturnes, deux morts à Darnytskyi",
+      "en": "Kyiv: overnight Russian strikes, two dead in Darnytskyi",
+      "es": "Kiev: ataques rusos nocturnos, dos muertos en Darnytskyi"
+    },
+    "summary": {
+      "fr": "Selon NV, une frappe aérienne russe a provoqué le 7 octobre un incendie dans une coopérative de garages du district de Darnytskyi, tuant deux personnes ; des débris et frappes ont aussi touché d'autres districts et perturbé les transports. Le 1er octobre, un drone a touché le pont Pivdennyi au passage d'une rame de métro, sans blessé signalé. Bilan issu d'une seule source principale ; la partie russe n'a pas été citée.",
+      "en": "According to NV, a Russian air attack on October 7 caused a fire at a garage cooperative in Kyiv's Darnytskyi district, killing two people; debris and strikes also hit other districts and disrupted transport. On October 1, a drone hit the Pivdennyi Bridge as a metro train crossed, with no injuries reported. Toll from a single main source; the Russian side was not quoted.",
+      "es": "Según NV, un ataque aéreo ruso el 7 de octubre provocó un incendio en una cooperativa de garajes del distrito de Darnytskyi, en Kiev, con dos muertos; los escombros y ataques alcanzaron otros distritos y alteraron el transporte. El 1 de octubre un dron impactó el puente Pivdennyi cuando pasaba un tren de metro, sin heridos reportados. Balance de una sola fuente principal; no se citó a la parte rusa."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "01/10/2026",
+          "en": "01/10/2026",
+          "es": "01/10/2026"
+        },
+        "d": {
+          "fr": "Un drone frappe le pont Pivdennyi ; circulation suspendue.",
+          "en": "A drone hits the Pivdennyi Bridge; traffic suspended.",
+          "es": "Un dron impacta el puente Pivdennyi; tráfico suspendido."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "07/10/2026",
+          "en": "07/10/2026",
+          "es": "07/10/2026"
+        },
+        "d": {
+          "fr": "Frappes nocturnes : deux morts à Darnytskyi.",
+          "en": "Overnight strikes: two dead in Darnytskyi.",
+          "es": "Ataques nocturnos: dos muertos en Darnytskyi."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
   }
 ]
