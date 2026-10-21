@@ -829,5 +829,466 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "coords": [
+      28.9784,
+      41.0082
+    ],
+    "id": "istanbul-inondations",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌊",
+    "source": "Euronews / Hürriyet Daily News / Bluewin",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Istanbul et province de Kocaeli, Turquie",
+      "en": "Istanbul and Kocaeli province, Türkiye",
+      "es": "Estambul y provincia de Kocaeli, Turquía"
+    },
+    "title": {
+      "fr": "Inondations à Istanbul : le bilan monte à huit morts",
+      "en": "Istanbul floods: death toll rises to eight",
+      "es": "Inundaciones en Estambul: el balance sube a ocho muertos"
+    },
+    "summary": {
+      "fr": "Selon le gouverneur d'Istanbul, Davut Gül, huit personnes sont mortes dans les inondations (six à Istanbul, deux dans la province voisine de Kocaeli, dont les corps ont été retrouvés sur le littoral d'Istanbul). Une personne est toujours portée disparue. Près de 20 000 signalements de dégâts matériels ont été reçus.",
+      "en": "Istanbul governor Davut Gül says eight people have died in the floods (six in Istanbul, two from neighbouring Kocaeli province whose bodies washed up on Istanbul's coast). One person is still missing. Nearly 20,000 reports of property damage have been received.",
+      "es": "Según el gobernador de Estambul, Davut Gül, ocho personas han muerto en las inundaciones (seis en Estambul y dos de la vecina provincia de Kocaeli, cuyos cuerpos aparecieron en la costa de Estambul). Una persona sigue desaparecida. Se han recibido cerca de 20.000 avisos de daños materiales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/10/2026",
+          "en": "19/10/2026",
+          "es": "19/10/2026"
+        },
+        "d": {
+          "fr": "Les secouristes retrouvent d'autres corps ; le gouverneur annonce huit morts et un disparu.",
+          "en": "Rescuers find more bodies; the governor reports eight dead and one missing.",
+          "es": "Los equipos de rescate hallan más cuerpos; el gobernador informa de ocho muertos y un desaparecido."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      -0.1192,
+      38.9189
+    ],
+    "id": "espagne-dana-oliva",
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌧",
+    "source": "Ground News / NL Times / RSI",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Oliva et Pego (Valence), Espagne",
+      "en": "Oliva and Pego (Valencia), Spain",
+      "es": "Oliva y Pego (Valencia), España"
+    },
+    "title": {
+      "fr": "DANA en Espagne : au moins quatre morts, villages coupés près de Valence",
+      "en": "DANA storm in Spain: at least four dead, villages cut off near Valencia",
+      "es": "DANA en España: al menos cuatro muertos y pueblos aislados cerca de Valencia"
+    },
+    "summary": {
+      "fr": "La dépression DANA « Adam » a fait au moins quatre morts (trois en Communauté valencienne, une à Cabrera de Mar, Barcelone) selon les premiers bilans ; certains médias en comptent cinq. Oliva et Pego sont restées coupées du monde et environ 2 000 personnes ont été évacuées de campings à Oliva. Plus de 400 sauvetages ont été menés. Le bilan peut encore évoluer.",
+      "en": "The DANA storm \"Adam\" has killed at least four people according to early tallies (three in the Valencian Community, one in Cabrera de Mar, Barcelona); some outlets report five. Oliva and Pego were cut off and about 2,000 people were evacuated from campsites in Oliva. More than 400 rescues were carried out. The toll may still change.",
+      "es": "La DANA «Adam» ha causado al menos cuatro muertos según los primeros balances (tres en la Comunidad Valenciana y una en Cabrera de Mar, Barcelona); algunos medios hablan de cinco. Oliva y Pego quedaron aisladas y unas 2.000 personas fueron evacuadas de campings en Oliva. Se realizaron más de 400 rescates. El balance puede cambiar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/10/2026",
+          "en": "19/10/2026",
+          "es": "19/10/2026"
+        },
+        "d": {
+          "fr": "Premiers bilans : quatre morts, Oliva et Pego inaccessibles.",
+          "en": "First tallies: four dead, Oliva and Pego inaccessible.",
+          "es": "Primeros balances: cuatro muertos, Oliva y Pego inaccesibles."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/10/2026",
+          "en": "20/10/2026",
+          "es": "20/10/2026"
+        },
+        "d": {
+          "fr": "Euronews évoque cinq morts ; opérations de secours en cours à Oliva.",
+          "en": "Euronews cites five dead; rescue operations continue in Oliva.",
+          "es": "Euronews cita cinco muertos; continúan los rescates en Oliva."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      2.363,
+      48.867
+    ],
+    "id": "france-couvre-feu-emeutes",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚨",
+    "source": "AP / Euronews / 1News",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Paris, Lyon et Lille, France",
+      "en": "Paris, Lyon and Lille, France",
+      "es": "París, Lyon y Lille, Francia"
+    },
+    "title": {
+      "fr": "France : couvre-feux ciblés après des violences lors des manifestations sur le coût de la vie",
+      "en": "France: targeted curfews after violence at cost-of-living protests",
+      "es": "Francia: toques de queda tras la violencia en las protestas por el coste de la vida"
+    },
+    "summary": {
+      "fr": "Après des manifestations contre le coût de la vie devenues violentes le week-end des 17-18 octobre, la préfecture de police de Paris a instauré un couvre-feu de 23 h à 6 h place de la République et aux Halles, ainsi qu'une interdiction des rassemblements. Des mesures similaires visent des quartiers de Lyon et Lille. Les médias rapportent près de 2 400 interpellations et des dégâts dans au moins 3 000 commerces. Le Premier ministre Sébastien Lecornu n'exclut pas l'état d'urgence mais le juge inadapté à ce stade. Un déploiement militaire évoqué par un média n'a pas été confirmé ici.",
+      "en": "After cost-of-living protests turned violent over the weekend of 17-18 October, Paris police imposed an 11 pm-6 am curfew around Place de la République and Les Halles and banned gatherings. Similar measures cover parts of Lyon and Lille. Media report nearly 2,400 arrests and damage to at least 3,000 businesses. Prime Minister Sébastien Lecornu did not rule out a state of emergency but called it inappropriate at this stage. A military deployment mentioned by one outlet could not be confirmed here.",
+      "es": "Tras las protestas por el coste de la vida que degeneraron en violencia el fin de semana del 17-18 de octubre, la policía de París impuso un toque de queda de 23 h a 6 h en la plaza de la República y Les Halles, y prohibió las concentraciones. Medidas similares afectan a zonas de Lyon y Lille. Los medios informan de cerca de 2.400 detenciones y daños en al menos 3.000 comercios. El primer ministro Sébastien Lecornu no descarta el estado de emergencia pero lo considera inadecuado por ahora. Un despliegue militar citado por un medio no se pudo confirmar."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/10/2026",
+          "en": "17/10/2026",
+          "es": "17/10/2026"
+        },
+        "d": {
+          "fr": "Manifestations contre le coût de la vie ; émeutes à Paris.",
+          "en": "Cost-of-living protests; rioting in Paris.",
+          "es": "Protestas por el coste de la vida; disturbios en París."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/10/2026",
+          "en": "19/10/2026",
+          "es": "19/10/2026"
+        },
+        "d": {
+          "fr": "Couvre-feu nocturne annoncé à Paris, puis à Lyon et Lille.",
+          "en": "Overnight curfew announced in Paris, then Lyon and Lille.",
+          "es": "Toque de queda nocturno anunciado en París, luego en Lyon y Lille."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      146.3167,
+      -36.3589
+    ],
+    "id": "australie-haines-attaque",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚗",
+    "source": "ITV News / Euronews / SCMP",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Wangaratta, Victoria, Australie",
+      "en": "Wangaratta, Victoria, Australia",
+      "es": "Wangaratta, Victoria, Australia"
+    },
+    "title": {
+      "fr": "Australie : la députée Helen Haines grièvement blessée, renversée par une voiture",
+      "en": "Australia: MP Helen Haines critically injured after being hit by a car",
+      "es": "Australia: la diputada Helen Haines, gravemente herida tras ser atropellada"
+    },
+    "summary": {
+      "fr": "La députée indépendante Helen Haines, 65 ans, a été grièvement blessée le 19 octobre devant son bureau à Wangaratta, heurtée par un 4x4. Un homme de 43 ans a été arrêté ; un couteau a été saisi dans le véhicule. Le Premier ministre Anthony Albanese a déclaré que ce n'était « pas un accident » ; la police dit encore évaluer le caractère intentionnel. Le mobile est inconnu et l'unité antiterroriste enquête.",
+      "en": "Independent MP Helen Haines, 65, was critically injured on 19 October outside her office in Wangaratta when a Land Cruiser struck her. A 43-year-old man was arrested and a knife was seized from the vehicle. Prime Minister Anthony Albanese said it was \"no accident\"; police say they are still assessing whether it was deliberate. The motive is unknown and counter-terrorism police are investigating.",
+      "es": "La diputada independiente Helen Haines, de 65 años, resultó gravemente herida el 19 de octubre frente a su oficina en Wangaratta, al ser golpeada por un todoterreno. Un hombre de 43 años fue detenido y se halló un cuchillo en el vehículo. El primer ministro Anthony Albanese dijo que \"no fue un accidente\"; la policía aún evalúa si fue intencionado. Se desconoce el móvil y la unidad antiterrorista investiga."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/10/2026",
+          "en": "19/10/2026",
+          "es": "19/10/2026"
+        },
+        "d": {
+          "fr": "Haines est héliportée à Melbourne ; le suspect est arrêté.",
+          "en": "Haines is airlifted to Melbourne; the suspect is arrested.",
+          "es": "Haines es trasladada en helicóptero a Melbourne; el sospechoso es detenido."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      116.4074,
+      39.9042
+    ],
+    "id": "chine-pib-t3",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Al Jazeera / Bureau national des statistiques",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Pékin, Chine",
+      "en": "Beijing, China",
+      "es": "Pekín, China"
+    },
+    "title": {
+      "fr": "Chine : la croissance atteint 4,5 % au troisième trimestre",
+      "en": "China: growth reaches 4.5% in the third quarter",
+      "es": "China: el crecimiento alcanza el 4,5 % en el tercer trimestre"
+    },
+    "summary": {
+      "fr": "Selon le Bureau national des statistiques, le PIB chinois a progressé de 4,5 % sur un an au T3, au-dessus des 4,4 % attendus (+1,2 % sur le trimestre) ; 4,6 % sur neuf mois, dans la cible officielle de 4,5-5 %. Les exportations (+16 % sur neuf mois) tirent la croissance, tandis que la demande intérieure reste faible : ventes au détail +1,1 % en septembre, investissement immobilier −20,6 % sur neuf mois.",
+      "en": "The National Bureau of Statistics says China's GDP grew 4.5% year on year in Q3, above the 4.4% expected (+1.2% quarter on quarter); 4.6% over nine months, within the official 4.5-5% target. Exports (+16% over nine months) drive growth while domestic demand stays weak: retail sales +1.1% in September, real-estate investment −20.6% over nine months.",
+      "es": "Según la Oficina Nacional de Estadísticas, el PIB chino creció un 4,5 % interanual en el T3, por encima del 4,4 % previsto (+1,2 % trimestral); 4,6 % en nueve meses, dentro del objetivo oficial del 4,5-5 %. Las exportaciones (+16 % en nueve meses) impulsan el crecimiento, mientras la demanda interna sigue débil: ventas minoristas +1,1 % en septiembre e inversión inmobiliaria −20,6 % en nueve meses."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/10/2026",
+          "en": "19/10/2026",
+          "es": "19/10/2026"
+        },
+        "d": {
+          "fr": "Publication des chiffres du T3 par le Bureau national des statistiques.",
+          "en": "Q3 figures published by the National Bureau of Statistics.",
+          "es": "La Oficina Nacional de Estadísticas publica las cifras del T3."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      13.405,
+      52.52
+    ],
+    "id": "allemagne-nvidia",
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤖",
+    "source": "Reuters / Il Sole 24 Ore / deutschland.de",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "Allemagne : accord avec Nvidia sur l'IA industrielle au sommet « Invest in Germany »",
+      "en": "Germany signs industrial-AI agreement with Nvidia at 'Invest in Germany' summit",
+      "es": "Alemania firma con Nvidia un acuerdo de IA industrial en la cumbre «Invest in Germany»"
+    },
+    "summary": {
+      "fr": "Le ministère allemand de l'Économie a signé un protocole d'accord avec Nvidia pour développer des modèles d'IA industrielle fondés sur des données allemandes, en présence du chancelier Merz et de Jensen Huang. Une douzaine d'entreprises, dont Siemens et Audi, devraient participer. Les montants (plusieurs centaines de millions d'euros évoqués par la presse) n'ont pas été confirmés officiellement.",
+      "en": "Germany's economy ministry signed a memorandum of understanding with Nvidia to develop industrial AI models based on German data, with Chancellor Merz and Jensen Huang present. About a dozen companies, including Siemens and Audi, are expected to take part. The amounts (several hundred million euros reported by the press) have not been officially confirmed.",
+      "es": "El Ministerio de Economía alemán firmó un memorando de entendimiento con Nvidia para desarrollar modelos de IA industrial basados en datos alemanes, con el canciller Merz y Jensen Huang presentes. Se espera la participación de una docena de empresas, entre ellas Siemens y Audi. Las cifras (varios cientos de millones de euros según la prensa) no han sido confirmadas oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/10/2026",
+          "en": "20/10/2026",
+          "es": "20/10/2026"
+        },
+        "d": {
+          "fr": "Annonce du partenariat lors du sommet de Berlin.",
+          "en": "Partnership announced at the Berlin summit.",
+          "es": "Anuncio de la alianza en la cumbre de Berlín."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "id": "bresil-second-tour",
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🗳",
+    "source": "Al Jazeera / Datafolha / Quaest",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Brésil (scrutin national)",
+      "en": "Brazil (nationwide vote)",
+      "es": "Brasil (votación nacional)"
+    },
+    "title": {
+      "fr": "Brésil : second tour Lula–Flávio Bolsonaro le 25 octobre, course très serrée",
+      "en": "Brazil: Lula–Flávio Bolsonaro runoff on 25 October, race too close to call",
+      "es": "Brasil: segunda vuelta Lula–Flávio Bolsonaro el 25 de octubre, carrera muy reñida"
+    },
+    "summary": {
+      "fr": "Le second tour de la présidentielle aura lieu le 25 octobre. Flávio Bolsonaro, arrivé en tête au premier tour (56,1 M de voix contre 53,9 M pour Lula), devance de peu dans les derniers sondages : 47 % contre 45 % (Datafolha) et 46 % contre 44 % (Quaest), soit dans la marge d'erreur.",
+      "en": "The presidential runoff takes place on 25 October. Flávio Bolsonaro, who led the first round (56.1M votes to Lula's 53.9M), is slightly ahead in the latest polls: 47% to 45% (Datafolha) and 46% to 44% (Quaest), within the margin of error.",
+      "es": "La segunda vuelta presidencial será el 25 de octubre. Flávio Bolsonaro, que encabezó la primera vuelta (56,1 M de votos frente a 53,9 M de Lula), lidera por poco en los últimos sondeos: 47 % frente a 45 % (Datafolha) y 46 % frente a 44 % (Quaest), dentro del margen de error."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "04/10/2026",
+          "en": "04/10/2026",
+          "es": "04/10/2026"
+        },
+        "d": {
+          "fr": "Premier tour : Flávio Bolsonaro en tête.",
+          "en": "First round: Flávio Bolsonaro finishes first.",
+          "es": "Primera vuelta: Flávio Bolsonaro queda primero."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "16/10/2026",
+          "en": "16/10/2026",
+          "es": "16/10/2026"
+        },
+        "d": {
+          "fr": "Nouveaux sondages : écart de 2 points dans la marge d'erreur.",
+          "en": "New polls: 2-point gap within the margin of error.",
+          "es": "Nuevas encuestas: ventaja de 2 puntos dentro del margen de error."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "coords": [
+      56.3,
+      26.6
+    ],
+    "id": "hormuz-petroliers-mines",
+    "status": "brut",
+    "severe": true,
+    "category": "securite",
+    "icon": "🛢",
+    "source": "Bernama (source : Marine des Gardiens de la Révolution)",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Détroit d'Ormuz",
+      "en": "Strait of Hormuz",
+      "es": "Estrecho de Ormuz"
+    },
+    "title": {
+      "fr": "Ormuz : la marine des Gardiens de la Révolution affirme que des pétroliers ont heurté des mines",
+      "en": "Hormuz: IRGC Navy says tankers have struck mines",
+      "es": "Ormuz: la Armada de la Guardia Revolucionaria afirma que petroleros chocaron con minas"
+    },
+    "summary": {
+      "fr": "La marine des Gardiens de la Révolution iranienne affirme que plusieurs pétroliers « contrevenants » ont explosé après avoir heurté des mines dans le détroit d'Ormuz, dont un supertanker de plus de deux millions de barils le 17 octobre et un autre navire le 19. Ces informations proviennent uniquement de la partie iranienne : aucun navire n'est identifié et aucune confirmation indépendante n'a été trouvée. Washington et Téhéran se disputent le contrôle du détroit depuis le début du conflit.",
+      "en": "Iran's Revolutionary Guards Navy says several \"violating\" tankers exploded after hitting mines in the Strait of Hormuz, including a supertanker carrying over two million barrels on 17 October and another vessel on 19 October. The claims come solely from the Iranian side: no ship is identified and no independent confirmation was found. The strait has been contested since the start of the conflict.",
+      "es": "La Armada de la Guardia Revolucionaria iraní afirma que varios petroleros «infractores» explotaron tras chocar con minas en el estrecho de Ormuz, entre ellos un superpetrolero con más de dos millones de barriles el 17 de octubre y otro buque el 19. Las afirmaciones proceden solo de la parte iraní: no se identifica ningún buque ni se halló confirmación independiente. El estrecho está en disputa desde el inicio del conflicto."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/10/2026",
+          "en": "12/10/2026",
+          "es": "12/10/2026"
+        },
+        "d": {
+          "fr": "Première explosion annoncée par les Gardiens de la Révolution.",
+          "en": "First explosion reported by the IRGC.",
+          "es": "Primera explosión anunciada por la Guardia Revolucionaria."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/10/2026",
+          "en": "17/10/2026",
+          "es": "17/10/2026"
+        },
+        "d": {
+          "fr": "Un supertanker aurait pris feu après avoir heurté une mine (source iranienne).",
+          "en": "A supertanker reportedly caught fire after hitting a mine (Iranian source).",
+          "es": "Un superpetrolero habría ardido tras chocar con una mina (fuente iraní)."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "coords": [
+      30.7233,
+      46.4825
+    ],
+    "id": "ukraine-usines-odessa-zaporijjia",
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🔥",
+    "source": "Euronews / Africanews / Kyiv Post",
+    "week": "2026-W43",
+    "place": {
+      "fr": "Odessa et Zaporijjia, Ukraine",
+      "en": "Odesa and Zaporizhzhia, Ukraine",
+      "es": "Odesa y Zaporiyia, Ucrania"
+    },
+    "title": {
+      "fr": "Ukraine : des frappes russes provoquent d'importants incendies d'usines à Odessa et Zaporijjia",
+      "en": "Ukraine: Russian strikes set factories ablaze in Odesa and Zaporizhzhia",
+      "es": "Ucrania: ataques rusos provocan grandes incendios en fábricas de Odesa y Zaporiyia"
+    },
+    "summary": {
+      "fr": "Le 16 octobre, des frappes russes ont déclenché de gros incendies dans une usine de produits ménagers à Odessa et dans une entreprise privée à Zaporijjia, pendant une rencontre du président Zelensky avec des dirigeants européens. Aucun bilan humain n'a été trouvé dans les sources consultées.",
+      "en": "On 16 October, Russian strikes started large fires at a household-goods plant in Odesa and a private business in Zaporizhzhia, while President Zelensky was meeting European leaders. No casualty figures were found in the sources consulted.",
+      "es": "El 16 de octubre, ataques rusos provocaron grandes incendios en una fábrica de productos domésticos en Odesa y en una empresa privada en Zaporiyia, mientras el presidente Zelenski se reunía con dirigentes europeos. No se hallaron cifras de víctimas en las fuentes consultadas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/10/2026",
+          "en": "16/10/2026",
+          "es": "16/10/2026"
+        },
+        "d": {
+          "fr": "Frappes russes de nuit ; les pompiers combattent les incendies.",
+          "en": "Overnight Russian strikes; firefighters battle the blazes.",
+          "es": "Ataques rusos nocturnos; los bomberos combaten los incendios."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque"
+    ],
+    "priority": 2
   }
 ]
