@@ -829,5 +829,1014 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "apec-trump-xi-poutine",
+    "coords": [
+      114.0579,
+      22.5431
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "🤝",
+    "source": "Al Jazeera / SCMP / Kyiv Independent / Fox News",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Shenzhen, Chine",
+      "en": "Shenzhen, China",
+      "es": "Shenzhen, China"
+    },
+    "title": {
+      "fr": "Sommet de l'APEC : Trump, Xi et Poutine signent une « déclaration de paix » à Shenzhen",
+      "en": "APEC summit: Trump, Xi and Putin sign a 'peace declaration' in Shenzhen",
+      "es": "Cumbre APEC: Trump, Xi y Putin firman una «declaración de paz» en Shenzhen"
+    },
+    "summary": {
+      "fr": "Les présidents américain, chinois et russe ont tenu le 19 novembre leur première réunion trilatérale, en marge du sommet de l'APEC à Shenzhen. Ils ont publié une déclaration en quatre points portant sur la réforme de l'ONU, l'approvisionnement en produits pétroliers raffinés, l'immunité des responsables d'État et un dialogue sur la réduction des risques nucléaires. Selon plusieurs médias, la guerre en Ukraine a été largement absente des échanges.",
+      "en": "The US, Chinese and Russian presidents held their first trilateral meeting on November 19 on the sidelines of the APEC summit in Shenzhen. They issued a four-point declaration covering UN reform, refined petroleum supply, immunity of state officials and a dialogue on reducing nuclear risks. According to several outlets, the war in Ukraine was largely sidestepped.",
+      "es": "Los presidentes estadounidense, chino y ruso celebraron el 19 de noviembre su primera reunión trilateral, al margen de la cumbre de la APEC en Shenzhen. Publicaron una declaración de cuatro puntos sobre la reforma de la ONU, el suministro de productos petrolíferos refinados, la inmunidad de los funcionarios de Estado y un diálogo para reducir los riesgos nucleares. Según varios medios, la guerra en Ucrania quedó en gran parte al margen."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Arrivée de Donald Trump à Shenzhen, accueilli par Xi Jinping.",
+          "en": "Donald Trump arrives in Shenzhen and is greeted by Xi Jinping.",
+          "es": "Donald Trump llega a Shenzhen, recibido por Xi Jinping."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Réunion trilatérale d'environ 1 h 30 et publication de la déclaration commune.",
+          "en": "Roughly 90-minute trilateral meeting and release of the joint declaration.",
+          "es": "Reunión trilateral de aproximadamente 90 minutos y publicación de la declaración conjunta."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "cij-myanmar-genocide-rohingyas",
+    "coords": [
+      4.2954,
+      52.0866
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "CNN / Al Jazeera / Human Rights Watch",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Cour internationale de justice, La Haye, Pays-Bas",
+      "en": "International Court of Justice, The Hague, Netherlands",
+      "es": "Corte Internacional de Justicia, La Haya, Países Bajos"
+    },
+    "title": {
+      "fr": "La CIJ juge que la Birmanie a commis un génocide contre les Rohingyas",
+      "en": "ICJ rules Myanmar committed genocide against the Rohingya",
+      "es": "La CIJ dictamina que Myanmar cometió genocidio contra los rohinyás"
+    },
+    "summary": {
+      "fr": "Saisie par la Gambie, la Cour internationale de justice a estimé le 19 novembre, par 9 voix contre 6, que la Birmanie avait commis un génocide contre les Rohingyas lors des opérations militaires de 2016-2017 dans le nord de l'État de Rakhine. C'est la première fois que la Cour reconnaît un État responsable de génocide. La Birmanie a toujours affirmé avoir mené des opérations antiterroristes légitimes. La décision est définitive ; ses modalités d'application restent incertaines.",
+      "en": "In a case brought by The Gambia, the International Court of Justice ruled on November 19, by 9 votes to 6, that Myanmar committed genocide against the Rohingya during its 2016-2017 military operations in northern Rakhine State. It is the first time the Court has found a state responsible for genocide. Myanmar has always maintained it conducted legitimate counterterrorism operations. The ruling is final; how it will be enforced remains unclear.",
+      "es": "En un caso presentado por Gambia, la Corte Internacional de Justicia dictaminó el 19 de noviembre, por 9 votos contra 6, que Myanmar cometió genocidio contra los rohinyás durante sus operaciones militares de 2016-2017 en el norte del estado de Rakhine. Es la primera vez que la Corte declara a un Estado responsable de genocidio. Myanmar siempre ha sostenido que llevó a cabo operaciones antiterroristas legítimas. El fallo es definitivo; su aplicación sigue siendo incierta."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/01/2026",
+          "en": "12/01/2026",
+          "es": "12/01/2026"
+        },
+        "d": {
+          "fr": "Ouverture des audiences publiques sur le fond.",
+          "en": "Public hearings on the merits open.",
+          "es": "Se abren las audiencias públicas sobre el fondo."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "La CIJ rend son arrêt : génocide reconnu (9 voix contre 6). Le Bangladesh salue la décision.",
+          "en": "The ICJ delivers its judgment: genocide found (9 votes to 6). Bangladesh welcomes the ruling.",
+          "es": "La CIJ emite su fallo: se reconoce el genocidio (9 votos contra 6). Bangladés celebra la decisión."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "iran-frappes-koweit-bahrein",
+    "coords": [
+      47.5208,
+      29.3467
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "RTÉ / AP / Gulf News / The War Zone",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Base aérienne d'Ali Al Salem, Koweït",
+      "en": "Ali Al Salem Air Base, Kuwait",
+      "es": "Base aérea de Ali Al Salem, Kuwait"
+    },
+    "title": {
+      "fr": "L'Iran vise le Koweït et Bahreïn après une frappe américaine sur l'île de Qeshm",
+      "en": "Iran targets Kuwait and Bahrain after a US strike on Qeshm Island",
+      "es": "Irán ataca Kuwait y Baréin tras un ataque estadounidense contra la isla de Qeshm"
+    },
+    "summary": {
+      "fr": "Le 17 novembre, des avions américains ont frappé un site de lancement de missiles des Gardiens de la révolution sur l'île de Qeshm, dans le détroit d'Ormuz ; un responsable américain parle de légitime défense après une frappe iranienne sur un radar américain à Bahreïn, selon AP. Les médias iraniens affirment que la frappe n'a pas causé de dégâts. Le 18 novembre, l'armée iranienne dit avoir visé la base d'Ali Al Salem au Koweït ; l'armée koweïtienne indique que sa défense aérienne contrait des drones, et Bahreïn dit avoir intercepté des attaques iraniennes pour la troisième fois de la semaine. L'impact revendiqué sur la base n'a pas été vérifié de façon indépendante.",
+      "en": "On November 17, US aircraft struck a Revolutionary Guards missile launch site on Qeshm Island in the Strait of Hormuz; a US official described it as self-defense after an Iranian strike on a US radar in Bahrain, according to AP. Iranian media say the strike caused no damage. On November 18, Iran's army said it targeted Ali Al Salem Air Base in Kuwait; Kuwait's army said its air defenses were countering drones, and Bahrain said it intercepted Iranian attacks for the third time that week. The claimed hit on the base has not been independently verified.",
+      "es": "El 17 de noviembre, aviones estadounidenses atacaron un sitio de lanzamiento de misiles de la Guardia Revolucionaria en la isla de Qeshm, en el estrecho de Ormuz; un funcionario estadounidense lo calificó de legítima defensa tras un ataque iraní contra un radar estadounidense en Baréin, según AP. Los medios iraníes afirman que el ataque no causó daños. El 18 de noviembre, el ejército iraní dijo haber atacado la base de Ali Al Salem en Kuwait; el ejército kuwaití indicó que su defensa aérea contrarrestaba drones, y Baréin dijo haber interceptado ataques iraníes por tercera vez en la semana. El impacto reivindicado en la base no ha sido verificado de forma independiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Frappe américaine sur un site de missiles à Qeshm, selon un responsable américain.",
+          "en": "US strike on a missile site on Qeshm, according to a US official.",
+          "es": "Ataque estadounidense contra un sitio de misiles en Qeshm, según un funcionario estadounidense."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "L'Iran revendique des frappes sur la base d'Ali Al Salem ; Bahreïn signale des interceptions.",
+          "en": "Iran claims strikes on Ali Al Salem base; Bahrain reports interceptions.",
+          "es": "Irán reivindica ataques contra la base de Ali Al Salem; Baréin informa de intercepciones."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "france-manifestations-vie-chere",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "✊",
+    "source": "France 24 (AFP) / Al Jazeera",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Paris et toute la France",
+      "en": "Paris and across France",
+      "es": "París y toda Francia"
+    },
+    "title": {
+      "fr": "Nouvelle journée de mobilisation contre la vie chère en France",
+      "en": "New day of protests against the cost of living in France",
+      "es": "Nueva jornada de protestas contra el coste de la vida en Francia"
+    },
+    "summary": {
+      "fr": "Le 17 novembre, fonctionnaires, étudiants et salariés du privé ont manifesté dans toute la France pour réclamer des hausses de salaires face à la vie chère. Le ministère de l'Intérieur a compté 146 000 manifestants, les syndicats entre 500 000 et 550 000 selon les sources. Le précédent rassemblement unitaire du 5 novembre avait réuni 575 000 personnes selon les autorités. Le gouvernement fait valoir des marges budgétaires limitées.",
+      "en": "On November 17, civil servants, students and private-sector workers marched across France demanding pay rises in the face of the high cost of living. The interior ministry counted 146,000 protesters, while unions gave figures between 500,000 and 550,000 depending on the source. The previous joint protest day on November 5 drew 575,000 people according to the authorities. The government points to limited budget room.",
+      "es": "El 17 de noviembre, funcionarios, estudiantes y trabajadores del sector privado se manifestaron en toda Francia para exigir aumentos salariales ante el alto coste de la vida. El Ministerio del Interior contabilizó 146.000 manifestantes y los sindicatos entre 500.000 y 550.000, según las fuentes. La anterior jornada unitaria del 5 de noviembre reunió a 575.000 personas según las autoridades. El Gobierno alega un margen presupuestario limitado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "05/11/2026",
+          "en": "05/11/2026",
+          "es": "05/11/2026"
+        },
+        "d": {
+          "fr": "Journée unitaire : 575 000 manifestants selon les autorités.",
+          "en": "Joint protest day: 575,000 protesters according to the authorities.",
+          "es": "Jornada unitaria: 575.000 manifestantes según las autoridades."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Nouvelle mobilisation : 146 000 selon l'Intérieur, jusqu'à 550 000 selon les syndicats.",
+          "en": "New mobilization: 146,000 according to the interior ministry, up to 550,000 according to unions.",
+          "es": "Nueva movilización: 146.000 según Interior, hasta 550.000 según los sindicatos."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "ue-pret-ukraine-45-milliards",
+    "coords": [
+      4.3826,
+      50.8433
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💶",
+    "source": "Euronews",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Commission européenne, Bruxelles, Belgique",
+      "en": "European Commission, Brussels, Belgium",
+      "es": "Comisión Europea, Bruselas, Bélgica"
+    },
+    "title": {
+      "fr": "Bruxelles propose un nouveau prêt de 45 milliards d'euros à l'Ukraine",
+      "en": "Brussels proposes a new €45 billion loan to Ukraine",
+      "es": "Bruselas propone un nuevo préstamo de 45.000 millones de euros a Ucrania"
+    },
+    "summary": {
+      "fr": "Ursula von der Leyen a proposé le 18 novembre un prêt de 45 milliards d'euros à l'Ukraine, financé par une dette commune de l'UE : 20 milliards d'aide financière et 25 milliards pour l'achat d'armes en 2027. L'Ukraine ne rembourserait que si la Russie accepte de payer des réparations. La Hongrie, la Slovaquie, la République tchèque et la Bulgarie ont indiqué vouloir s'abstenir.",
+      "en": "On November 18, Ursula von der Leyen proposed a €45 billion loan to Ukraine funded by joint EU debt: €20 billion in financial aid and €25 billion for weapons purchases in 2027. Ukraine would only repay if Russia agrees to pay reparations. Hungary, Slovakia, the Czech Republic and Bulgaria have said they intend to abstain.",
+      "es": "El 18 de noviembre, Ursula von der Leyen propuso un préstamo de 45.000 millones de euros a Ucrania financiado con deuda común de la UE: 20.000 millones de ayuda financiera y 25.000 millones para compra de armas en 2027. Ucrania solo lo devolvería si Rusia acepta pagar reparaciones. Hungría, Eslovaquia, la República Checa y Bulgaria han indicado que se abstendrán."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Présentation de la proposition par la Commission européenne.",
+          "en": "The European Commission presents the proposal.",
+          "es": "La Comisión Europea presenta la propuesta."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "berlin-coalition-volontaires"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "usa-rougeole-elimination",
+    "coords": [
+      -77.4469,
+      41.137
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🦠",
+    "source": "U.S. News (AP) / Al Jazeera / STAT / Philadelphia Inquirer",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Comté de Clinton, Pennsylvanie, États-Unis",
+      "en": "Clinton County, Pennsylvania, United States",
+      "es": "Condado de Clinton, Pensilvania, Estados Unidos"
+    },
+    "title": {
+      "fr": "Les États-Unis perdent leur statut d'élimination de la rougeole ; 8e décès en Pennsylvanie",
+      "en": "US loses measles elimination status; 8th death in Pennsylvania",
+      "es": "EE. UU. pierde su estatus de eliminación del sarampión; 8.ª muerte en Pensilvania"
+    },
+    "summary": {
+      "fr": "Un comité de l'Organisation panaméricaine de la santé a retiré aux États-Unis leur statut d'élimination de la rougeole, détenu depuis environ 26 ans, en raison d'une transmission ininterrompue depuis au moins 12 mois. Le 18 novembre, la Pennsylvanie a confirmé un huitième décès lié à la rougeole, une personne non vaccinée du comté de Clinton ; l'État compte 1 589 cas. Les bilans nationaux diffèrent entre les États et le CDC.",
+      "en": "A Pan American Health Organization committee revoked the United States' measles elimination status, held for about 26 years, due to uninterrupted transmission for at least 12 months. On November 18, Pennsylvania confirmed an eighth measles-related death, an unvaccinated Clinton County resident; the state has 1,589 cases. National tallies differ between states and the CDC.",
+      "es": "Un comité de la Organización Panamericana de la Salud retiró a Estados Unidos su estatus de eliminación del sarampión, que mantenía desde hacía unos 26 años, por una transmisión ininterrumpida durante al menos 12 meses. El 18 de noviembre, Pensilvania confirmó una octava muerte relacionada con el sarampión, una persona no vacunada del condado de Clinton; el estado registra 1.589 casos. Los balances nacionales difieren entre los estados y los CDC."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Annonce de la perte du statut d'élimination par l'OPS, selon la presse.",
+          "en": "PAHO's withdrawal of elimination status is announced, according to the press.",
+          "es": "Se anuncia la pérdida del estatus de eliminación por la OPS, según la prensa."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "La Pennsylvanie confirme un 8e décès (comté de Clinton).",
+          "en": "Pennsylvania confirms an 8th death (Clinton County).",
+          "es": "Pensilvania confirma una 8.ª muerte (condado de Clinton)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "coree-nord-yongbyon-aiea",
+    "coords": [
+      125.7547,
+      39.7958
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "securite",
+    "icon": "☢",
+    "source": "AIEA / Reuters / SCMP",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Complexe nucléaire de Yongbyon, Corée du Nord",
+      "en": "Yongbyon nuclear complex, North Korea",
+      "es": "Complejo nuclear de Yongbyon, Corea del Norte"
+    },
+    "title": {
+      "fr": "L'AIEA constate l'agrandissement de l'usine d'enrichissement d'uranium de Yongbyon",
+      "en": "IAEA observes expansion of Yongbyon uranium enrichment plant",
+      "es": "El OIEA constata la ampliación de la planta de enriquecimiento de uranio de Yongbyon"
+    },
+    "summary": {
+      "fr": "Devant le conseil des gouverneurs de l'AIEA le 18 novembre, Rafael Grossi a indiqué qu'une nouvelle extension de l'usine d'enrichissement de Yongbyon, en construction depuis mi-septembre, était extérieurement achevée fin octobre. Le réacteur de 5 MW semble toujours fonctionner. Il juge la situation « très préoccupante ». Aucune réaction nord-coréenne n'a été trouvée.",
+      "en": "Addressing the IAEA Board of Governors on November 18, Rafael Grossi said a new extension of the Yongbyon enrichment plant, under construction since mid-September, was externally complete by late October. The 5 MW reactor appears to still be operating. He called the situation a cause for serious concern. No North Korean response was found.",
+      "es": "Ante la Junta de Gobernadores del OIEA el 18 de noviembre, Rafael Grossi indicó que una nueva ampliación de la planta de enriquecimiento de Yongbyon, en construcción desde mediados de septiembre, estaba terminada en su exterior a finales de octubre. El reactor de 5 MW parece seguir funcionando. Calificó la situación de «muy preocupante». No se encontró reacción norcoreana."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Déclaration de Rafael Grossi au conseil des gouverneurs de l'AIEA.",
+          "en": "Rafael Grossi's statement to the IAEA Board of Governors.",
+          "es": "Declaración de Rafael Grossi ante la Junta de Gobernadores del OIEA."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "colombie-paro-nacional",
+    "coords": [
+      -74.0817,
+      4.6383
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "✊",
+    "source": "Infobae / El Tiempo / Ambassade des États-Unis",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Bogotá (Université nationale) et grandes villes, Colombie",
+      "en": "Bogotá (National University) and major cities, Colombia",
+      "es": "Bogotá (Universidad Nacional) y grandes ciudades, Colombia"
+    },
+    "title": {
+      "fr": "Colombie : grève nationale contre la réforme fiscale, heurts à Bogotá",
+      "en": "Colombia: national strike against tax reform, clashes in Bogotá",
+      "es": "Colombia: paro nacional contra la reforma tributaria, disturbios en Bogotá"
+    },
+    "summary": {
+      "fr": "Le 19 novembre, la centrale syndicale CUT et des organisations sociales ont manifesté à Bogotá, Medellín, Cali, Barranquilla et Bucaramanga contre la réforme fiscale « Rescate Económico » du gouvernement d'Abelardo de la Espriella. Des affrontements entre manifestants cagoulés et forces de l'ordre ont duré tout l'après-midi au campus de l'Université nationale à Bogotá, selon Infobae. Le président affirme que 97 % des activités se sont déroulées pacifiquement.",
+      "en": "On November 19, the CUT union federation and social organizations marched in Bogotá, Medellín, Cali, Barranquilla and Bucaramanga against the 'Rescate Económico' tax reform of Abelardo de la Espriella's government. Clashes between hooded protesters and police lasted all afternoon at the National University campus in Bogotá, according to Infobae. The president says 97% of activities were peaceful.",
+      "es": "El 19 de noviembre, la CUT y organizaciones sociales marcharon en Bogotá, Medellín, Cali, Barranquilla y Bucaramanga contra la reforma tributaria «Rescate Económico» del Gobierno de Abelardo de la Espriella. Los enfrentamientos entre encapuchados y la fuerza pública se prolongaron toda la tarde en la sede de la Universidad Nacional en Bogotá, según Infobae. El presidente afirma que el 97 % de las actividades fueron pacíficas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Grève nationale et marches ; heurts à l'Université nationale ; plus de 228 000 usagers de TransMilenio affectés.",
+          "en": "National strike and marches; clashes at the National University; over 228,000 TransMilenio users affected.",
+          "es": "Paro nacional y marchas; disturbios en la Universidad Nacional; más de 228.000 usuarios de TransMilenio afectados."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "nvidia-huang-pas-reintegre",
+    "coords": [
+      -121.9636,
+      37.3708
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "💻",
+    "source": "NBC News / SCMP / Forbes / ABC News",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Siège de Nvidia, Santa Clara, Californie, États-Unis",
+      "en": "Nvidia headquarters, Santa Clara, California, United States",
+      "es": "Sede de Nvidia, Santa Clara, California, Estados Unidos"
+    },
+    "title": {
+      "fr": "Nvidia : le conseil d'administration exclut le retour de Jensen Huang",
+      "en": "Nvidia board rules out Jensen Huang's return",
+      "es": "Nvidia: el consejo descarta el regreso de Jensen Huang"
+    },
+    "summary": {
+      "fr": "Lors de la présentation des résultats trimestriels, le président du conseil d'administration de Nvidia, Harvey Jones, a déclaré que le conseil n'entendait pas réintégrer Jensen Huang, qui a démissionné le 12 novembre après des allégations de liaison avec une femme soupçonnée d'être liée aux services de renseignement chinois. M. Huang se dit prêt à revenir et à coopérer à l'enquête interne. Colette Kress assure l'intérim.",
+      "en": "During the quarterly earnings presentation, Nvidia board chair Harvey Jones said the board does not intend to reinstate Jensen Huang, who resigned on November 12 following allegations of an affair with a woman suspected of ties to Chinese intelligence. Huang says he is willing to return and to cooperate with the internal investigation. Colette Kress is interim CEO.",
+      "es": "Durante la presentación de resultados trimestrales, el presidente del consejo de Nvidia, Harvey Jones, declaró que el consejo no tiene intención de reincorporar a Jensen Huang, quien dimitió el 12 de noviembre tras acusaciones de una relación con una mujer sospechosa de vínculos con la inteligencia china. Huang se dice dispuesto a volver y a cooperar con la investigación interna. Colette Kress es la consejera delegada interina."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/11/2026",
+          "en": "12/11/2026",
+          "es": "12/11/2026"
+        },
+        "d": {
+          "fr": "Démission de Jensen Huang.",
+          "en": "Jensen Huang resigns.",
+          "es": "Dimisión de Jensen Huang."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Le conseil annonce ne pas vouloir le réintégrer, selon la presse.",
+          "en": "The board says it will not reinstate him, according to the press.",
+          "es": "El consejo anuncia que no lo reincorporará, según la prensa."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "inde-cyclone-akvan",
+    "coords": [
+      84.8644,
+      19.2647
+    ],
+    "status": "confirme",
+    "severe": true,
+    "category": "securite",
+    "icon": "🌀",
+    "source": "DD News / The Week / IMD",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Gopalpur, district de Ganjam, Odisha, Inde",
+      "en": "Gopalpur, Ganjam district, Odisha, India",
+      "es": "Gopalpur, distrito de Ganjam, Odisha, India"
+    },
+    "title": {
+      "fr": "Le cyclone Akvan touche terre près de Gopalpur, en Odisha",
+      "en": "Cyclone Akvan makes landfall near Gopalpur, Odisha",
+      "es": "El ciclón Akvan toca tierra cerca de Gopalpur, en Odisha"
+    },
+    "summary": {
+      "fr": "Le cyclone Akvan, qui avait changé de trajectoire vers le nord de l'Andhra Pradesh et l'Odisha, a touché terre près de Gopalpur le 20 novembre au matin, selon le département météorologique indien (IMD), après s'être affaibli en tempête cyclonique. L'Odisha a mobilisé 423 équipes de secours et ouvert 9 341 abris ; aucun dégât majeur ni décès n'était signalé à ce stade.",
+      "en": "Cyclone Akvan, which had veered towards northern Andhra Pradesh and Odisha, made landfall near Gopalpur on the morning of November 20, according to the India Meteorological Department (IMD), after weakening to a cyclonic storm. Odisha deployed 423 rescue teams and opened 9,341 shelters; no major damage or deaths had been reported so far.",
+      "es": "El ciclón Akvan, que había cambiado de trayectoria hacia el norte de Andhra Pradesh y Odisha, tocó tierra cerca de Gopalpur la mañana del 20 de noviembre, según el Departamento Meteorológico de la India (IMD), tras debilitarse a tormenta ciclónica. Odisha desplegó 423 equipos de rescate y abrió 9.341 refugios; hasta ahora no se informaba de daños graves ni de víctimas."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Akvan devient une tempête cyclonique sévère dans le golfe du Bengale.",
+          "en": "Akvan becomes a severe cyclonic storm in the Bay of Bengal.",
+          "es": "Akvan se convierte en tormenta ciclónica severa en el golfo de Bengala."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Atterrissage près de Gopalpur entre 8 h et 11 h 20 (heure locale), selon l'IMD.",
+          "en": "Landfall near Gopalpur between 8:00 and 11:20 local time, according to the IMD.",
+          "es": "Llegada a tierra cerca de Gopalpur entre las 8:00 y las 11:20 hora local, según el IMD."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "senegal-pirogue-yenne",
+    "coords": [
+      -17.17,
+      14.645
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚤",
+    "source": "Seneweb / SenePlus / Ndarinfo",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Yenne, département de Rufisque, Sénégal (lieu exact variable selon les sources)",
+      "en": "Yenne, Rufisque department, Senegal (exact location varies by source)",
+      "es": "Yenne, departamento de Rufisque, Senegal (lugar exacto varía según las fuentes)"
+    },
+    "title": {
+      "fr": "Sénégal : quatre corps retrouvés après le chavirement d'une pirogue de migrants près de Dakar",
+      "en": "Senegal: four bodies found after a migrant boat capsizes near Dakar",
+      "es": "Senegal: hallan cuatro cuerpos tras el naufragio de una piragua de migrantes cerca de Dakar"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 17 au 18 novembre, une pirogue de migrants a chaviré au large de Yenne, près de Dakar. Quatre corps ont été retrouvés sur le littoral à Sendou et Yenne, et le parquet de Rufisque a ouvert une enquête. Le nombre de passagers reste incertain (une cinquantaine à une centaine selon les sources) ; plusieurs médias évoquent plus de cinquante disparus, chiffre non confirmé officiellement.",
+      "en": "During the night of November 17-18, a migrant boat capsized off Yenne, near Dakar. Four bodies were found on the shore at Sendou and Yenne, and the Rufisque prosecutor opened an investigation. The number of passengers remains uncertain (about fifty to a hundred depending on the source); several outlets report more than fifty missing, a figure not officially confirmed.",
+      "es": "En la noche del 17 al 18 de noviembre, una piragua de migrantes naufragó frente a Yenne, cerca de Dakar. Se hallaron cuatro cuerpos en el litoral de Sendou y Yenne, y la fiscalía de Rufisque abrió una investigación. El número de pasajeros sigue siendo incierto (entre cincuenta y cien según las fuentes); varios medios hablan de más de cincuenta desaparecidos, cifra no confirmada oficialmente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Quatre corps repêchés à Sendou et Yenne ; enquête ouverte.",
+          "en": "Four bodies recovered at Sendou and Yenne; investigation opened.",
+          "es": "Cuatro cuerpos recuperados en Sendou y Yenne; se abre una investigación."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "bresil-fin-escala-6x1",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "📄",
+    "source": "CNN Brasil / Correio Braziliense / O Tempo",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Brésil : Lula signe le décret encadrant la fin de la semaine de six jours",
+      "en": "Brazil: Lula signs decree regulating the end of the six-day work week",
+      "es": "Brasil: Lula firma el decreto que regula el fin de la semana laboral de seis días"
+    },
+    "summary": {
+      "fr": "Le président Lula a signé le 19 novembre le décret n° 13.173 qui réglemente la fin du régime « 6x1 » (six jours travaillés pour un jour de repos). La durée hebdomadaire passera de 44 à 42 heures avec deux jours de repos et sans baisse de salaire, puis à 40 heures en décembre 2027. Les médias divergent sur la date d'entrée en vigueur de la première étape (16 décembre 2026 selon plusieurs sources). Une décision partielle de la Cour suprême, saisie par les confédérations patronales CNC et CNI, reste en suspens.",
+      "en": "President Lula signed Decree No. 13,173 on November 19 regulating the end of the '6x1' schedule (six working days for one day off). The working week will drop from 44 to 42 hours with two days off and no pay cut, then to 40 hours in December 2027. Outlets differ on the start date of the first stage (December 16, 2026 according to several sources). A partial Supreme Court injunction, sought by employer confederations CNC and CNI, remains pending.",
+      "es": "El presidente Lula firmó el 19 de noviembre el decreto n.º 13.173 que regula el fin de la escala «6x1» (seis días de trabajo por uno de descanso). La jornada semanal pasará de 44 a 42 horas con dos días de descanso y sin reducción salarial, y luego a 40 horas en diciembre de 2027. Los medios difieren sobre la fecha de inicio de la primera etapa (16 de diciembre de 2026 según varias fuentes). Una medida cautelar parcial del Supremo, solicitada por las patronales CNC y CNI, sigue pendiente."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/11/2026",
+          "en": "12/11/2026",
+          "es": "12/11/2026"
+        },
+        "d": {
+          "fr": "Le juge Flávio Dino accorde partiellement une mesure conservatoire demandée par la CNC et la CNI.",
+          "en": "Justice Flávio Dino partially grants an injunction sought by the CNC and CNI.",
+          "es": "El juez Flávio Dino concede parcialmente una cautelar solicitada por la CNC y la CNI."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Signature du décret n° 13.173.",
+          "en": "Decree No. 13,173 is signed.",
+          "es": "Firma del decreto n.º 13.173."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "nigeria-police-etat",
+    "coords": [
+      7.4951,
+      9.0579
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "🏛",
+    "source": "Premium Times / allAfrica / Naija News",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Abuja, Nigeria",
+      "en": "Abuja, Nigeria",
+      "es": "Abuya, Nigeria"
+    },
+    "title": {
+      "fr": "Nigeria : le projet de police d'État transmis au président Tinubu",
+      "en": "Nigeria: state police bill sent to President Tinubu",
+      "es": "Nigeria: el proyecto de policía estatal se envía al presidente Tinubu"
+    },
+    "summary": {
+      "fr": "Le Sénat nigérian a ordonné le 18 novembre la transmission au président Bola Tinubu de l'amendement constitutionnel créant des polices d'État, après son approbation par les 36 assemblées des États (24 étaient requises). Le même jour, la Haute Cour fédérale d'Abuja a invalidé la substitution par l'APC de l'ancien gouverneur Gabriel Suswam comme candidat sénatorial de Benue Nord-Est.",
+      "en": "Nigeria's Senate on November 18 ordered the constitutional amendment creating state police forces to be sent to President Bola Tinubu, after all 36 state assemblies approved it (24 were required). The same day, the Federal High Court in Abuja invalidated the APC's substitution of former governor Gabriel Suswam as its Benue North-East senatorial candidate.",
+      "es": "El Senado de Nigeria ordenó el 18 de noviembre enviar al presidente Bola Tinubu la enmienda constitucional que crea policías estatales, tras su aprobación por las 36 asambleas de los estados (se requerían 24). Ese mismo día, el Tribunal Superior Federal de Abuya invalidó la sustitución por el APC del exgobernador Gabriel Suswam como candidato al Senado por Benue Noreste."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Le Sénat transmet le texte au président.",
+          "en": "The Senate forwards the bill to the president.",
+          "es": "El Senado remite el texto al presidente."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 2
+  },
+  {
+    "id": "berlin-coalition-volontaires",
+    "coords": [
+      13.3777,
+      52.52
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🛡",
+    "source": "GOV.UK / Ukrinform / h.ua",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Berlin, Allemagne",
+      "en": "Berlin, Germany",
+      "es": "Berlín, Alemania"
+    },
+    "title": {
+      "fr": "La « coalition des volontaires » réunie à Berlin promet un soutien durable à l'Ukraine",
+      "en": "'Coalition of the Willing' meets in Berlin and pledges lasting support for Ukraine",
+      "es": "La «coalición de voluntarios» reunida en Berlín promete apoyo duradero a Ucrania"
+    },
+    "summary": {
+      "fr": "Réunis le 19 novembre à Berlin à l'invitation de Friedrich Merz, les dirigeants d'environ 37 pays ont promis de poursuivre leur soutien à l'Ukraine en 2027, insisté sur des garanties de sécurité juridiquement contraignantes après un cessez-le-feu et appelé la Russie à accepter une trêve énergétique pour l'hiver. Le gouvernement britannique a annoncé 1 000 drones de frappe à longue portée pour l'Ukraine.",
+      "en": "Meeting in Berlin on November 19 at Friedrich Merz's invitation, leaders of around 37 countries pledged continued support for Ukraine in 2027, stressed legally binding security guarantees after a ceasefire and called on Russia to agree to a winter energy truce. The UK government announced 1,000 long-range strike drones for Ukraine.",
+      "es": "Reunidos el 19 de noviembre en Berlín por invitación de Friedrich Merz, líderes de unos 37 países prometieron seguir apoyando a Ucrania en 2027, insistieron en garantías de seguridad jurídicamente vinculantes tras un alto el fuego y pidieron a Rusia aceptar una tregua energética invernal. El Gobierno británico anunció 1.000 drones de ataque de largo alcance para Ucrania."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Sommet à Berlin et déclaration commune de l'Allemagne, de la France, du Royaume-Uni et de l'Ukraine.",
+          "en": "Berlin summit and joint statement by Germany, France, the UK and Ukraine.",
+          "es": "Cumbre en Berlín y declaración conjunta de Alemania, Francia, Reino Unido y Ucrania."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "kyiv-frappes-ponts"
+    ],
+    "priority": 1
+  },
+  {
+    "id": "kyiv-frappes-ponts",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "AP (ABC News) / RTÉ / The Moscow Times / Kyiv Independent",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Des frappes russes touchent trois ponts de Kyiv et font plusieurs morts",
+      "en": "Russian strikes hit three Kyiv bridges, killing several",
+      "es": "Ataques rusos alcanzan tres puentes de Kiev y dejan varios muertos"
+    },
+    "summary": {
+      "fr": "Dans la nuit du 19 au 20 novembre, des frappes russes ont visé les ponts Podilsko-Voskresenskyi, Darnytskyi et Pivdennyi sur le Dniepr et provoqué des coupures de courant. Le maire Vitali Klitschko fait état de 3 morts ; les bilans diffèrent selon les sources (jusqu'à 8 morts selon le Kyiv Independent, de 9 à 15 blessés). L'attaque survient après que Vladimir Poutine a promis de riposter aux frappes ukrainiennes sur le pont de Crimée.",
+      "en": "Overnight on November 19-20, Russian strikes targeted the Podilsko-Voskresenskyi, Darnytskyi and Pivdennyi bridges over the Dnipro and caused power cuts. Mayor Vitali Klitschko reported 3 dead; tolls differ between sources (up to 8 dead according to the Kyiv Independent, 9 to 15 injured). The attack follows Vladimir Putin's vow to retaliate for Ukrainian strikes on the Crimean Bridge.",
+      "es": "En la noche del 19 al 20 de noviembre, ataques rusos alcanzaron los puentes Podilsko-Voskresenskyi, Darnytskyi y Pivdennyi sobre el Dniéper y provocaron cortes de electricidad. El alcalde Vitali Klitschko informó de 3 muertos; los balances difieren según las fuentes (hasta 8 muertos según el Kyiv Independent, de 9 a 15 heridos). El ataque se produce después de que Vladímir Putin prometiera represalias por los ataques ucranianos contra el puente de Crimea."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Frappes nocturnes sur trois ponts ; six grands ponts fermés ou restreints, selon le maire.",
+          "en": "Overnight strikes on three bridges; six main bridges closed or restricted, according to the mayor.",
+          "es": "Ataques nocturnos contra tres puentes; seis puentes principales cerrados o restringidos, según el alcalde."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "odessa-attaque",
+      "berlin-coalition-volontaires"
+    ],
+    "priority": 2
+  },
+  {
+    "id": "ethiopie-erythree-frontiere",
+    "coords": [
+      37.77,
+      14.73
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Reuters / allAfrica / Al-Monitor",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Région de Badme, frontière Éthiopie-Érythrée",
+      "en": "Badme area, Ethiopia-Eritrea border",
+      "es": "Zona de Badme, frontera Etiopía-Eritrea"
+    },
+    "title": {
+      "fr": "Éthiopie et Érythrée massent des troupes à leur frontière",
+      "en": "Ethiopia and Eritrea mass troops along their border",
+      "es": "Etiopía y Eritrea concentran tropas en su frontera"
+    },
+    "summary": {
+      "fr": "Selon Reuters, citant des observateurs de conflits et des sources liées aux milices du Tigré, l'Éthiopie et l'Érythrée ont massé des forces le long de leur frontière, faisant craindre une guerre ouverte. allAfrica rapporte des frappes de drones et d'artillerie autour de Badme dans la nuit du 18 au 19 novembre. Reuters n'a pas pu vérifier ces affrontements ; le ministre érythréen de l'Information dénonce une « propagande » du parti au pouvoir éthiopien.",
+      "en": "According to Reuters, citing conflict monitors and sources linked to Tigray militias, Ethiopia and Eritrea have massed forces along their border, raising fears of open war. allAfrica reports drone and artillery strikes around Badme overnight on November 18-19. Reuters could not verify the clashes; Eritrea's information minister denounced 'propaganda' by Ethiopia's ruling party.",
+      "es": "Según Reuters, citando a observadores de conflictos y fuentes vinculadas a milicias de Tigré, Etiopía y Eritrea han concentrado fuerzas a lo largo de su frontera, lo que hace temer una guerra abierta. allAfrica informa de ataques con drones y artillería en torno a Badme en la noche del 18 al 19 de noviembre. Reuters no pudo verificar los enfrentamientos; el ministro eritreo de Información denunció «propaganda» del partido gobernante etíope."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Reuters rapporte la concentration de forces à la frontière.",
+          "en": "Reuters reports the troop buildup on the border.",
+          "es": "Reuters informa de la concentración de fuerzas en la frontera."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Frappes de drones et d'artillerie signalées autour de Badme (non vérifiées de façon indépendante).",
+          "en": "Drone and artillery strikes reported around Badme (not independently verified).",
+          "es": "Ataques con drones y artillería reportados en torno a Badme (no verificados de forma independiente)."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 3
+  },
+  {
+    "id": "sommet-ue-royaume-uni",
+    "coords": [
+      4.381,
+      50.8389
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇪🇺",
+    "source": "RTÉ / NPR",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Bruxelles, Belgique",
+      "en": "Brussels, Belgium",
+      "es": "Bruselas, Bélgica"
+    },
+    "title": {
+      "fr": "Sommet UE–Royaume-Uni à Bruxelles : Andy Burnham attendu pour une série d'accords",
+      "en": "EU–UK summit in Brussels: Andy Burnham expected to sign a series of deals",
+      "es": "Cumbre UE–Reino Unido en Bruselas: se espera que Andy Burnham firme una serie de acuerdos"
+    },
+    "summary": {
+      "fr": "Le Premier ministre britannique Andy Burnham participe le 20 novembre au deuxième sommet UE–Royaume-Uni à Bruxelles avec Ursula von der Leyen et António Costa. Plusieurs accords sont attendus, présentés comme visant à réduire les coûts et faciliter la mobilité des jeunes ; leur contenu n'était pas encore confirmé au moment de la publication. M. Burnham a déclaré le 16 novembre que le Brexit « n'a pas fonctionné ».",
+      "en": "British Prime Minister Andy Burnham attends the second EU–UK summit in Brussels on November 20 with Ursula von der Leyen and António Costa. Several deals are expected, presented as cutting costs and easing youth mobility; their content had not been confirmed at the time of publication. Burnham said on November 16 that Brexit 'hasn't worked'.",
+      "es": "El primer ministro británico Andy Burnham participa el 20 de noviembre en la segunda cumbre UE–Reino Unido en Bruselas con Ursula von der Leyen y António Costa. Se esperan varios acuerdos, presentados como destinados a reducir costes y facilitar la movilidad juvenil; su contenido aún no estaba confirmado en el momento de la publicación. Burnham declaró el 16 de noviembre que el Brexit «no ha funcionado»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/11/2026",
+          "en": "16/11/2026",
+          "es": "16/11/2026"
+        },
+        "d": {
+          "fr": "Discours d'Andy Burnham au banquet du Lord-maire de Londres.",
+          "en": "Andy Burnham's speech at the Lord Mayor's Banquet in London.",
+          "es": "Discurso de Andy Burnham en el banquete del Lord Mayor de Londres."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Ouverture du sommet à Bruxelles.",
+          "en": "Summit opens in Brussels.",
+          "es": "Se abre la cumbre en Bruselas."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "atp-finals-turin-2026",
+    "coords": [
+      7.6497,
+      45.0417
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "🎾",
+    "source": "ATP Tour / ESPN",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Inalpi Arena, Turin, Italie",
+      "en": "Inalpi Arena, Turin, Italy",
+      "es": "Inalpi Arena, Turín, Italia"
+    },
+    "title": {
+      "fr": "ATP Finals : Alcaraz, Zverev et Shelton qualifiés pour les demi-finales à Turin",
+      "en": "ATP Finals: Alcaraz, Zverev and Shelton reach the semifinals in Turin",
+      "es": "ATP Finals: Alcaraz, Zverev y Shelton, a semifinales en Turín"
+    },
+    "summary": {
+      "fr": "Aux ATP Finals de Turin, Carlos Alcaraz a terminé premier du groupe Ivan Lendl et Alexander Zverev premier du groupe John McEnroe, après sa victoire sur Arthur Fils le 19 novembre. Ben Shelton s'est qualifié en battant Rafael Jódar et affrontera Alcaraz samedi. Le dernier billet se joue vendredi entre Frances Tiafoe et Daniil Medvedev. Finale le 22 novembre.",
+      "en": "At the ATP Finals in Turin, Carlos Alcaraz topped the Ivan Lendl Group and Alexander Zverev the John McEnroe Group after beating Arthur Fils on November 19. Ben Shelton qualified by beating Rafael Jódar and will face Alcaraz on Saturday. The last spot is decided Friday between Frances Tiafoe and Daniil Medvedev. Final on November 22.",
+      "es": "En las ATP Finals de Turín, Carlos Alcaraz terminó primero del grupo Ivan Lendl y Alexander Zverev primero del grupo John McEnroe tras vencer a Arthur Fils el 19 de noviembre. Ben Shelton se clasificó al vencer a Rafael Jódar y se enfrentará a Alcaraz el sábado. La última plaza se decide el viernes entre Frances Tiafoe y Daniil Medvedev. Final el 22 de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Zverev bat Fils, Shelton bat Jódar.",
+          "en": "Zverev beats Fils, Shelton beats Jódar.",
+          "es": "Zverev vence a Fils, Shelton vence a Jódar."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Tiafoe–Medvedev pour la dernière place en demi-finale.",
+          "en": "Tiafoe–Medvedev for the last semifinal spot.",
+          "es": "Tiafoe–Medvedev por la última plaza en semifinales."
+        },
+        "active": true
+      }
+    ],
+    "related": [],
+    "priority": 1
+  },
+  {
+    "id": "mexique-peso-recul",
+    "coords": [
+      -99.1332,
+      19.4326
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📉",
+    "source": "Bloomberg / Rio Times",
+    "week": "2026-W47",
+    "place": {
+      "fr": "Mexico, Mexique",
+      "en": "Mexico City, Mexico",
+      "es": "Ciudad de México, México"
+    },
+    "title": {
+      "fr": "Le peso mexicain au plus bas depuis plus d'un an",
+      "en": "Mexican peso falls to its weakest in over a year",
+      "es": "El peso mexicano cae a su nivel más bajo en más de un año"
+    },
+    "summary": {
+      "fr": "Le peso mexicain a clôturé le 19 novembre à 19,09 pour un dollar, au plus bas depuis au moins 12 mois, sur fond de divergence entre les politiques de la Banque du Mexique et de la Réserve fédérale américaine, selon Bloomberg. La Bourse de Mexico a reculé de 0,64 %, cinquième baisse consécutive. À l'APEC, la présidente Claudia Sheinbaum a dit espérer un accord prochain avec Washington pour réduire les droits de douane.",
+      "en": "The Mexican peso closed at 19.09 per dollar on November 19, its weakest in at least 12 months, amid diverging policies between the Bank of Mexico and the US Federal Reserve, according to Bloomberg. The Mexican stock exchange fell 0.64%, a fifth straight decline. At APEC, President Claudia Sheinbaum said she hopes for a deal with Washington soon to cut tariffs.",
+      "es": "El peso mexicano cerró el 19 de noviembre en 19,09 por dólar, su nivel más débil en al menos 12 meses, en medio de la divergencia entre las políticas del Banco de México y la Reserva Federal estadounidense, según Bloomberg. La Bolsa mexicana bajó un 0,64 %, quinta caída consecutiva. En la APEC, la presidenta Claudia Sheinbaum dijo esperar pronto un acuerdo con Washington para reducir aranceles."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Clôture du peso à 19,09 par dollar.",
+          "en": "Peso closes at 19.09 per dollar.",
+          "es": "El peso cierra en 19,09 por dólar."
+        },
+        "active": true
+      }
+    ],
+    "related": [
+      "apec-trump-xi-poutine"
+    ],
+    "priority": 2
   }
 ]
