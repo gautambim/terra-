@@ -829,5 +829,793 @@
     ],
     "related": [],
     "priority": 1
+  },
+  {
+    "id": "pologne-missiles-nato",
+    "coords": [
+      22.9,
+      50.2
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "🚀",
+    "source": "AP / PBS NewsHour",
+    "place": {
+      "fr": "Nowy Lipowiec, sud-est de la Pologne",
+      "en": "Nowy Lipowiec, southeastern Poland",
+      "es": "Nowy Lipowiec, sureste de Polonia"
+    },
+    "title": {
+      "fr": "Des missiles russes tombent en Pologne, l'OTAN dénonce une « grave violation »",
+      "en": "Russian missiles land in Poland, NATO decries a 'grave violation'",
+      "es": "Misiles rusos caen en Polonia; la OTAN denuncia una «grave violación»"
+    },
+    "summary": {
+      "fr": "Deux missiles russes et un drone présumé sont tombés en Pologne pendant des exercices militaires européens, selon AP. L'un, identifié comme un missile de croisière Kh-101, s'est abattu dans une zone rurale à Nowy Lipowiec, à environ 50 km de la frontière ukrainienne, selon le ministre polonais de la Défense (position sur la carte approximative). Le secrétaire général de l'OTAN Mark Rutte a parlé de « grave violation » de l'espace aérien polonais ; le Premier ministre polonais a évoqué une provocation délibérée. Moscou n'avait pas commenté dans l'immédiat.",
+      "en": "Two Russian missiles and a suspected drone came down in Poland during European military exercises, according to AP. One, identified as a Kh-101 cruise missile, crashed in a rural area at Nowy Lipowiec, about 50 km from the Ukrainian border, according to Poland's defence minister (map position approximate). NATO Secretary General Mark Rutte called it a 'grave violation' of Polish airspace; Poland's prime minister suggested a deliberate provocation. Moscow did not immediately comment.",
+      "es": "Dos misiles rusos y un presunto dron cayeron en Polonia durante ejercicios militares europeos, según AP. Uno, identificado como misil de crucero Kh-101, cayó en una zona rural de Nowy Lipowiec, a unos 50 km de la frontera ucraniana, según el ministro polaco de Defensa (posición en el mapa aproximada). El secretario general de la OTAN, Mark Rutte, habló de «grave violación» del espacio aéreo polaco; el primer ministro polaco sugirió una provocación deliberada. Moscú no comentó de inmediato."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "AP rapporte la chute de deux missiles et d'un drone présumé ; l'OTAN parle de « grave violation », la Pologne demande un soutien supplémentaire à l'Alliance.",
+          "en": "AP reports two missiles and a suspected drone came down; NATO calls it a 'grave violation', Poland asks the Alliance for extra support.",
+          "es": "AP informa de la caída de dos misiles y un presunto dron; la OTAN habla de «grave violación» y Polonia pide apoyo adicional a la Alianza."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "kyiv-frappes-novembre",
+    "coords": [
+      30.5234,
+      50.4501
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "💥",
+    "source": "Kyiv Independent / United24 / Service d'urgence ukrainien",
+    "related": [
+      "odessa-attaque"
+    ],
+    "place": {
+      "fr": "Kyiv, Ukraine",
+      "en": "Kyiv, Ukraine",
+      "es": "Kiev, Ucrania"
+    },
+    "title": {
+      "fr": "Frappes russes sur Kyiv : ponts touchés, ambassade d'Autriche endommagée",
+      "en": "Russian strikes on Kyiv: bridges hit, Austrian embassy damaged",
+      "es": "Ataques rusos contra Kiev: puentes alcanzados y embajada de Austria dañada"
+    },
+    "summary": {
+      "fr": "Kyiv a subi plusieurs vagues de frappes russes cette semaine. Les ponts Nord et Sud sur le Dniepr ont été touchés ; selon le Service d'urgence ukrainien, au moins deux personnes ont été tuées à Kyiv et 14 dans toute l'Ukraine sur une journée. Le 19 novembre, une nouvelle attaque a endommagé l'ambassade d'Autriche, faisant un mort et quatre blessés. Les bilans, issus des autorités ukrainiennes, restent provisoires.",
+      "en": "Kyiv was hit by several waves of Russian strikes this week. The Northern and Southern bridges over the Dnipro were hit; according to Ukraine's State Emergency Service, at least two people were killed in Kyiv and 14 across Ukraine in one day. On November 19, another attack damaged the Austrian embassy, killing one person and injuring four. Tolls, from Ukrainian authorities, remain provisional.",
+      "es": "Kiev sufrió varias oleadas de ataques rusos esta semana. Los puentes Norte y Sur sobre el Dniéper fueron alcanzados; según el Servicio de Emergencias de Ucrania, al menos dos personas murieron en Kiev y 14 en toda Ucrania en un día. El 19 de noviembre, otro ataque dañó la embajada de Austria, con un muerto y cuatro heridos. Los balances, de las autoridades ucranianas, son provisionales."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Frappes sur les ponts Nord et Sud de Kyiv ; 14 morts et 78 blessés en Ukraine sur 24 h selon le Kyiv Independent.",
+          "en": "Strikes on Kyiv's Northern and Southern bridges; 14 killed and 78 injured across Ukraine in 24 hours, per the Kyiv Independent.",
+          "es": "Ataques contra los puentes Norte y Sur de Kiev; 14 muertos y 78 heridos en Ucrania en 24 h, según Kyiv Independent."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "L'ambassade d'Autriche est endommagée ; 1 mort et 4 blessés selon le Service d'urgence ukrainien.",
+          "en": "The Austrian embassy is damaged; 1 killed and 4 injured, per Ukraine's State Emergency Service.",
+          "es": "La embajada de Austria resulta dañada; 1 muerto y 4 heridos, según el Servicio de Emergencias de Ucrania."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "cop31-antalya-fossiles",
+    "coords": [
+      30.7133,
+      36.8969
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "environnement",
+    "icon": "🌍",
+    "source": "Reuters (via TimesLIVE) / Al-Monitor / Arab News",
+    "place": {
+      "fr": "Antalya, Turquie",
+      "en": "Antalya, Türkiye",
+      "es": "Antalya, Turquía"
+    },
+    "title": {
+      "fr": "COP31 : le projet d'accord retire toute mention des énergies fossiles",
+      "en": "COP31: draft deal strips out mention of fossil fuels",
+      "es": "COP31: el borrador de acuerdo elimina toda mención a los combustibles fósiles"
+    },
+    "summary": {
+      "fr": "À la COP31 d'Antalya, une version révisée du texte publiée le 19 novembre ne fait plus référence à la sortie des énergies fossiles ni au charbon, au pétrole ou au gaz, alors que le premier projet du 16 novembre proposait d'« accélérer » cette sortie. Des ONG comme Greenpeace ont critiqué le texte ; il n'est pas définitif et devait encore évoluer avant la clôture prévue le 20 novembre.",
+      "en": "At COP31 in Antalya, a revised text published on November 19 no longer refers to ending fossil fuel use, nor to coal, oil or gas, whereas the first draft of November 16 proposed to 'accelerate' that phase-out. NGOs such as Greenpeace criticised the text; it is not final and was expected to change before the scheduled close on November 20.",
+      "es": "En la COP31 de Antalya, un texto revisado publicado el 19 de noviembre ya no menciona el abandono de los combustibles fósiles ni el carbón, el petróleo o el gas, mientras que el primer borrador del 16 de noviembre proponía «acelerar» esa salida. ONG como Greenpeace criticaron el texto; no es definitivo y debía cambiar antes del cierre previsto el 20 de noviembre."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "16/11/2026",
+          "en": "16/11/2026",
+          "es": "16/11/2026"
+        },
+        "d": {
+          "fr": "Premier projet : deux options sur les fossiles, dont une appelant à accélérer leur sortie.",
+          "en": "First draft: two options on fossil fuels, one calling to accelerate their phase-out.",
+          "es": "Primer borrador: dos opciones sobre fósiles, una pidiendo acelerar su abandono."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Texte révisé « allégé » sans mention des énergies fossiles.",
+          "en": "'Slimmed-down' revised text with no mention of fossil fuels.",
+          "es": "Texto revisado «aligerado» sin mención a los fósiles."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "anthropic-ipo-nasdaq",
+    "coords": [
+      -73.9857,
+      40.7577
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "📈",
+    "source": "Al Jazeera / CBS News / Fox Business",
+    "place": {
+      "fr": "New York, États-Unis",
+      "en": "New York, United States",
+      "es": "Nueva York, Estados Unidos"
+    },
+    "title": {
+      "fr": "Anthropic fait son entrée au Nasdaq avec la plus grosse introduction en Bourse de l'histoire",
+      "en": "Anthropic debuts on Nasdaq in the largest IPO on record",
+      "es": "Anthropic debuta en el Nasdaq con la mayor salida a Bolsa de la historia"
+    },
+    "summary": {
+      "fr": "La société d'IA Anthropic a commencé à être cotée au Nasdaq le 19 novembre sous le symbole ANT, après un prix d'introduction de 83 $ par action, valorisant l'entreprise environ 1 500 milliards de dollars. L'opération, d'environ 81 milliards de dollars levés, est présentée comme la plus importante jamais réalisée. L'action a ouvert autour de 111,50 $ ; selon les médias, elle a clôturé sa première séance nettement sous ce niveau (environ 97 $). Les chiffres exacts varient légèrement selon les sources.",
+      "en": "AI company Anthropic began trading on Nasdaq on November 19 under the ticker ANT, after pricing at $83 per share, valuing the company at about $1.5 trillion. The offering, raising about $81 billion, is described as the largest on record. The stock opened around $111.50; according to media reports, it closed its first session well below that level (about $97). Exact figures vary slightly between sources.",
+      "es": "La empresa de IA Anthropic empezó a cotizar en el Nasdaq el 19 de noviembre con el símbolo ANT, tras fijar un precio de 83 dólares por acción, lo que la valora en unos 1,5 billones de dólares. La operación, de unos 81.000 millones recaudados, se presenta como la mayor de la historia. La acción abrió en torno a 111,50 dólares; según los medios, cerró su primera sesión claramente por debajo (unos 97 dólares). Las cifras exactas varían algo según las fuentes."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "18/11/2026",
+          "en": "18/11/2026",
+          "es": "18/11/2026"
+        },
+        "d": {
+          "fr": "Prix d'introduction fixé à 83 $ par action.",
+          "en": "IPO priced at $83 per share.",
+          "es": "Precio de salida fijado en 83 dólares por acción."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Premiers échanges au Nasdaq, ouverture à environ 111,50 $.",
+          "en": "First trades on Nasdaq, opening around $111.50.",
+          "es": "Primeras operaciones en el Nasdaq, apertura en torno a 111,50 dólares."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "bahrein-attaques-iran",
+    "coords": [
+      50.555,
+      26.13
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Al Jazeera / Khaleej Times / Anadolu",
+    "related": [
+      "iran-conflit-reprise"
+    ],
+    "place": {
+      "fr": "Riffa, Bahreïn",
+      "en": "Riffa, Bahrain",
+      "es": "Riffa, Baréin"
+    },
+    "title": {
+      "fr": "Bahreïn visé par une série d'attaques iraniennes de drones",
+      "en": "Bahrain targeted by a series of Iranian drone attacks",
+      "es": "Baréin, blanco de una serie de ataques iraníes con drones"
+    },
+    "summary": {
+      "fr": "Bahreïn, qui accueille la 5e flotte américaine, a subi plusieurs attaques iraniennes depuis le 13 novembre, mettant fin à environ deux mois d'accalmie. Les Gardiens de la révolution affirment avoir visé un radar américain sur la base aérienne de Riffa ; l'Iran présente ces frappes comme une riposte à des opérations américaines, dont une frappe sur l'île de Qeshm. Bahreïn dit avoir intercepté les engins et tient l'Iran pour responsable ; aucun blessé n'a été signalé par les autorités bahreïnies ou le CENTCOM.",
+      "en": "Bahrain, home to the US 5th Fleet, has faced several Iranian attacks since November 13, ending about two months of calm. The Revolutionary Guards say they targeted a US radar at Riffa air base; Iran presents the strikes as retaliation for US operations, including a strike on Qeshm Island. Bahrain says it intercepted the drones and holds Iran responsible; no injuries were reported by Bahraini authorities or CENTCOM.",
+      "es": "Baréin, sede de la 5.ª Flota estadounidense, ha sufrido varios ataques iraníes desde el 13 de noviembre, poniendo fin a unos dos meses de calma. La Guardia Revolucionaria afirma haber atacado un radar estadounidense en la base aérea de Riffa; Irán presenta los ataques como represalia por operaciones estadounidenses, incluido un ataque a la isla de Qeshm. Baréin dice haber interceptado los drones y responsabiliza a Irán; ni las autoridades bahreiníes ni el CENTCOM informaron de heridos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "13/11/2026",
+          "en": "13/11/2026",
+          "es": "13/11/2026"
+        },
+        "d": {
+          "fr": "Premières attaques de drones ; le CENTCOM dit avoir abattu deux drones sans dégâts.",
+          "en": "First drone attacks; CENTCOM says it downed two drones with no damage.",
+          "es": "Primeros ataques con drones; el CENTCOM dice haber derribado dos sin daños."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Nouvelles interceptions annoncées par l'armée bahreïnie.",
+          "en": "New interceptions announced by Bahrain's military.",
+          "es": "Nuevas interceptaciones anunciadas por el ejército bareiní."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 3
+  },
+  {
+    "id": "cyclone-akvan-odisha",
+    "coords": [
+      84.9,
+      19.26
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "environnement",
+    "icon": "🌀",
+    "source": "Deccan Herald / Business Standard / ETV Bharat",
+    "place": {
+      "fr": "Gopalpur, Odisha, Inde",
+      "en": "Gopalpur, Odisha, India",
+      "es": "Gopalpur, Odisha, India"
+    },
+    "title": {
+      "fr": "Le cyclone Akvan touche terre près de Gopalpur, plus de 370 000 évacués",
+      "en": "Cyclone Akvan makes landfall near Gopalpur, over 370,000 evacuated",
+      "es": "El ciclón Akvan toca tierra cerca de Gopalpur; más de 370.000 evacuados"
+    },
+    "summary": {
+      "fr": "Le cyclone Akvan, troisième en un mois sur cette côte, a touché terre près de Gopalpur (Odisha) le 20 novembre au matin, selon le département météorologique indien. Environ 3,7 lakh (370 000) personnes avaient été mises à l'abri et des dizaines de trains annulés. Les autorités de l'Odisha n'ont signalé ni dégâts majeurs ni victimes ; le système s'est affaibli en dépression, mais des pluies fortes restaient attendues.",
+      "en": "Cyclone Akvan, the third in a month on this coast, made landfall near Gopalpur (Odisha) on the morning of November 20, according to the India Meteorological Department. About 370,000 people had been moved to shelters and dozens of trains cancelled. Odisha authorities reported no major damage or loss of life; the system weakened into a depression, but heavy rain was still expected.",
+      "es": "El ciclón Akvan, el tercero en un mes en esta costa, tocó tierra cerca de Gopalpur (Odisha) la mañana del 20 de noviembre, según el departamento meteorológico de la India. Unas 370.000 personas fueron trasladadas a refugios y se cancelaron decenas de trenes. Las autoridades de Odisha no informaron de daños graves ni víctimas; el sistema se debilitó a depresión, pero se esperaban fuertes lluvias."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Atterrissage près de Gopalpur entre 8 h et 11 h 20 environ ; pas de dégâts majeurs signalés.",
+          "en": "Landfall near Gopalpur roughly between 8 am and 11:20 am; no major damage reported.",
+          "es": "Llegada a tierra cerca de Gopalpur entre las 8 y las 11:20 aprox.; sin daños graves."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "apec-shenzhen",
+    "coords": [
+      114.0579,
+      22.5431
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🤝",
+    "source": "SCMP / Ministère chinois des Affaires étrangères",
+    "place": {
+      "fr": "Shenzhen, Chine",
+      "en": "Shenzhen, China",
+      "es": "Shenzhen, China"
+    },
+    "title": {
+      "fr": "Sommet de l'APEC à Shenzhen : déclaration commune sur le commerce et les chaînes d'approvisionnement",
+      "en": "APEC summit in Shenzhen: joint declaration on trade and supply chains",
+      "es": "Cumbre de APEC en Shenzhen: declaración conjunta sobre comercio y cadenas de suministro"
+    },
+    "summary": {
+      "fr": "Présidée par Xi Jinping, la 33e réunion des dirigeants de l'APEC s'est tenue les 18 et 19 novembre à Shenzhen. Les 21 économies membres ont adopté par consensus une déclaration (« Shenzhen Outlook ») réaffirmant leur engagement pour la résilience des chaînes d'approvisionnement. Pékin la qualifie de résultat majeur ; le Vietnam accueillera l'APEC en 2027.",
+      "en": "Chaired by Xi Jinping, the 33rd APEC Economic Leaders' Meeting was held on November 18-19 in Shenzhen. The 21 member economies adopted by consensus a declaration (the 'Shenzhen Outlook') reaffirming their commitment to supply chain resilience. Beijing calls it a major achievement; Vietnam will host APEC in 2027.",
+      "es": "Presidida por Xi Jinping, la 33.ª reunión de líderes de APEC se celebró el 18 y 19 de noviembre en Shenzhen. Las 21 economías miembro adoptaron por consenso una declaración («Shenzhen Outlook») que reafirma su compromiso con la resiliencia de las cadenas de suministro. Pekín la califica de gran logro; Vietnam acogerá APEC en 2027."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Adoption de la déclaration des dirigeants et passation au Vietnam.",
+          "en": "Leaders' declaration adopted and hand-over to Vietnam.",
+          "es": "Adopción de la declaración de líderes y traspaso a Vietnam."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "japan-tobacco-russie",
+    "coords": [
+      139.6917,
+      35.6895
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "economie",
+    "icon": "🏭",
+    "source": "The Japan Times",
+    "place": {
+      "fr": "Tokyo, Japon",
+      "en": "Tokyo, Japan",
+      "es": "Tokio, Japón"
+    },
+    "title": {
+      "fr": "Japan Tobacco passe une charge de 8,9 milliards de dollars après la saisie de ses filiales russes",
+      "en": "Japan Tobacco takes $8.9 billion charge over Russia seizure",
+      "es": "Japan Tobacco asume un cargo de 8.900 millones de dólares por la incautación de sus filiales rusas"
+    },
+    "summary": {
+      "fr": "Japan Tobacco va inscrire une charge d'environ 1 400 milliards de yens (8,9 milliards de dollars) après avoir perdu le contrôle de ses filiales en Russie, ce qui fera basculer le groupe dans une perte nette annuelle, selon The Japan Times.",
+      "en": "Japan Tobacco will book a charge of about ¥1.4 trillion ($8.9 billion) after losing control of its Russian subsidiaries, pushing the group to a full-year net loss, according to The Japan Times.",
+      "es": "Japan Tobacco registrará un cargo de unos 1,4 billones de yenes (8.900 millones de dólares) tras perder el control de sus filiales en Rusia, lo que llevará al grupo a pérdidas netas anuales, según The Japan Times."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Annonce de la dépréciation liée à la Russie.",
+          "en": "Russia-related write-down announced.",
+          "es": "Anuncio del deterioro vinculado a Rusia."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "bresil-fin-6x1",
+    "coords": [
+      -47.8825,
+      -15.7942
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "economie",
+    "icon": "🗓",
+    "source": "Agência Gov (EBC) / Gazeta do Povo / O Povo",
+    "place": {
+      "fr": "Brasília, Brésil",
+      "en": "Brasília, Brazil",
+      "es": "Brasilia, Brasil"
+    },
+    "title": {
+      "fr": "Lula signe le décret mettant fin à la semaine de six jours de travail",
+      "en": "Lula signs decree ending the six-day work week",
+      "es": "Lula firma el decreto que pone fin a la semana laboral de seis días"
+    },
+    "summary": {
+      "fr": "Le président Lula a signé le 19 novembre le décret n° 13.173/2026 qui encadre la transition du régime « 6x1 » (six jours travaillés, un de repos) vers un modèle 5x2, en application de l'amendement constitutionnel 141/2026. La durée hebdomadaire passera de 44 à 42 heures le 16 décembre 2026, puis à 40 heures le 16 décembre 2027. Le Tribunal suprême fédéral doit encore se prononcer sur certains aspects du calendrier.",
+      "en": "President Lula signed Decree No. 13,173/2026 on November 19, regulating the transition from the '6x1' schedule (six working days, one rest day) to a 5x2 model, under Constitutional Amendment 141/2026. The weekly limit will fall from 44 to 42 hours on December 16, 2026, then to 40 hours on December 16, 2027. The Supreme Federal Court has yet to rule on some aspects of the timetable.",
+      "es": "El presidente Lula firmó el 19 de noviembre el decreto n.º 13.173/2026, que regula la transición de la jornada «6x1» (seis días de trabajo, uno de descanso) a un modelo 5x2, en aplicación de la enmienda constitucional 141/2026. La jornada semanal bajará de 44 a 42 horas el 16 de diciembre de 2026 y a 40 horas el 16 de diciembre de 2027. El Supremo Tribunal Federal aún debe pronunciarse sobre aspectos del calendario."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Signature du décret au palais présidentiel.",
+          "en": "Decree signed at the presidential palace.",
+          "es": "Firma del decreto en el palacio presidencial."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "nigeria-lagos-meeting-obi",
+    "coords": [
+      3.3792,
+      6.5244
+    ],
+    "status": "recoupement",
+    "severe": true,
+    "category": "securite",
+    "icon": "⚠",
+    "source": "Africanews / The Rio Times",
+    "place": {
+      "fr": "Lagos, Nigeria",
+      "en": "Lagos, Nigeria",
+      "es": "Lagos, Nigeria"
+    },
+    "title": {
+      "fr": "Violences électorales au Nigeria : un meeting de Peter Obi attaqué à Lagos",
+      "en": "Election violence in Nigeria: Peter Obi campaign event attacked in Lagos",
+      "es": "Violencia electoral en Nigeria: atacado un acto de campaña de Peter Obi en Lagos"
+    },
+    "summary": {
+      "fr": "Des hommes armés ont attaqué le 12 novembre des partisans et des journalistes lors d'une réunion publique du Nigeria Democratic Congress (NDC) de l'opposant Peter Obi à Lagos, selon Africanews. Le conseil de campagne présidentielle de l'APC (parti au pouvoir) a condamné l'attaque et l'APC de Lagos a nié toute implication. D'autres incidents ont été signalés à Abuja et Kano à l'approche du scrutin ; leurs circonstances sont contestées selon les camps.",
+      "en": "Armed men attacked supporters and journalists on November 12 at a town hall of opposition figure Peter Obi's Nigeria Democratic Congress (NDC) in Lagos, according to Africanews. The ruling APC's presidential campaign council condemned the attack and the Lagos APC denied any involvement. Other incidents were reported in Abuja and Kano ahead of the vote; their circumstances are disputed by the different camps.",
+      "es": "Hombres armados atacaron el 12 de noviembre a simpatizantes y periodistas en un acto del Nigeria Democratic Congress (NDC) del opositor Peter Obi en Lagos, según Africanews. El consejo de campaña presidencial del APC (partido gobernante) condenó el ataque y el APC de Lagos negó cualquier implicación. Se registraron otros incidentes en Abuja y Kano antes de la votación; sus circunstancias son disputadas por los distintos bandos."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "12/11/2026",
+          "en": "12/11/2026",
+          "es": "12/11/2026"
+        },
+        "d": {
+          "fr": "Attaque contre la réunion publique du NDC à Lagos.",
+          "en": "Attack on the NDC town hall in Lagos.",
+          "es": "Ataque contra el acto del NDC en Lagos."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 3
+  },
+  {
+    "id": "ue-royaume-uni-accord",
+    "coords": [
+      4.3517,
+      50.8503
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "🇪🇺",
+    "source": "Al Jazeera / The Washington Post",
+    "place": {
+      "fr": "Bruxelles, Belgique",
+      "en": "Brussels, Belgium",
+      "es": "Bruselas, Bélgica"
+    },
+    "title": {
+      "fr": "Dix ans après le Brexit, l'UE et le Royaume-Uni scellent un accord de « réinitialisation »",
+      "en": "Ten years after Brexit, EU and UK seal a 'reset' deal",
+      "es": "Diez años después del Brexit, la UE y el Reino Unido sellan un acuerdo de «reinicio»"
+    },
+    "summary": {
+      "fr": "Lors d'un sommet à Bruxelles le 20 novembre, l'Union européenne et le Royaume-Uni du Premier ministre Andy Burnham ont conclu un accord couvrant les produits alimentaires et animaux, la mobilité et les frais de scolarité, selon Al Jazeera. Le volet mobilité permettrait à 100 000 jeunes Européens de vivre et travailler au Royaume-Uni jusqu'à trois ans. La question des frais universitaires reste à régler : Bruxelles a fixé un délai de six mois avant la signature de l'ensemble. Nigel Farage a qualifié l'approche de « naïve ».",
+      "en": "At a summit in Brussels on November 20, the European Union and Prime Minister Andy Burnham's United Kingdom reached a deal covering food and animal goods, mobility and student fees, according to Al Jazeera. The mobility strand would let 100,000 young Europeans live and work in the UK for up to three years. Tuition fees remain unresolved: Brussels has set a six-month deadline before the whole package can be signed. Nigel Farage called the approach 'naive'.",
+      "es": "En una cumbre en Bruselas el 20 de noviembre, la Unión Europea y el Reino Unido del primer ministro Andy Burnham alcanzaron un acuerdo sobre productos alimentarios y animales, movilidad y tasas universitarias, según Al Jazeera. La parte de movilidad permitiría a 100.000 jóvenes europeos vivir y trabajar en el Reino Unido hasta tres años. Las tasas universitarias siguen pendientes: Bruselas fijó un plazo de seis meses antes de firmar el conjunto. Nigel Farage calificó el enfoque de «ingenuo»."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Accord annoncé à l'issue du sommet UE–Royaume-Uni.",
+          "en": "Deal announced at the end of the EU–UK summit.",
+          "es": "Acuerdo anunciado al término de la cumbre UE–Reino Unido."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "allemagne-ig-metall-greves",
+    "coords": [
+      11.425,
+      48.7665
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "economie",
+    "icon": "✊",
+    "source": "IG Metall / ZDFheute / Autohaus",
+    "place": {
+      "fr": "Ingolstadt et Munich, Bavière, Allemagne",
+      "en": "Ingolstadt and Munich, Bavaria, Germany",
+      "es": "Ingolstadt y Múnich, Baviera, Alemania"
+    },
+    "title": {
+      "fr": "IG Metall lance des grèves d'avertissement de 24 heures chez Audi, BMW et ZF",
+      "en": "IG Metall launches 24-hour warning strikes at Audi, BMW and ZF",
+      "es": "IG Metall lanza huelgas de advertencia de 24 horas en Audi, BMW y ZF"
+    },
+    "summary": {
+      "fr": "Le syndicat IG Metall a déclenché des grèves d'avertissement d'une journée entière dans la métallurgie et l'électro-industrie à partir du soir du 19 novembre, notamment chez BMW à Munich et Audi à Ingolstadt, ainsi que dans une vingtaine d'entreprises du Bade-Wurtemberg. Le syndicat juge insuffisante l'offre patronale de 1,3 % d'augmentation à partir de juillet 2028 ; les employeurs n'ont pas été cités par les sources consultées.",
+      "en": "The IG Metall union launched full-day warning strikes in the metal and electrical industry from the evening of November 19, notably at BMW in Munich and Audi in Ingolstadt, as well as at about twenty companies in Baden-Württemberg. The union considers insufficient the employers' offer of a 1.3% raise from July 2028; employers' views were not quoted in the sources consulted.",
+      "es": "El sindicato IG Metall inició huelgas de advertencia de un día completo en la industria metalúrgica y eléctrica desde la noche del 19 de noviembre, en particular en BMW en Múnich y Audi en Ingolstadt, y en una veintena de empresas de Baden-Wurtemberg. El sindicato considera insuficiente la oferta patronal de un 1,3 % de aumento a partir de julio de 2028; las fuentes consultadas no citan a la patronal."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Premiers arrêts de travail de 24 h, dont BMW Munich-Milbertshofen.",
+          "en": "First 24-hour stoppages, including BMW Munich-Milbertshofen.",
+          "es": "Primeros paros de 24 h, incluido BMW Múnich-Milbertshofen."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Grève d'une journée à l'usine Audi d'Ingolstadt.",
+          "en": "Full-day strike at the Audi plant in Ingolstadt.",
+          "es": "Huelga de un día en la planta de Audi en Ingolstadt."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "france-proces-zecler",
+    "coords": [
+      2.3522,
+      48.8566
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "justice",
+    "icon": "⚖",
+    "source": "RTBF / franceinfo",
+    "place": {
+      "fr": "Paris, France",
+      "en": "Paris, France",
+      "es": "París, Francia"
+    },
+    "title": {
+      "fr": "Affaire Zecler : trois policiers condamnés à de la prison ferme",
+      "en": "Zecler case: three police officers sentenced to prison",
+      "es": "Caso Zecler: tres policías condenados a prisión"
+    },
+    "summary": {
+      "fr": "La cour criminelle de Paris a condamné le 20 novembre trois policiers à des peines de un à deux ans de prison ferme pour le passage à tabac du producteur de musique Michel Zecler en 2020, en retenant la circonstance aggravante de racisme, selon RTBF. Le parquet avait requis quatre à six ans. Les modalités d'exécution diffèrent selon les condamnés (mandat de dépôt différé ou bracelet électronique possible).",
+      "en": "The Paris criminal court on November 20 sentenced three police officers to one to two years in prison for the 2020 beating of music producer Michel Zecler, upholding the aggravating circumstance of racism, according to RTBF. Prosecutors had sought four to six years. Enforcement terms differ between the convicted officers (deferred committal or possible electronic tagging).",
+      "es": "El tribunal penal de París condenó el 20 de noviembre a tres policías a penas de uno a dos años de prisión por la paliza al productor musical Michel Zecler en 2020, reteniendo la agravante de racismo, según RTBF. La fiscalía había pedido de cuatro a seis años. Las condiciones de cumplimiento difieren según los condenados (ingreso diferido o posible pulsera electrónica)."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Verdict rendu dans la soirée par la cour criminelle de Paris.",
+          "en": "Verdict delivered in the evening by the Paris criminal court.",
+          "es": "Veredicto pronunciado por la noche por el tribunal penal de París."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 1
+  },
+  {
+    "id": "mexique-sinaloa-mocorito",
+    "coords": [
+      -107.92,
+      25.48
+    ],
+    "status": "recoupement",
+    "severe": false,
+    "category": "securite",
+    "icon": "🚔",
+    "source": "UPI / Publimetro",
+    "place": {
+      "fr": "Mocorito, Sinaloa, Mexique",
+      "en": "Mocorito, Sinaloa, Mexico",
+      "es": "Mocorito, Sinaloa, México"
+    },
+    "title": {
+      "fr": "Six suspects liés au cartel de Sinaloa arrêtés à Mocorito et transférés à Mexico",
+      "en": "Six Sinaloa Cartel-linked suspects arrested in Mocorito and moved to Mexico City",
+      "es": "Seis presuntos ligados al Cártel de Sinaloa detenidos en Mocorito y trasladados a la Ciudad de México"
+    },
+    "summary": {
+      "fr": "Les autorités mexicaines ont transféré à Mexico six membres présumés d'un groupe criminel lié au cartel de Sinaloa, arrêtés dans la commune de Mocorito (localité de Mazate de los López selon Publimetro), d'après la Marine mexicaine citée par UPI. Ces arrestations s'inscrivent dans les opérations fédérales contre les violences dans l'État.",
+      "en": "Mexican authorities moved to Mexico City six suspected members of a criminal group linked to the Sinaloa Cartel, arrested in the municipality of Mocorito (in Mazate de los López, according to Publimetro), per the Mexican Navy as cited by UPI. The arrests are part of federal operations against violence in the state.",
+      "es": "Las autoridades mexicanas trasladaron a la Ciudad de México a seis presuntos miembros de un grupo criminal ligado al Cártel de Sinaloa, detenidos en el municipio de Mocorito (en Mazate de los López, según Publimetro), de acuerdo con la Marina citada por UPI. Las detenciones forman parte de operativos federales contra la violencia en el estado."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "19/11/2026",
+          "en": "19/11/2026",
+          "es": "19/11/2026"
+        },
+        "d": {
+          "fr": "Arrestations à Mazate de los López (Mocorito).",
+          "en": "Arrests in Mazate de los López (Mocorito).",
+          "es": "Detenciones en Mazate de los López (Mocorito)."
+        },
+        "active": false
+      },
+      {
+        "t": {
+          "fr": "20/11/2026",
+          "en": "20/11/2026",
+          "es": "20/11/2026"
+        },
+        "d": {
+          "fr": "Transfert des six suspects à Mexico.",
+          "en": "The six suspects are moved to Mexico City.",
+          "es": "Traslado de los seis sospechosos a la Ciudad de México."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "bresil-singapour-football",
+    "coords": [
+      103.8743,
+      1.3043
+    ],
+    "status": "confirme",
+    "severe": false,
+    "category": "sport",
+    "icon": "⚽",
+    "source": "Al Jazeera / Flashscore / NST",
+    "place": {
+      "fr": "Stade national, Singapour",
+      "en": "National Stadium, Singapore",
+      "es": "Estadio Nacional, Singapur"
+    },
+    "title": {
+      "fr": "Le Brésil écrase Singapour 7-0, triplé de Vinicius Junior",
+      "en": "Brazil crush Singapore 7-0 as Vinicius Junior hits a hat-trick",
+      "es": "Brasil golea 7-0 a Singapur con triplete de Vinicius Junior"
+    },
+    "summary": {
+      "fr": "En match amical au Stade national de Singapour le 17 novembre, le Brésil s'est imposé 7-0, porté par un triplé de Vinicius Junior en première mi-temps. Endrick, Estêvão, Rayan et un but contre son camp complètent le score. Les Brésiliens, privés de leur sélectionneur Carlo Ancelotti suspendu, se relevaient d'une défaite 3-2 face au Japon.",
+      "en": "In a friendly at Singapore's National Stadium on November 17, Brazil won 7-0, led by a first-half hat-trick from Vinicius Junior. Endrick, Estêvão, Rayan and an own goal completed the scoring. Brazil, without suspended coach Carlo Ancelotti, were bouncing back from a 3-2 defeat to Japan.",
+      "es": "En un amistoso en el Estadio Nacional de Singapur el 17 de noviembre, Brasil ganó 7-0 con un triplete de Vinicius Junior en la primera parte. Endrick, Estêvão, Rayan y un gol en propia puerta completaron el marcador. Brasil, sin su seleccionador Carlo Ancelotti, suspendido, se recuperaba de una derrota 3-2 ante Japón."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "17/11/2026",
+          "en": "17/11/2026",
+          "es": "17/11/2026"
+        },
+        "d": {
+          "fr": "Singapour 0-7 Brésil.",
+          "en": "Singapore 0-7 Brazil.",
+          "es": "Singapur 0-7 Brasil."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 2
+  },
+  {
+    "id": "egypte-matsadash-journalistes",
+    "coords": [
+      31.2357,
+      30.0444
+    ],
+    "status": "brut",
+    "severe": false,
+    "category": "justice",
+    "icon": "📰",
+    "source": "ONU Info (UN News)",
+    "place": {
+      "fr": "Le Caire, Égypte",
+      "en": "Cairo, Egypt",
+      "es": "El Cairo, Egipto"
+    },
+    "title": {
+      "fr": "Égypte : toute la rédaction d'un site de vérification des faits en détention, selon l'ONU",
+      "en": "Egypt: an entire fact-checking newsroom in detention, says the UN",
+      "es": "Egipto: toda la redacción de un sitio de verificación, detenida, según la ONU"
+    },
+    "summary": {
+      "fr": "Des experts des droits humains de l'ONU ont indiqué le 10 novembre que les six journalistes formant toute la rédaction du site égyptien de fact-checking Matsadash étaient toujours détenus, et ont appelé l'Égypte à cesser le harcèlement des journalistes. La position des autorités égyptiennes n'est pas citée par la source.",
+      "en": "UN human rights experts said on November 10 that the six journalists making up the entire newsroom of the Egyptian fact-checking site Matsadash remained in detention, and urged Egypt to stop harassing journalists. The Egyptian authorities' position is not cited by the source.",
+      "es": "Expertos de derechos humanos de la ONU indicaron el 10 de noviembre que los seis periodistas que forman toda la redacción del sitio egipcio de verificación Matsadash seguían detenidos, e instaron a Egipto a dejar de acosar a periodistas. La fuente no cita la posición de las autoridades egipcias."
+    },
+    "timeline": [
+      {
+        "t": {
+          "fr": "10/11/2026",
+          "en": "10/11/2026",
+          "es": "10/11/2026"
+        },
+        "d": {
+          "fr": "Déclaration des experts de l'ONU.",
+          "en": "Statement by UN experts.",
+          "es": "Declaración de los expertos de la ONU."
+        },
+        "active": true
+      }
+    ],
+    "week": "2026-W47",
+    "priority": 3
   }
 ]
